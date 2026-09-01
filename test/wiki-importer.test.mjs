@@ -99,7 +99,10 @@ test('import resumes and produces exact revision and media manifests', async () 
     apiUrl: 'https://hayday.fandom.com/api.php',
     async siteInfo() {
       return {
-        query: { general: { wikiid: 'haydaywiki', sitename: 'Hay Day Wiki' } },
+        query: {
+          general: { wikiid: 'haydaywiki', sitename: 'Hay Day Wiki' },
+          rightsinfo: { text: 'CC-BY-SA', url: 'https://www.fandom.com/licensing' },
+        },
       };
     },
     async allPages(namespace) {
@@ -134,6 +137,11 @@ test('import resumes and produces exact revision and media manifests', async () 
   const first = await importer.run();
   assert.equal(first.completeness.complete, true);
   assert.equal(first.pages[0].revisionId, 55);
+  assert.deepEqual(first.pages[0].attribution.textLicense, {
+    label: 'CC-BY-SA',
+    url: 'https://www.fandom.com/licensing',
+    version: null,
+  });
   assert.equal(first.media[0].verdict, 'missing-upstream');
   await importer.run();
   assert.equal(revisionCalls, 1);
