@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { BookOpen, ChevronRight, FolderTree, ImageIcon, Info, Leaf, Menu, Search, Settings, ShieldCheck, SlidersHorizontal, Sprout } from 'lucide-react';
+import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 
@@ -21,15 +22,14 @@ const recent = [
 ];
 
 const nav = [
-  { label: 'Discover', icon: Leaf },
-  { label: 'All articles', icon: BookOpen },
-  { label: 'Categories', icon: FolderTree },
-  { label: 'Media', icon: ImageIcon },
-  { label: 'Settings', icon: Settings },
+  { label: 'Discover', icon: Leaf, href: '/' },
+  { label: 'All articles', icon: BookOpen, href: '/all-pages' },
+  { label: 'Categories', icon: FolderTree, href: '/category' },
+  { label: 'Media', icon: ImageIcon, href: '/media' },
+  { label: 'Settings', icon: Settings, href: '/settings' },
 ];
 
 export default function Home() {
-  const [active, setActive] = useState('Discover');
   const [query, setQuery] = useState('');
   const filtered = useMemo(() => recent.filter(([title, detail]) => `${title} ${detail}`.toLowerCase().includes(query.toLowerCase())), [query]);
 
@@ -41,10 +41,10 @@ export default function Home() {
           <span><strong>Hay Day</strong><small>Wiki Archive</small></span>
         </a>
         <nav className="rail-nav" aria-label="Archive sections">
-          {nav.map(({ label, icon: Icon }) => (
-            <button key={label} className={active === label ? 'rail-link active' : 'rail-link'} onClick={() => setActive(label)}>
+          {nav.map(({ label, icon: Icon, href }) => (
+            <Link key={label} href={href} className={label === 'Discover' ? 'rail-link active' : 'rail-link'}>
               <Icon aria-hidden="true" /><span>{label}</span>
-            </button>
+            </Link>
           ))}
         </nav>
         <div className="rail-note"><ShieldCheck aria-hidden="true" /><p><strong>Read-only snapshot</strong><br />Source revisions and attribution stay attached to every imported article.</p></div>
