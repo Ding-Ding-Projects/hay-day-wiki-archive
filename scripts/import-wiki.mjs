@@ -5,7 +5,7 @@ import { WikiImporter } from '../lib/wiki/importer.mjs';
 
 const args = parseArgs(process.argv.slice(2));
 if (args.help) {
-  console.log(`Usage: npm run import -- [options]\n\nOptions:\n  --api <url>                MediaWiki API endpoint\n  --out <directory>          Generated content directory\n  --state <file>             Resumable private state file\n  --namespaces <ids>         Comma-separated namespace ids\n  --concurrency <1-8>        Bounded request concurrency\n  --max-pages <count>        Limit pages for a review import\n  --resume <true|false>      Resume the existing import state\n  --reusable-rights <names>  Explicit reusable media rights\n  --user-agent <value>       Importer user agent\n  --help                     Show this help without importing`);
+  console.log(`Usage: npm run import -- [options]\n\nOptions:\n  --api <url>                MediaWiki API endpoint\n  --out <directory>          Generated content directory\n  --state <file>             Resumable private state file\n  --namespaces <ids>         Comma-separated namespace ids\n  --concurrency <1-8>        Bounded request concurrency\n  --max-retries <count>      Retry attempts after the first request\n  --request-timeout <ms>     Per-request deadline in milliseconds\n  --max-pages <count>        Limit pages for a review import\n  --resume <true|false>      Resume the existing import state\n  --reusable-rights <names>  Explicit reusable media rights\n  --user-agent <value>       Importer user agent\n  --help                     Show this help without importing`);
   process.exit(0);
 }
 const outputDir = resolve(args.out ?? 'content/wiki');
@@ -17,6 +17,8 @@ const namespaces = (args.namespaces ?? '0,4,12,14')
 const client = new MediaWikiClient({
   apiUrl: args.api ?? 'https://hayday.fandom.com/api.php',
   concurrency: Number(args.concurrency ?? 3),
+  maxRetries: Number(args['max-retries'] ?? 2),
+  requestTimeoutMs: Number(args['request-timeout'] ?? 15_000),
   userAgent: args['user-agent'],
 });
 const importer = new WikiImporter({
