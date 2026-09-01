@@ -27,6 +27,7 @@ async function main() {
   if (!Array.isArray(manifest.routes) || manifest.routes.length === 0 || !manifest.routes.includes('/')) throw new Error('manifest has no root route');
   for (const route of manifest.routes) {
     if (typeof route !== 'string' || !route.startsWith('/') || route.startsWith('//') || route.includes('..')) throw new Error(`unsafe route in manifest: ${route}`);
+    if (route.includes('%')) throw new Error(`route still contains a percent-encoded filesystem segment: ${route}`);
     const path = route === '/' ? join(outputDir, 'index.html') : join(outputDir, route.slice(1), 'index.html');
     await fs.access(path);
     const html = await fs.readFile(path, 'utf8');

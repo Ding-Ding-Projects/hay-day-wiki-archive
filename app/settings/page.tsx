@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Slider } from '@/components/ui/slider';
 import { Switch } from '@/components/ui/switch';
+import { publicRoute } from '@/lib/archive';
 
 type ReaderSettings = {
   language: 'en' | 'zh-HK' | 'bilingual';
@@ -55,7 +56,7 @@ export default function SettingsPage() {
 
   return (
     <main className="simple-page settings-page">
-      <Link className="back-link" href="/"><ArrowLeft aria-hidden="true" /> Archive home</Link>
+      <Link className="back-link" href={publicRoute('/')}><ArrowLeft aria-hidden="true" /> Archive home</Link>
       <header className="simple-hero"><p className="eyebrow"><Sparkles aria-hidden="true" /> Local reader preferences</p><h1>Settings</h1><p>These controls affect this browser only. They do not edit the imported wiki, contact a server, or change the archive’s stable identity.</p></header>
       <search className="settings-search">
         <Search aria-hidden="true" /><Input value={regexOpen ? pattern : query} onChange={(event) => regexOpen ? setPattern(event.target.value) : setQuery(event.target.value)} placeholder={regexOpen ? 'Regular expression pattern' : 'Search settings'} aria-label={regexOpen ? 'Settings regular expression' : 'Search settings'} />

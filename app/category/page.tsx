@@ -3,11 +3,11 @@
 import { useEffect, useState } from 'react';
 import { ArchiveNav } from '@/components/archive-nav';
 import { ArchiveSearch } from '@/components/archive-search';
-import { fetchArchiveJson, type ArticleIndexItem } from '@/lib/archive';
+import { fetchArchiveValues, type ArticleIndexItem } from '@/lib/archive';
 
 export default function CategoriesPage() {
   const [articles, setArticles] = useState<ArticleIndexItem[]>([]);
-  useEffect(() => { void fetchArchiveJson<ArticleIndexItem[]>('articles.json').then(setArticles).catch(() => setArticles([])); }, []);
+  useEffect(() => { void fetchArchiveValues<ArticleIndexItem>('articles.json').then(setArticles).catch(() => setArticles([])); }, []);
   const categories = articles.filter((item) => item.namespace === 14);
   return <main className="simple-page reader-page">
     <ArchiveNav />

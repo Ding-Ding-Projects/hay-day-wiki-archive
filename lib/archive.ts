@@ -56,7 +56,11 @@ export function archiveAsset(path: string): string {
 export function publicRoute(route: string): string {
   if (typeof window === 'undefined') return route;
   const base = window.location.pathname.startsWith('/hay-day-wiki-archive/') ? '/hay-day-wiki-archive' : '';
-  return `${base}${route}`;
+  return `${base}${publishedRoute(route)}`;
+}
+
+export function publishedRoute(route: string): string {
+  return route.replaceAll('%', '~');
 }
 
 export function currentArchiveSegments(prefix: 'wiki' | 'media'): string[] {
@@ -72,11 +76,17 @@ export function rewriteArchiveHtml(html: string): string {
     const alt = tag.match(/\balt=(?:"([^"]*)"|'([^']*)')/i)?.slice(1).find(Boolean) ?? 'Referenced media';
     return `<span class="archived-media-placeholder" role="img" aria-label="${alt.replace(/[&<>"']/g, '')}">${alt.replace(/[&<>]/g, '')}</span>`;
   });
-  return base ? withoutRemoteImages.replace(/href="\/(?!\/)/g, `href="${base}/`) : withoutRemoteImages;
+  const withStaticRoutes = withoutRemoteImages.replace(/href="(\/(?:wiki|media)\/[^"#?]+)([^" ]*)"/gi, (_match, route, suffix) => `href="${publishedRoute(route)}${suffix}"`);
+  return base ? withStaticRoutes.replace(/href="\/(?!\/)/g, `href="${base}/`) : withStaticRoutes;
 }
 
 export async function fetchArchiveJson<T>(path: string): Promise<T> {
   const response = await fetch(archiveAsset(path));
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json() as Promise<T>;
+}
+
+export async function fetchArchiveValues<T>(path: string): Promise<T[]> {
+  const payload = await fetchArchiveJson<T[] | Record<string, T>>(path);
+  return Array.isArray(payload) ? payload : Object.values(payload);
 }
