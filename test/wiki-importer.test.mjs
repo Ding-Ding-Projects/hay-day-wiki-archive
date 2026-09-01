@@ -154,6 +154,10 @@ test('import resumes and produces exact revision and media manifests', async () 
     url: 'https://www.fandom.com/licensing',
     version: null,
   });
+  assert.equal(
+    first.pages[0].attribution.sourcePermalink,
+    'https://hayday.fandom.com/wiki/Hay_Day?oldid=55',
+  );
   assert.equal(first.media[0].verdict, 'missing-upstream');
   await importer.run();
   assert.equal(revisionCalls, 1);
