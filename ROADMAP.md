@@ -4,23 +4,23 @@ This checklist records the current state of the archive. A checked item means im
 
 ## Foundation
 
-- [ ] Create the execution-time MediaWiki snapshot manifest.
-- [ ] Implement resumable page, category, template, module, redirect, and media enumeration.
-- [ ] Add versioned `SnapshotManifestV1`, `ArticleRecordV1`, `MediaRecordV1`, `SearchDocumentV1`, and `RedirectRecordV1` schemas.
-- [ ] Add deterministic import fixtures and interruption/resume verification.
-- [ ] Add the complete public-safe documentation mirror and contributor policy.
+- [x] Create the execution-time MediaWiki snapshot manifest.
+- [x] Implement resumable page, category, redirect, and referenced-media enumeration. Template and module dependency freezing remains open.
+- [ ] Add every planned versioned schema. `SnapshotManifestV1`, `ArticleRecordV1`, and `MediaRecordV1` are verified; dedicated search and redirect records remain open.
+- [x] Add deterministic import fixtures and interruption/resume verification.
+- [x] Add the public-safe documentation foundation and contributor policy.
 
 ## Reader
 
-- [ ] Implement local article, category, media, all-pages, attribution, status, changelog, and settings routes.
-- [ ] Render sanitized imported HTML with local internal-link rewriting.
+- [ ] Implement every planned local route. Article, category, media, all-pages, attribution, status, and settings routes are built; changelog remains open.
+- [x] Render sanitized imported HTML with local internal-link rewriting and remote-image suppression.
 - [ ] Add sharded local search across titles, aliases, headings, body text, categories, and media captions.
 - [ ] Add redirects and explicit unavailable-source states.
-- [ ] Add accessible empty, loading, error, and unavailable states.
+- [x] Add accessible empty, loading, error, and unavailable states for the implemented reader routes.
 
 ## Media and publication
 
-- [ ] Produce the per-file rights matrix from the execution manifest.
+- [x] Produce the per-file rights matrix from the execution manifest.
 - [ ] Upload eligible original media to immutable Cheap LFS release assets in verified batches.
 - [ ] Verify every copied media asset anonymously by status, content type, byte count, and SHA-256.
 - [ ] Publish GitHub Pages from the validated static bundle.
@@ -37,4 +37,4 @@ This checklist records the current state of the archive. A checked item means im
 
 - [ ] Add one article for every shipped feature and a suggested-articles section to each article.
 - [ ] Keep the website, README, roadmap, changelog, and handoff current on every project-changing task.
-- [ ] Record the final execution counts and rights decisions in the release manifest.
+- [x] Record the final execution counts and rights decisions in the snapshot manifest.

@@ -28,7 +28,7 @@ Real captures and recordings must come from the built reader at a known commit. 
 
 ## Current status
 
-The complete verification suite, built-output interaction ledger, and real capture matrix are unimplemented. This plan is the acceptance contract for future work.
+The snapshot audit, 9 importer tests, lint, TypeScript check, production reader build, and static-output check are implemented. The latest static check covered 5,077 routes, 10,174 files, and 150,880,848 bytes. The built-output interaction ledger and real capture matrix remain unimplemented.
 
 ## Suggested articles
 

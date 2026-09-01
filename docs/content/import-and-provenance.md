@@ -20,15 +20,19 @@ The importer will validate these public schemas:
 
 | Schema | Required purpose | Current status |
 | --- | --- | --- |
-| `SnapshotManifestV1` | Source identity, timing, counts, hashes, completeness | Unimplemented |
-| `ArticleRecordV1` | Revision-bound article content and relationships | Unimplemented |
-| `MediaRecordV1` | Rights, provenance, bytes, dimensions, and storage | Unimplemented |
+| `SnapshotManifestV1` | Source identity, timing, counts, hashes, completeness | Implemented and audited |
+| `ArticleRecordV1` | Revision-bound article content and relationships | Implemented and audited |
+| `MediaRecordV1` | Rights, provenance, bytes, dimensions, and storage | Implemented and audited |
 | `SearchDocumentV1` | Sharded local retrieval index | Unimplemented |
 | `RedirectRecordV1` | Local redirect resolution and loop checks | Unimplemented |
 
 ## Failure states
 
 Missing records, duplicate IDs or slugs, unsafe object keys, invalid schema versions, digest mismatches, unresolved redirect loops, and incomplete imports stop publication. The release report names the exact record class and count without hiding a partial snapshot behind a green label.
+
+## Current snapshot
+
+The frozen snapshot contains 1,362 article records and 3,708 referenced media records. Its content-manifest SHA-256 is `05efa4bafc434ca566664ed1c07dfde80856f6d55b67fedd9d0a974ddd71b3c3`; its media-manifest SHA-256 is `9359ae3d389c0186e1234cc56640a221b2d72925a1ee0c513d7f474897505c61`. The audit found zero unreferenced media records and zero missing references.
 
 ## Suggested articles
 

@@ -1,7 +1,6 @@
 name: Build Pages release
 
 on:
-  push:
   workflow_dispatch:
 
 permissions:
@@ -58,29 +57,3 @@ jobs:
       - name: Deploy Pages bundle
         id: deployment
         uses: actions/deploy-pages@v4
-
-  release:
-    needs: [build, deploy]
-    runs-on: ubuntu-24.04
-    steps:
-      - name: Download release inputs
-        uses: actions/download-artifact@v4
-        with:
-          name: pages-release-inputs
-          path: release-inputs
-      - name: Package static Pages bundle
-        run: tar -czf hay-day-wiki-archive-pages.tar.gz -C release-inputs/dist pages
-      - name: Publish one unique release
-        env:
-          GH_TOKEN: ${{ secrets.RELEASE_TOKEN || secrets.ORG_TOKEN || secrets.GITHUB_TOKEN }}
-        run: |
-          tag="pages-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
-          {
-            echo "Static Pages release for ${GITHUB_SHA}."
-            echo
-            echo "The published bundle is a static website. No installer is attached because Squirrel.Windows packaging is not implemented for this project."
-            echo
-            echo "Line count command: node scripts/count-lines.mjs"
-            cat release-inputs/line-count.md
-          } > release-notes.md
-          gh release create "$tag" hay-day-wiki-archive-pages.tar.gz --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" --title "Pages ${tag}" --notes-file release-notes.md

@@ -2,11 +2,21 @@
 
 ## Current state
 
-The repository contains the initial archive reader preview and the public-safe documentation foundation. The complete source import and media transfer have not been run. The preview must not be described as the full archive.
+The repository contains a complete execution-time metadata snapshot and a built archive reader. The snapshot holds 1,362 reader-facing records and 3,708 unique referenced media records. It records 3,559 source-link-only decisions, 120 missing-upstream decisions, and 29 external-embed decisions. No third-party media bytes have been copied.
 
 ## Source planning audit
 
-Planning identified 1,362 reader-facing records: 994 main-namespace articles and redirects, 354 categories, 3 Help records, and 11 Hay Day Wiki project records. It also identified 3,699 referenced media records, 452 external video records, 4,682 file-namespace records, 4,634 all-images inventory records, and about 1.898 GiB of original media. The file namespace and all-images inventory are different source views. These values are historical planning figures only. The execution-time manifest must supersede them.
+Planning identified 1,362 reader-facing records: 994 main-namespace articles and redirects, 354 categories, 3 Help records, and 11 Hay Day Wiki project records. Execution preserved all 1,362 records and resolved the actual article reference graph to 3,708 unique media identities. The broader source inventory still includes 4,634 all-images records and about 1.898 GiB of original media. Those broader records are not claimed as reader references.
+
+## Execution evidence
+
+- Snapshot manifest: `content/final/snapshot-manifest.json`
+- Content manifest SHA-256: `05efa4bafc434ca566664ed1c07dfde80856f6d55b67fedd9d0a974ddd71b3c3`
+- Media manifest SHA-256: `9359ae3d389c0186e1234cc56640a221b2d72925a1ee0c513d7f474897505c61`
+- Snapshot audit: 1,362 article files, 3,708 media files, zero unreferenced media records, and zero missing referenced-media records
+- Importer tests: 9 passed
+- Reader checks: lint passed, TypeScript passed, and the production build passed
+- Static output check: 5,077 routes, 10,174 files, 150,880,848 bytes
 
 ## Documentation lane
 
@@ -25,8 +35,8 @@ This lane adds:
 
 ## Verification
 
-The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. The initial preview was inspected as source context only. Built-reader interaction, complete importer execution, media upload, Pages publication, and full UI capture evidence remain unimplemented.
+The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. Import execution and static route generation are complete. Public Pages publication, copied-media transfer, built-reader interaction, and full UI capture evidence remain open.
 
 ## Next owner
 
-The next owner should begin with the execution manifest and importer schemas, then build the reader routes from validated records. Do not freeze the planning counts into code. Do not copy media until the per-file rights decision is recorded.
+The next owner should preserve the frozen manifests, publish the validated static output, and copy only media whose reusable rights are proven. Unknown and restricted media must stay source-link-only. The workflow intentionally does not create a release until a real installer path exists.

@@ -10,7 +10,7 @@ const featured = [
   { title: 'Crops', detail: 'Planting, harvest times, and field strategies', icon: Sprout, count: '57 articles' },
   { title: 'Products', detail: 'Production buildings, ingredients, and values', icon: Leaf, count: '312 articles' },
   { title: 'Animals', detail: 'Farm, pet, sanctuary, and visitor guides', icon: BookOpen, count: '86 articles' },
-  { title: 'Media library', detail: 'Referenced images, audio, and video sources', icon: ImageIcon, count: '3,699 observed' },
+  { title: 'Media library', detail: 'Referenced images, audio, and video sources', icon: ImageIcon, count: '3,708 records' },
 ];
 
 const recent = [
@@ -68,17 +68,17 @@ export default function Home() {
               <h1 id="hero-title">The farm knowledge base, replanted for easier reading.</h1>
               <p>Browse a reproducible, attributed snapshot of the reader-facing Hay Day Wiki without ads, trackers, account prompts, or community clutter.</p>
               <div className="hero-actions"><Button size="lg"><Search /> Search the archive</Button><Button size="lg" variant="outline"><FolderTree /> Browse categories</Button></div>
-              <dl className="snapshot-stats"><div><dt>Planning audit articles</dt><dd>994</dd></div><div><dt>Planning audit categories</dt><dd>354</dd></div><div><dt>Observed media</dt><dd>3,699</dd></div></dl>
+              <dl className="snapshot-stats"><div><dt>Reader records</dt><dd>1,362</dd></div><div><dt>Category pages</dt><dd>354</dd></div><div><dt>Media records</dt><dd>3,708</dd></div></dl>
             </div>
             <div className="hero-art" aria-label="Archive snapshot overview">
               <div className="snapshot-card">
                 <span className="feature-icon"><Sprout aria-hidden="true" /></span>
                 <p className="eyebrow">Snapshot pipeline</p>
                 <strong>Reader manifest</strong>
-                <span>Import manifest pending</span>
-                <div className="manifest-line"><i style={{ width: '82%' }} /><small>Articles</small></div>
-                <div className="manifest-line"><i style={{ width: '58%' }} /><small>Categories</small></div>
-                <div className="manifest-line"><i style={{ width: '94%' }} /><small>Media ledger</small></div>
+                <span>Exact-revision import complete</span>
+                <div className="manifest-line"><i style={{ width: '100%' }} /><small>Articles</small></div>
+                <div className="manifest-line"><i style={{ width: '100%' }} /><small>Categories</small></div>
+                <div className="manifest-line"><i style={{ width: '100%' }} /><small>Media ledger</small></div>
               </div>
             </div>
           </section>
@@ -93,7 +93,7 @@ export default function Home() {
           <section className="section-block recent-block" aria-labelledby="recent-title">
             <div className="section-heading"><div><p className="eyebrow">Reader index</p><h2 id="recent-title">Featured articles</h2></div><span className="result-count" aria-live="polite">{filtered.length} results</span></div>
             <div className="article-list">
-              {filtered.map(([title, detail]) => <a href="#article-preview" className="article-row" key={title}><span className="article-glyph"><BookOpen aria-hidden="true" /></span><span><strong>{title}</strong><small>{detail}</small></span><ChevronRight aria-hidden="true" /></a>)}
+              {filtered.map(([title, detail]) => <Link href={`/all-pages?query=${encodeURIComponent(title)}`} className="article-row" key={title}><span className="article-glyph"><BookOpen aria-hidden="true" /></span><span><strong>{title}</strong><small>{detail}</small></span><ChevronRight aria-hidden="true" /></Link>)}
               {filtered.length === 0 && <div className="empty-state"><Search aria-hidden="true" /><strong>No matching articles</strong><span>Clear the search or try a different phrase.</span></div>}
             </div>
           </section>

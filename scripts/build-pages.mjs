@@ -1,6 +1,6 @@
 import { spawn, spawnSync } from 'node:child_process';
 import { promises as fs } from 'node:fs';
-import { dirname, extname, join, normalize, relative, resolve, sep } from 'node:path';
+import { dirname, extname, join, relative, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
@@ -8,7 +8,7 @@ const BASE_PATH = '/hay-day-wiki-archive/';
 const MAX_OUTPUT_BYTES = 1024 * 1024 * 1024 - 1;
 const outputArg = process.argv.find((value) => value.startsWith('--output='));
 const outputDir = resolve(ROOT, outputArg ? outputArg.slice('--output='.length) : 'dist/pages');
-const port = Number(process.env.PAGES_PRERENDER_PORT || 4317);
+const port = Number(process.env.PAGES_PRERENDER_PORT || 43000 + (process.pid % 10000));
 const host = '127.0.0.1';
 
 const textExtensions = new Set(['.html', '.htm', '.js', '.mjs', '.css', '.json', '.svg', '.map', '.txt', '.xml']);
@@ -52,16 +52,16 @@ function routeFromValue(value, key, parentKey) {
   return null;
 }
 
-function collectRoutes(value, routes, key = '', parentKey = '') {
+function collectRoutes(value, routes, key = '') {
   if (Array.isArray(value)) {
-    for (const item of value) collectRoutes(item, routes, key, parentKey);
+    for (const item of value) collectRoutes(item, routes, key);
     return;
   }
   if (!value || typeof value !== 'object') return;
   for (const [childKey, childValue] of Object.entries(value)) {
     const route = routeFromValue(childValue, childKey, key);
     if (route) routes.add(route);
-    collectRoutes(childValue, routes, childKey, key);
+    collectRoutes(childValue, routes, childKey);
   }
 }
 
@@ -75,6 +75,7 @@ async function discoverRoutes() {
     routes.add(`/${relativeRoute}`);
   }
   const manifestCandidates = [
+    join(ROOT, 'content', 'final', 'snapshot-manifest.json'),
     join(ROOT, 'content-manifest.json'),
     join(ROOT, 'content', 'manifest.json'),
     join(ROOT, 'content', 'manifests', 'content.json'),
@@ -154,7 +155,7 @@ async function waitForServer(url, child) {
 async function renderRoutes(routes) {
   const cli = join(ROOT, 'node_modules', 'vinext', 'dist', 'cli.js');
   if (!(await exists(cli))) fail('the Vinext CLI is missing from node_modules after dependency installation');
-  const child = spawn(process.execPath, [cli, 'start', '--host', host, '--port', String(port)], {
+  const child = spawn(process.execPath, [cli, 'start', '--hostname', host, '--port', String(port)], {
     cwd: ROOT,
     stdio: ['ignore', 'inherit', 'inherit'],
     env: { ...process.env, NODE_ENV: 'production' },
@@ -164,15 +165,30 @@ async function renderRoutes(routes) {
   const stop = () => {
     if (child.exitCode === null) child.kill('SIGTERM');
   };
+  const waitForExit = async () => {
+    if (child.exitCode !== null) return;
+    await Promise.race([
+      new Promise((resolvePromise) => child.once('exit', resolvePromise)),
+      new Promise((resolvePromise) => setTimeout(resolvePromise, 5000)),
+    ]);
+    if (child.exitCode === null) child.kill('SIGKILL');
+  };
   process.once('exit', stop);
   try {
     await waitForServer(`http://${host}:${port}/`, child);
+    const templates = new Map();
     for (const route of routes) {
       const url = `http://${host}:${port}${route}`;
-      const { response, body } = await fetchText(url);
-      if (response.status < 200 || response.status >= 300) fail(`route ${route} returned HTTP ${response.status}`);
-      const contentType = response.headers.get('content-type') || '';
-      if (!contentType.includes('text/html')) fail(`route ${route} returned ${contentType}, not HTML`);
+      const templateKey = route.startsWith('/wiki/') ? 'wiki' : route.startsWith('/media/') && route !== '/media' ? 'media' : route;
+      let body = templates.get(templateKey);
+      if (!body) {
+        const result = await fetchText(url);
+        if (result.response.status < 200 || result.response.status >= 300) fail(`route ${route} returned HTTP ${result.response.status}`);
+        const contentType = result.response.headers.get('content-type') || '';
+        if (!contentType.includes('text/html')) fail(`route ${route} returned ${contentType}, not HTML`);
+        body = result.body;
+        templates.set(templateKey, body);
+      }
       const target = route === '/' ? join(outputDir, 'index.html') : join(outputDir, route.replace(/^\/+/, ''), 'index.html');
       await fs.mkdir(dirname(target), { recursive: true });
       await fs.writeFile(target, rewriteAssetReferences(body), 'utf8');
@@ -180,12 +196,14 @@ async function renderRoutes(routes) {
   } finally {
     process.removeListener('exit', stop);
     stop();
+    await waitForExit();
   }
 }
 
 async function copyStaticFiles() {
   await copyTree(join(ROOT, 'dist', 'client'), outputDir);
   await copyTree(join(ROOT, 'public'), outputDir);
+  await copyTree(join(ROOT, 'content', 'final'), join(outputDir, 'archive'));
   await fs.writeFile(join(outputDir, '.nojekyll'), '', 'utf8');
 }
 
