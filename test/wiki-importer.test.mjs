@@ -207,6 +207,7 @@ test('classifies source video pointers as consent-gated external media', () => {
     },
   });
   assert.equal(record.verdict, 'external-embed');
+  assert.equal(record.route, '/media/File%3AVideo');
   assert.equal(record.consentRequired, true);
 });
 
@@ -259,6 +260,7 @@ test('schema completeness regression turns red when a required field is removed,
         schemaVersion: 1,
         mediaId: 'File:X',
         title: 'File:X',
+        route: '/media/File%3AX',
         sourceUrl: 'x',
         descriptionUrl: 'x',
         verdict: 'not-a-verdict',
