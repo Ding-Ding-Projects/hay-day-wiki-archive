@@ -27,6 +27,7 @@ const importer = new WikiImporter({
     ? args['reusable-rights'].split(',')
     : [],
   includeNamespaces: namespaces,
+  pageConcurrency: Number(args.concurrency ?? 3),
   logger: (message) => console.error(message),
 });
 const manifest = await importer.run({
