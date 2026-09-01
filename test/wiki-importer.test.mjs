@@ -29,6 +29,18 @@ test('parses an exact old revision without sending an invalid pageid pair', asyn
   assert.equal(requested.searchParams.has('pageid'), false);
 });
 
+test('rejects a request that never settles within the configured deadline', async () => {
+  const client = new MediaWikiClient({
+    requestTimeoutMs: 1_000,
+    maxRetries: 0,
+    fetchImpl: async (_url, { signal }) =>
+      await new Promise((_resolve, reject) => {
+        signal.addEventListener('abort', () => reject(signal.reason), { once: true });
+      }),
+  });
+  await assert.rejects(() => client.siteInfo(), /failed after 1 attempts/);
+});
+
 test('sanitizes executable markup and rewrites known page and media links', () => {
   const pages = new Map([
     ['Crops', { pageid: 10, title: 'Crops', namespace: 0 }],
