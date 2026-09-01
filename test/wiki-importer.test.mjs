@@ -130,7 +130,7 @@ test('import resumes and produces exact revision and media manifests', async () 
         sections: [],
         categories: [],
         links: [],
-        images: [],
+        images: ['Unknown.png'],
       };
     },
     async imageInfo() {
@@ -159,6 +159,8 @@ test('import resumes and produces exact revision and media manifests', async () 
     'https://hayday.fandom.com/wiki/Hay_Day?oldid=55',
   );
   assert.equal(first.media[0].verdict, 'missing-upstream');
+  assert.equal(first.media.length, 1);
+  assert.equal(first.media[0].mediaId, 'File:Unknown.png');
   await importer.run();
   assert.equal(revisionCalls, 1);
   const diskManifest = JSON.parse(
@@ -166,6 +168,26 @@ test('import resumes and produces exact revision and media manifests', async () 
   );
   assert.equal(diskManifest.contentManifestDigest, first.contentManifestDigest);
   await rm(out, { recursive: true, force: true });
+});
+
+test('classifies source video pointers as consent-gated external media', () => {
+  const importer = new WikiImporter({
+    client: {},
+    outputDir: 'unused',
+    statePath: 'unused',
+  });
+  const record = importer.mediaRecord({
+    title: 'File:Video',
+    imageinfo: {
+      url: 'https://www.youtube.com/watch?v=abc',
+      descriptionurl: 'https://hayday.fandom.com/wiki/File:Video',
+      mime: 'video/youtube',
+      mediatype: 'VIDEO',
+      extmetadata: {},
+    },
+  });
+  assert.equal(record.verdict, 'external-embed');
+  assert.equal(record.consentRequired, true);
 });
 
 test('schema completeness regression turns red when a required field is removed, then green when restored', () => {
