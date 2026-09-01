@@ -35,7 +35,7 @@ test('sanitizes executable markup and rewrites known page and media links', () =
 
 test('records external video as an embed verdict without copying bytes', () => {
   const result = sanitizeHtml(
-    '<p><a href="https://youtu.be/abc">watch</a></p>',
+    '<p><iframe src="https://youtu.be/abc"></iframe></p>',
     {
       sourceBaseUrl: 'https://hayday.fandom.com/wiki/',
       pagesByTitle: new Map(),
