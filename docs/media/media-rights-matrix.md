@@ -13,7 +13,7 @@ The execution importer writes one `MediaRecordV1` for every distinct media recor
 
 ## Planning inventory
 
-The planning audit identified 3,707 distinct referenced media records, 452 external video records, 4,634 total source media records, and about 1.898 GiB of original media. These values are not frozen release counts. The execution manifest must account for every selected media title exactly once, including records that move from one decision to another after rights review.
+The planning audit identified 3,699 distinct referenced media records, 452 external video records, 4,682 file-namespace records, 4,634 all-images inventory records, and about 1.898 GiB of original media. The file namespace and all-images inventory are different source views. These values are not frozen release counts. The execution manifest must account for every selected media title exactly once, including records that move from one decision to another after rights review.
 
 ## Required metadata
 

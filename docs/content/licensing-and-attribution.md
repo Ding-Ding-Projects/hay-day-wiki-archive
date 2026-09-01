@@ -2,7 +2,7 @@
 
 ## Community-authored text
 
-Community-authored text is generally reused under CC BY-SA 3.0 according to Fandom's licensing guidance. Each imported article must carry the original title, source permalink pinned to the imported revision, a history or contributor link, import timestamp, transformation and sanitization note, and a link to the applicable license.
+Community-authored text is marked CC BY-SA in the source API evidence reviewed during planning. The importer must capture the exact license identifier and version from source evidence for each execution snapshot rather than assume a version. If the source evidence identifies CC BY-SA 3.0, the article links that exact license. Each imported article must carry the original title, source permalink pinned to the imported revision, a history or contributor link, import timestamp, transformation and sanitization note, and a link to the applicable license.
 
 The archive publishes adaptations under the applicable share-alike terms. It does not imply that every media file has the same license as the surrounding text.
 

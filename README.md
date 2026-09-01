@@ -22,21 +22,22 @@ The planning audit recorded these source figures:
 
 | Collection | Planning count | Meaning |
 | --- | ---: | --- |
+| Reader-facing included records | 1,362 | 994 main-namespace articles and redirects, 11 project records, 3 Help records, and 354 categories |
 | Main-namespace articles and redirects | 994 | Reader-facing article records found during planning |
 | Categories | 354 | Category routes and membership records found during planning |
 | Help records | 3 | Help and project guidance records found during planning |
 | Hay Day Wiki project records | 11 | Project-policy records found during planning |
-| Referenced media records | 3,707 | Distinct media records referenced by included reader content |
+| Referenced media records | 3,699 | Distinct media records referenced by included reader content |
 | External video records | 452 | External video references, mostly YouTube links |
-| Total source records | 30,575 | Source inventory total reported during planning |
-| Total media records | 4,634 | Source media inventory total reported during planning |
+| File-namespace records | 4,682 | File namespace records reported during planning |
+| All-images media records | 4,634 | All-images inventory records reported during planning, distinct from the file namespace |
 | Original media volume | About 1.898 GiB | Source-reported original media volume |
 
 These figures are planning values, not a claim about the final snapshot. The execution importer must create an immutable manifest after enumeration. That execution manifest is the source of truth for the release, including any source changes between planning and import, redirects, omitted namespaces, missing upstream records, and media rights decisions.
 
 ## Attribution and rights
 
-Imported community-authored text remains attributed to its original authors and source revision. Where the source record establishes the applicable terms, text adaptations are published under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), with the original title, revision permalink, history link, import time, and transformation note attached to the article.
+Imported community-authored text remains attributed to its original authors and source revision. Where source evidence establishes the applicable terms, the importer records the exact license identifier and version before publishing an adaptation. The planning audit points to CC BY-SA evidence, but the execution manifest must capture the exact version from the source rather than assume it. The article carries the original title, revision permalink, history link, import time, and transformation note.
 
 Media rights are evaluated per file. A media record can be preserved without copying its bytes when reuse rights are not established. The archive never guesses a license, silently changes a file, or presents a source-hosted file as a local copy. See the [media rights matrix](docs/media/media-rights-matrix.md).
 
@@ -56,4 +57,4 @@ The repository keeps a hand-written [feature completeness inventory](docs/archit
 
 ## License
 
-Implementation code is intended to use the MIT License. Imported text is handled under its source terms, generally CC BY-SA 3.0 for community-authored text. Media rights remain file-specific. See [LICENSE](LICENSE) and [docs/content/licensing-and-attribution.md](docs/content/licensing-and-attribution.md).
+Implementation code is intended to use the MIT License. Imported text is handled under its source terms, with the exact license version recorded from source evidence. Media rights remain file-specific. See [LICENSE](LICENSE) and [docs/content/licensing-and-attribution.md](docs/content/licensing-and-attribution.md).

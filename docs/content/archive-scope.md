@@ -12,7 +12,7 @@ The execution snapshot includes the source wiki's reader-facing knowledge base:
 - file descriptions, source links, dimensions, MIME types, byte sizes, revision identities, and rights metadata;
 - external video references as labelled external links or consent-to-load embeds.
 
-The planning audit found 994 article and redirect records, 354 categories, 3 Help records, 11 Hay Day Wiki project records, 3,707 referenced media records, and 452 external video records. These numbers must be replaced by the execution manifest at import time.
+The planning audit found 1,362 reader-facing records: 994 article and redirect records, 354 categories, 3 Help records, and 11 Hay Day Wiki project records. It also found 3,699 referenced media records and 452 external video records. The same audit reported 4,682 file-namespace records and 4,634 all-images inventory records, which are different source views. These numbers must be replaced by the execution manifest at import time.
 
 ## Excluded scope
 

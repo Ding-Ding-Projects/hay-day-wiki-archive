@@ -6,7 +6,7 @@ The repository contains the initial archive reader preview and the public-safe d
 
 ## Source planning audit
 
-Planning identified 994 main-namespace articles and redirects, 354 categories, 3 Help records, 11 Hay Day Wiki project records, 3,707 referenced media records, 452 external video records, 30,575 total source records, 4,634 total media records, and about 1.898 GiB of original media. These values are historical planning figures only. The execution-time manifest must supersede them.
+Planning identified 1,362 reader-facing records: 994 main-namespace articles and redirects, 354 categories, 3 Help records, and 11 Hay Day Wiki project records. It also identified 3,699 referenced media records, 452 external video records, 4,682 file-namespace records, 4,634 all-images inventory records, and about 1.898 GiB of original media. The file namespace and all-images inventory are different source views. These values are historical planning figures only. The execution-time manifest must supersede them.
 
 ## Documentation lane
 
