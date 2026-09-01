@@ -1,0 +1,7 @@
+# Content documentation
+
+- [Archive scope and exclusions](archive-scope.md)
+- [Import and provenance](import-and-provenance.md)
+- [Licensing and attribution](licensing-and-attribution.md)
+
+These articles define what belongs in the reader and how a release can be reproduced. They do not authorize importing excluded community conversation records.
