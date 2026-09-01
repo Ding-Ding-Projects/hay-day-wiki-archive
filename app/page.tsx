@@ -9,7 +9,7 @@ const featured = [
   { title: 'Crops', detail: 'Planting, harvest times, and field strategies', icon: Sprout, count: '57 articles' },
   { title: 'Products', detail: 'Production buildings, ingredients, and values', icon: Leaf, count: '312 articles' },
   { title: 'Animals', detail: 'Farm, pet, sanctuary, and visitor guides', icon: BookOpen, count: '86 articles' },
-  { title: 'Media library', detail: 'Referenced images, audio, and video sources', icon: ImageIcon, count: '3,707 records' },
+  { title: 'Media library', detail: 'Referenced images, audio, and video sources', icon: ImageIcon, count: '3,699 observed' },
 ];
 
 const recent = [
@@ -68,7 +68,7 @@ export default function Home() {
               <h1 id="hero-title">The farm knowledge base, replanted for easier reading.</h1>
               <p>Browse a reproducible, attributed snapshot of the reader-facing Hay Day Wiki without ads, trackers, account prompts, or community clutter.</p>
               <div className="hero-actions"><Button size="lg"><Search /> Search the archive</Button><Button size="lg" variant="outline"><FolderTree /> Browse categories</Button></div>
-              <dl className="snapshot-stats"><div><dt>Articles</dt><dd>994</dd></div><div><dt>Categories</dt><dd>354</dd></div><div><dt>Referenced media</dt><dd>3,707</dd></div></dl>
+              <dl className="snapshot-stats"><div><dt>Planning audit articles</dt><dd>994</dd></div><div><dt>Planning audit categories</dt><dd>354</dd></div><div><dt>Observed media</dt><dd>3,699</dd></div></dl>
             </div>
             <div className="hero-art" aria-label="Archive snapshot overview">
               <div className="snapshot-card">
