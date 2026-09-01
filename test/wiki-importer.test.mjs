@@ -41,6 +41,22 @@ test('rejects a request that never settles within the configured deadline', asyn
   await assert.rejects(() => client.siteInfo(), /failed after 1 attempts/);
 });
 
+test('collects page image properties across MediaWiki continuations', async () => {
+  let calls = 0;
+  const client = new MediaWikiClient({
+    fetchImpl: async () => {
+      calls += 1;
+      const body = calls === 1
+        ? { query: { pages: [{ pageid: 1, images: [{ title: 'File:A.png' }] }] }, continue: { imcontinue: '1|B', continue: '||' } }
+        : { query: { pages: [{ pageid: 1, images: [{ title: 'File:B.png' }] }] } };
+      return new Response(JSON.stringify(body), { status: 200 });
+    },
+  });
+  const mapping = await client.pageImages([1]);
+  assert.deepEqual(mapping.get(1), ['File:A.png', 'File:B.png']);
+  assert.equal(calls, 2);
+});
+
 test('sanitizes executable markup and rewrites known page and media links', () => {
   const pages = new Map([
     ['Crops', { pageid: 10, title: 'Crops', namespace: 0 }],

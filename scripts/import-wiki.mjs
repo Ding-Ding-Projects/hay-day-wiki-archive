@@ -5,7 +5,7 @@ import { WikiImporter } from '../lib/wiki/importer.mjs';
 
 const args = parseArgs(process.argv.slice(2));
 if (args.help) {
-  console.log(`Usage: npm run import -- [options]\n\nOptions:\n  --api <url>                MediaWiki API endpoint\n  --out <directory>          Generated content directory\n  --state <file>             Resumable private state file\n  --namespaces <ids>         Comma-separated namespace ids\n  --concurrency <1-8>        Bounded request concurrency\n  --max-retries <count>      Retry attempts after the first request\n  --request-timeout <ms>     Per-request deadline in milliseconds\n  --max-pages <count>        Limit pages for a review import\n  --resume <true|false>      Resume the existing import state\n  --reusable-rights <names>  Explicit reusable media rights\n  --user-agent <value>       Importer user agent\n  --help                     Show this help without importing`);
+  console.log(`Usage: npm run import -- [options]\n\nOptions:\n  --api <url>                MediaWiki API endpoint\n  --out <directory>          Generated content directory\n  --state <file>             Resumable private state file\n  --namespaces <ids>         Comma-separated namespace ids\n  --concurrency <1-8>        Bounded request concurrency\n  --max-retries <count>      Retry attempts after the first request\n  --request-timeout <ms>     Per-request deadline in milliseconds\n  --max-pages <count>        Limit pages for a review import\n  --resume <true|false>      Resume the existing import state\n  --refresh-media <boolean>  Rebuild media from frozen page image properties\n  --reusable-rights <names>  Explicit reusable media rights\n  --user-agent <value>       Importer user agent\n  --help                     Show this help without importing`);
   process.exit(0);
 }
 const outputDir = resolve(args.out ?? 'content/wiki');
@@ -35,6 +35,7 @@ const importer = new WikiImporter({
 const manifest = await importer.run({
   resume: args.resume !== 'false',
   maxPages: args['max-pages'] ? Number(args['max-pages']) : Infinity,
+  refreshMedia: args['refresh-media'] === 'true',
 });
 console.log(
   JSON.stringify(
