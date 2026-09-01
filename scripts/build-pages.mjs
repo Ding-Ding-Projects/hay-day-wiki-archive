@@ -101,7 +101,7 @@ async function discoverRoutes() {
     const slug = rel.slice(collection.length + 1).replace(/\.json$/, '').replaceAll('\\', '/');
     if (slug && !slug.endsWith('manifest')) routes.add(`/${collection === 'articles' ? 'wiki' : collection === 'files' ? 'media' : collection}/${slug}`);
   }
-  return [...routes].map((route) => route.replace(/\/+/g, '/')).sort((a, b) => a.localeCompare(b));
+  return [...routes].map((route) => route.replace(/\/+/g, '/').replaceAll('%', '~')).sort((a, b) => a.localeCompare(b));
 }
 
 function rewriteAssetReferences(text) {

@@ -17,12 +17,30 @@
       (function recoverProjectPath() {
         const base = '/hay-day-wiki-archive/';
         const requested = window.location.pathname;
-        const candidate = requested.startsWith(base) ? requested.slice(base.length) : '';
+        const candidate = requested.startsWith(base) ? requested.slice(base.length).replace(/^\/+|\/+$/g, '') : '';
         if (!candidate || candidate === '404.html') return;
-        const target = base + candidate.replace(/^\/+/, '') + '/index.html' + window.location.search + window.location.hash;
-        fetch(target, { method: 'HEAD', cache: 'no-store' }).then(function (response) {
-          if (response.ok) window.location.replace(target);
-        }).catch(function () { /* The visible recovery link remains available. */ });
+        const suffix = window.location.search + window.location.hash;
+        const direct = base + candidate + '/index.html' + suffix;
+        function publishedRoute(route) { return String(route).replaceAll('%', '~'); }
+        function go(target) {
+          fetch(target, { method: 'HEAD', cache: 'no-store' }).then(function (response) {
+            if (response.ok) window.location.replace(target);
+          }).catch(function () { /* The visible recovery link remains available. */ });
+        }
+        fetch(base + 'archive/articles.json', { cache: 'no-store' }).then(function (response) {
+          if (!response.ok) throw new Error('article index unavailable');
+          return response.json();
+        }).then(function (articles) {
+          const wanted = decodeURIComponent(candidate).replace(/[_]+/g, ' ').replace(/\s+/g, ' ').trim().toLowerCase();
+          const match = Object.values(articles).find(function (article) {
+            if (!article || typeof article !== 'object') return false;
+            const title = String(article.title || '').toLowerCase();
+            const route = publishedRoute(String(article.route || '')).replace(/^\/+|\/+$/g, '').toLowerCase();
+            return route === candidate.toLowerCase() || title === wanted || route.endsWith('/' + candidate.toLowerCase());
+          });
+          if (match && match.route) go(base + publishedRoute(String(match.route)).replace(/^\/+/, '') + '/index.html' + suffix);
+          else go(direct);
+        }).catch(function () { go(direct); });
       }());
     </script>
   </body>
