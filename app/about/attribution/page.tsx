@@ -1,11 +1,12 @@
 import { ArrowLeft, ExternalLink, Scale, ShieldCheck } from 'lucide-react';
+import Link from 'next/link';
 
 export const metadata = { title: 'Attribution · Hay Day Wiki Archive' };
 
 export default function AttributionPage() {
   return (
     <main className="simple-page">
-      <a className="back-link" href="/"><ArrowLeft aria-hidden="true" /> Archive home</a>
+      <Link className="back-link" href="/"><ArrowLeft aria-hidden="true" /> Archive home</Link>
       <header className="simple-hero"><p className="eyebrow"><Scale aria-hidden="true" /> Source and reuse</p><h1>Attribution and content policy</h1><p>The archive separates community text rights from individual media rights. A wiki-wide text license is not treated as permission to copy every uploaded file.</p></header>
       <section className="policy-grid">
         <article><ShieldCheck aria-hidden="true" /><h2>Community text</h2><p>Imported text will retain its original title, revision-pinned source link, source history link, import timestamp, transformation notice, and the exact license captured from the source.</p></article>

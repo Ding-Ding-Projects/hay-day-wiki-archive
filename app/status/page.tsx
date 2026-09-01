@@ -1,11 +1,12 @@
 import { ArrowLeft, CheckCircle2, Clock3, Database, FileImage, ShieldCheck } from 'lucide-react';
+import Link from 'next/link';
 
 export const metadata = { title: 'Snapshot Status · Hay Day Wiki Archive' };
 
 export default function StatusPage() {
   return (
     <main className="simple-page">
-      <a className="back-link" href="/"><ArrowLeft aria-hidden="true" /> Archive home</a>
+      <Link className="back-link" href="/"><ArrowLeft aria-hidden="true" /> Archive home</Link>
       <header className="simple-hero"><p className="eyebrow"><ShieldCheck aria-hidden="true" /> Honest archive status</p><h1>Snapshot status</h1><p>This screen reports only evidence that exists. The reader preview is built; the complete source import and media ledger are still running.</p></header>
       <section className="status-grid" aria-label="Archive status">
         <article><CheckCircle2 aria-hidden="true" /><span>Reader preview</span><strong>Built</strong><small>Commit 3ca875f · local build verified</small></article>
