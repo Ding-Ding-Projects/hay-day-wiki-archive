@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, readFile, rm } from 'node:fs/promises';
+import { mkdtemp, readFile, readdir, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { sanitizeHtml } from '../lib/wiki/sanitize.mjs';
@@ -8,6 +8,7 @@ import { MediaWikiClient } from '../lib/wiki/client.mjs';
 import { WikiImporter } from '../lib/wiki/importer.mjs';
 import {
   canonicalRoute,
+  sha256,
   validateArticleRecord,
   validateMediaRecord,
 } from '../lib/wiki/schemas.mjs';
@@ -177,6 +178,9 @@ test('import resumes and produces exact revision and media manifests', async () 
   assert.equal(first.media[0].verdict, 'missing-upstream');
   assert.equal(first.media.length, 1);
   assert.equal(first.media[0].mediaId, 'File:Unknown.png');
+  assert.deepEqual(await readdir(join(out, 'content', 'media')), [
+    `${sha256('File:Unknown.png')}.json`,
+  ]);
   await importer.run();
   assert.equal(revisionCalls, 1);
   const diskManifest = JSON.parse(

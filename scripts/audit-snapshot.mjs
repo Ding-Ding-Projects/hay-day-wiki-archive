@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFile } from 'node:fs/promises';
+import { readFile, readdir } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { validateManifest, validateArticleRecord, validateMediaRecord } from '../lib/wiki/schemas.mjs';
 
@@ -18,6 +18,8 @@ const unreferenced = manifest.media.filter((record) => !referenced.has(record.me
 const missingReferenced = [...referenced].filter(
   (mediaId) => !manifest.media.some((record) => record.mediaId === mediaId),
 );
+const articleFiles = await readdir(resolve(root, 'articles'));
+const mediaFiles = await readdir(resolve(root, 'media'));
 const sampleMissing = manifest.media
   .filter((record) => record.verdict === 'missing-upstream')
   .slice(0, 30)
@@ -33,6 +35,8 @@ console.log(JSON.stringify({
   verdicts,
   unreferencedMedia: unreferenced.length,
   missingReferencedMedia: missingReferenced.length,
+  articleFiles: articleFiles.length,
+  mediaFiles: mediaFiles.length,
   sampleMissing,
   contentManifestDigest: manifest.contentManifestDigest,
   mediaManifestDigest: manifest.mediaManifestDigest,
@@ -40,3 +44,5 @@ console.log(JSON.stringify({
 
 if (!manifest.completeness.complete) process.exitCode = 1;
 if (unreferenced.length || missingReferenced.length) process.exitCode = 1;
+if (articleFiles.length !== manifest.pages.length) process.exitCode = 1;
+if (mediaFiles.length !== manifest.media.length) process.exitCode = 1;
