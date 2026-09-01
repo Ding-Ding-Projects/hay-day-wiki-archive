@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "runtime": {
+    "name": "Node.js",
+    "versionConstraint": ">=22.13.0",
+    "source": "https://nodejs.org/",
+    "installScope": "user"
+  },
+  "projectDependencies": {
+    "manifest": "package-lock.json",
+    "installCommand": "npm ci --no-audit --no-fund",
+    "integritySource": "package-lock.json"
+  },
+  "notes": [
+    "The dependency fetcher never writes dependencies into the repository.",
+    "A static Pages publication has no installer payload, so build-installer.bat fails closed with the exact unsupported capability."
+  ]
+}

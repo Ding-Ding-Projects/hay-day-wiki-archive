@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="path-recovery" content="GitHub Pages project path recovery">
+    <title>Hay Day Wiki Archive | Page not found</title>
+    <style>body{font-family:system-ui,sans-serif;max-width:48rem;margin:8rem auto;padding:1rem;background:#fbf8f0;color:#21352b}a{color:#28724b}</style>
+  </head>
+  <body>
+    <main>
+      <h1>That archive path is not available</h1>
+      <p>The requested path could not be found in this published snapshot.</p>
+      <p><a href="/hay-day-wiki-archive/">Return to the archive home</a></p>
+    </main>
+    <script>
+      (function recoverProjectPath() {
+        const base = '/hay-day-wiki-archive/';
+        const requested = window.location.pathname;
+        const candidate = requested.startsWith(base) ? requested.slice(base.length) : '';
+        if (!candidate || candidate === '404.html') return;
+        const target = base + candidate.replace(/^\/+/, '') + '/index.html' + window.location.search + window.location.hash;
+        fetch(target, { method: 'HEAD', cache: 'no-store' }).then(function (response) {
+          if (response.ok) window.location.replace(target);
+        }).catch(function () { /* The visible recovery link remains available. */ });
+      }());
+    </script>
+  </body>
+</html>
