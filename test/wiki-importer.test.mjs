@@ -190,6 +190,32 @@ test('classifies source video pointers as consent-gated external media', () => {
   assert.equal(record.consentRequired, true);
 });
 
+test('uses the authoritative page image property instead of parsed display aliases', async () => {
+  let queriedTitles;
+  const importer = new WikiImporter({
+    client: {
+      async pageRevision() {
+        return { revision: { revid: 7 }, images: [] };
+      },
+      async parsedPage() {
+        return { images: ['Old_Display_Name.png'] };
+      },
+      async imageInfo(titles) {
+        queriedTitles = titles;
+        return [];
+      },
+    },
+    outputDir: 'unused',
+    statePath: 'unused',
+  });
+  const result = await importer.fetchPage(
+    { pageid: 1, title: 'Article' },
+    { media: {} },
+  );
+  assert.deepEqual(result.mediaTitles, []);
+  assert.deepEqual(queriedTitles, []);
+});
+
 test('schema completeness regression turns red when a required field is removed, then green when restored', () => {
   const record = {
     schemaVersion: 1,
