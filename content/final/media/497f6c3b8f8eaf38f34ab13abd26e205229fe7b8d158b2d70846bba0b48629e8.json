@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jukebox_key.png",
+  "height": 412,
+  "immutableUrl": null,
+  "mediaId": "File:Jukebox key.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-17T16:29:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AJukebox%20key.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 234927,
+  "sourceSha1": "7d9ae60977934cca12f867e41087ca687364f5db",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0f/Jukebox_key.png/revision/latest?cb=20260617162941",
+  "title": "File:Jukebox key.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 412
+}

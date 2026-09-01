@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:User_Templates?action=history",
+    "importedAt": "2026-09-01T02:57:33.824Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:User_Templates?oldid=62239",
+    "sourceRevisionId": 62239,
+    "sourceTitle": "Category:User Templates",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:User_Templates?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Templates which are used on profile pages, in comments, etc.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025721\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:24700-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025721 and revision id 62239. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "098bdaf619047901fc58edb883a389a317a4acad534aaf92bc6005b41881a73d",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 24700,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 62239,
+  "revisionTimestamp": "2016-05-23T17:00:43Z",
+  "route": "/wiki/category%2Fcategory-user-templates-24700",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:User_Templates",
+  "title": "Category:User Templates",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "7ca58843d08620b3f8abb59071441aa510ed2129ead62ef43091238adc5b11be"
+}

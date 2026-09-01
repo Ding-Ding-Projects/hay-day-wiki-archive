@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Easter_Gnome.png",
+  "height": 394,
+  "immutableUrl": null,
+  "mediaId": "File:Easter Gnome.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-11T06:38:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEaster%20Gnome.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 138901,
+  "sourceSha1": "eb6b8ddebce5e9c19a2f7c7af4073962efb58bf2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/63/Easter_Gnome.png/revision/latest?cb=20181211063833",
+  "title": "File:Easter Gnome.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 394
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Bacon_Products?action=history",
+    "importedAt": "2026-09-01T03:06:47.998Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Bacon_Products?oldid=98545",
+    "sourceRevisionId": 98545,
+    "sourceTitle": "Category:Bacon Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Bacon_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png/revision/latest?cb=20191025193433\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bacon\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png/revision/latest/scale-to-width-down/180?cb=20191025193433\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ABacon.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/bacon-2267\" title=\"Bacon\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030646\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35068-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030646 and revision id 98545. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8d09bc5f85df48a2e0e082dde212793dfe9701dc3db31a457db5ffe031ad11c3",
+  "internalLinks": [
+    {
+      "route": "/wiki/bacon-2267",
+      "title": "Bacon"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35068,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bacon.png"
+  ],
+  "revisionId": 98545,
+  "revisionTimestamp": "2021-08-31T20:55:56Z",
+  "route": "/wiki/category%2Fcategory-bacon-products-35068",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bacon_Products",
+  "title": "Category:Bacon Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d9c7bd1584adb4b2073617ee6a0918568e9cc7a282eea517ee14fc2d79ca40b4"
+}

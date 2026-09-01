@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tilly_Winter.png",
+  "height": 207,
+  "immutableUrl": null,
+  "mediaId": "File:Tilly Winter.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-16T23:16:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATilly%20Winter.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 44701,
+  "sourceSha1": "90afbcb6eb6e0ff6634918813c5905a9b294bbda",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/92/Tilly_Winter.png/revision/latest?cb=20151116231619",
+  "title": "File:Tilly Winter.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 114
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Board_game_night.png",
+  "height": 488,
+  "immutableUrl": null,
+  "mediaId": "File:Board game night.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T01:22:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABoard%20game%20night.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 289928,
+  "sourceSha1": "38cfd97bd0234288cde68a88a5d9be79f8f5b659",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3b/Board_game_night.png/revision/latest?cb=20260520012232",
+  "title": "File:Board game night.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

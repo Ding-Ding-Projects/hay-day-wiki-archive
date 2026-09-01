@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products?action=history",
+    "importedAt": "2026-09-01T02:41:45.452Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products?oldid=57762",
+    "sourceRevisionId": 57762,
+    "sourceTitle": "Category:BBQ Grill Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/9/9b/BBQ_Grill.png/revision/latest?cb=20250925184036\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"BBQ Grill\" src=\"https://static.wikia.nocookie.net/hayday/images/9/9b/BBQ_Grill.png/revision/latest/scale-to-width-down/180?cb=20250925184036\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ABBQ_Grill.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/bbq-grill-3552\" title=\"BBQ Grill\" rel=\"noopener noreferrer\" target=\"_blank\">BBQ Grill</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024138\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7547-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024138 and revision id 57762. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "53c061e7cd5b24cc49c7298037b94d02803a551d76c89c0615a62e65414cb75d",
+  "internalLinks": [
+    {
+      "route": "/wiki/bbq-grill-3552",
+      "title": "BBQ Grill"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7547,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:BBQ Grill.png"
+  ],
+  "revisionId": 57762,
+  "revisionTimestamp": "2016-01-21T18:02:23Z",
+  "route": "/wiki/category%2Fcategory-bbq-grill-products-7547",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products",
+  "title": "Category:BBQ Grill Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "1d4194d5e5928cb95b14489040deb13e0bbae19e208920f259f4a91e341fa2f2"
+}

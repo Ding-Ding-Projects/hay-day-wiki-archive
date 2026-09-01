@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Vouchers?action=history",
+    "importedAt": "2026-09-01T03:02:13.988Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Vouchers?oldid=74203",
+    "sourceRevisionId": 74203,
+    "sourceTitle": "Category:Image Vouchers",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Vouchers?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image Voucher\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831112156\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28592-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831112156 and revision id 74203. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "802d8af1a99af40df5d386ad389be46988cb7c8505effa78896c58b20f327a43",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 28592,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 74203,
+  "revisionTimestamp": "2017-10-22T10:05:21Z",
+  "route": "/wiki/category%2Fcategory-image-vouchers-28592",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Vouchers",
+  "title": "Category:Image Vouchers",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4c4fbb1793d788d865212c71cdec0c3bb0838bb007aee74dc2150e079a184d36"
+}

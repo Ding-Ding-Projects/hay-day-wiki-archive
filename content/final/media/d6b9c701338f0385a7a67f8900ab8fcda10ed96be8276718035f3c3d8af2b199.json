@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plum_Jam.png",
+  "height": 1216,
+  "immutableUrl": null,
+  "mediaId": "File:Plum Jam.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T15:26:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APlum%20Jam.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1376449,
+  "sourceSha1": "6238b01839153f5ab5882f4e0073c610b0db87d3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3a/Plum_Jam.png/revision/latest?cb=20240208152615",
+  "title": "File:Plum Jam.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1216
+}

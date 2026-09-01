@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Products?action=history",
+    "importedAt": "2026-09-01T03:06:59.029Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Chocolate_Products?oldid=98634",
+    "sourceRevisionId": 98634,
+    "sourceTitle": "Category:Chocolate Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/d/df/Chocolate.png/revision/latest?cb=20240210053728\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chocolate\" src=\"https://static.wikia.nocookie.net/hayday/images/d/df/Chocolate.png/revision/latest/scale-to-width-down/180?cb=20240210053728\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AChocolate.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/chocolate-2523\" title=\"Chocolate\" rel=\"noopener noreferrer\" target=\"_blank\">Chocolate</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030657\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35133-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030657 and revision id 98634. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "43d6cbdc16946352b3f7639c7b0404181913ee51cf4ff13e78ee0132f7e1c738",
+  "internalLinks": [
+    {
+      "route": "/wiki/chocolate-2523",
+      "title": "Chocolate"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35133,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Chocolate.png"
+  ],
+  "revisionId": 98634,
+  "revisionTimestamp": "2021-09-06T22:39:44Z",
+  "route": "/wiki/category%2Fcategory-chocolate-products-35133",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Products",
+  "title": "Category:Chocolate Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "2ef6e4769b9c7f73b9b0708a95951240f8558b0e702e63ffdfac21e413ce6c83"
+}

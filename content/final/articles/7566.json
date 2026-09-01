@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Feed_Mill_Products?action=history",
+    "importedAt": "2026-09-01T02:41:49.579Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Feed_Mill_Products?oldid=57769",
+    "sourceRevisionId": 57769,
+    "sourceTitle": "Category:Feed Mill Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Feed_Mill_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/d/db/Feed_Mill.png/revision/latest?cb=20150714134824\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Feed Mill\" src=\"https://static.wikia.nocookie.net/hayday/images/d/db/Feed_Mill.png/revision/latest/scale-to-width-down/180?cb=20150714134824\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AFeed_Mill.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/feed-mill-3546\" title=\"Feed Mill\" rel=\"noopener noreferrer\" target=\"_blank\">Feed Mill</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024147\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7566-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024147 and revision id 57769. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "bcbbb3d2053b092f1925aaf54eb3464033511d9d6d7363eac81a3a63671cf02a",
+  "internalLinks": [
+    {
+      "route": "/wiki/feed-mill-3546",
+      "title": "Feed Mill"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7566,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Feed Mill.png"
+  ],
+  "revisionId": 57769,
+  "revisionTimestamp": "2016-01-21T18:06:08Z",
+  "route": "/wiki/category%2Fcategory-feed-mill-products-7566",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Feed_Mill_Products",
+  "title": "Category:Feed Mill Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "f0f3431a836c24b3b81a433da486dde1d9c1de9719cb3ddde61f48a6e82ae9cb"
+}

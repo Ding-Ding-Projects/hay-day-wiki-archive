@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products?action=history",
+    "importedAt": "2026-09-01T03:08:48.052Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products?oldid=102637",
+    "sourceRevisionId": 102637,
+    "sourceTitle": "Category:Plain Waffles Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/6/66/Plain_Waffles.png/revision/latest?cb=20240217133029\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plain Waffles\" src=\"https://static.wikia.nocookie.net/hayday/images/6/66/Plain_Waffles.png/revision/latest/scale-to-width-down/180?cb=20240217133029\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APlain_Waffles.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/plain-waffles-35744\" title=\"Plain Waffles\" rel=\"noopener noreferrer\" target=\"_blank\">Plain Waffles</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030842\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35751-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030842 and revision id 102637. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f7241b55acaf0044af608847a810e3992926e137a0aec38e77da4db4e782c29d",
+  "internalLinks": [
+    {
+      "route": "/wiki/plain-waffles-35744",
+      "title": "Plain Waffles"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35751,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Plain Waffles.png"
+  ],
+  "revisionId": 102637,
+  "revisionTimestamp": "2023-04-01T15:33:02Z",
+  "route": "/wiki/category%2Fcategory-plain-waffles-products-35751",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products",
+  "title": "Category:Plain Waffles Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "50d6faf279b4fe52773e597c82878cf213513c33962892da214553ffdad74a5c"
+}

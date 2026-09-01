@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animals?action=history",
+    "importedAt": "2026-09-01T02:36:58.505Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Animals?oldid=12974",
+    "sourceRevisionId": 12974,
+    "sourceTitle": "Category:Image Animals",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animals?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains images of animals. Do not delete or modify the current photos as they are permanent representations of the <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">animals</a> in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901023557\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:4189-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901023557 and revision id 12974. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "5341a64faea703c94f72ae6d0662594d09f7f650821c58b42179f1ea9df0a27a",
+  "internalLinks": [
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 4189,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 12974,
+  "revisionTimestamp": "2013-07-12T07:46:56Z",
+  "route": "/wiki/category%2Fcategory-image-animals-4189",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Animals",
+  "title": "Category:Image Animals",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "1e5b475485507c47b28c85a8e36e967998adfb7bcd636553cd1dc05a54a04780"
+}

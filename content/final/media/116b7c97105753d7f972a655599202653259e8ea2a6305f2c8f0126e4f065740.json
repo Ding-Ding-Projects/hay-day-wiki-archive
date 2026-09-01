@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Country_Pink.png",
+  "height": 226,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Country Pink.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T22:46:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Country%20Pink.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46192,
+  "sourceSha1": "893489234e3adbdc36bbc0fe20727dc87a08e8b0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/75/Walls_Country_Pink.png/revision/latest?cb=20180717224653",
+  "title": "File:Walls Country Pink.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 234
+}

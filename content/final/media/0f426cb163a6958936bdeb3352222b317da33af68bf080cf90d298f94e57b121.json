@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fried_Rice.png",
+  "height": 2200,
+  "immutableUrl": null,
+  "mediaId": "File:Fried Rice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:05:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFried%20Rice.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2950302,
+  "sourceSha1": "90de771381ad1072d5d78dde9545ddbd9e22a39c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Fried_Rice.png/revision/latest?cb=20240411150556",
+  "title": "File:Fried Rice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2200
+}

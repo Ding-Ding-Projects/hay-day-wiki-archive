@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Introducing_Edit_Mode",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Introducing Edit Mode",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-08T21:10:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day%20Introducing%20Edit%20Mode",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 17697,
+  "sourceSha1": "909f1bfa8d0e7cbb43f57eea914453dd2580e2a5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Hay_Day_Introducing_Edit_Mode/revision/latest?cb=20160308211048",
+  "title": "File:Hay Day Introducing Edit Mode",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

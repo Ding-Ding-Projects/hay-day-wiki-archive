@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Juice_Press_Mastered.png",
+  "height": 585,
+  "immutableUrl": null,
+  "mediaId": "File:Juice Press Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:55:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AJuice%20Press%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 250488,
+  "sourceSha1": "ada26fd34bcd0a9515fdad1cb5f9c21c853306c8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cb/Juice_Press_Mastered.png/revision/latest?cb=20250925185510",
+  "title": "File:Juice Press Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 585
+}

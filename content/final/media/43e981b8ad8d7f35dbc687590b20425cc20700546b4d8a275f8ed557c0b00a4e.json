@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cupid_Practice.png",
+  "height": 519,
+  "immutableUrl": null,
+  "mediaId": "File:Cupid Practice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T01:25:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACupid%20Practice.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 332286,
+  "sourceSha1": "d3dabfae745297e5bdfca45f5b7f31822a76899b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Cupid_Practice.png/revision/latest?cb=20260520012553",
+  "title": "File:Cupid Practice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 593
+}

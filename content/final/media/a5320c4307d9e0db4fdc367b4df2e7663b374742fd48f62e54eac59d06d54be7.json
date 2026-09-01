@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Purple_Open_Gable.png",
+  "height": 219,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Purple Open Gable.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T11:00:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Purple%20Open%20Gable.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 43992,
+  "sourceSha1": "c3e03ef6e9ffb10e9aa55de1f1b81f677cdcc660",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2a/Roof_Purple_Open_Gable.png/revision/latest?cb=20180717110050",
+  "title": "File:Roof Purple Open Gable.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 213
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lvl126v2.jpg",
+  "height": 1122,
+  "immutableUrl": null,
+  "mediaId": "File:Lvl126v2.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-07-05T22:08:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALvl126v2.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 315575,
+  "sourceSha1": "959f7085acd2553c05c891a0c9afd5d5dd77a24a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Lvl126v2.jpg/revision/latest?cb=20250705220833",
+  "title": "File:Lvl126v2.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1549
+}

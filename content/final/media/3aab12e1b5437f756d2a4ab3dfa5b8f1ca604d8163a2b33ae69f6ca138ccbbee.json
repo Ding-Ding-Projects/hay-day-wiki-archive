@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Popcorn_Pot_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Popcorn Pot Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:45:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APopcorn%20Pot%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46825,
+  "sourceSha1": "f23507f91f22cb4d901df48b2dfd917dcd3a6902",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Popcorn_Pot_Mastery.png/revision/latest?cb=20180501174520",
+  "title": "File:Popcorn Pot Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

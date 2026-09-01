@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_29.png",
+  "height": 234,
+  "immutableUrl": null,
+  "mediaId": "File:Level 29.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-06-14T01:06:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2029.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 231250,
+  "sourceSha1": "ac683da4a7af0048da1afe537f6866c198017193",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f7/Level_29.png/revision/latest?cb=20150614010624",
+  "title": "File:Level 29.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 507
+}

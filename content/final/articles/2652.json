@@ -1,0 +1,132 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Barn?action=history",
+    "importedAt": "2026-09-01T02:32:07.217Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Barn?oldid=109822",
+    "sourceRevisionId": 109822,
+    "sourceTitle": "Barn",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Appearance",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Appearance</b>",
+      "text": "<b>Appearance</b>"
+    },
+    {
+      "anchor": "Upgrading",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Upgrading</b>",
+      "text": "<b>Upgrading</b>"
+    },
+    {
+      "anchor": "Upgrading_table",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Upgrading table</b>",
+      "text": "<b>Upgrading table</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know?",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Did you know?</b>",
+      "text": "<b>Did you know?</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Barn?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest?cb=20250926033811\" class=\"mw-file-description image\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Barn\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Barn</figcaption></figure>\n<p>The <b>barn</b> is the main <a href=\"/wiki/storage-buildings-3569\" title=\"Storage Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">storage building</a> for <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal goods</a> and <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>. It is already standing at the start of the game, but must be repaired during the tutorial to become usable.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Appearance</b></span></h3>\n<p>The appearance of the barn changes as the player upgrades it. Its final appearance is displayed when the barn can store at least 300 items.\n</p>\n<table>\n<tbody><tr>\n<th>Appearance\n</th>\n<th>Barn Level\n</th>\n<th>Capacity\n</th></tr>\n<tr>\n<td>1st stage</td>\n<td>1</td>\n<td>50\n</td></tr>\n<tr>\n<td>2nd stage</td>\n<td>2 - 4</td>\n<td>75 - 125\n</td></tr>\n<tr>\n<td>3rd stage</td>\n<td>5 - 10</td>\n<td>150 - 275\n</td></tr>\n<tr>\n<td>Final stage</td>\n<td>11+</td>\n<td>300+\n</td></tr></tbody></table>\n<p>The number of crates shown in the barn indicates how full the storage is. Up to five crates can appear in the barn; the fifth crate shows up when the player has at least 79% of barn capacity occupied.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ABarn_Broken.png\" title=\"Barn Broken.png (296 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/73/Barn_Broken.png/revision/latest/scale-to-width-down/185?cb=20150712205628\" title=\"Barn Broken.png (296 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Barn Broken.png (296 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ABarn_Stage_1.png\" title=\"Barn Stage 1.png (222 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/52/Barn_Stage_1.png/revision/latest/scale-to-width-down/185?cb=20191028144329\" title=\"Barn Stage 1.png (222 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Barn Stage 1.png (222 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ABarn_Stage_2.png\" title=\"Barn Stage 2.png (240 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/25/Barn_Stage_2.png/revision/latest/scale-to-width-down/185?cb=20191028144346\" title=\"Barn Stage 2.png (240 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Barn Stage 2.png (240 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ABarn_Stage_3.png\" title=\"Barn Stage 3.png (293 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/70/Barn_Stage_3.png/revision/latest/scale-to-width-down/185?cb=20191028144341\" title=\"Barn Stage 3.png (293 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Barn Stage 3.png (293 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/media/File%3ABarn.png\" title=\"Barn.png (331 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest/scale-to-width-down/185?cb=20250926033811\" title=\"Barn.png (331 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Barn.png (331 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Upgrading</b></span></h3>\n<p>The barn can initially hold 50 items. Upgrading the barn will increase its capacity:\n</p>\n<ul><li>by 25 spaces from 50 to 1,000.</li></ul>\n<ul><li>by 50 spaces from 1,000 upwards.</li></ul>\n<ul><li>maximum barn capacity is 25000.</li></ul>\n<p>Each upgrade requires the same number of bolts, planks and rolls of duct tape but the number of items requires increases by 1 with each upgrade (see the table below).\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/media/File%3ABolt.png\" title=\"Bolt.png (21 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/8e/Bolt.png/revision/latest?cb=20180211180351\" title=\"Bolt.png (21 KB)\" class=\"thumbimage\" alt=\"Bolt\" height=\"129\" width=\"129\" loading=\"lazy\"><img title=\"Bolt.png (21 KB)\" class=\"thumbimage lazyload\" alt=\"Bolt\" height=\"129\" width=\"129\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\"><a href=\"/wiki/bolt-3342\" title=\"Bolt\" rel=\"noopener noreferrer\" target=\"_blank\">Bolt</a></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ADuct_Tape.png\" title=\"Duct Tape.png (49 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4e/Duct_Tape.png/revision/latest/scale-to-width-down/185?cb=20191028130855\" title=\"Duct Tape.png (49 KB)\" class=\"thumbimage\" alt=\"Duct tape\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Duct Tape.png (49 KB)\" class=\"thumbimage lazyload\" alt=\"Duct tape\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\"><a href=\"/wiki/duct-tape-2920\" title=\"Duct Tape\" rel=\"noopener noreferrer\" target=\"_blank\">Duct tape</a></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/media/File%3APlank.png\" title=\"Plank.png (7 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0d/Plank.png/revision/latest?cb=20191028130900\" title=\"Plank.png (7 KB)\" class=\"thumbimage\" alt=\"Plank\" height=\"91\" width=\"91\" loading=\"lazy\"><img title=\"Plank.png (7 KB)\" class=\"thumbimage lazyload\" alt=\"Plank\" height=\"91\" width=\"91\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\"><a href=\"/wiki/plank-3343\" title=\"Plank\" rel=\"noopener noreferrer\" target=\"_blank\">Plank</a></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Upgrading table</b></span></h3>\n<table>\n\n<tbody><tr>\n<th>Capacity from-to\n</th>\n<th><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/8e/Bolt.png/revision/latest?cb=20180211180351\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bolt\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>+<span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/4e/Duct_Tape.png/revision/latest?cb=20191028130855\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Duct Tape\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>+<span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0d/Plank.png/revision/latest?cb=20191028130900\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plank\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</th></tr>\n<tr>\n<td><b>50-75</b></td>\n<td>x1\n</td></tr>\n<tr>\n<td><b>75-100</b></td>\n<td>x2\n</td></tr>\n<tr>\n<td><b>100-125</b></td>\n<td>x3\n</td></tr>\n<tr>\n<td><b>125-150</b></td>\n<td>x4\n</td></tr>\n<tr>\n<td><b>150-175</b></td>\n<td>x5\n</td></tr>\n<tr>\n<td><b>175-200</b></td>\n<td>x6\n</td></tr>\n<tr>\n<td><b>200-225</b></td>\n<td>x7\n</td></tr>\n<tr>\n<td><b>225-250</b></td>\n<td>x8\n</td></tr>\n<tr>\n<td><b>250-275</b></td>\n<td>x9\n</td></tr>\n<tr>\n<td><b>275-300</b></td>\n<td>x10\n</td></tr>\n<tr>\n<td><b>etc.</b></td>\n<td><b>etc.</b>\n</td></tr>\n<tr>\n<td><b>1000-1050</b></td>\n<td>x39\n</td></tr>\n<tr>\n<td><b>1050-1100</b></td>\n<td>x40\n</td></tr>\n<tr>\n<td><b>1100-1150</b></td>\n<td>x41\n</td></tr>\n<tr>\n<td><b>1150-1200</b></td>\n<td>x42\n</td></tr>\n<tr>\n<td><b>1200-1250</b></td>\n<td>x43\n</td></tr>\n<tr>\n<td><b>1250-1300</b></td>\n<td>x44\n</td></tr>\n<tr>\n<td><b>1300-1350</b></td>\n<td>x45\n</td></tr>\n<tr>\n<td><b>1350-1400</b></td>\n<td>x46\n</td></tr>\n<tr>\n<td><b>1400-1450</b></td>\n<td>x47\n</td></tr>\n<tr>\n<td><b>1450-1500</b></td>\n<td>x48\n</td></tr>\n<tr>\n<td><b>etc.</b></td>\n<td><b>etc.</b>\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>You need to store everything but crops in the barn, including supplies. This means more than 200 different items. If you want to keep at least ten of each item you need a barn with a capacity of at least 2,000 items. However, keep some room for more, as boat orders can ask for even greater quantities of one product.</li>\n<li>Once your barn is full, you will no longer be rewarded with <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supply items</a> once you reach your magic number from either harvesting <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crops</a> (fields, bushes, or trees) or feeding <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">animals</a> (farm animals or pets). Always make sure that your barn has available capacity, before collecting from these sources, to ensure that you will receive your reward.</li>\n<li>If you need additional capacity without selling or trading, a good option is using ingredients for production, to act as a storage buffer. prioritizing high ingredient, long duration ones.</li></ul>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Did you know?</b></span></h3>\n<ul><li>Your barn level is noted by the number of tools needed for the next upgrade. A level 1 barn has a capacity of 50, while a level 39 barn has a capacity of 1,000. This goes on without limit.</li>\n<li>A greater and greater percentage (upwards of 11.7% at level 39) of your barn space will be taken up by the planks, duct tape, and bolts needed for the next upgrade when the game starts. This means as you upgrade your barn from a level 1 barn (capacity of 50) to a level 39 barn (capacity 1,000) you will have a smaller and smaller percentage of room in your barn to store other items. Once you attain a capacity of 1,000 (where each future upgrade increases capacity by 50) you'll reverse that trend. From then on every upgrade means that a smaller and small percentage of your barn is needed to store tools needed for the next upgrade. In summary, barn space gets tighter until you reach level 39, at which point it begins to ease.</li></ul>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/barn-2652\" title=\"Barn (331 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest/scale-to-width-down/50?cb=20250926033811\" title=\"Barn (331 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Barn (331 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/silo-2654\" title=\"Silo (228 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Silo.png/revision/latest/scale-to-width-down/50?cb=20250926033422\" title=\"Silo (228 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Silo (228 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/tackle-box-9464\" title=\"Tackle Box (31 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Tackle_Box.png/revision/latest/scale-to-width-down/50?cb=20191028143616\" title=\"Tackle Box (31 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Tackle Box (31 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260828145738\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.034 seconds\nReal time usage: 0.048 seconds\nPreprocessor visited node count: 436/1000000\nPost‐expand include size: 855/2097152 bytes\nTemplate argument size: 258/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 13136/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   26.649      1 -total\n 44.16%   11.767      1 Template:Navigation\n 25.60%    6.823      1 Template:StorageBuildingsMenu\n  6.90%    1.838      1 Template:Languages\n  6.09%    1.622      1 Template:PageDisplay\n  5.00%    1.332      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2652-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260828145738 and revision id 109822. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "e234bf766269204c2e113d1567c8745ac099ff80963c397af32c5e0c53428bd4",
+  "internalLinks": [
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/bolt-3342",
+      "title": "Bolt"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/duct-tape-2920",
+      "title": "Duct Tape"
+    },
+    {
+      "route": "/wiki/plank-3343",
+      "title": "Plank"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/storage-buildings-3569",
+      "title": "Storage Buildings"
+    },
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    },
+    {
+      "route": "/wiki/tackle-box-9464",
+      "title": "Tackle Box"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2652,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Barn Broken.png",
+    "File:Barn Stage 1.png",
+    "File:Barn Stage 2.png",
+    "File:Barn Stage 3.png",
+    "File:Barn.png",
+    "File:Bolt.png",
+    "File:Duct Tape.png",
+    "File:Plank.png",
+    "File:Silo.png",
+    "File:Tackle Box.png"
+  ],
+  "revisionId": 109822,
+  "revisionTimestamp": "2026-05-08T09:57:37Z",
+  "route": "/wiki/barn-2652",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Barn",
+  "title": "Barn",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "45203f7c8617941d5ec869b83977401b82bfffbf4beb403afecbb5273e8e7109"
+}

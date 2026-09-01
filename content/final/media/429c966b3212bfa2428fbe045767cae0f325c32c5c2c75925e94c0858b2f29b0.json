@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Milk.png",
+  "height": 274,
+  "immutableUrl": null,
+  "mediaId": "File:Goat Milk.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-25T19:35:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGoat%20Milk.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 53031,
+  "sourceSha1": "92dce94a52d0730b4095ae079885ffada1ae4406",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Goat_Milk.png/revision/latest?cb=20191025193509",
+  "title": "File:Goat Milk.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 274
+}

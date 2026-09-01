@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Carrot.png",
+  "height": 868,
+  "immutableUrl": null,
+  "mediaId": "File:Carrot.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-18T15:13:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACarrot.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 628291,
+  "sourceSha1": "899500ced3a6f6afa2fba38f77fdb7585845f4bc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png/revision/latest?cb=20240218151353",
+  "title": "File:Carrot.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 868
+}

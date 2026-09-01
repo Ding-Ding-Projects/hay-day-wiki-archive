@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheels_Two-Tone_Black.png",
+  "height": 242,
+  "immutableUrl": null,
+  "mediaId": "File:Wheels Two-Tone Black.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T22:49:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheels%20Two-Tone%20Black.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 43100,
+  "sourceSha1": "e78434b1eb67b5e9c4efd06438bf2d21f77d02d0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Wheels_Two-Tone_Black.png/revision/latest?cb=20180717224927",
+  "title": "File:Wheels Two-Tone Black.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 233
+}

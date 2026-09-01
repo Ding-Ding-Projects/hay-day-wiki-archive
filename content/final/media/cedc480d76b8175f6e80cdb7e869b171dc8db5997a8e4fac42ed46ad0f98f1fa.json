@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Task_Board.png",
+  "height": 1000,
+  "immutableUrl": null,
+  "mediaId": "File:Derby Task Board.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-10-18T16:49:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADerby%20Task%20Board.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 728696,
+  "sourceSha1": "d58706b25d37149c840376cc9727b78e6cc88d30",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Derby_Task_Board.png/revision/latest?cb=20151018164933",
+  "title": "File:Derby Task Board.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

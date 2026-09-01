@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_Stallion.png",
+  "height": 442,
+  "immutableUrl": null,
+  "mediaId": "File:The Stallion.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:37:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AThe%20Stallion.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 137905,
+  "sourceSha1": "1adbe3244f0fde054021f91e1f83f5deacb45884",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/The_Stallion.png/revision/latest?cb=20150715103728",
+  "title": "File:The Stallion.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 442
+}

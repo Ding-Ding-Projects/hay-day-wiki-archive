@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snow_Sledge.png",
+  "height": 528,
+  "immutableUrl": null,
+  "mediaId": "File:Snow Sledge.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:16:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASnow%20Sledge.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 108757,
+  "sourceSha1": "d05d719a74e3b921514998abc658e00e440daf69",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/74/Snow_Sledge.png/revision/latest?cb=20150715101602",
+  "title": "File:Snow Sledge.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 528
+}

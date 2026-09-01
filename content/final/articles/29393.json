@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Playable_Areas?action=history",
+    "importedAt": "2026-09-01T03:03:00.078Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Playable_Areas?oldid=78404",
+    "sourceRevisionId": 78404,
+    "sourceTitle": "Category:Playable Areas",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Playable_Areas?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a> has three playable areas.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831093426\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29393-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831093426 and revision id 78404. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "5ace70e2c336b68426b20fa14731b78157dde5edda704bf99b092895e5570963",
+  "internalLinks": [
+    {
+      "route": "/wiki/hay-day-8519",
+      "title": "Hay Day"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 29393,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78404,
+  "revisionTimestamp": "2018-04-14T12:40:57Z",
+  "route": "/wiki/category%2Fcategory-playable-areas-29393",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Playable_Areas",
+  "title": "Category:Playable Areas",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "efef0109b49f26146859de40a2ce8792c2b2d8097831b3db476aa0fd0c9549f5"
+}

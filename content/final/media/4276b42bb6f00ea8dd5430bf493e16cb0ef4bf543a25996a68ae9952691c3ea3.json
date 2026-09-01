@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cheetah_House_stage_1.png",
+  "height": 502,
+  "immutableUrl": null,
+  "mediaId": "File:Cheetah House stage 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-01-07T22:18:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACheetah%20House%20stage%201.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 244732,
+  "sourceSha1": "cacd46bd3f2129e82c1198ba2b86168f77f4cf54",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4a/Cheetah_House_stage_1.png/revision/latest?cb=20220107221834",
+  "title": "File:Cheetah House stage 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 497
+}

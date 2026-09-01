@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:White_Arctic_Fox_Pup.png",
+  "height": 550,
+  "immutableUrl": null,
+  "mediaId": "File:White Arctic Fox Pup.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-26T21:24:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWhite%20Arctic%20Fox%20Pup.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 162569,
+  "sourceSha1": "e4567039fd81cb63c7649fd31b4de29d683b5690",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/White_Arctic_Fox_Pup.png/revision/latest?cb=20220426212409",
+  "title": "File:White Arctic Fox Pup.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 550
+}

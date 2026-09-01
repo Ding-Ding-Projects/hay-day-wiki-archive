@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Buttered_Popcorn.png",
+  "height": 1740,
+  "immutableUrl": null,
+  "mediaId": "File:Buttered Popcorn.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-06T17:01:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AButtered%20Popcorn.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2035512,
+  "sourceSha1": "86a049bd067b12f8fd393a7c6ebe99198dcc5802",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Buttered_Popcorn.png/revision/latest?cb=20240206170136",
+  "title": "File:Buttered Popcorn.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1740
+}

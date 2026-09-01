@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_173.png",
+  "height": 351,
+  "immutableUrl": null,
+  "mediaId": "File:Level 173.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-01-07T15:39:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%20173.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 602112,
+  "sourceSha1": "c260b43518212dfb720ad72c6f289e6653c1e8c7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Level_173.png/revision/latest?cb=20200107153922",
+  "title": "File:Level 173.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 826
+}

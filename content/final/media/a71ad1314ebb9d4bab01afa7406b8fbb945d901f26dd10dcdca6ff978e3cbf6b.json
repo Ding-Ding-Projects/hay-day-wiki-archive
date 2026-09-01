@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Diner.png",
+  "height": 2240,
+  "immutableUrl": null,
+  "mediaId": "File:Diner.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T11:41:14Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADiner.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6832033,
+  "sourceSha1": "cd5d0f0438b0cbf9f9c8259e59252ff5676b9e35",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/19/Diner.png/revision/latest?cb=20240219114114",
+  "title": "File:Diner.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2240
+}

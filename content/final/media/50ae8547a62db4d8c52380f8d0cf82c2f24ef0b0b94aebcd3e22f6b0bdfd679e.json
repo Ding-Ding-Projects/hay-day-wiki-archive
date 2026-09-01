@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pizza.png",
+  "height": 732,
+  "immutableUrl": null,
+  "mediaId": "File:Pizza.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-05T07:47:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APizza.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 493520,
+  "sourceSha1": "10265c08e2d3497483b6557b70eea2bcf77a8537",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f4/Pizza.png/revision/latest?cb=20240205074711",
+  "title": "File:Pizza.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 732
+}

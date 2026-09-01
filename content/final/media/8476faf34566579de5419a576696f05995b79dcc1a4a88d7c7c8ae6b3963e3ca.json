@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Striped_Bright.png",
+  "height": 294,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Striped Bright.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-28T08:48:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Striped%20Bright.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 263303,
+  "sourceSha1": "dbd2072c5dca106362da98627bec0778f4ff80c3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/99/Awning_Striped_Bright.png/revision/latest?cb=20180528084804",
+  "title": "File:Awning Striped Bright.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 298
+}

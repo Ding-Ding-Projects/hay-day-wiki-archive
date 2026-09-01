@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snowy_Trunk.png",
+  "height": 625,
+  "immutableUrl": null,
+  "mediaId": "File:Snowy Trunk.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-10T21:38:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASnowy%20Trunk.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 163566,
+  "sourceSha1": "1cb4d70f0ceb58bdf97efde5dbfd12a310495236",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Snowy_Trunk.png/revision/latest?cb=20221210213830",
+  "title": "File:Snowy Trunk.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 625
+}

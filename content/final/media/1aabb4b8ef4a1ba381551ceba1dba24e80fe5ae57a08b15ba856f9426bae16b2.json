@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mr_Gnome.png",
+  "height": 442,
+  "immutableUrl": null,
+  "mediaId": "File:Mr Gnome.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:52:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMr%20Gnome.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 133759,
+  "sourceSha1": "881296d285f8d612f62679c2f9d3fbacc056448d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Mr_Gnome.png/revision/latest?cb=20150715105237",
+  "title": "File:Mr Gnome.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 442
+}

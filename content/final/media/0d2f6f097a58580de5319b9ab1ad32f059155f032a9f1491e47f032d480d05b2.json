@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueberry_Bush_Harvest_2.png",
+  "height": 515,
+  "immutableUrl": null,
+  "mediaId": "File:Blueberry Bush Harvest 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-06-22T15:25:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlueberry%20Bush%20Harvest%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 209780,
+  "sourceSha1": "9325bd57dcb95b80e95f9c3fb59c5971652e6bad",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/75/Blueberry_Bush_Harvest_2.png/revision/latest?cb=20250622152541",
+  "title": "File:Blueberry Bush Harvest 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 515
+}

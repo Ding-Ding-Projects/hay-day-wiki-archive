@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products?action=history",
+    "importedAt": "2026-09-01T03:06:05.651Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products?oldid=94486",
+    "sourceRevisionId": 94486,
+    "sourceTitle": "Category:Deep Fryer Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/05/Deep_Fryer.png/revision/latest?cb=20250926002632\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Deep Fryer\" src=\"https://static.wikia.nocookie.net/hayday/images/0/05/Deep_Fryer.png/revision/latest/scale-to-width-down/180?cb=20250926002632\" loading=\"lazy\" width=\"180\" height=\"173\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ADeep_Fryer.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/deep-fryer-33952\" title=\"Deep Fryer\" rel=\"noopener noreferrer\" target=\"_blank\">Deep Fryer</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030600\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33991-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030600 and revision id 94486. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4327b27fa0b1d86a0e55c745722d4ed49db60b1fa0858282f280544f39b513cd",
+  "internalLinks": [
+    {
+      "route": "/wiki/deep-fryer-33952",
+      "title": "Deep Fryer"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 33991,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Deep Fryer.png"
+  ],
+  "revisionId": 94486,
+  "revisionTimestamp": "2020-06-29T17:01:28Z",
+  "route": "/wiki/category%2Fcategory-deep-fryer-products-33991",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products",
+  "title": "Category:Deep Fryer Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "18aa58887c7675c9a598a1a7e46aecf0197b9f621741d5e77fb0fd7eb5638352"
+}

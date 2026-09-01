@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Blue.png",
+  "height": 192,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Blue.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-23T18:48:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Blue.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 117844,
+  "sourceSha1": "b18d09505871dd073aaed87c70bb8929f5f4432a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Roof_Blue.png/revision/latest?cb=20180423184846",
+  "title": "File:Roof Blue.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 204
+}

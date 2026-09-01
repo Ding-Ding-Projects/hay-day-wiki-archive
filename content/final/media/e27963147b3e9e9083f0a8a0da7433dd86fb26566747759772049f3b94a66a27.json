@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lipizzaner_Horse.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Lipizzaner Horse.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-16T11:33:14Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALipizzaner%20Horse.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 116889,
+  "sourceSha1": "1635e81785229f5a00a0c75d5bb6b2f2fd2ac1df",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Lipizzaner_Horse.png/revision/latest?cb=20150916113314",
+  "title": "File:Lipizzaner Horse.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

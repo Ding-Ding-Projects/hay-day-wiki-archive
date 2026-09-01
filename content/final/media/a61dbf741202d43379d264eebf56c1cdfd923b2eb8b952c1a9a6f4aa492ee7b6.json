@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Velvet_Rope.png",
+  "height": 170,
+  "immutableUrl": null,
+  "mediaId": "File:Velvet Rope.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-06-26T21:15:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AVelvet%20Rope.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 23846,
+  "sourceSha1": "26cc009f14a8c6ff01bb2f2b4902f9f03de1a755",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/Velvet_Rope.png/revision/latest?cb=20240626211554",
+  "title": "File:Velvet Rope.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 170
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Characters?action=history",
+    "importedAt": "2026-09-01T03:03:20.917Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Characters?oldid=78892",
+    "sourceRevisionId": 78892,
+    "sourceTitle": "Category:Characters",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Characters?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the <b>Non-Player Characters</b> that can be found in Hay Day. These do not include characters found in decorations.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901010513\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29468-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901010513 and revision id 78892. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "39e49cdd7ceb9736b55f874d705bc31370a7ee7bf917c613017828719b097d5f",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 29468,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78892,
+  "revisionTimestamp": "2018-04-17T19:53:04Z",
+  "route": "/wiki/category%2Fcategory-characters-29468",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Characters",
+  "title": "Category:Characters",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c4dbd33e867ce0c90d7adb40c24f4590f482fc831dd1c10adb4f0c13f6029575"
+}

@@ -1,0 +1,146 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Honey_Popcorn?action=history",
+    "importedAt": "2026-09-01T02:48:09.547Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Honey_Popcorn?oldid=106042",
+    "sourceRevisionId": 106042,
+    "sourceTitle": "Honey Popcorn",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Making_honey_popcorn",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Making honey popcorn</b>",
+      "text": "<b>Making honey popcorn</b>"
+    },
+    {
+      "anchor": "Selling_honey_popcorn",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling honey popcorn</b>",
+      "text": "<b>Selling honey popcorn</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Honey_Popcorn?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b1/Honey_Popcorn.png/revision/latest?cb=20240206170401\" class=\"mw-file-description image\" title=\"Honey popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey popcorn\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Honey popcorn</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Product</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 40</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 360</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  1 h 30 min</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 43</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Popcorn Pot</span><span title=\"Popcorn pot\"><span class=\"mw-default-size\"><a href=\"/wiki/popcorn-pot-3551\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn Pot\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 100</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\"><a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">★★★</a> </h3>\n\t\n\t<div class=\"pi-data-value pi-font\">1 h 16 min</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Honey popcorn</b> is a <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">product</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 40.\n</p><p>Like all <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, it is stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Making honey popcorn</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3c/Popcorn_Pot.png/revision/latest?cb=20250925180628\" class=\"mw-file-description image\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn Pot\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Popcorn Pot</figcaption></figure>\n<p>Honey popcorn is made in the <a href=\"/wiki/popcorn-pot-3551\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn Pot</a>.\n</p><p>To make honey popcorn, players need the following ingredients, in the specified quantities:\n</p>\n<table>\n\n<tbody><tr>\n<td><span><a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/honey-15777\" title=\"Honey\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b>x2</b>\n</td>\n<td><b>x2</b>\n</td></tr></tbody></table>\n<p>It takes 1 hour and 30 minutes to make one bag, and 1 hour and 16 minutes in a fully <a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">mastered</a> pot. Each bag gives players 43 <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling honey popcorn</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest?cb=20191028143054\" class=\"mw-file-description image\" title=\"Roadside shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside shop</figcaption></figure>\n<ul><li>Honey popcorn can be bought or sold for a maximum price of 3,600 <span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 bags.</li>\n<li>Buying the ingredients required to make honey popcorn costs 322 <span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest?cb=20150712182459\" class=\"mw-file-description image\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for 3 to 5 bags of honey popcorn per crate, up to a total of 16 per boat.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Honey popcorn can't easily be found in the <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a>.</li>\n<li>Always keep a good stock of honey, and corn so you can easily make this product.</li></ul>\n<hr>\n<p><br>\n</p>\n<table class=\"navbox mw-collapsible mw-collapsed\">\n\n<tbody><tr class=\"navtitle\">\n<td><a href=\"/wiki/category%2Fcategory-popcorn-pot-products-7559\" title=\"Category:Popcorn Pot Products\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn Pot Products</a>\n</td></tr>\n<tr>\n<td>\n<p><span><a href=\"/wiki/buttered-popcorn-2093\" title=\"Buttered Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Buttered Popcorn\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/chili-popcorn-2311\" title=\"Chili Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chili Popcorn\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/chocolate-popcorn-7181\" title=\"Chocolate Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chocolate Popcorn\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/honey-popcorn-15786\" title=\"Honey Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey Popcorn\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/popcorn-2092\" title=\"Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/snack-mix-34680\" title=\"Snack Mix\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Snack Mix\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr class=\"navtitle\">\n<td><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Products</a>\n</td></tr></tbody></table>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260901024758\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.067 seconds\nReal time usage: 0.104 seconds\nPreprocessor visited node count: 728/1000000\nPost‐expand include size: 6038/2097152 bytes\nTemplate argument size: 957/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.009/7.000 seconds\nLua memory usage: 936413/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   72.779      1 -total\n 74.43%   54.173      1 Template:Infobox\n 36.07%   26.249      9 Template:Infoicon\n 16.77%   12.207      1 Template:Navigation\n  9.73%    7.083      1 Template:PopcornPotMenu\n  2.60%    1.891      1 Template:Languages\n  2.55%    1.859      4 Template:Clr\n  1.97%    1.432      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15786-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024758 and revision id 106042. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "df0914ffe145af7865a07ad306c46fc33f757615defce77069fb2476fdf7f353",
+  "internalLinks": [
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/buttered-popcorn-2093",
+      "title": "Buttered Popcorn"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-popcorn-pot-products-7559",
+      "title": "Category:Popcorn Pot Products"
+    },
+    {
+      "route": "/wiki/chili-popcorn-2311",
+      "title": "Chili Popcorn"
+    },
+    {
+      "route": "/wiki/chocolate-popcorn-7181",
+      "title": "Chocolate Popcorn"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/honey-15777",
+      "title": "Honey"
+    },
+    {
+      "route": "/wiki/honey-popcorn-15786",
+      "title": "Honey Popcorn"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/popcorn-2092",
+      "title": "Popcorn"
+    },
+    {
+      "route": "/wiki/popcorn-pot-3551",
+      "title": "Popcorn Pot"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/snack-mix-34680",
+      "title": "Snack Mix"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 15786,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Buttered Popcorn.png",
+    "File:Chili Popcorn.png",
+    "File:Chocolate Popcorn.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Corn.png",
+    "File:Diamond.png",
+    "File:Experience.png",
+    "File:Honey Popcorn.png",
+    "File:Honey.png",
+    "File:Popcorn Pot.png",
+    "File:Popcorn.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Snack Mix.png"
+  ],
+  "revisionId": 106042,
+  "revisionTimestamp": "2024-10-23T23:02:23Z",
+  "route": "/wiki/honey-popcorn-15786",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Popcorn",
+  "title": "Honey Popcorn",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e35c47350f3e9ef56d6d0fea6dc6a5b0b929af276e3f83662ea8976f3a7a0f17"
+}

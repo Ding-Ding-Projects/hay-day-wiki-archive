@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Silver_Placard.png",
+  "height": 806,
+  "immutableUrl": null,
+  "mediaId": "File:Silver Placard.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T18:19:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASilver%20Placard.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 211214,
+  "sourceSha1": "9f5fcb64fcee6fa73a936f1c200890ce4427abb8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Silver_Placard.png/revision/latest?cb=20180207181937",
+  "title": "File:Silver Placard.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 806
+}

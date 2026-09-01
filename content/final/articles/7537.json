@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_NPC?action=history",
+    "importedAt": "2026-09-01T02:41:37.997Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_NPC?oldid=61863",
+    "sourceRevisionId": 61863,
+    "sourceTitle": "Category:Image NPC",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_NPC?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><b>Images</b> of Non-Player Characters (NPCs).\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831064155\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7537-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831064155 and revision id 61863. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "35a65598f361ad2edd933ad96e96df34ba721387513b976153e6653e7f6382ad",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 7537,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 61863,
+  "revisionTimestamp": "2016-04-26T13:09:57Z",
+  "route": "/wiki/category%2Fcategory-image-npc-7537",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_NPC",
+  "title": "Category:Image NPC",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "7aefe0fbf98d36ff01a72cadcc38e173c2b8bbe32dc51a1e111f1e601ac506a9"
+}

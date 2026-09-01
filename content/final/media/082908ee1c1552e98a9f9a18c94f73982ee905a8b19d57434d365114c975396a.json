@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Bee_Summer.png",
+  "height": 100,
+  "immutableUrl": null,
+  "mediaId": "File:Honey Bee Summer.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-06-22T08:43:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHoney%20Bee%20Summer.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 21163,
+  "sourceSha1": "a89c05d58770a7a517311bf1a59fd841751fc6e4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Honey_Bee_Summer.png/revision/latest?cb=20160622084313",
+  "title": "File:Honey Bee Summer.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 100
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pinto_Horse_Running.png",
+  "height": 250,
+  "immutableUrl": null,
+  "mediaId": "File:Pinto Horse Running.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-16T20:29:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APinto%20Horse%20Running.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 39840,
+  "sourceSha1": "9edf485018044a0e3c6338b51ffb2b790ca2ba0d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Pinto_Horse_Running.png/revision/latest?cb=20210716202923",
+  "title": "File:Pinto Horse Running.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

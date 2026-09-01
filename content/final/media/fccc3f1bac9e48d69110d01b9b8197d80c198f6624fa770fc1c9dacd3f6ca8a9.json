@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Trail.png",
+  "height": 243,
+  "immutableUrl": null,
+  "mediaId": "File:Trail.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-12T15:39:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATrail.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 43987,
+  "sourceSha1": "ab19c3263998d411ab23bb9e379a2b51d9fb63e6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Trail.png/revision/latest?cb=20150912153928",
+  "title": "File:Trail.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 243
+}

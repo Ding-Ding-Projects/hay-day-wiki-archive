@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products?action=history",
+    "importedAt": "2026-09-01T03:10:22.204Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products?oldid=108222",
+    "sourceRevisionId": 108222,
+    "sourceTitle": "Category:Perfumerie Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/5/54/Perfumerie.png/revision/latest?cb=20250926015045\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Perfumerie\" src=\"https://static.wikia.nocookie.net/hayday/images/5/54/Perfumerie.png/revision/latest/scale-to-width-down/180?cb=20250926015045\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3APerfumerie.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/perfumerie-36209\" title=\"Perfumerie\" rel=\"noopener noreferrer\" target=\"_blank\">Perfumerie</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031018\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36362-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031018 and revision id 108222. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "32dee99893a788953b4458d31b1e2bebb31038737b8d3b56c6c92581532003b7",
+  "internalLinks": [
+    {
+      "route": "/wiki/perfumerie-36209",
+      "title": "Perfumerie"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36362,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Perfumerie.png"
+  ],
+  "revisionId": 108222,
+  "revisionTimestamp": "2025-08-05T20:06:20Z",
+  "route": "/wiki/category%2Fcategory-perfumerie-products-36362",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products",
+  "title": "Category:Perfumerie Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d2ea481eccee8c696e0083eead6c8330b4173286407fa9dba2354a013ceeca33"
+}

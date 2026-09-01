@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Videos?action=history",
+    "importedAt": "2026-09-01T02:11:00.778Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Videos?oldid=95426",
+    "sourceRevisionId": 95426,
+    "sourceTitle": "Category:Videos",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Videos?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><b>Videos</b> on Hay Day Wiki.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901021059\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 2/1000000\nPost‐expand include size: 12/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2033-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901021059 and revision id 95426. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "617d59c2ce5248906b9aa4a734893bbf228286e5ea45ff66f6be15bede3d439b",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 2033,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 95426,
+  "revisionTimestamp": "2020-08-18T01:44:37Z",
+  "route": "/wiki/category%2Fcategory-videos-2033",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Videos",
+  "title": "Category:Videos",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "99f6ae548cce6d7b989ffcbdbb4899231bcd70097b448dc4010f007eedcde81e"
+}

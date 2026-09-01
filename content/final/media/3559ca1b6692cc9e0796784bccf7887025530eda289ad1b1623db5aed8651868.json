@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Covered_hot_spring.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Covered hot spring.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-02-05T17:06:14Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACovered%20hot%20spring.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 278637,
+  "sourceSha1": "84399ac66871fa7feaf6cb23bbdee703e636f9eb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/10/Covered_hot_spring.png/revision/latest?cb=20260205170614",
+  "title": "File:Covered hot spring.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

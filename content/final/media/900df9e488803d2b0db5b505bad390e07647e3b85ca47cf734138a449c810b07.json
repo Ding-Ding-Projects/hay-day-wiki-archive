@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beach_Chair_Ocean.png",
+  "height": 426,
+  "immutableUrl": null,
+  "mediaId": "File:Beach Chair Ocean.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T23:50:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABeach%20Chair%20Ocean.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 88845,
+  "sourceSha1": "8df93475834911f76ca01dc24a0d20fbb791de21",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Beach_Chair_Ocean.png/revision/latest?cb=20150714235017",
+  "title": "File:Beach Chair Ocean.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 426
+}

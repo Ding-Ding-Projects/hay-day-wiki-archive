@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lure_Workbench.png",
+  "height": 528,
+  "immutableUrl": null,
+  "mediaId": "File:Lure Workbench.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:56:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALure%20Workbench.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 338389,
+  "sourceSha1": "58ec07b50303df747d7707c137df0fd61101c2f0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Lure_Workbench.png/revision/latest?cb=20250925185602",
+  "title": "File:Lure Workbench.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 528
+}

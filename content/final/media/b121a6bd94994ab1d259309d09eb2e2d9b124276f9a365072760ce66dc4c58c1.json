@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_3_Pedestal_Floral_Pink_Daisies_Pink_Floral_Green.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 3 Pedestal Floral Pink Daisies Pink Floral Green.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T18:05:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%203%20Pedestal%20Floral%20Pink%20Daisies%20Pink%20Floral%20Green.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 90063,
+  "sourceSha1": "b346255817b672e327cf3e241773c0a15893e847",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9e/Pedestal_Level_3_Pedestal_Floral_Pink_Daisies_Pink_Floral_Green.png/revision/latest?cb=20200824180523",
+  "title": "File:Pedestal Level 3 Pedestal Floral Pink Daisies Pink Floral Green.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

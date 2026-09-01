@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Trapped.png",
+  "height": 1890,
+  "immutableUrl": null,
+  "mediaId": "File:Duck Trapped.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T10:17:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADuck%20Trapped.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 695766,
+  "sourceSha1": "3dc6f5e945561fd708cb119bc0254309df639b26",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Duck_Trapped.png/revision/latest?cb=20150713101727",
+  "title": "File:Duck Trapped.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1890
+}

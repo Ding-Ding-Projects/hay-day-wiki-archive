@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Supplies?action=history",
+    "importedAt": "2026-09-01T02:47:21.766Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Supplies?oldid=81864",
+    "sourceRevisionId": 81864,
+    "sourceTitle": "Category:Supplies",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Supplies?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Pages related to <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">Supplies</a>.\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260901024713\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 45/1000000\nPost‐expand include size: 209/2097152 bytes\nTemplate argument size: 130/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.912      1 Template:Languages\n100.00%    1.912      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:14729-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024713 and revision id 81864. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4b9798a2701c926c14d1bbba0a3802f5d950c6479d8f775915da35755bc31a33",
+  "internalLinks": [
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 14729,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 81864,
+  "revisionTimestamp": "2018-07-07T11:38:39Z",
+  "route": "/wiki/category%2Fcategory-supplies-14729",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Supplies",
+  "title": "Category:Supplies",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4a243a34c7dfd0b7b0cf95a8a636df238cb653d45989e6bbcfee1991240eab5a"
+}

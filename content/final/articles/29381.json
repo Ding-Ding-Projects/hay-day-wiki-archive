@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Style_Book?action=history",
+    "importedAt": "2026-09-01T03:03:00.078Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Style_Book?oldid=78370",
+    "sourceRevisionId": 78370,
+    "sourceTitle": "Style Book",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Style_Book?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/customization-29379\" title=\"Customization\" rel=\"noopener noreferrer\" target=\"_blank\">Customization</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030233\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29381-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030233 and revision id 78370. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "9eb7f0d8d6b55df6bd5f30e5a6d3e4bf2efc6c588972c15dc7efedc84cf009a9",
+  "internalLinks": [
+    {
+      "route": "/wiki/customization-29379",
+      "title": "Customization"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 29381,
+  "redirectTarget": "Customization",
+  "referencedMediaIds": [],
+  "revisionId": 78370,
+  "revisionTimestamp": "2018-04-13T17:44:33Z",
+  "route": "/wiki/style-book-29381",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Style_Book",
+  "title": "Style Book",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "3c18044be401a9c78b2d5b06fd11b02ce94419fefc6daf86630b0abef291ef72"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Olive_Tree_Dead.png",
+  "height": 322,
+  "immutableUrl": null,
+  "mediaId": "File:Olive Tree Dead.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-17T15:37:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOlive%20Tree%20Dead.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 92560,
+  "sourceSha1": "e80bcfcfd0cae0cb90c45be06e16b8bf8f411bc0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/bd/Olive_Tree_Dead.png/revision/latest?cb=20180217153723",
+  "title": "File:Olive Tree Dead.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 322
+}

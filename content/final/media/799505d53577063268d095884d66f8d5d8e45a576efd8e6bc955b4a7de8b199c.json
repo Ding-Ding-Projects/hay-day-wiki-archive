@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:GoldFish.png",
+  "height": 76,
+  "immutableUrl": null,
+  "mediaId": "File:GoldFish.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-03-21T15:40:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGoldFish.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6008,
+  "sourceSha1": "bf8b343a52502e8f5045af1d71a7f779adc8ff47",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/GoldFish.png/revision/latest?cb=20140321154048",
+  "title": "File:GoldFish.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 80
+}

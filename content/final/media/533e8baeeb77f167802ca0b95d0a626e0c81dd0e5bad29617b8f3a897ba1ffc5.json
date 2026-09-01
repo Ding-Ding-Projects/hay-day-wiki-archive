@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_book_cover.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Fishing book cover.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-09-20T14:33:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFishing%20book%20cover.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 101294,
+  "sourceSha1": "b342a899aca823cd178f22a13d2dce9caa80ef2a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Fishing_book_cover.png/revision/latest?cb=20140920143329",
+  "title": "File:Fishing book cover.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 295
+}

@@ -1,0 +1,319 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Production_Buildings_List?action=history",
+    "importedAt": "2026-09-01T03:05:20.948Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Production_Buildings_List?oldid=110699",
+    "sourceRevisionId": 110699,
+    "sourceTitle": "Production Buildings List",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Production_Buildings_List?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This page lists all production buildings available in the game and provides detailed information on each of them.</p><p class=\"mw-empty-elt\"></p>\n<p>Items are listed by level by default but the table is sortable.\n</p>\n<div></div>\n<table class=\"wikitable sortable\">\n<tbody><tr>\n<th>Name\n</th>\n<th><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a>\n</th>\n<th>Price\n</th>\n<th class=\"unsortable\">Time\n</th>\n<th>XP\n</th>\n<th>Size\n</th></tr>\n<tr>\n<td rowspan=\"2\"><b><a href=\"/wiki/feed-mill-3546\" title=\"Feed Mill\" rel=\"noopener noreferrer\" target=\"_blank\">Feed mill x2</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/db/Feed_Mill.png/revision/latest?cb=20150714134824\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Feed Mill\" src=\"https://static.wikia.nocookie.net/hayday/images/d/db/Feed_Mill.png/revision/latest/scale-to-width-down/100?cb=20150714134824\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td>2 (1st)\n</td>\n<td>5 (1st)\n</td>\n<td rowspan=\"2\">40 sec\n</td>\n<td rowspan=\"2\">4\n</td>\n<td rowspan=\"2\">3x3\n</td></tr>\n<tr>\n<td>12 (2nd)\n</td>\n<td>3,200 (2nd)\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bakery-3545\" title=\"Bakery\" rel=\"noopener noreferrer\" target=\"_blank\">Bakery</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/47/Bakery.png/revision/latest?cb=20260810195925\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bakery\" src=\"https://static.wikia.nocookie.net/hayday/images/4/47/Bakery.png/revision/latest/scale-to-width-down/100?cb=20260810195925\" loading=\"lazy\" width=\"100\" height=\"93\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td>4\n</td>\n<td>20\n</td>\n<td>10 sec\n</td>\n<td>3\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/dairy-3547\" title=\"Dairy\" rel=\"noopener noreferrer\" target=\"_blank\">Dairy</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Dairy.png/revision/latest?cb=20260810193954\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Dairy\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Dairy.png/revision/latest/scale-to-width-down/100?cb=20260810193954\" loading=\"lazy\" width=\"100\" height=\"79\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td>6\n</td>\n<td>50\n</td>\n<td>2 h\n</td>\n<td>8\n</td>\n<td>4x4\n</td></tr>\n<tr>\n<td rowspan=\"2\"><b><a href=\"/wiki/sugar-mill-3550\" title=\"Sugar Mill\" rel=\"noopener noreferrer\" target=\"_blank\">Sugar mill x2</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/8a/Sugar_Mill.png/revision/latest?cb=20260810194135\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sugar Mill\" loading=\"lazy\" width=\"100\" height=\"96\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>7 (1st)\n</td>\n<td>350 (1st)\n</td>\n<td rowspan=\"2\">6 h\n</td>\n<td rowspan=\"2\">13\n</td>\n<td rowspan=\"2\">2x2\n</td></tr>\n<tr>\n<td>76 (2nd)\n</td>\n<td>200,000 (2nd)\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/popcorn-pot-3551\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn pot</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3c/Popcorn_Pot.png/revision/latest?cb=20250925180628\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn Pot\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>8\n</td>\n<td>650\n</td>\n<td>8 h\n</td>\n<td>14\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bbq-grill-3552\" title=\"BBQ Grill\" rel=\"noopener noreferrer\" target=\"_blank\">BBQ grill</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9b/BBQ_Grill.png/revision/latest?cb=20250925184036\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"BBQ Grill\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>9\n</td>\n<td>730\n</td>\n<td>8 h\n</td>\n<td>14\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pie-oven-3554\" title=\"Pie Oven\" rel=\"noopener noreferrer\" target=\"_blank\">Pie oven</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/eb/Pie_Oven.png/revision/latest?cb=20250925180403\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pie Oven\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>14\n</td>\n<td>2,200\n</td>\n<td>12 h\n</td>\n<td>17\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/loom-3555\" title=\"Loom\" rel=\"noopener noreferrer\" target=\"_blank\">Loom</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3b/Loom.png/revision/latest?cb=20250925184334\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Loom\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>17\n</td>\n<td>3,200\n</td>\n<td>1 d\n</td>\n<td>19\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sewing-machine-14242\" title=\"Sewing Machine\" rel=\"noopener noreferrer\" target=\"_blank\">Sewing machine</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e0/Sewing_Machine.png/revision/latest?cb=20250925184535\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sewing Machine\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>19\n</td>\n<td>4,500\n</td>\n<td>20 h\n</td>\n<td>19\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cake-oven-3556\" title=\"Cake Oven\" rel=\"noopener noreferrer\" target=\"_blank\">Cake oven</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/95/Cake_Oven.png/revision/latest?cb=20250925180900\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cake Oven\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>21\n</td>\n<td>12,100\n</td>\n<td>1 d\n</td>\n<td>24\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">Mine</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest?cb=20150714140453\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mine\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>24\n</td>\n<td>21,000\n</td>\n<td>1 d 11 h\n</td>\n<td>28\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td rowspan=\"5\"><b><a href=\"/wiki/smelter-3557\" title=\"Smelter\" rel=\"noopener noreferrer\" target=\"_blank\">Smelter x5</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/45/Smelter.png/revision/latest?cb=20250925185202\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Smelter\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td rowspan=\"5\">24\n</td>\n<td>12,500 (1st)\n</td>\n<td rowspan=\"5\">18 h\n</td>\n<td rowspan=\"5\">21\n</td>\n<td rowspan=\"5\">2x2\n</td></tr>\n<tr>\n<td>22,000 (2nd)\n</td></tr>\n<tr>\n<td>31,500 (3rd)\n</td></tr>\n<tr>\n<td>41,000 (4th)\n</td></tr>\n<tr>\n<td>50,500 (5th)\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/juice-press-3559\" title=\"Juice Press\" rel=\"noopener noreferrer\" target=\"_blank\">Juice press</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9c/Juice_Press.png/revision/latest?cb=20250925185414\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Juice Press\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>26\n</td>\n<td>31,000\n</td>\n<td>1 d 8 h\n</td>\n<td>27\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lure-workbench-5889\" title=\"Lure Workbench\" rel=\"noopener noreferrer\" target=\"_blank\">Lure workbench</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lure_Workbench.png/revision/latest?cb=20250925185602\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lure Workbench\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>27\n</td>\n<td>N/A\n</td>\n<td>N/A\n</td>\n<td>N/A\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/ice-cream-maker-3560\" title=\"Ice Cream Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Ice cream maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cf/Ice_Cream_Maker.png/revision/latest?cb=20250925190023\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Ice Cream Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>29\n</td>\n<td>38,000\n</td>\n<td>1 d 7 h\n</td>\n<td>27\n</td>\n<td>3x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/net-maker-8475\" title=\"Net Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Net maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/49/Net_Maker.png/revision/latest?cb=20250925200325\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Net Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>30\n</td>\n<td>28,000\n</td>\n<td>2 d\n</td>\n<td>32\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/doner-kebab-stand-36894\" class=\"mw-redirect\" title=\"Doner Kebab Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Doner kebab stand</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e0/D%C3%B6ner_Kebab_Stand.png/revision/latest?cb=20260601232533\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Döner Kebab Stand\" loading=\"lazy\" width=\"100\" height=\"111\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>32\n</td>\n<td>22,000\n</td>\n<td>1 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/jam-maker-3561\" title=\"Jam Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Jam maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e5/Jam_Maker.png/revision/latest?cb=20250926033643\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Jam Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>35\n</td>\n<td>59,000\n</td>\n<td>1 d 12 h\n</td>\n<td>28\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/jeweler-3562\" title=\"Jeweler\" rel=\"noopener noreferrer\" target=\"_blank\">Jeweler</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c0/Jeweler.png/revision/latest?cb=20250925200710\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Jeweler\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>38\n</td>\n<td>68,000\n</td>\n<td>1 d 12 h\n</td>\n<td>28\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/honey-extractor-15755\" title=\"Honey Extractor\" rel=\"noopener noreferrer\" target=\"_blank\">Honey extractor</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/20/Honey_Extractor.png/revision/latest?cb=20250925200945\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey Extractor\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>39\n</td>\n<td>35,000\n</td>\n<td>1 d\n</td>\n<td>24\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/coffee-kiosk-3564\" title=\"Coffee Kiosk\" rel=\"noopener noreferrer\" target=\"_blank\">Coffee kiosk</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/92/Coffee_Kiosk.png/revision/latest?cb=20250925201210\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Coffee Kiosk\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>42\n</td>\n<td>75,000\n</td>\n<td>1 d 11 h\n</td>\n<td>35\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lobster-pool-8477\" title=\"Lobster Pool\" rel=\"noopener noreferrer\" target=\"_blank\">Lobster pool</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/97/Lobster_Pool_Stage_6.png/revision/latest?cb=20150713113630\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lobster Pool Stage 6\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>44\n</td>\n<td>80,000\n</td>\n<td>2 d\n</td>\n<td>32\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/soup-kitchen-8444\" title=\"Soup Kitchen\" rel=\"noopener noreferrer\" target=\"_blank\">Soup kitchen</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/7e/Soup_Kitchen.png/revision/latest?cb=20250925201719\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Soup Kitchen\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>46\n</td>\n<td>115,000\n</td>\n<td>1 d 12 h\n</td>\n<td>28\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/candle-maker-16469\" title=\"Candle Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Candle maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/5c/Candle_Maker.png/revision/latest?cb=20250925204304\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Candle Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>48\n</td>\n<td>118,000\n</td>\n<td>1 d 14 h\n</td>\n<td>24\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/flower-shop-28398\" title=\"Flower Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Flower shop</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a6/Flower_Shop.png/revision/latest?cb=20250925204453\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Flower Shop\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>49\n</td>\n<td>120,000\n</td>\n<td>1 d 15 h\n</td>\n<td>30\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/duck-salon-17003\" title=\"Duck Salon\" rel=\"noopener noreferrer\" target=\"_blank\">Duck salon</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/67/Duck_Salon_Stage6.png/revision/latest?cb=20150713112815\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Duck Salon Stage6\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>50\n</td>\n<td>90,000\n</td>\n<td>2 d 5 h\n</td>\n<td>34\n</td>\n<td>N/A\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/candy-machine-3565\" title=\"Candy Machine\" rel=\"noopener noreferrer\" target=\"_blank\">Candy machine</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Candy_Machine.png/revision/latest?cb=20250925204735\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Candy Machine\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>51\n</td>\n<td>120,000\n</td>\n<td>1 d\n</td>\n<td>27\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sauce-maker-8894\" title=\"Sauce Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Sauce maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/86/Sauce_Maker.png/revision/latest?cb=20250925204949\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sauce Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>54\n</td>\n<td>135,000\n</td>\n<td>1 d 16 h\n</td>\n<td>30\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sushi-bar-8892\" title=\"Sushi Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Sushi bar</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b3/Sushi_Bar.png/revision/latest?cb=20250925210447\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sushi Bar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>56\n</td>\n<td>150,000\n</td>\n<td>1 d 20 h\n</td>\n<td>38\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/salad-bar-8900\" title=\"Salad Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Salad bar</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Salad_Bar.png/revision/latest?cb=20250925210656\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Salad Bar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>58\n</td>\n<td>165,000\n</td>\n<td>2 d\n</td>\n<td>32\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sandwich-bar-9403\" title=\"Sandwich Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Sandwich bar</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b0/Sandwich_Bar.png/revision/latest?cb=20250925211004\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sandwich Bar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>61\n</td>\n<td>180,000\n</td>\n<td>2 d 4 h\n</td>\n<td>34\n</td>\n<td>3x3\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/smoothie-mixer-11369\" title=\"Smoothie Mixer\" rel=\"noopener noreferrer\" target=\"_blank\">Smoothie mixer</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/12/Smoothie_Mixer.png/revision/latest?cb=20250925211208\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Smoothie Mixer\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>64\n</td>\n<td>220,000\n</td>\n<td>3 d\n</td>\n<td>39\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pasta-maker-19438\" title=\"Pasta Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Pasta maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/38/Pasta_Maker.png/revision/latest?cb=20250925211526\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pasta Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>67\n</td>\n<td>410,000\n</td>\n<td>3 d 7 h\n</td>\n<td>43\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/essential-oils-lab-36027\" title=\"Essential Oils Lab\" rel=\"noopener noreferrer\" target=\"_blank\">Essential Oils Lab</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a7/Essential_Oils_Lab.png/revision/latest?cb=20250925213522\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Essential Oils Lab\" loading=\"lazy\" width=\"100\" height=\"107\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>68\n</td>\n<td>85,000\n</td>\n<td>3 d 7 h\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/wok-kitchen-32965\" title=\"Wok Kitchen\" rel=\"noopener noreferrer\" target=\"_blank\">Wok kitchen</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c7/Wok_Kitchen.png/revision/latest?cb=20250925221155\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wok Kitchen\" loading=\"lazy\" width=\"100\" height=\"108\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>69\n</td>\n<td>350,000\n</td>\n<td>3 d 8 h\n</td>\n<td>41\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/hat-maker-18338\" title=\"Hat Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Hat maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/ea/Hat_Maker.png/revision/latest?cb=20250925221556\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Hat Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>70\n</td>\n<td>260,000\n</td>\n<td>3 d 3 h\n</td>\n<td>40\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pasta-kitchen-20183\" title=\"Pasta Kitchen\" rel=\"noopener noreferrer\" target=\"_blank\">Pasta kitchen</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/6b/Pasta_Kitchen.png/revision/latest?cb=20250925221934\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pasta Kitchen\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>72\n</td>\n<td>550,000\n</td>\n<td>3 d 12 h\n</td>\n<td>42\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/hot-dog-stand-19439\" title=\"Hot Dog Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Hot dog stand</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b7/Hot_Dog_Stand.png/revision/latest?cb=20250925222258\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Hot Dog Stand\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>75\n</td>\n<td>650,000\n</td>\n<td>3 d 16 h\n</td>\n<td>41\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/donut-maker-34959\" title=\"Donut Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Donut maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/ac/Donut_Maker.png/revision/latest?cb=20250925231826\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Donut Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>76\n</td>\n<td>680,000\n</td>\n<td>3 d 18 h\n</td>\n<td>42\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/taco-kitchen-24828\" title=\"Taco Kitchen\" rel=\"noopener noreferrer\" target=\"_blank\">Taco kitchen</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/65/Taco_Kitchen.png/revision/latest?cb=20250925233651\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Taco Kitchen\" loading=\"lazy\" width=\"100\" height=\"98\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>77\n</td>\n<td>700,000\n</td>\n<td>3 d 18 h\n</td>\n<td>43\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/omelet-station-35818\" title=\"Omelet Station\" rel=\"noopener noreferrer\" target=\"_blank\">Omelet station</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Omelet_Station.png/revision/latest?cb=20250925234121\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Omelet Station\" loading=\"lazy\" width=\"100\" height=\"84\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>77\n</td>\n<td>600,000\n</td>\n<td>3 d 8 h\n</td>\n<td>41\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tea-stand-24829\" title=\"Tea Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Tea stand</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/74/Tea_Stand.png/revision/latest?cb=20250925234337\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tea Stand\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>80\n</td>\n<td>750,000\n</td>\n<td>3 d 23 h\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/fondue-pot-32980\" title=\"Fondue Pot\" rel=\"noopener noreferrer\" target=\"_blank\">Fondue pot</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/10/Fondue_Pot.png/revision/latest?cb=20250925235620\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Fondue Pot\" loading=\"lazy\" width=\"100\" height=\"101\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>81\n</td>\n<td>800,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bath-kiosk-34840\" title=\"Bath Kiosk\" rel=\"noopener noreferrer\" target=\"_blank\">Bath kiosk</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/14/Bath_Kiosk.png/revision/latest?cb=20260302021253\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bath Kiosk\" loading=\"lazy\" width=\"100\" height=\"90\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>84\n</td>\n<td>850,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/deep-fryer-33952\" title=\"Deep Fryer\" rel=\"noopener noreferrer\" target=\"_blank\">Deep fryer</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/05/Deep_Fryer.png/revision/latest?cb=20250926002632\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Deep Fryer\" loading=\"lazy\" width=\"100\" height=\"96\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>87\n</td>\n<td>900,000\n</td>\n<td>3 d 23 h\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/preservation-station-35177\" title=\"Preservation Station\" rel=\"noopener noreferrer\" target=\"_blank\">Preservation station</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Preservation_Station.png/revision/latest?cb=20250926003418\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Preservation Station\" loading=\"lazy\" width=\"100\" height=\"86\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>91\n</td>\n<td>950,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pottery-studio-35276\" title=\"Pottery Studio\" rel=\"noopener noreferrer\" target=\"_blank\">Pottery studio</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Pottery_Studio.png/revision/latest?cb=20211129201926\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pottery Studio\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>94\n</td>\n<td>1,000,000\n</td>\n<td>4 d\n</td>\n<td>46\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/fudge-shop-35377\" title=\"Fudge Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Fudge shop</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/27/Fudge_Shop.png/revision/latest?cb=20250926005512\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Fudge Shop\" loading=\"lazy\" width=\"100\" height=\"112\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>99\n</td>\n<td>1,050,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/yogurt-maker-35459\" title=\"Yogurt Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Yogurt Maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/55/Yogurt_Maker.png/revision/latest?cb=20250926011318\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Yogurt Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>103\n</td>\n<td>1,100,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/stew-pot-35560\" title=\"Stew Pot\" rel=\"noopener noreferrer\" target=\"_blank\">Stew Pot</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9f/Stew_Pot.png/revision/latest?cb=20250926012150\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Stew Pot\" loading=\"lazy\" width=\"100\" height=\"82\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>106\n</td>\n<td>1,150,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cupcake-maker-35636\" title=\"Cupcake Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Cupcake Maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/94/Cupcake_Maker.png/revision/latest?cb=20250926012739\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cupcake Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>109\n</td>\n<td>1,200,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/perfumerie-36209\" title=\"Perfumerie\" rel=\"noopener noreferrer\" target=\"_blank\">Perfumerie</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/54/Perfumerie.png/revision/latest?cb=20250926015045\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Perfumerie\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>110\n</td>\n<td>1,000,000\n</td>\n<td>4 d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/waffle-maker-35743\" title=\"Waffle Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Waffle Maker</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2b/Waffle_Maker.png/revision/latest?cb=20250926020952\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Waffle Maker\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>114\n</td>\n<td>1,250,000\n</td>\n<td>4d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/porridge-bar-35893\" title=\"Porridge Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Porridge Bar</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/5a/Porridge_Bar.png/revision/latest?cb=20250926022631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Porridge Bar\" loading=\"lazy\" width=\"97\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>119\n</td>\n<td>1,300,000\n</td>\n<td>4d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/milkshake-bar-35971\" title=\"Milkshake Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Milkshake Bar</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/4a/Milkshake_Bar.png/revision/latest?cb=20250926023613\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Milkshake Bar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>124\n</td>\n<td>1,350,000\n</td>\n<td>4d\n</td>\n<td>44\n</td>\n<td>2x2\n</td></tr></tbody></table>\n<p><br>\n</p>\n<figure class=\"mw-halign-center\"><a href=\"https://static.wikia.nocookie.net/hayday/images/6/61/Production_Buildings.png/revision/latest?cb=20240319094530\" class=\"mw-file-description image\" title=\"Number of production buildings per level\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Number of production buildings per level\" loading=\"lazy\" width=\"700\" height=\"508\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Number of production buildings per level</figcaption></figure> \n<p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831010039\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.061 seconds\nReal time usage: 0.087 seconds\nPreprocessor visited node count: 61/1000000\nPost‐expand include size: 56/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.142      1 Template:Clr\n100.00%    1.142      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33288-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831010039 and revision id 110699. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "8a21e108efe1514efaac5fadc17e08bf07b09aa5b6f2d784162eae5abccb36bd",
+  "internalLinks": [
+    {
+      "route": "/wiki/bakery-3545",
+      "title": "Bakery"
+    },
+    {
+      "route": "/wiki/bath-kiosk-34840",
+      "title": "Bath Kiosk"
+    },
+    {
+      "route": "/wiki/bbq-grill-3552",
+      "title": "BBQ Grill"
+    },
+    {
+      "route": "/wiki/cake-oven-3556",
+      "title": "Cake Oven"
+    },
+    {
+      "route": "/wiki/candle-maker-16469",
+      "title": "Candle Maker"
+    },
+    {
+      "route": "/wiki/candy-machine-3565",
+      "title": "Candy Machine"
+    },
+    {
+      "route": "/wiki/coffee-kiosk-3564",
+      "title": "Coffee Kiosk"
+    },
+    {
+      "route": "/wiki/cupcake-maker-35636",
+      "title": "Cupcake Maker"
+    },
+    {
+      "route": "/wiki/dairy-3547",
+      "title": "Dairy"
+    },
+    {
+      "route": "/wiki/deep-fryer-33952",
+      "title": "Deep Fryer"
+    },
+    {
+      "route": "/wiki/doner-kebab-stand-36894",
+      "title": "Doner Kebab Stand"
+    },
+    {
+      "route": "/wiki/donut-maker-34959",
+      "title": "Donut Maker"
+    },
+    {
+      "route": "/wiki/duck-salon-17003",
+      "title": "Duck Salon"
+    },
+    {
+      "route": "/wiki/essential-oils-lab-36027",
+      "title": "Essential Oils Lab"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/feed-mill-3546",
+      "title": "Feed Mill"
+    },
+    {
+      "route": "/wiki/flower-shop-28398",
+      "title": "Flower Shop"
+    },
+    {
+      "route": "/wiki/fondue-pot-32980",
+      "title": "Fondue Pot"
+    },
+    {
+      "route": "/wiki/fudge-shop-35377",
+      "title": "Fudge Shop"
+    },
+    {
+      "route": "/wiki/hat-maker-18338",
+      "title": "Hat Maker"
+    },
+    {
+      "route": "/wiki/honey-extractor-15755",
+      "title": "Honey Extractor"
+    },
+    {
+      "route": "/wiki/hot-dog-stand-19439",
+      "title": "Hot Dog Stand"
+    },
+    {
+      "route": "/wiki/ice-cream-maker-3560",
+      "title": "Ice Cream Maker"
+    },
+    {
+      "route": "/wiki/jam-maker-3561",
+      "title": "Jam Maker"
+    },
+    {
+      "route": "/wiki/jeweler-3562",
+      "title": "Jeweler"
+    },
+    {
+      "route": "/wiki/juice-press-3559",
+      "title": "Juice Press"
+    },
+    {
+      "route": "/wiki/lobster-pool-8477",
+      "title": "Lobster Pool"
+    },
+    {
+      "route": "/wiki/loom-3555",
+      "title": "Loom"
+    },
+    {
+      "route": "/wiki/lure-workbench-5889",
+      "title": "Lure Workbench"
+    },
+    {
+      "route": "/wiki/milkshake-bar-35971",
+      "title": "Milkshake Bar"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/net-maker-8475",
+      "title": "Net Maker"
+    },
+    {
+      "route": "/wiki/omelet-station-35818",
+      "title": "Omelet Station"
+    },
+    {
+      "route": "/wiki/pasta-kitchen-20183",
+      "title": "Pasta Kitchen"
+    },
+    {
+      "route": "/wiki/pasta-maker-19438",
+      "title": "Pasta Maker"
+    },
+    {
+      "route": "/wiki/perfumerie-36209",
+      "title": "Perfumerie"
+    },
+    {
+      "route": "/wiki/pie-oven-3554",
+      "title": "Pie Oven"
+    },
+    {
+      "route": "/wiki/popcorn-pot-3551",
+      "title": "Popcorn Pot"
+    },
+    {
+      "route": "/wiki/porridge-bar-35893",
+      "title": "Porridge Bar"
+    },
+    {
+      "route": "/wiki/pottery-studio-35276",
+      "title": "Pottery Studio"
+    },
+    {
+      "route": "/wiki/preservation-station-35177",
+      "title": "Preservation Station"
+    },
+    {
+      "route": "/wiki/salad-bar-8900",
+      "title": "Salad Bar"
+    },
+    {
+      "route": "/wiki/sandwich-bar-9403",
+      "title": "Sandwich Bar"
+    },
+    {
+      "route": "/wiki/sauce-maker-8894",
+      "title": "Sauce Maker"
+    },
+    {
+      "route": "/wiki/sewing-machine-14242",
+      "title": "Sewing Machine"
+    },
+    {
+      "route": "/wiki/smelter-3557",
+      "title": "Smelter"
+    },
+    {
+      "route": "/wiki/smoothie-mixer-11369",
+      "title": "Smoothie Mixer"
+    },
+    {
+      "route": "/wiki/soup-kitchen-8444",
+      "title": "Soup Kitchen"
+    },
+    {
+      "route": "/wiki/stew-pot-35560",
+      "title": "Stew Pot"
+    },
+    {
+      "route": "/wiki/sugar-mill-3550",
+      "title": "Sugar Mill"
+    },
+    {
+      "route": "/wiki/sushi-bar-8892",
+      "title": "Sushi Bar"
+    },
+    {
+      "route": "/wiki/taco-kitchen-24828",
+      "title": "Taco Kitchen"
+    },
+    {
+      "route": "/wiki/tea-stand-24829",
+      "title": "Tea Stand"
+    },
+    {
+      "route": "/wiki/waffle-maker-35743",
+      "title": "Waffle Maker"
+    },
+    {
+      "route": "/wiki/wok-kitchen-32965",
+      "title": "Wok Kitchen"
+    },
+    {
+      "route": "/wiki/yogurt-maker-35459",
+      "title": "Yogurt Maker"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33288,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bakery.png",
+    "File:Bath Kiosk.png",
+    "File:BBQ Grill.png",
+    "File:Cake Oven.png",
+    "File:Candle Maker.png",
+    "File:Candy Machine.png",
+    "File:Coffee Kiosk.png",
+    "File:Cupcake Maker.png",
+    "File:Dairy.png",
+    "File:Deep Fryer.png",
+    "File:Doner Kebab Stand.png",
+    "File:Döner Kebab Stand.png",
+    "File:Donut Maker.png",
+    "File:Duck Salon Stage6.png",
+    "File:Essential Oils Lab.png",
+    "File:Feed Mill.png",
+    "File:Flower Shop.png",
+    "File:Fondue Pot.png",
+    "File:Fudge Shop.png",
+    "File:Hat Maker.png",
+    "File:Honey Extractor.png",
+    "File:Hot Dog Stand.png",
+    "File:Ice Cream Maker.png",
+    "File:Jam Maker.png",
+    "File:Jeweler.png",
+    "File:Juice Press.png",
+    "File:Lobster Pool Stage 6.png",
+    "File:Loom.png",
+    "File:Lure Workbench.png",
+    "File:Milkshake Bar.png",
+    "File:Mine.png",
+    "File:Net Maker.png",
+    "File:Omelet Station.png",
+    "File:Pasta Kitchen.png",
+    "File:Pasta Maker.png",
+    "File:Perfumerie.png",
+    "File:Pie Oven.png",
+    "File:Popcorn Pot.png",
+    "File:Porridge Bar.png",
+    "File:Pottery Studio.png",
+    "File:Preservation Station.png",
+    "File:Production Buildings.png",
+    "File:Salad Bar.png",
+    "File:Sandwich Bar.png",
+    "File:Sauce Maker.png",
+    "File:Sewing Machine.png",
+    "File:Smelter.png",
+    "File:Smoothie Mixer.png",
+    "File:Soup Kitchen.png",
+    "File:Stew Pot.png",
+    "File:Sugar Mill.png",
+    "File:Sushi Bar.png",
+    "File:Taco Kitchen.png",
+    "File:Tea Stand.png",
+    "File:Waffle Maker.png",
+    "File:Wok Kitchen.png",
+    "File:Yogurt Maker.png"
+  ],
+  "revisionId": 110699,
+  "revisionTimestamp": "2026-07-04T16:43:42Z",
+  "route": "/wiki/production-buildings-list-33288",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Production_Buildings_List",
+  "title": "Production Buildings List",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "67265cc430d59d8720361f1cfa36d69aada006f6ce6582bfbe506458a02d5594"
+}

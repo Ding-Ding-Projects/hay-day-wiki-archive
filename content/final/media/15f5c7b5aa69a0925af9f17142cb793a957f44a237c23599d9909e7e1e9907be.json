@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tom_Spot.png",
+  "height": 186,
+  "immutableUrl": null,
+  "mediaId": "File:Tom Spot.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T15:03:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATom%20Spot.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 32623,
+  "sourceSha1": "623ce43c5f2e197e63206f68626413353d7e1bdb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/Tom_Spot.png/revision/latest?cb=20180207150352",
+  "title": "File:Tom Spot.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 186
+}

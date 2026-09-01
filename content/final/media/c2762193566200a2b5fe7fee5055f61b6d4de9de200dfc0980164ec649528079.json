@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Booster_Swap.png",
+  "height": 1015,
+  "immutableUrl": null,
+  "mediaId": "File:Booster Swap.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-21T17:58:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABooster%20Swap.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 496374,
+  "sourceSha1": "4db20088ae3b28d131d795cce1dd2fe374653563",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ef/Booster_Swap.png/revision/latest?cb=20171021175841",
+  "title": "File:Booster Swap.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1015
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Country_Red.png",
+  "height": 256,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Country Red.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-06T04:08:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Country%20Red.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46693,
+  "sourceSha1": "3d48fbf3250362340f85877fc07cc6059a07639c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Walls_Country_Red.png/revision/latest?cb=20180606040809",
+  "title": "File:Walls Country Red.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 278
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Blackberry_Jam_Products?action=history",
+    "importedAt": "2026-09-01T03:06:57.723Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Blackberry_Jam_Products?oldid=98630",
+    "sourceRevisionId": 98630,
+    "sourceTitle": "Category:Blackberry Jam Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Blackberry_Jam_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/5/52/Blackberry_Jam.png/revision/latest?cb=20240208151625\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blackberry Jam\" src=\"https://static.wikia.nocookie.net/hayday/images/5/52/Blackberry_Jam.png/revision/latest/scale-to-width-down/180?cb=20240208151625\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ABlackberry_Jam.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/blackberry-jam-2320\" title=\"Blackberry Jam\" rel=\"noopener noreferrer\" target=\"_blank\">Blackberry Jam</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030656\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35129-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030656 and revision id 98630. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6946f2232c7333bf6af2d3497ef1903a055422a6ac26be8bf3fe53d4665683f8",
+  "internalLinks": [
+    {
+      "route": "/wiki/blackberry-jam-2320",
+      "title": "Blackberry Jam"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35129,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Blackberry Jam.png"
+  ],
+  "revisionId": 98630,
+  "revisionTimestamp": "2021-09-06T22:37:31Z",
+  "route": "/wiki/category%2Fcategory-blackberry-jam-products-35129",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Blackberry_Jam_Products",
+  "title": "Category:Blackberry Jam Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "3f9707f9f0f302a54706fe8076e3859827e2a3823ebd84475f03c745f1fc625b"
+}

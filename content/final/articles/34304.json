@@ -1,0 +1,51 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki?action=history",
+    "importedAt": "2026-09-01T03:06:16.632Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki?oldid=95415",
+    "sourceRevisionId": 95415,
+    "sourceTitle": "Category:Hay Day Wiki",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/e/ee/Next_Stop_Wiki.png/revision/latest?cb=20151021144322\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Next Stop Wiki\" src=\"https://static.wikia.nocookie.net/hayday/images/e/ee/Next_Stop_Wiki.png/revision/latest/scale-to-width-down/300?cb=20151021144322\" loading=\"lazy\" width=\"300\" height=\"157\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p><b>Hello and welcome to our Wiki!</b>\n</p><p>This page lists all the main parts of our Wiki. If you want to know more about the game, we suggest you have a look at the <a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a> page and <a href=\"/wiki/category%2Fcategory-game-features-7440\" title=\"Category:Game Features\" rel=\"noopener noreferrer\" target=\"_blank\">Game Features</a> category. To know more about the creators of Hay Day, head over to <a href=\"/wiki/supercell-3601\" title=\"Supercell\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell</a>.\n</p><p>If you're interested in contributing, our <a href=\"/unavailable-source?title=Special%3ACommunity\" title=\"Special:Community\" rel=\"noopener noreferrer\" target=\"_blank\">Community Page</a> is a good place to start.\n</p><p>Wanna talk or ask questions? Check out <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://hayday.fandom.com/f\" rel=\"noopener noreferrer\" target=\"_blank\">Discussions</a>.\n</p>\n<div></div>\n\n<!-- \nNewPP limit report\nCached time: 20260901014056\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.017 seconds\nPreprocessor visited node count: 4/1000000\nPost‐expand include size: 56/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.360      1 Template:Clr\n100.00%    1.360      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:34304-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901014056 and revision id 95415. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "bcea0a8780bdbf4a3f7df8a2178d945065881af181c9fda5f92b46704db13758",
+  "internalLinks": [
+    {
+      "route": "/wiki/category%2Fcategory-game-features-7440",
+      "title": "Category:Game Features"
+    },
+    {
+      "route": "/wiki/hay-day-8519",
+      "title": "Hay Day"
+    },
+    {
+      "route": "/wiki/supercell-3601",
+      "title": "Supercell"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 34304,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Next Stop Wiki.png"
+  ],
+  "revisionId": 95415,
+  "revisionTimestamp": "2020-08-18T01:44:23Z",
+  "route": "/wiki/category%2Fcategory-hay-day-wiki-34304",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki",
+  "title": "Category:Hay Day Wiki",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "999ab134dfbc20e06cb3566f6bc95abc663199b3fddce9bec9c5872b033ee867"
+}

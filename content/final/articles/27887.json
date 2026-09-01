@@ -1,0 +1,51 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Problems?action=history",
+    "importedAt": "2026-09-01T03:01:35.964Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hay_Day_Problems?oldid=101571",
+    "sourceRevisionId": 101571,
+    "sourceTitle": "Hay Day Problems",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Are_you_experiencing_problems_with_Hay_Day_and_you_wish_to_contact_Supercell?",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Are you experiencing problems with Hay Day and you wish to contact Supercell?</b>",
+      "text": "<b>Are you experiencing problems with Hay Day and you wish to contact Supercell?</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Problems?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<h3><span></span><span class=\"mw-headline\"><b>Are you experiencing problems with Hay Day and you wish to contact Supercell?</b></span></h3>\n<ul><li>You can access the Supercell Support window directly within the game by going to <a href=\"/wiki/settings-22791\" title=\"Settings\" rel=\"noopener noreferrer\" target=\"_blank\">Settings</a> &gt; Help and Support.</li></ul>\n<figure class=\"mw-halign-center\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Help_Message.png/revision/latest?cb=20151125095341\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Help Message\" src=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Help_Message.png/revision/latest/scale-to-width-down/150?cb=20151125095341\" loading=\"lazy\" width=\"150\" height=\"84\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<ul><li>You can click on this link to go to their Help Form: <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;contact=1\" rel=\"noopener noreferrer\" target=\"_blank\">https://supercell.helpshift.com/a/hay-day/?p=web&amp;contact=1</a></li></ul>\n<ul><li>You can email them about fraud issues: <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"http://supercell.com/en/fraud-issues/\" rel=\"noopener noreferrer\" target=\"_blank\">http://supercell.com/en/fraud-issues/</a></li></ul>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260901030123\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.011 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 43/1000000\nPost‐expand include size: 118/2097152 bytes\nTemplate argument size: 40/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.192      1 -total\n 56.92%    1.817      1 Template:Languages\n 39.82%    1.271      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:27887-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030123 and revision id 101571. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "69a35b4b107c6fe40b927702f915e5640f8f82f3a55e989e4cf2c91ee5f1950d",
+  "internalLinks": [
+    {
+      "route": "/wiki/settings-22791",
+      "title": "Settings"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 27887,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Help Message.png"
+  ],
+  "revisionId": 101571,
+  "revisionTimestamp": "2022-10-01T10:44:40Z",
+  "route": "/wiki/hay-day-problems-27887",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Problems",
+  "title": "Hay Day Problems",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ec22e971f4f12abdb93e3bec0bed85e2dc72a5c21dfafffb00688f9528ad3b1a"
+}

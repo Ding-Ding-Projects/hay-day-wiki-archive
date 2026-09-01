@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Milkshake_Bar_Mastered.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Milkshake Bar Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-26T02:42:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMilkshake%20Bar%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 167556,
+  "sourceSha1": "8660172e6f32236b4ddc80f1297656f0db993b91",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/06/Milkshake_Bar_Mastered.png/revision/latest?cb=20250926024229",
+  "title": "File:Milkshake Bar Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 350
+}

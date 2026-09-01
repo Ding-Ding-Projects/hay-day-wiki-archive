@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Wheat_Products?action=history",
+    "importedAt": "2026-09-01T03:05:20.944Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Wheat_Products?oldid=98537",
+    "sourceRevisionId": 98537,
+    "sourceTitle": "Category:Wheat Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Wheat_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest?cb=20240218150024\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wheat\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest/scale-to-width-down/180?cb=20240218150024\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AWheat.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">Wheat</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030513\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33099-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030513 and revision id 98537. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "758a8bfb5afdcbedc754f31e75c4aef479670a69df59b0fbb8970b972ca58900",
+  "internalLinks": [
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 33099,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Wheat.png"
+  ],
+  "revisionId": 98537,
+  "revisionTimestamp": "2021-08-31T20:52:16Z",
+  "route": "/wiki/category%2Fcategory-wheat-products-33099",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Wheat_Products",
+  "title": "Category:Wheat Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a46741c5af1d3738e4f10eda9bb26aba92de71cb75aaf4f9296e7bf32d7711fc"
+}

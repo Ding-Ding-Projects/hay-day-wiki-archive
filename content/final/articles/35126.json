@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products?action=history",
+    "importedAt": "2026-09-01T03:06:57.723Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products?oldid=98627",
+    "sourceRevisionId": 98627,
+    "sourceTitle": "Category:Roasted Tomatoes Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/04/Roasted_Tomatoes.png/revision/latest?cb=20191023233109\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roasted Tomatoes\" src=\"https://static.wikia.nocookie.net/hayday/images/0/04/Roasted_Tomatoes.png/revision/latest/scale-to-width-down/180?cb=20191023233109\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ARoasted_Tomatoes.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/roasted-tomatoes-2279\" title=\"Roasted Tomatoes\" rel=\"noopener noreferrer\" target=\"_blank\">Roasted Tomatoes</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030655\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35126-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030655 and revision id 98627. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "cdac8c60cfbbffdface285d8e3dabfc43f01889e2ed37e9a4142c13f6bf90549",
+  "internalLinks": [
+    {
+      "route": "/wiki/roasted-tomatoes-2279",
+      "title": "Roasted Tomatoes"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35126,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Roasted Tomatoes.png"
+  ],
+  "revisionId": 98627,
+  "revisionTimestamp": "2021-09-06T22:36:17Z",
+  "route": "/wiki/category%2Fcategory-roasted-tomatoes-products-35126",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products",
+  "title": "Category:Roasted Tomatoes Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "cd75c561494b4fb4c76a0b4df972e0dbbf9963483a019e6fe83c32aaed1f006c"
+}

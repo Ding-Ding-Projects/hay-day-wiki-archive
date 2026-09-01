@@ -1,0 +1,148 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Settings?action=history",
+    "importedAt": "2026-09-01T02:56:37.648Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Settings?oldid=96788",
+    "sourceRevisionId": 96788,
+    "sourceTitle": "Settings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [
+    {
+      "consentRequired": true,
+      "embedMode": "consent-gated",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/user/haydayofficial",
+      "verdict": "external-embed"
+    }
+  ],
+  "headings": [
+    {
+      "anchor": "1._The_Settings_tab",
+      "index": "1",
+      "level": 3,
+      "line": "<b>1. The Settings tab</b>",
+      "text": "<b>1. The Settings tab</b>"
+    },
+    {
+      "anchor": "Help_and_support_section",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Help and support section</b>",
+      "text": "<b>Help and support section</b>"
+    },
+    {
+      "anchor": "Advanced_Settings_section",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Advanced Settings section</b>",
+      "text": "<b>Advanced Settings section</b>"
+    },
+    {
+      "anchor": "Connection_to_Facebook,_Google_Play_and_Game_Center",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Connection to Facebook, Google Play and Game Center</b>",
+      "text": "<b>Connection to Facebook, Google Play and Game Center</b>"
+    },
+    {
+      "anchor": "2._The_Community_tab",
+      "index": "5",
+      "level": 3,
+      "line": "<b>2. The Community tab</b>",
+      "text": "<b>2. The Community tab</b>"
+    },
+    {
+      "anchor": "3._The_More_tab",
+      "index": "6",
+      "level": 3,
+      "line": "<b>3. The More tab</b>",
+      "text": "<b>3. The More tab</b>"
+    },
+    {
+      "anchor": "References",
+      "index": "7",
+      "level": 3,
+      "line": "<b>References</b>",
+      "text": "<b>References</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Settings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/d/db/Settings_Icon.png/revision/latest?cb=20171227165326\" class=\"mw-file-description image\" title=\"Settings icon\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings icon\" src=\"https://static.wikia.nocookie.net/hayday/images/d/db/Settings_Icon.png/revision/latest?cb=20171227165326\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Settings icon</figcaption></figure>\n<p>Through the game's <b>settings</b>, players can change game options, access help and support, connect to Facebook / Google Play / Game Center, access news, and find relevant links.&#160; &#160; &#160; &#160;\n</p><p>Settings can be accessed by tapping on the settings icon (gear) in the upper left corner of <a href=\"/wiki/glossary-23055\" title=\"Glossary\" rel=\"noopener noreferrer\" target=\"_blank\">the screen</a>. &#160;\n</p>\n<div></div>\n<p>The settings window has 3 tabs:\n</p>\n<ul><li><i>Settings</i></li>\n<li><i>Community</i></li>\n<li><i>More</i></li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>1. The Settings tab</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/9/91/Settings.png/revision/latest?cb=20180419231631\" class=\"mw-file-description image\" title=\"Settings - Android\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings - Android\" src=\"https://static.wikia.nocookie.net/hayday/images/9/91/Settings.png/revision/latest/scale-to-width-down/150?cb=20180419231631\" loading=\"lazy\" width=\"150\" height=\"106\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Settings - Android</figcaption></figure>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/4/4d/Settings_iOS.png/revision/latest?cb=20151122072509\" class=\"mw-file-description image\" title=\"Settings - iOS\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings - iOS\" src=\"https://static.wikia.nocookie.net/hayday/images/4/4d/Settings_iOS.png/revision/latest/scale-to-width-down/150?cb=20151122072509\" loading=\"lazy\" width=\"150\" height=\"98\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Settings - iOS</figcaption></figure>\n<p>In the settings tab, players can:\n</p>\n<ul><li>access Help and Support</li>\n<li>change their&#160;<a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">farm</a> name and the game language</li>\n<li>access advanced settings</li>\n<li>turn on or off music and sounds</li>\n<li>connect to Facebook / Google Play / Game Center</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Help and support section</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cf/Help_UI.png/revision/latest?cb=20151121070341\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Help UI\" loading=\"lazy\" width=\"200\" height=\"113\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>The Help and Support panel shows what is new, known issues, answers Frequently Asked Questions (FAQs) and is where players go to receive help from <a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a> Support. Players can search Help and Support by using the magnifying glass in the top right corner.\n</p>\n<div></div>\n<p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f1/Help_Contact.png/revision/latest?cb=20151124130226\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Help Contact\" loading=\"lazy\" width=\"200\" height=\"113\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>If the player can not find an answer to a problem, they can contact <a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a> Support through the \"Contact Us\" icon in the top right corner (if available), or, after searching, the \"Contact Us\" will be at the bottom of the page. \n</p>\n<div></div>\n<p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Help_Message.png/revision/latest?cb=20151125095341\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Help Message\" loading=\"lazy\" width=\"200\" height=\"113\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>Players write their message to support and leave their name, they can also choose to leave their email address. Players can also attach screenshots or other images by tapping on the image icon in the top right corner. Once finished they tap the send arrow icon, also in the top right corner. A notification will appear on the settings icon when support has responded.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Advanced Settings section</b></span></h3>\n<p>Players can change even more settings in this panel. If a green tick is displayed the setting is enabled; otherwise, it's disabled.\n</p>\n<table>\n\n<tbody><tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/93/Advanced_Settings_Neighborhood.png/revision/latest?cb=20151121070432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Advanced Settings Neighborhood\" loading=\"lazy\" width=\"200\" height=\"130\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><b>Neighborhood</b><br>Players can enable or disable the <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a> chat.\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/39/Advanced_Settings_Derby.png/revision/latest?cb=20151121070504\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Advanced Settings Derby\" loading=\"lazy\" width=\"200\" height=\"131\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><b>Derby</b><br>Players can opt in or out of the <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derby</a>. If the green check-mark is showing the player is opted in to the next derby. If there is no check-mark the player is opted out of the next derby.\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e7/Advanced_Settings_Fishing.png/revision/latest?cb=20151121070622\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Advanced Settings Fishing\" loading=\"lazy\" width=\"200\" height=\"130\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><b>Notifications</b><br>Players can choose whether they want to get notifications about various events. Players only receive notifications when they are not playing.\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/91/Advanced_Settings_Town_and_Double_Tap.png/revision/latest?cb=20151121070719\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Advanced Settings Town and Double Tap\" loading=\"lazy\" width=\"200\" height=\"129\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><b>Double Tap Confirmation</b><br>The double tap confirmation step reduces unintentional use of <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>. However, it does not work when making <a href=\"/wiki/lure-5882\" title=\"Lure\" rel=\"noopener noreferrer\" target=\"_blank\">lures</a>, purchasing <a href=\"/wiki/decorations-6168\" title=\"Decorations\" rel=\"noopener noreferrer\" target=\"_blank\">decorations</a>, or when the game loads a pop-up window.\n</td></tr></tbody></table>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Connection to Facebook, Google Play and Game Center</b></span></h3>\n<p>To attach their farms to any of these, players must log into Facebook, Google Play or Game Center first then load the game. They can enable or disable the connection to Facebook and Google Play by using the corresponding buttons. Farms permanently attach themselves to the first account chosen.\n</p><p>When connected:\n</p>\n<ul><li>the game displays the first name and profile picture corresponding the site they're connected to.</li>\n<li>progress in the game is saved, and can be accessed from another device or restored if needed.</li>\n<li>the game automatically adds Facebook and Game Center <a href=\"/wiki/friends-7721\" title=\"Friends\" rel=\"noopener noreferrer\" target=\"_blank\">friends</a> who also play Hay Day and have linked their games to their accounts.</li>\n<li>players can add other players as friends in the game if they become Facebook or Game Center friends.</li>\n<li>the \"megaphone\" can be used to notify Facebook friends when a player needs help.</li>\n<li>players can track their <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">achievements</a> in Game Center and Google Play.</li>\n<li>leaders, co-leaders and elders of a <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a>, can send out membership invites to Facebook and Game Center friends by visiting their friends' farms and tapping on the envelope icon next to their names.</li></ul>\n<p>There is currently no way to add friends to the game through Google Play.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>2. The Community tab</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/ae/Settings_Community.png/revision/latest?cb=20151121070902\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings Community\" loading=\"lazy\" width=\"200\" height=\"187\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>The Community tab provides links to:\n</p>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://forum.supercell.net/forumdisplay.php/5-Hay-Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Community</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.facebook.com/HayDayOfficial\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Facebook</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.instagram.com/hayday\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Instagram #aMOOzing</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://twitter.com/hayday\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Twitter @hayday</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.youtube.com/user/haydayofficial\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day YouTube channel</a></li>\n<li><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://hayday.fandom.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Wikia</a> (this wiki)</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>3. The More tab</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/aa/Settings_More.png/revision/latest?cb=20151121072041\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings More\" loading=\"lazy\" width=\"200\" height=\"130\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>The More tab provides links to the <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://supercell.com/en/terms-of-service/\" rel=\"noopener noreferrer\" target=\"_blank\">Terms of Service</a>, <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://supercell.com/en/privacy-policy/\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a>, <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://supercell.com/en/parents/\" rel=\"noopener noreferrer\" target=\"_blank\">Parents' Guide</a> and credits.\n</p><p>If a player loses their game, Supercell may send them a recovery code, which can be found in this tab.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>References</b></span></h3>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;s=general-gameplay&amp;f=how-do-i-enable-the-diamond-confirmation-step\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: How do I enable the diamond confirmation step?</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;s=troubleshooting-device-settings&amp;f=how-do-i-change-the-language-of-the-game\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: How do I change the language of the game?</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?s=troubleshooting-device-settings&amp;f=how-to-save-the-game-with-google-and-facebook&amp;p=web\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: How to save the game with Google + and Facebook</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?s=keep-your-farm-safe-from-lost-progress&amp;f=save-your-progress-with-game-center&amp;p=web\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: Save your progress with Game Center</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?s=connect-with-friends&amp;p=web\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: Connect with Friends</a></li>\n<li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;s=forums-facebook-other-useful-links\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: Forums, Facebook &amp; Other Useful Links</a></li></ul>\n<hr>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260901025630\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.030 seconds\nReal time usage: 0.040 seconds\nPreprocessor visited node count: 117/1000000\nPost‐expand include size: 484/2097152 bytes\nTemplate argument size: 14/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.700      1 -total\n 35.89%    1.687      1 Template:Languages\n 29.89%    1.405      1 Template:PageDisplay\n 24.15%    1.135      7 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:22791-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025630 and revision id 96788. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "97bfdd51a3b999f4fe59985620ba273eff23fd7ceb39f790127ad9a127304ea0",
+  "internalLinks": [
+    {
+      "route": "/wiki/achievements-6714",
+      "title": "Achievements"
+    },
+    {
+      "route": "/wiki/decorations-6168",
+      "title": "Decorations"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/friends-7721",
+      "title": "Friends"
+    },
+    {
+      "route": "/wiki/glossary-23055",
+      "title": "Glossary"
+    },
+    {
+      "route": "/wiki/hay-day-8519",
+      "title": "Hay Day"
+    },
+    {
+      "route": "/wiki/lure-5882",
+      "title": "Lure"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 22791,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Advanced Settings Derby.png",
+    "File:Advanced Settings Fishing.png",
+    "File:Advanced Settings Neighborhood.png",
+    "File:Advanced Settings Town and Double Tap.png",
+    "File:Help Contact.png",
+    "File:Help Message.png",
+    "File:Help UI.png",
+    "File:Settings Community.png",
+    "File:Settings Icon.png",
+    "File:Settings iOS.png",
+    "File:Settings More.png",
+    "File:Settings.png"
+  ],
+  "revisionId": 96788,
+  "revisionTimestamp": "2021-01-15T23:39:46Z",
+  "route": "/wiki/settings-22791",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Settings",
+  "title": "Settings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9b43f31353e1b226c1a452f47e6a256d7ce586f1dcac611a4407408be94fd616"
+}

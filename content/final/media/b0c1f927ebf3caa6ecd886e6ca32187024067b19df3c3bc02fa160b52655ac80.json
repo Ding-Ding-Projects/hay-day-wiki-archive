@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Game_Trailer_2017",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Game Trailer 2017",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-03T16:54:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day%20Game%20Trailer%202017",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 12581,
+  "sourceSha1": "6f3a5b3c3e17a07edda5bda12f632de6eafeda98",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a3/Hay_Day_Game_Trailer_2017/revision/latest?cb=20180503165411",
+  "title": "File:Hay Day Game Trailer 2017",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

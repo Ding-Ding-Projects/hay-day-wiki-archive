@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Raspberry_Bush_Harvest_2.png",
+  "height": 253,
+  "immutableUrl": null,
+  "mediaId": "File:Raspberry Bush Harvest 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T17:39:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARaspberry%20Bush%20Harvest%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 56172,
+  "sourceSha1": "1645b204df28c4ec8cf022ec2839fffbe3daa9b2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Raspberry_Bush_Harvest_2.png/revision/latest?cb=20191028173932",
+  "title": "File:Raspberry Bush Harvest 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 253
+}

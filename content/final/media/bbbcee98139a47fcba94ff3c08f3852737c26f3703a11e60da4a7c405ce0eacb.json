@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plum_Tree_Dead.png",
+  "height": 907,
+  "immutableUrl": null,
+  "mediaId": "File:Plum Tree Dead.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-11T10:14:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APlum%20Tree%20Dead.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 444548,
+  "sourceSha1": "5f5f7775647fd73abf2b4d4cacaf535b938811d4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Plum_Tree_Dead.png/revision/latest?cb=20180711101434",
+  "title": "File:Plum Tree Dead.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 907
+}

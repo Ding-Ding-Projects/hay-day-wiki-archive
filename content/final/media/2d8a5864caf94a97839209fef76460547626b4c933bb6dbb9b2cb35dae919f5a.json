@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Halloween.png",
+  "height": 160,
+  "immutableUrl": null,
+  "mediaId": "File:Crates Halloween.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-10-12T13:22:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrates%20Halloween.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 37960,
+  "sourceSha1": "84c61cb36c434b734b52b60273cc0312600fb45d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2c/Crates_Halloween.png/revision/latest?cb=20221012132233",
+  "title": "File:Crates Halloween.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 160
+}

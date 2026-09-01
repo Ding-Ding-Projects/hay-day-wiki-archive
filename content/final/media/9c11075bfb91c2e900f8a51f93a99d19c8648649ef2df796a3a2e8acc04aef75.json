@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Friend_Book_In-Game_Friends_Tab.png",
+  "height": 713,
+  "immutableUrl": null,
+  "mediaId": "File:Friend Book In-Game Friends Tab.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-22T15:19:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFriend%20Book%20In-Game%20Friends%20Tab.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 536763,
+  "sourceSha1": "5652c6d0ee81d013c9b2d212e2634de50d588447",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Friend_Book_In-Game_Friends_Tab.png/revision/latest?cb=20171022151909",
+  "title": "File:Friend Book In-Game Friends Tab.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

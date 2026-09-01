@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Catalogue?action=history",
+    "importedAt": "2026-09-01T03:00:16.926Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Catalogue?oldid=64686",
+    "sourceRevisionId": 64686,
+    "sourceTitle": "Category:Catalogue",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Catalogue?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>All pages related to the <a href=\"/wiki/catalogue-8567\" title=\"Catalogue\" rel=\"noopener noreferrer\" target=\"_blank\">catalogue</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025813\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25588-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025813 and revision id 64686. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f748e0fdc031338967d8e8e4938977b3aea5e32c9a56aba8ccd93d380b869357",
+  "internalLinks": [
+    {
+      "route": "/wiki/catalogue-8567",
+      "title": "Catalogue"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 25588,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 64686,
+  "revisionTimestamp": "2016-08-24T21:26:33Z",
+  "route": "/wiki/category%2Fcategory-catalogue-25588",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Catalogue",
+  "title": "Category:Catalogue",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e1a0c12b9b15fd9491142b09d17352da1da696ed0e000cb8fb422965c08aa5d8"
+}

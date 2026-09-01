@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_Feed.png",
+  "height": 839,
+  "immutableUrl": null,
+  "mediaId": "File:Lamb Feed.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-17T01:28:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALamb%20Feed.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 503427,
+  "sourceSha1": "2be0c211a9ed2d9c3315e69bc7fab8d6c88e0ccf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2b/Lamb_Feed.png/revision/latest?cb=20260517012826",
+  "title": "File:Lamb Feed.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 909
+}

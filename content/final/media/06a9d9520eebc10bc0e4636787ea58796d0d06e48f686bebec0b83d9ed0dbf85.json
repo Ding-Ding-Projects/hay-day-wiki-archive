@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stone_Block.png",
+  "height": 284,
+  "immutableUrl": null,
+  "mediaId": "File:Stone Block.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T13:16:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AStone%20Block.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 49133,
+  "sourceSha1": "2b4ed3b974e9a3fc28de2774f362aafcabc63ffc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/37/Stone_Block.png/revision/latest?cb=20191028131613",
+  "title": "File:Stone Block.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 284
+}

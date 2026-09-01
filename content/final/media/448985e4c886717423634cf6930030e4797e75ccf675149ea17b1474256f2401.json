@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Checkered_Balloon.png",
+  "height": 515,
+  "immutableUrl": null,
+  "mediaId": "File:Checkered Balloon.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-06-26T21:11:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACheckered%20Balloon.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 132817,
+  "sourceSha1": "1eec378fed2baebc93f9e80dc172ab8f530f2d64",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Checkered_Balloon.png/revision/latest?cb=20240626211156",
+  "title": "File:Checkered Balloon.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 515
+}

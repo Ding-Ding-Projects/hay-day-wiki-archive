@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Ghost.png",
+  "height": 523,
+  "immutableUrl": null,
+  "mediaId": "File:Halloween Ghost.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-24T18:23:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHalloween%20Ghost.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 150109,
+  "sourceSha1": "6dc29241a73cf86ce2831fe616392a189745eccc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Halloween_Ghost.png/revision/latest?cb=20171024182306",
+  "title": "File:Halloween Ghost.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 523
+}

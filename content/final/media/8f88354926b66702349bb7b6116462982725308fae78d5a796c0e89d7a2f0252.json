@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Windmill.png",
+  "height": 343,
+  "immutableUrl": null,
+  "mediaId": "File:Windmill.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:36:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWindmill.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 89081,
+  "sourceSha1": "4c0002414c09aacee7543f170f77a1f221e30f18",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/68/Windmill.png/revision/latest?cb=20150715103637",
+  "title": "File:Windmill.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 343
+}

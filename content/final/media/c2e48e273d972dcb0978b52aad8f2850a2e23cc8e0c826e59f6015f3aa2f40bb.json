@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheels_Wide.png",
+  "height": 266,
+  "immutableUrl": null,
+  "mediaId": "File:Wheels Wide.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-16T16:38:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheels%20Wide.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 42053,
+  "sourceSha1": "ba0b80806eee7fa7a1c0cee463a517eeb7024d91",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5a/Wheels_Wide.png/revision/latest?cb=20180716163800",
+  "title": "File:Wheels Wide.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 314
+}

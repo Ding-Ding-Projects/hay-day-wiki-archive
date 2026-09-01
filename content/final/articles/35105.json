@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Cabbage_Products?action=history",
+    "importedAt": "2026-09-01T03:06:55.166Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Cabbage_Products?oldid=98582",
+    "sourceRevisionId": 98582,
+    "sourceTitle": "Category:Cabbage Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Cabbage_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png/revision/latest?cb=20240218151308\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cabbage\" src=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png/revision/latest/scale-to-width-down/180?cb=20240218151308\" loading=\"lazy\" width=\"180\" height=\"185\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ACabbage.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/cabbage-34832\" title=\"Cabbage\" rel=\"noopener noreferrer\" target=\"_blank\">Cabbage</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030653\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35105-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030653 and revision id 98582. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "0e4cfe4595406c42ee56a7edd177ed5539e77c8cfbb0eea5fb527e3eb98209bf",
+  "internalLinks": [
+    {
+      "route": "/wiki/cabbage-34832",
+      "title": "Cabbage"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35105,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Cabbage.png"
+  ],
+  "revisionId": 98582,
+  "revisionTimestamp": "2021-08-31T21:24:51Z",
+  "route": "/wiki/category%2Fcategory-cabbage-products-35105",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cabbage_Products",
+  "title": "Category:Cabbage Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "70f2036236e94f332bf46d1d923f2fedf55141e3c3bf067d65db92622afec9af"
+}

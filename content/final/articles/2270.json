@@ -1,0 +1,227 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Wool?action=history",
+    "importedAt": "2026-09-01T02:27:51.656Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Wool?oldid=109534",
+    "sourceRevisionId": 109534,
+    "sourceTitle": "Wool",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Collecting_wool",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Collecting wool</b>",
+      "text": "<b>Collecting wool</b>"
+    },
+    {
+      "anchor": "Selling_wool",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling wool</b>",
+      "text": "<b>Selling wool</b>"
+    },
+    {
+      "anchor": "Using_wool",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using wool</b>",
+      "text": "<b>Using wool</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know?",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Did you know?</b>",
+      "text": "<b>Did you know?</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Wool?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" title=\"Wool\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Wool</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">Animal good</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 16</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 54</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  6 h</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Sheep</span><span title=\"Sheep\"><span class=\"mw-default-size\"><a href=\"/wiki/sheep-2350\" title=\"Sheep\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sheep\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 15</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 8</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Wool</b> is a type of <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal good</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 16.\n</p><p>It is used to make clothes and hats.\n</p><p>Like all goods, it is stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Collecting wool</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Sheep.png/revision/latest?cb=20191025203649\" class=\"mw-file-description image\" title=\"Sheep\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sheep\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Sheep</figcaption></figure>\n<p>Wool is collected from <a href=\"/wiki/sheep-2350\" title=\"Sheep\" rel=\"noopener noreferrer\" target=\"_blank\">sheep</a> which have been fed <a href=\"/wiki/sheep-feed-2087\" title=\"Sheep Feed\" rel=\"noopener noreferrer\" target=\"_blank\">sheep feed</a>. Once fed, sheep need 6 hours to make wool.\n</p><p>Collecting one piece of fleece gives players 5 <span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling wool</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside Shop</figcaption></figure>\n<ul><li>Wool can be bought or sold for a maximum price of 540 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li>\n<li>A <a href=\"/wiki/sheep-2350\" title=\"Sheep\" rel=\"noopener noreferrer\" target=\"_blank\">sheep</a> costs between 800 and 3,800 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> and a <a href=\"/wiki/sheep-pasture-2721\" title=\"Sheep Pasture\" rel=\"noopener noreferrer\" target=\"_blank\">sheep pasture</a> costs 300 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using wool</b></span></h3>\n<p>Wool is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/sweater-2162\" title=\"Sweater\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sweater\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue woolly hat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blue woolly hat\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/blue-sweater-2161\" title=\"Blue sweater\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blue sweater\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sweater-2162\" title=\"Sweater\" rel=\"noopener noreferrer\" target=\"_blank\">Sweater</a></b>\n</td>\n<td><b><a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue Woolly Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Woolly Hat</a></b>\n</td>\n<td><b><a href=\"/wiki/blue-sweater-2161\" title=\"Blue Sweater\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Sweater</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 17\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 19\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 20\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/wooly-chaps-14259\" title=\"Wooly chaps\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wooly chaps\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/red-scarf-8888\" title=\"Red scarf\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Red scarf\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/cloche-hat-18415\" title=\"Cloche hat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cloche hat\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/wooly-chaps-14259\" title=\"Wooly Chaps\" rel=\"noopener noreferrer\" target=\"_blank\">Wooly Chaps</a></b>\n</td>\n<td><b><a href=\"/wiki/red-scarf-8888\" title=\"Red Scarf\" rel=\"noopener noreferrer\" target=\"_blank\">Red Scarf</a></b>\n</td>\n<td><b><a href=\"/wiki/cloche-hat-18415\" title=\"Cloche Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Cloche Hat</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x6</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 21\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 48\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 70\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/flower-shawl-28431\" title=\"Flower shawl\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Flower shawl\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/sun-hat-18416\" title=\"Sun hat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sun hat\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/flower-shawl-28431\" title=\"Flower Shawl\" rel=\"noopener noreferrer\" target=\"_blank\">Flower Shawl</a></b>\n</td>\n<td><b><a href=\"/wiki/sun-hat-18416\" title=\"Sun Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Sun Hat</a></b>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest?cb=20191025193439\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wool\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 71\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 74\n</td>\n<td>\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/boat-2675\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for 5 to 9 pieces of wool per crate, up to a total of 28 per boat.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Recipes ask between 1 and 6 pieces of wool.</li>\n<li>Wool can be regularly found in the <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a>. Selling wool at maximum price is recommended as it sells quickly.</li></ul>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Did you know?</b></span></h3>\n<ul><li>In real life, wool directly sheared from sheep (called <i>fleece</i>) is usually cleaned (or <i>scoured</i>) and worked into <i>yarn</i> before it is used.</li></ul>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/bacon-2267\" title=\"Bacon (35 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png/revision/latest/scale-to-width-down/50?cb=20191025193433\" title=\"Bacon (35 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Bacon (35 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/duck-feather-17011\" title=\"Duck Feather (44 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f9/Duck_Feather.png/revision/latest/scale-to-width-down/50?cb=20150414212143\" title=\"Duck Feather (44 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Duck Feather (44 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/egg-2058\" title=\"Egg (17 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest/scale-to-width-down/50?cb=20191025193420\" title=\"Egg (17 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Egg (17 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/fish-fillet-18999\" title=\"Fish Fillet (36 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/63/Fish_Fillet.png/revision/latest/scale-to-width-down/50?cb=20150414211348\" title=\"Fish Fillet (36 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Fish Fillet (36 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/goat-milk-2299\" title=\"Goat Milk (52 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Goat_Milk.png/revision/latest/scale-to-width-down/50?cb=20191025193509\" title=\"Goat Milk (52 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Goat Milk (52 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/honeycomb-15787\" title=\"Honeycomb (103 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/7c/Honeycomb.png/revision/latest/scale-to-width-down/50?cb=20191025193524\" title=\"Honeycomb (103 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Honeycomb (103 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lamb-chop-36740\" title=\"Lamb Chop (289 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/72/Lamb_Chop.png/revision/latest/scale-to-width-down/50?cb=20260512222547\" title=\"Lamb Chop (289 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lamb Chop (289 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lobster-tail-8470\" title=\"Lobster Tail (40 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Lobster_Tail.png/revision/latest/scale-to-width-down/50?cb=20150411101115\" title=\"Lobster Tail (40 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lobster Tail (40 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/milk-2141\" title=\"Milk (36 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/92/Milk.png/revision/latest/scale-to-width-down/50?cb=20191025193427\" title=\"Milk (36 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Milk (36 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/peanuts-33962\" title=\"Peanuts (90 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9b/Peanuts.png/revision/latest/scale-to-width-down/43?cb=20200707051034\" title=\"Peanuts (90 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Peanuts (90 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wool-2270\" title=\"Wool (47 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest/scale-to-width-down/50?cb=20191025193439\" title=\"Wool (47 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wool (47 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260830133514\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.086 seconds\nReal time usage: 0.123 seconds\nPreprocessor visited node count: 456/1000000\nPost‐expand include size: 8699/2097152 bytes\nTemplate argument size: 134/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 12081/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.007/7.000 seconds\nLua memory usage: 1028866/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   78.725      1 -total\n 58.62%   46.150      1 Template:Infobox\n 25.54%   20.107      1 Template:Navigation\n 25.39%   19.988     11 Template:Infoicon\n 20.49%   16.127      1 Template:AnimalGoodsMenu\n  6.24%    4.914      1 Template:Item_Usage\n  2.61%    2.058      1 Template:Languages\n  2.08%    1.638      4 Template:Clr\n  1.84%    1.452      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2270-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260830133514 and revision id 109534. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "c9b705e3fcd45fd0f613eaabf9dcc3997f611a561ac20880153adb129c46e07f",
+  "internalLinks": [
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/bacon-2267",
+      "title": "Bacon"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/blue-sweater-2161",
+      "title": "Blue Sweater"
+    },
+    {
+      "route": "/wiki/blue-woolly-hat-2250",
+      "title": "Blue Woolly Hat"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/cloche-hat-18415",
+      "title": "Cloche Hat"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/duck-feather-17011",
+      "title": "Duck Feather"
+    },
+    {
+      "route": "/wiki/egg-2058",
+      "title": "Egg"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/fish-fillet-18999",
+      "title": "Fish Fillet"
+    },
+    {
+      "route": "/wiki/flower-shawl-28431",
+      "title": "Flower Shawl"
+    },
+    {
+      "route": "/wiki/goat-milk-2299",
+      "title": "Goat Milk"
+    },
+    {
+      "route": "/wiki/honeycomb-15787",
+      "title": "Honeycomb"
+    },
+    {
+      "route": "/wiki/lamb-chop-36740",
+      "title": "Lamb Chop"
+    },
+    {
+      "route": "/wiki/lobster-tail-8470",
+      "title": "Lobster Tail"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/milk-2141",
+      "title": "Milk"
+    },
+    {
+      "route": "/wiki/peanuts-33962",
+      "title": "Peanuts"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/red-scarf-8888",
+      "title": "Red Scarf"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/sheep-2350",
+      "title": "Sheep"
+    },
+    {
+      "route": "/wiki/sheep-feed-2087",
+      "title": "Sheep Feed"
+    },
+    {
+      "route": "/wiki/sheep-pasture-2721",
+      "title": "Sheep Pasture"
+    },
+    {
+      "route": "/wiki/sun-hat-18416",
+      "title": "Sun Hat"
+    },
+    {
+      "route": "/wiki/sweater-2162",
+      "title": "Sweater"
+    },
+    {
+      "route": "/wiki/wool-2270",
+      "title": "Wool"
+    },
+    {
+      "route": "/wiki/wooly-chaps-14259",
+      "title": "Wooly Chaps"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2270,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bacon.png",
+    "File:Blue Sweater.png",
+    "File:Blue Woolly Hat.png",
+    "File:Cloche Hat.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Diamond.png",
+    "File:Duck Feather.png",
+    "File:Egg.png",
+    "File:Experience.png",
+    "File:Fish Fillet.png",
+    "File:Flower Shawl.png",
+    "File:Goat Milk.png",
+    "File:Honeycomb.png",
+    "File:Lamb Chop.png",
+    "File:Lobster Tail.png",
+    "File:Milk.png",
+    "File:Peanuts.png",
+    "File:Red Scarf.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Sheep.png",
+    "File:Sun Hat.png",
+    "File:Sweater.png",
+    "File:Wool.png",
+    "File:Wooly Chaps.png"
+  ],
+  "revisionId": 109534,
+  "revisionTimestamp": "2026-03-05T21:34:03Z",
+  "route": "/wiki/wool-2270",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Wool",
+  "title": "Wool",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "eccc691744aeec647f8d151d100615af9dd20a0169421aaa0f91cdeffea638c3"
+}

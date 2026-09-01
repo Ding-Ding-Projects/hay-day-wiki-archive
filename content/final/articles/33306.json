@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Friend_requests?action=history",
+    "importedAt": "2026-09-01T03:05:25.990Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Friend_requests?oldid=92727",
+    "sourceRevisionId": 92727,
+    "sourceTitle": "Friend requests",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Friend_requests?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/friends-7721\" title=\"Friends\" rel=\"noopener noreferrer\" target=\"_blank\">Friends</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030524\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33306-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030524 and revision id 92727. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "520855d0209d702918b0081ced4f1e32c9d7b9db8b66b94311a0b1d801a9ba93",
+  "internalLinks": [
+    {
+      "route": "/wiki/friends-7721",
+      "title": "Friends"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33306,
+  "redirectTarget": "Friends",
+  "referencedMediaIds": [],
+  "revisionId": 92727,
+  "revisionTimestamp": "2020-04-05T00:41:00Z",
+  "route": "/wiki/friend-requests-33306",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Friend_requests",
+  "title": "Friend requests",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4ecdd82bf64fe8fd2e4076ea3592a0f16bc20d75c661accfc9b4cbb860e0cf25"
+}

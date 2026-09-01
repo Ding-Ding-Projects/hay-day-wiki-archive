@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products?action=history",
+    "importedAt": "2026-09-01T03:10:16.839Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products?oldid=108217",
+    "sourceRevisionId": 108217,
+    "sourceTitle": "Category:Cherry Popsicle Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Cherry_Popsicle.png/revision/latest?cb=20240411152842\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cherry Popsicle\" src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Cherry_Popsicle.png/revision/latest/scale-to-width-down/180?cb=20240411152842\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ACherry_Popsicle.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/cherry-popsicle-2226\" title=\"Cherry Popsicle\" rel=\"noopener noreferrer\" target=\"_blank\">Cherry Popsicle</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831185046\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36358-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831185046 and revision id 108217. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "94281dea8b7279ff543fb075c78c9c68a979ca98b66ca21173c36c7f8ed1492f",
+  "internalLinks": [
+    {
+      "route": "/wiki/cherry-popsicle-2226",
+      "title": "Cherry Popsicle"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36358,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Cherry Popsicle.png"
+  ],
+  "revisionId": 108217,
+  "revisionTimestamp": "2025-08-05T20:02:27Z",
+  "route": "/wiki/category%2Fcategory-cherry-popsicle-products-36358",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products",
+  "title": "Category:Cherry Popsicle Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "161671032dc2d3218775714b2d293e2e05ff1bd6e2a76b52e3fc885a630c2c5c"
+}

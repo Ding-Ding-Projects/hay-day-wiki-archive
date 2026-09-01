@@ -1,0 +1,84 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Reputation_Levels?action=history",
+    "importedAt": "2026-09-01T03:02:16.960Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Reputation_Levels?oldid=103382",
+    "sourceRevisionId": 103382,
+    "sourceTitle": "Reputation Levels",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Table_of_levels",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Table of levels</b>",
+      "text": "<b>Table of levels</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Reputation_Levels?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p><p><br>\n</p>\n<div class=\"note\"><i><b>Note:</b> this page is about reputation levels, not to be confused with the <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience levels</a>.</i></div>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/1/1a/Reputation_Bar.png/revision/latest?cb=20141231163759\" class=\"mw-file-description image\" title=\"Reputation bar\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Reputation bar\" src=\"https://static.wikia.nocookie.net/hayday/images/1/1a/Reputation_Bar.png/revision/latest/scale-to-width-down/200?cb=20141231163759\" loading=\"lazy\" width=\"200\" height=\"40\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Reputation bar</figcaption></figure>\n<p><b>Reputation levels</b> are levels obtained in the player's <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a>. See <a href=\"/wiki/reputation-14275\" title=\"Reputation\" rel=\"noopener noreferrer\" target=\"_blank\">reputation</a> for more details.\n</p><p>After level 15, no new items are given besides <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>.\n</p><p>Currently it's not known where the reputation levels stop; it has been suggested that they may stop at level 500.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Table of levels</b></span></h3>\n<p>The following is a table of 'level-up' pictures, rewards given or unlocked, and reputation points needed for the first 125 levels that can be achieved in the town.\n</p><p><i>Notes:</i>\n</p>\n<ul><li><i>The new icon (<span>new</span><span title=\"New\"><span class=\"mw-default-size\"><span title=\"new\"><img alt=\"new\" src=\"https://static.wikia.nocookie.net/hayday/images/5/52/New_Icon.png/revision/latest/scale-to-width-down/40?cb=20180821171643\" loading=\"lazy\" width=\"40\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>) denotes items which are not shown in the pictures as they have been added after the shots were taken.</i></li>\n<li><i>The star icon(★) denotes unlocked items or features which are not shown in level-up images.</i></li></ul>\n<p><a href=\"/wiki/reputation-levels-levels-1-25-24005\" title=\"Reputation Levels/Levels 1-25\" rel=\"noopener noreferrer\" target=\"_blank\">Levels 1-25</a>, \n<a href=\"/wiki/reputation-levels-levels-26-50-24006\" title=\"Reputation Levels/Levels 26-50\" rel=\"noopener noreferrer\" target=\"_blank\">Levels 26-50</a>,\n<a href=\"/wiki/reputation-levels-levels-51-75-32713\" title=\"Reputation Levels/Levels 51-75\" rel=\"noopener noreferrer\" target=\"_blank\">Levels 51-75</a>, \n<a href=\"/wiki/reputation-levels-levels-76-100-35165\" title=\"Reputation Levels/Levels 76-100\" rel=\"noopener noreferrer\" target=\"_blank\">Levels 76-100</a>,\n<a href=\"/wiki/reputation-levels-levels-101-125-35859\" title=\"Reputation Levels/Levels 101-125\" rel=\"noopener noreferrer\" target=\"_blank\">Levels 101-125</a>\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831163736\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.026 seconds\nReal time usage: 0.037 seconds\nPreprocessor visited node count: 71/1000000\nPost‐expand include size: 688/2097152 bytes\nTemplate argument size: 121/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.004/7.000 seconds\nLua memory usage: 639591/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   21.452      1 -total\n 71.44%   15.326      1 Template:Infoicon\n  7.50%    1.609      1 Template:Languages\n  7.46%    1.601      1 Template:PageDisplay\n  6.29%    1.349      1 Template:Note\n  5.79%    1.242      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28799-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831163736 and revision id 103382. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "463de265f6ca8105a9f658e0fe3c53615a95f951be48e8010e7e4cf197bf5726",
+  "internalLinks": [
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/reputation-14275",
+      "title": "Reputation"
+    },
+    {
+      "route": "/wiki/reputation-levels-levels-1-25-24005",
+      "title": "Reputation Levels/Levels 1-25"
+    },
+    {
+      "route": "/wiki/reputation-levels-levels-101-125-35859",
+      "title": "Reputation Levels/Levels 101-125"
+    },
+    {
+      "route": "/wiki/reputation-levels-levels-26-50-24006",
+      "title": "Reputation Levels/Levels 26-50"
+    },
+    {
+      "route": "/wiki/reputation-levels-levels-51-75-32713",
+      "title": "Reputation Levels/Levels 51-75"
+    },
+    {
+      "route": "/wiki/reputation-levels-levels-76-100-35165",
+      "title": "Reputation Levels/Levels 76-100"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 28799,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:New Icon.png",
+    "File:Reputation Bar.png"
+  ],
+  "revisionId": 103382,
+  "revisionTimestamp": "2023-07-09T15:35:29Z",
+  "route": "/wiki/reputation-levels-28799",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Reputation_Levels",
+  "title": "Reputation Levels",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6f711d04291038b151e995c2a658cef66b0f0b6558a824b87beb87babc50d54c"
+}

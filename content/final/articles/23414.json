@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Template_Documentation?action=history",
+    "importedAt": "2026-09-01T02:56:40.020Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Template_Documentation?oldid=58109",
+    "sourceRevisionId": 58109,
+    "sourceTitle": "Category:Template Documentation",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Template_Documentation?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901025637\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23414-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025637 and revision id 58109. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "e3693def3368e617b77ad0bac72d2f3e0e96dcc94dd69140924d53eb1f1033c5",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 23414,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 58109,
+  "revisionTimestamp": "2016-01-26T13:42:35Z",
+  "route": "/wiki/category%2Fcategory-template-documentation-23414",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Template_Documentation",
+  "title": "Category:Template Documentation",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d17b0069075523cfd170889a8541cdbb01828c428201ba77d245030037d911a5"
+}

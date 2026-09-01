@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Caramel_Apple.png",
+  "height": 2656,
+  "immutableUrl": null,
+  "mediaId": "File:Caramel Apple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-10T05:35:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACaramel%20Apple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2511128,
+  "sourceSha1": "e7f7424dd5ba26cbe58b2ab619b06de6a345da27",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Caramel_Apple.png/revision/latest?cb=20240210053517",
+  "title": "File:Caramel Apple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2656
+}

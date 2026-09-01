@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Stack.png",
+  "height": 465,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Stack.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-02-26T18:03:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Stack.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 426178,
+  "sourceSha1": "1aeabfdf88f254555a8cfbd06deaa8e785d6857e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Hay_Stack.png/revision/latest?cb=20210226180315",
+  "title": "File:Hay Stack.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 465
+}

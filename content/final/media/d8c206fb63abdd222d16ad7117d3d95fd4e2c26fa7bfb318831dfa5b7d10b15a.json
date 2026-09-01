@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jockey_Scarecrow.png",
+  "height": 510,
+  "immutableUrl": null,
+  "mediaId": "File:Jockey Scarecrow.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-04-26T12:44:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AJockey%20Scarecrow.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 481977,
+  "sourceSha1": "74824957926170af433e1fa9df3cdb2fc197c09d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/da/Jockey_Scarecrow.png/revision/latest?cb=20210426124418",
+  "title": "File:Jockey Scarecrow.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 510
+}

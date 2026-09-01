@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fruit_Sellers.jpg",
+  "height": 580,
+  "immutableUrl": null,
+  "mediaId": "File:Fruit Sellers.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-05-08T13:20:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFruit%20Sellers.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 22068,
+  "sourceSha1": "62d31f3d86ccde6c5b5f31c175f933610b83efa2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Fruit_Sellers.jpg/revision/latest?cb=20240508132059",
+  "title": "File:Fruit Sellers.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 580
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Events?action=history",
+    "importedAt": "2026-09-01T02:47:43.702Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Events?oldid=74928",
+    "sourceRevisionId": 74928,
+    "sourceTitle": "Category:Image Events",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Events?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/events-7210\" title=\"Events\" rel=\"noopener noreferrer\" target=\"_blank\">events</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024721\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15104-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024721 and revision id 74928. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "bf6d888cd963c0b8ac4110ec47292dd261a56445eed5ab98b39ad58212bb2a63",
+  "internalLinks": [
+    {
+      "route": "/wiki/events-7210",
+      "title": "Events"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15104,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 74928,
+  "revisionTimestamp": "2017-11-03T13:40:15Z",
+  "route": "/wiki/category%2Fcategory-image-events-15104",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Events",
+  "title": "Category:Image Events",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "514509beda3c0b49f26dccb48e3579c129d720381a7704cbc99f38eab2f2783d"
+}

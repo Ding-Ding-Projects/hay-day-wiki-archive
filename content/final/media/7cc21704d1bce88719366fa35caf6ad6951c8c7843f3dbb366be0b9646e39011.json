@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_mine_area",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day mine area",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-01-10T12:45:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day%20mine%20area",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 29375,
+  "sourceSha1": "484207e9a3b887762b71ec76fb59a3a574fcbc18",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Hay_Day_mine_area/revision/latest?cb=20140110124531",
+  "title": "File:Hay Day mine area",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

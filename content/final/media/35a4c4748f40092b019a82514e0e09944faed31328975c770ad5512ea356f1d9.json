@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Screenshot_20230718_164521_Hay_Day.jpg",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:Screenshot 20230718 164521 Hay Day.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-08-05T03:35:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AScreenshot%2020230718%20164521%20Hay%20Day.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 74891,
+  "sourceSha1": "90aae60c611b977e018feaae9f50b01d133abb26",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/48/Screenshot_20230718_164521_Hay_Day.jpg/revision/latest?cb=20230805033505",
+  "title": "File:Screenshot 20230718 164521 Hay Day.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1008
+}

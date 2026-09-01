@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Ok%C3%A7u_maymun?action=history",
+    "importedAt": "2026-09-01T03:10:48.054Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Ok%C3%A7u_maymun?oldid=109329",
+    "sourceRevisionId": 109329,
+    "sourceTitle": "Okçu maymun",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Ok%C3%A7u_maymun?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FOk%C3%A7u%20maymun\" title=\"Special:WhatLinksHere/Okçu maymun\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/ok%C3%A7u-maymun-36602\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031033\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1258/2097152 bytes\nTemplate argument size: 364/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.791      1 Template:Delete\n100.00%    3.791      1 -total\n 45.37%    1.720      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36602-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031033 and revision id 109329. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "2b2d947de1d9217e50ba457e30b1e5ad25fc1aa271df9e734b77da86497327d9",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36602,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 109329,
+  "revisionTimestamp": "2026-01-31T22:01:05Z",
+  "route": "/wiki/ok%C3%A7u-maymun-36602",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Ok%C3%A7u_maymun",
+  "title": "Okçu maymun",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d"
+}

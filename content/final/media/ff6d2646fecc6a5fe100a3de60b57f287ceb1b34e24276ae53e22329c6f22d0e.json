@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wait.png",
+  "height": 86,
+  "immutableUrl": null,
+  "mediaId": "File:Wait.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T22:04:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWait.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 27148,
+  "sourceSha1": "9686395fcc2d5d60bbb9b1ae15098dd4e9ef4c22",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Wait.png/revision/latest?cb=20180430220412",
+  "title": "File:Wait.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 535
+}

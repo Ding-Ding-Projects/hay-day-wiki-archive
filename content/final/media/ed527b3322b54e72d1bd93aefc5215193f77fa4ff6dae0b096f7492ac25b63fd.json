@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cacao_Tree_Harvest_2.png",
+  "height": 137,
+  "immutableUrl": null,
+  "mediaId": "File:Cacao Tree Harvest 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T18:07:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACacao%20Tree%20Harvest%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 25919,
+  "sourceSha1": "697c0b64c5ab878a5e5e7353b1ab93d85704e16a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Cacao_Tree_Harvest_2.png/revision/latest?cb=20191028180709",
+  "title": "File:Cacao Tree Harvest 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 137
+}

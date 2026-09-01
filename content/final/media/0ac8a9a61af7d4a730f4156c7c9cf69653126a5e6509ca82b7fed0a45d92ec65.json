@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sewing_Machine.png",
+  "height": 516,
+  "immutableUrl": null,
+  "mediaId": "File:Sewing Machine.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:45:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASewing%20Machine.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 272478,
+  "sourceSha1": "880840172b5227e913f69d173839e0bef5b339f5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e0/Sewing_Machine.png/revision/latest?cb=20250925184535",
+  "title": "File:Sewing Machine.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 516
+}

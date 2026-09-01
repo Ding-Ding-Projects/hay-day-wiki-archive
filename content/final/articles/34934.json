@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Wicket?action=history",
+    "importedAt": "2026-09-01T03:06:36.462Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Wicket?oldid=97823",
+    "sourceRevisionId": 97823,
+    "sourceTitle": "Wicket",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Wicket?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">Farm</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030631\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:34934-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030631 and revision id 97823. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4a623cbf37b1f9fa848097d5e39e72ca0cce57d5d77d4cb38312cf904e2b9a7a",
+  "internalLinks": [
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 34934,
+  "redirectTarget": "Farm",
+  "referencedMediaIds": [],
+  "revisionId": 97823,
+  "revisionTimestamp": "2021-06-24T22:52:21Z",
+  "route": "/wiki/wicket-34934",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Wicket",
+  "title": "Wicket",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ff7e6c84173b4854a48a6298907c27b170a2df8716c4496eeca3e18b646ff794"
+}

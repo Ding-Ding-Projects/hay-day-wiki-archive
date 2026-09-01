@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Corn_Products?action=history",
+    "importedAt": "2026-09-01T03:05:58.871Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Corn_Products?oldid=98538",
+    "sourceRevisionId": 98538,
+    "sourceTitle": "Category:Corn Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Corn_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest/scale-to-width-down/180?cb=20240218151631\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ACorn.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\">Corn</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030549\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33588-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030549 and revision id 98538. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "b42e522569e7c5de3334e23f45c34af56426a1c835efa8a86afc2c7ea24c937d",
+  "internalLinks": [
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 33588,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Corn.png"
+  ],
+  "revisionId": 98538,
+  "revisionTimestamp": "2021-08-31T20:52:47Z",
+  "route": "/wiki/category%2Fcategory-corn-products-33588",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Corn_Products",
+  "title": "Category:Corn Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "451aefeb183c3fb6e51d7363968dc034715b723e5ca40412db9ebddbb5aa5763"
+}

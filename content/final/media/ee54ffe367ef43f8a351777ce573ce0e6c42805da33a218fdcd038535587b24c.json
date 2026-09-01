@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Guava_Tree_Stage_2.png",
+  "height": 500,
+  "immutableUrl": null,
+  "mediaId": "File:Guava Tree Stage 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-12T19:45:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGuava%20Tree%20Stage%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 284998,
+  "sourceSha1": "f314da214c2e55fe0f9972d8addb5812e3448398",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Guava_Tree_Stage_2.png/revision/latest?cb=20221212194546",
+  "title": "File:Guava Tree Stage 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 500
+}

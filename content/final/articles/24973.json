@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Tea_Stand_Products?action=history",
+    "importedAt": "2026-09-01T02:57:56.794Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Tea_Stand_Products?oldid=62825",
+    "sourceRevisionId": 62825,
+    "sourceTitle": "Category:Tea Stand Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Tea_Stand_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/7/74/Tea_Stand.png/revision/latest?cb=20250925234337\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tea Stand\" src=\"https://static.wikia.nocookie.net/hayday/images/7/74/Tea_Stand.png/revision/latest/scale-to-width-down/180?cb=20250925234337\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ATea_Stand.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/tea-stand-24829\" title=\"Tea Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Tea Stand</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831055515\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:24973-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831055515 and revision id 62825. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "aa7a7a4da56f3ed7dc5d8482e84a47fbb44f5f8843bd078553ceba9c42894634",
+  "internalLinks": [
+    {
+      "route": "/wiki/tea-stand-24829",
+      "title": "Tea Stand"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 24973,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Tea Stand.png"
+  ],
+  "revisionId": 62825,
+  "revisionTimestamp": "2016-06-22T16:05:56Z",
+  "route": "/wiki/category%2Fcategory-tea-stand-products-24973",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tea_Stand_Products",
+  "title": "Category:Tea Stand Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "1b4bb5c91163ba947685c1e631551bc82b223600ab29e8452de7be93a63526d7"
+}

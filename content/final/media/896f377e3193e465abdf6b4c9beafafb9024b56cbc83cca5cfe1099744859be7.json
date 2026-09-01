@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Feed_Mill_Mastery_I.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Feed Mill Mastery I.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:33:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFeed%20Mill%20Mastery%20I.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 52102,
+  "sourceSha1": "de26eb49cde9e9c07a489126d23b9d97b06bc853",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Feed_Mill_Mastery_I.png/revision/latest?cb=20180501173334",
+  "title": "File:Feed Mill Mastery I.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

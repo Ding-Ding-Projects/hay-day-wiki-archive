@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Visitors_Gift.png",
+  "height": 655,
+  "immutableUrl": null,
+  "mediaId": "File:Town Visitors Gift.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-04-21T11:56:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATown%20Visitors%20Gift.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 993642,
+  "sourceSha1": "91123c855909e4668cf7f8743374cc0f8141c980",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8b/Town_Visitors_Gift.png/revision/latest?cb=20160421115632",
+  "title": "File:Town Visitors Gift.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

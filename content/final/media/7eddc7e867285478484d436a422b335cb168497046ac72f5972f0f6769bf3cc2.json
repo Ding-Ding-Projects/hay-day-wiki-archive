@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel_House_Stage_2.png",
+  "height": 994,
+  "immutableUrl": null,
+  "mediaId": "File:Squirrel House Stage 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-07T05:13:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASquirrel%20House%20Stage%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 886289,
+  "sourceSha1": "c52637f4bae11ea53f6dfc2ebb66895c20169dae",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Squirrel_House_Stage_2.png/revision/latest?cb=20200707051334",
+  "title": "File:Squirrel House Stage 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 831
+}

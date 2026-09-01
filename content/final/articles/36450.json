@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products?action=history",
+    "importedAt": "2026-09-01T03:10:26.280Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products?oldid=108795",
+    "sourceRevisionId": 108795,
+    "sourceTitle": "Category:Striped Candy Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/e5/Soft_Candy.png/revision/latest?cb=20251022181449\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Soft Candy\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e5/Soft_Candy.png/revision/latest/scale-to-width-down/180?cb=20251022181449\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ASoft_Candy.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/soft-candy-36442\" title=\"Soft Candy\" rel=\"noopener noreferrer\" target=\"_blank\">Soft Candy</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031023\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36450-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031023 and revision id 108795. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "85cef96b13244b72f749eff29044a5e26a54972ead40d2bd52f42b6a9f6c4d7f",
+  "internalLinks": [
+    {
+      "route": "/wiki/soft-candy-36442",
+      "title": "Soft Candy"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36450,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Soft Candy.png"
+  ],
+  "revisionId": 108795,
+  "revisionTimestamp": "2025-10-23T20:41:54Z",
+  "route": "/wiki/category%2Fcategory-striped-candy-products-36450",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products",
+  "title": "Category:Striped Candy Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "120d0b1251d4ffd09e988a551f3199a0c68bfe6585e43a98de08258471315192"
+}

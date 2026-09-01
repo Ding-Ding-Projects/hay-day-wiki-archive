@@ -1,0 +1,502 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Power_Derby_Tasks?action=history",
+    "importedAt": "2026-09-01T03:05:49.679Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Power_Derby_Tasks?oldid=104440",
+    "sourceRevisionId": 104440,
+    "sourceTitle": "Power Derby Tasks",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Animal_goods",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Animal goods</b>",
+      "text": "<b>Animal goods</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Combos",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Combos</b>",
+      "text": "<b>Combos</b>"
+    },
+    {
+      "anchor": "Feeding",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Feeding</b>",
+      "text": "<b>Feeding</b>"
+    },
+    {
+      "anchor": "Fishing",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Fishing</b>",
+      "text": "<b>Fishing</b>"
+    },
+    {
+      "anchor": "Harvesting",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Harvesting</b>",
+      "text": "<b>Harvesting</b>"
+    },
+    {
+      "anchor": "Helping",
+      "index": "7",
+      "level": 3,
+      "line": "<b>Helping</b>",
+      "text": "<b>Helping</b>"
+    },
+    {
+      "anchor": "Mining",
+      "index": "8",
+      "level": 3,
+      "line": "<b>Mining</b>",
+      "text": "<b>Mining</b>"
+    },
+    {
+      "anchor": "Production",
+      "index": "9",
+      "level": 3,
+      "line": "<b>Production</b>",
+      "text": "<b>Production</b>"
+    },
+    {
+      "anchor": "Service_buildings_orders_(Town_Building_Tasks)",
+      "index": "10",
+      "level": 3,
+      "line": "<b>Service buildings orders (Town Building Tasks)</b>",
+      "text": "<b>Service buildings orders (Town Building Tasks)</b>"
+    },
+    {
+      "anchor": "Specific_town_visitor_orders",
+      "index": "11",
+      "level": 3,
+      "line": "<b>Specific town visitor orders</b>",
+      "text": "<b>Specific town visitor orders</b>"
+    },
+    {
+      "anchor": "Town_visitors_orders",
+      "index": "12",
+      "level": 3,
+      "line": "<b>Town visitors orders</b>",
+      "text": "<b>Town visitors orders</b>"
+    },
+    {
+      "anchor": "Truck_orders",
+      "index": "13",
+      "level": 3,
+      "line": "<b>Truck orders</b>",
+      "text": "<b>Truck orders</b>"
+    },
+    {
+      "anchor": "References",
+      "index": "14",
+      "level": 3,
+      "line": "<b>References</b>",
+      "text": "<b>References</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Power_Derby_Tasks?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div></div>\n<div><div class=\"toc\"><div class=\"toctitle\"><h2>Contents</h2><span class=\"toctogglespan\"></span></div>\n<ul>\n<li class=\"toclevel-1 tocsection-1\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">1</span> <span class=\"toctext\"><b>Animal goods</b></span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">2</span> <span class=\"toctext\"><b>Boat orders</b></span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">3</span> <span class=\"toctext\"><b>Combos</b></span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">4</span> <span class=\"toctext\"><b>Feeding</b></span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">5</span> <span class=\"toctext\"><b>Fishing</b></span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">6</span> <span class=\"toctext\"><b>Harvesting</b></span></a></li>\n<li class=\"toclevel-1 tocsection-7\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">7</span> <span class=\"toctext\"><b>Helping</b></span></a></li>\n<li class=\"toclevel-1 tocsection-8\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">8</span> <span class=\"toctext\"><b>Mining</b></span></a></li>\n<li class=\"toclevel-1 tocsection-9\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">9</span> <span class=\"toctext\"><b>Production</b></span></a></li>\n<li class=\"toclevel-1 tocsection-10\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">10</span> <span class=\"toctext\"><b>Service buildings orders (Town Building Tasks)</b></span></a></li>\n<li class=\"toclevel-1 tocsection-11\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">11</span> <span class=\"toctext\"><b>Specific town visitor orders</b></span></a></li>\n<li class=\"toclevel-1 tocsection-12\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">12</span> <span class=\"toctext\"><b>Town visitors orders</b></span></a></li>\n<li class=\"toclevel-1 tocsection-13\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">13</span> <span class=\"toctext\"><b>Truck orders</b></span></a></li>\n<li class=\"toclevel-1 tocsection-14\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">14</span> <span class=\"toctext\"><b>References</b></span></a></li>\n</ul>\n</div>\n</div>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Derby_Task.png/revision/latest?cb=20171024162412\" class=\"mw-file-description image\" title=\"Derby task\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Derby task\" src=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Derby_Task.png/revision/latest?cb=20171024162412\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Derby task</figcaption></figure>\n<p><b>Derby tasks</b> are tasks that can be achieved in <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derbies</a>. Depending on the time they might take and their difficulty they can award from 50 to 320 points.\n</p><p>This list is subject to change without notice, and isn't updated on a regular basis. This list is for power derbies; for others, please use <a href=\"/wiki/derby-tasks-19761\" title=\"Derby Tasks\" rel=\"noopener noreferrer\" target=\"_blank\">the normal Derby guide</a>.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Animal goods</b></span></h3>\n<p>Collect <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal goods</a>. Players cannot buy the goods through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> and need to produce and collect themselves. <a href=\"/wiki/rose-26084\" title=\"Rose\" rel=\"noopener noreferrer\" target=\"_blank\">Rose</a> can't collect them, either, although she can feed the animals.\n</p>\n<table class=\"sortable\">\n<tbody><tr>\n<th>Product\n</th>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td><b><a href=\"/wiki/bacon-2267\" title=\"Bacon\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon</a></b></td>\n<td>39</td>\n<td>1 d 11 h</td>\n<td>311\n</td></tr>\n<tr>\n<td>Bacon</td>\n<td>41</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/egg-2058\" title=\"Egg\" rel=\"noopener noreferrer\" target=\"_blank\">Eggs</a></b></td>\n<td>73</td>\n<td>8 h</td>\n<td>314\n</td></tr>\n<tr>\n<td>Eggs</td>\n<td>75</td>\n<td>8 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/goat-milk-2299\" title=\"Goat Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Goat milk</a></b></td>\n<td>31</td>\n<td>3 d</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/milk-2141\" title=\"Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Milk</a></b></td>\n<td>35</td>\n<td>12 h</td>\n<td>259\n</td></tr>\n<tr>\n<td>Milk</td>\n<td>42</td>\n<td>13 h</td>\n<td>288\n</td></tr>\n<tr>\n<td>Milk</td>\n<td>50</td>\n<td>13 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/wool-2270\" title=\"Wool\" rel=\"noopener noreferrer\" target=\"_blank\">Wool</a></b></td>\n<td>40</td>\n<td>2 d 12 h</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<p>Complete and send off <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boats</a>. The task is counted once all crates have been filled and the boat is on its way. Players can either produce and collect themselves or buy products through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> to fill the orders. Other players can help fill some of the crates.\n</p>\n<table>\n<tbody><tr>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>1</td>\n<td>Until derby ends</td>\n<td>220\n</td></tr>\n<tr>\n<td>2</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Combos</b></span></h3>\n<table>\n<tbody><tr>\n<th>Name\n</th>\n<th>Task\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td><b>Angler task</b></td>\n<td><a href=\"/wiki/fishing-7449\" title=\"Fishing\" rel=\"noopener noreferrer\" target=\"_blank\">Fish</a>&#160;25 lb/kg <a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue Woolly Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Blue woolly hats</a> x6&#160;<a href=\"/wiki/blackberry-muffin-2295\" title=\"Blackberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Blackberry muffins</a> x5</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Breakfast task</b></td>\n<td><a href=\"/wiki/milk-2141\" title=\"Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Milk</a> x20 <a href=\"/wiki/egg-2058\" title=\"Egg\" rel=\"noopener noreferrer\" target=\"_blank\">Eggs</a> x30 <a href=\"/wiki/bacon-2267\" title=\"Bacon\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon</a> x17</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Brunch task</b></td>\n<td><a href=\"/wiki/baked-potato-2705\" title=\"Baked Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Bakes potatoes</a> x4&#160;<a href=\"/wiki/green-smoothie-11418\" title=\"Green Smoothie\" rel=\"noopener noreferrer\" target=\"_blank\">Green smoothies</a> x4&#160;<a href=\"/wiki/bacon-and-eggs-2069\" title=\"Bacon and Eggs\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon and eggs</a> x5</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Buddies task</b></td>\n<td><a href=\"/wiki/friends-7721\" title=\"Friends\" rel=\"noopener noreferrer\" target=\"_blank\">Help</a> x6 <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town visitors</a> x5 <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">Feed</a> x51</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Chilly task</b></td>\n<td><a href=\"/wiki/sweater-2162\" title=\"Sweater\" rel=\"noopener noreferrer\" target=\"_blank\">Sweaters</a>&#160;x3&#160;<a href=\"/wiki/hot-chocolate-2456\" title=\"Hot Chocolate\" rel=\"noopener noreferrer\" target=\"_blank\">Hot chocolate</a>&#160;x7&#160;<a href=\"/wiki/pumpkin-pie-2088\" title=\"Pumpkin Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkin pies</a>&#160;x3</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Cornucopia task</b></td>\n<td><a href=\"/wiki/tomato-2236\" title=\"Tomato\" rel=\"noopener noreferrer\" target=\"_blank\">Tomatoes</a> x60&#160;<a href=\"/wiki/potato-2693\" title=\"Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Potatoes</a> x63&#160;<a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\">Corn</a> x121</td>\n<td>2 d 12 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Crafts task</b></td>\n<td><a href=\"/wiki/wool-2270\" title=\"Wool\" rel=\"noopener noreferrer\" target=\"_blank\">Wool</a> x17 <a href=\"/wiki/raspberry-candle-16476\" title=\"Raspberry Candle\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry candles</a> x3 <a href=\"/wiki/pumpkin-2082\" title=\"Pumpkin\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkins</a> x64</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Day trip task</b></td>\n<td><a href=\"/wiki/fishing-7449\" title=\"Fishing\" rel=\"noopener noreferrer\" target=\"_blank\">Fish</a> 25 lb/kg <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">Truck</a> x7 <a href=\"/wiki/hot-dog-19460\" title=\"Hot Dog\" rel=\"noopener noreferrer\" target=\"_blank\">Hot dogs</a> x7</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Market task</b></td>\n<td><a href=\"/wiki/strawberry-2240\" title=\"Strawberry\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberries</a> x59&#160;<a href=\"/wiki/goat-milk-2299\" title=\"Goat Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Goat milk</a> x13&#160;<a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town visitors</a> x5</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Muscles task</b></td>\n<td><a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Strongmen</a> x2 <a href=\"/wiki/bacon-and-eggs-2069\" title=\"Bacon and Eggs\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon and eggs</a> x5 <a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">Mining</a> x17</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Orders task</b></td>\n<td><a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">Truck</a> x7 <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> x1 <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town Visitor</a> x5</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Pets task</b></td>\n<td><a href=\"/wiki/milk-2141\" title=\"Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Milk</a> x12 <a href=\"/wiki/bacon-2267\" title=\"Bacon\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon</a> x13 <a href=\"/wiki/carrot-2081\" title=\"Carrot\" rel=\"noopener noreferrer\" target=\"_blank\">Carrots</a> x84</td>\n<td>19 h</td>\n<td>145\n</td></tr>\n<tr>\n<td>Pets task</td>\n<td>Milk ×20 Bacon×17 Carrots ×101</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Picnic task</b></td>\n<td><a href=\"/wiki/apple-juice-2143\" title=\"Apple Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Apple juice</a> x3 <a href=\"/wiki/carrot-cake-2165\" title=\"Carrot Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot cakes</a> x4 <a href=\"/wiki/feta-pie-2290\" title=\"Feta Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Feta pies</a> x3</td>\n<td>1 d 16 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Spa task</b></td>\n<td><a href=\"/wiki/olive-oil-8968\" title=\"Olive Oil\" rel=\"noopener noreferrer\" target=\"_blank\">Olive oil</a> x4 <a href=\"/wiki/goat-cheese-2297\" title=\"Goat Cheese\" rel=\"noopener noreferrer\" target=\"_blank\">Goat cheese</a> x4 <a href=\"/wiki/strawberry-candle-16470\" title=\"Strawberry Candle\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberry candles</a> x3</td>\n<td>1 d 16 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Sweets task</b></td>\n<td><a href=\"/wiki/strawberry-2240\" title=\"Strawberry\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberries</a>&#160;x59&#160;<a href=\"/wiki/toffee-2512\" title=\"Toffee\" rel=\"noopener noreferrer\" target=\"_blank\">Toffee</a>&#160;x4&#160;<a href=\"/wiki/vanilla-ice-cream-2176\" title=\"Vanilla Ice Cream\" rel=\"noopener noreferrer\" target=\"_blank\">Vanilla ice cream</a>&#160;x3</td>\n<td>2 d 12 &#160;h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Tough task</b></td>\n<td><a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">Mining</a> x17&#160;<a href=\"/wiki/honey-toast-15783\" title=\"Honey Toast\" rel=\"noopener noreferrer\" target=\"_blank\">Honey toasts</a> x6&#160;<a href=\"/wiki/yogurt-smoothie-11419\" title=\"Yogurt Smoothie\" rel=\"noopener noreferrer\" target=\"_blank\">Yogurt smoothies</a> x3</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Townies task</b></td>\n<td><a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town visitors</a> ×2, ×1, ×1</td>\n<td>Until derby ends</td>\n<td>263\n</td></tr>\n<tr>\n<td>Townies task</td>\n<td>Town visitors x2, x2, x2</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Vegan task</b></td>\n<td><a href=\"/wiki/tofu-dog-19462\" title=\"Tofu Dog\" rel=\"noopener noreferrer\" target=\"_blank\">Tofu dogs</a> x4 <a href=\"/wiki/chili-popcorn-2311\" title=\"Chili Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Chili popcorn</a> x3 <a href=\"/wiki/tomato-juice-2144\" title=\"Tomato Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Tomato juice</a> x4</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b>Warm task</b></td>\n<td><a href=\"/wiki/vanilla-ice-cream-2176\" title=\"Vanilla Ice Cream\" rel=\"noopener noreferrer\" target=\"_blank\">Vanilla ice cream</a> x3 <a href=\"/wiki/red-berry-cake-2254\" title=\"Red Berry Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Red berry cakes</a> x5 <a href=\"/wiki/cotton-shirt-14258\" title=\"Cotton Shirt\" rel=\"noopener noreferrer\" target=\"_blank\">Cotton shirts</a> x4</td>\n<td>1 d 10 h</td>\n<td>306\n</td></tr>\n<tr>\n<td>Warm task</td>\n<td>Vanilla ice cream x3 Red berry cakes x5 Cotton shirts x5</td>\n<td>1 d 11 h</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Feeding</b></span></h3>\n<p>Feed <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">farm animals</a> (chickens, cows, goats, pigs and sheep), not pets. <a href=\"/wiki/rose-26084\" title=\"Rose\" rel=\"noopener noreferrer\" target=\"_blank\">Rose</a> can't feed the animals for you, but she can both make the feed and collect the goods from the animals.\n</p>\n<table>\n<tbody><tr>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Point\n</th></tr>\n<tr>\n<td>46</td>\n<td>18 h</td>\n<td>167\n</td></tr>\n<tr>\n<td>98</td>\n<td>1 d</td>\n<td>249\n</td></tr>\n<tr>\n<td>117</td>\n<td>1 d 2 h</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Fishing</b></span></h3>\n<p>Catch lbs-kg of <a href=\"/wiki/fish-5891\" title=\"Fish\" rel=\"noopener noreferrer\" target=\"_blank\">fish</a> with lures. Fishing with nets does not count. Players cannot buy the fish through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> and need to fish themselves.\n</p><p>Note that in English, the weight used for fishing (not just for the derby) is in pounds. In some other languages, the weight unit used is kg, but the numbers (not the actual weight) are the same.\n</p>\n<table>\n<tbody><tr>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>36 lbs-kg</td>\n<td>Until derby ends</td>\n<td>238\n</td></tr>\n<tr>\n<td>40 lbs-kg</td>\n<td>Until derby ends</td>\n<td>252\n</td></tr>\n<tr>\n<td>44 lbs-kg</td>\n<td>Until derby ends</td>\n<td>269?\n</td></tr>\n<tr>\n<td>45 lbs-kg</td>\n<td>Until derby ends</td>\n<td>269\n</td></tr>\n<tr>\n<td>47 lbs-kg</td>\n<td>Until derby ends</td>\n<td>276\n</td></tr>\n<tr>\n<td>48 lbs-kg</td>\n<td>Until derby ends</td>\n<td>279\n</td></tr>\n<tr>\n<td>49 lbs-kg</td>\n<td>Until derby ends</td>\n<td>283\n</td></tr>\n<tr>\n<td>51 lbs-kg</td>\n<td>Until derby ends</td>\n<td>289\n</td></tr>\n<tr>\n<td>54 lbs-kg</td>\n<td>Until derby ends</td>\n<td>300\n</td></tr>\n<tr>\n<td>55 lbs-kg</td>\n<td>Until derby ende</td>\n<td>303\n</td></tr>\n<tr>\n<td>56 lbs-kg</td>\n<td>Until derby ende</td>\n<td>306\n</td></tr>\n<tr>\n<td>59 lbs-kg</td>\n<td>Until derby ende</td>\n<td>317\n</td></tr>\n<tr>\n<td>60 lbs-kg</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Harvesting</b></span></h3>\n<p>Harvest <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">fields</a>. It is the harvesting of the field that counts, not how many <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crops</a> are collected. Players cannot buy the crops through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> and need to produce and collect themselves.\n</p>\n<table class=\"sortable\">\n<tbody><tr>\n<th>Crop\n</th>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td><b><a href=\"/wiki/carrot-2081\" title=\"Carrot\" rel=\"noopener noreferrer\" target=\"_blank\">Carrots</a></b></td>\n<td>191</td>\n<td>6 h</td>\n<td>280\n</td></tr>\n<tr>\n<td>Carrots</td>\n<td>192</td>\n<td>6 h</td>\n<td>282\n</td></tr>\n<tr>\n<td>Carrots</td>\n<td>215</td>\n<td>6 h 30 min</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chili-pepper-2235\" title=\"Chili Pepper\" rel=\"noopener noreferrer\" target=\"_blank\">Chili peppers</a></b></td>\n<td>154</td>\n<td>1 d 12 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\">Corn</a></b></td>\n<td>250</td>\n<td>5 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cotton-14254\" title=\"Cotton\" rel=\"noopener noreferrer\" target=\"_blank\">Cotton</a></b></td>\n<td>52</td>\n<td>16 h</td>\n<td>156\n</td></tr>\n<tr>\n<td>Cotton</td>\n<td>122</td>\n<td>1 d 1 h</td>\n<td>245\n</td></tr>\n<tr>\n<td>Cotton</td>\n<td>159</td>\n<td>1 d 5 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/indigo-2083\" title=\"Indigo\" rel=\"noopener noreferrer\" target=\"_blank\">Indigo</a></b></td>\n<td>161</td>\n<td>1 d</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lettuce-8898\" title=\"Lettuce\" rel=\"noopener noreferrer\" target=\"_blank\">Lettuce</a></b></td>\n<td>155</td>\n<td>1 d 8 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/potato-2693\" title=\"Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Potatoes</a></b></td>\n<td>155</td>\n<td>1 d 9 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pumpkin-2082\" title=\"Pumpkin\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkins</a></b></td>\n<td>131</td>\n<td>1 d 3 h</td>\n<td>267\n</td></tr>\n<tr>\n<td>Pumpkins</td>\n<td>157</td>\n<td>1 d 10 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/rice-8896\" title=\"Rice\" rel=\"noopener noreferrer\" target=\"_blank\">Rice</a></b></td>\n<td>176</td>\n<td>13 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/soybean-2079\" title=\"Soybean\" rel=\"noopener noreferrer\" target=\"_blank\">Soybeans</a></b></td>\n<td>194</td>\n<td>8 h 30 min</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/strawberry-2240\" title=\"Strawberry\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberries</a></b></td>\n<td>150</td>\n<td>3 d</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sugarcane-2080\" title=\"Sugarcane\" rel=\"noopener noreferrer\" target=\"_blank\">Sugarcane</a></b></td>\n<td>159</td>\n<td>9 h</td>\n<td>275\n</td></tr>\n<tr>\n<td>Sugarcane</td>\n<td>184</td>\n<td>9 h 30 min</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tomato-2236\" title=\"Tomato\" rel=\"noopener noreferrer\" target=\"_blank\">Tomatoes</a></b></td>\n<td>151</td>\n<td>2 d 12 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">Wheat</a></b></td>\n<td>315</td>\n<td>4 h 30 min</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Helping</b></span></h3>\n<p>Help other farmers. Revive <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">trees and bushes</a>, complete <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> crates, fill <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck</a> orders or serve people in <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a>.\n</p>\n<table>\n<tbody><tr>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>5</td>\n<td>Until derby ends</td>\n<td>167\n</td></tr>\n<tr>\n<td>6</td>\n<td>Until derby ends</td>\n<td>190\n</td></tr>\n<tr>\n<td>10</td>\n<td>Until derby ends</td>\n<td>249\n</td></tr>\n<tr>\n<td>11</td>\n<td>Until derby ends</td>\n<td>263\n</td></tr>\n<tr>\n<td>12</td>\n<td>Until derby ends</td>\n<td>278\n</td></tr>\n<tr>\n<td>14</td>\n<td>Until derby ends</td>\n<td>306\n</td></tr>\n<tr>\n<td>15</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Mining</b></span></h3>\n<p>Excavate ores from the <a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">mine</a> using mining tools. Players cannot buy the ore through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> and need to produce and collect themselves.\n</p>\n<table>\n<tbody><tr>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>11</td>\n<td>Until derby ends</td>\n<td>138\n</td></tr>\n<tr>\n<td>39</td>\n<td>Until derby ends</td>\n<td>289\n</td></tr>\n<tr>\n<td>43</td>\n<td>Until derby ends</td>\n<td>307\n</td></tr>\n<tr>\n<td>46</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Production</b></span></h3>\n<p>Produce and collect <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>. Players cannot buy the products through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a>, or have <a href=\"/wiki/ernest-26082\" title=\"Ernest\" rel=\"noopener noreferrer\" target=\"_blank\">Ernest</a> collect them, and need to produce and collect themselves.\n</p>\n<table class=\"sortable\">\n<tbody><tr>\n<th>Product\n</th>\n<th>Quantity\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td><b><a href=\"/wiki/apple-juice-2143\" title=\"Apple Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Apple juice</a></b></td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bacon-and-eggs-2069\" title=\"Bacon and Eggs\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon and eggs</a></b></td>\n<td>12</td>\n<td>1 d 16 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/baked-potato-2705\" title=\"Baked Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Baked potatoes</a></b></td>\n<td>9</td>\n<td>18 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/banana-bread-26412\" title=\"Banana Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Banana bread</a></b></td>\n<td>14</td>\n<td>1 d 10 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/banana-pancakes-26424\" title=\"Banana Pancakes\" rel=\"noopener noreferrer\" target=\"_blank\">Banana pancakes</a></b></td>\n<td>8</td>\n<td>1 d 3 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blackberry-muffin-2295\" title=\"Blackberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Blackberry muffins</a></b></td>\n<td>11</td>\n<td>1 d 3 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue Woolly Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Blue woolly hats</a></b></td>\n<td>14</td>\n<td>1 d 3 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/buttered-popcorn-2093\" title=\"Buttered Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Buttered popcorn</a></b></td>\n<td>14</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/carrot-cake-2165\" title=\"Carrot Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot cakes</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/carrot-pie-2089\" title=\"Carrot Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot pies</a></b></td>\n<td>14</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chili-popcorn-2311\" title=\"Chili Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Chili popcorn</a></b></td>\n<td>6</td>\n<td>1 d 16 h</td>\n<td>278\n</td></tr>\n<tr>\n<td>Chili popcorn</td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cookie-2085\" title=\"Cookie\" rel=\"noopener noreferrer\" target=\"_blank\">Cookies</a></b></td>\n<td>14</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cotton-shirt-14258\" title=\"Cotton Shirt\" rel=\"noopener noreferrer\" target=\"_blank\">Cotton shirts</a></b></td>\n<td>11</td>\n<td>1 d 3 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/feta-pie-2290\" title=\"Feta Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Feta pies</a></b></td>\n<td>7</td>\n<td>1 d 14 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/fish-and-chips-7182\" title=\"Fish and Chips\" rel=\"noopener noreferrer\" target=\"_blank\">Fish and chips</a></b></td>\n<td>7</td>\n<td>1 d 9 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/frutti-di-mare-pizza-8450\" title=\"Frutti di Mare Pizza\" rel=\"noopener noreferrer\" target=\"_blank\">Frutti di Mare pizza</a></b></td>\n<td>16</td>\n<td>14 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/goat-cheese-2297\" title=\"Goat Cheese\" rel=\"noopener noreferrer\" target=\"_blank\">Goat cheese</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/goat-cheese-toast-26431\" title=\"Goat Cheese Toast\" rel=\"noopener noreferrer\" target=\"_blank\">Goat cheese toasts</a></b></td>\n<td>9</td>\n<td>1 d</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/green-smoothie-11418\" title=\"Green Smoothie\" rel=\"noopener noreferrer\" target=\"_blank\">Green smoothies</a></b></td>\n<td>8</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/grilled-eggplant-30750\" title=\"Grilled Eggplant\" rel=\"noopener noreferrer\" target=\"_blank\">Grilled eggplant</a></b></td>\n<td>9</td>\n<td>20 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/grilled-onion-24943\" title=\"Grilled Onion\" rel=\"noopener noreferrer\" target=\"_blank\">Grilled onions</a></b></td>\n<td>13</td>\n<td>1 d 20 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/hamburger-2277\" title=\"Hamburger\" rel=\"noopener noreferrer\" target=\"_blank\">Hamburgers</a></b></td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/honey-popcorn-15786\" title=\"Honey Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Honey popcorn</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/honey-tea-24976\" title=\"Honey Tea\" rel=\"noopener noreferrer\" target=\"_blank\">Honey tea</a></b></td>\n<td>12</td>\n<td>1 d 3 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/honey-toast-15783\" title=\"Honey Toast\" rel=\"noopener noreferrer\" target=\"_blank\">Honey toast</a></b></td>\n<td>14</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/hot-chocolate-2456\" title=\"Hot Chocolate\" rel=\"noopener noreferrer\" target=\"_blank\">Hot chocolate</a></b></td>\n<td>16</td>\n<td>1 d 20 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/hot-dog-19460\" title=\"Hot Dog\" rel=\"noopener noreferrer\" target=\"_blank\">Hot dogs</a></b></td>\n<td>15</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lemon-curd-10558\" title=\"Lemon Curd\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon curd</a></b></td>\n<td>14</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lobster-skewer-15778\" title=\"Lobster Skewer\" rel=\"noopener noreferrer\" target=\"_blank\">Lobster skewers</a></b></td>\n<td>10</td>\n<td>23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/milk-tea-24975\" title=\"Milk Tea\" rel=\"noopener noreferrer\" target=\"_blank\">Milk tea</a></b></td>\n<td>13</td>\n<td>1 d 5 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/mixed-smoothie-24936\" title=\"Mixed Smoothie\" rel=\"noopener noreferrer\" target=\"_blank\">Mixed smoothies</a></b></td>\n<td>12</td>\n<td>20 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/olive-oil-8968\" title=\"Olive Oil\" rel=\"noopener noreferrer\" target=\"_blank\">Olive oil</a></b></td>\n<td>9</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/orange-tea-24978\" title=\"Orange Tea\" rel=\"noopener noreferrer\" target=\"_blank\">Orange tea</a></b></td>\n<td>10</td>\n<td>23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/potato-bread-2707\" title=\"Potato Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Potato bread</a></b></td>\n<td>9</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pumpkin-pie-2088\" title=\"Pumpkin Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkin pies</a></b></td>\n<td>7</td>\n<td>1 d 21 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/quesadilla-24985\" title=\"Quesadilla\" rel=\"noopener noreferrer\" target=\"_blank\">Quesadillas</a></b></td>\n<td>11</td>\n<td>1 d 12 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/raspberry-candle-16476\" title=\"Raspberry Candle\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry candles</a></b></td>\n<td>7</td>\n<td>1 d 14 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/raspberry-muffin-2283\" title=\"Raspberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry muffins</a></b></td>\n<td>14</td>\n<td>1 d 10 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/red-berry-cake-2254\" title=\"Red Berry Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Red berry cakes</a></b></td>\n<td>10</td>\n<td>1 d 9 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/roasted-tomatoes-2279\" title=\"Roasted Tomatoes\" rel=\"noopener noreferrer\" target=\"_blank\">Roasted tomatoes</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/strawberry-candle-16470\" title=\"Strawberry Candle\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberry candles</a></b></td>\n<td>6</td>\n<td>1 d 16 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sushi-roll-8913\" title=\"Sushi Roll\" rel=\"noopener noreferrer\" target=\"_blank\">Sushi rolls</a></b></td>\n<td>6</td>\n<td>1 d 1 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sweater-2162\" title=\"Sweater\" rel=\"noopener noreferrer\" target=\"_blank\">Sweaters</a></b></td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/syrup-2272\" title=\"Syrup\" rel=\"noopener noreferrer\" target=\"_blank\">Syrup</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/taco-24984\" title=\"Taco\" rel=\"noopener noreferrer\" target=\"_blank\">Tacos</a></b></td>\n<td>7</td>\n<td>18 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/toffee-2512\" title=\"Toffee\" rel=\"noopener noreferrer\" target=\"_blank\">Toffee</a></b></td>\n<td>9</td>\n<td>1 d 20 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tofu-dog-19462\" title=\"Tofu Dog\" rel=\"noopener noreferrer\" target=\"_blank\">Tofu dogs</a></b></td>\n<td>8</td>\n<td>19 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tomato-juice-2144\" title=\"Tomato Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Tomato juice</a></b></td>\n<td>9</td>\n<td>1 d 22 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/vanilla-ice-cream-2176\" title=\"Vanilla Ice Cream\" rel=\"noopener noreferrer\" target=\"_blank\">Vanilla ice cream</a></b></td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/yogurt-smoothie-11419\" title=\"Yogurt Smoothie\" rel=\"noopener noreferrer\" target=\"_blank\">Yogurt smoothies</a></b></td>\n<td>7</td>\n<td>1 d 23 h</td>\n<td>320\n</td></tr></tbody></table>\n<p><b>Strategy tips -</b> You can produce and not release items from a machine beyond the number of slots of your machine if your barn is full. Some call this \"stacking.\" A maximum of 9 items can be seen \"hanging\" on the machine ready to be released, but there could be more already prepared and not visible (up to a max of around 56). For example, if you want to prepare 14 yogurt smoothies for the 320-pt task and you have only 7 slots, by carefully keeping your barn full, you can fill those slots twice, ahead of time, so that you can have 14 smoothies ready to be released when the 320-pt task shows up. This strategy is for those who want to finish a task quickly. This can be tricky as making one yogurt smoothie will reduce your barn load by 2 items (1 sugar, 1 cream). You will need to fill your barn again after each smoothie you place in the slots.\n</p><p>Hiring Rose and Ernest sometime before you start stacking can be quite useful, depending on which item you are trying to stack. If it involves the animal, dairy or sugar products stored in the helper's&#160;space, you could produce items without having to constantly replenish the stock ingredients.\n</p>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Service buildings orders (Town Building Tasks)</b></span></h3>\n<p>Serve <b>any </b>visitor in the <a href=\"/wiki/service-buildings-24540\" title=\"Service Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">service building</a> specified in the task. The visitors need only be served in that particular building <b>last</b>. For example, for a Cinema Task, the visitor may be asking for Cinema and Spa, players only need to serve the visitor in the Cinema and released without being served in the Spa. Visitors can be served ahead of time before the task is selected. Visitors who need and have been served at only that one specified building as well as visitors who have been served in other buildings besides the specified building are counted, but they must be released <b>from that building. </b>This means those who had been served in more than one building must be served <b>at that specific building last</b>.)<b> </b>This can be done either by tapping on the building or from the Ready Tab in the Townhall. They would be listed as \"Ready in XXX (building).\" As with other Town tasks, products may be obtained through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> to fill the orders, or put up for help. The visitor can be supplied by either the Eggspress Train or the Personal Train.\n</p><p>The <a href=\"/wiki/bed-and-breakfast-13194\" title=\"Bed and Breakfast\" rel=\"noopener noreferrer\" target=\"_blank\">Bed and Breakfast</a> building gives more points for the same number of people served relative to the other buildings, which are all the same.\n</p>\n<table>\n<tbody><tr>\n<th>Service buildings\n</th>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td><b><a href=\"/wiki/bed-and-breakfast-13194\" title=\"Bed and Breakfast\" rel=\"noopener noreferrer\" target=\"_blank\">Bed and breakfast</a></b></td>\n<td>8</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr>\n<tr>\n<td>Any building other than the <a href=\"/wiki/bed-and-breakfast-13194\" title=\"Bed and Breakfast\" rel=\"noopener noreferrer\" target=\"_blank\">B&amp;B</a></td>\n<td>8</td>\n<td>Until the derby ends</td>\n<td>235\n</td></tr>\n<tr>\n<td>Any building other than the B&amp;B</td>\n<td>10</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Specific town visitor orders</b></span></h3>\n<p>Fully serve <b>one type of <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">visitor</a></b> (e.g. the Actress) in your <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a>. The character needs to be served in <b>all</b> the buildings they request. When the visitor presents a gift, it means he/she has been fully served. Players can either produce and collect themselves or buy products through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> to fill the orders, or put up for help. The visitor can be served ahead of time but must be released from the last requested building only after the derby task has been selected. The visitor can be supplied by either the Eggspress Train or the Personal Train.\n</p>\n<table>\n<tbody><tr>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>2</td>\n<td>Until derby ends</td>\n<td>190\n</td></tr>\n<tr>\n<td>4</td>\n<td>Until derby ends</td>\n<td>278\n</td></tr>\n<tr>\n<td>5</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<p><b>Strategy tips</b>\n</p>\n<ul><li>For Specific Town Visitor Tasks, if you do not have the desired visitors, one strategy is to reject all visitors from the Eggspress Train and bring in the desired visitors using only the Personal Train as they require to be serviced at only one building. It is preferable to choose visitors who need services that require the least time, such as the Grocery Store, Beach Cafe or Gift Shop. The next preferable would be the Spa, Cinema or Diner. Note that the Diner service time can be minimized to 1H 30min when upgraded to a maximum of 40% time. Bnb takes the longest time and is to be avoided.</li>\n<li>In choosing which passenger to pick up with your Personal Train, note that neither you nor your neighbor can tell which building visitors need BEFORE they have been rejected. However, the visitors will retain their identities (e.g. Susan the Actress will remain Susan the Actress). Once they have been rejected and reached the train station, you would be able to see which service they need in your town. Having a helpful neighborhood that is actively playing town and reads chats is most helpful! It's also helpful to maximize the capacity (10 passengers) and minimize the maintenance time (1.5 hours) of your Personal Train.</li>\n<li>Sometimes it takes a while before a released visitor gets to the platform and be visible to the player coming to pick up the visitor, especially if the visitor wants to visit the sanctuary. It might be wise for the player to release visitors to announce how many are being released.</li>\n<li>Pre-derby Preparation: It's a gamble as to which Specific Town Visitor Task will show up, but you could collect and serve sets of a specific visitor. (e.g. collect 5 mechanics if you are going for a 320-pt task.)</li>\n<li>Once visitors are served they stand in front of the building and no longer occupy a slot in the building. Therefore, more visitors may be brought in (through the Town Hall) to be served in that building.</li>\n<li>Always place, serve and release visitors through the Town Hall if you do not wish to release all the served visitors standing at the front of the building.<br>&#160;</li></ul>\n<h3><span class=\"mw-headline\"><b>Town visitors orders</b></span></h3>\n<p>Fully serve <b>any</b> visitors in your <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a>. <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town visitors</a> need to be served in <b>all</b> the buildings they request. When the visitor presents a gift, it means he/she has been fully served. Players can either produce and collect themselves or buy products through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> to fill the orders. The visitor can be served ahead of time but be released from the last requested building only after the derby task has been selected. The visitor can be supplied by either the Eggspress Train or the Personal Train.\n</p>\n<table>\n<tbody><tr>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>2</td>\n<td>Until derby ends</td>\n<td>120\n</td></tr>\n<tr>\n<td>12</td>\n<td>Until derby ends</td>\n<td>303\n</td></tr>\n<tr>\n<td>13</td>\n<td>Until derby ends</td>\n<td>320\n</td></tr></tbody></table>\n<p><br>\n</p><p><br>\n<b>Strategy tips</b> - Before the derby begins try to get as many town visitors completely served as possible. Then when the task comes you can quickly complete it and move on to another.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Truck orders</b></span></h3>\n<p>Complete <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck</a> deliveries. The task is counted once the truck is on its way. Players can either produce and collect themselves or buy products through <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> or <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shops</a> to fill the orders. They can fill the truck themselves, or put it up for help and someone else fill it.\n</p>\n<table>\n<tbody><tr>\n<th>Number\n</th>\n<th>Time\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>6</td>\n<td>17 h</td>\n<td>173\n</td></tr>\n<tr>\n<td>11</td>\n<td>22 h</td>\n<td>249\n</td></tr>\n<tr>\n<td>15</td>\n<td>1 d 6 h</td>\n<td>306\n</td></tr>\n<tr>\n<td>16</td>\n<td>1 d 8 h</td>\n<td>320\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>References</b></span></h3>\n<hr>\n<!-- \nNewPP limit report\nCached time: 20260831204537\nCache expiry: 1209600\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.053 seconds\nReal time usage: 0.115 seconds\nPreprocessor visited node count: 226/1000000\nPost‐expand include size: 195/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.663      1 -total\n 49.87%    1.328      1 Template:Clr\n 47.95%    1.277      1 Template:Tocright\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33577-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831204537 and revision id 104440. Rendering was triggered because: unknown\n -->\n</div>",
+  "htmlHash": "8bb71acc9b972fdf944964a280efd8001e34854e69489e5e8d9beb36d5788a33",
+  "internalLinks": [
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/apple-juice-2143",
+      "title": "Apple Juice"
+    },
+    {
+      "route": "/wiki/bacon-2267",
+      "title": "Bacon"
+    },
+    {
+      "route": "/wiki/bacon-and-eggs-2069",
+      "title": "Bacon and Eggs"
+    },
+    {
+      "route": "/wiki/baked-potato-2705",
+      "title": "Baked Potato"
+    },
+    {
+      "route": "/wiki/banana-bread-26412",
+      "title": "Banana Bread"
+    },
+    {
+      "route": "/wiki/banana-pancakes-26424",
+      "title": "Banana Pancakes"
+    },
+    {
+      "route": "/wiki/bed-and-breakfast-13194",
+      "title": "Bed and Breakfast"
+    },
+    {
+      "route": "/wiki/blackberry-muffin-2295",
+      "title": "Blackberry Muffin"
+    },
+    {
+      "route": "/wiki/blue-woolly-hat-2250",
+      "title": "Blue Woolly Hat"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/buttered-popcorn-2093",
+      "title": "Buttered Popcorn"
+    },
+    {
+      "route": "/wiki/carrot-2081",
+      "title": "Carrot"
+    },
+    {
+      "route": "/wiki/carrot-cake-2165",
+      "title": "Carrot Cake"
+    },
+    {
+      "route": "/wiki/carrot-pie-2089",
+      "title": "Carrot Pie"
+    },
+    {
+      "route": "/wiki/chili-pepper-2235",
+      "title": "Chili Pepper"
+    },
+    {
+      "route": "/wiki/chili-popcorn-2311",
+      "title": "Chili Popcorn"
+    },
+    {
+      "route": "/wiki/cookie-2085",
+      "title": "Cookie"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/cotton-14254",
+      "title": "Cotton"
+    },
+    {
+      "route": "/wiki/cotton-shirt-14258",
+      "title": "Cotton Shirt"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/derby-tasks-19761",
+      "title": "Derby Tasks"
+    },
+    {
+      "route": "/wiki/egg-2058",
+      "title": "Egg"
+    },
+    {
+      "route": "/wiki/ernest-26082",
+      "title": "Ernest"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/feta-pie-2290",
+      "title": "Feta Pie"
+    },
+    {
+      "route": "/wiki/fish-5891",
+      "title": "Fish"
+    },
+    {
+      "route": "/wiki/fish-and-chips-7182",
+      "title": "Fish and Chips"
+    },
+    {
+      "route": "/wiki/fishing-7449",
+      "title": "Fishing"
+    },
+    {
+      "route": "/wiki/friends-7721",
+      "title": "Friends"
+    },
+    {
+      "route": "/wiki/frutti-di-mare-pizza-8450",
+      "title": "Frutti di Mare Pizza"
+    },
+    {
+      "route": "/wiki/goat-cheese-2297",
+      "title": "Goat Cheese"
+    },
+    {
+      "route": "/wiki/goat-cheese-toast-26431",
+      "title": "Goat Cheese Toast"
+    },
+    {
+      "route": "/wiki/goat-milk-2299",
+      "title": "Goat Milk"
+    },
+    {
+      "route": "/wiki/green-smoothie-11418",
+      "title": "Green Smoothie"
+    },
+    {
+      "route": "/wiki/grilled-eggplant-30750",
+      "title": "Grilled Eggplant"
+    },
+    {
+      "route": "/wiki/grilled-onion-24943",
+      "title": "Grilled Onion"
+    },
+    {
+      "route": "/wiki/hamburger-2277",
+      "title": "Hamburger"
+    },
+    {
+      "route": "/wiki/honey-popcorn-15786",
+      "title": "Honey Popcorn"
+    },
+    {
+      "route": "/wiki/honey-tea-24976",
+      "title": "Honey Tea"
+    },
+    {
+      "route": "/wiki/honey-toast-15783",
+      "title": "Honey Toast"
+    },
+    {
+      "route": "/wiki/hot-chocolate-2456",
+      "title": "Hot Chocolate"
+    },
+    {
+      "route": "/wiki/hot-dog-19460",
+      "title": "Hot Dog"
+    },
+    {
+      "route": "/wiki/indigo-2083",
+      "title": "Indigo"
+    },
+    {
+      "route": "/wiki/lemon-curd-10558",
+      "title": "Lemon Curd"
+    },
+    {
+      "route": "/wiki/lettuce-8898",
+      "title": "Lettuce"
+    },
+    {
+      "route": "/wiki/lobster-skewer-15778",
+      "title": "Lobster Skewer"
+    },
+    {
+      "route": "/wiki/milk-2141",
+      "title": "Milk"
+    },
+    {
+      "route": "/wiki/milk-tea-24975",
+      "title": "Milk Tea"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/mixed-smoothie-24936",
+      "title": "Mixed Smoothie"
+    },
+    {
+      "route": "/wiki/olive-oil-8968",
+      "title": "Olive Oil"
+    },
+    {
+      "route": "/wiki/orange-tea-24978",
+      "title": "Orange Tea"
+    },
+    {
+      "route": "/wiki/potato-2693",
+      "title": "Potato"
+    },
+    {
+      "route": "/wiki/potato-bread-2707",
+      "title": "Potato Bread"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/pumpkin-2082",
+      "title": "Pumpkin"
+    },
+    {
+      "route": "/wiki/pumpkin-pie-2088",
+      "title": "Pumpkin Pie"
+    },
+    {
+      "route": "/wiki/quesadilla-24985",
+      "title": "Quesadilla"
+    },
+    {
+      "route": "/wiki/raspberry-candle-16476",
+      "title": "Raspberry Candle"
+    },
+    {
+      "route": "/wiki/raspberry-muffin-2283",
+      "title": "Raspberry Muffin"
+    },
+    {
+      "route": "/wiki/red-berry-cake-2254",
+      "title": "Red Berry Cake"
+    },
+    {
+      "route": "/wiki/rice-8896",
+      "title": "Rice"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/roasted-tomatoes-2279",
+      "title": "Roasted Tomatoes"
+    },
+    {
+      "route": "/wiki/rose-26084",
+      "title": "Rose"
+    },
+    {
+      "route": "/wiki/service-buildings-24540",
+      "title": "Service Buildings"
+    },
+    {
+      "route": "/wiki/soybean-2079",
+      "title": "Soybean"
+    },
+    {
+      "route": "/wiki/strawberry-2240",
+      "title": "Strawberry"
+    },
+    {
+      "route": "/wiki/strawberry-candle-16470",
+      "title": "Strawberry Candle"
+    },
+    {
+      "route": "/wiki/sugarcane-2080",
+      "title": "Sugarcane"
+    },
+    {
+      "route": "/wiki/sushi-roll-8913",
+      "title": "Sushi Roll"
+    },
+    {
+      "route": "/wiki/sweater-2162",
+      "title": "Sweater"
+    },
+    {
+      "route": "/wiki/syrup-2272",
+      "title": "Syrup"
+    },
+    {
+      "route": "/wiki/taco-24984",
+      "title": "Taco"
+    },
+    {
+      "route": "/wiki/toffee-2512",
+      "title": "Toffee"
+    },
+    {
+      "route": "/wiki/tofu-dog-19462",
+      "title": "Tofu Dog"
+    },
+    {
+      "route": "/wiki/tom-2981",
+      "title": "Tom"
+    },
+    {
+      "route": "/wiki/tomato-2236",
+      "title": "Tomato"
+    },
+    {
+      "route": "/wiki/tomato-juice-2144",
+      "title": "Tomato Juice"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    },
+    {
+      "route": "/wiki/town-visitors-13241",
+      "title": "Town Visitors"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    },
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    },
+    {
+      "route": "/wiki/vanilla-ice-cream-2176",
+      "title": "Vanilla Ice Cream"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    },
+    {
+      "route": "/wiki/wool-2270",
+      "title": "Wool"
+    },
+    {
+      "route": "/wiki/yogurt-smoothie-11419",
+      "title": "Yogurt Smoothie"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33577,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Derby Task.png"
+  ],
+  "revisionId": 104440,
+  "revisionTimestamp": "2023-12-27T22:05:48Z",
+  "route": "/wiki/power-derby-tasks-33577",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Power_Derby_Tasks",
+  "title": "Power Derby Tasks",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "36fb6f954d011bb3135b35c6488f82b50ff4c60892fbf136fa3294dae3a5ca9c"
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Easter_Egg_Maker_Products?action=history",
+    "importedAt": "2026-09-01T03:08:56.972Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Easter_Egg_Maker_Products?oldid=102750",
+    "sourceRevisionId": 102750,
+    "sourceTitle": "Category:Easter Egg Maker Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Easter_Egg_Maker_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/3/36/Easter_Egg_Maker.png/revision/latest?cb=20250926024408\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Easter Egg Maker\" src=\"https://static.wikia.nocookie.net/hayday/images/3/36/Easter_Egg_Maker.png/revision/latest/scale-to-width-down/180?cb=20250926024408\" loading=\"lazy\" width=\"180\" height=\"223\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AEaster_Egg_Maker.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/easter-egg-maker-35764\" title=\"Easter Egg Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Easter Egg Maker</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030851\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35773-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030851 and revision id 102750. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4ba7119cab1fed5b849cea528bcd8dc410d348ede988f9fb4e58a9d1982208fc",
+  "internalLinks": [
+    {
+      "route": "/wiki/easter-egg-maker-35764",
+      "title": "Easter Egg Maker"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35773,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Easter Egg Maker.png"
+  ],
+  "revisionId": 102750,
+  "revisionTimestamp": "2023-04-10T20:12:12Z",
+  "route": "/wiki/category%2Fcategory-easter-egg-maker-products-35773",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Easter_Egg_Maker_Products",
+  "title": "Category:Easter Egg Maker Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "25fac9b7a72ad37fcb547066920938838b485a069ca1d70d48ef353f91d42c7f"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Elephant_Slide.png",
+  "height": 546,
+  "immutableUrl": null,
+  "mediaId": "File:Elephant Slide.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-12T15:55:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AElephant%20Slide.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 215874,
+  "sourceSha1": "978947a393cc5fbbca504efa05e0e94a082f1b68",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Elephant_Slide.png/revision/latest?cb=20180412155501",
+  "title": "File:Elephant Slide.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 546
+}

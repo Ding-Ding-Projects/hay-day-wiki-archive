@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gold_Vase.png",
+  "height": 220,
+  "immutableUrl": null,
+  "mediaId": "File:Gold Vase.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-02-17T07:51:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGold%20Vase.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 26284,
+  "sourceSha1": "a3dc95d2f6927f3a7e289823f1817740f938902f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9a/Gold_Vase.png/revision/latest?cb=20200217075112",
+  "title": "File:Gold Vase.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 143
+}

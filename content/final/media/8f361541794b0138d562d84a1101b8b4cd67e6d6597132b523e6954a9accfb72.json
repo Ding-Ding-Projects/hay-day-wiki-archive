@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Personal_Train_Maintenance.png",
+  "height": 871,
+  "immutableUrl": null,
+  "mediaId": "File:Personal Train Maintenance.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-22T18:11:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APersonal%20Train%20Maintenance.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 455468,
+  "sourceSha1": "47d9882606d435f840d5859f2f713f421ac0b2c7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Personal_Train_Maintenance.png/revision/latest?cb=20171022181101",
+  "title": "File:Personal Train Maintenance.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 871
+}

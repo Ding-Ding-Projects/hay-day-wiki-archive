@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sweet_Porridge.png",
+  "height": 2180,
+  "immutableUrl": null,
+  "mediaId": "File:Sweet Porridge.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-17T16:14:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASweet%20Porridge.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1829805,
+  "sourceSha1": "04b626d5fac62846aab23a0a6507b69d35316d2a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Sweet_Porridge.png/revision/latest?cb=20240217161407",
+  "title": "File:Sweet Porridge.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2180
+}

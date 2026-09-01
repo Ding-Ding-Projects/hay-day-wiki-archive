@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Bar.png",
+  "height": 249,
+  "immutableUrl": null,
+  "mediaId": "File:Experience Bar.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-01-26T13:17:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AExperience%20Bar.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 210567,
+  "sourceSha1": "a493d904beadf5a205ad51de34df134113936cc4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/Experience_Bar.png/revision/latest?cb=20240126131743",
+  "title": "File:Experience Bar.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 195
+}

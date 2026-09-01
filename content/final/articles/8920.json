@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Salad_Bar_Products?action=history",
+    "importedAt": "2026-09-01T02:43:19.458Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Salad_Bar_Products?oldid=57796",
+    "sourceRevisionId": 57796,
+    "sourceTitle": "Category:Salad Bar Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Salad_Bar_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Salad_Bar.png/revision/latest?cb=20250925210656\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Salad Bar\" src=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Salad_Bar.png/revision/latest/scale-to-width-down/180?cb=20250925210656\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ASalad_Bar.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/salad-bar-8900\" title=\"Salad Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Salad Bar</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024308\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:8920-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024308 and revision id 57796. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "99ff6ac63e515fa09028aa599ddb2dd5db52450d145776a4bc9422f119f6438f",
+  "internalLinks": [
+    {
+      "route": "/wiki/salad-bar-8900",
+      "title": "Salad Bar"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 8920,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Salad Bar.png"
+  ],
+  "revisionId": 57796,
+  "revisionTimestamp": "2016-01-21T18:26:14Z",
+  "route": "/wiki/category%2Fcategory-salad-bar-products-8920",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Salad_Bar_Products",
+  "title": "Category:Salad Bar Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d10a17824d473d305177230121c4a512277e91f06b3f64da3e560309936fa19e"
+}

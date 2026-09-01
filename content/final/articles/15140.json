@@ -1,0 +1,49 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Town_Buildings?action=history",
+    "importedAt": "2026-09-01T02:47:43.704Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Town_Buildings?oldid=32615",
+    "sourceRevisionId": 32615,
+    "sourceTitle": "Category:Town Buildings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Town_Buildings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This page lists the buildings found in the <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">Town</a>. Also see <a href=\"/wiki/category%2Fcategory-farm-buildings-14843\" title=\"Category:Farm Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">Farm Buildings</a> and <a href=\"/wiki/category%2Fcategory-fishing-5894\" title=\"Category:Fishing\" rel=\"noopener noreferrer\" target=\"_blank\">Fishing</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831140649\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.018 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15140-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831140649 and revision id 32615. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "bb1ce614220854cf6a26c9a1b64aff662bdfd6db3367f2f103c96c9a098d99d9",
+  "internalLinks": [
+    {
+      "route": "/wiki/category%2Fcategory-farm-buildings-14843",
+      "title": "Category:Farm Buildings"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-fishing-5894",
+      "title": "Category:Fishing"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15140,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32615,
+  "revisionTimestamp": "2014-08-10T23:21:14Z",
+  "route": "/wiki/category%2Fcategory-town-buildings-15140",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Town_Buildings",
+  "title": "Category:Town Buildings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ebed86b0ec236fd2418bed4adb5615f047847ec6323f6de0d1b47696ee5d94a7"
+}

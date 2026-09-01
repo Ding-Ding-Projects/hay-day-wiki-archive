@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Leaf_Pile.png",
+  "height": 615,
+  "immutableUrl": null,
+  "mediaId": "File:Leaf Pile.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-01T21:24:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALeaf%20Pile.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 382415,
+  "sourceSha1": "72ef8f89af5d4ac3be0d3006b36c96b08f11b616",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/42/Leaf_Pile.png/revision/latest?cb=20181001212410",
+  "title": "File:Leaf Pile.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 615
+}

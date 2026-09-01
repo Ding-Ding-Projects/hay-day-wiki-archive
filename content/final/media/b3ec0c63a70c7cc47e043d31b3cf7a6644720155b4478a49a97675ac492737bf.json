@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bird_Bath.png",
+  "height": 654,
+  "immutableUrl": null,
+  "mediaId": "File:Bird Bath.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T23:55:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABird%20Bath.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 252098,
+  "sourceSha1": "a37efc784370486d3809c9a74f73ce0da1d60aeb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Bird_Bath.png/revision/latest?cb=20150714235547",
+  "title": "File:Bird Bath.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 654
+}

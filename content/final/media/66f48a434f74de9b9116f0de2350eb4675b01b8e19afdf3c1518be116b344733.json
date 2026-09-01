@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pomegranate.png",
+  "height": 2040,
+  "immutableUrl": null,
+  "mediaId": "File:Pomegranate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T03:39:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APomegranate.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2679229,
+  "sourceSha1": "e60d3a3d8a4631df3c471ace241518a118ee9a08",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png/revision/latest?cb=20240219033910",
+  "title": "File:Pomegranate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2040
+}

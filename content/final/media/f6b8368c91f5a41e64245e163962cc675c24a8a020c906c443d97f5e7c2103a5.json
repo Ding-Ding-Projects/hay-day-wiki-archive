@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candy_Machine.png",
+  "height": 875,
+  "immutableUrl": null,
+  "mediaId": "File:Candy Machine.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T20:47:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACandy%20Machine.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 415517,
+  "sourceSha1": "d3cbd0e7f38f2b56f2faf402441f56453ac08721",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Candy_Machine.png/revision/latest?cb=20250925204735",
+  "title": "File:Candy Machine.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 875
+}

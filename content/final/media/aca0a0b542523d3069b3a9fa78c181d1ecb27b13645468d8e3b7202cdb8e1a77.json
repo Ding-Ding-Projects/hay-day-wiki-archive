@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Meerkat_House_Stage_2.png",
+  "height": 550,
+  "immutableUrl": null,
+  "mediaId": "File:Meerkat House Stage 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-09-30T22:17:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMeerkat%20House%20Stage%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 143842,
+  "sourceSha1": "8a4a08602718c50fb406bc6768210febc6b6970b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Meerkat_House_Stage_2.png/revision/latest?cb=20230930221743",
+  "title": "File:Meerkat House Stage 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 550
+}

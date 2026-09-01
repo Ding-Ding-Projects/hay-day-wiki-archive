@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rice_Stage_1.png",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Rice Stage 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T12:36:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARice%20Stage%201.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 73686,
+  "sourceSha1": "673e545efedb3d781543fa4d3575d8acf1a5279a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Rice_Stage_1.png/revision/latest?cb=20150714123651",
+  "title": "File:Rice Stage 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 269
+}

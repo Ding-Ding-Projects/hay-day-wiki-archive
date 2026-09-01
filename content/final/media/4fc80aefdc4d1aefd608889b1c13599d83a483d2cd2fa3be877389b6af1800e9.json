@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Balloon_Maker_2026_Mastered.png",
+  "height": 775,
+  "immutableUrl": null,
+  "mediaId": "File:Birthday Balloon Maker 2026 Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-28T22:16:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABirthday%20Balloon%20Maker%202026%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 630663,
+  "sourceSha1": "574ea5bd6ec17c938c73b5f9f9326332feb754c4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Birthday_Balloon_Maker_2026_Mastered.png/revision/latest?cb=20260628221627",
+  "title": "File:Birthday Balloon Maker 2026 Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 730
+}

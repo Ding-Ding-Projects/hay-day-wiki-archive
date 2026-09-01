@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:SilverFish.png",
+  "height": 76,
+  "immutableUrl": null,
+  "mediaId": "File:SilverFish.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-03-21T15:41:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASilverFish.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6208,
+  "sourceSha1": "8af973310710e49afe02d84045c06120582bc1b9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/SilverFish.png/revision/latest?cb=20140321154102",
+  "title": "File:SilverFish.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 80
+}

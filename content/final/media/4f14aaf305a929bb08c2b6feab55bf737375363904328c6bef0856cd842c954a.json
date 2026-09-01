@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Preservation_Station_Mastered.png",
+  "height": 709,
+  "immutableUrl": null,
+  "mediaId": "File:Preservation Station Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-26T00:35:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APreservation%20Station%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 677970,
+  "sourceSha1": "57b3e715a8059e98f61201abf2ce0a8129d65c63",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/76/Preservation_Station_Mastered.png/revision/latest?cb=20250926003533",
+  "title": "File:Preservation Station Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

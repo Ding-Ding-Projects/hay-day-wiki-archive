@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coffee_Bean.png",
+  "height": 1256,
+  "immutableUrl": null,
+  "mediaId": "File:Coffee Bean.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T03:29:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACoffee%20Bean.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1791031,
+  "sourceSha1": "e6f2a804417df123f955d32aadb0fd1c126ba2db",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png/revision/latest?cb=20240219032959",
+  "title": "File:Coffee Bean.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1256
+}

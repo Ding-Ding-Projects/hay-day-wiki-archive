@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roadside_Shop_Rustic_Style.png",
+  "height": 515,
+  "immutableUrl": null,
+  "mediaId": "File:Roadside Shop Rustic Style.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-17T12:47:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoadside%20Shop%20Rustic%20Style.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 400085,
+  "sourceSha1": "c66debcada6f0b48be47ea1871716a008c92ed46",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/12/Roadside_Shop_Rustic_Style.png/revision/latest?cb=20180417124746",
+  "title": "File:Roadside Shop Rustic Style.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 515
+}

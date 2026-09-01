@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Zesty_Perfume.png",
+  "height": 1707,
+  "immutableUrl": null,
+  "mediaId": "File:Zesty Perfume.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-12-09T19:38:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AZesty%20Perfume.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 833281,
+  "sourceSha1": "2967004743ae4fe73ad27039bb7eecfd0e951581",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ac/Zesty_Perfume.png/revision/latest?cb=20241209193805",
+  "title": "File:Zesty Perfume.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1080
+}

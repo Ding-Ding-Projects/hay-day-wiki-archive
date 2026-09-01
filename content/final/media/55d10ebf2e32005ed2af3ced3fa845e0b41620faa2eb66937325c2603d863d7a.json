@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:White_Bunny.png",
+  "height": 750,
+  "immutableUrl": null,
+  "mediaId": "File:White Bunny.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T14:13:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWhite%20Bunny.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 276225,
+  "sourceSha1": "6bceca9d03ac766a9e85e8b9cdec760bbfbd30d1",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/White_Bunny.png/revision/latest?cb=20191028141359",
+  "title": "File:White Bunny.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 750
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel.png",
+  "height": 511,
+  "immutableUrl": null,
+  "mediaId": "File:Squirrel.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-07T05:30:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASquirrel.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 186198,
+  "sourceSha1": "78e1d9156614033c965a2238c0214704e0f9e192",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Squirrel.png/revision/latest?cb=20200707053020",
+  "title": "File:Squirrel.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 506
+}

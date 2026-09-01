@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cucumber_Sandwich.png",
+  "height": 2444,
+  "immutableUrl": null,
+  "mediaId": "File:Cucumber Sandwich.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-11T17:01:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACucumber%20Sandwich.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 5173094,
+  "sourceSha1": "afdbcb9ff5c7f1546af902c98148e1588fab9d66",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Cucumber_Sandwich.png/revision/latest?cb=20240211170159",
+  "title": "File:Cucumber Sandwich.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2444
+}

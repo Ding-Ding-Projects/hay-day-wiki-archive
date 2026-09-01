@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Holiday_Tree.png",
+  "height": 920,
+  "immutableUrl": null,
+  "mediaId": "File:Holiday Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:18:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHoliday%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 441703,
+  "sourceSha1": "b7f5fd5fb4b7f3ee6522c8c34a1f70dfc5f7e511",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ef/Holiday_Tree.png/revision/latest?cb=20150715101815",
+  "title": "File:Holiday Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 920
+}

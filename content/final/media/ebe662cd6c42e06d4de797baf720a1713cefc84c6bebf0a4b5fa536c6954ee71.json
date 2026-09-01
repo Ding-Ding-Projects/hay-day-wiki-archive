@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Blue-Grey.png",
+  "height": 256,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Blue-Grey.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-18T22:04:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Blue-Grey.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 43515,
+  "sourceSha1": "964059572c74d0c1c76df6557416ef4933d151df",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Walls_Blue-Grey.png/revision/latest?cb=20180618220405",
+  "title": "File:Walls Blue-Grey.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 278
+}

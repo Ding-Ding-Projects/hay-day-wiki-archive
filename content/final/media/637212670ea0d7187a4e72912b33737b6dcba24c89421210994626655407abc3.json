@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Peacock_cake.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Peacock cake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-13T19:36:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APeacock%20cake.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 454993,
+  "sourceSha1": "e42725ea82b318e6b4686c17e8a953fd9b675030",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/91/Peacock_cake.png/revision/latest?cb=20260113193618",
+  "title": "File:Peacock cake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

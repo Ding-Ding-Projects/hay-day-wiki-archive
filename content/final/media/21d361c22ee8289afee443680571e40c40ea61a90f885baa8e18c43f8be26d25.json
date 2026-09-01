@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sauger_Photo.png",
+  "height": 168,
+  "immutableUrl": null,
+  "mediaId": "File:Sauger Photo.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-06-24T12:49:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASauger%20Photo.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 37650,
+  "sourceSha1": "0a7e79d50d11b9d25a80e2b2ee96347e3917f523",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7b/Sauger_Photo.png/revision/latest?cb=20130624124957",
+  "title": "File:Sauger Photo.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 145
+}

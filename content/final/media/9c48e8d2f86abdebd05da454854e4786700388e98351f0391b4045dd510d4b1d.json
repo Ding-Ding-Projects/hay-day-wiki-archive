@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cake_Oven.png",
+  "height": 643,
+  "immutableUrl": null,
+  "mediaId": "File:Cake Oven.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:09:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACake%20Oven.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 297669,
+  "sourceSha1": "e993ba8ad6b05e7a019aca8328657769c688f693",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/95/Cake_Oven.png/revision/latest?cb=20250925180900",
+  "title": "File:Cake Oven.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 643
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beach_Caf%C3%A9_Inside_2.png",
+  "height": 545,
+  "immutableUrl": null,
+  "mediaId": "File:Beach Café Inside 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T20:13:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABeach%20Caf%C3%A9%20Inside%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 338144,
+  "sourceSha1": "998b09a8bf9edfd4ab787293322ee2788caf9898",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/db/Beach_Caf%C3%A9_Inside_2.png/revision/latest?cb=20150713201356",
+  "title": "File:Beach Café Inside 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 545
+}

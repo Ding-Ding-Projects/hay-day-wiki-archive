@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Repaired_Dock.jpg",
+  "height": 767,
+  "immutableUrl": null,
+  "mediaId": "File:Repaired Dock.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-11-03T21:47:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARepaired%20Dock.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 137156,
+  "sourceSha1": "787ea733ef976c0d5ae5462561f833d8afaf6b94",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Repaired_Dock.jpg/revision/latest?cb=20161103214720",
+  "title": "File:Repaired Dock.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1173
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Spiked_White.png",
+  "height": 294,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Spiked White.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-25T15:21:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Spiked%20White.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 48800,
+  "sourceSha1": "92198c8a055f78115809f6ef382b3e89ab729ffe",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/97/Roof_Spiked_White.png/revision/latest?cb=20180625152134",
+  "title": "File:Roof Spiked White.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 280
+}

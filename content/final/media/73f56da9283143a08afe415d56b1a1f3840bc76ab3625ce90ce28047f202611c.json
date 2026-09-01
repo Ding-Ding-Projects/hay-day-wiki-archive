@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chocolate_Duck.png",
+  "height": 575,
+  "immutableUrl": null,
+  "mediaId": "File:Chocolate Duck.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-10-23T21:07:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChocolate%20Duck.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 191520,
+  "sourceSha1": "1772f6b5bee374fd94676f42d41966fc8de629ea",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Chocolate_Duck.png/revision/latest?cb=20251023210738",
+  "title": "File:Chocolate Duck.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 575
+}

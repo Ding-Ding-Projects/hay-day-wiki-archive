@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Center.png",
+  "height": 686,
+  "immutableUrl": null,
+  "mediaId": "File:Catalogue Center.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-16T20:54:39Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACatalogue%20Center.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 391733,
+  "sourceSha1": "6bda064498f8c9155da7ab6094be9f62bb880558",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Catalogue_Center.png/revision/latest?cb=20151116205439",
+  "title": "File:Catalogue Center.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1024
+}

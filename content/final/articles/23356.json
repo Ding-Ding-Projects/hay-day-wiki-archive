@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake?action=history",
+    "importedAt": "2026-09-01T02:56:38.929Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Fishing_Lake?oldid=78960",
+    "sourceRevisionId": 78960,
+    "sourceTitle": "Category:Fishing Lake",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Articles related to the <a href=\"/wiki/fishing-lake-23340\" title=\"Fishing Lake\" rel=\"noopener noreferrer\" target=\"_blank\">Fishing Lake</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025637\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23356-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025637 and revision id 78960. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "29822a2650f673b5855e3a8f07fc4454135ba01acec045becd75668666658b4e",
+  "internalLinks": [
+    {
+      "route": "/wiki/fishing-lake-23340",
+      "title": "Fishing Lake"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 23356,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78960,
+  "revisionTimestamp": "2018-04-18T13:08:27Z",
+  "route": "/wiki/category%2Fcategory-fishing-lake-23356",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake",
+  "title": "Category:Fishing Lake",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9e963d05b3fdfe6f88372336f2de90e98e8db0a5aeaa0fe773507afa6bf18e32"
+}

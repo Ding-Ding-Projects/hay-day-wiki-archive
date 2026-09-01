@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_2.png",
+  "height": 349,
+  "immutableUrl": null,
+  "mediaId": "File:Level 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-06-15T04:38:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 390758,
+  "sourceSha1": "e1f65057947c2381dcbcf5bfeb0e0a7dfb156d98",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7f/Level_2.png/revision/latest?cb=20150615043859",
+  "title": "File:Level 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 833
+}

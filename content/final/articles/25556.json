@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Decorations?action=history",
+    "importedAt": "2026-09-01T03:00:16.926Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Decorations?oldid=64622",
+    "sourceRevisionId": 64622,
+    "sourceTitle": "Category:Decorations",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Decorations?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>All pages related to <a href=\"/wiki/decorations-6168\" title=\"Decorations\" rel=\"noopener noreferrer\" target=\"_blank\">Decorations</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260818074715\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25556-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260818074715 and revision id 64622. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "b1f638c3579d96ec45c45747817c58b2c86bd660065f9ff9e7f85a5e576b203e",
+  "internalLinks": [
+    {
+      "route": "/wiki/decorations-6168",
+      "title": "Decorations"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 25556,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 64622,
+  "revisionTimestamp": "2016-08-24T17:38:06Z",
+  "route": "/wiki/category%2Fcategory-decorations-25556",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Decorations",
+  "title": "Category:Decorations",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "393684ec6d52721960008d34df12e138e4c7286fddbe08f14d63d95c61d6a62a"
+}

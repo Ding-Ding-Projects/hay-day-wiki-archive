@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Pack.png",
+  "height": 659,
+  "immutableUrl": null,
+  "mediaId": "File:Fishing Pack.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-03-28T16:42:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFishing%20Pack.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1072795,
+  "sourceSha1": "962acacd26f7ad148cbb4825258df35361261a48",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Fishing_Pack.png/revision/latest?cb=20170328164213",
+  "title": "File:Fishing Pack.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

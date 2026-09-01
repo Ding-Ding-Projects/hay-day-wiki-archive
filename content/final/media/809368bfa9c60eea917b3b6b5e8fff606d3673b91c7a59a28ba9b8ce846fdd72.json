@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Leafy_Tree.png",
+  "height": 715,
+  "immutableUrl": null,
+  "mediaId": "File:Leafy Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:23:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALeafy%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 630895,
+  "sourceSha1": "c8b16e95c19d53f6a445b2a1861e96b006b73919",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Leafy_Tree.png/revision/latest?cb=20180207192334",
+  "title": "File:Leafy Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 715
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links?action=history",
+    "importedAt": "2026-09-01T02:26:09.528Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links?oldid=89072",
+    "sourceRevisionId": 89072,
+    "sourceTitle": "Category:Pages with broken file links",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901022550\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2138-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901022550 and revision id 89072. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "1d7da52b470571d3055c5c413572be05e74e2fb1e26e12ef4acc5a6160a2bd3c",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 2138,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89072,
+  "revisionTimestamp": "2019-10-26T04:15:23Z",
+  "route": "/wiki/category%2Fcategory-pages-with-broken-file-links-2138",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links",
+  "title": "Category:Pages with broken file links",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "85f2eeba17370ac56f91d93fd6d0bf4b04e6c92ab680fb9b09078fee90c741bf"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bolt.png",
+  "height": 129,
+  "immutableUrl": null,
+  "mediaId": "File:Bolt.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-11T18:03:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABolt.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 21971,
+  "sourceSha1": "1c1c6cfd755724b74171f5ae8f1e8d05b9a7631a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8e/Bolt.png/revision/latest?cb=20180211180351",
+  "title": "File:Bolt.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 129
+}

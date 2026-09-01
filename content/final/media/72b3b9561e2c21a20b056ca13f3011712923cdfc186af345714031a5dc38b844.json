@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_Pasture.png",
+  "height": 465,
+  "immutableUrl": null,
+  "mediaId": "File:Lamb Pasture.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-11T22:19:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALamb%20Pasture.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 435520,
+  "sourceSha1": "127b6b5f6fbf8f1679d8b8a0fbc2b46edb336785",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Lamb_Pasture.png/revision/latest?cb=20260511221917",
+  "title": "File:Lamb Pasture.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

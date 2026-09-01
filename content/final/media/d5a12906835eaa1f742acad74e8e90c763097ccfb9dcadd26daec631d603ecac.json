@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Desert_Walls.png",
+  "height": 603,
+  "immutableUrl": null,
+  "mediaId": "File:Desert Walls.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-06-24T19:19:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADesert%20Walls.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 145149,
+  "sourceSha1": "04e0b768a3bc92366caea99745636e4cb1ae01b0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/de/Desert_Walls.png/revision/latest?cb=20200624191955",
+  "title": "File:Desert Walls.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 565
+}

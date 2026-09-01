@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_49.png",
+  "height": 530,
+  "immutableUrl": null,
+  "mediaId": "File:Level 49.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-07-16T11:56:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2049.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 482151,
+  "sourceSha1": "8272caf08d23888a23fb832bb680f22f2398d52e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Level_49.png/revision/latest?cb=20250716115631",
+  "title": "File:Level 49.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 673
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary?action=history",
+    "importedAt": "2026-09-01T03:02:16.958Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Sanctuary?oldid=78978",
+    "sourceRevisionId": 78978,
+    "sourceTitle": "Category:Sanctuary",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260831123401\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28595-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831123401 and revision id 78978. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "23f4e94118d17851454c5aac2bdf0674d0aceaac4a64928ec74798ed5170ccc0",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 28595,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78978,
+  "revisionTimestamp": "2018-04-18T13:42:22Z",
+  "route": "/wiki/category%2Fcategory-sanctuary-28595",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary",
+  "title": "Category:Sanctuary",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6a05314b41f7e751b478c109695cf52f6e8807cd6980d1ed116d0615a828a418"
+}

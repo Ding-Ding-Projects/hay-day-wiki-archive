@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_5_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Daisies_Orange_Vase_Yellow.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 5 Pedestal Floral Pink Daisies Pink Floral Golden Daisies Orange Vase Yellow.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T18:41:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%205%20Pedestal%20Floral%20Pink%20Daisies%20Pink%20Floral%20Golden%20Daisies%20Orange%20Vase%20Yellow.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 90590,
+  "sourceSha1": "ec93b6850ecd6fe50d22e924015deedb2b349263",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Pedestal_Level_5_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Daisies_Orange_Vase_Yellow.png/revision/latest?cb=20200824184131",
+  "title": "File:Pedestal Level 5 Pedestal Floral Pink Daisies Pink Floral Golden Daisies Orange Vase Yellow.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

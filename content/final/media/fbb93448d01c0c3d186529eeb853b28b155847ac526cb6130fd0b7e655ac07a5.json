@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Woolly_Rest.png",
+  "height": 491,
+  "immutableUrl": null,
+  "mediaId": "File:Woolly Rest.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-31T20:50:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWoolly%20Rest.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 258487,
+  "sourceSha1": "537c43a98903b2eb85901acef714dcfa71860f09",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Woolly_Rest.png/revision/latest?cb=20260531205007",
+  "title": "File:Woolly Rest.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 597
+}

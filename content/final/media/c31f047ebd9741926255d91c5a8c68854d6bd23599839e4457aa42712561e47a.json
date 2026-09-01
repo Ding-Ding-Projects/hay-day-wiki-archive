@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_Wooden_Bath_Barrel.png",
+  "height": 2131,
+  "immutableUrl": null,
+  "mediaId": "File:Lamb Wooden Bath Barrel.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-12T23:34:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALamb%20Wooden%20Bath%20Barrel.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4625943,
+  "sourceSha1": "ea67a1347e0321d1fff5e4671b20a1ca15a10a24",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Lamb_Wooden_Bath_Barrel.png/revision/latest?cb=20260512233405",
+  "title": "File:Lamb Wooden Bath Barrel.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2030
+}

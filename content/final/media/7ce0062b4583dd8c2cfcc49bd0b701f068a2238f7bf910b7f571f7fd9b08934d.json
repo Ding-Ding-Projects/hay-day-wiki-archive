@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mushroom_Salad.png",
+  "height": 2112,
+  "immutableUrl": null,
+  "mediaId": "File:Mushroom Salad.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-11T10:54:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMushroom%20Salad.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2184454,
+  "sourceSha1": "a0ed9fb502206842bc2290be6e4c22de3c06a1d3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/Mushroom_Salad.png/revision/latest?cb=20240211105405",
+  "title": "File:Mushroom Salad.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2112
+}

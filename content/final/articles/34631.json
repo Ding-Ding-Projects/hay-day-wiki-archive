@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/New_video:Hay_Day_Fall_Update_2020_Sneak_Peek?action=history",
+    "importedAt": "2026-09-01T03:06:16.632Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/New_video:Hay_Day_Fall_Update_2020_Sneak_Peek?oldid=97805",
+    "sourceRevisionId": 97805,
+    "sourceTitle": "New video:Hay Day Fall Update 2020 Sneak Peek",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/New_video:Hay_Day_Fall_Update_2020_Sneak_Peek?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FNew%20video%3AHay%20Day%20Fall%20Update%202020%20Sneak%20Peek\" title=\"Special:WhatLinksHere/New video:Hay Day Fall Update 2020 Sneak Peek\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/new-video-hay-day-fall-update-2020-sneak-peek-34631\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030605\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.015 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1477/2097152 bytes\nTemplate argument size: 426/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    5.547      1 Template:Delete\n100.00%    5.547      1 -total\n 70.38%    3.904      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:34631-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030605 and revision id 97805. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a51fbf703b4b1927b7cf975a6249967b5ba8e60082058e4be6ded9dd30c39fcf",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 34631,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 97805,
+  "revisionTimestamp": "2021-06-19T18:17:31Z",
+  "route": "/wiki/new-video-hay-day-fall-update-2020-sneak-peek-34631",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/New_video:Hay_Day_Fall_Update_2020_Sneak_Peek",
+  "title": "New video:Hay Day Fall Update 2020 Sneak Peek",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c967eb5e1ab85c2e43be7174ccd02d727de93573049cdff639babd2e24d467da"
+}

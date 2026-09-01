@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Asparagus_Products?action=history",
+    "importedAt": "2026-09-01T03:09:11.815Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Asparagus_Products?oldid=103113",
+    "sourceRevisionId": 103113,
+    "sourceTitle": "Category:Asparagus Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Asparagus_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png/revision/latest?cb=20240218150229\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Asparagus\" src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png/revision/latest/scale-to-width-down/180?cb=20240218150229\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AAsparagus.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/asparagus-35799\" title=\"Asparagus\" rel=\"noopener noreferrer\" target=\"_blank\">Asparagus</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030907\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35821-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030907 and revision id 103113. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "df4102d63603fcc43c81ac03e7121cc569dbf88f9f85131b11f65da35b7d7ebc",
+  "internalLinks": [
+    {
+      "route": "/wiki/asparagus-35799",
+      "title": "Asparagus"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35821,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Asparagus.png"
+  ],
+  "revisionId": 103113,
+  "revisionTimestamp": "2023-06-12T16:49:57Z",
+  "route": "/wiki/category%2Fcategory-asparagus-products-35821",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Asparagus_Products",
+  "title": "Category:Asparagus Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4b6f538d637bdf51af3af4b3d92d870b1d0c7d7d100794ba17ec5c4d1642b7fa"
+}

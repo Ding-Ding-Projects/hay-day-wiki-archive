@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Large_Mystery_Package.png",
+  "height": 1358,
+  "immutableUrl": null,
+  "mediaId": "File:Large Mystery Package.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T10:07:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALarge%20Mystery%20Package.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 641016,
+  "sourceSha1": "62a90535948b788ef8b5514a25ae4bef9f277c1b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Large_Mystery_Package.png/revision/latest?cb=20150714100723",
+  "title": "File:Large Mystery Package.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1358
+}

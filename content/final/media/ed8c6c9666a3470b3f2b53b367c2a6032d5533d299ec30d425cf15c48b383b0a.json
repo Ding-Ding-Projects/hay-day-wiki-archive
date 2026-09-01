@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Purple_Banner.png",
+  "height": 776,
+  "immutableUrl": null,
+  "mediaId": "File:Purple Banner.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T18:10:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APurple%20Banner.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 181176,
+  "sourceSha1": "baad88f4a4a4bb9277b044454d2a6ce9e42e23a9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/57/Purple_Banner.png/revision/latest?cb=20180207181005",
+  "title": "File:Purple Banner.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 776
+}

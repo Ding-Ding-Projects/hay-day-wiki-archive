@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chicken_Halloween.png",
+  "height": 189,
+  "immutableUrl": null,
+  "mediaId": "File:Chicken Halloween.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-10-28T10:18:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChicken%20Halloween.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 38198,
+  "sourceSha1": "78aad1c55e3a6f3a35ec64edc7788facfd7552cf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9f/Chicken_Halloween.png/revision/latest?cb=20141028101847",
+  "title": "File:Chicken Halloween.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 133
+}

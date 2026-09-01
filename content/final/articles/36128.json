@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Products?action=history",
+    "importedAt": "2026-09-01T03:09:47.214Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Popcorn_Products?oldid=105518",
+    "sourceRevisionId": 105518,
+    "sourceTitle": "Category:Popcorn Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/8/85/Popcorn.png/revision/latest?cb=20240206170036\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn\" src=\"https://static.wikia.nocookie.net/hayday/images/8/85/Popcorn.png/revision/latest/scale-to-width-down/180?cb=20240206170036\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3APopcorn.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/popcorn-2092\" title=\"Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030944\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36128-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030944 and revision id 105518. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f7f82280a1f5da401cb27756c308535b3b140fbbe28e3120dc09c06746e7357a",
+  "internalLinks": [
+    {
+      "route": "/wiki/popcorn-2092",
+      "title": "Popcorn"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36128,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Popcorn.png"
+  ],
+  "revisionId": 105518,
+  "revisionTimestamp": "2024-06-28T22:05:55Z",
+  "route": "/wiki/category%2Fcategory-popcorn-products-36128",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Products",
+  "title": "Category:Popcorn Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "48aba01cfd021f33ff648bd2db6f0a4b9735cb4741e8c7fbce80cc8418659f3c"
+}

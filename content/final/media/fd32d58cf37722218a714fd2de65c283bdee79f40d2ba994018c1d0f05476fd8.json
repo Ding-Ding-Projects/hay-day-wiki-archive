@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Light_Blue_Attic.png",
+  "height": 280,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Light Blue Attic.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-21T18:04:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Light%20Blue%20Attic.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 237328,
+  "sourceSha1": "75a64c6a5d2bc4d52b047defd639b9007399c6aa",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Roof_Light_Blue_Attic.png/revision/latest?cb=20180521180450",
+  "title": "File:Roof Light Blue Attic.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 282
+}

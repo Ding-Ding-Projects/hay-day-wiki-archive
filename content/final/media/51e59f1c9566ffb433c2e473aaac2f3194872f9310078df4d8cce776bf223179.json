@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Kitten_House.png",
+  "height": 489,
+  "immutableUrl": null,
+  "mediaId": "File:Kitten House.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-27T19:34:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AKitten%20House.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 155380,
+  "sourceSha1": "88561a38470b49c20bb0882b954e7a6413f9049f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/29/Kitten_House.png/revision/latest?cb=20160327193426",
+  "title": "File:Kitten House.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 489
+}

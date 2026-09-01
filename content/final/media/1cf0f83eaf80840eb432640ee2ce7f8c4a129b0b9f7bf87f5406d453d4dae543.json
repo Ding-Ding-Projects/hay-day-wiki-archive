@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Iron_Ore.png",
+  "height": 202,
+  "immutableUrl": null,
+  "mediaId": "File:Iron Ore.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-11T23:36:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AIron%20Ore.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 45057,
+  "sourceSha1": "99c6be7a06f1366e8ee4e3c7a88c08da39a6f2bf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png/revision/latest?cb=20150711233632",
+  "title": "File:Iron Ore.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 202
+}

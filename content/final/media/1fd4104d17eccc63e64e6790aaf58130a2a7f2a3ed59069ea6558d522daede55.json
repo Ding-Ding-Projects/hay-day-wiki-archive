@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_D%C3%B6ner_Wrap.png",
+  "height": 479,
+  "immutableUrl": null,
+  "mediaId": "File:Lamb Döner Wrap.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-04T00:08:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALamb%20D%C3%B6ner%20Wrap.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 428747,
+  "sourceSha1": "dc6dd2c06e79b1fe1cccc00d7c8bbc20e551e216",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/10/Lamb_D%C3%B6ner_Wrap.png/revision/latest?cb=20260604000844",
+  "title": "File:Lamb Döner Wrap.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 649
+}

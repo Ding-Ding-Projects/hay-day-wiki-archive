@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Catalogue?action=history",
+    "importedAt": "2026-09-01T02:47:43.701Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Catalogue?oldid=32460",
+    "sourceRevisionId": 32460,
+    "sourceTitle": "Category:Image Catalogue",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Catalogue?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to the <a href=\"/wiki/catalogue-8567\" title=\"Catalogue\" rel=\"noopener noreferrer\" target=\"_blank\">Catalogue</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024720\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15101-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024720 and revision id 32460. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a7ee4b088890b0c7733c64ecdf7f08e2eb0f16cdb179605e215c1aad1c4935c1",
+  "internalLinks": [
+    {
+      "route": "/wiki/catalogue-8567",
+      "title": "Catalogue"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15101,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32460,
+  "revisionTimestamp": "2014-08-08T14:37:46Z",
+  "route": "/wiki/category%2Fcategory-image-catalogue-15101",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Catalogue",
+  "title": "Category:Image Catalogue",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5eb5135dd2c328eaf80d4e8bde61bf48d7b9533130efe44c29be4a92850bb0a7"
+}

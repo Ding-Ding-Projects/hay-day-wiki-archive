@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products?action=history",
+    "importedAt": "2026-09-01T03:06:57.722Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products?oldid=98625",
+    "sourceRevisionId": 98625,
+    "sourceTitle": "Category:Raspberry Jam Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/8/84/Raspberry_Jam.png/revision/latest?cb=20240208151524\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Raspberry Jam\" src=\"https://static.wikia.nocookie.net/hayday/images/8/84/Raspberry_Jam.png/revision/latest/scale-to-width-down/180?cb=20240208151524\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ARaspberry_Jam.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/raspberry-jam-2335\" title=\"Raspberry Jam\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry Jam</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030656\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35124-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030656 and revision id 98625. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4dcb47419995add73a4cb7bc82408bb4f58e034c15f011ec2c8bbee8ca8e776b",
+  "internalLinks": [
+    {
+      "route": "/wiki/raspberry-jam-2335",
+      "title": "Raspberry Jam"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35124,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Raspberry Jam.png"
+  ],
+  "revisionId": 98625,
+  "revisionTimestamp": "2021-09-06T22:35:11Z",
+  "route": "/wiki/category%2Fcategory-raspberry-jam-products-35124",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products",
+  "title": "Category:Raspberry Jam Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6d7ddf25a266a59e0f0552aeb61a7e8f5eb10a6760ba5571c3b57a1f38cde8d9"
+}

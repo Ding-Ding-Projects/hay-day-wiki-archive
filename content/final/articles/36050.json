@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Flamingo?action=history",
+    "importedAt": "2026-09-01T03:09:40.943Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Flamingo?oldid=105402",
+    "sourceRevisionId": 105402,
+    "sourceTitle": "Flamingo",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Flamingo?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FFlamingo\" title=\"Special:WhatLinksHere/Flamingo\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/flamingo-36050\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030936\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1218/2097152 bytes\nTemplate argument size: 352/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.173      1 Template:Delete\n100.00%    4.173      1 -total\n 52.36%    2.185      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36050-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030936 and revision id 105402. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8633696f7f57e2409f8058a62bd68f4488f1c21e4e7e2bcb5306f9cd425526d7",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36050,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 105402,
+  "revisionTimestamp": "2024-06-26T20:37:27Z",
+  "route": "/wiki/flamingo-36050",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Flamingo",
+  "title": "Flamingo",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d"
+}

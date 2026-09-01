@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Layered_Topiary.png",
+  "height": 607,
+  "immutableUrl": null,
+  "mediaId": "File:Layered Topiary.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T09:52:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALayered%20Topiary.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 263758,
+  "sourceSha1": "ab8d2152be53472d35a7e7f125cca789de56522e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a0/Layered_Topiary.png/revision/latest?cb=20150715095228",
+  "title": "File:Layered Topiary.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 607
+}

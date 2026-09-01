@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products?action=history",
+    "importedAt": "2026-09-01T03:10:16.839Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products?oldid=108216",
+    "sourceRevisionId": 108216,
+    "sourceTitle": "Category:Blue Woolly Hat Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/03/Blue_Woolly_Hat.png/revision/latest?cb=20240207155851\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blue Woolly Hat\" src=\"https://static.wikia.nocookie.net/hayday/images/0/03/Blue_Woolly_Hat.png/revision/latest/scale-to-width-down/180?cb=20240207155851\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ABlue_Woolly_Hat.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue Woolly Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Woolly Hat</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031013\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36357-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031013 and revision id 108216. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "0770b6216aafc801129c5de7904597f29d0b7ddf216c37cad070c4e730a2e5ba",
+  "internalLinks": [
+    {
+      "route": "/wiki/blue-woolly-hat-2250",
+      "title": "Blue Woolly Hat"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36357,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Blue Woolly Hat.png"
+  ],
+  "revisionId": 108216,
+  "revisionTimestamp": "2025-08-05T20:02:13Z",
+  "route": "/wiki/category%2Fcategory-blue-woolly-hat-products-36357",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products",
+  "title": "Category:Blue Woolly Hat Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "de20f3008055963e133311d55971e4a3d43dddd31aa746d9c3e08de535bbc4b0"
+}

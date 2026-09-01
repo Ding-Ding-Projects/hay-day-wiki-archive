@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town-start-separeted-num.jpg",
+  "height": 401,
+  "immutableUrl": null,
+  "mediaId": "File:Town-start-separeted-num.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-06-09T03:50:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATown-start-separeted-num.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 256522,
+  "sourceSha1": "55404041abfc3d4001fceede5b8c61d30b3ea8bf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Town-start-separeted-num.jpg/revision/latest?cb=20140609035007",
+  "title": "File:Town-start-separeted-num.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

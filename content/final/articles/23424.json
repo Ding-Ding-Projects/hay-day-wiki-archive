@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Navigation_Templates?action=history",
+    "importedAt": "2026-09-01T02:56:40.020Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Navigation_Templates?oldid=58186",
+    "sourceRevisionId": 58186,
+    "sourceTitle": "Category:Navigation Templates",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Navigation_Templates?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260831065848\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23424-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831065848 and revision id 58186. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "7c441a4bf4f785abcd1090d1a6375b058885d922d0a288a171283d6505d09574",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 23424,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 58186,
+  "revisionTimestamp": "2016-01-26T18:41:30Z",
+  "route": "/wiki/category%2Fcategory-navigation-templates-23424",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Navigation_Templates",
+  "title": "Category:Navigation Templates",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d17b0069075523cfd170889a8541cdbb01828c428201ba77d245030037d911a5"
+}

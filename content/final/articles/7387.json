@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Lure?action=history",
+    "importedAt": "2026-09-01T02:41:14.187Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Lure?oldid=39830",
+    "sourceRevisionId": 39830,
+    "sourceTitle": "Category:Image Lure",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Lure?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/lure-5882\" title=\"Lure\" rel=\"noopener noreferrer\" target=\"_blank\">lures</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901023955\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7387-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901023955 and revision id 39830. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "04efd4a93647bbf701b60ca7355ab4e782fc3dce79d87a161ae7cbf67abfb6fb",
+  "internalLinks": [
+    {
+      "route": "/wiki/lure-5882",
+      "title": "Lure"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7387,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 39830,
+  "revisionTimestamp": "2014-12-30T15:07:28Z",
+  "route": "/wiki/category%2Fcategory-image-lure-7387",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Lure",
+  "title": "Category:Image Lure",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "cf1632e78e1f8681fed8a129d2ba359fc161381ce93ba188f070af6c6312aa8c"
+}

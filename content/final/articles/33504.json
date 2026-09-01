@@ -1,0 +1,339 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Crops_List?action=history",
+    "importedAt": "2026-09-01T03:05:35.828Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Crops_List?oldid=109556",
+    "sourceRevisionId": 109556,
+    "sourceTitle": "Crops List",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Crops_List?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This page lists all <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crops</a>, <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">trees and bushes</a> available in the game and provides detailed information on each of them. To find general information on them, click to view the according page. Items are listed by level by default but the table is sortable.\n</p>\n<ul><li><b>Note:</b> Maximum price is found by selling 10 crops at <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shop</a> and divide the price by 10. If you sell at quantities other than 10, you need to ignore the decimal place.</li>\n<li><b>Note:</b> Data for boat crates has been compiled by players and may be erroneous. The table only lists the lowest and highest amount requested per crate. The exact number depends on <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level and the number of crates that must be filled.</li></ul>\n<table class=\"wikitable sortable\">\n<tbody><tr>\n<th class=\"unsortable\">Goods\n</th>\n<th class=\"unsortable\">Type\n</th>\n<th><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a>\n</th>\n<th>Max. price\n</th>\n<th class=\"unsortable\">Time\n</th>\n<th>XP\n</th>\n<th>Per boat crate\n</th></tr>\n<tr>\n<td><b><a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">Wheat</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest?cb=20240218150024\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Wheat\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest/scale-to-width-down/100?cb=20240218150024\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>1\n</td>\n<td>3.6\n</td>\n<td>2 min\n</td>\n<td>1\n</td>\n<td>50-101\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\">Corn</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest/scale-to-width-down/100?cb=20240218151631\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>2\n</td>\n<td>7.2\n</td>\n<td>5 min\n</td>\n<td>1\n</td>\n<td>50-101\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/soybean-2079\" title=\"Soybean\" rel=\"noopener noreferrer\" target=\"_blank\">Soybean</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png/revision/latest?cb=20240219031547\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Soybean\" src=\"https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png/revision/latest/scale-to-width-down/100?cb=20240219031547\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>5\n</td>\n<td>10.8\n</td>\n<td>20 min\n</td>\n<td>2\n</td>\n<td>24-47\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sugarcane-2080\" title=\"Sugarcane\" rel=\"noopener noreferrer\" target=\"_blank\">Sugarcane</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png/revision/latest?cb=20240219031727\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sugarcane\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>7\n</td>\n<td>14.4\n</td>\n<td>30 min\n</td>\n<td>3\n</td>\n<td>14-29\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/carrot-2081\" title=\"Carrot\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png/revision/latest?cb=20240218151353\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Carrot\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>9\n</td>\n<td>7.2\n</td>\n<td>10 min\n</td>\n<td>2\n</td>\n<td>30-44\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/indigo-2083\" title=\"Indigo\" rel=\"noopener noreferrer\" target=\"_blank\">Indigo</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>13\n</td>\n<td>25.2\n</td>\n<td>2 h\n</td>\n<td>5\n</td>\n<td>8-17\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pumpkin-2082\" title=\"Pumpkin\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkin</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png/revision/latest?cb=20240219030742\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pumpkin\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>15\n</td>\n<td>32.4\n</td>\n<td>3 h\n</td>\n<td>6\n</td>\n<td>9-15\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/apple-2241\" title=\"Apple\" rel=\"noopener noreferrer\" target=\"_blank\">Apple</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png/revision/latest?cb=20240219032402\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Apple\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>15\n</td>\n<td>39.6\n</td>\n<td>16 h\n</td>\n<td>7\n</td>\n<td>7-14\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cotton-14254\" title=\"Cotton\" rel=\"noopener noreferrer\" target=\"_blank\">Cotton</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png/revision/latest?cb=20240218151721\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cotton\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>18\n</td>\n<td>28.8\n</td>\n<td>2 h 30 min\n</td>\n<td>6\n</td>\n<td>10-16\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/raspberry-2243\" title=\"Raspberry\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/1f/Raspberry.png/revision/latest?cb=20240219032258\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Raspberry\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Bush</a>\n</td>\n<td>19\n</td>\n<td>46.8\n</td>\n<td>18 h\n</td>\n<td>9\n</td>\n<td>6-10\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cherry-2245\" title=\"Cherry\" rel=\"noopener noreferrer\" target=\"_blank\">Cherry</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/20/Cherry.png/revision/latest?cb=20191023150203\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cherry\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>22\n</td>\n<td>68.4\n</td>\n<td>1 d 3 h\n</td>\n<td>13\n</td>\n<td>5-7\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chili-pepper-2235\" title=\"Chili Pepper\" rel=\"noopener noreferrer\" target=\"_blank\">Chili pepper</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png/revision/latest?cb=20191023151351\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chili Pepper\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>25\n</td>\n<td>36\n</td>\n<td>4 h\n</td>\n<td>7\n</td>\n<td>4-13\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/black-bean-36496\" title=\"Black Bean\" rel=\"noopener noreferrer\" target=\"_blank\">Black Bean</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/23/Black_Bean.png/revision/latest?cb=20260126210023\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Black Bean\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>25\n</td>\n<td>7.2\n</td>\n<td>10 min\n</td>\n<td>2\n</td>\n<td>??-??\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blackberry-2247\" title=\"Blackberry\" rel=\"noopener noreferrer\" target=\"_blank\">Blackberry</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/25/Blackberry.png/revision/latest?cb=20240219032632\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blackberry\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Bush</a>\n</td>\n<td>26\n</td>\n<td>82.8\n</td>\n<td>1 d 8 h\n</td>\n<td>16\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tomato-2236\" title=\"Tomato\" rel=\"noopener noreferrer\" target=\"_blank\">Tomato</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png/revision/latest?cb=20240219025108\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tomato\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>30\n</td>\n<td>43.2\n</td>\n<td>6 h\n</td>\n<td>8\n</td>\n<td>6-12\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blueberries-36310\" title=\"Blueberries\" rel=\"noopener noreferrer\" target=\"_blank\">Blueberries</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/af/Blueberries.png/revision/latest?cb=20250622152858\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blueberries\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Bush</a>\n</td>\n<td>30\n</td>\n<td>82.8\n</td>\n<td>1 d 10 h\n</td>\n<td>16\n</td>\n<td>?\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/strawberry-2240\" title=\"Strawberry\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberry</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png/revision/latest?cb=20240219031821\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Strawberry\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>34\n</td>\n<td>50.4\n</td>\n<td>8 h\n</td>\n<td>10\n</td>\n<td>3-9\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/potato-2693\" title=\"Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Potato</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png/revision/latest?cb=20240219030654\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Potato\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>35\n</td>\n<td>36\n</td>\n<td>3 h 40 min\n</td>\n<td>7\n</td>\n<td>6-13\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cacao-2248\" title=\"Cacao\" rel=\"noopener noreferrer\" target=\"_blank\">Cacao</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/60/Cacao.png/revision/latest?cb=20240219032732\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cacao\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>36\n</td>\n<td>86.4\n</td>\n<td>1 d 11 h\n</td>\n<td>16\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/coffee-bean-2423\" title=\"Coffee Bean\" rel=\"noopener noreferrer\" target=\"_blank\">Coffee bean</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/33/Coffee_Bean.png/revision/latest?cb=20240219032959\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Coffee Bean\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Bush</a>\n</td>\n<td>42\n</td>\n<td>64.8\n</td>\n<td>1 d 1 h\n</td>\n<td>12\n</td>\n<td>4-7\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chamomile-36216\" title=\"Chamomile\" rel=\"noopener noreferrer\" target=\"_blank\">Chamomile</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest?cb=20241209180843\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chamomile\" loading=\"lazy\" width=\"100\" height=\"76\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>45\n</td>\n<td>10.8\n</td>\n<td>20 m\n</td>\n<td>2\n</td>\n<td>?-?\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/asparagus-35799\" title=\"Asparagus\" rel=\"noopener noreferrer\" target=\"_blank\">Asparagus</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png/revision/latest?cb=20240218150229\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Asparagus\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>49\n</td>\n<td>43.2\n</td>\n<td>6 h\n</td>\n<td>8\n</td>\n<td>6-12\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sesame-31883\" title=\"Sesame\" rel=\"noopener noreferrer\" target=\"_blank\">Sesame</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png/revision/latest?cb=20240219030944\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sesame\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>50\n</td>\n<td>18\n</td>\n<td>1 h\n</td>\n<td>4\n</td>\n<td>16-25\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pineapple-30748\" title=\"Pineapple\" rel=\"noopener noreferrer\" target=\"_blank\">Pineapple</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png/revision/latest?cb=20240219030555\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pineapple\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>52\n</td>\n<td>14.4\n</td>\n<td>30 min\n</td>\n<td>3\n</td>\n<td>20-28\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lily-33000\" title=\"Lily\" rel=\"noopener noreferrer\" target=\"_blank\">Lily</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png/revision/latest?cb=20240219025449\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lily\" loading=\"lazy\" width=\"100\" height=\"108\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>53\n</td>\n<td>21.6\n</td>\n<td>1 h 30 min\n</td>\n<td>5\n</td>\n<td>12-20\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/rice-8896\" title=\"Rice\" rel=\"noopener noreferrer\" target=\"_blank\">Rice</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png/revision/latest?cb=20240219030840\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Rice\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>56\n</td>\n<td>18\n</td>\n<td>45 min\n</td>\n<td>3\n</td>\n<td>19-32\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/olive-8911\" title=\"Olive\" rel=\"noopener noreferrer\" target=\"_blank\">Olive</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png/revision/latest?cb=20240219033435\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Olive\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>57\n</td>\n<td>82.8\n</td>\n<td>1 d\n</td>\n<td>17\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lettuce-8898\" title=\"Lettuce\" rel=\"noopener noreferrer\" target=\"_blank\">Lettuce</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png/revision/latest?cb=20260313083935\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lettuce\" loading=\"lazy\" width=\"100\" height=\"86\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>58\n</td>\n<td>32.4\n</td>\n<td>3 h 30 min\n</td>\n<td>7\n</td>\n<td>9-14\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/garlic-33001\" title=\"Garlic\" rel=\"noopener noreferrer\" target=\"_blank\">Garlic</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png/revision/latest?cb=20240218151955\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Garlic\" loading=\"lazy\" width=\"100\" height=\"105\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>60\n</td>\n<td>14.4\n</td>\n<td>30 min\n</td>\n<td>3\n</td>\n<td>22-31\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/sunflower-28399\" title=\"Sunflower\" rel=\"noopener noreferrer\" target=\"_blank\">Sunflower</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png/revision/latest?cb=20240219031925\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sunflower\" loading=\"lazy\" width=\"100\" height=\"104\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>63\n</td>\n<td>21.6\n</td>\n<td>1 h 30 min\n</td>\n<td>5\n</td>\n<td>12-15\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cabbage-34832\" title=\"Cabbage\" rel=\"noopener noreferrer\" target=\"_blank\">Cabbage</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png/revision/latest?cb=20240218151308\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cabbage\" loading=\"lazy\" width=\"100\" height=\"103\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>65\n</td>\n<td>18\n</td>\n<td>45 min\n</td>\n<td>3\n</td>\n<td>12-24\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lemon-10426\" title=\"Lemon\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/35/Lemon.png/revision/latest?cb=20240219033200\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lemon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>66\n</td>\n<td>93.6\n</td>\n<td>1 d 5 h\n</td>\n<td>18\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/onion-24832\" title=\"Onion\" rel=\"noopener noreferrer\" target=\"_blank\">Onion</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png/revision/latest?cb=20240219025803\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Onion\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>68\n</td>\n<td>39.6\n</td>\n<td>5 h\n</td>\n<td>8\n</td>\n<td>8-12\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cucumber-30747\" title=\"Cucumber\" rel=\"noopener noreferrer\" target=\"_blank\">Cucumber</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png/revision/latest?cb=20240218151809\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cucumber\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>70\n</td>\n<td>14.4\n</td>\n<td>35 min\n</td>\n<td>3\n</td>\n<td>21-29\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/orange-24830\" title=\"Orange\" rel=\"noopener noreferrer\" target=\"_blank\">Orange</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/43/Orange.png/revision/latest?cb=20240219033522\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Orange\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>71\n</td>\n<td>97.2\n</td>\n<td>1 d 7 h\n</td>\n<td>19\n</td>\n<td>4\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/beetroot-33002\" title=\"Beetroot\" rel=\"noopener noreferrer\" target=\"_blank\">Beetroot</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png/revision/latest?cb=20240218150336\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Beetroot\" loading=\"lazy\" width=\"100\" height=\"106\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>72\n</td>\n<td>14.4\n</td>\n<td>40 min\n</td>\n<td>3\n</td>\n<td>20-30\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bell-pepper-29901\" title=\"Bell Pepper\" rel=\"noopener noreferrer\" target=\"_blank\">Bell pepper</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png/revision/latest?cb=20240218150145\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bell Pepper\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>74\n</td>\n<td>36\n</td>\n<td>4 h 30 min\n</td>\n<td>7\n</td>\n<td>10-14\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/peach-24831\" title=\"Peach\" rel=\"noopener noreferrer\" target=\"_blank\">Peach</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Peach.png/revision/latest?cb=20240219033622\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Peach\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>76\n</td>\n<td>100.8\n</td>\n<td>1 d 6 h\n</td>\n<td>20\n</td>\n<td>4-5\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/ginger-31881\" title=\"Ginger\" rel=\"noopener noreferrer\" target=\"_blank\">Ginger</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png/revision/latest?cb=20240218152109\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Ginger\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>​​​​\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>78\n</td>\n<td>28.8\n</td>\n<td>2 h 30 min\n</td>\n<td>6\n</td>\n<td>3-16\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/tea-leaf-24833\" title=\"Tea Leaf\" rel=\"noopener noreferrer\" target=\"_blank\">Tea leaf</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png/revision/latest?cb=20240219032147\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tea Leaf\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>80\n</td>\n<td>43.2\n</td>\n<td>6 h 30 min\n</td>\n<td>9\n</td>\n<td>8\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/peony-28400\" title=\"Peony\" rel=\"noopener noreferrer\" target=\"_blank\">Peony</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png/revision/latest?cb=20240219030430\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Peony\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>82\n</td>\n<td>36\n</td>\n<td>4 h\n</td>\n<td>7\n</td>\n<td>11\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/broccoli-30746\" title=\"Broccoli\" rel=\"noopener noreferrer\" target=\"_blank\">Broccoli</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png/revision/latest?cb=20240218150508\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Broccoli\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>83\n</td>\n<td>21.6\n</td>\n<td>1 h 30 min\n</td>\n<td>4\n</td>\n<td>18-22\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/grapes-26402\" title=\"Grapes\" rel=\"noopener noreferrer\" target=\"_blank\">Grapes</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png/revision/latest?cb=20240218152214\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Grapes\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>84\n</td>\n<td>32.4\n</td>\n<td>3 h\n</td>\n<td>6\n</td>\n<td>12-14\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/mint-29903\" title=\"Mint\" rel=\"noopener noreferrer\" target=\"_blank\">Mint</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png/revision/latest?cb=20240219025557\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mint\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>85\n</td>\n<td>32.4\n</td>\n<td>3 h\n</td>\n<td>6\n</td>\n<td>12-15\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/passion-fruit-35182\" title=\"Passion Fruit\" rel=\"noopener noreferrer\" target=\"_blank\">Passion fruit</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png/revision/latest?cb=20240219030332\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Passion Fruit\" loading=\"lazy\" width=\"100\" height=\"78\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>88\n</td>\n<td>18\n</td>\n<td>1 h\n</td>\n<td>4\n</td>\n<td>16-23\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/banana-26401\" title=\"Banana\" rel=\"noopener noreferrer\" target=\"_blank\">Banana</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/69/Banana.png/revision/latest?cb=20240219032506\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Banana\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>88\n</td>\n<td>104.4\n</td>\n<td>1 d 3 h\n</td>\n<td>20\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/mushroom-31885\" title=\"Mushroom\" rel=\"noopener noreferrer\" target=\"_blank\">Mushroom</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png/revision/latest?cb=20240219025703\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mushroom\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>89\n</td>\n<td>10.8\n</td>\n<td>20 min\n</td>\n<td>2\n</td>\n<td>46\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/eggplant-30745\" title=\"Eggplant\" rel=\"noopener noreferrer\" target=\"_blank\">Eggplant</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png/revision/latest?cb=20240218151903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Eggplant\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>90\n</td>\n<td>14.4\n</td>\n<td>40 min\n</td>\n<td>3\n</td>\n<td>24\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/watermelon-29902\" title=\"Watermelon\" rel=\"noopener noreferrer\" target=\"_blank\">Watermelon</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png/revision/latest?cb=20240219032022\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Watermelon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>92\n</td>\n<td>39.6\n</td>\n<td>5 h\n</td>\n<td>8\n</td>\n<td>9-11\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/plum-29904\" title=\"Plum\" rel=\"noopener noreferrer\" target=\"_blank\">Plum</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e6/Plum.png/revision/latest?cb=20240219033810\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plum\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>94\n</td>\n<td>82.8\n</td>\n<td>1 d\n</td>\n<td>16\n</td>\n<td>5-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/clay-35282\" title=\"Clay\" rel=\"noopener noreferrer\" target=\"_blank\">Clay</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png/revision/latest?cb=20240218151529\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Clay\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>94\n</td>\n<td>18\n</td>\n<td>1 h 50 min\n</td>\n<td>5\n</td>\n<td>13-19\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chickpea-35385\" title=\"Chickpea\" rel=\"noopener noreferrer\" target=\"_blank\">Chickpea</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png/revision/latest?cb=20240218151443\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chickpea\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>95\n</td>\n<td>18\n</td>\n<td>1 h\n</td>\n<td>4\n</td>\n<td>TBA\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/mango-35461\" title=\"Mango\" rel=\"noopener noreferrer\" target=\"_blank\">Mango</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/38/Mango.png/revision/latest?cb=20240219033328\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mango\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>97\n</td>\n<td>100.8\n</td>\n<td>1 d 8 h\n</td>\n<td>20\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/coconut-35552\" title=\"Coconut\" rel=\"noopener noreferrer\" target=\"_blank\">Coconut</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Coconut.png/revision/latest?cb=20240219032853\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Coconut\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>101\n</td>\n<td>108\n</td>\n<td>1 d 12 h\n</td>\n<td>21\n</td>\n<td>4-5\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/guava-35634\" title=\"Guava\" rel=\"noopener noreferrer\" target=\"_blank\">Guava</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/87/Guava.png/revision/latest?cb=20240219033102\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Guava\" loading=\"lazy\" width=\"99\" height=\"107\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>104\n</td>\n<td>111.6\n</td>\n<td>1 d 10 h\n</td>\n<td>22\n</td>\n<td>3-4\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pomegranate-35749\" title=\"Pomegranate\" rel=\"noopener noreferrer\" target=\"_blank\">Pomegranate</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png/revision/latest?cb=20240219033910\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pomegranate\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Tree</a>\n</td>\n<td>107\n</td>\n<td>111.6\n</td>\n<td>1 d 3 h\n</td>\n<td>22\n</td>\n<td>4-6\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/oats-35900\" title=\"Oats\" rel=\"noopener noreferrer\" target=\"_blank\">Oats</a></b><br><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Oats.png/revision/latest?cb=20230920004146\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Oats\" loading=\"lazy\" width=\"100\" height=\"87\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a>\n</td>\n<td>119\n</td>\n<td>7.2\n</td>\n<td>7 min\n</td>\n<td>1\n</td>\n<td>76 -&#160;?\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260828233023\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.071 seconds\nReal time usage: 0.111 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33504-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260828233023 and revision id 109556. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "35cc67f279ead0fba5a0a0ffa02ba6cc3411a9379c45b23bba15f12122e831ec",
+  "internalLinks": [
+    {
+      "route": "/wiki/apple-2241",
+      "title": "Apple"
+    },
+    {
+      "route": "/wiki/asparagus-35799",
+      "title": "Asparagus"
+    },
+    {
+      "route": "/wiki/banana-26401",
+      "title": "Banana"
+    },
+    {
+      "route": "/wiki/beetroot-33002",
+      "title": "Beetroot"
+    },
+    {
+      "route": "/wiki/bell-pepper-29901",
+      "title": "Bell Pepper"
+    },
+    {
+      "route": "/wiki/black-bean-36496",
+      "title": "Black Bean"
+    },
+    {
+      "route": "/wiki/blackberry-2247",
+      "title": "Blackberry"
+    },
+    {
+      "route": "/wiki/blueberries-36310",
+      "title": "Blueberries"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/cabbage-34832",
+      "title": "Cabbage"
+    },
+    {
+      "route": "/wiki/cacao-2248",
+      "title": "Cacao"
+    },
+    {
+      "route": "/wiki/carrot-2081",
+      "title": "Carrot"
+    },
+    {
+      "route": "/wiki/chamomile-36216",
+      "title": "Chamomile"
+    },
+    {
+      "route": "/wiki/cherry-2245",
+      "title": "Cherry"
+    },
+    {
+      "route": "/wiki/chickpea-35385",
+      "title": "Chickpea"
+    },
+    {
+      "route": "/wiki/chili-pepper-2235",
+      "title": "Chili Pepper"
+    },
+    {
+      "route": "/wiki/clay-35282",
+      "title": "Clay"
+    },
+    {
+      "route": "/wiki/coconut-35552",
+      "title": "Coconut"
+    },
+    {
+      "route": "/wiki/coffee-bean-2423",
+      "title": "Coffee Bean"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/cotton-14254",
+      "title": "Cotton"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/cucumber-30747",
+      "title": "Cucumber"
+    },
+    {
+      "route": "/wiki/eggplant-30745",
+      "title": "Eggplant"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/garlic-33001",
+      "title": "Garlic"
+    },
+    {
+      "route": "/wiki/ginger-31881",
+      "title": "Ginger"
+    },
+    {
+      "route": "/wiki/grapes-26402",
+      "title": "Grapes"
+    },
+    {
+      "route": "/wiki/guava-35634",
+      "title": "Guava"
+    },
+    {
+      "route": "/wiki/indigo-2083",
+      "title": "Indigo"
+    },
+    {
+      "route": "/wiki/lemon-10426",
+      "title": "Lemon"
+    },
+    {
+      "route": "/wiki/lettuce-8898",
+      "title": "Lettuce"
+    },
+    {
+      "route": "/wiki/lily-33000",
+      "title": "Lily"
+    },
+    {
+      "route": "/wiki/mango-35461",
+      "title": "Mango"
+    },
+    {
+      "route": "/wiki/mint-29903",
+      "title": "Mint"
+    },
+    {
+      "route": "/wiki/mushroom-31885",
+      "title": "Mushroom"
+    },
+    {
+      "route": "/wiki/oats-35900",
+      "title": "Oats"
+    },
+    {
+      "route": "/wiki/olive-8911",
+      "title": "Olive"
+    },
+    {
+      "route": "/wiki/onion-24832",
+      "title": "Onion"
+    },
+    {
+      "route": "/wiki/orange-24830",
+      "title": "Orange"
+    },
+    {
+      "route": "/wiki/passion-fruit-35182",
+      "title": "Passion Fruit"
+    },
+    {
+      "route": "/wiki/peach-24831",
+      "title": "Peach"
+    },
+    {
+      "route": "/wiki/peony-28400",
+      "title": "Peony"
+    },
+    {
+      "route": "/wiki/pineapple-30748",
+      "title": "Pineapple"
+    },
+    {
+      "route": "/wiki/plum-29904",
+      "title": "Plum"
+    },
+    {
+      "route": "/wiki/pomegranate-35749",
+      "title": "Pomegranate"
+    },
+    {
+      "route": "/wiki/potato-2693",
+      "title": "Potato"
+    },
+    {
+      "route": "/wiki/pumpkin-2082",
+      "title": "Pumpkin"
+    },
+    {
+      "route": "/wiki/raspberry-2243",
+      "title": "Raspberry"
+    },
+    {
+      "route": "/wiki/rice-8896",
+      "title": "Rice"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/sesame-31883",
+      "title": "Sesame"
+    },
+    {
+      "route": "/wiki/soybean-2079",
+      "title": "Soybean"
+    },
+    {
+      "route": "/wiki/strawberry-2240",
+      "title": "Strawberry"
+    },
+    {
+      "route": "/wiki/sugarcane-2080",
+      "title": "Sugarcane"
+    },
+    {
+      "route": "/wiki/sunflower-28399",
+      "title": "Sunflower"
+    },
+    {
+      "route": "/wiki/tea-leaf-24833",
+      "title": "Tea Leaf"
+    },
+    {
+      "route": "/wiki/tomato-2236",
+      "title": "Tomato"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    },
+    {
+      "route": "/wiki/watermelon-29902",
+      "title": "Watermelon"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33504,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Apple.png",
+    "File:Asparagus.png",
+    "File:Banana.png",
+    "File:Beetroot.png",
+    "File:Bell Pepper.png",
+    "File:Black Bean.png",
+    "File:Blackberry.png",
+    "File:Blueberries.png",
+    "File:Broccoli.png",
+    "File:Cabbage.png",
+    "File:Cacao.png",
+    "File:Carrot.png",
+    "File:Chamomile.png",
+    "File:Cherry.png",
+    "File:Chickpea.png",
+    "File:Chili Pepper.png",
+    "File:Clay.png",
+    "File:Coconut.png",
+    "File:Coffee Bean.png",
+    "File:Corn.png",
+    "File:Cotton.png",
+    "File:Cucumber.png",
+    "File:Eggplant.png",
+    "File:Garlic.png",
+    "File:Ginger.png",
+    "File:Grapes.png",
+    "File:Guava.png",
+    "File:Indigo.png",
+    "File:Lemon.png",
+    "File:Lettuce.png",
+    "File:Lily.png",
+    "File:Mango.png",
+    "File:Mint.png",
+    "File:Mushroom.png",
+    "File:Oats.png",
+    "File:Olive.png",
+    "File:Onion.png",
+    "File:Orange.png",
+    "File:Passion Fruit.png",
+    "File:Peach.png",
+    "File:Peony.png",
+    "File:Pineapple.png",
+    "File:Plum.png",
+    "File:Pomegranate.png",
+    "File:Potato.png",
+    "File:Pumpkin.png",
+    "File:Raspberry.png",
+    "File:Rice.png",
+    "File:Sesame.png",
+    "File:Soybean.png",
+    "File:Strawberry.png",
+    "File:Sugarcane.png",
+    "File:Sunflower.png",
+    "File:Tea Leaf.png",
+    "File:Tomato.png",
+    "File:Watermelon.png",
+    "File:Wheat.png"
+  ],
+  "revisionId": 109556,
+  "revisionTimestamp": "2026-03-15T13:20:14Z",
+  "route": "/wiki/crops-list-33504",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Crops_List",
+  "title": "Crops List",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b2656c3abcdd97dc02f461b907a23acb50b97c219572e911a976af98d17a6309"
+}

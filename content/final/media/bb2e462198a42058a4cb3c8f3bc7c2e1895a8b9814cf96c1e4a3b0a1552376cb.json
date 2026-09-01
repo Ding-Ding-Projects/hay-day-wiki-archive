@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grape_Jam.png",
+  "height": 780,
+  "immutableUrl": null,
+  "mediaId": "File:Grape Jam.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T15:20:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGrape%20Jam.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 684199,
+  "sourceSha1": "97fc9d569cdca6a25e4345c15eacf6a8d0c94fe1",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Grape_Jam.png/revision/latest?cb=20240208152012",
+  "title": "File:Grape Jam.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 780
+}

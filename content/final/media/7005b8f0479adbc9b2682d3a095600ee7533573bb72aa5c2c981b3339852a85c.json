@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_Bike_Ride.png",
+  "height": 448,
+  "immutableUrl": null,
+  "mediaId": "File:The Bike Ride.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:37:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AThe%20Bike%20Ride.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 148179,
+  "sourceSha1": "a9bfe1239a744c4cc986088ea19ac7591beecba8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/The_Bike_Ride.png/revision/latest?cb=20150715103702",
+  "title": "File:The Bike Ride.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 448
+}

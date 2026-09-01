@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Raspberry_Bush_Dead.png",
+  "height": 334,
+  "immutableUrl": null,
+  "mediaId": "File:Raspberry Bush Dead.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T17:39:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARaspberry%20Bush%20Dead.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 98539,
+  "sourceSha1": "c7ae9d627be21b406dd6a809cadbd0cd099d3e9b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Raspberry_Bush_Dead.png/revision/latest?cb=20191028173927",
+  "title": "File:Raspberry Bush Dead.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 334
+}

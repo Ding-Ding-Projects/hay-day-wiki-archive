@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:EGGspress_Train_Stage_3.png",
+  "height": 1474,
+  "immutableUrl": null,
+  "mediaId": "File:EGGspress Train Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-11T18:40:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEGGspress%20Train%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1032940,
+  "sourceSha1": "a20d5b9ddead77aa0c8a84de495e9d52b662c600",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fe/EGGspress_Train_Stage_3.png/revision/latest?cb=20180211184015",
+  "title": "File:EGGspress Train Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1474
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Storage.png",
+  "height": 218,
+  "immutableUrl": null,
+  "mediaId": "File:Shop Storage.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-21T18:07:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AShop%20Storage.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 74658,
+  "sourceSha1": "f1ad727cf57446fe60cd78e1caed8c29db6f855e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/87/Shop_Storage.png/revision/latest?cb=20171021180735",
+  "title": "File:Shop Storage.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 218
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Extractor_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Honey Extractor Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:36:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHoney%20Extractor%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 41611,
+  "sourceSha1": "769511467f1d9986116b07c0e2542bbed1786b04",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Honey_Extractor_Mastery.png/revision/latest?cb=20180501173623",
+  "title": "File:Honey Extractor Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

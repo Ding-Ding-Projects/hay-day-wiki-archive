@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bamboo_Gate.png",
+  "height": 802,
+  "immutableUrl": null,
+  "mediaId": "File:Bamboo Gate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-26T19:02:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABamboo%20Gate.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1024020,
+  "sourceSha1": "c1bfb06136a3345ebf71e4f9e4ea84559dea6b6c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fe/Bamboo_Gate.png/revision/latest?cb=20260526190228",
+  "title": "File:Bamboo Gate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 740
+}

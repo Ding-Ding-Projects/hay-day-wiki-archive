@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Manneken_Squirrel.png",
+  "height": 339,
+  "immutableUrl": null,
+  "mediaId": "File:Manneken Squirrel.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-08-02T18:05:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AManneken%20Squirrel.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 241102,
+  "sourceSha1": "5ad36649a71647a4f5bdcc869779e2e300933313",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Manneken_Squirrel.png/revision/latest?cb=20220802180535",
+  "title": "File:Manneken Squirrel.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 339
+}

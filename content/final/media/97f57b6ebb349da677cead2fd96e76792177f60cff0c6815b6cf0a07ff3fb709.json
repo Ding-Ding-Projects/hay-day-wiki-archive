@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_level_26.png",
+  "height": 1139,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation level 26.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-09-17T07:52:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AReputation%20level%2026.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1646458,
+  "sourceSha1": "d697fc799d1c31a7c963c29eac4d53e87f2f3a86",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/aa/Reputation_level_26.png/revision/latest?cb=20210917075212",
+  "title": "File:Reputation level 26.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1557
+}

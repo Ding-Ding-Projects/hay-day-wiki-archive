@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Loading_Screen_Halloween.png",
+  "height": 1600,
+  "immutableUrl": null,
+  "mediaId": "File:Loading Screen Halloween.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-21T18:34:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALoading%20Screen%20Halloween.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2695647,
+  "sourceSha1": "69ca17be1c672908555d94b4030b6d027bdde2e5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Loading_Screen_Halloween.png/revision/latest?cb=20171021183426",
+  "title": "File:Loading Screen Halloween.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2560
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Zebra_House_Stage_3.png",
+  "height": 1575,
+  "immutableUrl": null,
+  "mediaId": "File:Zebra House Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-12-07T23:33:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AZebra%20House%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1056823,
+  "sourceSha1": "a7f38185c22a6f6f38ffe3d4192efcb08ee995b6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Zebra_House_Stage_3.png/revision/latest?cb=20211207233331",
+  "title": "File:Zebra House Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1575
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Tycoon_III.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Farm Tycoon III.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T19:33:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarm%20Tycoon%20III.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 189660,
+  "sourceSha1": "ea5e84fc122837b1aa204940251f32fe82807642",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3d/Farm_Tycoon_III.png/revision/latest?cb=20180430193347",
+  "title": "File:Farm Tycoon III.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1235
+}

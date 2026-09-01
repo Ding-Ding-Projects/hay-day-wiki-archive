@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wonder_Tree.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:Wonder Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-24T12:29:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWonder%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 911950,
+  "sourceSha1": "5d3faccdfddcc0c004f8a025a23c2b17f00e8839",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/ba/Wonder_Tree.png/revision/latest?cb=20211024122921",
+  "title": "File:Wonder Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

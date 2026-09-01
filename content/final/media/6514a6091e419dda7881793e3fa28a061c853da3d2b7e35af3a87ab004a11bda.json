@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Upcycled_Bottle_Fence.png",
+  "height": 401,
+  "immutableUrl": null,
+  "mediaId": "File:Upcycled Bottle Fence.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T18:09:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AUpcycled%20Bottle%20Fence.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 175168,
+  "sourceSha1": "cb64033750bb1becf48820330c2b02685301981c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Upcycled_Bottle_Fence.png/revision/latest?cb=20260509180940",
+  "title": "File:Upcycled Bottle Fence.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 499
+}

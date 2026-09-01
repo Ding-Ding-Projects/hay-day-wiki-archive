@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Production_Buildings?action=history",
+    "importedAt": "2026-09-01T02:56:38.929Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Production_Buildings?oldid=81863",
+    "sourceRevisionId": 81863,
+    "sourceTitle": "Category:Production Buildings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Production_Buildings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Articles related to <a href=\"/wiki/production-buildings-7699\" title=\"Production Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">Production Buildings</a>.\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260828095653\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 49/1000000\nPost‐expand include size: 287/2097152 bytes\nTemplate argument size: 194/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.964      1 Template:Languages\n100.00%    1.964      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23357-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260828095653 and revision id 81863. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "20ffd37da791ab16c7806d128fe89faf72989cbede27d8aa3ccf93165ae568b9",
+  "internalLinks": [
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 23357,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 81863,
+  "revisionTimestamp": "2018-07-07T11:28:16Z",
+  "route": "/wiki/category%2Fcategory-production-buildings-23357",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Production_Buildings",
+  "title": "Category:Production Buildings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5ae728ee2d96e37c8a59e2e7133642268bcc4fc4f91bd1bf91ae59f480f44498"
+}

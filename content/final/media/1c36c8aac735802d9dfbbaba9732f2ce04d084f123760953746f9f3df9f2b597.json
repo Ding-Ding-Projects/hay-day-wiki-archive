@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Riverboat_Bonus_3XP.png",
+  "height": 223,
+  "immutableUrl": null,
+  "mediaId": "File:Riverboat Bonus 3XP.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-06T14:22:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARiverboat%20Bonus%203XP.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 79175,
+  "sourceSha1": "b4397b7642e891dba7236fe5938e6528eaaf14d3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Riverboat_Bonus_3XP.png/revision/latest?cb=20200706142233",
+  "title": "File:Riverboat Bonus 3XP.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 162
+}

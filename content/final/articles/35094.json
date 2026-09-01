@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Syrup_Products?action=history",
+    "importedAt": "2026-09-01T03:06:53.481Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Syrup_Products?oldid=98571",
+    "sourceRevisionId": 98571,
+    "sourceTitle": "Category:Syrup Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Syrup_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" src=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest/scale-to-width-down/180?cb=20240205163903\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ASyrup.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/syrup-2272\" title=\"Syrup\" rel=\"noopener noreferrer\" target=\"_blank\">Syrup</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831035058\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35094-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831035058 and revision id 98571. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "d0d2948d7d52f2a9eeeb3643b68e01db100d03158f70d0758800d04adb4bc73e",
+  "internalLinks": [
+    {
+      "route": "/wiki/syrup-2272",
+      "title": "Syrup"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35094,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Syrup.png"
+  ],
+  "revisionId": 98571,
+  "revisionTimestamp": "2021-08-31T21:21:53Z",
+  "route": "/wiki/category%2Fcategory-syrup-products-35094",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Syrup_Products",
+  "title": "Category:Syrup Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e72620ea8e7777c20b77902649ee5114a000f28e4c9d7661a93e5d9c01cba7bf"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pie_Oven_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Pie Oven Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:45:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APie%20Oven%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46801,
+  "sourceSha1": "a0e06d28a72c5f60d6c57b924d133fff0b961246",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0d/Pie_Oven_Mastery.png/revision/latest?cb=20180501174504",
+  "title": "File:Pie Oven Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

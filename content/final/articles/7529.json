@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animal_Shelters?action=history",
+    "importedAt": "2026-09-01T02:41:37.997Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Animal_Shelters?oldid=13889",
+    "sourceRevisionId": 13889,
+    "sourceTitle": "Category:Image Animal Shelters",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animal_Shelters?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image&#160;Animal Shelters\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024113\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7529-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024113 and revision id 13889. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "5426ef712fc648f443fe942b04a6dc4651ff9130b4c26dd2856e4088fb30ef10",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 7529,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 13889,
+  "revisionTimestamp": "2013-07-20T10:23:01Z",
+  "route": "/wiki/category%2Fcategory-image-animal-shelters-7529",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Animal_Shelters",
+  "title": "Category:Image Animal Shelters",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d7035e62edbab3981c55782d118f79ee093fad0dbfb1e5a79adf69d55578adc9"
+}

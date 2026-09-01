@@ -1,0 +1,176 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:MediaWiki?action=history",
+    "importedAt": "2026-09-01T03:00:27.107Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:MediaWiki?oldid=89060",
+    "sourceRevisionId": 89060,
+    "sourceTitle": "Hay Day Wiki:MediaWiki",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Site_homepage",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Site homepage</b>",
+      "text": "<b>Site homepage</b>"
+    },
+    {
+      "anchor": "Community_pages",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Community pages</b>",
+      "text": "<b>Community pages</b>"
+    },
+    {
+      "anchor": "Site_messages",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Site messages</b>",
+      "text": "<b>Site messages</b>"
+    },
+    {
+      "anchor": "CSS",
+      "index": "4",
+      "level": 3,
+      "line": "<b>CSS</b>",
+      "text": "<b>CSS</b>"
+    },
+    {
+      "anchor": "JavaScript",
+      "index": "5",
+      "level": 3,
+      "line": "<b>JavaScript</b>",
+      "text": "<b>JavaScript</b>"
+    },
+    {
+      "anchor": "References",
+      "index": "6",
+      "level": 3,
+      "line": "<b>References</b>",
+      "text": "<b>References</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:MediaWiki?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\nThis page lists all MediaWiki pages used on this wiki. Proceed with caution when editing these.\n</p>\n<h3><span class=\"mw-headline\"><b>Site homepage</b></span></h3>\n<p><a href=\"/unavailable-source?title=MediaWiki%3AMainpage\" title=\"MediaWiki:Mainpage\" rel=\"noopener noreferrer\" target=\"_blank\">Homepage</a>\n</p>\n<h3><span class=\"mw-headline\"><b>Community pages</b></span></h3>\n<ul><li><a href=\"/unavailable-source?title=MediaWiki%3AWelcome-user-page\" title=\"MediaWiki:Welcome-user-page\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome profile message</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AWelcome-message-wall-user\" title=\"MediaWiki:Welcome-message-wall-user\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome wall message</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AWelcome-user\" title=\"MediaWiki:Welcome-user\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome message setting</a></li>\n<li><span class=\"new\" title=\"MediaWiki:Welcome-enabled (page does not exist)\">Welcome message setting</span></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AWelcome-bot-flag\" title=\"MediaWiki:Welcome-bot-flag\" rel=\"noopener noreferrer\" target=\"_blank\">Show/hide welcome messages in Recent Changes</a></li>\n<li><a href=\"/unavailable-source?title=Special%3ACommunity\" title=\"Special:Community\" rel=\"noopener noreferrer\" target=\"_blank\">Special:Community</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ACommunity-corner\" title=\"MediaWiki:Community-corner\" rel=\"noopener noreferrer\" target=\"_blank\">Community box</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ACommunity-to-do-list\" title=\"MediaWiki:Community-to-do-list\" rel=\"noopener noreferrer\" target=\"_blank\">Community to-do</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ACommunitypage-admin-welcome-message\" title=\"MediaWiki:Communitypage-admin-welcome-message\" rel=\"noopener noreferrer\" target=\"_blank\">Community welcome message</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ACommunitypage-policy-module-link-page-name\" title=\"MediaWiki:Communitypage-policy-module-link-page-name\" rel=\"noopener noreferrer\" target=\"_blank\">Community policy link</a></li>\n<li><span class=\"new\" title=\"MediaWiki:User-identity-box-group-bureaucrat (page does not exist)\">Bureaucrat label</span></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AUser-identity-box-group-sysop\" title=\"MediaWiki:User-identity-box-group-sysop\" rel=\"noopener noreferrer\" target=\"_blank\">Sysop label</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AUser-identity-box-group-content-moderator\" title=\"MediaWiki:User-identity-box-group-content-moderator\" rel=\"noopener noreferrer\" target=\"_blank\">Content Moderator label</a></li></ul>\n<h3><span class=\"mw-headline\"><b>Site messages</b></span></h3>\n<ul><li><a href=\"/unavailable-source?title=MediaWiki%3AProtect-dropdown\" title=\"MediaWiki:Protect-dropdown\" rel=\"noopener noreferrer\" target=\"_blank\">Protect menu</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ADeletereason-dropdown\" title=\"MediaWiki:Deletereason-dropdown\" rel=\"noopener noreferrer\" target=\"_blank\">Delete page menu</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AFiledelete-reason-dropdown\" title=\"MediaWiki:Filedelete-reason-dropdown\" rel=\"noopener noreferrer\" target=\"_blank\">Delete file menu</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AIpbreason-dropdown\" title=\"MediaWiki:Ipbreason-dropdown\" rel=\"noopener noreferrer\" target=\"_blank\">Block menu reasons</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AIpboptions\" title=\"MediaWiki:Ipboptions\" rel=\"noopener noreferrer\" target=\"_blank\">Block menu options</a></li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ALicenses\" title=\"MediaWiki:Licenses\" rel=\"noopener noreferrer\" target=\"_blank\">License menu</a></li></ul>\n<h3><span class=\"mw-headline\"><b>CSS</b></span></h3>\n<ul><li>All skins: <a href=\"/unavailable-source?title=MediaWiki%3ACommon.css\" title=\"MediaWiki:Common.css\" rel=\"noopener noreferrer\" target=\"_blank\">Common</a></li>\n<li>Oasis only: <span class=\"new\" title=\"MediaWiki:Wikia.css (page does not exist)\">Wikia</span></li></ul>\n<h3><span class=\"mw-headline\"><b>JavaScript</b></span></h3>\n<ul><li><a href=\"/unavailable-source?title=MediaWiki%3AWikia.js\" title=\"MediaWiki:Wikia.js\" rel=\"noopener noreferrer\" target=\"_blank\">Wikia</a> (requires review)</li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3ACommon.js\" title=\"MediaWiki:Common.js\" rel=\"noopener noreferrer\" target=\"_blank\">Common</a> (requires review)</li>\n<li><a href=\"/unavailable-source?title=MediaWiki%3AImportJS\" title=\"MediaWiki:ImportJS\" rel=\"noopener noreferrer\" target=\"_blank\">ImportJS</a></li></ul>\n<h3><span class=\"mw-headline\"><b>References</b></span></h3>\n<ul><li><a href=\"https://community.fandom.com/wiki/Help:Welcome_tool\" class=\"extiw\" title=\"w:Help:Welcome tool\" rel=\"noopener noreferrer\" target=\"_blank\">Welcome Tool</a></li>\n<li><a href=\"https://dev.fandom.com/wiki/Fandom_Open_Source_Library\" class=\"extiw\" title=\"w:c:dev:Fandom Open Source Library\" rel=\"noopener noreferrer\" target=\"_blank\">Open Source Library</a></li></ul>\n<!-- \nNewPP limit report\nCached time: 20260901030017\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.023 seconds\nReal time usage: 0.056 seconds\nPreprocessor visited node count: 46/1000000\nPost‐expand include size: 27/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.597      1 Template:PageDisplay\n100.00%    1.597      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25708-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030017 and revision id 89060. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "ff30bf154fb9a290bdbbec66dec8b60c62212b61c11b6f83c67c393799bdcdb2",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "MediaWiki:Common.css"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Common.js"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Community-corner"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Community-to-do-list"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Communitypage-admin-welcome-message"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Communitypage-policy-module-link-page-name"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Deletereason-dropdown"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Filedelete-reason-dropdown"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:ImportJS"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Ipboptions"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Ipbreason-dropdown"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Licenses"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Mainpage"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Protect-dropdown"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:User-identity-box-group-bureaucrat"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:User-identity-box-group-content-moderator"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:User-identity-box-group-sysop"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Welcome-bot-flag"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Welcome-enabled"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Welcome-message-wall-user"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Welcome-user"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Welcome-user-page"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Wikia.css"
+    },
+    {
+      "route": null,
+      "title": "MediaWiki:Wikia.js"
+    }
+  ],
+  "namespace": 4,
+  "pageId": 25708,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89060,
+  "revisionTimestamp": "2019-10-26T04:15:11Z",
+  "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-mediawiki-25708",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:MediaWiki",
+  "title": "Hay Day Wiki:MediaWiki",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "440db7c319adfb5aac15b057a25de3cc5cc15daa2cb43eacf6d281df95218742"
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Bush_Crops?action=history",
+    "importedAt": "2026-09-01T02:41:45.452Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Bush_Crops?oldid=57807",
+    "sourceRevisionId": 57807,
+    "sourceTitle": "Category:Bush Crops",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Bush_Crops?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Crops harvested from <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">bushes</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024137\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7545-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024137 and revision id 57807. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "e41ab7b8564f8efba691d90692ac3dc7893852bf5dc7abd37d7c2df1d0def6ff",
+  "internalLinks": [
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7545,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 57807,
+  "revisionTimestamp": "2016-01-21T18:34:09Z",
+  "route": "/wiki/category%2Fcategory-bush-crops-7545",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bush_Crops",
+  "title": "Category:Bush Crops",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "3627dac4ca740bb117a8f4b2413c9d7c4daa5189ff5fbd908280695691210181"
+}

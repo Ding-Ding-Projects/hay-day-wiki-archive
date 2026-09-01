@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Canned_Fish.png",
+  "height": 981,
+  "immutableUrl": null,
+  "mediaId": "File:Canned Fish.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T14:58:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACanned%20Fish.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 496625,
+  "sourceSha1": "bb639e7dd03245d769ad354f46df6a173291bfa8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Canned_Fish.png/revision/latest?cb=20240411145843",
+  "title": "File:Canned Fish.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 981
+}

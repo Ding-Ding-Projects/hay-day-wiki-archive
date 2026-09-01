@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Heart_Gate.png",
+  "height": 293,
+  "immutableUrl": null,
+  "mediaId": "File:Heart Gate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-08T20:27:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHeart%20Gate.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 177971,
+  "sourceSha1": "af67e11e56d4aa126c6a135bfb87bc40f3395732",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9a/Heart_Gate.png/revision/latest?cb=20180708202706",
+  "title": "File:Heart Gate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 301
+}

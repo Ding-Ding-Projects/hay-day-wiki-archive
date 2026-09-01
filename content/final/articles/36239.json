@@ -1,0 +1,44 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Game_Videos?action=history",
+    "importedAt": "2026-09-01T03:10:02.955Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Game_Videos?oldid=106784",
+    "sourceRevisionId": 106784,
+    "sourceTitle": "Category:Game Videos",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [
+    {
+      "consentRequired": true,
+      "embedMode": "consent-gated",
+      "provider": "youtube",
+      "url": "https://youtu.be/ZYsVJyeztiI?si=n7uorqZi4XWiXgvz",
+      "verdict": "external-embed"
+    }
+  ],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Game_Videos?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://youtu.be/ZYsVJyeztiI?si=n7uorqZi4XWiXgvz\" rel=\"noopener noreferrer\" target=\"_blank\">FARM PASS LEVEL UPS</a>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030956\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.003 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36239-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030956 and revision id 106784. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "743c8e84968ba32a59e034b8e96e45193ebf962e04dcfb3b1eb7393746dfbb84",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 36239,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 106784,
+  "revisionTimestamp": "2025-01-07T01:27:35Z",
+  "route": "/wiki/category%2Fcategory-game-videos-36239",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Game_Videos",
+  "title": "Category:Game Videos",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5228d21288a4a298aa8d9f33babaf516a13849405de3ce21ccd029d738df4e2c"
+}

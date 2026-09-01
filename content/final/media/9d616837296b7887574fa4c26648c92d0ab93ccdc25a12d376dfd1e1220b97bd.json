@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crescent_Fountain.png",
+  "height": 520,
+  "immutableUrl": null,
+  "mediaId": "File:Crescent Fountain.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-04-14T12:38:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrescent%20Fountain.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 630351,
+  "sourceSha1": "d65d053e3d4eb7a02c308abd93b94ec4fe81e3af",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/04/Crescent_Fountain.png/revision/latest?cb=20210414123842",
+  "title": "File:Crescent Fountain.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 520
+}

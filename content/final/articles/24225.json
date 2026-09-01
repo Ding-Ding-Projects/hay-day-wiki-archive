@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_UI?action=history",
+    "importedAt": "2026-09-01T02:57:22.589Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_UI?oldid=60569",
+    "sourceRevisionId": 60569,
+    "sourceTitle": "Category:Image UI",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_UI?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901025709\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:24225-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025709 and revision id 60569. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f8735e4fb38905101942c1e204dac8788873cff3f32133a4902e17520ac2aaf5",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 24225,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 60569,
+  "revisionTimestamp": "2016-03-26T08:09:46Z",
+  "route": "/wiki/category%2Fcategory-image-ui-24225",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_UI",
+  "title": "Category:Image UI",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4ac4d82256948b7c7c22e8f2441dbe60e1ec4f42a97b1fa0a051eade286837f2"
+}

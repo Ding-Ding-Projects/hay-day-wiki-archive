@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lucky_Sheep.png",
+  "height": 360,
+  "immutableUrl": null,
+  "mediaId": "File:Lucky Sheep.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-03-31T13:00:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALucky%20Sheep.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 266652,
+  "sourceSha1": "48656a8bda6ec7b3edfa0a90d7866060ea9e72e5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/76/Lucky_Sheep.png/revision/latest?cb=20220331130003",
+  "title": "File:Lucky Sheep.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 360
+}

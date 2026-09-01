@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ginger_Essential_Oil.png",
+  "height": 1893,
+  "immutableUrl": null,
+  "mediaId": "File:Ginger Essential Oil.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-06-16T08:09:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGinger%20Essential%20Oil.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1542125,
+  "sourceSha1": "ac4696ed68e44ceed8a00660c2ccaf9b88526993",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/47/Ginger_Essential_Oil.png/revision/latest?cb=20240616080909",
+  "title": "File:Ginger Essential Oil.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1894
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes?action=history",
+    "importedAt": "2026-09-01T02:31:48.459Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes?oldid=81890",
+    "sourceRevisionId": 81890,
+    "sourceTitle": "Category:Trees and Bushes",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831214419\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 49/1000000\nPost‐expand include size: 328/2097152 bytes\nTemplate argument size: 234/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.765      1 Template:Languages\n100.00%    1.765      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2601-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831214419 and revision id 81890. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "391a41dffec4c73e45f2825f212f2d3f5d2d1d49b12f243c795f594ade38adb5",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 2601,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 81890,
+  "revisionTimestamp": "2018-07-07T12:38:40Z",
+  "route": "/wiki/category%2Fcategory-trees-and-bushes-2601",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes",
+  "title": "Category:Trees and Bushes",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a8b2295c815be3eccf5998afc0c38bba3548dc0ca0412c8af67237cc1c1549a8"
+}

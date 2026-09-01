@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Field_Crops?action=history",
+    "importedAt": "2026-09-01T02:41:45.452Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Field_Crops?oldid=60189",
+    "sourceRevisionId": 60189,
+    "sourceTitle": "Category:Field Crops",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Field_Crops?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Field crops are plants planted in a <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">field</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024138\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7546-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024138 and revision id 60189. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "75188235e6585f207958452b0099bbaa15ab1c261e8aaf25ef386fd8c7f045b4",
+  "internalLinks": [
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7546,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 60189,
+  "revisionTimestamp": "2016-03-19T17:35:53Z",
+  "route": "/wiki/category%2Fcategory-field-crops-7546",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Field_Crops",
+  "title": "Category:Field Crops",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "8f798c8f47aede2523cf94144eff817c550fafdaa8c647868285625286642ff6"
+}

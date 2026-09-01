@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Green_Fenced.png",
+  "height": 290,
+  "immutableUrl": null,
+  "mediaId": "File:Crates Green Fenced.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-14T16:27:39Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrates%20Green%20Fenced.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 257978,
+  "sourceSha1": "be9a41866228f0af197fe768313d757d22c5e44a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Crates_Green_Fenced.png/revision/latest?cb=20180514162739",
+  "title": "File:Crates Green Fenced.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 296
+}

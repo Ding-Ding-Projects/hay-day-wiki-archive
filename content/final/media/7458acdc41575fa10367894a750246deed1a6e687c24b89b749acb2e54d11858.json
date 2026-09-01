@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sunbed.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Sunbed.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-03-22T04:54:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASunbed.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 289202,
+  "sourceSha1": "bf45046fa68d1421c22cca34c86c8a9ff05faf02",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Sunbed.png/revision/latest?cb=20260322045458",
+  "title": "File:Sunbed.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 513
+}

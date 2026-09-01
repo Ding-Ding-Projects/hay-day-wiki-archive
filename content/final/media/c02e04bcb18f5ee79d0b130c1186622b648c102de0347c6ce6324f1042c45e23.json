@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cow_Walking.png",
+  "height": 632,
+  "immutableUrl": null,
+  "mediaId": "File:Cow Walking.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-25T19:48:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACow%20Walking.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 254198,
+  "sourceSha1": "bc5add0afc74f3d1db4d4f6a244d5851f19a75d2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Cow_Walking.png/revision/latest?cb=20191025194840",
+  "title": "File:Cow Walking.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 632
+}

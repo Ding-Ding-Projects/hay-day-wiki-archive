@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coconut_Ice_Cream.png",
+  "height": 503,
+  "immutableUrl": null,
+  "mediaId": "File:Coconut Ice Cream.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:01:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACoconut%20Ice%20Cream.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 214758,
+  "sourceSha1": "dc405e284ddd1de02f7e1c9169574782248e0177",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d9/Coconut_Ice_Cream.png/revision/latest?cb=20240411150138",
+  "title": "File:Coconut Ice Cream.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 503
+}

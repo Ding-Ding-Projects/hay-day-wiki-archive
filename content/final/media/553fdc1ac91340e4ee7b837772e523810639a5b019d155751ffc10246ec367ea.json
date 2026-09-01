@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_2_Pedestal_Floral_Pink_Pansies_Purple.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 2 Pedestal Floral Pink Pansies Purple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T17:52:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%202%20Pedestal%20Floral%20Pink%20Pansies%20Purple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 77419,
+  "sourceSha1": "7ab47aa03721d1307efe561c5b9519337aabab62",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Pedestal_Level_2_Pedestal_Floral_Pink_Pansies_Purple.png/revision/latest?cb=20200824175252",
+  "title": "File:Pedestal Level 2 Pedestal Floral Pink Pansies Purple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

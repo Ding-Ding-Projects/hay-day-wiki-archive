@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Train_Station_Broken.png",
+  "height": 1019,
+  "immutableUrl": null,
+  "mediaId": "File:Train Station Broken.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T12:52:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATrain%20Station%20Broken.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 811042,
+  "sourceSha1": "38aab70d55dd59e804d141dec594f3e5efd84f12",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3c/Train_Station_Broken.png/revision/latest?cb=20191028125218",
+  "title": "File:Train Station Broken.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1019
+}

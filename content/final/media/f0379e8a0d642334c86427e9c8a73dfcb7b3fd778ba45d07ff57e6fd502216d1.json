@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ernest.png",
+  "height": 790,
+  "immutableUrl": null,
+  "mediaId": "File:Ernest.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T16:33:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AErnest.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 337160,
+  "sourceSha1": "904970f55f932a725a22f4c106f20b22d1927ebd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Ernest.png/revision/latest?cb=20191028163304",
+  "title": "File:Ernest.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 790
+}

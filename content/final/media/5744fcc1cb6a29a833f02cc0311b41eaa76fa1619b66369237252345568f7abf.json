@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_9.png",
+  "height": 1046,
+  "immutableUrl": null,
+  "mediaId": "File:Level 9.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-06-27T10:14:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%209.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1363773,
+  "sourceSha1": "fb86350d2c4fc77a7219167b66da750c562348bb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Level_9.png/revision/latest?cb=20150627101415",
+  "title": "File:Level 9.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

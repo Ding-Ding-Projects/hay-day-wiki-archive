@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Original_White.png",
+  "height": 276,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Original White.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-17T01:28:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Original%20White.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 76681,
+  "sourceSha1": "f2eb1a02e3e45c4283150c05ab21eb077d80c340",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Walls_Original_White.png/revision/latest?cb=20180417012800",
+  "title": "File:Walls Original White.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 276
+}

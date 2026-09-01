@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Animal_Paper_Fence.png",
+  "height": 272,
+  "immutableUrl": null,
+  "mediaId": "File:Animal Paper Fence.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T17:14:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAnimal%20Paper%20Fence.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 151889,
+  "sourceSha1": "27681c8db3f0200ad88805755a41d391c0168d4f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Animal_Paper_Fence.png/revision/latest?cb=20260520171435",
+  "title": "File:Animal Paper Fence.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 508
+}

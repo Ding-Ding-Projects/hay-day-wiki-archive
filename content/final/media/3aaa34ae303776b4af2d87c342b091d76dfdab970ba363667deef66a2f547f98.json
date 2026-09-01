@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sewing_Machine_Mastered.png",
+  "height": 516,
+  "immutableUrl": null,
+  "mediaId": "File:Sewing Machine Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:48:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASewing%20Machine%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 268848,
+  "sourceSha1": "4ae5b2285f22ec14a4b15c1c4e1c0300555500fb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c9/Sewing_Machine_Mastered.png/revision/latest?cb=20250925184846",
+  "title": "File:Sewing Machine Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 516
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Feather.png",
+  "height": 200,
+  "immutableUrl": null,
+  "mediaId": "File:Duck Feather.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-04-14T21:21:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADuck%20Feather.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 45446,
+  "sourceSha1": "b1a65dad449c8346d83b6e8f330f5e4ebb43f67f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Duck_Feather.png/revision/latest?cb=20150414212143",
+  "title": "File:Duck Feather.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

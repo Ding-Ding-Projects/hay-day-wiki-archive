@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Spicy_Bean_Taco.png",
+  "height": 880,
+  "immutableUrl": null,
+  "mediaId": "File:Spicy Bean Taco.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-26T21:10:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASpicy%20Bean%20Taco.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 477426,
+  "sourceSha1": "3ddb46ad9b603bd5da0baadd9984604c43cf2611",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Spicy_Bean_Taco.png/revision/latest?cb=20260126211044",
+  "title": "File:Spicy Bean Taco.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 880
+}

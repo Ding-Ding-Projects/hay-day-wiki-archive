@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Arctic_Poppy.png",
+  "height": 599,
+  "immutableUrl": null,
+  "mediaId": "File:Arctic Poppy.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-18T20:40:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AArctic%20Poppy.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 262169,
+  "sourceSha1": "a3b11b32aaca78889983ee96a7e0c0ec8b904c96",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e5/Arctic_Poppy.png/revision/latest?cb=20211018204028",
+  "title": "File:Arctic Poppy.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 599
+}

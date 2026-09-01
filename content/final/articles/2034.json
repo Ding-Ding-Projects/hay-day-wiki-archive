@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Hidden_categories?action=history",
+    "importedAt": "2026-09-01T02:11:01.730Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Hidden_categories?oldid=89065",
+    "sourceRevisionId": 89065,
+    "sourceTitle": "Category:Hidden categories",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Hidden_categories?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains hidden categories. Unlike normal categories, these are not displayed at the bottom of pages that are included in them, and are therefore hidden from readers.\n</p><p>To hide a category, add the <code>__HIDDENCAT__</code> magic word to the bottom of a category.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901021100\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 4/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 13/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2034-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901021100 and revision id 89065. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "790151225e9fb288631f9746394be4adcd01ed99f8997077efd33442fc709abb",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 2034,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89065,
+  "revisionTimestamp": "2019-10-26T04:15:16Z",
+  "route": "/wiki/category%2Fcategory-hidden-categories-2034",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hidden_categories",
+  "title": "Category:Hidden categories",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "64170f054766248ba02b0b1cdef552840067ac819b32c1616aed49d6981d67e9"
+}

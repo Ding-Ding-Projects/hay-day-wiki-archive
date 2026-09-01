@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_17.png",
+  "height": 544,
+  "immutableUrl": null,
+  "mediaId": "File:Level 17.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-28T21:38:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2017.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 906089,
+  "sourceSha1": "c7097278075ac3b1e9694aec9ec47ee1536a5afc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f5/Level_17.png/revision/latest?cb=20151128213834",
+  "title": "File:Level 17.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1226
+}

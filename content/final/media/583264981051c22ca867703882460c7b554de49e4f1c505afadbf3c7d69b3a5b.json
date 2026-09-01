@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Quaint_Style.png",
+  "height": 515,
+  "immutableUrl": null,
+  "mediaId": "File:Farmhouse Quaint Style.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-16T23:10:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarmhouse%20Quaint%20Style.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 417431,
+  "sourceSha1": "72f5a7aa19385c4dd87d2626f224ec0b3e7df272",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Farmhouse_Quaint_Style.png/revision/latest?cb=20180416231052",
+  "title": "File:Farmhouse Quaint Style.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 515
+}

@@ -1,0 +1,59 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Whistle?action=history",
+    "importedAt": "2026-09-01T03:01:55.880Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Whistle?oldid=77452",
+    "sourceRevisionId": 77452,
+    "sourceTitle": "Whistle",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Whistle?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n<span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/18/Whistle.png/revision/latest?cb=20180211174157\" class=\"mw-file-description image\" title=\"A whistle\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"A whistle\" src=\"https://static.wikia.nocookie.net/hayday/images/1/18/Whistle.png/revision/latest?cb=20180211174157\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\nA <b>whistle</b> is a in-game item and can be used to get <a href=\"/wiki/category%2Fcategory-pets-17088\" title=\"Category:Pets\" rel=\"noopener noreferrer\" target=\"_blank\">pets</a> and <a href=\"/wiki/category%2Fcategory-sanctuary-animals-28587\" title=\"Category:Sanctuary Animals\" rel=\"noopener noreferrer\" target=\"_blank\">wild animals</a> to come to their <a href=\"/wiki/category%2Fcategory-animal-shelters-6565\" title=\"Category:Animal Shelters\" rel=\"noopener noreferrer\" target=\"_blank\">shelters</a>. It can also be used to wake these animals up, in which case it may grant players <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>.\n</p><p>It comes with each shelter and does not go into the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<!-- \nNewPP limit report\nCached time: 20260831171522\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.010 seconds\nReal time usage: 0.016 seconds\nPreprocessor visited node count: 6/1000000\nPost‐expand include size: 83/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.797      1 -total\n 49.27%    1.378      1 Template:Clr\n 47.37%    1.325      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28263-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831171522 and revision id 77452. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "f501619bfa4d60eaf9cd5e1015a90a1f14d8f36cb7b355b47ce5767cea1e5a9e",
+  "internalLinks": [
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-animal-shelters-6565",
+      "title": "Category:Animal Shelters"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-pets-17088",
+      "title": "Category:Pets"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-sanctuary-animals-28587",
+      "title": "Category:Sanctuary Animals"
+    },
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 28263,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Whistle.png"
+  ],
+  "revisionId": 77452,
+  "revisionTimestamp": "2018-02-11T17:43:20Z",
+  "route": "/wiki/whistle-28263",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Whistle",
+  "title": "Whistle",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9117254150b224dbf86d004a25dd5743a25b812f7d8ae5cb3b5f7a420b707432"
+}

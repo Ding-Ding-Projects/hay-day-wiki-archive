@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes?action=history",
+    "importedAt": "2026-09-01T02:37:12.318Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes?oldid=8631",
+    "sourceRevisionId": 8631,
+    "sourceTitle": "Category:Image Trees and Bushes",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image Trees and Bushes\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901023657\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:4204-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901023657 and revision id 8631. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "fd7e95aec467dfb47c8b50f91a8b613f1b3694c288869a115f79e6d44ec25abc",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 4204,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 8631,
+  "revisionTimestamp": "2013-04-28T18:31:59Z",
+  "route": "/wiki/category%2Fcategory-image-trees-and-bushes-4204",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes",
+  "title": "Category:Image Trees and Bushes",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c52f3c6542d4eceffd2d22dd1cc7628c7e24b98c8c3340dd39b3869008c1c36c"
+}

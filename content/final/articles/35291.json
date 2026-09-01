@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products?action=history",
+    "importedAt": "2026-09-01T03:07:32.799Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products?oldid=99463",
+    "sourceRevisionId": 99463,
+    "sourceTitle": "Category:Pottery Studio Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Pottery_Studio.png/revision/latest?cb=20211129201926\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pottery Studio\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Pottery_Studio.png/revision/latest/scale-to-width-down/180?cb=20211129201926\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APottery_Studio.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/pottery-studio-35276\" title=\"Pottery Studio\" rel=\"noopener noreferrer\" target=\"_blank\">Pottery Studio</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831145952\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35291-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831145952 and revision id 99463. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a6681db1b15cf51b04f11d5f98d540d07b386ae92f083905b8326f9df1e4f233",
+  "internalLinks": [
+    {
+      "route": "/wiki/pottery-studio-35276",
+      "title": "Pottery Studio"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35291,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Pottery Studio.png"
+  ],
+  "revisionId": 99463,
+  "revisionTimestamp": "2021-11-29T20:37:49Z",
+  "route": "/wiki/category%2Fcategory-pottery-studio-products-35291",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products",
+  "title": "Category:Pottery Studio Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b91b7a3e0f720e62749f40ec01aa1f0b6e120f66a46091de54f2de940cf97d3a"
+}

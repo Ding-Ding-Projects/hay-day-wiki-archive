@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rose_Fence_White.png",
+  "height": 308,
+  "immutableUrl": null,
+  "mediaId": "File:Rose Fence White.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T00:10:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARose%20Fence%20White.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 75893,
+  "sourceSha1": "adf6f94b7da9a0f48e0b9de77b63861da91c6fa6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Rose_Fence_White.png/revision/latest?cb=20150715001042",
+  "title": "File:Rose Fence White.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 308
+}

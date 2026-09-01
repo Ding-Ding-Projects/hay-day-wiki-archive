@@ -1,0 +1,45 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Help?action=history",
+    "importedAt": "2026-09-01T02:10:50.410Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Help?oldid=78881",
+    "sourceRevisionId": 78881,
+    "sourceTitle": "Category:Help",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Help?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><b>For help with this wiki</b> see <a href=\"https://community.fandom.com/wiki/Help:Contents\" title=\"Help:Contents\" rel=\"noopener noreferrer\" target=\"_blank\">Help:Contents</a>. You can also ask questions in <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://hayday.fandom.com/d/f\" rel=\"noopener noreferrer\" target=\"_blank\">discussions</a>. To contact an <a href=\"/wiki/hay-day-wiki%2Fhay-day-wiki-staff-25609\" title=\"Hay Day Wiki:Staff\" rel=\"noopener noreferrer\" target=\"_blank\">staff member</a> or any currently active contributor (the people whose names appear on <a href=\"/unavailable-source?title=Special%3ARecentChanges\" title=\"Special:RecentChanges\" rel=\"noopener noreferrer\" target=\"_blank\">the \"Recent changes\" page</a>), use their talk pages.\n</p><p><b>For help with the game</b> see the following pages. You can also ask questions in <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://hayday.fandom.com/d/f\" rel=\"noopener noreferrer\" target=\"_blank\">discussions</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901020743\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:1463-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901020743 and revision id 78881. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "7571806d54a9a356cc43689cfc489909b4cdfcaaa2266f75211587e97ef82929",
+  "internalLinks": [
+    {
+      "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-staff-25609",
+      "title": "Hay Day Wiki:Staff"
+    },
+    {
+      "route": null,
+      "title": "Help:Contents"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 1463,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78881,
+  "revisionTimestamp": "2018-04-17T19:39:42Z",
+  "route": "/wiki/category%2Fcategory-help-1463",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Help",
+  "title": "Category:Help",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4f4852f6d2ab2a9e980eb30ea2d52d185299f9fe5b3fe2072d73bdfba0a9b884"
+}

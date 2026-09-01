@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Beetroot_Products?action=history",
+    "importedAt": "2026-09-01T03:07:01.464Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Beetroot_Products?oldid=98678",
+    "sourceRevisionId": 98678,
+    "sourceTitle": "Category:Beetroot Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Beetroot_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png/revision/latest?cb=20240218150336\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Beetroot\" src=\"https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png/revision/latest/scale-to-width-down/180?cb=20240218150336\" loading=\"lazy\" width=\"180\" height=\"190\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ABeetroot.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/beetroot-33002\" title=\"Beetroot\" rel=\"noopener noreferrer\" target=\"_blank\">Beetroot</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030659\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35152-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030659 and revision id 98678. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "c5577062cae91e8b74cc9e7a457370a27ebb5f480738f119d3e98b6492d7170d",
+  "internalLinks": [
+    {
+      "route": "/wiki/beetroot-33002",
+      "title": "Beetroot"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35152,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Beetroot.png"
+  ],
+  "revisionId": 98678,
+  "revisionTimestamp": "2021-09-07T10:15:44Z",
+  "route": "/wiki/category%2Fcategory-beetroot-products-35152",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Beetroot_Products",
+  "title": "Category:Beetroot Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "373f4fd3f5d09767ff6c642d096860b3be65da49f869e3afb484e6d73481e5d3"
+}

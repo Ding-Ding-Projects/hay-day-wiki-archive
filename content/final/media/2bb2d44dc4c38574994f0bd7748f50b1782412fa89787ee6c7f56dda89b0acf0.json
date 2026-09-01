@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chocolate_Pig.png",
+  "height": 525,
+  "immutableUrl": null,
+  "mediaId": "File:Chocolate Pig.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-06-27T19:58:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChocolate%20Pig.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 166453,
+  "sourceSha1": "52297537fc06a9415de6eab844a56bc698552720",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/91/Chocolate_Pig.png/revision/latest?cb=20240627195818",
+  "title": "File:Chocolate Pig.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 525
+}

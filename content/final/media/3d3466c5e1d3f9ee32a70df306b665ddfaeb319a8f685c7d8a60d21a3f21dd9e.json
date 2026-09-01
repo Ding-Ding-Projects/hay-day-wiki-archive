@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ship_Wheel.png",
+  "height": 683,
+  "immutableUrl": null,
+  "mediaId": "File:Ship Wheel.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-01-13T16:10:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AShip%20Wheel.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 313533,
+  "sourceSha1": "ebf573924a057d210b879f7d913cfe04ea0a5c33",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Ship_Wheel.png/revision/latest?cb=20180113161021",
+  "title": "File:Ship Wheel.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 683
+}

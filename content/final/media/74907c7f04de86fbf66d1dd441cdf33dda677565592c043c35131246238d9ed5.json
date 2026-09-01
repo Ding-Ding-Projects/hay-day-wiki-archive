@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_195.png",
+  "height": 358,
+  "immutableUrl": null,
+  "mediaId": "File:Level 195.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-04-02T13:30:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%20195.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 618868,
+  "sourceSha1": "863b4267750166d81744ad04b037f282298751f7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Level_195.png/revision/latest?cb=20210402133034",
+  "title": "File:Level 195.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 834
+}

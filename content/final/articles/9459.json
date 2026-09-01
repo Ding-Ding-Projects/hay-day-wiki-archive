@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Help:Editing?action=history",
+    "importedAt": "2026-09-01T02:43:49.190Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Help:Editing?oldid=26814",
+    "sourceRevisionId": 26814,
+    "sourceTitle": "Help:Editing",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Help:Editing?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This page details how editing on the Hay Day Wiki works as well as editing in general. Experienced editors may want to check out our <a href=\"/wiki/manual-of-style-19113\" class=\"mw-redirect\" title=\"Manual of Style\" rel=\"noopener noreferrer\" target=\"_blank\">Manual of Style</a> to see how our pages are formatted.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024337\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:9459-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024337 and revision id 26814. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8011ed838003efefd2c132f672a1485d100e362486f6218987ed1e8cacde100b",
+  "internalLinks": [
+    {
+      "route": "/wiki/manual-of-style-19113",
+      "title": "Manual of Style"
+    }
+  ],
+  "namespace": 12,
+  "pageId": 9459,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 26814,
+  "revisionTimestamp": "2014-05-21T23:25:54Z",
+  "route": "/wiki/help%2Fhelp-editing-9459",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Help:Editing",
+  "title": "Help:Editing",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "0351d77870c9b0d439d556b38ae2a72313f350076e1d849203c69b206cd9c686"
+}

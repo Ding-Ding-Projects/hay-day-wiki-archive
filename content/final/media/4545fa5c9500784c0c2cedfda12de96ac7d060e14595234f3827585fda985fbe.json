@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hiring_Rose_With_Diamonds.jpg",
+  "height": 1080,
+  "immutableUrl": null,
+  "mediaId": "File:Hiring Rose With Diamonds.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-11-10T23:54:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHiring%20Rose%20With%20Diamonds.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 181031,
+  "sourceSha1": "9c33815a43ba0e3ca07141519478ac662fae3559",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d4/Hiring_Rose_With_Diamonds.jpg/revision/latest?cb=20161110235416",
+  "title": "File:Hiring Rose With Diamonds.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1920
+}

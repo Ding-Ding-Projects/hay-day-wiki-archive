@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Kimchi.png",
+  "height": 933,
+  "immutableUrl": null,
+  "mediaId": "File:Kimchi.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:10:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AKimchi.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 443660,
+  "sourceSha1": "834427b7de4a8aad099d823400f6d33504505246",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Kimchi.png/revision/latest?cb=20240411151034",
+  "title": "File:Kimchi.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 933
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Flower_Shop_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Flower Shop Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:35:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFlower%20Shop%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 51298,
+  "sourceSha1": "9be58825443bdf3af0de76b92e947d3b00204fb2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5a/Flower_Shop_Mastery.png/revision/latest?cb=20180501173521",
+  "title": "File:Flower Shop Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

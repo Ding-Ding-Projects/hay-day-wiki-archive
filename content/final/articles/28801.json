@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Experience?action=history",
+    "importedAt": "2026-09-01T03:02:16.960Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Experience?oldid=75370",
+    "sourceRevisionId": 75370,
+    "sourceTitle": "Category:Experience",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Experience?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>All pages related to <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030213\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28801-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030213 and revision id 75370. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "14ae6159add6509b18a6afaf50cb46b4d195a4ba3f7c252e88a5af2291971d07",
+  "internalLinks": [
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 28801,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 75370,
+  "revisionTimestamp": "2017-11-26T16:10:32Z",
+  "route": "/wiki/category%2Fcategory-experience-28801",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Experience",
+  "title": "Category:Experience",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c19e75a1de07b83537c8c9fcd38096437e5d98c97468d696a9fb875f69da0c5e"
+}

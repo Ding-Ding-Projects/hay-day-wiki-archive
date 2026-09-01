@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Update_December_2017.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:Update December 2017.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-16T11:48:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AUpdate%20December%202017.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 779863,
+  "sourceSha1": "0088f25fe93f4d6311460bf180c65e1da1f9e3bd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Update_December_2017.png/revision/latest?cb=20180416114826",
+  "title": "File:Update December 2017.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

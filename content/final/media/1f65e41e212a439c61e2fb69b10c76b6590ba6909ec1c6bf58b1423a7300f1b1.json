@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_19.jpg",
+  "height": 1270,
+  "immutableUrl": null,
+  "mediaId": "File:Level 19.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-01-20T02:42:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2019.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 344134,
+  "sourceSha1": "a1f312faef3c8d46c4bd8f0fdfac0c6e24defd0b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e7/Level_19.jpg/revision/latest?cb=20150120024219",
+  "title": "File:Level 19.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Scuba_Helmet.png",
+  "height": 540,
+  "immutableUrl": null,
+  "mediaId": "File:Scuba Helmet.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-24T15:19:39Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AScuba%20Helmet.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 201303,
+  "sourceSha1": "250683ef0bf6aa91658169b0c2767f2d9a02e326",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Scuba_Helmet.png/revision/latest?cb=20191024151939",
+  "title": "File:Scuba Helmet.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 540
+}

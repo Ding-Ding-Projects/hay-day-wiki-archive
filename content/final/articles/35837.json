@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pelicans?action=history",
+    "importedAt": "2026-09-01T03:09:11.889Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pelicans?oldid=103217",
+    "sourceRevisionId": 103217,
+    "sourceTitle": "Category:Pelicans",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pelicans?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the different types of pelicans available in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030907\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35837-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030907 and revision id 103217. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "7b7764033e37317c11e86aa01562d250ecf1ab3c9a9496848dfe8ac59c834724",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 35837,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 103217,
+  "revisionTimestamp": "2023-06-25T17:45:31Z",
+  "route": "/wiki/category%2Fcategory-pelicans-35837",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pelicans",
+  "title": "Category:Pelicans",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "725d8b3bc05061b65c09755f7e1374f53ac70b644a3449bad94bc4b12dfd53e1"
+}

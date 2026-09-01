@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Huchen_Photo.png",
+  "height": 214,
+  "immutableUrl": null,
+  "mediaId": "File:Huchen Photo.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-06-17T12:37:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHuchen%20Photo.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 85614,
+  "sourceSha1": "4121a4732cdfade7899c13916a31b7073ee90c53",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/de/Huchen_Photo.png/revision/latest?cb=20130617123752",
+  "title": "File:Huchen Photo.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 189
+}

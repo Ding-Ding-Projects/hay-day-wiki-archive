@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_88.jpg",
+  "height": 1280,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 88.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-08T15:16:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AReputation%20Level%2088.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 122036,
+  "sourceSha1": "5748384d9c038ef5069c7136d18cbecda69dfe6d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Reputation_Level_88.jpg/revision/latest?cb=20260108151605",
+  "title": "File:Reputation Level 88.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1646
+}

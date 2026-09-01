@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_72.png",
+  "height": 781,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 72.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-01-06T18:33:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AReputation%20Level%2072.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1061382,
+  "sourceSha1": "1112acfb3b5defa93e2ffea52bfdbe1d91384084",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Reputation_Level_72.png/revision/latest?cb=20220106183336",
+  "title": "File:Reputation Level 72.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 978
+}

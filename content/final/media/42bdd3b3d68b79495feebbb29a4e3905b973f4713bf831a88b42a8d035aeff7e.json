@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Chunky_Brown.png",
+  "height": 217,
+  "immutableUrl": null,
+  "mediaId": "File:Crates Chunky Brown.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-13T16:13:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrates%20Chunky%20Brown.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46484,
+  "sourceSha1": "15c1939f1f4a07a6e5783b89ee071d60fe306507",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Crates_Chunky_Brown.png/revision/latest?cb=20180713161353",
+  "title": "File:Crates Chunky Brown.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 212
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Reputation?action=history",
+    "importedAt": "2026-09-01T03:02:16.960Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Reputation?oldid=78911",
+    "sourceRevisionId": 78911,
+    "sourceTitle": "Category:Reputation",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Reputation?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>All pages about <a href=\"/wiki/reputation-14275\" title=\"Reputation\" rel=\"noopener noreferrer\" target=\"_blank\">Reputation</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030213\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28800-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030213 and revision id 78911. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a8faed1096c4c83a5219b7b6aae01fff3cbd781c099e7b99ffd9f718a40e0a51",
+  "internalLinks": [
+    {
+      "route": "/wiki/reputation-14275",
+      "title": "Reputation"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 28800,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78911,
+  "revisionTimestamp": "2018-04-17T20:03:34Z",
+  "route": "/wiki/category%2Fcategory-reputation-28800",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Reputation",
+  "title": "Category:Reputation",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "88ffb658da18fac7656b257f7269aa80343943b3e117bbd7b4262edd96a2864e"
+}

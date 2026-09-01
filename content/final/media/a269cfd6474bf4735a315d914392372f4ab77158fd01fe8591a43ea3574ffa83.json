@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_4_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Pansies_Red.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 4 Pedestal Floral Pink Daisies Pink Floral Golden Pansies Red.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T18:25:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%204%20Pedestal%20Floral%20Pink%20Daisies%20Pink%20Floral%20Golden%20Pansies%20Red.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 92761,
+  "sourceSha1": "54232bb77bc8444182067e14b95fcbf1a12f4cf0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2a/Pedestal_Level_4_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Pansies_Red.png/revision/latest?cb=20200824182511",
+  "title": "File:Pedestal Level 4 Pedestal Floral Pink Daisies Pink Floral Golden Pansies Red.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

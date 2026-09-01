@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Meerkat_Puzzles.png",
+  "height": 844,
+  "immutableUrl": null,
+  "mediaId": "File:Meerkat Puzzles.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-09-30T21:37:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMeerkat%20Puzzles.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1310375,
+  "sourceSha1": "684b1d0d64e11c0af946d3217e07cd4cf2ee4e88",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Meerkat_Puzzles.png/revision/latest?cb=20230930213731",
+  "title": "File:Meerkat Puzzles.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1353
+}

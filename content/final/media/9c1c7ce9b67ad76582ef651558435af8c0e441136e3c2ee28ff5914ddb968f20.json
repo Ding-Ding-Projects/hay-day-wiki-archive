@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Town.mp3",
+  "height": 0,
+  "immutableUrl": null,
+  "mediaId": "File:Halloween Town.mp3",
+  "mediaType": "AUDIO",
+  "mime": "audio/mpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-10-27T11:55:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHalloween%20Town.mp3",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4088793,
+  "sourceSha1": "cd6d65abe53754e12a35ff8c8b2f3449b18208be",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Halloween_Town.mp3/revision/latest?cb=20241027115521",
+  "title": "File:Halloween Town.mp3",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 0
+}

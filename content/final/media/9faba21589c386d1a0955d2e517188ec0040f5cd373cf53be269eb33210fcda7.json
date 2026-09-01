@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Feed_Mill.png",
+  "height": 726,
+  "immutableUrl": null,
+  "mediaId": "File:Feed Mill.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T13:48:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFeed%20Mill.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 327766,
+  "sourceSha1": "d91b5f7229c141ecc4256d68924142c9efe41991",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/db/Feed_Mill.png/revision/latest?cb=20150714134824",
+  "title": "File:Feed Mill.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 726
+}

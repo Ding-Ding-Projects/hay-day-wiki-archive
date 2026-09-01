@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cake_Oven_Mastered.png",
+  "height": 643,
+  "immutableUrl": null,
+  "mediaId": "File:Cake Oven Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:09:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACake%20Oven%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 308148,
+  "sourceSha1": "656a2ac3645e237712bc9f027ecff632f14ff732",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Cake_Oven_Mastered.png/revision/latest?cb=20250925180935",
+  "title": "File:Cake Oven Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 643
+}

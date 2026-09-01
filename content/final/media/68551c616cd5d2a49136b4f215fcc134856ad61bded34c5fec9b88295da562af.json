@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Cute_Grey.png",
+  "height": 256,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Cute Grey.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-06T04:06:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Cute%20Grey.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 44525,
+  "sourceSha1": "c611bff71e4602a743e83195219f4f2d31bac20e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Walls_Cute_Grey.png/revision/latest?cb=20180606040642",
+  "title": "File:Walls Cute Grey.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 282
+}

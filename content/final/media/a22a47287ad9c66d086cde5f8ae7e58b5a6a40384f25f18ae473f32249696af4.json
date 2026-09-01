@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Nile_Perch.png",
+  "height": 734,
+  "immutableUrl": null,
+  "mediaId": "File:Nile Perch.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-11T15:09:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ANile%20Perch.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 147034,
+  "sourceSha1": "45d7c0f4262dfab02557a8b520e9489a211f9c1e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/95/Nile_Perch.png/revision/latest?cb=20150711150945",
+  "title": "File:Nile Perch.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 854
+}

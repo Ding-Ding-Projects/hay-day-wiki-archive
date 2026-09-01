@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Filled_Donut.png",
+  "height": 2244,
+  "immutableUrl": null,
+  "mediaId": "File:Filled Donut.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-12T10:20:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFilled%20Donut.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1614879,
+  "sourceSha1": "7ad2b42c18b80f769e51dd59612bb5cf53c209ea",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Filled_Donut.png/revision/latest?cb=20240212102005",
+  "title": "File:Filled Donut.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2244
+}

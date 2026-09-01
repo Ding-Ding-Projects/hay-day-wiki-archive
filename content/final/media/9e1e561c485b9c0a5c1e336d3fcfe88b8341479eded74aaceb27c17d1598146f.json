@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Trailer_Yellow_Open.png",
+  "height": 216,
+  "immutableUrl": null,
+  "mediaId": "File:Trailer Yellow Open.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T11:04:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATrailer%20Yellow%20Open.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 51619,
+  "sourceSha1": "9f2d0dc6ddd33e8ae22e544d3ad36bd0deda0784",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Trailer_Yellow_Open.png/revision/latest?cb=20180717110405",
+  "title": "File:Trailer Yellow Open.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 224
+}

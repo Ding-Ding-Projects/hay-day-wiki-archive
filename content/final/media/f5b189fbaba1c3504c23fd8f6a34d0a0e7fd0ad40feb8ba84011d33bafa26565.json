@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Tree_Dead.png",
+  "height": 258,
+  "immutableUrl": null,
+  "mediaId": "File:Cherry Tree Dead.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T17:34:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACherry%20Tree%20Dead.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 57687,
+  "sourceSha1": "8d1ae744f76a120b437a543aebb1ce4324a01025",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/93/Cherry_Tree_Dead.png/revision/latest?cb=20191028173430",
+  "title": "File:Cherry Tree Dead.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 258
+}

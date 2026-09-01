@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greater_Flamingo.png",
+  "height": 175,
+  "immutableUrl": null,
+  "mediaId": "File:Greater Flamingo.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-11-24T15:30:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGreater%20Flamingo.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 23655,
+  "sourceSha1": "f88595f42399f3fcaccd3043011e03cce6529734",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Greater_Flamingo.png/revision/latest?cb=20241124153044",
+  "title": "File:Greater Flamingo.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 175
+}

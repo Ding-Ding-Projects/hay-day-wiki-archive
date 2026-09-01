@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Black_Bean_Stage_4.png",
+  "height": 395,
+  "immutableUrl": null,
+  "mediaId": "File:Black Bean Stage 4.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-26T21:00:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlack%20Bean%20Stage%204.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 196825,
+  "sourceSha1": "4172b69ab71762228c010dbd50e93b2b6e6b9eed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Black_Bean_Stage_4.png/revision/latest?cb=20260126210058",
+  "title": "File:Black Bean Stage 4.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 395
+}

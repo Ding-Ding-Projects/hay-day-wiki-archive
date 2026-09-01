@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lifeguard.png",
+  "height": 611,
+  "immutableUrl": null,
+  "mediaId": "File:Lifeguard.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-02-25T10:57:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALifeguard.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 194672,
+  "sourceSha1": "ce14fded9f7f64a0df2d7249e5f5840d38b909db",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/Lifeguard.png/revision/latest?cb=20260225105756",
+  "title": "File:Lifeguard.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 356
+}

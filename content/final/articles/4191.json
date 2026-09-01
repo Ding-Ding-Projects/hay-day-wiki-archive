@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Crops?action=history",
+    "importedAt": "2026-09-01T02:37:12.318Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Crops?oldid=32687",
+    "sourceRevisionId": 32687,
+    "sourceTitle": "Category:Image Crops",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Crops?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crops</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831103149\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:4191-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831103149 and revision id 32687. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "fc4a807ed3cbe42b85b9b16aaf6ec2b5ff91932108421d560b0a8cb4167168a9",
+  "internalLinks": [
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 4191,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32687,
+  "revisionTimestamp": "2014-08-11T21:30:41Z",
+  "route": "/wiki/category%2Fcategory-image-crops-4191",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Crops",
+  "title": "Category:Image Crops",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6a7931cda6981edc128dcfad4329da4d93bb0d118cd78e6e2471c3f2893777ce"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_186.png",
+  "height": 359,
+  "immutableUrl": null,
+  "mediaId": "File:Level 186.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-09-09T13:36:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%20186.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 608106,
+  "sourceSha1": "f5067bba7065ddc67b863fe6f5c82e17cab1577a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fb/Level_186.png/revision/latest?cb=20200909133656",
+  "title": "File:Level 186.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 824
+}

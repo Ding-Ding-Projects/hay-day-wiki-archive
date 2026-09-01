@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Veggies.png",
+  "height": 557,
+  "immutableUrl": null,
+  "mediaId": "File:Winter Veggies.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:16:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWinter%20Veggies.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 199516,
+  "sourceSha1": "396e67bc6c4b11ab965abf01f3de6d11b688defa",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/Winter_Veggies.png/revision/latest?cb=20240411151607",
+  "title": "File:Winter Veggies.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 557
+}

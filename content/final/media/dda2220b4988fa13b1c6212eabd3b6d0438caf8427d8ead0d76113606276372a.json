@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Veggie_cake.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Veggie cake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-13T19:36:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AVeggie%20cake.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 528664,
+  "sourceSha1": "6d55b5a79584cfacee1e2d2c94534ad8b32be638",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Veggie_cake.png/revision/latest?cb=20260113193637",
+  "title": "File:Veggie cake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

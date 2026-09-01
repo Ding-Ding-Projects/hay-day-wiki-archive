@@ -1,0 +1,94 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Blueprint?action=history",
+    "importedAt": "2026-09-01T03:06:46.472Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Blueprint?oldid=102198",
+    "sourceRevisionId": 102198,
+    "sourceTitle": "Blueprint",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Getting_blueprints",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Getting blueprints</b>",
+      "text": "<b>Getting blueprints</b>"
+    },
+    {
+      "anchor": "Using_blueprints",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Using blueprints</b>",
+      "text": "<b>Using blueprints</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Blueprint?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/9/98/Blueprint.png/revision/latest?cb=20200428130230\" class=\"mw-file-description image\" title=\"A blueprint\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"A blueprint\" src=\"https://static.wikia.nocookie.net/hayday/images/9/98/Blueprint.png/revision/latest/scale-to-width-down/200?cb=20200428130230\" loading=\"lazy\" width=\"200\" height=\"161\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>A blueprint</figcaption></figure>\n<p><b>Blueprints</b> are a type of <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a> which let players unlock upgrades of custom decorations.\n</p><p>They are unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 71.\n</p><p>Like expansion permits, they are not stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p><p>Maximum number of blueprints you can hold is 15.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Getting blueprints</b></span></h3>\n<p>Like <a href=\"/wiki/expansion-permit-27088\" title=\"Expansion Permit\" rel=\"noopener noreferrer\" target=\"_blank\">expansion permits</a>, blueprints cannot be bought or sold.\n</p><p>Blueprints can be obtained when players:\n</p>\n<ul><li>Spin the <a href=\"/wiki/wheel-of-fortune-2745\" title=\"Wheel of Fortune\" rel=\"noopener noreferrer\" target=\"_blank\">Wheel of Fortune</a></li>\n<li>Reach flag checkpoints in <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derbies</a></li>\n<li>Find them in <a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">Huge Boxes</a> or in some of the Holiday Calendar Boxes on Greg's farm</li>\n<li>Buy them in <a href=\"/wiki/valley-shop-31468\" title=\"Valley Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Valley Shop</a></li>\n<li>Complete checkpoints on either free or paid <a href=\"/wiki/farm-pass-34637\" title=\"Farm Pass\" rel=\"noopener noreferrer\" target=\"_blank\">Farm Pass</a></li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using blueprints</b></span></h3>\n<p>You need to pay level 4 and higher upgrade of decoration with specified number of blueprints. You can see the amount of them in <a href=\"/wiki/custom-decorations-lists-35044\" title=\"Custom decorations/ Lists\" rel=\"noopener noreferrer\" target=\"_blank\">Custom decorations/ Lists</a>.\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831173252\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.017 seconds\nReal time usage: 0.024 seconds\nPreprocessor visited node count: 60/1000000\nPost‐expand include size: 145/2097152 bytes\nTemplate argument size: 24/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.032      1 -total\n 62.77%    2.531      1 Template:Languages\n 32.84%    1.324      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35048-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831173252 and revision id 102198. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "7b0e597549d852404cbda416758e5db0507d05d4f308e8b5d8e49e4d57671799",
+  "internalLinks": [
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/custom-decorations-lists-35044",
+      "title": "Custom decorations/ Lists"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/expansion-permit-27088",
+      "title": "Expansion Permit"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-pass-34637",
+      "title": "Farm Pass"
+    },
+    {
+      "route": "/wiki/mystery-box-6452",
+      "title": "Mystery Box"
+    },
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    },
+    {
+      "route": "/wiki/valley-shop-31468",
+      "title": "Valley Shop"
+    },
+    {
+      "route": "/wiki/wheel-of-fortune-2745",
+      "title": "Wheel of Fortune"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 35048,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Blueprint.png"
+  ],
+  "revisionId": 102198,
+  "revisionTimestamp": "2022-12-08T10:51:36Z",
+  "route": "/wiki/blueprint-35048",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Blueprint",
+  "title": "Blueprint",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "640a998c5d519781fe56d21470222e6417a2e7ae8a42d92005a70ea69495a774"
+}

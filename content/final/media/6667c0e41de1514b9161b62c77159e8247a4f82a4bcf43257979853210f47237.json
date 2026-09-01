@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mechanical_Horse.png",
+  "height": 155,
+  "immutableUrl": null,
+  "mediaId": "File:Mechanical Horse.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-08-02T18:22:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMechanical%20Horse.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 54580,
+  "sourceSha1": "6e0cbc3afa5cd8e057c69277affe7c263349af38",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b5/Mechanical_Horse.png/revision/latest?cb=20220802182212",
+  "title": "File:Mechanical Horse.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 155
+}

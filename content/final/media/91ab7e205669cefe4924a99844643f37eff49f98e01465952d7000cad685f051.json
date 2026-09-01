@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bacon_and_Eggs.png",
+  "height": 1032,
+  "immutableUrl": null,
+  "mediaId": "File:Bacon and Eggs.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-05T16:42:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABacon%20and%20Eggs.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 608806,
+  "sourceSha1": "f928f8990da906c8fcb2ce05a9dc2484f7f7153f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a6/Bacon_and_Eggs.png/revision/latest?cb=20240205164211",
+  "title": "File:Bacon and Eggs.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1032
+}

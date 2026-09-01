@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lvl123.jpg",
+  "height": 1096,
+  "immutableUrl": null,
+  "mediaId": "File:Lvl123.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-06-03T23:19:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALvl123.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 306809,
+  "sourceSha1": "c87d5217dd9b84dd20b569a399aec912530199e2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Lvl123.jpg/revision/latest?cb=20250603231903",
+  "title": "File:Lvl123.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1538
+}

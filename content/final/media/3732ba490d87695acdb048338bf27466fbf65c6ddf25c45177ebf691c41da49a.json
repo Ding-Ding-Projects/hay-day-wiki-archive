@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Farm_Pass_-_Dairy_News_Update_Part_2",
+  "height": 360,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Farm Pass - Dairy News Update Part 2",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-11-22T12:32:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day%20Farm%20Pass%20-%20Dairy%20News%20Update%20Part%202",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 47078,
+  "sourceSha1": "a53f4257de10d4357110fdd491da65a26c466177",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c8/Hay_Day_Farm_Pass_-_Dairy_News_Update_Part_2/revision/latest?cb=20201122123251",
+  "title": "File:Hay Day Farm Pass - Dairy News Update Part 2",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

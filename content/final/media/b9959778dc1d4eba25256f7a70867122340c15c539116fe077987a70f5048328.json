@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sago_Palm.png",
+  "height": 617,
+  "immutableUrl": null,
+  "mediaId": "File:Sago Palm.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-11T07:26:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASago%20Palm.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 355152,
+  "sourceSha1": "6ef76b22084ce7964abf77b1de14c4dde01c505c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f9/Sago_Palm.png/revision/latest?cb=20181211072619",
+  "title": "File:Sago Palm.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 617
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Caff%C3%A8_Mocha_Products?action=history",
+    "importedAt": "2026-09-01T03:09:47.209Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Caff%C3%A8_Mocha_Products?oldid=105476",
+    "sourceRevisionId": 105476,
+    "sourceTitle": "Category:Caffè Mocha Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Caff%C3%A8_Mocha_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/c/c7/Caff%C3%A8_Mocha.png/revision/latest?cb=20240209012852\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Caffè Mocha\" src=\"https://static.wikia.nocookie.net/hayday/images/c/c7/Caff%C3%A8_Mocha.png/revision/latest/scale-to-width-down/180?cb=20240209012852\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ACaff%C3%A8_Mocha.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/caff%C3%A8-mocha-2486\" title=\"Caffè Mocha\" rel=\"noopener noreferrer\" target=\"_blank\">Caffè Mocha</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030944\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36116-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030944 and revision id 105476. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "e852acb8707c95a15075dca49c9ac32f0155e108a559de385afa086ef0225542",
+  "internalLinks": [
+    {
+      "route": "/wiki/caff%C3%A8-mocha-2486",
+      "title": "Caffè Mocha"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36116,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Caffè Mocha.png"
+  ],
+  "revisionId": 105476,
+  "revisionTimestamp": "2024-06-27T14:45:52Z",
+  "route": "/wiki/category%2Fcategory-caff%C3%A8-mocha-products-36116",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Caff%C3%A8_Mocha_Products",
+  "title": "Category:Caffè Mocha Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "f1b17544825800c1dd43dc93ba6b6f52e89ecb880e20ec1017ff1b98ec38d175"
+}

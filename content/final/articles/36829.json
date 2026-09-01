@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Apple_Juice_Products?action=history",
+    "importedAt": "2026-09-01T03:11:07.588Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Apple_Juice_Products?oldid=110539",
+    "sourceRevisionId": 110539,
+    "sourceTitle": "Category:Apple Juice Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Apple_Juice_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/41/Apple_Juice.png/revision/latest?cb=20240223064501\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Apple Juice\" src=\"https://static.wikia.nocookie.net/hayday/images/4/41/Apple_Juice.png/revision/latest/scale-to-width-down/180?cb=20240223064501\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AApple_Juice.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/apple-juice-2143\" title=\"Apple Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Juice</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031104\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36829-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031104 and revision id 110539. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "82bc68251ae41498b6ad6cdf55faf86ed252b95637d5d2b35dc6a4003e3c98cf",
+  "internalLinks": [
+    {
+      "route": "/wiki/apple-juice-2143",
+      "title": "Apple Juice"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36829,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Apple Juice.png"
+  ],
+  "revisionId": 110539,
+  "revisionTimestamp": "2026-06-15T21:13:03Z",
+  "route": "/wiki/category%2Fcategory-apple-juice-products-36829",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Apple_Juice_Products",
+  "title": "Category:Apple Juice Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "f08a648070a7c8e84904dcec21224b2140a3012e22bb6bdf578059b2049b9922"
+}

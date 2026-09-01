@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Joshua_Tree.png",
+  "height": 619,
+  "immutableUrl": null,
+  "mediaId": "File:Joshua Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-07T05:27:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AJoshua%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 304305,
+  "sourceSha1": "d920970ba4f6374577659a48e7e0e2ba3123e8e4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/68/Joshua_Tree.png/revision/latest?cb=20200707052718",
+  "title": "File:Joshua Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 508
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_Cookie.png",
+  "height": 2428,
+  "immutableUrl": null,
+  "mediaId": "File:Gingerbread Cookie.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:06:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGingerbread%20Cookie.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6286958,
+  "sourceSha1": "fcdb89305cc81c00506c86b960df6a25b6f2afb9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Gingerbread_Cookie.png/revision/latest?cb=20240411150653",
+  "title": "File:Gingerbread Cookie.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2428
+}

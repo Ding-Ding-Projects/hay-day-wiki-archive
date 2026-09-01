@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greater_Redhorse_Photo.png",
+  "height": 174,
+  "immutableUrl": null,
+  "mediaId": "File:Greater Redhorse Photo.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-06-24T12:53:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGreater%20Redhorse%20Photo.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 39371,
+  "sourceSha1": "ce58e71636c8ca37d1d13e523d0c1a5f168c82ac",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Greater_Redhorse_Photo.png/revision/latest?cb=20130624125337",
+  "title": "File:Greater Redhorse Photo.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 163
+}

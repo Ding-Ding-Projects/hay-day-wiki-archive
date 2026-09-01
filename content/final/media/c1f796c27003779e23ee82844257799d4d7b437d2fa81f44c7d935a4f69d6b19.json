@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blanket.png",
+  "height": 150,
+  "immutableUrl": null,
+  "mediaId": "File:Blanket.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T14:56:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlanket.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 23848,
+  "sourceSha1": "dbce52a7c3dc4f686d1dcd3f06f44092ef5f7a4e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3b/Blanket.png/revision/latest?cb=20240411145624",
+  "title": "File:Blanket.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 150
+}

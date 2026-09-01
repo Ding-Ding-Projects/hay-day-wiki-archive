@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_User?action=history",
+    "importedAt": "2026-09-01T02:44:34.339Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_User?oldid=20391",
+    "sourceRevisionId": 20391,
+    "sourceTitle": "Category:Image User",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_User?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image User\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024419\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:10633-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024419 and revision id 20391. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6a7b3abe448688003a3bae2479dd1fe2de6563ca44074936702a34bb0821c378",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 10633,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 20391,
+  "revisionTimestamp": "2014-02-19T16:58:47Z",
+  "route": "/wiki/category%2Fcategory-image-user-10633",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_User",
+  "title": "Category:Image User",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "98e56f64a6517d5b01ca9e46ed291a36d7e7ccbd4cbfc751296b6c388f98b690"
+}

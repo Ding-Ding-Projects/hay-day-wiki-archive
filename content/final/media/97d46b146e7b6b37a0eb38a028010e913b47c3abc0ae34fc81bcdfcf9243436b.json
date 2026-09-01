@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_fishing.png",
+  "height": 370,
+  "immutableUrl": null,
+  "mediaId": "File:Duck fishing.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-25T21:11:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADuck%20fishing.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 238015,
+  "sourceSha1": "e76990bfc770b82d8d7c538a83fa92e0410cb2da",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c0/Duck_fishing.png/revision/latest?cb=20260525211157",
+  "title": "File:Duck fishing.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

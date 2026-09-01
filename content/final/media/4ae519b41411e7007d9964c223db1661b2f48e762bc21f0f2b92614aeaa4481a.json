@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chickpea_Stage_3.png",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Chickpea Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-26T20:00:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChickpea%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 241633,
+  "sourceSha1": "2c7469d95162f5a96897978b866dcceeb784b8a8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Chickpea_Stage_3.png/revision/latest?cb=20220426200015",
+  "title": "File:Chickpea Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 480
+}

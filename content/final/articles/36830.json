@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Alpacas?action=history",
+    "importedAt": "2026-09-01T03:11:07.588Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Alpacas?oldid=110542",
+    "sourceRevisionId": 110542,
+    "sourceTitle": "Category:Alpacas",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Alpacas?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the different types of alpacas available in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031104\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36830-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031104 and revision id 110542. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f489f6e52d9c0d9dae3a558c47c26ef5a97d74a71ce479149dafcce5ea104add",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 36830,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 110542,
+  "revisionTimestamp": "2026-06-15T21:14:37Z",
+  "route": "/wiki/category%2Fcategory-alpacas-36830",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Alpacas",
+  "title": "Category:Alpacas",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b3eeaf6e6018b9b0e196b279bf147f8cd8b0f9c06059f3056970cc241f344ae8"
+}

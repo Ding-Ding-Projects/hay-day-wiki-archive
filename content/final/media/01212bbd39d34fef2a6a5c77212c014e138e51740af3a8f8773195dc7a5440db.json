@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Purple_maple.png",
+  "height": 550,
+  "immutableUrl": null,
+  "mediaId": "File:Purple maple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T01:24:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APurple%20maple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 470856,
+  "sourceSha1": "feffc1bc0573695cd64bb14d38fa12b21342ee20",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6f/Purple_maple.png/revision/latest?cb=20260520012453",
+  "title": "File:Purple maple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 597
+}

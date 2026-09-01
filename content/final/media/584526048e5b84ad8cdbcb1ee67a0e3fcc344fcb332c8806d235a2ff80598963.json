@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grand_Master.png",
+  "height": 693,
+  "immutableUrl": null,
+  "mediaId": "File:Grand Master.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T16:14:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGrand%20Master.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 257658,
+  "sourceSha1": "10d98db614aca753713d6387ae260471eac9739c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a4/Grand_Master.png/revision/latest?cb=20191028161447",
+  "title": "File:Grand Master.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 693
+}

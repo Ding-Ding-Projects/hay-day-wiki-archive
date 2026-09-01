@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sand_toys.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Sand toys.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-12T21:29:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASand%20toys.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 425625,
+  "sourceSha1": "77fe49209b066bec5289b11a9f59f49ca419ae91",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c6/Sand_toys.png/revision/latest?cb=20260112212931",
+  "title": "File:Sand toys.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

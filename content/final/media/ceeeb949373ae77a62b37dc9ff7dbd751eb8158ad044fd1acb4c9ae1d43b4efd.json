@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Base_Fresh_Straw.png",
+  "height": 312,
+  "immutableUrl": null,
+  "mediaId": "File:Base Fresh Straw.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-04T23:10:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABase%20Fresh%20Straw.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 301882,
+  "sourceSha1": "f0e4257dfd8837ab9fc34c98453f29abfd99272f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/85/Base_Fresh_Straw.png/revision/latest?cb=20180604231037",
+  "title": "File:Base Fresh Straw.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 322
+}

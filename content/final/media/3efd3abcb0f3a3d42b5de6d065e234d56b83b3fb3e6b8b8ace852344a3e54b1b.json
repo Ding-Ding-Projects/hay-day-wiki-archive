@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Teddy_Love.png",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Teddy Love.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T17:15:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATeddy%20Love.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 590848,
+  "sourceSha1": "a11818ebb20a8e0bf758083d6fa4ed401e3cb51c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8a/Teddy_Love.png/revision/latest?cb=20260520171531",
+  "title": "File:Teddy Love.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 668
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Base_Blue_Tile.png",
+  "height": 322,
+  "immutableUrl": null,
+  "mediaId": "File:Base Blue Tile.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-21T18:23:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABase%20Blue%20Tile.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 328945,
+  "sourceSha1": "e813a48987418117826ae4e1b8ee1e5aee0a6521",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Base_Blue_Tile.png/revision/latest?cb=20180521182333",
+  "title": "File:Base Blue Tile.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 340
+}

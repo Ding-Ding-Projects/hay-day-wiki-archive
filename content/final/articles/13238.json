@@ -1,0 +1,102 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Town_Hall?action=history",
+    "importedAt": "2026-09-01T02:46:40.037Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Town_Hall?oldid=104470",
+    "sourceRevisionId": 104470,
+    "sourceTitle": "Town Hall",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Appearance",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Appearance</b>",
+      "text": "<b>Appearance</b>"
+    },
+    {
+      "anchor": "Tracking_visitors",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Tracking visitors</b>",
+      "text": "<b>Tracking visitors</b>"
+    },
+    {
+      "anchor": "Upgrading_the_hall",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Upgrading the hall</b>",
+      "text": "<b>Upgrading the hall</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Town_Hall?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e6/Town_Hall.png/revision/latest?cb=20191026015915\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Town Hall\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure> \n<p>The <b>Town Hall</b> is a building in the player's <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a> which keeps track of <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">town visitors</a>.\n</p><p>It is unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 34.\n</p><p>Repairing it does not cost anything.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Appearance</b></span></h3>\n<p>The hall changes as the player upgrades it:\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Hall_Broken.png\" title=\"Town Hall Broken.png (462 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Town_Hall_Broken.png/revision/latest/scale-to-width-down/185?cb=20191026015847\" title=\"Town Hall Broken.png (462 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Hall Broken.png (462 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Hall_Stage_1.png\" title=\"Town Hall Stage 1.png (463 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/76/Town_Hall_Stage_1.png/revision/latest/scale-to-width-down/185?cb=20191026015904\" title=\"Town Hall Stage 1.png (463 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Hall Stage 1.png (463 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Hall_Stage_2.png\" title=\"Town Hall Stage 2.png (506 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4b/Town_Hall_Stage_2.png/revision/latest/scale-to-width-down/185?cb=20191026015910\" title=\"Town Hall Stage 2.png (506 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Hall Stage 2.png (506 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Hall_Stage_3.png\" title=\"Town Hall Stage 3.png (511 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0d/Town_Hall_Stage_3.png/revision/latest/scale-to-width-down/185?cb=20191026015910\" title=\"Town Hall Stage 3.png (511 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Hall Stage 3.png (511 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Hall.png\" title=\"Town Hall.png (528 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e6/Town_Hall.png/revision/latest/scale-to-width-down/185?cb=20191026015915\" title=\"Town Hall.png (528 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Hall.png (528 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Tracking visitors</b></span></h3>\n<p>Tapping on the hall lets players <b>track</b> their <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">town visitors</a>'s statuses through 6 tabs:\n</p>\n<figure class=\"mw-halign-center\"><a href=\"https://static.wikia.nocookie.net/hayday/images/f/fe/Town_Hall_Tabs.jpg/revision/latest?cb=20180515132318\" class=\"mw-file-description image\" title=\"Tabs\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tabs\" loading=\"lazy\" width=\"300\" height=\"55\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Tabs</figcaption></figure>\n<ul><li><i>idle</i> for visitors who are walking around town.</li>\n<li><i>waiting</i> for visitors who are waiting on their orders.</li>\n<li><i>serving</i> for visitors whose requests have been filled.</li>\n<li><i>ready</i> for visitors who are ready to leave buildings.</li>\n<li><i>leaving</i> for visitors who are going back to the station, either to be picked up by a fellow <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighbor</a> or to go home.</li></ul>\n<p>Players can tap the settings icon to pick which order customers should be listed in for each tab.\n</p><p>Players can also interact with visitors directly from the Hall by tapping on 'see visitor', 'send away' or 'collect reward'.\n</p><p><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/87/HayDay_PawPrint.png/revision/latest?cb=20221209072016\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"HayDay PawPrint\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\nA paw print lets players spot visitors who want to go to the <a href=\"/wiki/sanctuary-28458\" title=\"Sanctuary\" rel=\"noopener noreferrer\" target=\"_blank\">sanctuary</a>.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Upgrading the hall</b></span></h3>\n<p>The hall can be <b>upgraded</b> using <a href=\"/wiki/hammer-13233\" title=\"Hammer\" rel=\"noopener noreferrer\" target=\"_blank\">hammers</a>, <a href=\"/wiki/paint-bucket-13234\" title=\"Paint Bucket\" rel=\"noopener noreferrer\" target=\"_blank\">paint buckets</a> and <a href=\"/wiki/stone-block-13229\" title=\"Stone Block\" rel=\"noopener noreferrer\" target=\"_blank\">stone blocks</a>:\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/media/File%3AHammer.png\" title=\"Hammer.png (17 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Hammer.png/revision/latest/scale-to-width-down/185?cb=20191028131656\" title=\"Hammer.png (17 KB)\" class=\"thumbimage\" alt=\"Hammer\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Hammer.png (17 KB)\" class=\"thumbimage lazyload\" alt=\"Hammer\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">Hammer</div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3APaint_Bucket.png\" title=\"Paint Bucket.png (54 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/92/Paint_Bucket.png/revision/latest/scale-to-width-down/185?cb=20191028131619\" title=\"Paint Bucket.png (54 KB)\" class=\"thumbimage\" alt=\"Paint bucket\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Paint Bucket.png (54 KB)\" class=\"thumbimage lazyload\" alt=\"Paint bucket\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">Paint bucket</div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AStone_Block.png\" title=\"Stone Block.png (48 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/37/Stone_Block.png/revision/latest/scale-to-width-down/185?cb=20191028131613\" title=\"Stone Block.png (48 KB)\" class=\"thumbimage\" alt=\"Stone block\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Stone Block.png (48 KB)\" class=\"thumbimage lazyload\" alt=\"Stone block\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">Stone block</div></div></div>\n<p>The Town Hall begins with a visitor capacity of nine people. Upgrading the hall allows players to increase the number of visitors in the town.\n</p><p>Each upgrade increases the capacity of the hall by three and its level by one. It can be upgraded to level 12 for a maximum capacity of 42 visitors.\n</p>\n<hr>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260830051554\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.021 seconds\nReal time usage: 0.031 seconds\nPreprocessor visited node count: 771/1000000\nPost‐expand include size: 195/2097152 bytes\nTemplate argument size: 38/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 10212/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   16.201      1 -total\n 32.06%    5.194      1 Template:Navigation\n 13.44%    2.178      1 Template:Languages\n  7.60%    1.231      1 Template:PageDisplay\n  6.62%    1.072      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:13238-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260830051554 and revision id 104470. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "0319e5098f9c8ea175f9edc61de93cda266ddd4eb8452b9d9e04a8846ad77e56",
+  "internalLinks": [
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/hammer-13233",
+      "title": "Hammer"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    },
+    {
+      "route": "/wiki/paint-bucket-13234",
+      "title": "Paint Bucket"
+    },
+    {
+      "route": "/wiki/sanctuary-28458",
+      "title": "Sanctuary"
+    },
+    {
+      "route": "/wiki/stone-block-13229",
+      "title": "Stone Block"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    },
+    {
+      "route": "/wiki/town-visitors-13241",
+      "title": "Town Visitors"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 13238,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Hammer.png",
+    "File:HayDay PawPrint.png",
+    "File:Paint Bucket.png",
+    "File:Stone Block.png",
+    "File:Town Hall Broken.png",
+    "File:Town Hall Stage 1.png",
+    "File:Town Hall Stage 2.png",
+    "File:Town Hall Stage 3.png",
+    "File:Town Hall Tabs.jpg",
+    "File:Town Hall.png"
+  ],
+  "revisionId": 104470,
+  "revisionTimestamp": "2024-01-07T13:22:48Z",
+  "route": "/wiki/town-hall-13238",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Town_Hall",
+  "title": "Town Hall",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5a95a056e195803c0897a4ab7428ea670719531186f3409aab5faf16541ae1c5"
+}

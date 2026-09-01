@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Royal_Poinciana_Tree.png",
+  "height": 491,
+  "immutableUrl": null,
+  "mediaId": "File:Royal Poinciana Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-04-28T12:04:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoyal%20Poinciana%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 392485,
+  "sourceSha1": "06e33d194fd6a343135c6a7d31db1f06fa805e73",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Royal_Poinciana_Tree.png/revision/latest?cb=20170428120458",
+  "title": "File:Royal Poinciana Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 674
+}

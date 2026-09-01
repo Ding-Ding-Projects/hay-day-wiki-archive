@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Oats_Products?action=history",
+    "importedAt": "2026-09-01T03:09:27.344Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Oats_Products?oldid=103844",
+    "sourceRevisionId": 103844,
+    "sourceTitle": "Category:Oats Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Oats_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/3/34/Oats.png/revision/latest?cb=20230920004146\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Oats\" src=\"https://static.wikia.nocookie.net/hayday/images/3/34/Oats.png/revision/latest/scale-to-width-down/180?cb=20230920004146\" loading=\"lazy\" width=\"180\" height=\"157\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AOats.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/oats-35900\" title=\"Oats\" rel=\"noopener noreferrer\" target=\"_blank\">Oats</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030922\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35918-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030922 and revision id 103844. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "edd4fc884f65b2d1feb3f84521150d128bf34031e4247bfe68b00b70db6dce17",
+  "internalLinks": [
+    {
+      "route": "/wiki/oats-35900",
+      "title": "Oats"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35918,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Oats.png"
+  ],
+  "revisionId": 103844,
+  "revisionTimestamp": "2023-09-23T21:37:17Z",
+  "route": "/wiki/category%2Fcategory-oats-products-35918",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Oats_Products",
+  "title": "Category:Oats Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9b51b531cbd5dc52ac40f87b5ba3b49a2f86170dd7f80c04fe160c00e38670eb"
+}

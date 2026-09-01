@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:FishingMap_Names.png",
+  "height": 661,
+  "immutableUrl": null,
+  "mediaId": "File:FishingMap Names.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-25T20:06:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFishingMap%20Names.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 974553,
+  "sourceSha1": "e6837d0b0d8b8e082b2476843f1340239b1645e5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/FishingMap_Names.png/revision/latest?cb=20180725200602",
+  "title": "File:FishingMap Names.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

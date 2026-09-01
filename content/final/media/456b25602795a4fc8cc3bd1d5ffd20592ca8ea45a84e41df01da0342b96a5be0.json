@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Potato_Stage_2.png",
+  "height": 270,
+  "immutableUrl": null,
+  "mediaId": "File:Potato Stage 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T12:30:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APotato%20Stage%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 60189,
+  "sourceSha1": "8d86d8cdd1032cf5981ec4b4a19d8337133a6fd6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f0/Potato_Stage_2.png/revision/latest?cb=20150714123003",
+  "title": "File:Potato Stage 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 270
+}

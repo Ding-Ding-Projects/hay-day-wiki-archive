@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Newspaper?action=history",
+    "importedAt": "2026-09-01T03:01:20.958Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Newspaper?oldid=70759",
+    "sourceRevisionId": 70759,
+    "sourceTitle": "Newspaper",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Newspaper?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030059\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:27207-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030059 and revision id 70759. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "53bd5a3399ff086582877a29b75728185f23f1e07aea6bd5089d18fa859a57b8",
+  "internalLinks": [
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 27207,
+  "redirectTarget": "Daily Dirt",
+  "referencedMediaIds": [],
+  "revisionId": 70759,
+  "revisionTimestamp": "2017-04-04T12:14:50Z",
+  "route": "/wiki/newspaper-27207",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Newspaper",
+  "title": "Newspaper",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "8e7d193f2dbfd2b01c13dcfc5a1c9fe01fa688be5dba789a5232663b0339d401"
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products?action=history",
+    "importedAt": "2026-09-01T03:06:57.723Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products?oldid=98628",
+    "sourceRevisionId": 98628,
+    "sourceTitle": "Category:Refined Coal Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/b/b5/Refined_Coal.png/revision/latest?cb=20240208090929\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Refined Coal\" src=\"https://static.wikia.nocookie.net/hayday/images/b/b5/Refined_Coal.png/revision/latest/scale-to-width-down/180?cb=20240208090929\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ARefined_Coal.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/refined-coal-13488\" title=\"Refined Coal\" rel=\"noopener noreferrer\" target=\"_blank\">Refined Coal</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030655\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35127-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030655 and revision id 98628. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "31a9ff66ab1f55c58097f041e7e74bd79876f63e10f12e2e83f221333dcfbe5d",
+  "internalLinks": [
+    {
+      "route": "/wiki/refined-coal-13488",
+      "title": "Refined Coal"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35127,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Refined Coal.png"
+  ],
+  "revisionId": 98628,
+  "revisionTimestamp": "2021-09-06T22:36:41Z",
+  "route": "/wiki/category%2Fcategory-refined-coal-products-35127",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products",
+  "title": "Category:Refined Coal Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "be0bd7451183f276bcdf3225fefe13a29a230c676c6959d739ea0f5847d4575e"
+}

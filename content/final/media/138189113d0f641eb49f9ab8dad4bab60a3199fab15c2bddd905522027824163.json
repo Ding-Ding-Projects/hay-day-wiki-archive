@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Country_White.png",
+  "height": 210,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Country White.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-23T17:54:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Country%20White.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 39753,
+  "sourceSha1": "e94528b9919d3eeb73b936db646b06230484feaf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8b/Walls_Country_White.png/revision/latest?cb=20180623175416",
+  "title": "File:Walls Country White.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 227
+}

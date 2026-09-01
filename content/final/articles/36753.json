@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products?action=history",
+    "importedAt": "2026-09-01T03:11:00.444Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products?oldid=110013",
+    "sourceRevisionId": 110013,
+    "sourceTitle": "Category:Grilled Lamb Skewer Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/c/cb/Grilled_Lamb_Skewer.png/revision/latest?cb=20260510102051\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Grilled Lamb Skewer\" src=\"https://static.wikia.nocookie.net/hayday/images/c/cb/Grilled_Lamb_Skewer.png/revision/latest/scale-to-width-down/180?cb=20260510102051\" loading=\"lazy\" width=\"180\" height=\"126\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AGrilled_Lamb_Skewer.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/grilled-lamb-skewer-36746\" title=\"Grilled Lamb Skewer\" rel=\"noopener noreferrer\" target=\"_blank\">Grilled Lamb Skewer</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031054\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36753-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031054 and revision id 110013. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6de4c776205b706ef2f41997ed247ac6a094951a3fdfefa81c593279118371b6",
+  "internalLinks": [
+    {
+      "route": "/wiki/grilled-lamb-skewer-36746",
+      "title": "Grilled Lamb Skewer"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36753,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Grilled Lamb Skewer.png"
+  ],
+  "revisionId": 110013,
+  "revisionTimestamp": "2026-05-11T21:23:04Z",
+  "route": "/wiki/category%2Fcategory-grilled-lamb-skewer-products-36753",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products",
+  "title": "Category:Grilled Lamb Skewer Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a64ee34238561e84dde5634222855b676526176c29c82745cfe2025f19ccc701"
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Town?action=history",
+    "importedAt": "2026-09-01T02:47:21.768Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Town?oldid=32437",
+    "sourceRevisionId": 32437,
+    "sourceTitle": "Category:Image Town",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Town?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images of the Town.\nSee <a href=\"/wiki/category%2Fcategory-image-service-buildings-15099\" title=\"Category:Image Service Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">Category:Image Service Buildings</a> for other images.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024712\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15100-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024712 and revision id 32437. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f13f43daeeab35a4a41cc424131439a80c8a39a8551ceb9777fd42f072439c7c",
+  "internalLinks": [
+    {
+      "route": "/wiki/category%2Fcategory-image-service-buildings-15099",
+      "title": "Category:Image Service Buildings"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15100,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32437,
+  "revisionTimestamp": "2014-08-08T14:24:32Z",
+  "route": "/wiki/category%2Fcategory-image-town-15100",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Town",
+  "title": "Category:Image Town",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e8ced070c1af5735293ee74f0d85085e3365c2e79fd20ba086da379585aaa6de"
+}

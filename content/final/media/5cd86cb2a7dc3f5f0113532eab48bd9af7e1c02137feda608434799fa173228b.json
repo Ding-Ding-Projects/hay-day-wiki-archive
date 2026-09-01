@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crop_Crate.png",
+  "height": 512,
+  "immutableUrl": null,
+  "mediaId": "File:Crop Crate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-22T12:55:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrop%20Crate.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 161822,
+  "sourceSha1": "007671d48f43af5cc3c506af9fa3928018f5e119",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Crop_Crate.png/revision/latest?cb=20260622125505",
+  "title": "File:Crop Crate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 512
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chocolate_Fondue.png",
+  "height": 1488,
+  "immutableUrl": null,
+  "mediaId": "File:Chocolate Fondue.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:00:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChocolate%20Fondue.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2013174,
+  "sourceSha1": "329bdf7560f5269f65f4fb732e9c7d62e1828fe6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/Chocolate_Fondue.png/revision/latest?cb=20240411150042",
+  "title": "File:Chocolate Fondue.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1488
+}

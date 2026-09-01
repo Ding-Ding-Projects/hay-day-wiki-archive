@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Gem?action=history",
+    "importedAt": "2026-09-01T03:04:45.601Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Gem?oldid=91084",
+    "sourceRevisionId": 91084,
+    "sourceTitle": "Gem",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Gem?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">Diamond</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030438\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:32700-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030438 and revision id 91084. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "07fbdb4fa44c7ac73171d84716d8eaab7e71e8fc3a9a0e516ff959d3e1f73073",
+  "internalLinks": [
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 32700,
+  "redirectTarget": "Diamond",
+  "referencedMediaIds": [],
+  "revisionId": 91084,
+  "revisionTimestamp": "2020-03-16T14:30:25Z",
+  "route": "/wiki/gem-32700",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Gem",
+  "title": "Gem",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "2f3f962714bb12be70085b2fa51e422f0330e10802639e97be1e0e3358c08472"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cleanup_Crew.png",
+  "height": 414,
+  "immutableUrl": null,
+  "mediaId": "File:Cleanup Crew.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T18:08:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACleanup%20Crew.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 101403,
+  "sourceSha1": "add0f4abaf1ddd38fb74c8848e07dd80bd05f011",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/37/Cleanup_Crew.png/revision/latest?cb=20260509180816",
+  "title": "File:Cleanup Crew.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 503
+}

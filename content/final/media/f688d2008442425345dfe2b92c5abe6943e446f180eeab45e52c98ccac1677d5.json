@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Easter_Egg_Maker_Mastery_II.png",
+  "height": 226,
+  "immutableUrl": null,
+  "mediaId": "File:Easter Egg Maker Mastery II.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-12-15T18:26:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEaster%20Egg%20Maker%20Mastery%20II.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 106891,
+  "sourceSha1": "ef16dedc1f81918600c1d36649a7e041f2e059bd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Easter_Egg_Maker_Mastery_II.png/revision/latest?cb=20231215182630",
+  "title": "File:Easter Egg Maker Mastery II.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 350
+}

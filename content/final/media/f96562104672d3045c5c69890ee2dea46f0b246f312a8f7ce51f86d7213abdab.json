@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Bee_Winter.png",
+  "height": 610,
+  "immutableUrl": null,
+  "mediaId": "File:Honey Bee Winter.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-30T21:18:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHoney%20Bee%20Winter.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 488393,
+  "sourceSha1": "b91a1aee83357250adc848bc5a9ff98d32c5159b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Honey_Bee_Winter.png/revision/latest?cb=20260530211832",
+  "title": "File:Honey Bee Winter.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 506
+}

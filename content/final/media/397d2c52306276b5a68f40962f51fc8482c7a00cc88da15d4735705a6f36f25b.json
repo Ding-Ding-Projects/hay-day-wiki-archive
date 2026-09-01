@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Pink_Bunting.png",
+  "height": 214,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Pink Bunting.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-23T20:15:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Pink%20Bunting.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 40177,
+  "sourceSha1": "a7d1f09f6e924812225b44c5e907f19f549a4ed3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fe/Awning_Pink_Bunting.png/revision/latest?cb=20180723201518",
+  "title": "File:Awning Pink Bunting.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 226
+}

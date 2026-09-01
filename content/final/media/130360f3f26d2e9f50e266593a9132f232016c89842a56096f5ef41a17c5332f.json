@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rice_Ball.png",
+  "height": 527,
+  "immutableUrl": null,
+  "mediaId": "File:Rice Ball.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-09-07T21:32:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARice%20Ball.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 138704,
+  "sourceSha1": "3459a447292957065b73d0ac156365b8060d054a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Rice_Ball.png/revision/latest?cb=20210907213244",
+  "title": "File:Rice Ball.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 527
+}

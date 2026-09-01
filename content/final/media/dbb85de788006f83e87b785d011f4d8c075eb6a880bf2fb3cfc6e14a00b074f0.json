@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Purple_Wooden.png",
+  "height": 201,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Purple Wooden.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-13T16:02:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Purple%20Wooden.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46819,
+  "sourceSha1": "9bf664a3fcd7a5996fe5112abe9642fe9cb17ffb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f3/Awning_Purple_Wooden.png/revision/latest?cb=20180713160227",
+  "title": "File:Awning Purple Wooden.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 198
+}

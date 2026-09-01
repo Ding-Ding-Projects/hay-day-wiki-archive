@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lady_Statue_Decoration.png",
+  "height": 783,
+  "immutableUrl": null,
+  "mediaId": "File:Lady Statue Decoration.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-03T10:22:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALady%20Statue%20Decoration.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 244946,
+  "sourceSha1": "64bc7edd6a5e8173e0e0427b0e7493e5ce18bb0b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Lady_Statue_Decoration.png/revision/latest?cb=20210703102254",
+  "title": "File:Lady Statue Decoration.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 787
+}

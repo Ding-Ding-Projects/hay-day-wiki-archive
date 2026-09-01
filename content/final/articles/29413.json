@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_News?action=history",
+    "importedAt": "2026-09-01T03:03:00.078Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_News?oldid=97993",
+    "sourceRevisionId": 97993,
+    "sourceTitle": "Category:Image News",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_News?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/updates-31879\" class=\"mw-redirect\" title=\"Updates\" rel=\"noopener noreferrer\" target=\"_blank\">updates</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030234\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29413-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030234 and revision id 97993. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "fd5b24daac740af560d302262fb0205530fd45947b98de12eb8d87fa69d966d8",
+  "internalLinks": [
+    {
+      "route": "/wiki/updates-31879",
+      "title": "Updates"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 29413,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 97993,
+  "revisionTimestamp": "2021-06-28T12:05:47Z",
+  "route": "/wiki/category%2Fcategory-image-news-29413",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_News",
+  "title": "Category:Image News",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d8aca249150998649887f11dc6513a36d08300d2d6f82390367631a3e1f27f21"
+}

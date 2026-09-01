@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products?action=history",
+    "importedAt": "2026-09-01T02:41:47.591Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products?oldid=57793",
+    "sourceRevisionId": 57793,
+    "sourceTitle": "Category:Pie Oven Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/eb/Pie_Oven.png/revision/latest?cb=20250925180403\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pie Oven\" src=\"https://static.wikia.nocookie.net/hayday/images/e/eb/Pie_Oven.png/revision/latest/scale-to-width-down/180?cb=20250925180403\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APie_Oven.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/pie-oven-3554\" title=\"Pie Oven\" rel=\"noopener noreferrer\" target=\"_blank\">Pie Oven</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260820101345\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7560-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260820101345 and revision id 57793. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "ae4b3954d393e84a7442f43f76fc90beeaa822f224c5e78e9f4d3079f84140bc",
+  "internalLinks": [
+    {
+      "route": "/wiki/pie-oven-3554",
+      "title": "Pie Oven"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7560,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Pie Oven.png"
+  ],
+  "revisionId": 57793,
+  "revisionTimestamp": "2016-01-21T18:24:49Z",
+  "route": "/wiki/category%2Fcategory-pie-oven-products-7560",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products",
+  "title": "Category:Pie Oven Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "bb08102f93b94ba3ecc8a69040c3e9cf44f34f8fd1f884f099312a1cadeb890a"
+}

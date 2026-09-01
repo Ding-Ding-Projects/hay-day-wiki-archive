@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rainbow_Flag.png",
+  "height": 498,
+  "immutableUrl": null,
+  "mediaId": "File:Rainbow Flag.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-06-15T14:17:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARainbow%20Flag.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 173362,
+  "sourceSha1": "02060dbb62ef03f895335775ad7afa0f1c280c60",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b7/Rainbow_Flag.png/revision/latest?cb=20200615141753",
+  "title": "File:Rainbow Flag.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 316
+}

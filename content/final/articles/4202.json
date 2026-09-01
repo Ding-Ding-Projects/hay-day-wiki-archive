@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Production_Buildings?action=history",
+    "importedAt": "2026-09-01T02:37:12.318Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Production_Buildings?oldid=8624",
+    "sourceRevisionId": 8624,
+    "sourceTitle": "Category:Image Production Buildings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Production_Buildings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image Production Buildings\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831184252\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:4202-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831184252 and revision id 8624. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "fa7315c4cfe1987847f6fde2193dc40fce812584537d0a119487c3b65150cba2",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 4202,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 8624,
+  "revisionTimestamp": "2013-04-28T18:27:42Z",
+  "route": "/wiki/category%2Fcategory-image-production-buildings-4202",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Production_Buildings",
+  "title": "Category:Image Production Buildings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "7e53ab5811d30f1b08309a38bb4e58162caaa930b34570df4d9a0f6f42fc9f16"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sesame_Ice_Cream.png",
+  "height": 500,
+  "immutableUrl": null,
+  "mediaId": "File:Sesame Ice Cream.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T11:02:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASesame%20Ice%20Cream.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 204629,
+  "sourceSha1": "b392b651f4066777bbc985ffaf7d3ea393bdf525",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Sesame_Ice_Cream.png/revision/latest?cb=20240208110210",
+  "title": "File:Sesame Ice Cream.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 500
+}

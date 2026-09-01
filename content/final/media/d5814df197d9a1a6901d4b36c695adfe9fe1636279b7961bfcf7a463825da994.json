@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Painter_Gnome.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Painter Gnome.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-22T19:11:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APainter%20Gnome.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 260195,
+  "sourceSha1": "66d99fec0cd42e8a035f1a08837b2c52dfdef30e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/df/Painter_Gnome.png/revision/latest?cb=20181022191158",
+  "title": "File:Painter Gnome.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

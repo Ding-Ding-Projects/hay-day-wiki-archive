@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jack_O_Lantern.png",
+  "height": 394,
+  "immutableUrl": null,
+  "mediaId": "File:Jack O Lantern.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T09:51:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AJack%20O%20Lantern.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 117223,
+  "sourceSha1": "185b5173948683a7ab9494b4986ded91cf125e7b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Jack_O_Lantern.png/revision/latest?cb=20150715095149",
+  "title": "File:Jack O Lantern.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 394
+}

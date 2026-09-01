@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products?action=history",
+    "importedAt": "2026-09-01T02:56:17.338Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products?oldid=57773",
+    "sourceRevisionId": 57773,
+    "sourceTitle": "Category:Hot Dog Stand Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/b/b7/Hot_Dog_Stand.png/revision/latest?cb=20250925222258\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Hot Dog Stand\" src=\"https://static.wikia.nocookie.net/hayday/images/b/b7/Hot_Dog_Stand.png/revision/latest/scale-to-width-down/180?cb=20250925222258\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AHot_Dog_Stand.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/hot-dog-stand-19439\" title=\"Hot Dog Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Hot Dog Stand</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025419\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:19465-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025419 and revision id 57773. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "edc076e0eac2b6b4141a2863216be7d41f760b3923e826a90a147a46eceead9c",
+  "internalLinks": [
+    {
+      "route": "/wiki/hot-dog-stand-19439",
+      "title": "Hot Dog Stand"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 19465,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Hot Dog Stand.png"
+  ],
+  "revisionId": 57773,
+  "revisionTimestamp": "2016-01-21T18:08:45Z",
+  "route": "/wiki/category%2Fcategory-hot-dog-stand-products-19465",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products",
+  "title": "Category:Hot Dog Stand Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a3ebaa469dbf606ff55453e774c905d65d4363de33d405eae5f88a2c9baf37e6"
+}

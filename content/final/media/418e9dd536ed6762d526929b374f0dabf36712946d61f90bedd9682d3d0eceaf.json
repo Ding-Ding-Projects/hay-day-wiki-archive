@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Needs_Help.jpg",
+  "height": 403,
+  "immutableUrl": null,
+  "mediaId": "File:Farm Needs Help.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-06-19T15:04:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarm%20Needs%20Help.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 24536,
+  "sourceSha1": "60df41ffaa8ae5848416662b91fb13f99e50f072",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Farm_Needs_Help.jpg/revision/latest?cb=20150619150429",
+  "title": "File:Farm Needs Help.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 500
+}

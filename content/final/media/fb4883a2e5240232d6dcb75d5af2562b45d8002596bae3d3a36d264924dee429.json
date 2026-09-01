@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wok_Kitchen_Mastered.png",
+  "height": 439,
+  "immutableUrl": null,
+  "mediaId": "File:Wok Kitchen Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T22:15:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWok%20Kitchen%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 202048,
+  "sourceSha1": "f7609edf9daae97c4c31eb757b62e0358421feb9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2b/Wok_Kitchen_Mastered.png/revision/latest?cb=20250925221506",
+  "title": "File:Wok Kitchen Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 411
+}

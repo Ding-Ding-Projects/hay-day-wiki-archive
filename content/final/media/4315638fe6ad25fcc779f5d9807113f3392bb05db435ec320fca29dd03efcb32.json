@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Egghead_III.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Egghead III.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T19:26:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEgghead%20III.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 182669,
+  "sourceSha1": "1ef51c2a26fc6daead031118331625c3b81e3b8e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dc/Egghead_III.png/revision/latest?cb=20180430192655",
+  "title": "File:Egghead III.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1235
+}

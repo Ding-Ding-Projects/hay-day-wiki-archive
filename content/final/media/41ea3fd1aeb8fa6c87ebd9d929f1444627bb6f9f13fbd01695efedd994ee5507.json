@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Original_Wood.png",
+  "height": 303,
+  "immutableUrl": null,
+  "mediaId": "File:Crates Original Wood.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-23T19:47:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrates%20Original%20Wood.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 358026,
+  "sourceSha1": "41214e9aaaf3aec846009f1dd91aac5bbc633aef",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/05/Crates_Original_Wood.png/revision/latest?cb=20180423194744",
+  "title": "File:Crates Original Wood.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 295
+}

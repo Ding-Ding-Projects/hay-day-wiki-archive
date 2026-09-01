@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Breakfast_Bowl.png",
+  "height": 2248,
+  "immutableUrl": null,
+  "mediaId": "File:Breakfast Bowl.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T14:57:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABreakfast%20Bowl.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2272322,
+  "sourceSha1": "bc95219b0acf6440cb4b16d613fe296625836393",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Breakfast_Bowl.png/revision/latest?cb=20240411145742",
+  "title": "File:Breakfast Bowl.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2248
+}

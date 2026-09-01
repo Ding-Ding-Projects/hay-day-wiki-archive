@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Campfire_Kettle.png",
+  "height": 551,
+  "immutableUrl": null,
+  "mediaId": "File:Campfire Kettle.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-12-24T14:12:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACampfire%20Kettle.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 226806,
+  "sourceSha1": "49916b9bc67de1fbdbb72a4b1ce6a78c443f44e7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Campfire_Kettle.png/revision/latest?cb=20171224141218",
+  "title": "File:Campfire Kettle.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 551
+}

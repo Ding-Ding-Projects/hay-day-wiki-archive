@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dark_Hellebores.png",
+  "height": 411,
+  "immutableUrl": null,
+  "mediaId": "File:Dark Hellebores.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T18:31:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADark%20Hellebores.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 196589,
+  "sourceSha1": "470692b64c025206ba581e4300a3290c96cde1fd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9a/Dark_Hellebores.png/revision/latest?cb=20260509183103",
+  "title": "File:Dark Hellebores.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 509
+}

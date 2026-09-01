@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Admit_One.png",
+  "height": 216,
+  "immutableUrl": null,
+  "mediaId": "File:Admit One.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-12-30T14:29:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAdmit%20One.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 54007,
+  "sourceSha1": "2650ce0f44d6f471a6b9d43c77671984c3b0c71c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5e/Admit_One.png/revision/latest?cb=20141230142909",
+  "title": "File:Admit One.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Retriever_Sleeping.png",
+  "height": 708,
+  "immutableUrl": null,
+  "mediaId": "File:Retriever Sleeping.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-12T15:02:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARetriever%20Sleeping.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 194670,
+  "sourceSha1": "73c9b59e1e039ac86f6aec21b37c94b2ec163a05",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Retriever_Sleeping.png/revision/latest?cb=20150912150207",
+  "title": "File:Retriever Sleeping.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 708
+}

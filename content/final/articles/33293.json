@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Blue_Voucher?action=history",
+    "importedAt": "2026-09-01T03:05:20.949Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Blue_Voucher?oldid=92703",
+    "sourceRevisionId": 92703,
+    "sourceTitle": "Blue Voucher",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Blue_Voucher?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">Voucher</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030513\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33293-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030513 and revision id 92703. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "e4e9f06b831e70d9d23585be89c416e163d456a21f66ca329dae57cb8594e234",
+  "internalLinks": [
+    {
+      "route": "/wiki/voucher-3671",
+      "title": "Voucher"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33293,
+  "redirectTarget": "Voucher",
+  "referencedMediaIds": [],
+  "revisionId": 92703,
+  "revisionTimestamp": "2020-04-04T21:01:12Z",
+  "route": "/wiki/blue-voucher-33293",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Blue_Voucher",
+  "title": "Blue Voucher",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6f3c3d18a8a3186769e99594252f4d9a3de7a934ec4caa69de5214034c8461e7"
+}

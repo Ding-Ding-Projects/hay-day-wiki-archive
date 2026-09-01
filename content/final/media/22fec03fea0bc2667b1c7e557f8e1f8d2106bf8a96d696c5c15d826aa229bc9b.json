@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lovely_music_box.png",
+  "height": 581,
+  "immutableUrl": null,
+  "mediaId": "File:Lovely music box.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-20T01:16:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALovely%20music%20box.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 228379,
+  "sourceSha1": "0a78e7e95b0295aa9620ab72b02bb374c8f596d7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Lovely_music_box.png/revision/latest?cb=20260520011603",
+  "title": "File:Lovely music box.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 597
+}

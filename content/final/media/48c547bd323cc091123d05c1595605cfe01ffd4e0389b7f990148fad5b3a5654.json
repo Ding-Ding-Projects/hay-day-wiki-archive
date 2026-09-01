@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fish_Soup.png",
+  "height": 2436,
+  "immutableUrl": null,
+  "mediaId": "File:Fish Soup.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-09T02:20:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFish%20Soup.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4159854,
+  "sourceSha1": "fe1248d909c35b803ecb8f1e59c82c20d006f64e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Fish_Soup.png/revision/latest?cb=20240209022047",
+  "title": "File:Fish Soup.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2436
+}

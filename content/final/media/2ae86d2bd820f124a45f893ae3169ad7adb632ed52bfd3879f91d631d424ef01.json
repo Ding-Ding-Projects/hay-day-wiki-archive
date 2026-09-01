@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mint_Tea.png",
+  "height": 752,
+  "immutableUrl": null,
+  "mediaId": "File:Mint Tea.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-12T11:16:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMint%20Tea.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 501582,
+  "sourceSha1": "51f9777000a22cdcdb1e297cd553b77860316bad",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Tea.png/revision/latest?cb=20240212111658",
+  "title": "File:Mint Tea.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 752
+}

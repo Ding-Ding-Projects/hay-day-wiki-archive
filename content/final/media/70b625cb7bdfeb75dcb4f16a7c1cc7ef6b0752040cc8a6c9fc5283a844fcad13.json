@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cemetery_Lamp.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Cemetery Lamp.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-23T23:50:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACemetery%20Lamp.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 156383,
+  "sourceSha1": "94965ad6031aa7d8fb581ac45bafe4dbc67f6a79",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/Cemetery_Lamp.png/revision/latest?cb=20191023235022",
+  "title": "File:Cemetery Lamp.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

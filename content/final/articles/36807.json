@@ -1,0 +1,44 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products?action=history",
+    "importedAt": "2026-09-01T03:11:05.034Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products?oldid=110387",
+    "sourceRevisionId": 110387,
+    "sourceTitle": "Category:Doner Kebab Stand Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/e0/D%C3%B6ner_Kebab_Stand.png/revision/latest?cb=20260601232533\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Döner Kebab Stand\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e0/D%C3%B6ner_Kebab_Stand.png/revision/latest/scale-to-width-down/180?cb=20260601232533\" loading=\"lazy\" width=\"180\" height=\"200\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AD%C3%B6ner_Kebab_Stand.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/doner-kebab-stand-36894\" class=\"mw-redirect\" title=\"Doner Kebab Stand\" rel=\"noopener noreferrer\" target=\"_blank\">Doner Kebab Stand</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031059\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36807-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031059 and revision id 110387. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "0b6e4f42be4999c3d7f2154294e8eca14a6ae34e0a243b7bdb5ac09918426e38",
+  "internalLinks": [
+    {
+      "route": "/wiki/doner-kebab-stand-36894",
+      "title": "Doner Kebab Stand"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36807,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Doner Kebab Stand.png",
+    "File:Döner Kebab Stand.png"
+  ],
+  "revisionId": 110387,
+  "revisionTimestamp": "2026-06-05T20:13:44Z",
+  "route": "/wiki/category%2Fcategory-doner-kebab-stand-products-36807",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products",
+  "title": "Category:Doner Kebab Stand Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e21f542595a6aadb4f2dbc7ac1ef1a13aa08e3762d1055b513df2bead11e4bbd"
+}

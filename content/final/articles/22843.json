@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Derby?action=history",
+    "importedAt": "2026-09-01T02:56:37.648Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Derby?oldid=56745",
+    "sourceRevisionId": 56745,
+    "sourceTitle": "Category:Derby",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Derby?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Pages related to the <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derby</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831115234\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:22843-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831115234 and revision id 56745. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "3a5ca8ae69bfc208582d765cef4c805c7839dd95f5c495203911b8011ba8beaf",
+  "internalLinks": [
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 22843,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 56745,
+  "revisionTimestamp": "2015-12-05T14:35:15Z",
+  "route": "/wiki/category%2Fcategory-derby-22843",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Derby",
+  "title": "Category:Derby",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "edfa2036ce6facddc82e5102871bded264abcc4a69446913327444358ea2ac70"
+}

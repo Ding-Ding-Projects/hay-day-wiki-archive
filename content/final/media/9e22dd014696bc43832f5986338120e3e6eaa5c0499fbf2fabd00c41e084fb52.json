@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheels_Two-Tone_Teal.png",
+  "height": 260,
+  "immutableUrl": null,
+  "mediaId": "File:Wheels Two-Tone Teal.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-21T18:15:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheels%20Two-Tone%20Teal.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 240668,
+  "sourceSha1": "a49d8757e1ba6645ffcfef773273082b32510404",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Wheels_Two-Tone_Teal.png/revision/latest?cb=20180521181544",
+  "title": "File:Wheels Two-Tone Teal.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 308
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Tree_Harvest_2.png",
+  "height": 152,
+  "immutableUrl": null,
+  "mediaId": "File:Cherry Tree Harvest 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T17:35:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACherry%20Tree%20Harvest%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 29265,
+  "sourceSha1": "9f811bd0ae390bfb7cacaf7fbe4f01146689bc0b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Cherry_Tree_Harvest_2.png/revision/latest?cb=20191028173519",
+  "title": "File:Cherry Tree Harvest 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 152
+}

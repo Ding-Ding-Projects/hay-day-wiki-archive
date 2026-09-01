@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Olive_Tree_Harvest_3.png",
+  "height": 210,
+  "immutableUrl": null,
+  "mediaId": "File:Olive Tree Harvest 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-17T15:39:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOlive%20Tree%20Harvest%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 54892,
+  "sourceSha1": "0c3194ba423c225e6a4255fc86ab8bc77a4a766f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Olive_Tree_Harvest_3.png/revision/latest?cb=20180217153949",
+  "title": "File:Olive Tree Harvest 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 210
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Small_Mystery_Package.png",
+  "height": 890,
+  "immutableUrl": null,
+  "mediaId": "File:Small Mystery Package.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T10:07:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASmall%20Mystery%20Package.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 315471,
+  "sourceSha1": "3e78bbeb12ca1dbab7b9088fd8a7aad6771e5e7b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c5/Small_Mystery_Package.png/revision/latest?cb=20150714100708",
+  "title": "File:Small Mystery Package.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 890
+}

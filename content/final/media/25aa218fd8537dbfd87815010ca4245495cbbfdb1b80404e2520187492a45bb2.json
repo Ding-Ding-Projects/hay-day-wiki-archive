@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Anatolian_Donkey.png",
+  "height": 604,
+  "immutableUrl": null,
+  "mediaId": "File:Anatolian Donkey.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T09:34:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAnatolian%20Donkey.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 150852,
+  "sourceSha1": "d21560d26baa08ba1a97e13b774123a7a404a8be",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7a/Anatolian_Donkey.png/revision/latest?cb=20150713093438",
+  "title": "File:Anatolian Donkey.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 604
+}

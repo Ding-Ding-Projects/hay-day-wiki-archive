@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gramophone.png",
+  "height": 491,
+  "immutableUrl": null,
+  "mediaId": "File:Gramophone.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:07:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGramophone.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 151470,
+  "sourceSha1": "8217d494433518e5e492455488c1f8618c5c8b4e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0e/Gramophone.png/revision/latest?cb=20180207190740",
+  "title": "File:Gramophone.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 491
+}

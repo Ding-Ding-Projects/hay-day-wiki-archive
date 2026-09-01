@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_16.png",
+  "height": 530,
+  "immutableUrl": null,
+  "mediaId": "File:Level 16.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-19T08:35:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2016.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 932319,
+  "sourceSha1": "57b044da646d4a35da7293c923600f1e8b50ca43",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Level_16.png/revision/latest?cb=20151119083549",
+  "title": "File:Level 16.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1230
+}

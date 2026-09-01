@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bed_and_Breakfast.png",
+  "height": 2136,
+  "immutableUrl": null,
+  "mediaId": "File:Bed and Breakfast.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T11:38:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABed%20and%20Breakfast.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6789527,
+  "sourceSha1": "f78b9cfac4c716643145384141dc3d0ca4936ece",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Bed_and_Breakfast.png/revision/latest?cb=20240219113856",
+  "title": "File:Bed and Breakfast.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2136
+}

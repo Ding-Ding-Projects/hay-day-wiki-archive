@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daffodils.png",
+  "height": 765,
+  "immutableUrl": null,
+  "mediaId": "File:Daffodils.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:20:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADaffodils.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 672359,
+  "sourceSha1": "5a604834e19ff17d8cd9ae3cb26f32200f36235f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ea/Daffodils.png/revision/latest?cb=20180207192024",
+  "title": "File:Daffodils.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 765
+}

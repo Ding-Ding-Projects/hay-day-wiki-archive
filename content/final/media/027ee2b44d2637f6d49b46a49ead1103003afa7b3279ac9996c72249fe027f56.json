@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Saw.png",
+  "height": 160,
+  "immutableUrl": null,
+  "mediaId": "File:Saw.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T13:02:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASaw.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 18434,
+  "sourceSha1": "249b1661aac0d5c743132b5955060f423ac94315",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0a/Saw.png/revision/latest?cb=20191028130211",
+  "title": "File:Saw.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 160
+}

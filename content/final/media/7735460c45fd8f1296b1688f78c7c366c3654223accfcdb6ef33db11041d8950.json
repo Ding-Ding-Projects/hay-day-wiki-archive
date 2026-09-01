@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Trout.png",
+  "height": 734,
+  "immutableUrl": null,
+  "mediaId": "File:Golden Trout.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-11T13:23:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGolden%20Trout.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 237474,
+  "sourceSha1": "452f99e7df0edb348b3deb156ace403b64f3b52f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6b/Golden_Trout.png/revision/latest?cb=20150711132306",
+  "title": "File:Golden Trout.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1054
+}

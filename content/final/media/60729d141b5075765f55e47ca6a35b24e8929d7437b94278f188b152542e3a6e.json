@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheel_of_Fortune_Truck.png",
+  "height": 718,
+  "immutableUrl": null,
+  "mediaId": "File:Wheel of Fortune Truck.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T12:25:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheel%20of%20Fortune%20Truck.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 270645,
+  "sourceSha1": "c2f06deeaa4b82213d0e18433e7efdb7616140fe",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Wheel_of_Fortune_Truck.png/revision/latest?cb=20150713122506",
+  "title": "File:Wheel of Fortune Truck.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 718
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Site_Administration?action=history",
+    "importedAt": "2026-09-01T03:00:27.106Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Site_Administration?oldid=95424",
+    "sourceRevisionId": 95424,
+    "sourceTitle": "Category:Site Administration",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Site_Administration?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Content regarding the administration of this site.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030016\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25706-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030016 and revision id 95424. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "eaa8f0ef3467063749e3bb0c6b9a8e5c4e9726bf0f558b1c425a6f9b7cdefef1",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 25706,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 95424,
+  "revisionTimestamp": "2020-08-18T01:44:35Z",
+  "route": "/wiki/category%2Fcategory-site-administration-25706",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Site_Administration",
+  "title": "Category:Site Administration",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5478b5b97bd9ce1c997d1b79c16c2a5f2fbe32960f474c3f3f1fca6450a2dc3f"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Two-Tone_Purple.png",
+  "height": 256,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Two-Tone Purple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-11T15:47:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Two-Tone%20Purple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 44974,
+  "sourceSha1": "7b366d9623462d8cf3480ec059542791a102c423",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d6/Walls_Two-Tone_Purple.png/revision/latest?cb=20180611154713",
+  "title": "File:Walls Two-Tone Purple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 280
+}

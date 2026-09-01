@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:BBQ_Grill_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:BBQ Grill Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:30:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABBQ%20Grill%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 47297,
+  "sourceSha1": "344d1289b6eafda9e4feeea6e9eb5d98b28619ed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/BBQ_Grill_Mastery.png/revision/latest?cb=20180501173043",
+  "title": "File:BBQ Grill Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

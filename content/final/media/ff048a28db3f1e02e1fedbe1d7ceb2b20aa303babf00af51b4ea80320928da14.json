@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:White_Grape_Hyacinth.png",
+  "height": 427,
+  "immutableUrl": null,
+  "mediaId": "File:White Grape Hyacinth.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T18:31:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWhite%20Grape%20Hyacinth.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 83522,
+  "sourceSha1": "83bb62f475cf100c824ebf6d3d1dfbc553a805e8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/White_Grape_Hyacinth.png/revision/latest?cb=20260509183149",
+  "title": "File:White Grape Hyacinth.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 513
+}

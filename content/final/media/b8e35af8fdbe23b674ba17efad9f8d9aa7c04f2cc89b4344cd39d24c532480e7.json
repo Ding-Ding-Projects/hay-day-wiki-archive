@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Girly_Bike.png",
+  "height": 608,
+  "immutableUrl": null,
+  "mediaId": "File:Girly Bike.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:52:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGirly%20Bike.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 298412,
+  "sourceSha1": "566d85e45ac30e062dd6727cc4e0e9959ad50b67",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Girly_Bike.png/revision/latest?cb=20150715105204",
+  "title": "File:Girly Bike.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 608
+}

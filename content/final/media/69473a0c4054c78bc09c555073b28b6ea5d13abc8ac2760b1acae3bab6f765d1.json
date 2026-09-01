@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:LVL108v2.jpg",
+  "height": 1118,
+  "immutableUrl": null,
+  "mediaId": "File:LVL108v2.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-01-08T03:22:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALVL108v2.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 330814,
+  "sourceSha1": "0131e72f1f1da02af543f91cd68fe4dd66bbcec7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/LVL108v2.jpg/revision/latest?cb=20250108032226",
+  "title": "File:LVL108v2.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1535
+}

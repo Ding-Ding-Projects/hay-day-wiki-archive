@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chick_Nest.png",
+  "height": 765,
+  "immutableUrl": null,
+  "mediaId": "File:Chick Nest.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T17:40:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChick%20Nest.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 387258,
+  "sourceSha1": "da61f41e062e6038c9b82901643ca5b90293d50d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Chick_Nest.png/revision/latest?cb=20180207174052",
+  "title": "File:Chick Nest.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 765
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hot_Dog_Stand_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Hot Dog Stand Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:36:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHot%20Dog%20Stand%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 44577,
+  "sourceSha1": "367f492908650ee4b1c5c49da62623ac011deeab",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a0/Hot_Dog_Stand_Mastery.png/revision/latest?cb=20180501173651",
+  "title": "File:Hot Dog Stand Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

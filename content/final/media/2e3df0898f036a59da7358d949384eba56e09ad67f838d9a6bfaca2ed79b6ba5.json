@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Moose_Sheep_Decoration.png",
+  "height": 714,
+  "immutableUrl": null,
+  "mediaId": "File:Moose Sheep Decoration.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-03T10:24:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMoose%20Sheep%20Decoration.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 266690,
+  "sourceSha1": "4bb49c0ae9f008299c1c49a8261a5d94d2ea32ed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/Moose_Sheep_Decoration.png/revision/latest?cb=20210703102413",
+  "title": "File:Moose Sheep Decoration.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 620
+}

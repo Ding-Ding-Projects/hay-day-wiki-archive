@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products?action=history",
+    "importedAt": "2026-09-01T03:07:00.128Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products?oldid=98643",
+    "sourceRevisionId": 98643,
+    "sourceTitle": "Category:Platinum Ore Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/b/b0/Platinum_Ore.png/revision/latest?cb=20260803130324\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Platinum Ore\" src=\"https://static.wikia.nocookie.net/hayday/images/b/b0/Platinum_Ore.png/revision/latest/scale-to-width-down/180?cb=20260803130324\" loading=\"lazy\" width=\"180\" height=\"105\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APlatinum_Ore.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/platinum-ore-2564\" title=\"Platinum Ore\" rel=\"noopener noreferrer\" target=\"_blank\">Platinum Ore</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030658\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35142-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030658 and revision id 98643. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "dc736314776b87b8add8ca3c984e539882e16289677e79e5e4bf7846bd5c297f",
+  "internalLinks": [
+    {
+      "route": "/wiki/platinum-ore-2564",
+      "title": "Platinum Ore"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35142,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Platinum Ore.png"
+  ],
+  "revisionId": 98643,
+  "revisionTimestamp": "2021-09-06T22:43:23Z",
+  "route": "/wiki/category%2Fcategory-platinum-ore-products-35142",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products",
+  "title": "Category:Platinum Ore Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "41cbee93fbefabec8800370e7d014eef88707e913a78987cfe7fa3cf9c72f526"
+}

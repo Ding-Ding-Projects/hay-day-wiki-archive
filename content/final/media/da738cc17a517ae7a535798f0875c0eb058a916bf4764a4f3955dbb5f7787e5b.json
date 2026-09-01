@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tilly.png",
+  "height": 558,
+  "immutableUrl": null,
+  "mediaId": "File:Tilly.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T16:29:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATilly.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 160968,
+  "sourceSha1": "3a66e64557b4cd213d0d37857e082047fc9ea06f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2c/Tilly.png/revision/latest?cb=20191028162920",
+  "title": "File:Tilly.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 558
+}

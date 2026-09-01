@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F?action=history",
+    "importedAt": "2026-09-01T03:04:37.930Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F?oldid=95966",
+    "sourceRevisionId": 95966,
+    "sourceTitle": "Category:Did you know?",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Valley was the biggest feature ever added into the game after the May 2014 Town Update.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030432\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:32367-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030432 and revision id 95966. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "2ee43e4bc2af7182902c74ac51be90e200b94f735a624674ab8fd5f8267d1cce",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 32367,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 95966,
+  "revisionTimestamp": "2020-09-21T19:40:12Z",
+  "route": "/wiki/category%2Fcategory-did-you-know-32367",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F",
+  "title": "Category:Did you know?",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "691d3f94fbbbe636331969aba381b1569c0e9235b425cd36f054642f293079e8"
+}

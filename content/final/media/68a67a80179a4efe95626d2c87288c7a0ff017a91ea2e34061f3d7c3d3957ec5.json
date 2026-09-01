@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Steaming.png",
+  "height": 812,
+  "immutableUrl": null,
+  "mediaId": "File:Pig Steaming.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-14T21:17:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APig%20Steaming.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 346319,
+  "sourceSha1": "ebcb1d7b0eab3b8b453ac9b557fb8a1b16c92441",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Pig_Steaming.png/revision/latest?cb=20260514211727",
+  "title": "File:Pig Steaming.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 582
+}

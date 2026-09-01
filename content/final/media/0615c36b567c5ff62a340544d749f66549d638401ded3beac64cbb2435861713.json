@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pebble_Road.png",
+  "height": 297,
+  "immutableUrl": null,
+  "mediaId": "File:Pebble Road.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T00:03:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APebble%20Road.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 56209,
+  "sourceSha1": "4a4f858380a98d0a5abbed15e00d8d629c4f9d44",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Pebble_Road.png/revision/latest?cb=20150715000338",
+  "title": "File:Pebble Road.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 297
+}

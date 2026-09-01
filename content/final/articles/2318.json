@@ -1,0 +1,248 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Cheese?action=history",
+    "importedAt": "2026-09-01T02:28:41.028Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Cheese?oldid=110356",
+    "sourceRevisionId": 110356,
+    "sourceTitle": "Cheese",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Making_cheese",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Making cheese</b>",
+      "text": "<b>Making cheese</b>"
+    },
+    {
+      "anchor": "Selling_cheese",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling cheese</b>",
+      "text": "<b>Selling cheese</b>"
+    },
+    {
+      "anchor": "Using_cheese",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using cheese</b>",
+      "text": "<b>Using cheese</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Cheese?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" title=\"Cheese\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Cheese</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Product</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 12</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 122</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  1 h</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 15</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Dairy</span><span title=\"Dairy\"><span class=\"mw-default-size\"><a href=\"/wiki/dairy-3547\" title=\"Dairy\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Dairy\" loading=\"lazy\" width=\"63\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 34</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 4</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\"><a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">★★★</a> </h3>\n\t\n\t<div class=\"pi-data-value pi-font\">51 min</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Cheese</b> is a <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">product</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 12.\n</p><p>It is used as an ingredient in many recipes.\n</p><p>Like all <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, it is stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Making cheese</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/dairy-3547\" title=\"Dairy\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Dairy\" loading=\"lazy\" width=\"150\" height=\"119\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Dairy</figcaption></figure>\n<p>Cheese is made in the <a href=\"/wiki/dairy-3547\" title=\"Dairy\" rel=\"noopener noreferrer\" target=\"_blank\">Dairy</a>.\n</p><p>To make cheese, players need the following ingredients, in the specified quantities:\n</p>\n<table>\n\n<tbody><tr>\n<td><span><a href=\"/wiki/milk-2141\" title=\"Milk\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Milk\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b>x3</b>\n</td></tr></tbody></table>\n<p>It takes 1 hour to make one unit, and 51 minutes in a fully <a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">mastered</a> Dairy. Each unit gives players 15 <span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling cheese</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside Shop</figcaption></figure>\n<ul><li>Cheese can be bought or sold for a maximum price of 1,224 <span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li>\n<li>Buying the ingredients required to make cheese costs 96&#160;<span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using cheese</b></span></h3>\n<p>Cheese is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/cheesecake-2325\" title=\"Cheesecake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheesecake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/spicy-bean-doner-36897\" title=\"Spicy bean doner\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Spicy bean doner\" loading=\"lazy\" width=\"75\" height=\"51\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/pizza-2252\" title=\"Pizza\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pizza\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cheesecake-2325\" title=\"Cheesecake\" rel=\"noopener noreferrer\" target=\"_blank\">Cheesecake</a></b>\n</td>\n<td><b><a href=\"/wiki/spicy-bean-doner-36897\" class=\"mw-redirect\" title=\"Spicy Bean Doner\" rel=\"noopener noreferrer\" target=\"_blank\">Spicy Bean Doner</a></b>\n</td>\n<td><b><a href=\"/wiki/pizza-2252\" title=\"Pizza\" rel=\"noopener noreferrer\" target=\"_blank\">Pizza</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 24\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 32\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 33\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/baked-potato-2705\" title=\"Baked potato\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Baked potato\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/casserole-2695\" title=\"Casserole\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Casserole\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/spicy-pizza-2306\" title=\"Spicy pizza\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Spicy pizza\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/baked-potato-2705\" title=\"Baked Potato\" rel=\"noopener noreferrer\" target=\"_blank\">Baked Potato</a></b>\n</td>\n<td><b><a href=\"/wiki/casserole-2695\" title=\"Casserole\" rel=\"noopener noreferrer\" target=\"_blank\">Casserole</a></b>\n</td>\n<td><b><a href=\"/wiki/spicy-pizza-2306\" title=\"Spicy Pizza\" rel=\"noopener noreferrer\" target=\"_blank\">Spicy Pizza</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 35\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 36\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 37\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/frutti-di-mare-pizza-8450\" title=\"Frutti di mare pizza\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Frutti di mare pizza\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/asparagus-quiche-35814\" title=\"Asparagus quiche\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Asparagus quiche\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/onion-soup-24922\" title=\"Onion soup\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Onion soup\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/frutti-di-mare-pizza-8450\" title=\"Frutti di Mare Pizza\" rel=\"noopener noreferrer\" target=\"_blank\">Frutti di Mare Pizza</a></b>\n</td>\n<td><b><a href=\"/wiki/asparagus-quiche-35814\" title=\"Asparagus Quiche\" rel=\"noopener noreferrer\" target=\"_blank\">Asparagus Quiche</a></b>\n</td>\n<td><b><a href=\"/wiki/onion-soup-24922\" title=\"Onion Soup\" rel=\"noopener noreferrer\" target=\"_blank\">Onion Soup</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 45\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 49\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 72\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/veggie-lasagna-20284\" title=\"Veggie lasagna\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Veggie lasagna\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/cheese-omelet-35817\" title=\"Cheese omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/stuffed-peppers-34682\" title=\"Stuffed peppers\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Stuffed peppers\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/veggie-lasagna-20284\" title=\"Veggie Lasagna\" rel=\"noopener noreferrer\" target=\"_blank\">Veggie Lasagna</a></b>\n</td>\n<td><b><a href=\"/wiki/cheese-omelet-35817\" title=\"Cheese Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Cheese Omelet</a></b>\n</td>\n<td><b><a href=\"/wiki/stuffed-peppers-34682\" title=\"Stuffed Peppers\" rel=\"noopener noreferrer\" target=\"_blank\">Stuffed Peppers</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 74\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 79\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 80\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/quesadilla-24985\" title=\"Quesadilla\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Quesadilla\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/pasta-carbonara-28427\" title=\"Pasta carbonara\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pasta carbonara\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/broccoli-pasta-30755\" title=\"Broccoli pasta\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Broccoli pasta\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/quesadilla-24985\" title=\"Quesadilla\" rel=\"noopener noreferrer\" target=\"_blank\">Quesadilla</a></b>\n</td>\n<td><b><a href=\"/wiki/pasta-carbonara-28427\" title=\"Pasta Carbonara\" rel=\"noopener noreferrer\" target=\"_blank\">Pasta Carbonara</a></b>\n</td>\n<td><b><a href=\"/wiki/broccoli-pasta-30755\" title=\"Broccoli Pasta\" rel=\"noopener noreferrer\" target=\"_blank\">Broccoli Pasta</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 82\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 83\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 83\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/onion-melt-29367\" title=\"Onion melt\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Onion melt\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/nachos-24986\" title=\"Nachos\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Nachos\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/cheese-fondue-32987\" title=\"Cheese fondue\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese fondue\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/onion-melt-29367\" title=\"Onion Melt\" rel=\"noopener noreferrer\" target=\"_blank\">Onion Melt</a></b>\n</td>\n<td><b><a href=\"/wiki/nachos-24986\" title=\"Nachos\" rel=\"noopener noreferrer\" target=\"_blank\">Nachos</a></b>\n</td>\n<td><b><a href=\"/wiki/cheese-fondue-32987\" title=\"Cheese Fondue\" rel=\"noopener noreferrer\" target=\"_blank\">Cheese Fondue</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 84\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 87\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 91\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/chili-poppers-33969\" title=\"Chili poppers\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chili poppers\" loading=\"lazy\" width=\"75\" height=\"40\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/eggplant-parmesan-30752\" title=\"Eggplant parmesan\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Eggplant parmesan\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/orange-salad-35794\" title=\"Orange salad\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Orange salad\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chili-poppers-33969\" title=\"Chili Poppers\" rel=\"noopener noreferrer\" target=\"_blank\">Chili Poppers</a></b>\n</td>\n<td><b><a href=\"/wiki/eggplant-parmesan-30752\" title=\"Eggplant Parmesan\" rel=\"noopener noreferrer\" target=\"_blank\">Eggplant Parmesan</a></b>\n</td>\n<td><b><a href=\"/wiki/orange-salad-35794\" title=\"Orange Salad\" rel=\"noopener noreferrer\" target=\"_blank\">Orange Salad</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Cheese.png/revision/latest?cb=20240205163241\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 98\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 99\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 117\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/boat-2675\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for 1 to 5 cheese per crate, up to a total of 16 per boat.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Cheese can hardly ever be found in the <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a></li>\n<li>Recipes ask for one to two pieces of cheese, so you need to constantly produce some.</li>\n<li>Due to its longer production time, you may want to make cheese when you're not playing.</li></ul>\n<hr>\n<table class=\"navbox mw-collapsible mw-collapsed\">\n\n<tbody><tr class=\"navtitle\">\n<td><a href=\"/wiki/category%2Fcategory-dairy-products-7563\" title=\"Category:Dairy Products\" rel=\"noopener noreferrer\" target=\"_blank\">Dairy Products</a>\n</td></tr>\n<tr>\n<td>\n<p><span><a href=\"/wiki/butter-2316\" title=\"Butter\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Butter\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/cheese-2318\" title=\"Cheese\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/cream-2315\" title=\"Cream\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cream\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/goat-cheese-2297\" title=\"Goat Cheese\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Goat Cheese\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr class=\"navtitle\">\n<td><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Products</a>\n</td></tr></tbody></table>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831234915\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.106 seconds\nReal time usage: 0.139 seconds\nPreprocessor visited node count: 781/1000000\nPost‐expand include size: 15642/2097152 bytes\nTemplate argument size: 470/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.011/7.000 seconds\nLua memory usage: 1157570/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   64.067      1 -total\n 69.20%   44.337      1 Template:Infobox\n 30.57%   19.585     10 Template:Infoicon\n 14.51%    9.294      1 Template:Navigation\n  8.29%    5.313      1 Template:DairyMenu\n  7.22%    4.623      1 Template:Item_Usage\n  2.40%    1.537      1 Template:Languages\n  1.72%    1.102      4 Template:Clr\n  1.68%    1.075      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2318-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831234915 and revision id 110356. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "7d67b72593f98b167634781c9d18f9244be4a00b2d9a7bd70f7365ca1aa02324",
+  "internalLinks": [
+    {
+      "route": "/wiki/asparagus-quiche-35814",
+      "title": "Asparagus Quiche"
+    },
+    {
+      "route": "/wiki/baked-potato-2705",
+      "title": "Baked Potato"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/broccoli-pasta-30755",
+      "title": "Broccoli Pasta"
+    },
+    {
+      "route": "/wiki/butter-2316",
+      "title": "Butter"
+    },
+    {
+      "route": "/wiki/casserole-2695",
+      "title": "Casserole"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-dairy-products-7563",
+      "title": "Category:Dairy Products"
+    },
+    {
+      "route": "/wiki/cheese-2318",
+      "title": "Cheese"
+    },
+    {
+      "route": "/wiki/cheese-fondue-32987",
+      "title": "Cheese Fondue"
+    },
+    {
+      "route": "/wiki/cheese-omelet-35817",
+      "title": "Cheese Omelet"
+    },
+    {
+      "route": "/wiki/cheesecake-2325",
+      "title": "Cheesecake"
+    },
+    {
+      "route": "/wiki/chili-poppers-33969",
+      "title": "Chili Poppers"
+    },
+    {
+      "route": "/wiki/cream-2315",
+      "title": "Cream"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/dairy-3547",
+      "title": "Dairy"
+    },
+    {
+      "route": "/wiki/eggplant-parmesan-30752",
+      "title": "Eggplant Parmesan"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/frutti-di-mare-pizza-8450",
+      "title": "Frutti di Mare Pizza"
+    },
+    {
+      "route": "/wiki/goat-cheese-2297",
+      "title": "Goat Cheese"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/milk-2141",
+      "title": "Milk"
+    },
+    {
+      "route": "/wiki/nachos-24986",
+      "title": "Nachos"
+    },
+    {
+      "route": "/wiki/onion-melt-29367",
+      "title": "Onion Melt"
+    },
+    {
+      "route": "/wiki/onion-soup-24922",
+      "title": "Onion Soup"
+    },
+    {
+      "route": "/wiki/orange-salad-35794",
+      "title": "Orange Salad"
+    },
+    {
+      "route": "/wiki/pasta-carbonara-28427",
+      "title": "Pasta Carbonara"
+    },
+    {
+      "route": "/wiki/pizza-2252",
+      "title": "Pizza"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/quesadilla-24985",
+      "title": "Quesadilla"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/spicy-bean-doner-36897",
+      "title": "Spicy Bean Doner"
+    },
+    {
+      "route": "/wiki/spicy-pizza-2306",
+      "title": "Spicy Pizza"
+    },
+    {
+      "route": "/wiki/stuffed-peppers-34682",
+      "title": "Stuffed Peppers"
+    },
+    {
+      "route": "/wiki/veggie-lasagna-20284",
+      "title": "Veggie Lasagna"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2318,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Asparagus Quiche.png",
+    "File:Baked Potato.png",
+    "File:Broccoli Pasta.png",
+    "File:Butter.png",
+    "File:Casserole.png",
+    "File:Cheese Fondue.png",
+    "File:Cheese Omelet.png",
+    "File:Cheese.png",
+    "File:Cheesecake.png",
+    "File:Chili Poppers.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Cream.png",
+    "File:Dairy.png",
+    "File:Diamond.png",
+    "File:Eggplant Parmesan.png",
+    "File:Experience.png",
+    "File:Frutti di Mare Pizza.png",
+    "File:Goat Cheese.png",
+    "File:Milk.png",
+    "File:Nachos.png",
+    "File:Onion Melt.png",
+    "File:Onion Soup.png",
+    "File:Orange Salad.png",
+    "File:Pasta Carbonara.png",
+    "File:Pizza.png",
+    "File:Quesadilla.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Spicy Bean Doner.png",
+    "File:Spicy Bean Döner.png",
+    "File:Spicy Pizza.png",
+    "File:Stuffed Peppers.png",
+    "File:Veggie Lasagna.png"
+  ],
+  "revisionId": 110356,
+  "revisionTimestamp": "2026-06-03T16:57:13Z",
+  "route": "/wiki/cheese-2318",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Cheese",
+  "title": "Cheese",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "74cf72d0149039044a14344a3685a580e63dbd3bc9f4d748682dc799150a95e1"
+}

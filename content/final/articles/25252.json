@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Ship?action=history",
+    "importedAt": "2026-09-01T03:00:16.744Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Ship?oldid=63718",
+    "sourceRevisionId": 63718,
+    "sourceTitle": "Ship",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Ship?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901025813\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25252-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025813 and revision id 63718. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "2a420d8e5bef40d59933bcc474e42f537544549e05717faedb77820971538d43",
+  "internalLinks": [
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 25252,
+  "redirectTarget": "Boat",
+  "referencedMediaIds": [],
+  "revisionId": 63718,
+  "revisionTimestamp": "2016-07-21T10:17:44Z",
+  "route": "/wiki/ship-25252",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Ship",
+  "title": "Ship",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b016ea8121de01e7c01bff45999cd1380b53edaf2aabc0f58f4f2ab83f92be14"
+}

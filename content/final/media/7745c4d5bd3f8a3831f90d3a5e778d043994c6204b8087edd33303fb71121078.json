@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Puppy_key.png",
+  "height": 444,
+  "immutableUrl": null,
+  "mediaId": "File:Puppy key.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-17T16:26:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APuppy%20key.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 217816,
+  "sourceSha1": "898f630ddaf3bb356be40c0463e2032881351dc5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/89/Puppy_key.png/revision/latest?cb=20260617162625",
+  "title": "File:Puppy key.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 444
+}

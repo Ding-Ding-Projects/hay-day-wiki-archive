@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Holiday_Bell.png",
+  "height": 317,
+  "immutableUrl": null,
+  "mediaId": "File:Holiday Bell.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T17:49:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHoliday%20Bell.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 93015,
+  "sourceSha1": "e2ca83dcb0a0b8ec219a4e991083be0527dce654",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d9/Holiday_Bell.png/revision/latest?cb=20180207174940",
+  "title": "File:Holiday Bell.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 317
+}

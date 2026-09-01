@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fancy_Cake.png",
+  "height": 460,
+  "immutableUrl": null,
+  "mediaId": "File:Fancy Cake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:04:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFancy%20Cake.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 232885,
+  "sourceSha1": "9b4742f28f1b49eadfa74e0ee5b9a67ab1aa54c5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Fancy_Cake.png/revision/latest?cb=20240411150410",
+  "title": "File:Fancy Cake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 460
+}

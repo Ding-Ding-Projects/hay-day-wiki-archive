@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_day_Lv91_new,.png",
+  "height": 1866,
+  "immutableUrl": null,
+  "mediaId": "File:Hay day Lv91 new,.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-03-28T12:07:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20day%20Lv91%20new%2C.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 8705556,
+  "sourceSha1": "8c3899b158bb2a95f9115e659d19a6181c0dfd80",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cd/Hay_day_Lv91_new%2C.png/revision/latest?cb=20220328120737",
+  "title": "File:Hay day Lv91 new,.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 3323
+}

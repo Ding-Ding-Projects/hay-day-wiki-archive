@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Trailer_Blue_Closed.png",
+  "height": 290,
+  "immutableUrl": null,
+  "mediaId": "File:Trailer Blue Closed.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-07T15:35:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATrailer%20Blue%20Closed.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 266683,
+  "sourceSha1": "1d632e122b6932a0e6c28b62fb6518c25ff9bdaa",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Trailer_Blue_Closed.png/revision/latest?cb=20180507153529",
+  "title": "File:Trailer Blue Closed.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 306
+}

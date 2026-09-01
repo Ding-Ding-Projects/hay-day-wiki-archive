@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beehive_Tree_Stage_3.png",
+  "height": 712,
+  "immutableUrl": null,
+  "mediaId": "File:Beehive Tree Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T11:20:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABeehive%20Tree%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 370665,
+  "sourceSha1": "f74af886fe35c6f2de7b1922db79e95fbd3205fe",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Beehive_Tree_Stage_3.png/revision/latest?cb=20150713112020",
+  "title": "File:Beehive Tree Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 712
+}

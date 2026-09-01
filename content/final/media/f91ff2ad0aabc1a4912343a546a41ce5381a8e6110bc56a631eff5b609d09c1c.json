@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mouse_Peering_Repaired.png",
+  "height": 100,
+  "immutableUrl": null,
+  "mediaId": "File:Mouse Peering Repaired.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-10-12T14:33:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMouse%20Peering%20Repaired.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 8462,
+  "sourceSha1": "7fdd7411238b0451905220c5a703814d59a0bda7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Mouse_Peering_Repaired.png/revision/latest?cb=20201012143340",
+  "title": "File:Mouse Peering Repaired.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 100
+}

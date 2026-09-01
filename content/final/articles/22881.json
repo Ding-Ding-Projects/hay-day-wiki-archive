@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:New?action=history",
+    "importedAt": "2026-09-01T02:56:37.648Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:New?oldid=89070",
+    "sourceRevisionId": 89070,
+    "sourceTitle": "Category:New",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:New?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This is a maintenance category for&#160;new features and new items.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831205905\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:22881-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831205905 and revision id 89070. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "54e0119f9a8b41a0f83630391f9eb53f92172f99f4a758ea546f827b1c100b33",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 22881,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89070,
+  "revisionTimestamp": "2019-10-26T04:15:21Z",
+  "route": "/wiki/category%2Fcategory-new-22881",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:New",
+  "title": "Category:New",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "fcdf3b5e411aaf112e5b6163212450b73968f39f5b27408698ca0b15cda09ef7"
+}

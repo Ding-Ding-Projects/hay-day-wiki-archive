@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Daily_Reward?action=history",
+    "importedAt": "2026-09-01T03:09:27.351Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Daily_Reward?oldid=104006",
+    "sourceRevisionId": 104006,
+    "sourceTitle": "Daily Reward",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Daily_Reward?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/movie-ticket-16890\" title=\"Movie Ticket\" rel=\"noopener noreferrer\" target=\"_blank\">Movie Ticket</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030922\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35937-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030922 and revision id 104006. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "ce3081879841430368be319d0b9e070e0df1c38b6f74b163b0357263fee25bcb",
+  "internalLinks": [
+    {
+      "route": "/wiki/movie-ticket-16890",
+      "title": "Movie Ticket"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 35937,
+  "redirectTarget": "Movie Ticket",
+  "referencedMediaIds": [],
+  "revisionId": 104006,
+  "revisionTimestamp": "2023-10-02T02:29:57Z",
+  "route": "/wiki/daily-reward-35937",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Reward",
+  "title": "Daily Reward",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a7b88b067be5a8e0398a4641cc31c7c782f8ca53eec913da649c560446ab62ca"
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pasta_Maker_Products?action=history",
+    "importedAt": "2026-09-01T02:54:20.081Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pasta_Maker_Products?oldid=57782",
+    "sourceRevisionId": 57782,
+    "sourceTitle": "Category:Pasta Maker Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pasta_Maker_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/3/38/Pasta_Maker.png/revision/latest?cb=20250925211526\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pasta Maker\" src=\"https://static.wikia.nocookie.net/hayday/images/3/38/Pasta_Maker.png/revision/latest/scale-to-width-down/180?cb=20250925211526\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APasta_Maker.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/pasta-maker-19438\" title=\"Pasta Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Pasta Maker</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025406\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:19452-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025406 and revision id 57782. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6e6d7d612cdfbf37dc907a83685203e2ab2cf4fbc0b212f9c3ae0e287370e47c",
+  "internalLinks": [
+    {
+      "route": "/wiki/pasta-maker-19438",
+      "title": "Pasta Maker"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 19452,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Pasta Maker.png"
+  ],
+  "revisionId": 57782,
+  "revisionTimestamp": "2016-01-21T18:12:52Z",
+  "route": "/wiki/category%2Fcategory-pasta-maker-products-19452",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pasta_Maker_Products",
+  "title": "Category:Pasta Maker Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "400961488eb6ea8d1adcea8cbede09e7bcac41659724032c7ae6a47cf4daa73f"
+}

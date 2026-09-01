@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Red_Bunting.png",
+  "height": 214,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Red Bunting.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-13T16:03:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Red%20Bunting.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 56741,
+  "sourceSha1": "ee089bfe37ae8d6810ef791f19a87ff62895c277",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Awning_Red_Bunting.png/revision/latest?cb=20180713160347",
+  "title": "File:Awning Red Bunting.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 214
+}

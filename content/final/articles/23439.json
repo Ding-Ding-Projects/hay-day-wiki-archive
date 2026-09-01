@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_script_errors?action=history",
+    "importedAt": "2026-09-01T02:56:40.020Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pages_with_script_errors?oldid=89073",
+    "sourceRevisionId": 89073,
+    "sourceTitle": "Category:Pages with script errors",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_script_errors?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901025638\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23439-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025638 and revision id 89073. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "9b90bda13e839b532858d7e8728e668758563b498af9b74548c4df6b3c8c6add",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 23439,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89073,
+  "revisionTimestamp": "2019-10-26T04:15:24Z",
+  "route": "/wiki/category%2Fcategory-pages-with-script-errors-23439",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_script_errors",
+  "title": "Category:Pages with script errors",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "85f2eeba17370ac56f91d93fd6d0bf4b04e6c92ab680fb9b09078fee90c741bf"
+}

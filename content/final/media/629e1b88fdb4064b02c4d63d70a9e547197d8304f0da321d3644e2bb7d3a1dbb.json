@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Apple_Juice.png",
+  "height": 295,
+  "immutableUrl": null,
+  "mediaId": "File:Apple Juice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-23T06:45:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AApple%20Juice.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 67908,
+  "sourceSha1": "abd3f7f19eca2852167680ac38fc1c455e243fae",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Apple_Juice.png/revision/latest?cb=20240223064501",
+  "title": "File:Apple Juice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 295
+}

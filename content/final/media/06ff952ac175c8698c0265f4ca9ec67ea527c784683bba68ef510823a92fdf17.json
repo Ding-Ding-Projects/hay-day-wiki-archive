@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Task_Log_Personal.png",
+  "height": 1000,
+  "immutableUrl": null,
+  "mediaId": "File:Derby Task Log Personal.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-10-18T18:13:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADerby%20Task%20Log%20Personal.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 495210,
+  "sourceSha1": "cdde9f7fc04f2a99b1644bb71c9591394e0b65c9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/Derby_Task_Log_Personal.png/revision/latest?cb=20151018181313",
+  "title": "File:Derby Task Log Personal.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sesame_Stage_3.png",
+  "height": 766,
+  "immutableUrl": null,
+  "mediaId": "File:Sesame Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-23T14:49:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASesame%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 477179,
+  "sourceSha1": "21a24937682c4e8f3778167d67fd8aad9157de95",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Sesame_Stage_3.png/revision/latest?cb=20191023144958",
+  "title": "File:Sesame Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 766
+}

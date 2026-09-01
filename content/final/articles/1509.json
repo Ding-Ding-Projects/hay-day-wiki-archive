@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion?action=history",
+    "importedAt": "2026-09-01T02:10:51.703Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion?oldid=89062",
+    "sourceRevisionId": 89062,
+    "sourceTitle": "Category:Candidates for deletion",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This is a maintenance category for pages which are candidates for deletion. Discussions should be had at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901020745\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:1509-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901020745 and revision id 89062. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "2043dcf13682d26c81e12a10e931a3422aa2e80a63cd2d751c6e84b0c3e68f01",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 1509,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89062,
+  "revisionTimestamp": "2019-10-26T04:15:13Z",
+  "route": "/wiki/category%2Fcategory-candidates-for-deletion-1509",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion",
+  "title": "Category:Candidates for deletion",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6bc96f3148fafab7e3afcbbc26c3a4de921bc0bbe17cb7a2871f315597288fd1"
+}

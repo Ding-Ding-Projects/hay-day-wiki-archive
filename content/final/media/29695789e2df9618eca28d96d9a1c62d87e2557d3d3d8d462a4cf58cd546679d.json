@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Production_slots.png",
+  "height": 300,
+  "immutableUrl": null,
+  "mediaId": "File:Production slots.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-18T15:44:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AProduction%20slots.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 97324,
+  "sourceSha1": "b9a93768440419e14ce1d7331809c6d1fcb03531",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Production_slots.png/revision/latest?cb=20150718154403",
+  "title": "File:Production slots.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

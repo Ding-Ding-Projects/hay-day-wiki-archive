@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cotton_Fabric.png",
+  "height": 1856,
+  "immutableUrl": null,
+  "mediaId": "File:Cotton Fabric.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-07T15:59:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACotton%20Fabric.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 5418448,
+  "sourceSha1": "ecde63fcec72cf9d717d39b200b14af38d68362e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/Cotton_Fabric.png/revision/latest?cb=20240207155935",
+  "title": "File:Cotton Fabric.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1856
+}

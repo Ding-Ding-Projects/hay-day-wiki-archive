@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Storage_Buildings?action=history",
+    "importedAt": "2026-09-01T02:32:07.219Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Storage_Buildings?oldid=32562",
+    "sourceRevisionId": 32562,
+    "sourceTitle": "Category:Storage Buildings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Storage_Buildings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Buildings used for storage.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831034640\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2655-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831034640 and revision id 32562. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "1f241009e35c041071a6b019a4f2d6f85f8671676d8294fd2ce7fd29a5f00c70",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 2655,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32562,
+  "revisionTimestamp": "2014-08-10T19:43:48Z",
+  "route": "/wiki/category%2Fcategory-storage-buildings-2655",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Storage_Buildings",
+  "title": "Category:Storage Buildings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "269e90bf679906b2158fea1aad505b781bf378f36386a02c585a3b677bd2735e"
+}

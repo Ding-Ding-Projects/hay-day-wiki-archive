@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Poisonous_Mushrooms.png",
+  "height": 681,
+  "immutableUrl": null,
+  "mediaId": "File:Poisonous Mushrooms.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-24T20:32:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APoisonous%20Mushrooms.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 269233,
+  "sourceSha1": "a77498853d53dcf18c169037ba9b04565fd14671",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Poisonous_Mushrooms.png/revision/latest?cb=20191024203246",
+  "title": "File:Poisonous Mushrooms.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 681
+}

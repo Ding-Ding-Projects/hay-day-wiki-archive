@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Achievements?action=history",
+    "importedAt": "2026-09-01T02:45:13.242Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Achievements?oldid=37461",
+    "sourceRevisionId": 37461,
+    "sourceTitle": "Category:Image Achievements",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Achievements?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Image related to <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">Achievements</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024453\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:11370-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024453 and revision id 37461. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6edc316f6323e5a1d2fa1b4dd48146f0031e5eae38e78cf09c58ff718ffd4a26",
+  "internalLinks": [
+    {
+      "route": "/wiki/achievements-6714",
+      "title": "Achievements"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 11370,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 37461,
+  "revisionTimestamp": "2014-12-04T15:37:01Z",
+  "route": "/wiki/category%2Fcategory-image-achievements-11370",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Achievements",
+  "title": "Category:Image Achievements",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b2ff65a2ccab707637578d2d58ceb4d1b951be85d29d99446c3506cc9f4337af"
+}

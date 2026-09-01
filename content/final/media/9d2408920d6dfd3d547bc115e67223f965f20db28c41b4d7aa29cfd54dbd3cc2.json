@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pie_Oven.png",
+  "height": 588,
+  "immutableUrl": null,
+  "mediaId": "File:Pie Oven.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T18:04:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APie%20Oven.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 299241,
+  "sourceSha1": "957a20b82991a2d4db008804d1b6368161917f86",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/Pie_Oven.png/revision/latest?cb=20250925180403",
+  "title": "File:Pie Oven.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 588
+}

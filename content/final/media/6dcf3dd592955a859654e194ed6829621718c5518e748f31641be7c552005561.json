@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Lookout.png",
+  "height": 630,
+  "immutableUrl": null,
+  "mediaId": "File:Winter Lookout.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-02-25T12:19:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWinter%20Lookout.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 310954,
+  "sourceSha1": "26ec864d9e22c439a836fa29abca5afe77012415",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Winter_Lookout.png/revision/latest?cb=20260225121907",
+  "title": "File:Winter Lookout.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 464
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Striped_Salmon.png",
+  "height": 258,
+  "immutableUrl": null,
+  "mediaId": "File:Cabin Striped Salmon.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-07T15:34:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACabin%20Striped%20Salmon.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 248106,
+  "sourceSha1": "408babd204348b1adfe78848186820e1cf94eaf5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Cabin_Striped_Salmon.png/revision/latest?cb=20180507153433",
+  "title": "File:Cabin Striped Salmon.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 320
+}

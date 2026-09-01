@@ -1,0 +1,167 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Iron_Ore?action=history",
+    "importedAt": "2026-09-01T02:46:40.052Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Iron_Ore?oldid=107461",
+    "sourceRevisionId": 107461,
+    "sourceTitle": "Iron Ore",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Extracting_iron_ore",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Extracting iron ore</b>",
+      "text": "<b>Extracting iron ore</b>"
+    },
+    {
+      "anchor": "Selling_iron_ore",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling iron ore</b>",
+      "text": "<b>Selling iron ore</b>"
+    },
+    {
+      "anchor": "Used_iron_ore",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Used iron ore</b>",
+      "text": "<b>Used iron ore</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Iron_Ore?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png/revision/latest?cb=20150711233632\" class=\"mw-file-description image\" title=\"Iron ore\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Iron ore\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Iron ore</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Product</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 34</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 14</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  Instant</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 4</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Mine</span><span title=\"Mine\"><span class=\"mw-default-size\"><a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mine\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 4</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><br>\n<b>Iron ore</b> is a <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">product</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 34.\n</p><p>Like all products, it is stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Extracting iron ore</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest?cb=20150714140453\" class=\"mw-file-description image\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mine\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Mine</figcaption></figure>\n<p>Iron ore is found in the <a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">Mine</a>.\n</p><p>To extract ore, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n</p>\n<table>\n\n<tbody><tr>\n<td><span><a href=\"/wiki/dynamite-3037\" title=\"Dynamite\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Dynamite\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/tnt-barrel-3038\" title=\"TNT barrel\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"TNT barrel\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/shovel-3036\" title=\"Shovel\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Shovel\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/pickaxe-14244\" title=\"Pickaxe\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pickaxe\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b>x2</b>\n</td>\n<td><b>x3</b>\n</td>\n<td><b>x4</b>\n</td>\n<td><b>x5</b>\n</td></tr></tbody></table>\n<p>It takes no time to extract ore but the process is randomized: players might get any of the available Mine products when using mine supplies, as well as an extra <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamond</a>. Each extracted iron ore gives players 4 <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling iron ore</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest?cb=20191028143054\" class=\"mw-file-description image\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside Shop</figcaption></figure>\n<ul><li>Iron ore can be bought or sold for a maximum price of 144 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li>\n<li>Buying a supply tool costs between 25 and 126 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Used iron ore</b></span></h3>\n<p>Iron ore is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/iron-bar-13489\" title=\"Iron bar\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Iron bar\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/bright-bouquet-28464\" title=\"Bright bouquet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bright bouquet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/iron-bar-13489\" title=\"Iron Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Iron Bar</a></b>\n</td>\n<td><b><a href=\"/wiki/bright-bouquet-28464\" title=\"Bright Bouquet\" rel=\"noopener noreferrer\" target=\"_blank\">Bright Bouquet</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png/revision/latest?cb=20150711233632\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Iron Ore\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/87/Iron_Ore.png/revision/latest?cb=20150711233632\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Iron Ore\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x5</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 34\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 65\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Selling iron ore is not profitable at all. You should always use if for <a href=\"/wiki/flower-shop-28398\" title=\"Flower Shop\" rel=\"noopener noreferrer\" target=\"_blank\">bouquets</a> or <a href=\"/wiki/jeweler-3562\" title=\"Jeweler\" rel=\"noopener noreferrer\" target=\"_blank\">jewelry</a> unless it takes valuable space in your <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.</li>\n<li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders never require iron ore.</li></ul>\n<hr>\n<table class=\"navbox mw-collapsible mw-collapsed\">\n\n<tbody><tr class=\"navtitle\">\n<td><a href=\"/wiki/category%2Fcategory-mine-products-7567\" title=\"Category:Mine Products\" rel=\"noopener noreferrer\" target=\"_blank\">Mine Products</a>\n</td></tr>\n<tr>\n<td>\n<p><span><a href=\"/wiki/coal-13487\" title=\"Coal\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Coal\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/gold-ore-2561\" title=\"Gold Ore\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Gold Ore\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/iron-ore-13486\" title=\"Iron Ore\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Iron Ore\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/platinum-ore-2564\" title=\"Platinum Ore\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Platinum Ore\" loading=\"lazy\" width=\"100\" height=\"58\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/silver-ore-2556\" title=\"Silver Ore\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Silver Ore\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr class=\"navtitle\">\n<td><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Products</a>\n</td></tr></tbody></table>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260829075050\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.076 seconds\nReal time usage: 0.101 seconds\nPreprocessor visited node count: 760/1000000\nPost‐expand include size: 6309/2097152 bytes\nTemplate argument size: 576/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.009/7.000 seconds\nLua memory usage: 979171/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   63.732      1 -total\n 68.33%   43.548      1 Template:Infobox\n 29.07%   18.529      8 Template:Infoicon\n 15.67%    9.988      1 Template:Navigation\n  9.02%    5.751      1 Template:MineProductsMenu\n  6.82%    4.349      1 Template:Item_Usage\n  2.73%    1.739      1 Template:Languages\n  1.90%    1.214      3 Template:Clr\n  1.89%    1.206      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:13486-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260829075050 and revision id 107461. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "cdfa82b824cdc7f7366e28ebe24e2317211549be1287394514482c8f052b3111",
+  "internalLinks": [
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/bright-bouquet-28464",
+      "title": "Bright Bouquet"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-mine-products-7567",
+      "title": "Category:Mine Products"
+    },
+    {
+      "route": "/wiki/coal-13487",
+      "title": "Coal"
+    },
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/dynamite-3037",
+      "title": "Dynamite"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/flower-shop-28398",
+      "title": "Flower Shop"
+    },
+    {
+      "route": "/wiki/gold-ore-2561",
+      "title": "Gold Ore"
+    },
+    {
+      "route": "/wiki/iron-bar-13489",
+      "title": "Iron Bar"
+    },
+    {
+      "route": "/wiki/iron-ore-13486",
+      "title": "Iron Ore"
+    },
+    {
+      "route": "/wiki/jeweler-3562",
+      "title": "Jeweler"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/pickaxe-14244",
+      "title": "Pickaxe"
+    },
+    {
+      "route": "/wiki/platinum-ore-2564",
+      "title": "Platinum Ore"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/shovel-3036",
+      "title": "Shovel"
+    },
+    {
+      "route": "/wiki/silver-ore-2556",
+      "title": "Silver Ore"
+    },
+    {
+      "route": "/wiki/tnt-barrel-3038",
+      "title": "TNT Barrel"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 13486,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bright Bouquet.png",
+    "File:Clock.png",
+    "File:Coal.png",
+    "File:Coins.png",
+    "File:Dynamite.png",
+    "File:Experience.png",
+    "File:Gold Ore.png",
+    "File:Iron Bar.png",
+    "File:Iron Ore.png",
+    "File:Mine.png",
+    "File:Pickaxe.png",
+    "File:Platinum Ore.png",
+    "File:Roadside Shop.png",
+    "File:Shovel.png",
+    "File:Silver Ore.png",
+    "File:TNT Barrel.png"
+  ],
+  "revisionId": 107461,
+  "revisionTimestamp": "2025-02-28T23:35:29Z",
+  "route": "/wiki/iron-ore-13486",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Iron_Ore",
+  "title": "Iron Ore",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6614f256e4da0dd9384b4757602da2a0fcb89fb306250f59e9ac5ae3b650b23a"
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Decos?action=history",
+    "importedAt": "2026-09-01T03:02:13.988Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Decos?oldid=73950",
+    "sourceRevisionId": 73950,
+    "sourceTitle": "Category:Image Decos",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Decos?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/decorations-6168\" title=\"Decorations\" rel=\"noopener noreferrer\" target=\"_blank\">Decorations</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260829214242\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28591-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260829214242 and revision id 73950. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "10a32598278e34d27f535075567ce54f2e5021fb3bb23ee244be5c3d8daa0215",
+  "internalLinks": [
+    {
+      "route": "/wiki/decorations-6168",
+      "title": "Decorations"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 28591,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 73950,
+  "revisionTimestamp": "2017-10-22T09:57:28Z",
+  "route": "/wiki/category%2Fcategory-image-decos-28591",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Decos",
+  "title": "Category:Image Decos",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a9ab3d73bd0431ba93259b01bd1d08ab0e228091cbc3e51cf023557940969add"
+}

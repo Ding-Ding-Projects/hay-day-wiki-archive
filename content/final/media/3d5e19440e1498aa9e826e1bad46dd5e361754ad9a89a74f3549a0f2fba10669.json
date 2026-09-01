@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cow_Summer_Hungry.png",
+  "height": 124,
+  "immutableUrl": null,
+  "mediaId": "File:Cow Summer Hungry.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-07-11T08:09:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACow%20Summer%20Hungry.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 117499,
+  "sourceSha1": "f98963677a36a211c0f90ad127f2dc47c408a215",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/ba/Cow_Summer_Hungry.png/revision/latest?cb=20130711080948",
+  "title": "File:Cow Summer Hungry.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 231
+}

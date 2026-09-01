@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Friends_Derby.png",
+  "height": 565,
+  "immutableUrl": null,
+  "mediaId": "File:Friends Derby.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-08-09T12:22:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFriends%20Derby.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 445126,
+  "sourceSha1": "8d8ba97a535aba399805ecacc46bbadb07af67d8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d0/Friends_Derby.png/revision/latest?cb=20180809122232",
+  "title": "File:Friends Derby.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

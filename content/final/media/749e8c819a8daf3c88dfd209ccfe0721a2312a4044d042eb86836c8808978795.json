@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yes.png",
+  "height": 86,
+  "immutableUrl": null,
+  "mediaId": "File:Yes.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T22:03:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AYes.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 28408,
+  "sourceSha1": "cecc9baa6565ef37df999151f3d6f87dda7fc45c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Yes.png/revision/latest?cb=20180430220330",
+  "title": "File:Yes.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 535
+}

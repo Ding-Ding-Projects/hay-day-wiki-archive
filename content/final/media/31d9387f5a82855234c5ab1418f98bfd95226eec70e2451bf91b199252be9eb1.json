@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Angler_Gnome.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Angler Gnome.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-22T18:31:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAngler%20Gnome.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 246055,
+  "sourceSha1": "1c79e72a57ca597be7ea051d17b7918a56112db3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Angler_Gnome.png/revision/latest?cb=20181022183149",
+  "title": "File:Angler Gnome.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

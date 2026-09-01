@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yard_Decoration_Level_6.png",
+  "height": 510,
+  "immutableUrl": null,
+  "mediaId": "File:Yard Decoration Level 6.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-04-26T12:55:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AYard%20Decoration%20Level%206.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 558363,
+  "sourceSha1": "227f081df5864b010bcf2861714c461fc419420f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Yard_Decoration_Level_6.png/revision/latest?cb=20210426125508",
+  "title": "File:Yard Decoration Level 6.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 510
+}

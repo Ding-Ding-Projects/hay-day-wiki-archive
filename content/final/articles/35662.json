@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts?action=history",
+    "importedAt": "2026-09-01T03:08:31.105Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts?oldid=101974",
+    "sourceRevisionId": 101974,
+    "sourceTitle": "Category:Templates Which Use Lua Scripts",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>These templates all work using Lua scripts.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831122401\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35662-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831122401 and revision id 101974. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "ae507eb27f700aacaf159fa2c73fdf1bebeae1337793cfbbb9a78e023bb2888b",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 35662,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 101974,
+  "revisionTimestamp": "2022-11-29T10:50:14Z",
+  "route": "/wiki/category%2Fcategory-templates-which-use-lua-scripts-35662",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts",
+  "title": "Category:Templates Which Use Lua Scripts",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "2c6a0996b3c0e56e79304e80e13a8f7c2aa715c9c3863634803afd6908068165"
+}

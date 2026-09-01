@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station?action=history",
+    "importedAt": "2026-09-01T03:08:39.699Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station?oldid=102201",
+    "sourceRevisionId": 102201,
+    "sourceTitle": "Gift Wrapper Station",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/gift-wrapping-station-35675\" title=\"Gift Wrapping Station\" rel=\"noopener noreferrer\" target=\"_blank\">Gift Wrapping Station</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030833\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35691-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030833 and revision id 102201. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f0695ff8fac4da6e5239ef4c371a03fcb12fc95b1ff59bfec28e9893e900af5d",
+  "internalLinks": [
+    {
+      "route": "/wiki/gift-wrapping-station-35675",
+      "title": "Gift Wrapping Station"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 35691,
+  "redirectTarget": "Gift Wrapping Station",
+  "referencedMediaIds": [],
+  "revisionId": 102201,
+  "revisionTimestamp": "2022-12-08T11:13:57Z",
+  "route": "/wiki/gift-wrapper-station-35691",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station",
+  "title": "Gift Wrapper Station",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "986326509ca7769662bd14b7d9f2a28efff7d5237164b7bb80c59cfe09d9905f"
+}

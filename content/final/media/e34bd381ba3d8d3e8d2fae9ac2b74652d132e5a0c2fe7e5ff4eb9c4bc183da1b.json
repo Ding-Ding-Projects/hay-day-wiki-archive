@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chicken_Summer.jpg",
+  "height": 201,
+  "immutableUrl": null,
+  "mediaId": "File:Chicken Summer.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-08-04T16:06:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChicken%20Summer.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 12572,
+  "sourceSha1": "4cf602368616033c9d35b8d5c24dd52e7eca8280",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Chicken_Summer.jpg/revision/latest?cb=20150804160654",
+  "title": "File:Chicken Summer.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 202
+}

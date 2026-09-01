@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Flamingos?action=history",
+    "importedAt": "2026-09-01T03:09:40.948Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Flamingos?oldid=105221",
+    "sourceRevisionId": 105221,
+    "sourceTitle": "Category:Flamingos",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Flamingos?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the different types of flamingos available in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831232324\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36053-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831232324 and revision id 105221. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "1454c6ecf3caf73b44e035bda027bf48e390a5dc0cfd2b84e8fc794b2e8fd15b",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 36053,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 105221,
+  "revisionTimestamp": "2024-04-17T19:51:17Z",
+  "route": "/wiki/category%2Fcategory-flamingos-36053",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Flamingos",
+  "title": "Category:Flamingos",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5ecae550b219a55d3dd81ce0b7c88407d385e08eb64a1fc7eb77d398cd08d16b"
+}

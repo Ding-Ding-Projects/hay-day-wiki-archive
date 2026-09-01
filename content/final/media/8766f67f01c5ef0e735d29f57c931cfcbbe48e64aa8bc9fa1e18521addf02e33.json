@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tractor.png",
+  "height": 556,
+  "immutableUrl": null,
+  "mediaId": "File:Tractor.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T12:01:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATractor.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 224628,
+  "sourceSha1": "de8e3460d65a3fd95b4540ee6ba30544238799ed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7a/Tractor.png/revision/latest?cb=20150715120136",
+  "title": "File:Tractor.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 556
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Passion_Fruit_Juice.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:Passion Fruit Juice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-23T07:17:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APassion%20Fruit%20Juice.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 234517,
+  "sourceSha1": "9a5b1ba6c5e235b166de55253f20b955d3e7188d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Passion_Fruit_Juice.png/revision/latest?cb=20240223071742",
+  "title": "File:Passion Fruit Juice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Woolly_Chaps?action=history",
+    "importedAt": "2026-09-01T03:00:58.300Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Woolly_Chaps?oldid=67972",
+    "sourceRevisionId": 67972,
+    "sourceTitle": "Woolly Chaps",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Woolly_Chaps?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/wooly-chaps-14259\" title=\"Wooly Chaps\" rel=\"noopener noreferrer\" target=\"_blank\">Wooly Chaps</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030048\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:26655-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030048 and revision id 67972. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "059e9e542da500472498950d28fd34fcbda8a8e7b4e8c473c158c9420641d7eb",
+  "internalLinks": [
+    {
+      "route": "/wiki/wooly-chaps-14259",
+      "title": "Wooly Chaps"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 26655,
+  "redirectTarget": "Wooly Chaps",
+  "referencedMediaIds": [],
+  "revisionId": 67972,
+  "revisionTimestamp": "2016-12-24T01:11:54Z",
+  "route": "/wiki/woolly-chaps-26655",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Woolly_Chaps",
+  "title": "Woolly Chaps",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4667ad9614941ee1104b5611bb23f9ea246400e960aa35e64c5f44b9103d100f"
+}

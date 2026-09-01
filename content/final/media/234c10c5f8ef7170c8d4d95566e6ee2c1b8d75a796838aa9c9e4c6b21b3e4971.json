@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Cute_Blue.png",
+  "height": 260,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Cute Blue.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-14T16:03:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Cute%20Blue.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 218823,
+  "sourceSha1": "9dc1cae5128516b2070ef57d3986474588eec434",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d4/Walls_Cute_Blue.png/revision/latest?cb=20180514160347",
+  "title": "File:Walls Cute Blue.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 280
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gorilla_House_Stage_2.png",
+  "height": 545,
+  "immutableUrl": null,
+  "mediaId": "File:Gorilla House Stage 2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-20T18:04:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGorilla%20House%20Stage%202.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 196186,
+  "sourceSha1": "a37d7658c1e77f6179e80c2bbd7e0ca74c04f039",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fd/Gorilla_House_Stage_2.png/revision/latest?cb=20211020180424",
+  "title": "File:Gorilla House Stage 2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 545
+}

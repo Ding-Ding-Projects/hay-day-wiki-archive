@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_Blue_Pavilion.png",
+  "height": 593,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay Blue Pavilion.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-15T18:25:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHayDay%20Blue%20Pavilion.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 315456,
+  "sourceSha1": "31ff79d22f06772a354df33b4eb1c9ef32f33dde",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/10/HayDay_Blue_Pavilion.png/revision/latest?cb=20260615182559",
+  "title": "File:HayDay Blue Pavilion.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 539
+}

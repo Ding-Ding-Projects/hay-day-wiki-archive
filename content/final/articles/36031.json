@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Brown_Ostrich?action=history",
+    "importedAt": "2026-09-01T03:09:40.942Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Brown_Ostrich?oldid=105095",
+    "sourceRevisionId": 105095,
+    "sourceTitle": "Brown Ostrich",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Brown_Ostrich?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Use page <a href=\"/wiki/ostrich-35564\" title=\"Ostrich\" rel=\"noopener noreferrer\" target=\"_blank\">Ostrich</a>\n</p><p><br>\n</p>\n<table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FBrown%20Ostrich\" title=\"Special:WhatLinksHere/Brown Ostrich\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/brown-ostrich-36031\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831073944\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1253/2097152 bytes\nTemplate argument size: 362/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.601      1 Template:Delete\n100.00%    3.601      1 -total\n 42.40%    1.527      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36031-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831073944 and revision id 105095. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "15b5c34f682174cceecf6ea0aeff0f003f821742ae3ed54f247aee2b6a20e77e",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    },
+    {
+      "route": "/wiki/ostrich-35564",
+      "title": "Ostrich"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36031,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 105095,
+  "revisionTimestamp": "2024-03-23T18:31:05Z",
+  "route": "/wiki/brown-ostrich-36031",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Brown_Ostrich",
+  "title": "Brown Ostrich",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "2bf40db207f30c0dabef8cc2784cd5b1e297636da8923465da6166793809437f"
+}

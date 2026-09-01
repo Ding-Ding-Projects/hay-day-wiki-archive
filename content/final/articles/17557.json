@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood?action=history",
+    "importedAt": "2026-09-01T02:48:35.166Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood?oldid=53271",
+    "sourceRevisionId": 53271,
+    "sourceTitle": "Category:Image Neighborhood",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">Neighborhoods</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024828\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:17557-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024828 and revision id 53271. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "54e7bacab4e2cc87816d3a85c44b05b60f69a1f21179a785a644aa33b99106b5",
+  "internalLinks": [
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 17557,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 53271,
+  "revisionTimestamp": "2015-08-18T18:44:55Z",
+  "route": "/wiki/category%2Fcategory-image-neighborhood-17557",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood",
+  "title": "Category:Image Neighborhood",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e8021ea0d4a5d2b69fb17093d298e5970000c6df481bfc210ade25d85188a024"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Poolside_Fence.png",
+  "height": 614,
+  "immutableUrl": null,
+  "mediaId": "File:Poolside Fence.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-02-25T10:37:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APoolside%20Fence.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 167510,
+  "sourceSha1": "bbdb0ecde69090be9aa5c012069b97b00803487d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/04/Poolside_Fence.png/revision/latest?cb=20260225103729",
+  "title": "File:Poolside Fence.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 562
+}

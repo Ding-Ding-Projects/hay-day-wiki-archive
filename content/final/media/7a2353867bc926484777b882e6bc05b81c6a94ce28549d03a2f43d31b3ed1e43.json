@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Clay_Mug.png",
+  "height": 2080,
+  "immutableUrl": null,
+  "mediaId": "File:Clay Mug.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-12T14:26:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AClay%20Mug.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3297516,
+  "sourceSha1": "4810a5492b4a61641e12e05e328baf085d3a0ec5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f1/Clay_Mug.png/revision/latest?cb=20240212142657",
+  "title": "File:Clay Mug.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2080
+}

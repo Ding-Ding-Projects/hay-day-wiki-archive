@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_92.png",
+  "height": 682,
+  "immutableUrl": null,
+  "mediaId": "File:Level 92.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-12-21T16:45:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2092.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1328221,
+  "sourceSha1": "20a8c0ec80d6df61ea43333fd0ec21c742859d0e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f2/Level_92.png/revision/latest?cb=20211221164511",
+  "title": "File:Level 92.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 994
+}

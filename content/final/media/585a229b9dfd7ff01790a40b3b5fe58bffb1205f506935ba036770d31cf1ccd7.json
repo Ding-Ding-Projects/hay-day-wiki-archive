@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wisteria_Pagoda.png",
+  "height": 1551,
+  "immutableUrl": null,
+  "mediaId": "File:Wisteria Pagoda.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-26T19:05:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWisteria%20Pagoda.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4491705,
+  "sourceSha1": "ae3e131b46c81be3417894bca998f52719271430",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/78/Wisteria_Pagoda.png/revision/latest?cb=20260526190558",
+  "title": "File:Wisteria Pagoda.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1799
+}

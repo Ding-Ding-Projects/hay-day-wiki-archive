@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tofu_Dog.png",
+  "height": 375,
+  "immutableUrl": null,
+  "mediaId": "File:Tofu Dog.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-22T23:44:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATofu%20Dog.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 89100,
+  "sourceSha1": "73a9c3ee48370430de62b5dee39ac48a1b6cffcb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Tofu_Dog.png/revision/latest?cb=20180222234446",
+  "title": "File:Tofu Dog.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 375
+}

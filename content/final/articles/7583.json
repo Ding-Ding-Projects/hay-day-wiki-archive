@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Fish?action=history",
+    "importedAt": "2026-09-01T02:42:19.575Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Fish?oldid=50709",
+    "sourceRevisionId": 50709,
+    "sourceTitle": "Category:Image Fish",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Fish?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/fish-5891\" title=\"Fish\" rel=\"noopener noreferrer\" target=\"_blank\">fish</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024148\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7583-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024148 and revision id 50709. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "56e8c121cc9d4a67862cef1952515bb2301f3d18291ee60bd827719add731ced",
+  "internalLinks": [
+    {
+      "route": "/wiki/fish-5891",
+      "title": "Fish"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7583,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 50709,
+  "revisionTimestamp": "2015-07-11T15:49:14Z",
+  "route": "/wiki/category%2Fcategory-image-fish-7583",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Fish",
+  "title": "Category:Image Fish",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "42fb861fa1970619e14b2bf4811b1dc3fa9b6b4bb9869539edace964e549dc94"
+}

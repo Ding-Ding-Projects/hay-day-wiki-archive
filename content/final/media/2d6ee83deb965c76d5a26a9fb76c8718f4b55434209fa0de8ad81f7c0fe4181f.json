@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Indigo_Stage_5.png",
+  "height": 215,
+  "immutableUrl": null,
+  "mediaId": "File:Indigo Stage 5.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T12:11:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AIndigo%20Stage%205.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46858,
+  "sourceSha1": "b8f378bf865b794e4c75675b50178e3547d7b16d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d1/Indigo_Stage_5.png/revision/latest?cb=20150714121112",
+  "title": "File:Indigo Stage 5.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 215
+}

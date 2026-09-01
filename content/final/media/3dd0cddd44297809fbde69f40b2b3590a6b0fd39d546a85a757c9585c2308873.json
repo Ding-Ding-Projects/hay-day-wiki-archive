@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Spr25Update.jpg",
+  "height": 765,
+  "immutableUrl": null,
+  "mediaId": "File:Spr25Update.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-03-17T17:09:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASpr25Update.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 75059,
+  "sourceSha1": "74a82250e80808189f4dc7995ebf9cb4505be4b8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/89/Spr25Update.jpg/revision/latest?cb=20250317170932",
+  "title": "File:Spr25Update.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1164
+}

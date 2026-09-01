@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Production_Machines?action=history",
+    "importedAt": "2026-09-01T03:06:46.474Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Production_Machines?oldid=98532",
+    "sourceRevisionId": 98532,
+    "sourceTitle": "Production Machines",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Production_Machines?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/production-buildings-7699\" title=\"Production Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">Production Buildings</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030642\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35061-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030642 and revision id 98532. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "4b482d01aee9f3d70a05c298e1bca44ae408d3edc2f0e6fbd8cca31a4065d1f6",
+  "internalLinks": [
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 35061,
+  "redirectTarget": "Production Buildings",
+  "referencedMediaIds": [],
+  "revisionId": 98532,
+  "revisionTimestamp": "2021-08-31T10:01:13Z",
+  "route": "/wiki/production-machines-35061",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Production_Machines",
+  "title": "Production Machines",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "28148d3cb2961b3e7a2db8bee085d815cfa08f4a7ccf0d18b528eb4231c287db"
+}

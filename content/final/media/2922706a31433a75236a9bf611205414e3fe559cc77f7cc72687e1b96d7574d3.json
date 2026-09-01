@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Skiing_break.png",
+  "height": 919,
+  "immutableUrl": null,
+  "mediaId": "File:Skiing break.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-12T21:02:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASkiing%20break.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 630208,
+  "sourceSha1": "d305c3faba0c8a3d57a651c2d395808932ccbd98",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/76/Skiing_break.png/revision/latest?cb=20260112210205",
+  "title": "File:Skiing break.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1080
+}

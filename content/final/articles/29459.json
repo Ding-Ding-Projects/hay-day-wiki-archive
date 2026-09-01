@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Trade?action=history",
+    "importedAt": "2026-09-01T03:03:20.917Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Trade?oldid=78758",
+    "sourceRevisionId": 78758,
+    "sourceTitle": "Category:Trade",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Trade?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901030259\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29459-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030259 and revision id 78758. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "d71f379f2abefe8c19952ae72923dde67ef8c417f77ecdc7fa4bbaa7008b823a",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 29459,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78758,
+  "revisionTimestamp": "2018-04-17T16:32:58Z",
+  "route": "/wiki/category%2Fcategory-trade-29459",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Trade",
+  "title": "Category:Trade",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "eea5493c7b716a3e87bd468bc867fe5ac6fa5af7d79416e4e493ca49754c47f7"
+}

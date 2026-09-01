@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Breakfast_Waffles.png",
+  "height": 2460,
+  "immutableUrl": null,
+  "mediaId": "File:Breakfast Waffles.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-17T13:32:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABreakfast%20Waffles.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1958975,
+  "sourceSha1": "674b62564402bf684b7fcc3f09451719cc597240",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/59/Breakfast_Waffles.png/revision/latest?cb=20240217133249",
+  "title": "File:Breakfast Waffles.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2460
+}

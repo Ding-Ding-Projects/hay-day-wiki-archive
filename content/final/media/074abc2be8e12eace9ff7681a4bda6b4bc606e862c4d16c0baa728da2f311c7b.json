@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cupcake_Maker_Mastery.png",
+  "height": 193,
+  "immutableUrl": null,
+  "mediaId": "File:Cupcake Maker Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-08-03T14:29:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACupcake%20Maker%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 87641,
+  "sourceSha1": "5baed7ca20c2283defedbac32e74077f6b9c2b54",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Cupcake_Maker_Mastery.png/revision/latest?cb=20230803142949",
+  "title": "File:Cupcake Maker Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 303
+}

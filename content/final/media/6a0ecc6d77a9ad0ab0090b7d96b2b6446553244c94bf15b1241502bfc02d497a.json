@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Flower_Fence.png",
+  "height": 423,
+  "immutableUrl": null,
+  "mediaId": "File:Flower Fence.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T17:27:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFlower%20Fence.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 144590,
+  "sourceSha1": "374c86994bfcc39a8ad339325770eae8d501c66e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Flower_Fence.png/revision/latest?cb=20180207172747",
+  "title": "File:Flower Fence.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 423
+}

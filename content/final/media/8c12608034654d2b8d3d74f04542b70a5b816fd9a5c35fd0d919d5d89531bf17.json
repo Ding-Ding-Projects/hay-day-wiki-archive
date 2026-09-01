@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:May_2023_Update.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:May 2023 Update.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-05-18T04:04:39Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMay%202023%20Update.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 820762,
+  "sourceSha1": "478f9a8df2a6fce0dcd19eac3fcea8d6f863895a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4f/May_2023_Update.png/revision/latest?cb=20230518040439",
+  "title": "File:May 2023 Update.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

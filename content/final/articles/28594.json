@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary?action=history",
+    "importedAt": "2026-09-01T03:02:16.958Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary?oldid=74221",
+    "sourceRevisionId": 74221,
+    "sourceTitle": "Category:Image Sanctuary",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to the <a href=\"/wiki/sanctuary-28458\" title=\"Sanctuary\" rel=\"noopener noreferrer\" target=\"_blank\">Sanctuary</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831213614\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28594-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831213614 and revision id 74221. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "de1d31debf5a60edc70a77804217efa93311f05dd6c855d30c21473023966b0a",
+  "internalLinks": [
+    {
+      "route": "/wiki/sanctuary-28458",
+      "title": "Sanctuary"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 28594,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 74221,
+  "revisionTimestamp": "2017-10-22T10:09:10Z",
+  "route": "/wiki/category%2Fcategory-image-sanctuary-28594",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary",
+  "title": "Category:Image Sanctuary",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "88446e8b209fd74b80e2fd65b2215bc2428e995731aed9dfa6f8e0e843e09db0"
+}

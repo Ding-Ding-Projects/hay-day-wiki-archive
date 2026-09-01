@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Essential_Oils_Lab_Mastered.png",
+  "height": 413,
+  "immutableUrl": null,
+  "mediaId": "File:Essential Oils Lab Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T21:39:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEssential%20Oils%20Lab%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 638022,
+  "sourceSha1": "bbab33c774b88910733568504a40551eea7f8de4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/Essential_Oils_Lab_Mastered.png/revision/latest?cb=20250925213958",
+  "title": "File:Essential Oils Lab Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 385
+}

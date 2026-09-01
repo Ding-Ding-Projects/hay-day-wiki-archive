@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheels_Purple_Spokes.png",
+  "height": 205,
+  "immutableUrl": null,
+  "mediaId": "File:Wheels Purple Spokes.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-13T16:20:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheels%20Purple%20Spokes.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 58131,
+  "sourceSha1": "064c11374a5b8c5eafbef9c1408c8a8df3996f2b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7e/Wheels_Purple_Spokes.png/revision/latest?cb=20180713162042",
+  "title": "File:Wheels Purple Spokes.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 220
+}

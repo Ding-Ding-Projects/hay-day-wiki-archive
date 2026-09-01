@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Guinea_Pigs?action=history",
+    "importedAt": "2026-09-01T03:06:46.471Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Guinea_Pigs?oldid=98474",
+    "sourceRevisionId": 98474,
+    "sourceTitle": "Category:Guinea Pigs",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Guinea_Pigs?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the different types of guinea pigs available in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030642\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35046-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030642 and revision id 98474. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8afe7fdb7a902b90ad116e45c923b5afbd476f13b7baea586f3e2bf6105e8db3",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 35046,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 98474,
+  "revisionTimestamp": "2021-08-14T22:33:01Z",
+  "route": "/wiki/category%2Fcategory-guinea-pigs-35046",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Guinea_Pigs",
+  "title": "Category:Guinea Pigs",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "cd24aae7198c3310d89fc9fe818acc9fad61762310994ad100c3c4e3de86d983"
+}

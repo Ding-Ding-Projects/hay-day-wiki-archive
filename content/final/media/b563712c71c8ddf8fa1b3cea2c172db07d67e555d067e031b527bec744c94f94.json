@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Pass_Building.png",
+  "height": 908,
+  "immutableUrl": null,
+  "mediaId": "File:Farm Pass Building.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-16T09:57:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarm%20Pass%20Building.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1297727,
+  "sourceSha1": "1cd388deb5e42f61a34e2c2cd0f3ccaf2319a11d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d2/Farm_Pass_Building.png/revision/latest?cb=20211016095743",
+  "title": "File:Farm Pass Building.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1375
+}

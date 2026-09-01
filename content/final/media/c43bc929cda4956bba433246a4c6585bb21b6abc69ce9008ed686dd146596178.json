@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_4_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Daisies_Blue.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 4 Pedestal Floral Pink Daisies Pink Floral Golden Daisies Blue.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T18:22:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%204%20Pedestal%20Floral%20Pink%20Daisies%20Pink%20Floral%20Golden%20Daisies%20Blue.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 92757,
+  "sourceSha1": "77afb0ef329fef0263684584e9fddb0786e076e2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/Pedestal_Level_4_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Daisies_Blue.png/revision/latest?cb=20200824182224",
+  "title": "File:Pedestal Level 4 Pedestal Floral Pink Daisies Pink Floral Golden Daisies Blue.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

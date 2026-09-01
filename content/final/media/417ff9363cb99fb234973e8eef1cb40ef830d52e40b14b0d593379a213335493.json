@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mint_Fudge.png",
+  "height": 1920,
+  "immutableUrl": null,
+  "mediaId": "File:Mint Fudge.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-12T15:05:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMint%20Fudge.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2956429,
+  "sourceSha1": "83ae87e3de01b1deefe1e7aa6a7b844c4176d8c3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/40/Mint_Fudge.png/revision/latest?cb=20240212150535",
+  "title": "File:Mint Fudge.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1920
+}

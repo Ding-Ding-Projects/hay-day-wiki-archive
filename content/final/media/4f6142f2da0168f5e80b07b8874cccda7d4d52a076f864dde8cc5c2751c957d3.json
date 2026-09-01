@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Dark_Purple.png",
+  "height": 228,
+  "immutableUrl": null,
+  "mediaId": "File:Cabin Dark Purple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-20T11:27:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACabin%20Dark%20Purple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 45131,
+  "sourceSha1": "61560e85ea26479d79dda84583b01c9902175adc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Cabin_Dark_Purple.png/revision/latest?cb=20180720112740",
+  "title": "File:Cabin Dark Purple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 224
+}

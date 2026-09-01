@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Long_Gift.png",
+  "height": 2160,
+  "immutableUrl": null,
+  "mediaId": "File:Long Gift.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-18T02:47:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALong%20Gift.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3117694,
+  "sourceSha1": "46b4237e87bb13702b5a7389c48d56d78310a24b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f5/Long_Gift.png/revision/latest?cb=20240218024757",
+  "title": "File:Long Gift.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2160
+}

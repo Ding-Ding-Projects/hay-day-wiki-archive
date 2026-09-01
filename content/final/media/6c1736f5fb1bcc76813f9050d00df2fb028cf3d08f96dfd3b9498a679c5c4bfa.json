@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Onion_Stage_5.png",
+  "height": 401,
+  "immutableUrl": null,
+  "mediaId": "File:Onion Stage 5.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-06-23T16:57:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOnion%20Stage%205.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 108324,
+  "sourceSha1": "7ca9de7ea4700a79f9a074c0c569a337850b9e5b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Onion_Stage_5.png/revision/latest?cb=20160623165749",
+  "title": "File:Onion Stage 5.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 401
+}

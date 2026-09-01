@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Baptiste?action=history",
+    "importedAt": "2026-09-01T03:11:05.030Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Baptiste?oldid=110961",
+    "sourceRevisionId": 110961,
+    "sourceTitle": "Baptiste",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Baptiste?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/6/6b/Baptiste.png/revision/latest?cb=20260829144636\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Baptiste\" src=\"https://static.wikia.nocookie.net/hayday/images/6/6b/Baptiste.png/revision/latest/scale-to-width-down/200?cb=20260829144636\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p><b>Baptiste</b> is a <a href=\"/wiki/category%2Fcategory-characters-29468\" title=\"Category:Characters\" rel=\"noopener noreferrer\" target=\"_blank\">non-player character</a> (NPC) who manages the Design Festival event. He was introduced in early 2025, along with the event.\n</p><p>Baptiste is a French photographer who has a stall near <a href=\"/wiki/maggie-29376\" title=\"Maggie\" rel=\"noopener noreferrer\" target=\"_blank\">Maggie</a>'s workbench. When there's a Design Festival happening, he walks around the farm, taking photos. The event allows players to design a decoration arrangement based on a given theme and earn rewards.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831161534\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36757-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831161534 and revision id 110961. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "70019d38f4b7e267cfa471c0b1c43d427e2df6c1ea149e40984edf693d37110e",
+  "internalLinks": [
+    {
+      "route": "/wiki/category%2Fcategory-characters-29468",
+      "title": "Category:Characters"
+    },
+    {
+      "route": "/wiki/maggie-29376",
+      "title": "Maggie"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36757,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Baptiste.png"
+  ],
+  "revisionId": 110961,
+  "revisionTimestamp": "2026-08-29T14:51:02Z",
+  "route": "/wiki/baptiste-36757",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Baptiste",
+  "title": "Baptiste",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a0e22d38d865e245b3e2d4d427d5bc400bf89c5a4f614f20f7e516cf78900444"
+}

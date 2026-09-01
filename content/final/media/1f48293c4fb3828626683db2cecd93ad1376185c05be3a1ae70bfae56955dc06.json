@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hat_Maker_Mastery.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Hat Maker Mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-01T17:36:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHat%20Maker%20Mastery.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 53502,
+  "sourceSha1": "def67bd71b57634af4b3318b848ca5bbda53b946",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/43/Hat_Maker_Mastery.png/revision/latest?cb=20180501173601",
+  "title": "File:Hat Maker Mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

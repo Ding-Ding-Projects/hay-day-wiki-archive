@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sheep_Summer.png",
+  "height": 510,
+  "immutableUrl": null,
+  "mediaId": "File:Sheep Summer.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-10T01:16:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASheep%20Summer.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 192875,
+  "sourceSha1": "f0f0b7423c3b82b993e9366c1b6970c540889067",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/18/Sheep_Summer.png/revision/latest?cb=20260610011612",
+  "title": "File:Sheep Summer.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

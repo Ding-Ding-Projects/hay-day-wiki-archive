@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Recycling_Truck.png",
+  "height": 416,
+  "immutableUrl": null,
+  "mediaId": "File:Recycling Truck.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T18:08:47Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARecycling%20Truck.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 143473,
+  "sourceSha1": "0f2a9624bf113ecaf0cc7efdc761c0dab205835a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Recycling_Truck.png/revision/latest?cb=20260509180847",
+  "title": "File:Recycling Truck.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 473
+}

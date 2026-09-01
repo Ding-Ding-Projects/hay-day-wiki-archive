@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sugar_Skull_Paths.png",
+  "height": 267,
+  "immutableUrl": null,
+  "mediaId": "File:Sugar Skull Paths.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-08-16T16:58:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASugar%20Skull%20Paths.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 444544,
+  "sourceSha1": "da6c0ba85430a3971b8999cb81c7a07bf1681349",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/32/Sugar_Skull_Paths.png/revision/latest?cb=20240816165810",
+  "title": "File:Sugar Skull Paths.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 402
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Megaphone.png",
+  "height": 101,
+  "immutableUrl": null,
+  "mediaId": "File:Megaphone.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-12-11T05:14:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMegaphone.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 26996,
+  "sourceSha1": "1a38f3a2fb9c343faf9547ad56501f4e3b53b0f4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Megaphone.png/revision/latest?cb=20151211051442",
+  "title": "File:Megaphone.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 114
+}

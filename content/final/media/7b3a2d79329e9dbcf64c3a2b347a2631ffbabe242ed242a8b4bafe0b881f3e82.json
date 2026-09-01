@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Checkered_Tile.png",
+  "height": 185,
+  "immutableUrl": null,
+  "mediaId": "File:Checkered Tile.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-06-26T21:16:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACheckered%20Tile.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 26625,
+  "sourceSha1": "4bb00a1c2ede51e0ad4c5b16774bad449631e574",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/96/Checkered_Tile.png/revision/latest?cb=20240626211605",
+  "title": "File:Checkered Tile.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 185
+}

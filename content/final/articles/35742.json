@@ -1,0 +1,128 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Hay_Day_Updates?action=history",
+    "importedAt": "2026-09-01T03:08:39.700Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Hay_Day_Updates?oldid=102585",
+    "sourceRevisionId": 102585,
+    "sourceTitle": "Hay Day Wiki:Hay Day Updates",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "General_rules",
+      "index": "1",
+      "level": 2,
+      "line": "General rules",
+      "text": "General rules"
+    },
+    {
+      "anchor": "Uploading_images",
+      "index": "2",
+      "level": 2,
+      "line": "Uploading images",
+      "text": "Uploading images"
+    },
+    {
+      "anchor": "New_production_buildings",
+      "index": "3",
+      "level": 2,
+      "line": "New production buildings",
+      "text": "New production buildings"
+    },
+    {
+      "anchor": "New_Trees_or_Bushes",
+      "index": "4",
+      "level": 2,
+      "line": "New Trees or Bushes",
+      "text": "New Trees or Bushes"
+    },
+    {
+      "anchor": "New_Crops",
+      "index": "5",
+      "level": 2,
+      "line": "New Crops",
+      "text": "New Crops"
+    },
+    {
+      "anchor": "New_Product",
+      "index": "6",
+      "level": 2,
+      "line": "New Product",
+      "text": "New Product"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Hay_Day_Updates?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Instructions for updating the wiki information when there are major updates:\n</p>\n<div class=\"toc\"><div class=\"toctitle\"><h2>Contents</h2><span class=\"toctogglespan\"></span></div>\n<ul>\n<li class=\"toclevel-1 tocsection-1\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">General rules</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Uploading images</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">New production buildings</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">New Trees or Bushes</span></a></li>\n<li class=\"toclevel-1 tocsection-5\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">5</span> <span class=\"toctext\">New Crops</span></a></li>\n<li class=\"toclevel-1 tocsection-6\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"tocnumber\">6</span> <span class=\"toctext\">New Product</span></a></li>\n</ul>\n</div>\n\n<h2><span class=\"mw-headline\">General rules</span></h2>\n<ol><li>Do not add rumors, only information released either by Supercell staff or content creators.</li>\n<li>Mistakes can always be corrected later, but you should still try and do it correctly. If you don't know what you're doing, leave it for someone else.</li>\n<li>All names of products, crops, buildings, animals, etc. should be written with the first letter of each word capital, unless stated otherwise.</li>\n<li>All new products, crops, buildings, animals, etc. should be added in the appropriate subpage of <a href=\"/wiki/experience-levels-2057\" title=\"Experience Levels\" rel=\"noopener noreferrer\" target=\"_blank\">Experience Levels</a>; all images for levels which new additions should be marked as needing to be updated.</li>\n<li>All new pages should be added to the appropriate section of <a href=\"/unavailable-source?title=Template%3ANavigation\" title=\"Template:Navigation\" rel=\"noopener noreferrer\" target=\"_blank\">Template:Navigation</a>. Note that the sections are identified by the items at the right side of the equals signs, which mark thr <b>ends</b> of the section. In case of a new production building, use the name of the building without spaces, appended by the word \"Menu\"; add it in the proper location by level when the building becomes available. Please keep each section sorted for human-readability.</li></ol>\n<h2><span class=\"mw-headline\">Uploading images</span></h2>\n<p>If reasonably possible, this should be done first. However, the rest of the work can be done even without the image. That having been said, don't add imageless items to navboxes, as the image links won't work until the image is uploaded, making the additional a useless uglification of the navbox.\n</p><p>What images can be uploaded:\n</p>\n<ol><li>Ideally, get the image officially released by Supercell.</li>\n<li>If you don't have access to that image, an image from the videos of the content creators, with reasonable effort to remove background, is acceptable as a place holder.</li>\n<li>A standard placeholder image is not good, but it's better than nothing.</li></ol>\n<p>If a place holder has been uploaded, and you get an official image, make sure to remove any statement on the image description page saying it's a place holder.\n</p>\n<h2><span class=\"mw-headline\">New production buildings</span></h2>\n<p>When a new production building is added, the following needs to be done:\n</p>\n<ol><li>Create an article about the building. Unknown numbers should have question marks as place holders. The individual products should be listed in order they become available, in the format written below for new products.</li>\n<li>Create a new category, with the name of the building, with the <code>Category:</code> prefix, and the word \"Products\" after. The content should be (replacing the words \"Place Holder\" with the building name):\n<dl><dd>[[File:Place Holder.png|thumb]]</dd>\n<dd>Products of the [[Place Holder]].</dd>\n<dd>[[Category:Products]]</dd></dl></li>\n<li>Once images for the machine's products have been uploaded, create their navigation box. The name should be the name of the machine, with capitalisation as above but no spaces, with the <code>Template:</code> prefix and ending with \"Menu\".The content should be:\n<ol><li>The opening line <code>{{#invoke:navbox|machine|name=</code> followed by the name of the machine</li>\n<li>All products in alphabetical order, one per line, each prefixed with a | character (called a \"pipe\")</li>\n<li>A double close curly bracket.</li></ol></li>\n<li>Add the building to <a href=\"/unavailable-source?title=Module%3AInfoicon%2Fdata\" title=\"Module:Infoicon/data\" rel=\"noopener noreferrer\" target=\"_blank\">Module:Infoicon/data</a>. Basic instructions are on that page; for the name value, generally use the full first word and the first letter of the second; one word buildings should use the full name, and when more than two words are present in the building name use the full version of each but the last followed by the first letter of the last; always use all lower case with no spaces. For the value, simply use the name of the building. For example:\n<dl><dd>[\"bakery\"] = \"Bakery\",</dd>\n<dd>[\"icecreamm\"] = \"Ice Cream Maker\",</dd>\n<dd>[\"stewp\"]  = \"Stew Pot\",</dd>\n<dd><b>Important note</b>: Screwing this page up will screw up nearly every wiki page here. Make sure to follow all the instructions there, including checking the table at the end; if the image has not yet been uploaded, it will be a red link.</dd></dl></li>\n<li>Add the building to <a href=\"/unavailable-source?title=Template%3AProductionBuildingsMenu\" title=\"Template:ProductionBuildingsMenu\" rel=\"noopener noreferrer\" target=\"_blank\">Template:ProductionBuildingsMenu</a>. Since this template has no images, this can be done before the image is uploaded.</li>\n<li>Add the building to <a href=\"/wiki/production-buildings-7699\" title=\"Production Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">Production Buildings</a>.</li></ol>\n<h2><span class=\"mw-headline\">New Trees or Bushes</span></h2>\n<ol><li>Create an article for the tree or bush.</li>\n<li>List the new tree or bush at <a href=\"/unavailable-source?title=Module%3AInfoicon%2Fdata\" title=\"Module:Infoicon/data\" rel=\"noopener noreferrer\" target=\"_blank\">Module:Infoicon/data</a>. <b>Important note</b>: Screwing up this page will screw up nearly every wiki page here. Make sure to follow all the instructions there, including checking the table at the end; if the image has not yet been uploaded, it will be a red link.</li>\n<li>Once the image has been uploaded, add the tree or bush to <a href=\"/unavailable-source?title=Template%3ATreesMenu\" title=\"Template:TreesMenu\" rel=\"noopener noreferrer\" target=\"_blank\">Template:TreesMenu</a> (even if it's a bush).</li>\n<li>List the tree or bush at <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Trees and Bushes</a>.</li>\n<li>Don't forget to add the fruit or berry to the wiki, as stated in the section for new crops.</li></ol>\n<h2><span class=\"mw-headline\">New Crops</span></h2>\n<ol><li>Create an article about the crop. Copy from a crop of the same group (field, tree or bush).</li>\n<li>Products which use the crop should be listed in order by level, in the format listed in the new product section.</li>\n<li>List, as appropriate, in <a href=\"/unavailable-source?title=Template%3AFieldCropsMenu\" title=\"Template:FieldCropsMenu\" rel=\"noopener noreferrer\" target=\"_blank\">Template:FieldCropsMenu</a> or <a href=\"/unavailable-source?title=Template%3ATreeCropsMenu\" title=\"Template:TreeCropsMenu\" rel=\"noopener noreferrer\" target=\"_blank\">Template:TreeCropsMenu</a> (the latter also applies to bush crops).</li>\n<li>List in both <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crops</a> and <a href=\"/wiki/crops-list-33504\" title=\"Crops List\" rel=\"noopener noreferrer\" target=\"_blank\">Crops List</a>, which are sorted by level.</li></ol>\n<p><br>\n</p>\n<h2><span class=\"mw-headline\">New Product</span></h2>\n<ol><li>Create the article about the product.</li>\n<li>On the building's page, add a line with the following format:\n<dl><dd><dl><dd><code>|<i>product name</i>|<i>level</i>|<i>time</i>|<i>full price</i></code></dd></dl></dd>\n<dd>If any of the fields is unknown, replace with a single question mark.</dd>\n<dd>The time field (if known) should be written as follows:\n<ul><li>For times less than an hour, use the number of minutes followed by the letter m (lowercase, no spaces).</li>\n<li>For full multiples of an hour, use the number followed by the letter h (lowercase, no spaces).</li>\n<li>For any other time, write the number of hours, followed by a colon, followed by the number of minutes in 2 digits.</li></ul></dd>\n<dd>The time is used to calculate the number of diamonds ot would take to make the product instantaneously; if result is wrong, add a slash followed by the number of diamonds at the end of the time. Note that the template will give the value of&#160;? for this value for time.</dd></dl></li>\n<li>The price field is the maximum number of coins you can sell 1 unit of the product for. Don't use decimals; <a href=\"/wiki/bread-2084\" title=\"Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Bread</a> had the value of 21, not 21.6. The price is used to calculate the amount of XP you get for making the item; if this value is wrong, add a slash and the correct XP.</li>\n<li>Go to each ingredient. If no section exists for ingredient usage, copy it in from an other product article; don't forget that the end of the table needs a double curly bracket. Within the table, add new products in the following format:\n<dl><dd><dl><dd><code>|<i>product name</i>|<i>number of the ingredient needed to make product</i>|<i>level when the product becomes available</i></code></dd></dl></dd></dl></li></ol>\n<!-- \nNewPP limit report\nCached time: 20260901030835\nCache expiry: 2592000\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.010 seconds\nReal time usage: 0.016 seconds\nPreprocessor visited node count: 50/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 94/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35742-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030835 and revision id 102585. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "92eaf12acc2d5b66a0ca1bce8a40620f01372ce66554fd32b36e6b6ee9cf78a0",
+  "internalLinks": [
+    {
+      "route": "/wiki/bread-2084",
+      "title": "Bread"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/crops-list-33504",
+      "title": "Crops List"
+    },
+    {
+      "route": "/wiki/experience-levels-2057",
+      "title": "Experience Levels"
+    },
+    {
+      "route": null,
+      "title": "Module:Infoicon/data"
+    },
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    },
+    {
+      "route": null,
+      "title": "Template:FieldCropsMenu"
+    },
+    {
+      "route": null,
+      "title": "Template:Navigation"
+    },
+    {
+      "route": null,
+      "title": "Template:ProductionBuildingsMenu"
+    },
+    {
+      "route": null,
+      "title": "Template:TreeCropsMenu"
+    },
+    {
+      "route": null,
+      "title": "Template:TreesMenu"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    }
+  ],
+  "namespace": 4,
+  "pageId": 35742,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 102585,
+  "revisionTimestamp": "2023-03-23T21:42:54Z",
+  "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-hay-day-updates-35742",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Hay_Day_Updates",
+  "title": "Hay Day Wiki:Hay Day Updates",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "42b9228ed3d81e7316c415d64aad2648abbba7633313e75573afa7db821f21b9"
+}

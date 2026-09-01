@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Pillars.png",
+  "height": 638,
+  "immutableUrl": null,
+  "mediaId": "File:Golden Pillars.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-06T17:26:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGolden%20Pillars.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 284694,
+  "sourceSha1": "08722e22aa73f79d5078cc47584a9ab12e620b54",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Golden_Pillars.png/revision/latest?cb=20220406172615",
+  "title": "File:Golden Pillars.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 583
+}

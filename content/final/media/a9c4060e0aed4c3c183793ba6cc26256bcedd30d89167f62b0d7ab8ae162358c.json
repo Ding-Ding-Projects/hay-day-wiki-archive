@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Porch_Barn.png",
+  "height": 213,
+  "immutableUrl": null,
+  "mediaId": "File:Porch Barn.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-23T18:50:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APorch%20Barn.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 165233,
+  "sourceSha1": "615aeada0e4625304536a12e3478bd3d111c3eee",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6f/Porch_Barn.png/revision/latest?cb=20180423185057",
+  "title": "File:Porch Barn.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 258
+}

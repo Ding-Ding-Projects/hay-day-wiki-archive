@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products?action=history",
+    "importedAt": "2026-09-01T02:43:19.454Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products?oldid=57803",
+    "sourceRevisionId": 57803,
+    "sourceTitle": "Category:Sushi Bar Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/b/b3/Sushi_Bar.png/revision/latest?cb=20250925210447\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sushi Bar\" src=\"https://static.wikia.nocookie.net/hayday/images/b/b3/Sushi_Bar.png/revision/latest/scale-to-width-down/180?cb=20250925210447\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ASushi_Bar.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/sushi-bar-8892\" title=\"Sushi Bar\" rel=\"noopener noreferrer\" target=\"_blank\">Sushi Bar</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024308\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:8915-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024308 and revision id 57803. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "d63381b5338d1413403703f7a26312af27f61154e0f52385f0506303b425471e",
+  "internalLinks": [
+    {
+      "route": "/wiki/sushi-bar-8892",
+      "title": "Sushi Bar"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 8915,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Sushi Bar.png"
+  ],
+  "revisionId": 57803,
+  "revisionTimestamp": "2016-01-21T18:29:29Z",
+  "route": "/wiki/category%2Fcategory-sushi-bar-products-8915",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products",
+  "title": "Category:Sushi Bar Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "564b92c3515a218862f7ed7fb2f0a031bc7117c25f6406dbe4a378f72d0f3b8e"
+}

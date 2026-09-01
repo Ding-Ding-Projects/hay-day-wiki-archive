@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Currencies?action=history",
+    "importedAt": "2026-09-01T03:02:16.958Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Currencies?oldid=74212",
+    "sourceRevisionId": 74212,
+    "sourceTitle": "Category:Image Currencies",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Currencies?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Pictures of <a href=\"/wiki/currencies-2658\" title=\"Currencies\" rel=\"noopener noreferrer\" target=\"_blank\">Currencies</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030213\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28593-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030213 and revision id 74212. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "add2f2fa4cfb3983379f603691b783fd589c595c7b82f57544236b02c42a3fe7",
+  "internalLinks": [
+    {
+      "route": "/wiki/currencies-2658",
+      "title": "Currencies"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 28593,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 74212,
+  "revisionTimestamp": "2017-10-22T10:07:40Z",
+  "route": "/wiki/category%2Fcategory-image-currencies-28593",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Currencies",
+  "title": "Category:Image Currencies",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "deb5dcc5f5c17bc390dd8d7f58e9543333eab911752030df85516d2361b43a32"
+}

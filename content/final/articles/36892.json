@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme?action=history",
+    "importedAt": "2026-09-01T03:11:11.543Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme?oldid=110820",
+    "sourceRevisionId": 110820,
+    "sourceTitle": "Tower Doner Supreme",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/tower-d%C3%B6ner-supreme-36799\" title=\"Tower Döner Supreme\" rel=\"noopener noreferrer\" target=\"_blank\">Tower Döner Supreme</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901031109\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36892-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031109 and revision id 110820. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "81213ed2a6a76e23c272449e5ecccf9764de044877490f604b517841d89078c2",
+  "internalLinks": [
+    {
+      "route": "/wiki/tower-d%C3%B6ner-supreme-36799",
+      "title": "Tower Döner Supreme"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36892,
+  "redirectTarget": "Tower Döner Supreme",
+  "referencedMediaIds": [],
+  "revisionId": 110820,
+  "revisionTimestamp": "2026-08-05T08:47:23Z",
+  "route": "/wiki/tower-doner-supreme-36892",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme",
+  "title": "Tower Doner Supreme",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b5dce1ba1843ddfa79285d654035580806bbc384b57165eabc88bf5f3f45573c"
+}

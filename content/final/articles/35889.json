@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/German_Shepherd_Puppy?action=history",
+    "importedAt": "2026-09-01T03:09:16.382Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/German_Shepherd_Puppy?oldid=103699",
+    "sourceRevisionId": 103699,
+    "sourceTitle": "German Shepherd Puppy",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/German_Shepherd_Puppy?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FGerman%20Shepherd%20Puppy\" title=\"Special:WhatLinksHere/German Shepherd Puppy\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/german-shepherd-puppy-35889\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030911\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1309/2097152 bytes\nTemplate argument size: 378/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.244      1 Template:Delete\n100.00%    3.244      1 -total\n 49.60%    1.609      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35889-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030911 and revision id 103699. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "71e4ed86bd880c5171b0987b6e0f62b1a0a8dbeb82917a9c22bb0fde73b97674",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 35889,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 103699,
+  "revisionTimestamp": "2023-08-30T23:46:32Z",
+  "route": "/wiki/german-shepherd-puppy-35889",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/German_Shepherd_Puppy",
+  "title": "German Shepherd Puppy",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d"
+}

@@ -1,0 +1,460 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Events?action=history",
+    "importedAt": "2026-09-01T02:41:14.187Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Events?oldid=108996",
+    "sourceRevisionId": 108996,
+    "sourceTitle": "Events",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Frequency",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Frequency</b>",
+      "text": "<b>Frequency</b>"
+    },
+    {
+      "anchor": "Appearance",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Appearance</b>",
+      "text": "<b>Appearance</b>"
+    },
+    {
+      "anchor": "Bonus_and_boost_events",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Bonus and boost events</b>",
+      "text": "<b>Bonus and boost events</b>"
+    },
+    {
+      "anchor": "Crops/Trees_and_Bushes_bonuses_and_boosts",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Crops/Trees and Bushes bonuses and boosts</b>",
+      "text": "<b>Crops/Trees and Bushes bonuses and boosts</b>"
+    },
+    {
+      "anchor": "Production_boosts",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Production boosts</b>",
+      "text": "<b>Production boosts</b>"
+    },
+    {
+      "anchor": "Riverboat_bonuses",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Riverboat bonuses</b>",
+      "text": "<b>Riverboat bonuses</b>"
+    },
+    {
+      "anchor": "Spin_the_Wheel_bonuses",
+      "index": "7",
+      "level": 3,
+      "line": "<b>Spin the Wheel bonuses</b>",
+      "text": "<b>Spin the Wheel bonuses</b>"
+    },
+    {
+      "anchor": "Truck_bonuses",
+      "index": "8",
+      "level": 3,
+      "line": "<b>Truck bonuses</b>",
+      "text": "<b>Truck bonuses</b>"
+    },
+    {
+      "anchor": "Visitors_bonuses",
+      "index": "9",
+      "level": 3,
+      "line": "<b>Visitors bonuses</b>",
+      "text": "<b>Visitors bonuses</b>"
+    },
+    {
+      "anchor": "Yard_Sale",
+      "index": "10",
+      "level": 3,
+      "line": "<b>Yard Sale</b>",
+      "text": "<b>Yard Sale</b>"
+    },
+    {
+      "anchor": "Farm_Pass_Point_Event",
+      "index": "11",
+      "level": 3,
+      "line": "<b>Farm Pass Point Event</b>",
+      "text": "<b>Farm Pass Point Event</b>"
+    },
+    {
+      "anchor": "Mystery_Box_Bonanza",
+      "index": "12",
+      "level": 3,
+      "line": "<b>Mystery Box Bonanza</b>",
+      "text": "<b>Mystery Box Bonanza</b>"
+    },
+    {
+      "anchor": "Feeding_Pets",
+      "index": "13",
+      "level": 3,
+      "line": "<b>Feeding Pets</b>",
+      "text": "<b>Feeding Pets</b>"
+    },
+    {
+      "anchor": "Task_Event",
+      "index": "14",
+      "level": 3,
+      "line": "<b>Task Event</b>",
+      "text": "<b>Task Event</b>"
+    },
+    {
+      "anchor": "County_Fair",
+      "index": "15",
+      "level": 3,
+      "line": "<b>County Fair</b>",
+      "text": "<b>County Fair</b>"
+    },
+    {
+      "anchor": "Design_Festival",
+      "index": "16",
+      "level": 3,
+      "line": "<b>Design Festival</b>",
+      "text": "<b>Design Festival</b>"
+    },
+    {
+      "anchor": "Tiny_Trail",
+      "index": "17",
+      "level": 3,
+      "line": "<b>Tiny Trail</b>",
+      "text": "<b>Tiny Trail</b>"
+    },
+    {
+      "anchor": "Global_Events",
+      "index": "18",
+      "level": 3,
+      "line": "<b>Global Events</b>",
+      "text": "<b>Global Events</b>"
+    },
+    {
+      "anchor": "Seasonal_events",
+      "index": "19",
+      "level": 3,
+      "line": "<b>Seasonal events</b>",
+      "text": "<b>Seasonal events</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "20",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know?",
+      "index": "21",
+      "level": 3,
+      "line": "<b>Did you know?</b>",
+      "text": "<b>Did you know?</b>"
+    },
+    {
+      "anchor": "See_also",
+      "index": "22",
+      "level": 3,
+      "line": "<b>See also</b>",
+      "text": "<b>See also</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Events?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9a/Event_Board.png/revision/latest?cb=20191028162131\" class=\"mw-file-description image\" title=\"Blank board\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blank board\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Blank board</figcaption></figure>\n<p><b>Events</b> are temporary <b>activities</b> players can participate in to get <b>bonuses</b>, <b>boosts</b> or <b>rewards</b>. The <b>event board</b> serves as a notification board for events.\n</p><p>Events are unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 9.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Frequency</b></span></h3>\n<p>Events currently occur every day, starting on Monday at 8am UTC. While some events happen to celebrate a particular holiday, others can happen at any time, in no particular order.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Appearance</b></span></h3>\n<p>The event board's appearance changes according to the event that is active in the game. A poster (as shown below) will be pasted on the event board. If no event is active, the blank event board (as shown above) will be displayed. Sometimes the game shows blank event board when it cannot connect to the server, you can visit any player's farm then go back to your farm to have event shown on the board.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Bonus and boost events</b></span></h3>\n<p><b>Bonus events</b> are events where players can get extra items such as <a href=\"/wiki/coin-6079\" title=\"Coin\" rel=\"noopener noreferrer\" target=\"_blank\">coins</a>, <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points, <a href=\"/wiki/reputation-14275\" title=\"Reputation\" rel=\"noopener noreferrer\" target=\"_blank\">reputation</a> points, <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>, <a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a> or <a href=\"/wiki/puzzle-piece-28177\" title=\"Puzzle Piece\" rel=\"noopener noreferrer\" target=\"_blank\">puzzle pieces</a> when filling orders.\n</p><p><b>Boost events</b> make <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crops</a> or <a href=\"/wiki/production-buildings-7699\" title=\"Production Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">machines</a> faster.\n</p><p>Additionally, there are 5 new events that were added in Summer 2023 update as follow: <a href=\"/wiki/farm-pass-34637\" title=\"Farm Pass\" rel=\"noopener noreferrer\" target=\"_blank\">Farm Pass</a> points event, <a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">Mystery Box</a> event, <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">Trees and Bushes</a> event, Animal feed event, and Caretaker event. \n</p><p>Bonus and boost events usually last for 24 hours.\n</p>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Crops/Trees and Bushes bonuses and boosts</b></span></h3>\n<ul><li>Bonus: all or 3 random crops yield one extra crop.</li>\n<li>Boost: all or 3 random crops grow faster.</li>\n<li>Boost: 3 random types of trees or bushes grow faster.</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACrops_Bonus.png\" title=\"Crops Bonus.png (74 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/32/Crops_Bonus.png/revision/latest/scale-to-width-down/185?cb=20190512201215\" title=\"Crops Bonus.png (74 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Crops Bonus.png (74 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACrops_Boost_Random.png\" title=\"Crops Boost Random.png (58 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/85/Crops_Boost_Random.png/revision/latest/scale-to-width-down/185?cb=20190512202128\" title=\"Crops Boost Random.png (58 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Crops Boost Random.png (58 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACrops_Boost_All.png\" title=\"Crops Boost All.png (76 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/69/Crops_Boost_All.png/revision/latest/scale-to-width-down/185?cb=20190512201032\" title=\"Crops Boost All.png (76 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Crops Boost All.png (76 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Production boosts</b></span></h3>\n<ul><li><a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">Farm</a>: all or 3 random production buildings are faster.</li>\n<li><a href=\"/wiki/fishing-lake-23340\" title=\"Fishing Lake\" rel=\"noopener noreferrer\" target=\"_blank\">Fishing Lake</a>: all or 2 production buildings are faster (<a href=\"/wiki/lure-workbench-5889\" title=\"Lure Workbench\" rel=\"noopener noreferrer\" target=\"_blank\">Lure Workbench</a> and <a href=\"/wiki/lobster-pool-8477\" title=\"Lobster Pool\" rel=\"noopener noreferrer\" target=\"_blank\">Lobster Pool</a>, or <a href=\"/wiki/net-maker-8475\" title=\"Net Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Net Maker</a> and <a href=\"/wiki/duck-salon-17003\" title=\"Duck Salon\" rel=\"noopener noreferrer\" target=\"_blank\">Duck Salon</a>).</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AMachine_Boost_Random.png\" title=\"Machine Boost Random.png (65 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/da/Machine_Boost_Random.png/revision/latest/scale-to-width-down/185?cb=20191028150220\" title=\"Machine Boost Random.png (65 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Machine Boost Random.png (65 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AMachine_Boost_All.png\" title=\"Machine Boost All.png (94 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/ac/Machine_Boost_All.png/revision/latest/scale-to-width-down/185?cb=20191028150228\" title=\"Machine Boost All.png (94 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Machine Boost All.png (94 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFishing_Boost_Lures.png\" title=\"Fishing Boost Lures.png (103 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/64/Fishing_Boost_Lures.png/revision/latest/scale-to-width-down/185?cb=20191028150151\" title=\"Fishing Boost Lures.png (103 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Fishing Boost Lures.png (103 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFishing_Boost_Nets.png\" title=\"Fishing Boost Nets.png (104 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a9/Fishing_Boost_Nets.png/revision/latest/scale-to-width-down/185?cb=20191028150410\" title=\"Fishing Boost Nets.png (104 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Fishing Boost Nets.png (104 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFishing_Boost_All.png\" title=\"Fishing Boost All.png (99 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/ca/Fishing_Boost_All.png/revision/latest/scale-to-width-down/185?cb=20191028150202\" title=\"Fishing Boost All.png (99 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Fishing Boost All.png (99 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Riverboat bonuses</b></span></h3>\n<ul><li>Coin and xp are doubled (xp are tripled rarely) without limits or every boat gives an extra reward up to a maximum of five (<a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>, <a href=\"/wiki/expansion-permit-27088\" title=\"Expansion Permit\" rel=\"noopener noreferrer\" target=\"_blank\">expansion permits</a>, <a href=\"/wiki/expansion-23339\" title=\"Expansion\" rel=\"noopener noreferrer\" target=\"_blank\">expansion</a> supplies, <a href=\"/wiki/puzzle-piece-28177\" title=\"Puzzle Piece\" rel=\"noopener noreferrer\" target=\"_blank\">puzzle pieces</a>, <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>).</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_XP.png\" title=\"Riverboat Bonus XP.png (77 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Riverboat_Bonus_XP.png/revision/latest/scale-to-width-down/185?cb=20191028160338\" title=\"Riverboat Bonus XP.png (77 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus XP.png (77 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_3XP.png\" title=\"Riverboat Bonus 3XP.png (77 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/02/Riverboat_Bonus_3XP.png/revision/latest/scale-to-width-down/134?cb=20200706142233\" title=\"Riverboat Bonus 3XP.png (77 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"162\" loading=\"lazy\"><img title=\"Riverboat Bonus 3XP.png (77 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"162\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_3XPa.png\" title=\"Riverboat Bonus 3XPa.png (63 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4a/Riverboat_Bonus_3XPa.png/revision/latest/scale-to-width-down/131?cb=20211219153135\" title=\"Riverboat Bonus 3XPa.png (63 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"160\" loading=\"lazy\"><img title=\"Riverboat Bonus 3XPa.png (63 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"160\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_Coins.png\" title=\"Riverboat Bonus Coins.png (78 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Riverboat_Bonus_Coins.png/revision/latest/scale-to-width-down/185?cb=20191028160331\" title=\"Riverboat Bonus Coins.png (78 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus Coins.png (78 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_Boosters.png\" title=\"Riverboat Bonus Boosters.png (79 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/aa/Riverboat_Bonus_Boosters.png/revision/latest/scale-to-width-down/185?cb=20191028160512\" title=\"Riverboat Bonus Boosters.png (79 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus Boosters.png (79 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_Permits.png\" title=\"Riverboat Bonus Permits.png (85 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f4/Riverboat_Bonus_Permits.png/revision/latest/scale-to-width-down/185?cb=20191028160433\" title=\"Riverboat Bonus Permits.png (85 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus Permits.png (85 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_Puzzles.png\" title=\"Riverboat Bonus Puzzles.png (78 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/07/Riverboat_Bonus_Puzzles.png/revision/latest/scale-to-width-down/185?cb=20191028160343\" title=\"Riverboat Bonus Puzzles.png (78 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus Puzzles.png (78 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ARiverboat_Bonus_Vouchers.png\" title=\"Riverboat Bonus Vouchers.png (79 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9b/Riverboat_Bonus_Vouchers.png/revision/latest/scale-to-width-down/185?cb=20191028160405\" title=\"Riverboat Bonus Vouchers.png (79 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Riverboat Bonus Vouchers.png (79 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Spin the Wheel bonuses</b></span></h3>\n<ul><li>The Wheel Truck stays all day, is purple and contains a certain reward (<a href=\"/wiki/expansion-permit-27088\" title=\"Expansion Permit\" rel=\"noopener noreferrer\" target=\"_blank\">expansion permits</a>, expansion or upgrade <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, <a href=\"/wiki/puzzle-piece-28177\" title=\"Puzzle Piece\" rel=\"noopener noreferrer\" target=\"_blank\">puzzle pieces</a>, <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>).</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ASpin_The_Wheel_Permits.png\" title=\"Spin The Wheel Permits.png (80 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/dd/Spin_The_Wheel_Permits.png/revision/latest/scale-to-width-down/185?cb=20191028155507\" title=\"Spin The Wheel Permits.png (80 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Spin The Wheel Permits.png (80 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ASpin_The_Wheel_Expansion.png\" title=\"Spin The Wheel Expansion.png (75 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/b/b3/Spin_The_Wheel_Expansion.png/revision/latest/scale-to-width-down/185?cb=20191028155515\" title=\"Spin The Wheel Expansion.png (75 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Spin The Wheel Expansion.png (75 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ASpin_The_Wheel_Upgrade.png\" title=\"Spin The Wheel Upgrade.png (75 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a1/Spin_The_Wheel_Upgrade.png/revision/latest/scale-to-width-down/185?cb=20191028155620\" title=\"Spin The Wheel Upgrade.png (75 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Spin The Wheel Upgrade.png (75 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ASpin_The_Wheel_Puzzles.png\" title=\"Spin The Wheel Puzzles.png (79 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/6e/Spin_The_Wheel_Puzzles.png/revision/latest/scale-to-width-down/185?cb=20191028155528\" title=\"Spin The Wheel Puzzles.png (79 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Spin The Wheel Puzzles.png (79 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ASpin_The_Wheel_Vouchers.png\" title=\"Spin The Wheel Vouchers.png (78 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5e/Spin_The_Wheel_Vouchers.png/revision/latest/scale-to-width-down/185?cb=20191028155521\" title=\"Spin The Wheel Vouchers.png (78 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Spin The Wheel Vouchers.png (78 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Truck bonuses</b></span></h3>\n<ul><li>Coin and xp are doubled (xp are tripled rarely) for all orders or purple orders give extra rewards (<a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>, expansion or upgrade <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>).</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_XP.png\" title=\"Truck Bonus XP.png (94 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f7/Truck_Bonus_XP.png/revision/latest/scale-to-width-down/185?cb=20191028152020\" title=\"Truck Bonus XP.png (94 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus XP.png (94 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_3XP.png\" title=\"Truck Bonus 3XP.png (77 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/33/Truck_Bonus_3XP.png/revision/latest/scale-to-width-down/133?cb=20200706141620\" title=\"Truck Bonus 3XP.png (77 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"160\" loading=\"lazy\"><img title=\"Truck Bonus 3XP.png (77 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"160\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_3XPa.png\" title=\"Truck Bonus 3XPa.png (56 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/d0/Truck_Bonus_3XPa.png/revision/latest/scale-to-width-down/132?cb=20211219153118\" title=\"Truck Bonus 3XPa.png (56 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"161\" loading=\"lazy\"><img title=\"Truck Bonus 3XPa.png (56 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"161\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_Coins.png\" title=\"Truck Bonus Coins.png (77 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0c/Truck_Bonus_Coins.png/revision/latest/scale-to-width-down/185?cb=20191028151956\" title=\"Truck Bonus Coins.png (77 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus Coins.png (77 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_Boosters.png\" title=\"Truck Bonus Boosters.png (78 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/39/Truck_Bonus_Boosters.png/revision/latest/scale-to-width-down/185?cb=20191028152758\" title=\"Truck Bonus Boosters.png (78 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus Boosters.png (78 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_Expansion.png\" title=\"Truck Bonus Expansion.png (80 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/d4/Truck_Bonus_Expansion.png/revision/latest/scale-to-width-down/185?cb=20191028152012\" title=\"Truck Bonus Expansion.png (80 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus Expansion.png (80 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_Upgrade.png\" title=\"Truck Bonus Upgrade.png (80 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/58/Truck_Bonus_Upgrade.png/revision/latest/scale-to-width-down/185?cb=20191028152112\" title=\"Truck Bonus Upgrade.png (80 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus Upgrade.png (80 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATruck_Bonus_Vouchers.png\" title=\"Truck Bonus Vouchers.png (76 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a8/Truck_Bonus_Vouchers.png/revision/latest/scale-to-width-down/185?cb=20191028152753\" title=\"Truck Bonus Vouchers.png (76 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Truck Bonus Vouchers.png (76 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Visitors bonuses</b></span></h3>\n<ul><li><a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Town Visitors</a>: Coin, XP, reputation are doubled or purple customers give extra rewards (<a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>, expansion or upgrade <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>).</li>\n<li><a href=\"/wiki/visitors-7539\" title=\"Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Visitors</a>: Coin is doubled.</li></ul>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Visitors_Bonus_XP.png\" title=\"Town Visitors Bonus XP.png (96 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e9/Town_Visitors_Bonus_XP.png/revision/latest/scale-to-width-down/185?cb=20191028151242\" title=\"Town Visitors Bonus XP.png (96 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Visitors Bonus XP.png (96 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Visitors_Bonus_Coins.png\" title=\"Town Visitors Bonus Coins.png (96 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/fd/Town_Visitors_Bonus_Coins.png/revision/latest/scale-to-width-down/185?cb=20191028151235\" title=\"Town Visitors Bonus Coins.png (96 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Visitors Bonus Coins.png (96 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ATown_Visitors_Bonus_Rewards.png\" title=\"Town Visitors Bonus Rewards.png (98 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9c/Town_Visitors_Bonus_Rewards.png/revision/latest/scale-to-width-down/185?cb=20191028151442\" title=\"Town Visitors Bonus Rewards.png (98 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Town Visitors Bonus Rewards.png (98 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AVisitors_Bonus.png\" title=\"Visitors Bonus.png (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/d9/Visitors_Bonus.png/revision/latest/scale-to-width-down/185?cb=20191028151229\" title=\"Visitors Bonus.png (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Visitors Bonus.png (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Yard Sale</b></span></h3>\n<p>Players can sell certain decorations to <a href=\"/wiki/visitors-7539\" title=\"Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">visitors</a>.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AYard_Sale_Event.png\" title=\"Yard Sale Event.png (114 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/dd/Yard_Sale_Event.png/revision/latest/scale-to-width-down/185?cb=20191028145707\" title=\"Yard Sale Event.png (114 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Yard Sale Event.png (114 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Farm Pass Point Event</b></span></h3>\n<p><b>Farm Pass Point Event</b> is activity that you can get double the amount of farm points for completing any farm pass tasks.</p><div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFarm_pass_point_event.jpg\" title=\"Farm pass point event.jpg (37 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9e/Farm_pass_point_event.jpg/revision/latest/scale-to-width-down/129?cb=20230716022825\" title=\"Farm pass point event.jpg (37 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Farm pass point event.jpg (37 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Mystery Box Bonanza</b></span></h3>\n<p><b>Mystery Box Bonanza</b> is an event where <a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">mystery</a> <a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">boxes</a> spam 3 times more on your farm/others.</p><div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AMystery_Box_Bonanza.jpg\" title=\"Mystery Box Bonanza.jpg (9 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4b/Mystery_Box_Bonanza.jpg/revision/latest/scale-to-width-down/134?cb=20230807223943\" title=\"Mystery Box Bonanza.jpg (9 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"168\" loading=\"lazy\"><img title=\"Mystery Box Bonanza.jpg (9 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"168\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Feeding Pets</b></span></h3>\n<p><b>Feeding Pets</b>, just like another xp event. Feeding your pets will give you 2xp for the event.</p><div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFB_IMG_16917891017723.jpg\" title=\"FB IMG 16917891017723.jpg (16 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9d/FB_IMG_16917891017723.jpg/revision/latest/scale-to-width-down/132?cb=20230812072821\" title=\"FB IMG 16917891017723.jpg (16 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"FB IMG 16917891017723.jpg (16 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Task Event</b></span></h3>\n<p>Task Events are events where players complete orders by producing products or harvesting crops, fruits, or animal goods. By doing so, they earn points to unlock milestone rewards. Sometimes, players are grouped into a random competition bracket. Players can also receive additional rewards based on the points they collect.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>County Fair</b></span></h3>\n<p>County Fair are events where players fill request baskets with any crops or products. By doing so, they earn points to unlock milestone rewards similarly to Task Event, but the milestone reset or change reward types everyday. If you collect points enough daily, the fair reward will be unlocked in last day.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Design Festival</b></span></h3>\n<p>Design Festival are events where players decorate given area to win the favor of voters. There are missions which define decoration, amount of deco, and others. Players need to complete them to earn Photo Reels. The currency can be used in shop to get rewards as you would like.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Tiny Trail</b></span></h3>\n<p>Tiny trail is limited-time mini board game on the right of players' farm.  Every order completion players send take one step down the trail, and one step closer the rewards at each milestone. Players can additionally purchase premium rewards by real money.  \n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Global Events</b></span></h3>\n<p><b>Global events</b> are events where players from all around the world can win a global reward by reaching the community's common goal. Players can also win personal rewards such as <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>, <a href=\"/wiki/boosters-27089\" title=\"Boosters\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>, <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, and <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a> by reaching the five goals given to them. Global events last for 2 to 4 days.\n</p><p>There are three types of events: filling orders (<a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a>, <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a> or <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck</a>), catching <a href=\"/wiki/fish-5891\" title=\"Fish\" rel=\"noopener noreferrer\" target=\"_blank\">fish</a>, or helping other players.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Fishing_Event.png\" title=\"Global Fishing Event.png (84 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Global_Fishing_Event.png/revision/latest/scale-to-width-down/185?cb=20191028153007\" title=\"Global Fishing Event.png (84 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Fishing Event.png (84 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Help_Event.png\" title=\"Global Help Event.png (74 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/72/Global_Help_Event.png/revision/latest/scale-to-width-down/185?cb=20190512211618\" title=\"Global Help Event.png (74 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Help Event.png (74 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Riverboat_Event.png\" title=\"Global Riverboat Event.png (81 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f1/Global_Riverboat_Event.png/revision/latest/scale-to-width-down/185?cb=20191028153245\" title=\"Global Riverboat Event.png (81 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Riverboat Event.png (81 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Riverboat_Diamonds_Event.png\" title=\"Global Riverboat Diamonds Event.png (69 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/49/Global_Riverboat_Diamonds_Event.png/revision/latest/scale-to-width-down/185?cb=20190526135640\" title=\"Global Riverboat Diamonds Event.png (69 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Riverboat Diamonds Event.png (69 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Town_Event.png\" title=\"Global Town Event.png (93 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9b/Global_Town_Event.png/revision/latest/scale-to-width-down/185?cb=20191028152214\" title=\"Global Town Event.png (93 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Town Event.png (93 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Town_Diamonds_Event.png\" title=\"Global Town Diamonds Event.png (76 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4d/Global_Town_Diamonds_Event.png/revision/latest/scale-to-width-down/185?cb=20190512211723\" title=\"Global Town Diamonds Event.png (76 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Town Diamonds Event.png (76 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Truck_Event.png\" title=\"Global Truck Event.png (74 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4a/Global_Truck_Event.png/revision/latest/scale-to-width-down/185?cb=20191028152900\" title=\"Global Truck Event.png (74 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Truck Event.png (74 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Truck_Diamonds_Event.png\" title=\"Global Truck Diamonds Event.png (62 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0b/Global_Truck_Diamonds_Event.png/revision/latest/scale-to-width-down/185?cb=20190512211707\" title=\"Global Truck Diamonds Event.png (62 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Global Truck Diamonds Event.png (62 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Seasonal events</b></span></h3>\n<p><b>Seasonal events</b> are global events which take place on special occasions. Players usually win a special decoration if they reach the community's goal, along with usual rewards or seasonal decorations when they reach their personal goals.\n</p><p>Seasonal events last for 4 to 5 days.\n</p><p>See <a href=\"/wiki/decorations-events-24092\" title=\"Decorations/Events\" rel=\"noopener noreferrer\" target=\"_blank\">Decorations/Events</a> for latest rewards.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AHalloween_Truck_Event.png\" title=\"Halloween Truck Event.png (130 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/77/Halloween_Truck_Event.png/revision/latest/scale-to-width-down/111?cb=20211024115659\" title=\"Halloween Truck Event.png (130 KB)\" class=\"thumbimage\" alt=\"\" height=\"150\" width=\"150\" loading=\"lazy\"><img title=\"Halloween Truck Event.png (130 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"150\" width=\"150\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3APlay_For_Trees_Event.png\" title=\"Play For Trees Event.png (133 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Play_For_Trees_Event.png/revision/latest/scale-to-width-down/110?cb=20211024122815\" title=\"Play For Trees Event.png (133 KB)\" class=\"thumbimage\" alt=\"\" height=\"150\" width=\"150\" loading=\"lazy\"><img title=\"Play For Trees Event.png (133 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"150\" width=\"150\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://www.facebook.com/HayDayOfficial\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Facebook page</a> and inbox in game (top-left button) display events for the next week at about Sunday 12pm UTC.</li>\n<li>To prepare for double coins events, fill up your storage with 15 of each crop and 10 of each product.</li>\n<li>Farm visitors 2x coins event is a great way to earn coins. Farm visitors will ask for things you have either most or none in barn and silo. If you know the event is coming soon, start hoarding the most expensive stuffs and make it the most thing you have in barn. Same thing with silo, hoard most expensive fruits or crops. Kick all the visitors that do not ask for the items you hoard until the right ones came. Usually one will ask for barn items and one will ask for silo, so if they finally came asking for them keep them there. When the event starts, sell what you hoarded. After that you can keep searching common goods, such as <a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">wheat</a> and <a href=\"/wiki/egg-2058\" title=\"Egg\" rel=\"noopener noreferrer\" target=\"_blank\">eggs</a> from <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a> since they are easy to get and you need to keep selling to visitors to double the coins as much as you can. You should not find <a href=\"/wiki/corn-2063\" title=\"Corn\" rel=\"noopener noreferrer\" target=\"_blank\">corn</a> and sell to farm visitors because you only get 56 coins for 10 corn sold to farm visitors.</li>\n<li>Prepare for Lure Fishing Season by stockpiling colored lures in your Tackle Box.</li>\n<li>Avoid using Gold Lures during a Lure Fishing Season event as each of the 6 specialty fish can be caught with another type of lure. Save the rare Gold Lures to catch the Speckled Dace, Golden Trout, and Goldfish.</li></ul>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Did you know?</b></span></h3>\n<ul><li>The event ad, which appears when you log into the game and a new event has started, can be flicked away (just like the <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">raven</a>).</li>\n<li>Before the December 2014 update there used to be contribution events in which you had to contribute a certain number of items in order to reach the global goals but Hay Day removed them saying that a lot of players especially low level can not contribute much which affects the score of other players.</li>\n<li>Before the Summer Update 2017 only one event used to last for 4 days from Friday to Tuesday till 4pm (PST).</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>See also</b></span></h3>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/category%2Fcategory-animal-shelters-6565\" title=\"Category:Animal Shelters (467 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Chicken_Coop.png/revision/latest/scale-to-width-down/50?cb=20150713110707\" title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/barn-2652\" title=\"Barn (331 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest/scale-to-width-down/50?cb=20250926033811\" title=\"Barn (331 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Barn (331 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/customization-29379\" title=\"Customization (201 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/49/Maggies_Workbench.png/revision/latest/scale-to-width-down/50?cb=20180413172742\" title=\"Customization (201 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Customization (201 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/broccoli-30746\" title=\"Broccoli (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Broccoli (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Broccoli (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/derby-18422\" title=\"Derby (576 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e8/Derby_Stand.png/revision/latest/scale-to-width-down/50?cb=20150712192526\" title=\"Derby (576 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Derby (576 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/events-7210\" title=\"Events (34 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9a/Event_Board.png/revision/latest/scale-to-width-down/50?cb=20191028162131\" title=\"Events (34 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Events (34 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/farmhouse-7542\" title=\"Farmhouse (30 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Farmhouse.png/revision/latest/scale-to-width-down/50?cb=20160215111547\" title=\"Farmhouse (30 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Farmhouse (30 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/fishing-lake-23340\" title=\"Fishing Lake (637 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Fishing_Boat.png/revision/latest/scale-to-width-down/50?cb=20150712195437\" title=\"Fishing Lake (637 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Fishing Lake (637 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/leaderboard-19046\" title=\"Leaderboard (83 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Leaderboard.png/revision/latest/scale-to-width-down/50?cb=20150712195736\" title=\"Leaderboard (83 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Leaderboard (83 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mailbox-30439\" title=\"Mailbox (59 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/88/Mailbox.png/revision/latest/scale-to-width-down/31?cb=20141230172845\" title=\"Mailbox (59 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mailbox (59 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Daily Dirt (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Daily Dirt (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mine-7452\" title=\"Mine (133 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest/scale-to-width-down/50?cb=20150714140453\" title=\"Mine (133 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mine (133 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/neighborhood-10438\" title=\"Neighborhood (398 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a6/Neighborhood_House.png/revision/latest/scale-to-width-down/50?cb=20160201170459\" title=\"Neighborhood (398 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Neighborhood (398 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/production-buildings-7699\" title=\"Production Buildings (237 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/47/Bakery.png/revision/latest/scale-to-width-down/50?cb=20260810195925\" title=\"Production Buildings (237 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Production Buildings (237 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/boat-2675\" title=\"Boat (516 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest/scale-to-width-down/50?cb=20150712182459\" title=\"Boat (516 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Boat (516 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop (250 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest/scale-to-width-down/50?cb=20191028143054\" title=\"Roadside Shop (250 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Roadside Shop (250 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/silo-2654\" title=\"Silo (228 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Silo.png/revision/latest/scale-to-width-down/50?cb=20250926033422\" title=\"Silo (228 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Silo (228 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/train-station-13239\" title=\"Train Station (628 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f4/Farm_Train_Station.png/revision/latest/scale-to-width-down/50?cb=20150712184204\" title=\"Train Station (628 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Train Station (628 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/truck-2673\" title=\"Truck (132 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/01/Truck.png/revision/latest/scale-to-width-down/36?cb=20141207005356\" title=\"Truck (132 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Truck (132 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/valley-31465\" title=\"Valley (314 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/80/Valley_Board.png/revision/latest/scale-to-width-down/50?cb=20190625060045\" title=\"Valley (314 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Valley (314 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wheel-of-fortune-2745\" title=\"Wheel of Fortune (313 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/60/Wheel_of_Fortune.png/revision/latest/scale-to-width-down/50?cb=20150713123809\" title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831112903\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.097 seconds\nReal time usage: 0.158 seconds\nPreprocessor visited node count: 271/1000000\nPost‐expand include size: 451/2097152 bytes\nTemplate argument size: 140/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 84650/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   90.835      1 -total\n 29.71%   26.983      1 Template:FarmBuildingsMenu\n  2.05%    1.865      1 Template:Languages\n  1.36%    1.233      1 Template:PageDisplay\n  1.16%    1.050      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7210-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831112903 and revision id 108996. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "44b798995454eb81263c862d09798f0ed6ce7f7ce9a673beecc30e7ff11b6427",
+  "internalLinks": [
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/booster-28721",
+      "title": "Booster"
+    },
+    {
+      "route": "/wiki/boosters-27089",
+      "title": "Boosters"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-animal-shelters-6565",
+      "title": "Category:Animal Shelters"
+    },
+    {
+      "route": "/wiki/coin-6079",
+      "title": "Coin"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/customization-29379",
+      "title": "Customization"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/decorations-events-24092",
+      "title": "Decorations/Events"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/duck-salon-17003",
+      "title": "Duck Salon"
+    },
+    {
+      "route": "/wiki/egg-2058",
+      "title": "Egg"
+    },
+    {
+      "route": "/wiki/events-7210",
+      "title": "Events"
+    },
+    {
+      "route": "/wiki/expansion-23339",
+      "title": "Expansion"
+    },
+    {
+      "route": "/wiki/expansion-permit-27088",
+      "title": "Expansion Permit"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/farm-pass-34637",
+      "title": "Farm Pass"
+    },
+    {
+      "route": "/wiki/farmhouse-7542",
+      "title": "Farmhouse"
+    },
+    {
+      "route": "/wiki/fish-5891",
+      "title": "Fish"
+    },
+    {
+      "route": "/wiki/fishing-lake-23340",
+      "title": "Fishing Lake"
+    },
+    {
+      "route": "/wiki/leaderboard-19046",
+      "title": "Leaderboard"
+    },
+    {
+      "route": "/wiki/lobster-pool-8477",
+      "title": "Lobster Pool"
+    },
+    {
+      "route": "/wiki/lure-workbench-5889",
+      "title": "Lure Workbench"
+    },
+    {
+      "route": "/wiki/mailbox-30439",
+      "title": "Mailbox"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/mystery-box-6452",
+      "title": "Mystery Box"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    },
+    {
+      "route": "/wiki/net-maker-8475",
+      "title": "Net Maker"
+    },
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    },
+    {
+      "route": "/wiki/puzzle-piece-28177",
+      "title": "Puzzle Piece"
+    },
+    {
+      "route": "/wiki/reputation-14275",
+      "title": "Reputation"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    },
+    {
+      "route": "/wiki/town-visitors-13241",
+      "title": "Town Visitors"
+    },
+    {
+      "route": "/wiki/train-station-13239",
+      "title": "Train Station"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    },
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    },
+    {
+      "route": "/wiki/valley-31465",
+      "title": "Valley"
+    },
+    {
+      "route": "/wiki/visitors-7539",
+      "title": "Visitors"
+    },
+    {
+      "route": "/wiki/voucher-3671",
+      "title": "Voucher"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    },
+    {
+      "route": "/wiki/wheel-of-fortune-2745",
+      "title": "Wheel of Fortune"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 7210,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bakery.png",
+    "File:Barn.png",
+    "File:Chicken Coop.png",
+    "File:Crops Bonus.png",
+    "File:Crops Boost All.png",
+    "File:Crops Boost Random.png",
+    "File:Derby Stand.png",
+    "File:Event Board.png",
+    "File:Farm pass point event.jpg",
+    "File:Farm Train Station.png",
+    "File:Farmhouse.png",
+    "File:FB IMG 16917891017723.jpg",
+    "File:Fishing Boat.png",
+    "File:Fishing Boost All.png",
+    "File:Fishing Boost Lures.png",
+    "File:Fishing Boost Nets.png",
+    "File:Global Fishing Event.png",
+    "File:Global Help Event.png",
+    "File:Global Riverboat Diamonds Event.png",
+    "File:Global Riverboat Event.png",
+    "File:Global Town Diamonds Event.png",
+    "File:Global Town Event.png",
+    "File:Global Truck Diamonds Event.png",
+    "File:Global Truck Event.png",
+    "File:Halloween Truck Event.png",
+    "File:Leaderboard.png",
+    "File:Machine Boost All.png",
+    "File:Machine Boost Random.png",
+    "File:Maggies Workbench.png",
+    "File:Mailbox.png",
+    "File:Mine.png",
+    "File:Mystery Box Bonanza.jpg",
+    "File:Neighborhood House.png",
+    "File:Newspaper Mailbox.png",
+    "File:Play For Trees Event.png",
+    "File:Riverboat Bonus 3XP.png",
+    "File:Riverboat Bonus 3XPa.png",
+    "File:Riverboat Bonus Boosters.png",
+    "File:Riverboat Bonus Coins.png",
+    "File:Riverboat Bonus Permits.png",
+    "File:Riverboat Bonus Puzzles.png",
+    "File:Riverboat Bonus Vouchers.png",
+    "File:Riverboat Bonus XP.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Silo.png",
+    "File:Spin The Wheel Expansion.png",
+    "File:Spin The Wheel Permits.png",
+    "File:Spin The Wheel Puzzles.png",
+    "File:Spin The Wheel Upgrade.png",
+    "File:Spin The Wheel Vouchers.png",
+    "File:Town Visitors Bonus Coins.png",
+    "File:Town Visitors Bonus Rewards.png",
+    "File:Town Visitors Bonus XP.png",
+    "File:Truck Bonus 3XP.png",
+    "File:Truck Bonus 3XPa.png",
+    "File:Truck Bonus Boosters.png",
+    "File:Truck Bonus Coins.png",
+    "File:Truck Bonus Expansion.png",
+    "File:Truck Bonus Upgrade.png",
+    "File:Truck Bonus Vouchers.png",
+    "File:Truck Bonus XP.png",
+    "File:Truck.png",
+    "File:Valley Board.png",
+    "File:Visitors Bonus.png",
+    "File:Wheel of Fortune.png",
+    "File:Yard Sale Event.png"
+  ],
+  "revisionId": 108996,
+  "revisionTimestamp": "2025-12-20T10:06:51Z",
+  "route": "/wiki/events-7210",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Events",
+  "title": "Events",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6af05c54fb02bc21ecd51e203a4c0e6c50f51133290408db2eb8b1f49fa11864"
+}

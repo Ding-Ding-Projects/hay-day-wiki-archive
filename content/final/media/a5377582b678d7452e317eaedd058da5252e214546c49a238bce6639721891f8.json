@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tackle_Box.png",
+  "height": 121,
+  "immutableUrl": null,
+  "mediaId": "File:Tackle Box.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T14:36:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATackle%20Box.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 31531,
+  "sourceSha1": "b808545ed0bde223fa4e4dc881a9f2b0bafe2ca5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2c/Tackle_Box.png/revision/latest?cb=20191028143616",
+  "title": "File:Tackle Box.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 121
+}

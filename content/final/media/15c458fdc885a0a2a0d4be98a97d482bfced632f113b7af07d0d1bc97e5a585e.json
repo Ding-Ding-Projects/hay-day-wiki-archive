@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gracious_Bouquet.png",
+  "height": 1840,
+  "immutableUrl": null,
+  "mediaId": "File:Gracious Bouquet.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:07:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGracious%20Bouquet.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3541622,
+  "sourceSha1": "5a905b059ba1ab7c669ecc4a2c0f7b0933d1986c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Gracious_Bouquet.png/revision/latest?cb=20240411150713",
+  "title": "File:Gracious Bouquet.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1840
+}

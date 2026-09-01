@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Onion_Melt.png",
+  "height": 1672,
+  "immutableUrl": null,
+  "mediaId": "File:Onion Melt.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-11T17:00:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOnion%20Melt.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2063675,
+  "sourceSha1": "6cdcb1c602a2f1af1701286a151a3d92f0972555",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Onion_Melt.png/revision/latest?cb=20240211170015",
+  "title": "File:Onion Melt.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1672
+}

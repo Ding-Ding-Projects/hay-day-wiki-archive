@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products?action=history",
+    "importedAt": "2026-09-01T03:09:50.959Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products?oldid=106001",
+    "sourceRevisionId": 106001,
+    "sourceTitle": "Category:Halloween Treats Maker Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/4b/Halloween_Treats_Maker.png/revision/latest?cb=20241021180133\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Halloween Treats Maker\" src=\"https://static.wikia.nocookie.net/hayday/images/4/4b/Halloween_Treats_Maker.png/revision/latest/scale-to-width-down/180?cb=20241021180133\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AHalloween_Treats_Maker.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/halloween-treats-maker-36156\" title=\"Halloween Treats Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Halloween Treats Maker</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030946\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36166-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030946 and revision id 106001. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "2cebcea404a9f9ca359b332074859bea7840a6ab90d4ac6b42a976bdc1900179",
+  "internalLinks": [
+    {
+      "route": "/wiki/halloween-treats-maker-36156",
+      "title": "Halloween Treats Maker"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36166,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Halloween Treats Maker.png"
+  ],
+  "revisionId": 106001,
+  "revisionTimestamp": "2024-10-21T18:12:02Z",
+  "route": "/wiki/category%2Fcategory-halloween-treats-maker-products-36166",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products",
+  "title": "Category:Halloween Treats Maker Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "19c2d0b9c426c8d9cba87bd049a10dd8f678ffb1b71a99f23f4a255e85f7428c"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Surfer_Pig.png",
+  "height": 315,
+  "immutableUrl": null,
+  "mediaId": "File:Surfer Pig.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-10-19T22:03:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASurfer%20Pig.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 99800,
+  "sourceSha1": "336ee20adb5d2fc3c98df337250bb119f68eb5c3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Surfer_Pig.png/revision/latest?cb=20241019220359",
+  "title": "File:Surfer Pig.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 315
+}

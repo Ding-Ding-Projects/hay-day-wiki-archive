@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Hut.png",
+  "height": 853,
+  "immutableUrl": null,
+  "mediaId": "File:Fishing Hut.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-12T18:18:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFishing%20Hut.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 445374,
+  "sourceSha1": "7f3ef55b62ced7bba5e7310224e49df78a370937",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Fishing_Hut.png/revision/latest?cb=20150712181819",
+  "title": "File:Fishing Hut.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 853
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Base_Pink_Bunting.png",
+  "height": 241,
+  "immutableUrl": null,
+  "mediaId": "File:Base Pink Bunting.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-16T18:21:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABase%20Pink%20Bunting.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 59961,
+  "sourceSha1": "c337cf10c4c355ce6b822b2072aa8f050931907a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f5/Base_Pink_Bunting.png/revision/latest?cb=20180716182106",
+  "title": "File:Base Pink Bunting.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 264
+}

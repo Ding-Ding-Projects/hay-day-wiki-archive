@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_making_of_Hay_Day_Pasta_Maker",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:The making of Hay Day Pasta Maker",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-08-25T13:28:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AThe%20making%20of%20Hay%20Day%20Pasta%20Maker",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 18912,
+  "sourceSha1": "c56675b18ed404c48bcafd17377674127a007f53",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f2/The_making_of_Hay_Day_Pasta_Maker/revision/latest?cb=20160825132849",
+  "title": "File:The making of Hay Day Pasta Maker",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

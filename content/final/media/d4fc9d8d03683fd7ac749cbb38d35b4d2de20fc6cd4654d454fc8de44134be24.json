@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beige_Giraffe_Calf.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Beige Giraffe Calf.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T14:06:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABeige%20Giraffe%20Calf.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 139081,
+  "sourceSha1": "d52d460b487b2da2832ca47f3641bb4f8ceeaeb3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Beige_Giraffe_Calf.png/revision/latest?cb=20191028140601",
+  "title": "File:Beige Giraffe Calf.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Olive_Products?action=history",
+    "importedAt": "2026-09-01T03:06:55.934Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Olive_Products?oldid=98589",
+    "sourceRevisionId": 98589,
+    "sourceTitle": "Category:Olive Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Olive_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png/revision/latest?cb=20240219033435\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Olive\" src=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Olive.png/revision/latest/scale-to-width-down/180?cb=20240219033435\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AOlive.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/olive-8911\" title=\"Olive\" rel=\"noopener noreferrer\" target=\"_blank\">Olive</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030654\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35112-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030654 and revision id 98589. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "50e20e95c0af1cf2115cc821567e559c7b73671f45b9e28783bb8318497dcce8",
+  "internalLinks": [
+    {
+      "route": "/wiki/olive-8911",
+      "title": "Olive"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35112,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Olive.png"
+  ],
+  "revisionId": 98589,
+  "revisionTimestamp": "2021-08-31T21:32:00Z",
+  "route": "/wiki/category%2Fcategory-olive-products-35112",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Olive_Products",
+  "title": "Category:Olive Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "60bd8489146bf383cc32b7bfbcb96841255b00781839adc005e46c391cd94a80"
+}

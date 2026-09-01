@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Free_Silo_upgrade.jpg",
+  "height": 1125,
+  "immutableUrl": null,
+  "mediaId": "File:Free Silo upgrade.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-03-10T12:13:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFree%20Silo%20upgrade.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 322873,
+  "sourceSha1": "3a33e3179e0ec7bdd240dc09e03495431ecf18d5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/77/Free_Silo_upgrade.jpg/revision/latest?cb=20250310121334",
+  "title": "File:Free Silo upgrade.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2436
+}

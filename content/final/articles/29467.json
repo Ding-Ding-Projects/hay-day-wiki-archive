@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Helpers?action=history",
+    "importedAt": "2026-09-01T03:03:20.917Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Helpers?oldid=78902",
+    "sourceRevisionId": 78902,
+    "sourceTitle": "Category:Helpers",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Helpers?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Articles related to farm helpers.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831235929\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29467-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831235929 and revision id 78902. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "ec325431062d44525d187db38f68c489b75e14e0905b2e4871c61872cf898c6b",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 29467,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 78902,
+  "revisionTimestamp": "2018-04-17T19:53:17Z",
+  "route": "/wiki/category%2Fcategory-helpers-29467",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Helpers",
+  "title": "Category:Helpers",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "3530694dc041c2f3af010e0b2c1260067d802d971b4a5cf71e9cbffa2af0f596"
+}

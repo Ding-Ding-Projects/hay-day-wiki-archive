@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_14.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 14.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-12-31T14:46:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AReputation%20Level%2014.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 127239,
+  "sourceSha1": "97ff5356b26a3c240443450865b9c8617934a19f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4a/Reputation_Level_14.png/revision/latest?cb=20141231144625",
+  "title": "File:Reputation Level 14.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

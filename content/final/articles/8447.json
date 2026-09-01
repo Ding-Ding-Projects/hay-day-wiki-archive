@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products?action=history",
+    "importedAt": "2026-09-01T02:42:50.276Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products?oldid=57801",
+    "sourceRevisionId": 57801,
+    "sourceTitle": "Category:Soup Kitchen Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/7/7e/Soup_Kitchen.png/revision/latest?cb=20250925201719\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Soup Kitchen\" src=\"https://static.wikia.nocookie.net/hayday/images/7/7e/Soup_Kitchen.png/revision/latest/scale-to-width-down/180?cb=20250925201719\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ASoup_Kitchen.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/soup-kitchen-8444\" title=\"Soup Kitchen\" rel=\"noopener noreferrer\" target=\"_blank\">Soup Kitchen</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831214840\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:8447-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831214840 and revision id 57801. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f9313f5925e9f745113ffb36cc8f08df4bec37df96016a63596fed1b74662be6",
+  "internalLinks": [
+    {
+      "route": "/wiki/soup-kitchen-8444",
+      "title": "Soup Kitchen"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 8447,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Soup Kitchen.png"
+  ],
+  "revisionId": 57801,
+  "revisionTimestamp": "2016-01-21T18:29:13Z",
+  "route": "/wiki/category%2Fcategory-soup-kitchen-products-8447",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products",
+  "title": "Category:Soup Kitchen Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c68e925270ce158a5e0452e7d5a81e2e5ed568260a5bbfb1ec295b06681344a7"
+}

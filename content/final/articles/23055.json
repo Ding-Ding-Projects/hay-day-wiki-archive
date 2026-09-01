@@ -1,0 +1,205 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Glossary?action=history",
+    "importedAt": "2026-09-01T02:56:37.651Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Glossary?oldid=85528",
+    "sourceRevisionId": 85528,
+    "sourceTitle": "Glossary",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Main_screen",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Main screen</b>",
+      "text": "<b>Main screen</b>"
+    },
+    {
+      "anchor": "Main_screen_icons",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Main screen icons</b>",
+      "text": "<b>Main screen icons</b>"
+    },
+    {
+      "anchor": "Other_icons",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Other icons</b>",
+      "text": "<b>Other icons</b>"
+    },
+    {
+      "anchor": "Helping_other_players_icons",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Helping other players icons</b>",
+      "text": "<b>Helping other players icons</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Glossary?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<h3><span class=\"mw-headline\"><b>Main screen</b></span></h3>\n<p>This is the main screen <a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a>. Click on an icon to find out more:\n</p>\n<figure class=\"mw-default-size mw-halign-center noresize\"><span><img alt=\"Hay Day GUI\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e0/Hay_Day_GUI.png/revision/latest?cb=20160413145720\" loading=\"lazy\" width=\"587\" height=\"331\" class=\"mw-file-element\" loading=\"lazy\"></span><figcaption></figcaption></figure>\n<p>​\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Main screen icons</b></span></h3>\n<table class=\"article-table\">\n\n<tbody><tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/db/Settings_Icon.png/revision/latest?cb=20171227165326\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Settings Icon\" src=\"https://static.wikia.nocookie.net/hayday/images/d/db/Settings_Icon.png/revision/latest/scale-to-width-down/100?cb=20171227165326\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Access <a href=\"/wiki/settings-22791\" title=\"Settings\" rel=\"noopener noreferrer\" target=\"_blank\">settings</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b8/Avatar_Following_Icon.png/revision/latest?cb=20171227173700\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Avatar Following Icon\" src=\"https://static.wikia.nocookie.net/hayday/images/b/b8/Avatar_Following_Icon.png/revision/latest/scale-to-width-down/100?cb=20171227173700\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Your avatar</li>\n<li>Avatar for farmers you follow (blue border)</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c4/Avatar_Neighbor_Icon.png/revision/latest?cb=20171227171121\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Avatar Neighbor Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Avatar for your <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighbors</a> (green border)</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/6d/Avatar_Other_Icon.png/revision/latest?cb=20171227192140\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Avatar Other Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Avatar for other farmers (yellow border)</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/69/Experience_Bar.png/revision/latest?cb=20240126131743\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Experience Bar\" loading=\"lazy\" width=\"100\" height=\"128\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Experience</a> bar for your current level</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/1/1a/Reputation_Bar.png/revision/latest?cb=20141231163759\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Reputation Bar\" loading=\"lazy\" width=\"100\" height=\"20\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li><a href=\"/wiki/reputation-14275\" title=\"Reputation\" rel=\"noopener noreferrer\" target=\"_blank\">Reputation</a> bar for your current level</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/65/Follow_Icon.png/revision/latest?cb=20171229103207\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Follow Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Follow or unfollow a farm. A maximum of 10 farms can be followed (not including social media friends).</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9b/Like_Icon.png/revision/latest?cb=20171229103218\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Like Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Like this farm on social media</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0b/Invite_Icon.png/revision/latest?cb=20180115154508\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Invite Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Invite Facebook friends to your <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a></li></ul>\n</td></tr>\n<tr>\n<td><span><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b9/Buy_Currency_Icon.png/revision/latest?cb=20171227165920\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Buy Currency Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<p class=\"mw-empty-elt\">\n</p>\n</span></td>\n<td>\n<ul><li>Buy <a href=\"/wiki/coin-6079\" title=\"Coin\" rel=\"noopener noreferrer\" target=\"_blank\">additional coins</a> or <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a> with real money.</li>\n<li>Invite farmer to your <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">Neighborhood</a></li></ul>\n</td></tr>\n<tr>\n<td><span><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3a/Buy_Vouchers_Icon.png/revision/latest?cb=20240126131849\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Buy Vouchers Icon\" loading=\"lazy\" width=\"100\" height=\"104\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<p class=\"mw-empty-elt\">\n</p>\n</span></td>\n<td>\n<ul><li>Buy <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a> using diamonds</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b1/Edit_Mode_Icon.png/revision/latest?cb=20160308192446\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Edit Mode Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Access <a href=\"/wiki/edit-mode-24078\" title=\"Edit Mode\" rel=\"noopener noreferrer\" target=\"_blank\">Edit Mode</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/0/01/Friends_Icon.png/revision/latest?cb=20160312124226\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Friends Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Access the <a href=\"/wiki/friends-7721\" title=\"Friends\" rel=\"noopener noreferrer\" target=\"_blank\">friends</a> bar</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/93/Booster_Icon.png/revision/latest?cb=20170327174855\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Booster Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Access <a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/76/Shop_Icon.png/revision/latest?cb=20240126131957\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Shop Icon\" loading=\"lazy\" width=\"100\" height=\"115\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Open the <a href=\"/wiki/shop-14324\" title=\"Shop\" rel=\"noopener noreferrer\" target=\"_blank\">shop</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/38/Farm_Icon.png/revision/latest?cb=20171227184623\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Farm Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Go back to your <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">farm</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/76/Town_Icon.png/revision/latest?cb=20171229110148\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Town Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Go back to your <a href=\"/wiki/town-13129\" title=\"Town\" rel=\"noopener noreferrer\" target=\"_blank\">town</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a4/Neighborhood_Panel_Icon.png/revision/latest?cb=20171227190519\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Neighborhood Panel Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Open the <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a> panel</li></ul>\n</td></tr></tbody></table>\n<h3><span class=\"mw-headline\"><b>Other icons</b></span></h3>\n<table class=\"article-table\">\n\n<tbody><tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9f/Information_Icon.png/revision/latest?cb=20171227191217\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Information Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Tap for more information or to replay a tutorial</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3a/Close_Icon.png/revision/latest?cb=20171227170041\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Close Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Close window</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/d7/Confirm_Icon.png/revision/latest?cb=20171227171446\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Confirm Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Confirm action</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/63/Trash_Icon.png/revision/latest?cb=20171227165353\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Trash Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Remove the <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck order</a></li>\n<li>Remove the <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derby task</a></li>\n<li>Remove an item from your <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">roadside shop</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Switch_Icon.png/revision/latest?cb=20171227183913\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Switch Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Rotate the item</li>\n<li>Display more <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crops</a> or <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a></li>\n<li>Send away <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">town visitors</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/c/cf/Upgrade_Icon.png/revision/latest?cb=20171229103920\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Upgrade Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Upgrade your <a href=\"/wiki/buildings-3577\" title=\"Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">building</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/9/9f/Speed_Up_Icon.png/revision/latest?cb=20171229103232\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Speed Up Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Speed things up using <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/dc/Advertise_Icon.png/revision/latest?cb=20171227201149\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Advertise Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Advertise your products in the <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Roadside Shop</a></li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/38/Send_Truck_Icon.png/revision/latest?cb=20171227192410\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Send Truck Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Send <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck</a> order</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/3/32/Send_Riverboat_Icon.png/revision/latest?cb=20141231155409\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Send Riverboat Icon\" loading=\"lazy\" width=\"100\" height=\"85\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Send full <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> or discard empty boat</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/b/b7/Personal_Train_Icon.png/revision/latest?cb=20180115154526\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Personal Train Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Send <a href=\"/wiki/personal-train-13479\" title=\"Personal Train\" rel=\"noopener noreferrer\" target=\"_blank\">personal train</a> to your town</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/8/82/More_Icon.png/revision/latest?cb=20171227192151\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"More Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Tap to see information about your <a href=\"/wiki/buildings-3577\" title=\"Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">building</a></li>\n<li>Tap to edit your <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a> settings</li></ul>\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Helping other players icons</b></span></h3>\n<table class=\"article-table\">\n\n<tbody><tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/7a/Help_Icon.png/revision/latest?cb=20171227184028\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Help Icon\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Revive <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">tree or bush</a></li>\n<li>Fill <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> crate</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/6/62/Megaphone.png/revision/latest?cb=20151211051442\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Megaphone\" loading=\"lazy\" width=\"100\" height=\"89\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Post a message on Facebook to let your friends know you need help</li></ul>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Message.png/revision/latest?cb=20151211051442\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Message\" loading=\"lazy\" width=\"100\" height=\"98\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n<ul><li>Send a <a href=\"/wiki/gift-card-16941\" title=\"Gift Card\" rel=\"noopener noreferrer\" target=\"_blank\">thank-you note</a> to players who have helped you</li>\n<li>Invite friends to your <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhood</a> through social media</li></ul>\n</td></tr></tbody></table>\n<hr>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260830165008\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.086 seconds\nReal time usage: 0.111 seconds\nPreprocessor visited node count: 454/1000000\nPost‐expand include size: 1317/2097152 bytes\nTemplate argument size: 453/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1820/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   35.191      1 -total\n 58.74%   20.671      1 Template:GUI\n 15.91%    5.599     33 Template:BigIcon\n  7.89%    2.777      1 Template:Languages\n  4.42%    1.556      1 Template:Clr\n  4.29%    1.508      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:23055-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260830165008 and revision id 85528. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "8f591bdcf56df9dea5c886474597487269ba6b568214ffe9c5597a912db3055b",
+  "internalLinks": [
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/booster-28721",
+      "title": "Booster"
+    },
+    {
+      "route": "/wiki/buildings-3577",
+      "title": "Buildings"
+    },
+    {
+      "route": "/wiki/coin-6079",
+      "title": "Coin"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/edit-mode-24078",
+      "title": "Edit Mode"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/friends-7721",
+      "title": "Friends"
+    },
+    {
+      "route": "/wiki/gift-card-16941",
+      "title": "Gift Card"
+    },
+    {
+      "route": "/wiki/glossary-23055",
+      "title": "Glossary"
+    },
+    {
+      "route": "/wiki/hay-day-8519",
+      "title": "Hay Day"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    },
+    {
+      "route": "/wiki/personal-train-13479",
+      "title": "Personal Train"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/reputation-14275",
+      "title": "Reputation"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/settings-22791",
+      "title": "Settings"
+    },
+    {
+      "route": "/wiki/shop-14324",
+      "title": "Shop"
+    },
+    {
+      "route": "/wiki/town-13129",
+      "title": "Town"
+    },
+    {
+      "route": "/wiki/town-visitors-13241",
+      "title": "Town Visitors"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    },
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    },
+    {
+      "route": "/wiki/voucher-3671",
+      "title": "Voucher"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 23055,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Advertise Icon.png",
+    "File:Avatar Following Icon.png",
+    "File:Avatar Neighbor Icon.png",
+    "File:Avatar Other Icon.png",
+    "File:Booster Icon.png",
+    "File:Buy Currency Icon.png",
+    "File:Buy Vouchers Icon.png",
+    "File:Close Icon.png",
+    "File:Confirm Icon.png",
+    "File:Edit Mode Icon.png",
+    "File:Experience Bar.png",
+    "File:Farm Icon.png",
+    "File:Follow Icon.png",
+    "File:Friends Icon.png",
+    "File:Hay Day GUI.png",
+    "File:Help Icon.png",
+    "File:Information Icon.png",
+    "File:Invite Icon.png",
+    "File:Like Icon.png",
+    "File:Megaphone.png",
+    "File:Message.png",
+    "File:More Icon.png",
+    "File:Neighborhood Panel Icon.png",
+    "File:Personal Train Icon.png",
+    "File:Reputation Bar.png",
+    "File:Send Riverboat Icon.png",
+    "File:Send Truck Icon.png",
+    "File:Settings Icon.png",
+    "File:Shop Icon.png",
+    "File:Speed Up Icon.png",
+    "File:Switch Icon.png",
+    "File:Town Icon.png",
+    "File:Trash Icon.png",
+    "File:Upgrade Icon.png"
+  ],
+  "revisionId": 85528,
+  "revisionTimestamp": "2019-04-24T13:02:06Z",
+  "route": "/wiki/glossary-23055",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Glossary",
+  "title": "Glossary",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b8309ec9e58c03a8d19440db6c349c9585d705e6a70cf0da2c16f06c011d38c6"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hound.png",
+  "height": 668,
+  "immutableUrl": null,
+  "mediaId": "File:Hound.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T10:06:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHound.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 277330,
+  "sourceSha1": "b02af0469a5c9deb44ef57bbfe607833668d3e07",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Hound.png/revision/latest?cb=20150713100622",
+  "title": "File:Hound.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 668
+}

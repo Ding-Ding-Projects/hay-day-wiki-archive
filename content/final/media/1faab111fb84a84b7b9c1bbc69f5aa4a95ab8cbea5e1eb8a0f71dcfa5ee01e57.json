@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fish_Pie.png",
+  "height": 1432,
+  "immutableUrl": null,
+  "mediaId": "File:Fish Pie.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-07T15:02:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFish%20Pie.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1632342,
+  "sourceSha1": "1e37ead72a45d23bb1d2c15a927a883fb89b9cba",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ec/Fish_Pie.png/revision/latest?cb=20240207150258",
+  "title": "File:Fish Pie.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1432
+}

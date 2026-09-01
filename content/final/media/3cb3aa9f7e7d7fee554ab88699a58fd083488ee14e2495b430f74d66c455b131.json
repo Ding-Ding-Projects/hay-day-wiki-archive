@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Blue_Plank.png",
+  "height": 204,
+  "immutableUrl": null,
+  "mediaId": "File:Crates Blue Plank.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T10:57:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrates%20Blue%20Plank.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 47572,
+  "sourceSha1": "cf30cad5e8e73f0172463afb45799f472f80a0b9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Crates_Blue_Plank.png/revision/latest?cb=20180717105701",
+  "title": "File:Crates Blue Plank.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 227
+}

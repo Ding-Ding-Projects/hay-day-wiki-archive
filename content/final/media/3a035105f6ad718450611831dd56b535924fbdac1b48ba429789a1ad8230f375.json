@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Old_Lighthouse.png",
+  "height": 811,
+  "immutableUrl": null,
+  "mediaId": "File:Old Lighthouse.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-08-27T14:15:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOld%20Lighthouse.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 775514,
+  "sourceSha1": "4179d8ae06556fe138ca71dda40ac90b540360e7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Old_Lighthouse.png/revision/latest?cb=20260827141507",
+  "title": "File:Old Lighthouse.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 928
+}

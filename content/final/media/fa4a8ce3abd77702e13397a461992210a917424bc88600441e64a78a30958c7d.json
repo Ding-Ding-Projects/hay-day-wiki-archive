@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daisies.png",
+  "height": 337,
+  "immutableUrl": null,
+  "mediaId": "File:Daisies.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T09:55:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADaisies.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 106935,
+  "sourceSha1": "48118ef7284fa20c0c6cb29810f2dd7e49d0c163",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/91/Daisies.png/revision/latest?cb=20150715095523",
+  "title": "File:Daisies.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 337
+}

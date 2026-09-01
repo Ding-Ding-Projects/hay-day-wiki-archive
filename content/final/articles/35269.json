@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products?action=history",
+    "importedAt": "2026-09-01T03:07:23.893Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products?oldid=99312",
+    "sourceRevisionId": 99312,
+    "sourceTitle": "Category:Preservation Station Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Preservation_Station.png/revision/latest?cb=20250926003418\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Preservation Station\" src=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Preservation_Station.png/revision/latest/scale-to-width-down/180?cb=20250926003418\" loading=\"lazy\" width=\"180\" height=\"154\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APreservation_Station.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/preservation-station-35177\" title=\"Preservation Station\" rel=\"noopener noreferrer\" target=\"_blank\">Preservation Station</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831081537\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35269-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831081537 and revision id 99312. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "67b2f9c6e080f7462470c998bcd7d8e4a164ad3e2751e9f0253583c7c9a1e558",
+  "internalLinks": [
+    {
+      "route": "/wiki/preservation-station-35177",
+      "title": "Preservation Station"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35269,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Preservation Station.png"
+  ],
+  "revisionId": 99312,
+  "revisionTimestamp": "2021-11-06T14:50:00Z",
+  "route": "/wiki/category%2Fcategory-preservation-station-products-35269",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products",
+  "title": "Category:Preservation Station Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4fa5162ab8b3b6c6c72f3888e4733b7bbddd4eec5014883b66d834e1ae7e26dd"
+}

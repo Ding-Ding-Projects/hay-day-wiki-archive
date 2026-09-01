@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Nectar_Bush_Revival.png",
+  "height": 610,
+  "immutableUrl": null,
+  "mediaId": "File:Nectar Bush Revival.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-10-24T09:26:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ANectar%20Bush%20Revival.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 486311,
+  "sourceSha1": "d300aa903fe5b6a3ec1cb875e1930a609b3f07ae",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Nectar_Bush_Revival.png/revision/latest?cb=20161024092619",
+  "title": "File:Nectar Bush Revival.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 740
+}

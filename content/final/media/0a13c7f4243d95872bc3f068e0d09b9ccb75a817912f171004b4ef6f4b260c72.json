@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Phone_Booth.png",
+  "height": 546,
+  "immutableUrl": null,
+  "mediaId": "File:Phone Booth.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-24T20:32:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APhone%20Booth.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 219434,
+  "sourceSha1": "e0c31b0ff750fc19fd595a08d031a62d7e6c0e23",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/88/Phone_Booth.png/revision/latest?cb=20191024203245",
+  "title": "File:Phone Booth.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 546
+}

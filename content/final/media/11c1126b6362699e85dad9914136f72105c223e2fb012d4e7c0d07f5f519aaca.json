@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cream_Donut.png",
+  "height": 2340,
+  "immutableUrl": null,
+  "mediaId": "File:Cream Donut.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-12T10:16:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACream%20Donut.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1772570,
+  "sourceSha1": "28828d322bde6a480d2fb44c568e90418f2baa69",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Cream_Donut.png/revision/latest?cb=20240212101625",
+  "title": "File:Cream Donut.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2340
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Cuke_Sandwich?action=history",
+    "importedAt": "2026-09-01T03:04:45.601Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Cuke_Sandwich?oldid=90856",
+    "sourceRevisionId": 90856,
+    "sourceTitle": "Cuke Sandwich",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Cuke_Sandwich?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/cucumber-sandwich-30756\" title=\"Cucumber Sandwich\" rel=\"noopener noreferrer\" target=\"_blank\">Cucumber Sandwich</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030438\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:32688-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030438 and revision id 90856. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "abe2e16a7c2a481361435b993712d1ce475040fe22db80bd1065c9bed8fd7b04",
+  "internalLinks": [
+    {
+      "route": "/wiki/cucumber-sandwich-30756",
+      "title": "Cucumber Sandwich"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 32688,
+  "redirectTarget": "Cucumber Sandwich",
+  "referencedMediaIds": [],
+  "revisionId": 90856,
+  "revisionTimestamp": "2020-03-10T22:26:17Z",
+  "route": "/wiki/cuke-sandwich-32688",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Cuke_Sandwich",
+  "title": "Cuke Sandwich",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d39cf5ecaa35be8fcac0d8952f0d330e289c2252a6c25a819dbdc33436046c95"
+}

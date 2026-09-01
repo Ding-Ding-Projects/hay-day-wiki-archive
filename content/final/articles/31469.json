@@ -1,0 +1,85 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Daily_Quest?action=history",
+    "importedAt": "2026-09-01T03:04:09.310Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Daily_Quest?oldid=104283",
+    "sourceRevisionId": 104283,
+    "sourceTitle": "Daily Quest",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Daily_Quest_Example",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Daily Quest Example</b>",
+      "text": "<b>Daily Quest Example</b>"
+    },
+    {
+      "anchor": "Rewards",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Rewards</b>",
+      "text": "<b>Rewards</b>"
+    },
+    {
+      "anchor": "Strategy",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Strategy</b>",
+      "text": "<b>Strategy</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Daily_Quest?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3b/Daily_Quests.png/revision/latest?cb=20190625060018\" class=\"mw-file-description image\" title=\"Daily quests\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Daily quests\" src=\"https://static.wikia.nocookie.net/hayday/images/3/3b/Daily_Quests.png/revision/latest/scale-to-width-down/200?cb=20190625060018\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Daily quests</figcaption></figure>\n<p><b>Daily quests</b> are <a href=\"/wiki/valley-31465\" title=\"Valley\" rel=\"noopener noreferrer\" target=\"_blank\">Valley</a> activities that players can do to get rewards other than <a href=\"/wiki/valley-shop-31468\" title=\"Valley Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Valley Shop</a>. It can be found through the button above <a href=\"/wiki/fuel-spin-31467\" title=\"Fuel Spin\" rel=\"noopener noreferrer\" target=\"_blank\">Fuel Spin</a>. Unlike sun activities, they can only be done in the valley. They reset every 24 hours at 08:00 UTC. Players get 4 quests every day.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Daily Quest Example</b></span></h3>\n<p>4 different daily quests are given to players every day.\n</p>\n<ul><li>Visit one diner/fish shop</li>\n<li>Drive to buildings or road stops a certain number of times</li>\n<li>Complete a certain of number of requests</li>\n<li>Help with a cooperative quest a certain number of quests</li>\n<li>Do delivery task a certain number of times</li>\n<li>Use the fuel spin a certain number of times</li>\n<li>Collect 30/45 <a href=\"/wiki/token-31466\" title=\"Token\" rel=\"noopener noreferrer\" target=\"_blank\">tokens</a> of a specific color</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Rewards</b></span></h3>\n<p>Each completed daily quest turn one tile blue at the horizontal rewards road. You get rewards when you complete enough daily quests.\n</p>\n<ul><li><a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">Mystery Boxes</a> including ordinary box, big box and huge box. Huge box spawns only once per valley season.</li>\n<li>Lucky Bonus: it is achieved by completing Daily Quests.&#160; You play by uncovering tiles which contain prizes or bombs.&#160;The prizes you find are accumulated.&#160;You can quit the game at any time and collect your prizes, or press your luck to win more prizes.&#160; Finding a bomb will end the game and you will lose all of your prizes. You will be offered the option to retain your prizes and continue by spending <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>.&#160; The number of diamonds required begins at 10 and increased to 30, 60, and 90 as you hit more bombs.&#160;It’s a freeroll, so best of luck!</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy</b></span></h3>\n<ul><li>Stop your truck at a fish shop or diner until the next day to hope that you can complete a quest immediately.</li>\n<li>Use the <a href=\"/wiki/fuel-spin-31467\" title=\"Fuel Spin\" rel=\"noopener noreferrer\" target=\"_blank\">Fuel Spin</a> twice to get enough fuel. You can do so by collecting sun points.</li>\n<li>In lucky bonus, uncover at most 4 tiles before entering next round. Otherwise you have a high chance to uncover a bomb and lose all rewards.</li></ul>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831192536\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.012 seconds\nReal time usage: 0.021 seconds\nPreprocessor visited node count: 68/1000000\nPost‐expand include size: 278/2097152 bytes\nTemplate argument size: 32/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.665      1 -total\n 36.55%    1.705      1 Template:PageDisplay\n 33.98%    1.585      1 Template:Languages\n 25.47%    1.188      3 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:31469-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831192536 and revision id 104283. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "eea0dd49b3595e180b1642db5b6333b5f517d685f68ad44de38d161a81eb571d",
+  "internalLinks": [
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/fuel-spin-31467",
+      "title": "Fuel Spin"
+    },
+    {
+      "route": "/wiki/mystery-box-6452",
+      "title": "Mystery Box"
+    },
+    {
+      "route": "/wiki/token-31466",
+      "title": "Token"
+    },
+    {
+      "route": "/wiki/valley-31465",
+      "title": "Valley"
+    },
+    {
+      "route": "/wiki/valley-shop-31468",
+      "title": "Valley Shop"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 31469,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Daily Quests.png"
+  ],
+  "revisionId": 104283,
+  "revisionTimestamp": "2023-12-06T01:50:10Z",
+  "route": "/wiki/daily-quest-31469",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Quest",
+  "title": "Daily Quest",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9aef69a7a8941ca7a206d09bbccf287065ecc34d7e487d8885f5e855e43200ca"
+}

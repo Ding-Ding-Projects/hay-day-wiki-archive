@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Jam.png",
+  "height": 1220,
+  "immutableUrl": null,
+  "mediaId": "File:Cherry Jam.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T15:17:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACherry%20Jam.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1564576,
+  "sourceSha1": "1fd2ee7abe284ab6199b6f640a27fee23e2e88c3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/53/Cherry_Jam.png/revision/latest?cb=20240208151724",
+  "title": "File:Cherry Jam.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1220
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_259.jpg",
+  "height": 570,
+  "immutableUrl": null,
+  "mediaId": "File:Experience Level 259.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-08T15:09:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AExperience%20Level%20259.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46159,
+  "sourceSha1": "434a5d476139553287d58b2d5102021dd9e4567e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3b/Experience_Level_259.jpg/revision/latest?cb=20260108150917",
+  "title": "File:Experience Level 259.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1329
+}

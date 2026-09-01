@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_making_of_Hay_Day_Cello_Decoration",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:The making of Hay Day Cello Decoration",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-08-30T11:59:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AThe%20making%20of%20Hay%20Day%20Cello%20Decoration",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 18811,
+  "sourceSha1": "0f6c15a8802bc6d1c5af91ed5c315be7e046493c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/69/The_making_of_Hay_Day_Cello_Decoration/revision/latest?cb=20160830115915",
+  "title": "File:The making of Hay Day Cello Decoration",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Soupe_de_champignons?action=history",
+    "importedAt": "2026-09-01T03:06:16.633Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Soupe_de_champignons?oldid=97527",
+    "sourceRevisionId": 97527,
+    "sourceTitle": "Soupe de champignons",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Soupe_de_champignons?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Warning\" src=\"https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest/scale-to-width-down/70?cb=20180220033857\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This page is a candidate for deletion.</b>\n<p><b>If you disagree with its deletion, please explain why at <a href=\"/unavailable-source?title=Category%20talk%3ACandidates%20for%20deletion\" title=\"Category talk:Candidates for deletion\" rel=\"noopener noreferrer\" target=\"_blank\">Category talk:Candidates for deletion</a>.</b>\n</p><p><i>Note: editors, remember to check <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FSoupe%20de%20champignons\" title=\"Special:WhatLinksHere/Soupe de champignons\" rel=\"noopener noreferrer\" target=\"_blank\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"/wiki/soupe-de-champignons-34675\" rel=\"noopener noreferrer\" target=\"_blank\">the page history</a> before deleting.</i>\n</p>\n</td></tr></tbody></table><p><br>\n</p><p>See <a href=\"/wiki/mushroom-soup-31951\" title=\"Mushroom Soup\" rel=\"noopener noreferrer\" target=\"_blank\">Mushroom Soup</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030605\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.012 seconds\nReal time usage: 0.015 seconds\nPreprocessor visited node count: 25/1000000\nPost‐expand include size: 1302/2097152 bytes\nTemplate argument size: 376/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.183      1 Template:Delete\n100.00%    3.183      1 -total\n 50.30%    1.601      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:34675-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030605 and revision id 97527. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "c172af10635373aa788c5d538cb4cf2018a5f76f08c4eb9228091db33d3563d9",
+  "internalLinks": [
+    {
+      "route": null,
+      "title": "Category talk:Candidates for deletion"
+    },
+    {
+      "route": "/wiki/mushroom-soup-31951",
+      "title": "Mushroom Soup"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 34675,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Warning.svg"
+  ],
+  "revisionId": 97527,
+  "revisionTimestamp": "2021-05-04T16:36:21Z",
+  "route": "/wiki/soupe-de-champignons-34675",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Soupe_de_champignons",
+  "title": "Soupe de champignons",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4799d8c6bf800f5dcaa0ad77d571b0a9f5c2cf5f2850b42410f11fed1d5b6efa"
+}

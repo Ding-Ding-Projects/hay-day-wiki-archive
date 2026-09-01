@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Switch_Icon.png",
+  "height": 120,
+  "immutableUrl": null,
+  "mediaId": "File:Switch Icon.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-12-27T18:39:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASwitch%20Icon.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 38749,
+  "sourceSha1": "3444eab83f8d26a5c01705ee0621375e310a069b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c3/Switch_Icon.png/revision/latest?cb=20171227183913",
+  "title": "File:Switch Icon.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 120
+}

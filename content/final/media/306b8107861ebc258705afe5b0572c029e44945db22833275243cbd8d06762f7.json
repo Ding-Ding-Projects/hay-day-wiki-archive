@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Boot_key.png",
+  "height": 425,
+  "immutableUrl": null,
+  "mediaId": "File:Boot key.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-17T16:29:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABoot%20key.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 195959,
+  "sourceSha1": "f8b9463779f79968e3fd6ed7abdf35396530fdbe",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/72/Boot_key.png/revision/latest?cb=20260617162910",
+  "title": "File:Boot key.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 425
+}

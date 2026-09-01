@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Indigo_Egg.png",
+  "height": 2140,
+  "immutableUrl": null,
+  "mediaId": "File:Indigo Egg.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-18T02:50:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AIndigo%20Egg.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3350173,
+  "sourceSha1": "e72053ac945125346673b856360c8295604bd3fd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Indigo_Egg.png/revision/latest?cb=20240218025002",
+  "title": "File:Indigo Egg.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2140
+}

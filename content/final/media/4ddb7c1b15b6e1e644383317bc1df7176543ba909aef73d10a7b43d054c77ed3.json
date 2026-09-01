@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mask_Stand.png",
+  "height": 468,
+  "immutableUrl": null,
+  "mediaId": "File:Mask Stand.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T17:44:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMask%20Stand.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 338522,
+  "sourceSha1": "df36200353608f37aae61ccc12258272d735eb46",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Mask_Stand.png/revision/latest?cb=20260509174410",
+  "title": "File:Mask Stand.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 437
+}

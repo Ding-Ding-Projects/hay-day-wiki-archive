@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Onion_Stage_4.png",
+  "height": 289,
+  "immutableUrl": null,
+  "mediaId": "File:Onion Stage 4.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-06-24T20:39:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AOnion%20Stage%204.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 108333,
+  "sourceSha1": "d1d81a4f3f117cc4c0b44bf726a5a4deb50d5faa",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Onion_Stage_4.png/revision/latest?cb=20160624203955",
+  "title": "File:Onion Stage 4.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 289
+}

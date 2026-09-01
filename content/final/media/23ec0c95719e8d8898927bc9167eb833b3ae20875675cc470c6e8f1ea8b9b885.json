@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:New.png",
+  "height": 375,
+  "immutableUrl": null,
+  "mediaId": "File:New.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-12-16T15:20:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ANew.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 28013,
+  "sourceSha1": "fb3f0b398b87500aed5dd813f26ffc51bbf45125",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1a/New.png/revision/latest?cb=20171216152017",
+  "title": "File:New.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 375
+}

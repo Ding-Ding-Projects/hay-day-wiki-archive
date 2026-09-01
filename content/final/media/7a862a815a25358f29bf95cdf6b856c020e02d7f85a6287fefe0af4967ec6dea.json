@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Purple_Tree.png",
+  "height": 615,
+  "immutableUrl": null,
+  "mediaId": "File:Purple Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:12:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APurple%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 430967,
+  "sourceSha1": "a8365de2ce7d23c11f5c969b5d4d693443e7ea49",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/99/Purple_Tree.png/revision/latest?cb=20180207191230",
+  "title": "File:Purple Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 615
+}

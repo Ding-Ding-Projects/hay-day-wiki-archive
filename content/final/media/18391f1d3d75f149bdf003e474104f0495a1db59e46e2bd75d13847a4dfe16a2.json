@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_GUI.png",
+  "height": 331,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day GUI.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-04-13T14:57:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day%20GUI.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 81339,
+  "sourceSha1": "9766387c59bad6de06c66fa391a5df7d44acbc52",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e0/Hay_Day_GUI.png/revision/latest?cb=20160413145720",
+  "title": "File:Hay Day GUI.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 587
+}

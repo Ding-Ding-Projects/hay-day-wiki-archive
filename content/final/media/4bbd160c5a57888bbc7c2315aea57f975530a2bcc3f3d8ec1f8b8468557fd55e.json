@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Agami_Heron.png",
+  "height": 1830,
+  "immutableUrl": null,
+  "mediaId": "File:Agami Heron.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-01-05T16:43:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAgami%20Heron.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 947613,
+  "sourceSha1": "fa8bfe24638b3b050f6f9ebb017846ee0d227577",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b8/Agami_Heron.png/revision/latest?cb=20250105164323",
+  "title": "File:Agami Heron.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1428
+}

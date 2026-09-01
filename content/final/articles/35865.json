@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products?action=history",
+    "importedAt": "2026-09-01T03:09:16.374Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products?oldid=103438",
+    "sourceRevisionId": 103438,
+    "sourceTitle": "Category:Omelet Station Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Omelet_Station.png/revision/latest?cb=20250925234121\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Omelet Station\" src=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Omelet_Station.png/revision/latest/scale-to-width-down/180?cb=20250925234121\" loading=\"lazy\" width=\"180\" height=\"151\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AOmelet_Station.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/omelet-station-35818\" title=\"Omelet Station\" rel=\"noopener noreferrer\" target=\"_blank\">Omelet Station</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030911\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35865-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030911 and revision id 103438. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "708b24de9c5a816bb3bda361a48a7560a4feb9dd3bb938d4285927d2bc89a968",
+  "internalLinks": [
+    {
+      "route": "/wiki/omelet-station-35818",
+      "title": "Omelet Station"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35865,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Omelet Station.png"
+  ],
+  "revisionId": 103438,
+  "revisionTimestamp": "2023-07-20T20:32:13Z",
+  "route": "/wiki/category%2Fcategory-omelet-station-products-35865",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products",
+  "title": "Category:Omelet Station Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "098d98d48aace0037fa49bc76118a973577c09ed643925520d168fbe5b4da7f2"
+}

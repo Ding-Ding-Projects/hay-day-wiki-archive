@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dog_Bed.png",
+  "height": 545,
+  "immutableUrl": null,
+  "mediaId": "File:Dog Bed.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-12T15:53:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADog%20Bed.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 161244,
+  "sourceSha1": "721287d45d18494560a45da49c6e3191ad0ac769",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Dog_Bed.png/revision/latest?cb=20180412155323",
+  "title": "File:Dog Bed.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 545
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass?action=history",
+    "importedAt": "2026-09-01T03:07:36.533Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass?oldid=100038",
+    "sourceRevisionId": 100038,
+    "sourceTitle": "Category:Image Farm Pass",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/farm-pass-34637\" title=\"Farm Pass\" rel=\"noopener noreferrer\" target=\"_blank\">farm pass</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030732\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35330-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030732 and revision id 100038. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a978c9ee7e9ed3fb4050e41143b95756de92df6c88fbcda624867c4c1bbe3a58",
+  "internalLinks": [
+    {
+      "route": "/wiki/farm-pass-34637",
+      "title": "Farm Pass"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35330,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 100038,
+  "revisionTimestamp": "2022-01-09T22:11:29Z",
+  "route": "/wiki/category%2Fcategory-image-farm-pass-35330",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass",
+  "title": "Category:Image Farm Pass",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ed236b9dcd063fb6eb269cd6aaaa68370eab7d6e8ecf147afd615e43a4885935"
+}

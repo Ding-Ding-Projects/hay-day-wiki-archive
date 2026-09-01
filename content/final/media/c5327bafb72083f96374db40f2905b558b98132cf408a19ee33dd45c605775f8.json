@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gazanias.png",
+  "height": 1100,
+  "immutableUrl": null,
+  "mediaId": "File:Gazanias.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:06:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGazanias.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 595600,
+  "sourceSha1": "9f60526add8fa1e9b7b6395a3484000efe273f39",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Gazanias.png/revision/latest?cb=20150715100653",
+  "title": "File:Gazanias.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1100
+}

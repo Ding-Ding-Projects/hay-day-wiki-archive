@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Alter.png",
+  "height": 1043,
+  "immutableUrl": null,
+  "mediaId": "File:Halloween Alter.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-29T09:56:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHalloween%20Alter.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 906368,
+  "sourceSha1": "89d63baaec76629b8f94240160f0e68e85d62cad",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Halloween_Alter.png/revision/latest?cb=20211029095635",
+  "title": "File:Halloween Alter.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 742
+}

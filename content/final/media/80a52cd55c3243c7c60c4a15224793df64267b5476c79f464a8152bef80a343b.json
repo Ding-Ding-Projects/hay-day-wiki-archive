@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-Sanctuary_Valley_TUTORIAL!!_How_to_Play!!",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day-Sanctuary Valley TUTORIAL!! How to Play!!",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-12-16T21:59:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHay%20Day-Sanctuary%20Valley%20TUTORIAL!!%20How%20to%20Play!!",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 42058,
+  "sourceSha1": "1b0e786bb151202100e6c8fba9d0b6719a64ee37",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7f/Hay_Day-Sanctuary_Valley_TUTORIAL%21%21_How_to_Play%21%21/revision/latest?cb=20191216215918",
+  "title": "File:Hay Day-Sanctuary Valley TUTORIAL!! How to Play!!",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

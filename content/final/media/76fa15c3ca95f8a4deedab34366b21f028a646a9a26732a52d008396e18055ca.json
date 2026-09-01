@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_1_Pedestal_Floral_Yellow.png",
+  "height": 336,
+  "immutableUrl": null,
+  "mediaId": "File:Pedestal Level 1 Pedestal Floral Yellow.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-24T17:26:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APedestal%20Level%201%20Pedestal%20Floral%20Yellow.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 73324,
+  "sourceSha1": "d861d0702af56c0946893053a6b99d313fdc5b61",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/Pedestal_Level_1_Pedestal_Floral_Yellow.png/revision/latest?cb=20200824172658",
+  "title": "File:Pedestal Level 1 Pedestal Floral Yellow.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

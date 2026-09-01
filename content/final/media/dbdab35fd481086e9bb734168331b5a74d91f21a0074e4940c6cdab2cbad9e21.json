@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Eggplant_Parmesan.png",
+  "height": 2444,
+  "immutableUrl": null,
+  "mediaId": "File:Eggplant Parmesan.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-07T14:59:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEggplant%20Parmesan.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4400502,
+  "sourceSha1": "b7be4277dc8f23c56a10ebd4994d154444520a78",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/73/Eggplant_Parmesan.png/revision/latest?cb=20240207145953",
+  "title": "File:Eggplant Parmesan.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2444
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Go_Nuts!.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Go Nuts!.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-12-08T15:00:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGo%20Nuts!.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 86936,
+  "sourceSha1": "4a2c9dc689c9126be83bf8510409d55f834eda0b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5b/Go_Nuts%21.png/revision/latest?cb=20211208150049",
+  "title": "File:Go Nuts!.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 823
+}

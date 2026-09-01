@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Apple_Jam.png",
+  "height": 1220,
+  "immutableUrl": null,
+  "mediaId": "File:Apple Jam.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T15:12:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AApple%20Jam.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1500634,
+  "sourceSha1": "5d3c92d957d7c9b24fb5e8c2a9ffaff10d6fe495",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Apple_Jam.png/revision/latest?cb=20240208151258",
+  "title": "File:Apple Jam.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1220
+}

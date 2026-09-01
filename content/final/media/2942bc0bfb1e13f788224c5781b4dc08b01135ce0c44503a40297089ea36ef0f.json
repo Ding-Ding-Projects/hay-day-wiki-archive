@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Saguaro_Cactus.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Saguaro Cactus.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-11T07:23:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASaguaro%20Cactus.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 302719,
+  "sourceSha1": "827dc0705aaa9e9fced905e5b11ca6c52ae277a4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/27/Saguaro_Cactus.png/revision/latest?cb=20181211072338",
+  "title": "File:Saguaro Cactus.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

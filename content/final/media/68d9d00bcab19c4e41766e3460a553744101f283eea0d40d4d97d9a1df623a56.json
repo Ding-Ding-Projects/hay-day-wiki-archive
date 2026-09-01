@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Treats_Maker_2025.png",
+  "height": 530,
+  "immutableUrl": null,
+  "mediaId": "File:Halloween Treats Maker 2025.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-10-23T20:48:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHalloween%20Treats%20Maker%202025.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 307670,
+  "sourceSha1": "d9ed480844c6d870d7d63d14a5880351dc329d19",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/52/Halloween_Treats_Maker_2025.png/revision/latest?cb=20251023204845",
+  "title": "File:Halloween Treats Maker 2025.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 530
+}

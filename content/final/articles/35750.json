@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products?action=history",
+    "importedAt": "2026-09-01T03:08:48.052Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products?oldid=102634",
+    "sourceRevisionId": 102634,
+    "sourceTitle": "Category:Pomegranate Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png/revision/latest?cb=20240219033910\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pomegranate\" src=\"https://static.wikia.nocookie.net/hayday/images/1/1b/Pomegranate.png/revision/latest/scale-to-width-down/180?cb=20240219033910\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3APomegranate.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/pomegranate-35749\" title=\"Pomegranate\" rel=\"noopener noreferrer\" target=\"_blank\">Pomegranate</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030842\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35750-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030842 and revision id 102634. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "dba2828e27f1ab1e88301b4a86f44b3ff05e2d0417753a9705d14e46051370e9",
+  "internalLinks": [
+    {
+      "route": "/wiki/pomegranate-35749",
+      "title": "Pomegranate"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35750,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Pomegranate.png"
+  ],
+  "revisionId": 102634,
+  "revisionTimestamp": "2023-04-01T15:30:08Z",
+  "route": "/wiki/category%2Fcategory-pomegranate-products-35750",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products",
+  "title": "Category:Pomegranate Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d1917e8352e3f2ededaad1dd4db399a841430d3912e17d0146a737bd2e28e3cb"
+}

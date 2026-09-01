@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ice_Poppies.png",
+  "height": 530,
+  "immutableUrl": null,
+  "mediaId": "File:Ice Poppies.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-10T21:38:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AIce%20Poppies.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 181369,
+  "sourceSha1": "972f50ac6bc513f8e335c87bf5770f411ff0dafb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/75/Ice_Poppies.png/revision/latest?cb=20221210213822",
+  "title": "File:Ice Poppies.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 530
+}

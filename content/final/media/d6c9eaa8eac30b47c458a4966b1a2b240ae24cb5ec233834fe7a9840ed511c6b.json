@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Elf_Gnome.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Elf Gnome.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-11T06:42:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AElf%20Gnome.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 236095,
+  "sourceSha1": "6bfeb0c9a10c5e16b716d4b85d4745a4c136c71b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/25/Elf_Gnome.png/revision/latest?cb=20181211064251",
+  "title": "File:Elf Gnome.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

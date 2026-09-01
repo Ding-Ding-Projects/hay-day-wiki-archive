@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Black_Wooden.png",
+  "height": 228,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Black Wooden.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-23T19:16:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Black%20Wooden.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 156333,
+  "sourceSha1": "e432fcf5eb64bb1af49fd13d827d6f10288447ad",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/de/Awning_Black_Wooden.png/revision/latest?cb=20180423191607",
+  "title": "File:Awning Black Wooden.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

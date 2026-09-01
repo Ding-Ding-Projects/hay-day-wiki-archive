@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Donkey_sleep.png",
+  "height": 348,
+  "immutableUrl": null,
+  "mediaId": "File:Donkey sleep.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-12-06T20:58:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADonkey%20sleep.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 139701,
+  "sourceSha1": "6abdd7a2de1b9874d1fa4ebc59c066b3fdd5098e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/Donkey_sleep.png/revision/latest?cb=20131206205804",
+  "title": "File:Donkey sleep.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 357
+}

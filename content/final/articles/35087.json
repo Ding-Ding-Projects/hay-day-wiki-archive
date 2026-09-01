@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Apple_Products?action=history",
+    "importedAt": "2026-09-01T03:06:52.548Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Apple_Products?oldid=98564",
+    "sourceRevisionId": 98564,
+    "sourceTitle": "Category:Apple Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Apple_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png/revision/latest?cb=20240219032402\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Apple\" src=\"https://static.wikia.nocookie.net/hayday/images/7/7d/Apple.png/revision/latest/scale-to-width-down/180?cb=20240219032402\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AApple.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/apple-2241\" title=\"Apple\" rel=\"noopener noreferrer\" target=\"_blank\">Apple</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831203742\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.017 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35087-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831203742 and revision id 98564. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "8ee1d973c950898ace3c37a06bf9296b92610565ff4d151ed96887c22bf044e1",
+  "internalLinks": [
+    {
+      "route": "/wiki/apple-2241",
+      "title": "Apple"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35087,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Apple.png"
+  ],
+  "revisionId": 98564,
+  "revisionTimestamp": "2021-08-31T21:20:06Z",
+  "route": "/wiki/category%2Fcategory-apple-products-35087",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Apple_Products",
+  "title": "Category:Apple Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ea97e5869689295ff91b23a88c9acfe190fc7f6c38b6bc102c0f2dc4a6dc0fad"
+}

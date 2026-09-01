@@ -1,0 +1,107 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Swan?action=history",
+    "importedAt": "2026-09-01T03:10:02.955Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Swan?oldid=106664",
+    "sourceRevisionId": 106664,
+    "sourceTitle": "Swan",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Swan?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/9/91/Black_Swan.png/revision/latest?cb=20250301223612\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Black Swan\" src=\"https://static.wikia.nocookie.net/hayday/images/9/91/Black_Swan.png/revision/latest/scale-to-width-down/180?cb=20250301223612\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ABlack_Swan.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p><b>Black Swan</b> are pet <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">animals</a>. They are unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 20. Black Swans were the first swans to be available and were added in the Winter 2024 update.\n</p><p>They give players <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points in exchange for any available feed.\n</p><p><br>\n</p><p>Each Black Swan costs 4 gold <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a> and 9 chick <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>. They must be placed near a <a href=\"/wiki/bird-house-35210\" title=\"Bird House\" rel=\"noopener noreferrer\" target=\"_blank\">bird house</a> to be bought. Players can have one Black Swan. Swans and bird houses can be bought from the <a href=\"/wiki/shop-14324\" title=\"Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Shop</a>.\n</p><p><br>\nWhen given certain quantity of <a href=\"/wiki/soybean-2079\" title=\"Soybean\" rel=\"noopener noreferrer\" target=\"_blank\">Soybean</a>, <a href=\"/wiki/carrot-2081\" title=\"Carrot\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot</a>, <a href=\"/wiki/fish-fillet-18999\" title=\"Fish Fillet\" rel=\"noopener noreferrer\" target=\"_blank\">Fish Fillet</a>, <a href=\"/wiki/strawberry-2240\" title=\"Strawberry\" rel=\"noopener noreferrer\" target=\"_blank\">Strawberry</a>, <a href=\"/wiki/sesame-31883\" title=\"Sesame\" rel=\"noopener noreferrer\" target=\"_blank\">Sesame</a>, <a href=\"/wiki/rice-8896\" title=\"Rice\" rel=\"noopener noreferrer\" target=\"_blank\">Rice</a>, <a href=\"/wiki/cabbage-34832\" title=\"Cabbage\" rel=\"noopener noreferrer\" target=\"_blank\">Cabbage</a>, <a href=\"/wiki/sunflower-28399\" title=\"Sunflower\" rel=\"noopener noreferrer\" target=\"_blank\">Sunflower</a>, <a href=\"/wiki/bell-pepper-29901\" title=\"Bell Pepper\" rel=\"noopener noreferrer\" target=\"_blank\">Bell Pepper</a>, <a href=\"/wiki/broccoli-30746\" title=\"Broccoli\" rel=\"noopener noreferrer\" target=\"_blank\">Broccoli</a> or <a href=\"/wiki/watermelon-29902\" title=\"Watermelon\" rel=\"noopener noreferrer\" target=\"_blank\">Watermelon</a>, Swan eat then roam the <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">farm</a> for&#160;? hours and finally fall asleep. Players can immediately wake them up to receive&#160;?? experience&#160;per animal. Swans stay asleep otherwise.\n</p><p>Swans which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030956\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.012 seconds\nReal time usage: 0.020 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36230-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030956 and revision id 106664. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "b02c491e0a4e02eb14a4f47165d8ecd153065de6ca9296f0f92288ff4d2ed5f9",
+  "internalLinks": [
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/bell-pepper-29901",
+      "title": "Bell Pepper"
+    },
+    {
+      "route": "/wiki/bird-house-35210",
+      "title": "Bird House"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/cabbage-34832",
+      "title": "Cabbage"
+    },
+    {
+      "route": "/wiki/carrot-2081",
+      "title": "Carrot"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/fish-fillet-18999",
+      "title": "Fish Fillet"
+    },
+    {
+      "route": "/wiki/rice-8896",
+      "title": "Rice"
+    },
+    {
+      "route": "/wiki/sesame-31883",
+      "title": "Sesame"
+    },
+    {
+      "route": "/wiki/shop-14324",
+      "title": "Shop"
+    },
+    {
+      "route": "/wiki/soybean-2079",
+      "title": "Soybean"
+    },
+    {
+      "route": "/wiki/strawberry-2240",
+      "title": "Strawberry"
+    },
+    {
+      "route": "/wiki/sunflower-28399",
+      "title": "Sunflower"
+    },
+    {
+      "route": "/wiki/voucher-3671",
+      "title": "Voucher"
+    },
+    {
+      "route": "/wiki/watermelon-29902",
+      "title": "Watermelon"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36230,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Black Swan.png"
+  ],
+  "revisionId": 106664,
+  "revisionTimestamp": "2024-12-21T02:50:00Z",
+  "route": "/wiki/swan-36230",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Swan",
+  "title": "Swan",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "25827b9c0dbd185ba39f6de6d9309d5e839e5acb1d9402d62b88e27ea18f0ec2"
+}

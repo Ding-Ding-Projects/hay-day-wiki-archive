@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Donkey_smiling.png",
+  "height": 348,
+  "immutableUrl": null,
+  "mediaId": "File:Donkey smiling.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-12-06T20:58:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADonkey%20smiling.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 104030,
+  "sourceSha1": "d6f96ee187b16bbcbc570099b889e02d3d2b5f22",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0c/Donkey_smiling.png/revision/latest?cb=20131206205825",
+  "title": "File:Donkey smiling.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 357
+}

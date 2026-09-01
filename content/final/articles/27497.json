@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Boosters?action=history",
+    "importedAt": "2026-09-01T03:01:20.962Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Boosters?oldid=74986",
+    "sourceRevisionId": 74986,
+    "sourceTitle": "Category:Image Boosters",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Boosters?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/boosters-27089\" title=\"Boosters\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030059\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:27497-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030059 and revision id 74986. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f02ea242fc808ff0db468ab9d2e89df5c543ba0f0549e0588d8797fa423f12e2",
+  "internalLinks": [
+    {
+      "route": "/wiki/boosters-27089",
+      "title": "Boosters"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 27497,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 74986,
+  "revisionTimestamp": "2017-11-03T15:34:16Z",
+  "route": "/wiki/category%2Fcategory-image-boosters-27497",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Boosters",
+  "title": "Category:Image Boosters",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "e35bdf1451e613be95d3fea91aa3ec1fd8a80bc6326fdb562cb75ff3f33d08a9"
+}

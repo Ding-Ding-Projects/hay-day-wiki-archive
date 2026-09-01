@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Pink_Open_Gable.png",
+  "height": 130,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Pink Open Gable.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-13T15:34:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Pink%20Open%20Gable.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 15882,
+  "sourceSha1": "ea01e5c69865ed0dce5e09fd7a99b194320264a2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ee/Roof_Pink_Open_Gable.png/revision/latest?cb=20180613153410",
+  "title": "File:Roof Pink Open Gable.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 134
+}

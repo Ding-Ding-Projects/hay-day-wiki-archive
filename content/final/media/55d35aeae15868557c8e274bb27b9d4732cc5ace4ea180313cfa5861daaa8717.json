@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roof_Dark_Straw.png",
+  "height": 276,
+  "immutableUrl": null,
+  "mediaId": "File:Roof Dark Straw.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-25T15:20:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARoof%20Dark%20Straw.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 50987,
+  "sourceSha1": "e30942399c3451be9e11a524661c03aaee6a7d2e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Roof_Dark_Straw.png/revision/latest?cb=20180625152054",
+  "title": "File:Roof Dark Straw.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 284
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cooldown_bird.png",
+  "height": 108,
+  "immutableUrl": null,
+  "mediaId": "File:Cooldown bird.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-09-20T14:57:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACooldown%20bird.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 28193,
+  "sourceSha1": "3771a7f00f95773b08c25acc5b84846f788a5d94",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8c/Cooldown_bird.png/revision/latest?cb=20140920145705",
+  "title": "File:Cooldown bird.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 150
+}

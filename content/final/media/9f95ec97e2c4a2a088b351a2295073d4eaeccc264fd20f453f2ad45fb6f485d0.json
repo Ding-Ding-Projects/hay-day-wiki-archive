@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cow_Summer_Full.png",
+  "height": 195,
+  "immutableUrl": null,
+  "mediaId": "File:Cow Summer Full.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-07-11T08:09:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACow%20Summer%20Full.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 139499,
+  "sourceSha1": "8f29cc63bf52ad7f07199660dea65df6e48f2be7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Cow_Summer_Full.png/revision/latest?cb=20130711080958",
+  "title": "File:Cow Summer Full.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 175
+}

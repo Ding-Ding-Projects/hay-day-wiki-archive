@@ -1,0 +1,435 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Corn?action=history",
+    "importedAt": "2026-09-01T02:24:24.921Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Corn?oldid=110916",
+    "sourceRevisionId": 110916,
+    "sourceTitle": "Corn",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Growing_corn",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Growing corn</b>",
+      "text": "<b>Growing corn</b>"
+    },
+    {
+      "anchor": "Selling_corn",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling corn</b>",
+      "text": "<b>Selling corn</b>"
+    },
+    {
+      "anchor": "Using_corn",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using corn</b>",
+      "text": "<b>Using corn</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Did you know</b>",
+      "text": "<b>Did you know</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Corn?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 2</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 7</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  5 min</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 1</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Farm</span><span title=\"Field(s)\"><span class=\"mw-default-size\"><a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Farm\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 2</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 1</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p><b>Corn</b> is a field <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crop</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 2.\n</p><p>It is the second crop unlocked in the game and is used to make several food <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, notably <a href=\"/wiki/popcorn-pot-3551\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\">popcorn</a> and feed for <a href=\"/wiki/chicken-2409\" title=\"Chicken\" rel=\"noopener noreferrer\" target=\"_blank\">chickens</a> and <a href=\"/wiki/cow-2488\" title=\"Cow\" rel=\"noopener noreferrer\" target=\"_blank\">cows</a>.\n</p><p>Due to its short production time, corn is often used to farm <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points or get <a href=\"/wiki/category%2Fcategory-supplies-14729\" title=\"Category:Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, much like <a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">wheat</a>.\n</p><p>Like all crops, they are stored in the <a href=\"/wiki/silo-2654\" title=\"Silo\" rel=\"noopener noreferrer\" target=\"_blank\">silo</a>.\n</p><p>If you have none in your silo, you can buy 10 for 110 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Growing corn</b></span></h3>\n<p>Corn is grown in <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">fields</a> by planting another corn plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 1 <span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> point, and takes 5 minutes to mature.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACorn_Stage_1.png\" title=\"Corn Stage 1.png (65 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/57/Corn_Stage_1.png/revision/latest/scale-to-width-down/100?cb=20150714114606\" title=\"Corn Stage 1.png (65 KB)\" class=\"thumbimage\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"><img title=\"Corn Stage 1.png (65 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACorn_Stage_2.png\" title=\"Corn Stage 2.png (77 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/97/Corn_Stage_2.png/revision/latest/scale-to-width-down/100?cb=20150714114607\" title=\"Corn Stage 2.png (77 KB)\" class=\"thumbimage\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"><img title=\"Corn Stage 2.png (77 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACorn_Stage_3.png\" title=\"Corn Stage 3.png (95 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/db/Corn_Stage_3.png/revision/latest/scale-to-width-down/100?cb=20150714114607\" title=\"Corn Stage 3.png (95 KB)\" class=\"thumbimage\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"><img title=\"Corn Stage 3.png (95 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACorn_Stage_4.png\" title=\"Corn Stage 4.png (112 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/1/11/Corn_Stage_4.png/revision/latest/scale-to-width-down/100?cb=20150714114607\" title=\"Corn Stage 4.png (112 KB)\" class=\"thumbimage\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"><img title=\"Corn Stage 4.png (112 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ACorn_Stage_5.png\" title=\"Corn Stage 5.png (45 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/4d/Corn_Stage_5.png/revision/latest/scale-to-width-down/100?cb=20150714114607\" title=\"Corn Stage 5.png (45 KB)\" class=\"thumbimage\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"><img title=\"Corn Stage 5.png (45 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"100\" width=\"100\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling corn</b></span></h3>\n<figure class=\"thumb mw-halign-left show-info-icon\"> \t<a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"thumbimage lazyload\" loading=\"lazy\"></a> \t<a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" src=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest/scale-to-width-down/150?cb=20191028143054\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"thumbimage\" loading=\"lazy\"></a> \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ARoadside_Shop.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t\t\t<p class=\"caption\">Roadside Shop</p> \t\t \t</figcaption> </figure>\n<ul><li>Corn can be sold or bought for a maximum price of 72 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using corn</b></span></h3>\n<p>Corn is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/chicken-feed-2086\" title=\"Chicken feed\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chicken feed\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/cow-feed-2091\" title=\"Cow feed\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cow feed\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/corn-bread-2090\" title=\"Corn bread\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn bread\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/chicken-feed-2086\" title=\"Chicken Feed\" rel=\"noopener noreferrer\" target=\"_blank\">Chicken Feed</a></b>\n</td>\n<td><b><a href=\"/wiki/cow-feed-2091\" title=\"Cow Feed\" rel=\"noopener noreferrer\" target=\"_blank\">Cow Feed</a></b>\n</td>\n<td><b><a href=\"/wiki/corn-bread-2090\" title=\"Corn Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Corn Bread</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 3\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 6\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 7\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/popcorn-2092\" title=\"Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/buttered-popcorn-2093\" title=\"Buttered popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Buttered popcorn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/chili-popcorn-2311\" title=\"Chili popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chili popcorn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/popcorn-2092\" title=\"Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn</a></b>\n</td>\n<td><b><a href=\"/wiki/buttered-popcorn-2093\" title=\"Buttered Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Buttered Popcorn</a></b>\n</td>\n<td><b><a href=\"/wiki/chili-popcorn-2311\" title=\"Chili Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Chili Popcorn</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 8\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 16\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 25\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/goat-feed-2260\" title=\"Goat feed\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Goat feed\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/honey-popcorn-15786\" title=\"Honey popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey popcorn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/chocolate-popcorn-7181\" title=\"Chocolate popcorn\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chocolate popcorn\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/goat-feed-2260\" title=\"Goat Feed\" rel=\"noopener noreferrer\" target=\"_blank\">Goat Feed</a></b>\n</td>\n<td><b><a href=\"/wiki/honey-popcorn-15786\" title=\"Honey Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Honey Popcorn</a></b>\n</td>\n<td><b><a href=\"/wiki/chocolate-popcorn-7181\" title=\"Chocolate Popcorn\" rel=\"noopener noreferrer\" target=\"_blank\">Chocolate Popcorn</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 32\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 40\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 44\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/bean-salad-36498\" title=\"Bean salad\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bean salad\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/snack-mix-34680\" title=\"Snack mix\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Snack mix\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/corn-dog-19463\" title=\"Corn dog\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn dog\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bean-salad-36498\" title=\"Bean Salad\" rel=\"noopener noreferrer\" target=\"_blank\">Bean Salad</a></b>\n</td>\n<td><b><a href=\"/wiki/snack-mix-34680\" title=\"Snack Mix\" rel=\"noopener noreferrer\" target=\"_blank\">Snack Mix</a></b>\n</td>\n<td><b><a href=\"/wiki/corn-dog-19463\" title=\"Corn Dog\" rel=\"noopener noreferrer\" target=\"_blank\">Corn Dog</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 58\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 64\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 78\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/nachos-24986\" title=\"Nachos\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Nachos\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/nachos-24986\" title=\"Nachos\" rel=\"noopener noreferrer\" target=\"_blank\">Nachos</a></b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest?cb=20240218151631\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 87\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"thumb mw-halign-left show-info-icon\"> \t<a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Boat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"thumbimage lazyload\" loading=\"lazy\"></a> \t<a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Boat\" src=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest/scale-to-width-down/150?cb=20150712182459\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"thumbimage\" loading=\"lazy\"></a> \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ARiverboat.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t\t\t<p class=\"caption\">Boat</p> \t\t \t</figcaption> </figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for 50 to 102 corn per crate, up to a total of 408 per boat.</li>\n<li>Each unit of corn gives players 2 coins and 2 experience points in boat orders.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<figure class=\"thumb mw-halign-right show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/9/94/Corn_Daily_Dirt.png/revision/latest?cb=20210704000748\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn is commonly found in \" loading=\"lazy\" width=\"175\" height=\"115\" class=\"thumbimage lazyload\" loading=\"lazy\"></a> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/9/94/Corn_Daily_Dirt.png/revision/latest?cb=20210704000748\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn is commonly found in \" src=\"https://static.wikia.nocookie.net/hayday/images/9/94/Corn_Daily_Dirt.png/revision/latest/scale-to-width-down/175?cb=20210704000748\" loading=\"lazy\" width=\"175\" height=\"115\" class=\"thumbimage\" loading=\"lazy\"></a> \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ACorn_Daily_Dirt.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t\t\t<p class=\"caption\">Corn is commonly found in <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a></p> \t\t \t</figcaption> </figure>\n<ul><li>Corn is so common that selling it at high prices may result in fewer or slower sales.</li>\n<li>Corn can always be found in the <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a>.</li>\n<li>Recipes ask for one to four units of corn. If you make lots of popcorn or have many farm animals, make sure you always have enough of it.</li>\n<li><a href=\"/wiki/corn-bread-2090\" title=\"Corn Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Corn bread</a> is used to make <a href=\"/wiki/taco-24984\" title=\"Taco\" rel=\"noopener noreferrer\" target=\"_blank\">tacos</a>, <a href=\"/wiki/fish-taco-24982\" title=\"Fish Taco\" rel=\"noopener noreferrer\" target=\"_blank\">fish tacos</a>, and <a href=\"/wiki/onion-melt-29367\" title=\"Onion Melt\" rel=\"noopener noreferrer\" target=\"_blank\">onion melts</a>.</li>\n<li>Wheating is always preferred over CORNING as corn takes 5 min and won't get sold quickly if you are selling at a high price, however, wheat gets sold more often, even at a high price.</li>\n<li><a href=\"/wiki/visitors-7539\" title=\"Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">Visitors</a> in your farm pay only 28 per 10 corn. Even during events where they pay double, this will be lower than the maximum price in the <a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\">Roadside Shop</a>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Did you know</b></span></h3>\n<ul><li>Corn is indirectly required to make the most amount of products: 109, nearly half.\n<ul><li>This is because it's required to make both <a href=\"/wiki/chicken-feed-2086\" title=\"Chicken Feed\" rel=\"noopener noreferrer\" target=\"_blank\">Chicken</a>, and <a href=\"/wiki/cow-feed-2091\" title=\"Cow Feed\" rel=\"noopener noreferrer\" target=\"_blank\">Cow Feed</a>, which means it's required to get <a href=\"/wiki/egg-2058\" title=\"Egg\" rel=\"noopener noreferrer\" target=\"_blank\">Eggs</a>, and <a href=\"/wiki/milk-2141\" title=\"Milk\" rel=\"noopener noreferrer\" target=\"_blank\">Milk</a>, which are key ingredients in most recipes.</li></ul></li></ul>\n<div></div>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/asparagus-35799\" title=\"Asparagus (2.42 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png/revision/latest/scale-to-width-down/50?cb=20240218150229\" title=\"Asparagus (2.42 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Asparagus (2.42 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/beetroot-33002\" title=\"Beetroot (3.94 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png/revision/latest/scale-to-width-down/47?cb=20240218150336\" title=\"Beetroot (3.94 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Beetroot (3.94 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/bell-pepper-29901\" title=\"Bell Pepper (3.53 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png/revision/latest/scale-to-width-down/50?cb=20240218150145\" title=\"Bell Pepper (3.53 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Bell Pepper (3.53 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/black-bean-36496\" title=\"Black Bean (101 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/23/Black_Bean.png/revision/latest/scale-to-width-down/50?cb=20260126210023\" title=\"Black Bean (101 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Black Bean (101 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/broccoli-30746\" title=\"Broccoli (4.24 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png/revision/latest/scale-to-width-down/50?cb=20240218150508\" title=\"Broccoli (4.24 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Broccoli (4.24 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cabbage-34832\" title=\"Cabbage (1.47 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png/revision/latest/scale-to-width-down/49?cb=20240218151308\" title=\"Cabbage (1.47 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cabbage (1.47 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/carrot-2081\" title=\"Carrot (614 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png/revision/latest/scale-to-width-down/50?cb=20240218151353\" title=\"Carrot (614 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Carrot (614 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chamomile-36216\" title=\"Chamomile (642 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest/scale-to-width-down/50?cb=20241209180843\" title=\"Chamomile (642 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chamomile (642 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chickpea-35385\" title=\"Chickpea (2.2 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png/revision/latest/scale-to-width-down/50?cb=20240218151443\" title=\"Chickpea (2.2 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chickpea (2.2 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chili-pepper-2235\" title=\"Chili Pepper (14 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png/revision/latest/scale-to-width-down/50?cb=20191023151351\" title=\"Chili Pepper (14 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chili Pepper (14 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/clay-35282\" title=\"Clay (2.64 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png/revision/latest/scale-to-width-down/50?cb=20240218151529\" title=\"Clay (2.64 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Clay (2.64 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/corn-2063\" title=\"Corn (683 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest/scale-to-width-down/50?cb=20240218151631\" title=\"Corn (683 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Corn (683 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cotton-14254\" title=\"Cotton (426 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png/revision/latest/scale-to-width-down/50?cb=20240218151721\" title=\"Cotton (426 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cotton (426 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cucumber-30747\" title=\"Cucumber (860 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png/revision/latest/scale-to-width-down/50?cb=20240218151809\" title=\"Cucumber (860 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cucumber (860 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/eggplant-30745\" title=\"Eggplant (3.94 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png/revision/latest/scale-to-width-down/50?cb=20240218151903\" title=\"Eggplant (3.94 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Eggplant (3.94 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/garlic-33001\" title=\"Garlic (2.41 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png/revision/latest/scale-to-width-down/48?cb=20240218151955\" title=\"Garlic (2.41 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Garlic (2.41 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/ginger-31881\" title=\"Ginger (2.48 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png/revision/latest/scale-to-width-down/50?cb=20240218152109\" title=\"Ginger (2.48 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Ginger (2.48 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/grapes-26402\" title=\"Grapes (3.77 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png/revision/latest/scale-to-width-down/50?cb=20240218152214\" title=\"Grapes (3.77 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Grapes (3.77 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/indigo-2083\" title=\"Indigo (33 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest/scale-to-width-down/50?cb=20191023151432\" title=\"Indigo (33 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Indigo (33 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lettuce-8898\" title=\"Lettuce (791 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png/revision/latest/scale-to-width-down/50?cb=20260313083935\" title=\"Lettuce (791 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lettuce (791 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lily-33000\" title=\"Lily (2.22 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png/revision/latest/scale-to-width-down/46?cb=20240219025449\" title=\"Lily (2.22 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lily (2.22 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mint-29903\" title=\"Mint (4.04 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png/revision/latest/scale-to-width-down/50?cb=20240219025557\" title=\"Mint (4.04 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mint (4.04 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mushroom-31885\" title=\"Mushroom (2.62 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png/revision/latest/scale-to-width-down/50?cb=20240219025703\" title=\"Mushroom (2.62 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mushroom (2.62 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/oats-35900\" title=\"Oats (119 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/34/Oats.png/revision/latest/scale-to-width-down/50?cb=20230920004146\" title=\"Oats (119 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Oats (119 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/onion-24832\" title=\"Onion (271 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png/revision/latest/scale-to-width-down/50?cb=20240219025803\" title=\"Onion (271 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Onion (271 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/passion-fruit-35182\" title=\"Passion Fruit (131 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png/revision/latest/scale-to-width-down/50?cb=20240219030332\" title=\"Passion Fruit (131 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Passion Fruit (131 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/peony-28400\" title=\"Peony (6.08 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png/revision/latest/scale-to-width-down/50?cb=20240219030430\" title=\"Peony (6.08 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Peony (6.08 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/pineapple-30748\" title=\"Pineapple (3.66 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png/revision/latest/scale-to-width-down/50?cb=20240219030555\" title=\"Pineapple (3.66 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Pineapple (3.66 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/potato-2693\" title=\"Potato (419 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png/revision/latest/scale-to-width-down/50?cb=20240219030654\" title=\"Potato (419 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Potato (419 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/pumpkin-2082\" title=\"Pumpkin (395 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png/revision/latest/scale-to-width-down/50?cb=20240219030742\" title=\"Pumpkin (395 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Pumpkin (395 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/rice-8896\" title=\"Rice (770 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png/revision/latest/scale-to-width-down/50?cb=20240219030840\" title=\"Rice (770 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Rice (770 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sesame-31883\" title=\"Sesame (3.91 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png/revision/latest/scale-to-width-down/50?cb=20240219030944\" title=\"Sesame (3.91 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sesame (3.91 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/soybean-2079\" title=\"Soybean (767 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png/revision/latest/scale-to-width-down/50?cb=20240219031547\" title=\"Soybean (767 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Soybean (767 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/strawberry-2240\" title=\"Strawberry (670 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png/revision/latest/scale-to-width-down/50?cb=20240219031821\" title=\"Strawberry (670 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Strawberry (670 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sugarcane-2080\" title=\"Sugarcane (933 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png/revision/latest/scale-to-width-down/50?cb=20240219031727\" title=\"Sugarcane (933 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sugarcane (933 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sunflower-28399\" title=\"Sunflower (1.38 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png/revision/latest/scale-to-width-down/48?cb=20240219031925\" title=\"Sunflower (1.38 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sunflower (1.38 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/tea-leaf-24833\" title=\"Tea Leaf (428 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png/revision/latest/scale-to-width-down/50?cb=20240219032147\" title=\"Tea Leaf (428 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Tea Leaf (428 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/tomato-2236\" title=\"Tomato (542 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png/revision/latest/scale-to-width-down/50?cb=20240219025108\" title=\"Tomato (542 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Tomato (542 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/watermelon-29902\" title=\"Watermelon (2.92 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png/revision/latest/scale-to-width-down/50?cb=20240219032022\" title=\"Watermelon (2.92 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Watermelon (2.92 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wheat-2062\" title=\"Wheat (631 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest/scale-to-width-down/50?cb=20240218150024\" title=\"Wheat (631 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wheat (631 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260822150432\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.138 seconds\nReal time usage: 0.184 seconds\nPreprocessor visited node count: 473/1000000\nPost‐expand include size: 10895/2097152 bytes\nTemplate argument size: 155/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 48906/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.008/7.000 seconds\nLua memory usage: 1029961/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  123.424      1 -total\n 46.85%   57.827      1 Template:Navigation\n 43.78%   54.036      1 Template:FieldCropsMenu\n 35.86%   44.254      1 Template:Infobox\n 16.97%   20.940     10 Template:Infoicon\n  3.75%    4.634      1 Template:Item_Usage\n  1.61%    1.984      1 Template:Languages\n  1.33%    1.638      5 Template:Clr\n  1.16%    1.433      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2063-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260822150431 and revision id 110916. Rendering was triggered because: edit-page\n -->\n</div>",
+  "htmlHash": "67676f47a4b9e4495223382c9de7085dc5a5578fae66f0ca2f3fde470aefd902",
+  "internalLinks": [
+    {
+      "route": "/wiki/asparagus-35799",
+      "title": "Asparagus"
+    },
+    {
+      "route": "/wiki/bean-salad-36498",
+      "title": "Bean Salad"
+    },
+    {
+      "route": "/wiki/beetroot-33002",
+      "title": "Beetroot"
+    },
+    {
+      "route": "/wiki/bell-pepper-29901",
+      "title": "Bell Pepper"
+    },
+    {
+      "route": "/wiki/black-bean-36496",
+      "title": "Black Bean"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/buttered-popcorn-2093",
+      "title": "Buttered Popcorn"
+    },
+    {
+      "route": "/wiki/cabbage-34832",
+      "title": "Cabbage"
+    },
+    {
+      "route": "/wiki/carrot-2081",
+      "title": "Carrot"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-supplies-14729",
+      "title": "Category:Supplies"
+    },
+    {
+      "route": "/wiki/chamomile-36216",
+      "title": "Chamomile"
+    },
+    {
+      "route": "/wiki/chicken-2409",
+      "title": "Chicken"
+    },
+    {
+      "route": "/wiki/chicken-feed-2086",
+      "title": "Chicken Feed"
+    },
+    {
+      "route": "/wiki/chickpea-35385",
+      "title": "Chickpea"
+    },
+    {
+      "route": "/wiki/chili-pepper-2235",
+      "title": "Chili Pepper"
+    },
+    {
+      "route": "/wiki/chili-popcorn-2311",
+      "title": "Chili Popcorn"
+    },
+    {
+      "route": "/wiki/chocolate-popcorn-7181",
+      "title": "Chocolate Popcorn"
+    },
+    {
+      "route": "/wiki/clay-35282",
+      "title": "Clay"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/corn-bread-2090",
+      "title": "Corn Bread"
+    },
+    {
+      "route": "/wiki/corn-dog-19463",
+      "title": "Corn Dog"
+    },
+    {
+      "route": "/wiki/cotton-14254",
+      "title": "Cotton"
+    },
+    {
+      "route": "/wiki/cow-2488",
+      "title": "Cow"
+    },
+    {
+      "route": "/wiki/cow-feed-2091",
+      "title": "Cow Feed"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/cucumber-30747",
+      "title": "Cucumber"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/egg-2058",
+      "title": "Egg"
+    },
+    {
+      "route": "/wiki/eggplant-30745",
+      "title": "Eggplant"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/fish-taco-24982",
+      "title": "Fish Taco"
+    },
+    {
+      "route": "/wiki/garlic-33001",
+      "title": "Garlic"
+    },
+    {
+      "route": "/wiki/ginger-31881",
+      "title": "Ginger"
+    },
+    {
+      "route": "/wiki/goat-feed-2260",
+      "title": "Goat Feed"
+    },
+    {
+      "route": "/wiki/grapes-26402",
+      "title": "Grapes"
+    },
+    {
+      "route": "/wiki/honey-popcorn-15786",
+      "title": "Honey Popcorn"
+    },
+    {
+      "route": "/wiki/indigo-2083",
+      "title": "Indigo"
+    },
+    {
+      "route": "/wiki/lettuce-8898",
+      "title": "Lettuce"
+    },
+    {
+      "route": "/wiki/lily-33000",
+      "title": "Lily"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/milk-2141",
+      "title": "Milk"
+    },
+    {
+      "route": "/wiki/mint-29903",
+      "title": "Mint"
+    },
+    {
+      "route": "/wiki/mushroom-31885",
+      "title": "Mushroom"
+    },
+    {
+      "route": "/wiki/nachos-24986",
+      "title": "Nachos"
+    },
+    {
+      "route": "/wiki/oats-35900",
+      "title": "Oats"
+    },
+    {
+      "route": "/wiki/onion-24832",
+      "title": "Onion"
+    },
+    {
+      "route": "/wiki/onion-melt-29367",
+      "title": "Onion Melt"
+    },
+    {
+      "route": "/wiki/passion-fruit-35182",
+      "title": "Passion Fruit"
+    },
+    {
+      "route": "/wiki/peony-28400",
+      "title": "Peony"
+    },
+    {
+      "route": "/wiki/pineapple-30748",
+      "title": "Pineapple"
+    },
+    {
+      "route": "/wiki/popcorn-2092",
+      "title": "Popcorn"
+    },
+    {
+      "route": "/wiki/popcorn-pot-3551",
+      "title": "Popcorn Pot"
+    },
+    {
+      "route": "/wiki/potato-2693",
+      "title": "Potato"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/pumpkin-2082",
+      "title": "Pumpkin"
+    },
+    {
+      "route": "/wiki/rice-8896",
+      "title": "Rice"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/sesame-31883",
+      "title": "Sesame"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/snack-mix-34680",
+      "title": "Snack Mix"
+    },
+    {
+      "route": "/wiki/soybean-2079",
+      "title": "Soybean"
+    },
+    {
+      "route": "/wiki/strawberry-2240",
+      "title": "Strawberry"
+    },
+    {
+      "route": "/wiki/sugarcane-2080",
+      "title": "Sugarcane"
+    },
+    {
+      "route": "/wiki/sunflower-28399",
+      "title": "Sunflower"
+    },
+    {
+      "route": "/wiki/taco-24984",
+      "title": "Taco"
+    },
+    {
+      "route": "/wiki/tea-leaf-24833",
+      "title": "Tea Leaf"
+    },
+    {
+      "route": "/wiki/tomato-2236",
+      "title": "Tomato"
+    },
+    {
+      "route": "/wiki/visitors-7539",
+      "title": "Visitors"
+    },
+    {
+      "route": "/wiki/watermelon-29902",
+      "title": "Watermelon"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2063,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Asparagus.png",
+    "File:Bean Salad.png",
+    "File:Beetroot.png",
+    "File:Bell Pepper.png",
+    "File:Black Bean.png",
+    "File:Broccoli.png",
+    "File:Buttered Popcorn.png",
+    "File:Cabbage.png",
+    "File:Carrot.png",
+    "File:Chamomile.png",
+    "File:Chicken Feed.png",
+    "File:Chickpea.png",
+    "File:Chili Pepper.png",
+    "File:Chili Popcorn.png",
+    "File:Chocolate Popcorn.png",
+    "File:Clay.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Corn Bread.png",
+    "File:Corn Daily Dirt.png",
+    "File:Corn Dog.png",
+    "File:Corn Stage 1.png",
+    "File:Corn Stage 2.png",
+    "File:Corn Stage 3.png",
+    "File:Corn Stage 4.png",
+    "File:Corn Stage 5.png",
+    "File:Corn.png",
+    "File:Cotton.png",
+    "File:Cow Feed.png",
+    "File:Cucumber.png",
+    "File:Diamond.png",
+    "File:Eggplant.png",
+    "File:Experience.png",
+    "File:Field.png",
+    "File:Garlic.png",
+    "File:Ginger.png",
+    "File:Goat Feed.png",
+    "File:Grapes.png",
+    "File:Honey Popcorn.png",
+    "File:Indigo.png",
+    "File:Lettuce.png",
+    "File:Lily.png",
+    "File:Mint.png",
+    "File:Mushroom.png",
+    "File:Nachos.png",
+    "File:Oats.png",
+    "File:Onion.png",
+    "File:Passion Fruit.png",
+    "File:Peony.png",
+    "File:Pineapple.png",
+    "File:Popcorn.png",
+    "File:Potato.png",
+    "File:Pumpkin.png",
+    "File:Rice.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Sesame.png",
+    "File:Snack Mix.png",
+    "File:Soybean.png",
+    "File:Strawberry.png",
+    "File:Sugarcane.png",
+    "File:Sunflower.png",
+    "File:Tea Leaf.png",
+    "File:Tomato.png",
+    "File:Watermelon.png",
+    "File:Wheat.png"
+  ],
+  "revisionId": 110916,
+  "revisionTimestamp": "2026-08-22T15:04:31Z",
+  "route": "/wiki/corn-2063",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Corn",
+  "title": "Corn",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c8745e4e56ffbaebea48cba665b095691b21ffc72cca9f4fca55c429a6833d15"
+}

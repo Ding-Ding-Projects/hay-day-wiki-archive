@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Winter.png",
+  "height": 824,
+  "immutableUrl": null,
+  "mediaId": "File:Goat Winter.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-16T22:57:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGoat%20Winter.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 480974,
+  "sourceSha1": "14fd4f9d513e86df998bea73c3c25aa8ab5d0850",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b7/Goat_Winter.png/revision/latest?cb=20260516225700",
+  "title": "File:Goat Winter.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 824
+}

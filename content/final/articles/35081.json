@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products?action=history",
+    "importedAt": "2026-09-01T03:06:52.547Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products?oldid=98558",
+    "sourceRevisionId": 98558,
+    "sourceTitle": "Category:Brown Sugar Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/02/Brown_Sugar.png/revision/latest?cb=20240205163705\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Brown Sugar\" src=\"https://static.wikia.nocookie.net/hayday/images/0/02/Brown_Sugar.png/revision/latest/scale-to-width-down/180?cb=20240205163705\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ABrown_Sugar.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/brown-sugar-2095\" title=\"Brown Sugar\" rel=\"noopener noreferrer\" target=\"_blank\">Brown Sugar</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030650\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35081-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030650 and revision id 98558. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "b9294ca7db88ebe26ea95a7d3ae5c6025bbad7ecb4f65cc89966793749064338",
+  "internalLinks": [
+    {
+      "route": "/wiki/brown-sugar-2095",
+      "title": "Brown Sugar"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35081,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Brown Sugar.png"
+  ],
+  "revisionId": 98558,
+  "revisionTimestamp": "2021-08-31T20:58:57Z",
+  "route": "/wiki/category%2Fcategory-brown-sugar-products-35081",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products",
+  "title": "Category:Brown Sugar Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "fd8c46f4cbd8cc1a0be4c49a35e8088086d18112c6a80d89b532d5fbdd721354"
+}

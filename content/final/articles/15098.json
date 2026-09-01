@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes?action=history",
+    "importedAt": "2026-09-01T02:47:21.768Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes?oldid=32462",
+    "sourceRevisionId": 32462,
+    "sourceTitle": "Category:Image Mystery Boxes",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images of <a href=\"/wiki/mystery-box-6452\" title=\"Mystery Box\" rel=\"noopener noreferrer\" target=\"_blank\">Mystery Boxes</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024712\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15098-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024712 and revision id 32462. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "b2412118b10aaf569ca3042265c4107448d03d5c412e53d20d3c955486cda0ff",
+  "internalLinks": [
+    {
+      "route": "/wiki/mystery-box-6452",
+      "title": "Mystery Box"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15098,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 32462,
+  "revisionTimestamp": "2014-08-08T14:39:06Z",
+  "route": "/wiki/category%2Fcategory-image-mystery-boxes-15098",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes",
+  "title": "Category:Image Mystery Boxes",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6b8623abb1c8b3e2cb554bc083820db337cfee82570e164360179a2da413f002"
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Disambiguations?action=history",
+    "importedAt": "2026-09-01T02:10:57.341Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Disambiguations?oldid=89064",
+    "sourceRevisionId": 89064,
+    "sourceTitle": "Category:Disambiguations",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Disambiguations?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This is a maintenance category for disambiguation pages.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901021055\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:1817-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901021055 and revision id 89064. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "19b6ff32807ffa3eaa19acf7b282f8f8eb9ead1654f421cbfd7537d10e2812a4",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 1817,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89064,
+  "revisionTimestamp": "2019-10-26T04:15:15Z",
+  "route": "/wiki/category%2Fcategory-disambiguations-1817",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Disambiguations",
+  "title": "Category:Disambiguations",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "be4a5e850ffe7f0a4e0a81ba6b6b84faa68eff1fceb4bef3c6fbd9eb04ca5bac"
+}

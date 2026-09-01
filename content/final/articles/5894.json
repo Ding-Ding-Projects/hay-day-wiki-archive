@@ -1,0 +1,45 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing?action=history",
+    "importedAt": "2026-09-01T02:39:20.639Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Fishing?oldid=57783",
+    "sourceRevisionId": 57783,
+    "sourceTitle": "Category:Fishing",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category is meant to hold all pages relating to the <a href=\"/wiki/fishing-7449\" title=\"Fishing\" rel=\"noopener noreferrer\" target=\"_blank\">fishing</a> mechanic in <i><a href=\"/wiki/hay-day-8519\" title=\"Hay Day\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day</a></i>. Please do not add pages to this category simply to get an achievement.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901023715\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:5894-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901023715 and revision id 57783. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "1b4dc8037d6e2ab2f0c3931897821314a810b5b60ae84a1e922bace24f9c6cae",
+  "internalLinks": [
+    {
+      "route": "/wiki/fishing-7449",
+      "title": "Fishing"
+    },
+    {
+      "route": "/wiki/hay-day-8519",
+      "title": "Hay Day"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 5894,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 57783,
+  "revisionTimestamp": "2016-01-21T18:14:27Z",
+  "route": "/wiki/category%2Fcategory-fishing-5894",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fishing",
+  "title": "Category:Fishing",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "98639bdfe2b3dd25b7f96499adeb2976c02e58491f84979afcf4d4baf57fe455"
+}

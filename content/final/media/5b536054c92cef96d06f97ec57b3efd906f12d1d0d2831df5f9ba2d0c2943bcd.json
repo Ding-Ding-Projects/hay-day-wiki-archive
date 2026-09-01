@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Hall_Tabs.jpg",
+  "height": 326,
+  "immutableUrl": null,
+  "mediaId": "File:Town Hall Tabs.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-15T13:23:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATown%20Hall%20Tabs.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 143597,
+  "sourceSha1": "c6dd9411984cf7053ad66a3564b637cde3759a90",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fe/Town_Hall_Tabs.jpg/revision/latest?cb=20180515132318",
+  "title": "File:Town Hall Tabs.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1782
+}

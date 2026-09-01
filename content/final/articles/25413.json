@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Event?action=history",
+    "importedAt": "2026-09-01T03:00:16.926Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Event?oldid=74926",
+    "sourceRevisionId": 74926,
+    "sourceTitle": "Event",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Event?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/events-7210\" title=\"Events\" rel=\"noopener noreferrer\" target=\"_blank\">Events</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901025813\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25413-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025813 and revision id 74926. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "e7a8c1928dac93c8ef183a0dba3c785f514ac34cc1aeefdafdfcb5d951960810",
+  "internalLinks": [
+    {
+      "route": "/wiki/events-7210",
+      "title": "Events"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 25413,
+  "redirectTarget": "Events",
+  "referencedMediaIds": [],
+  "revisionId": 74926,
+  "revisionTimestamp": "2017-11-03T13:38:30Z",
+  "route": "/wiki/event-25413",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Event",
+  "title": "Event",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ad7becc4cb9fb51db3c5dd2438c8981363c11509bedd5dcfd7006b049736a1e0"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Citizen_Kane_III.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Citizen Kane III.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T19:33:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACitizen%20Kane%20III.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 190700,
+  "sourceSha1": "5eb3c95ff0fe3d2b4e63e55aede3ce5dc8acf53e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Citizen_Kane_III.png/revision/latest?cb=20180430193304",
+  "title": "File:Citizen Kane III.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1235
+}

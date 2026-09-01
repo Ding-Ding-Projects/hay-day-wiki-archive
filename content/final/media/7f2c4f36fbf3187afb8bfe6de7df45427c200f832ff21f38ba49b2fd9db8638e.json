@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Espresso.png",
+  "height": 584,
+  "immutableUrl": null,
+  "mediaId": "File:Espresso.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-09T01:27:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AEspresso.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 317455,
+  "sourceSha1": "bd4df24eb2598132fa3b8fea90aa25f7bba07283",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/Espresso.png/revision/latest?cb=20240209012756",
+  "title": "File:Espresso.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 584
+}

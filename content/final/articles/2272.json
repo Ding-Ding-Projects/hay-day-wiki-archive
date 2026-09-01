@@ -1,0 +1,185 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Syrup?action=history",
+    "importedAt": "2026-09-01T02:28:05.289Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Syrup?oldid=108531",
+    "sourceRevisionId": 108531,
+    "sourceTitle": "Syrup",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Making_syrup",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Making syrup</b>",
+      "text": "<b>Making syrup</b>"
+    },
+    {
+      "anchor": "Selling_syrup",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling syrup</b>",
+      "text": "<b>Selling syrup</b>"
+    },
+    {
+      "anchor": "Using_syrup",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using syrup</b>",
+      "text": "<b>Using syrup</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know?",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Did you know?</b>",
+      "text": "<b>Did you know?</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Syrup?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" title=\"Syrup\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Syrup</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Product</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 18</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 90</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  1 h 30 min</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 11</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Sugar Mill</span><span title=\"Sugar mill\"><span class=\"mw-default-size\"><a href=\"/wiki/sugar-mill-3550\" title=\"Sugar Mill\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sugar Mill\" loading=\"lazy\" width=\"52\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 25</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\"><a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">★★★</a> </h3>\n\t\n\t<div class=\"pi-data-value pi-font\">1 h 16 min</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Syrup</b> is a <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">product</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 18.\n</p><p>It is used as an ingredient in a few recipes.\n</p><p>Like all <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, it is stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Making syrup</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/8/8a/Sugar_Mill.png/revision/latest?cb=20260810194135\" class=\"mw-file-description image\" title=\"Sugar Mill\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sugar Mill\" loading=\"lazy\" width=\"150\" height=\"145\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Sugar Mill</figcaption></figure>\n<p>Syrup is made in the <a href=\"/wiki/sugar-mill-3550\" title=\"Sugar Mill\" rel=\"noopener noreferrer\" target=\"_blank\">Sugar Mill</a>.\n</p><p>To make syrup, players need the following ingredient, in the specified quantities:\n</p>\n<table>\n\n<tbody><tr>\n<td><span><a href=\"/wiki/sugarcane-2080\" title=\"Sugarcane\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sugarcane\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b>x4</b>\n</td></tr></tbody></table>\n<p>It takes 1 hour and 30 minutes to make one bottle of syrup, and 1 hour and 16 minutes in a fully <a href=\"/wiki/masteries-6459\" title=\"Masteries\" rel=\"noopener noreferrer\" target=\"_blank\">mastered</a> mill. Each bottle gives players 11 <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling syrup</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest?cb=20191028143054\" class=\"mw-file-description image\" title=\"Roadside shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside shop</figcaption></figure>\n<ul><li>Syrup can be bought or sold for a maximum price of 900 <span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 bottles.</li>\n<li>Buying the ingredients required to make a bottle costs 56 <span>Coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"Coin\"><img alt=\"Coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using syrup</b></span></h3>\n<p>Syrup is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/apple-pie-2278\" title=\"Apple pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Apple pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/cherry-popsicle-2226\" title=\"Cherry popsicle\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cherry popsicle\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/caramel-apple-2515\" title=\"Caramel apple\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Caramel apple\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/apple-pie-2278\" title=\"Apple Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/cherry-popsicle-2226\" title=\"Cherry Popsicle\" rel=\"noopener noreferrer\" target=\"_blank\">Cherry Popsicle</a></b>\n</td>\n<td><b><a href=\"/wiki/caramel-apple-2515\" title=\"Caramel Apple\" rel=\"noopener noreferrer\" target=\"_blank\">Caramel Apple</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 28\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 33\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 51\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/lollipop-2521\" title=\"Lollipop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lollipop\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/gingerbread-cookie-34683\" title=\"Gingerbread cookie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Gingerbread cookie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/bacon-donut-34958\" title=\"Bacon donut\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bacon donut\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lollipop-2521\" title=\"Lollipop\" rel=\"noopener noreferrer\" target=\"_blank\">Lollipop</a></b>\n</td>\n<td><b><a href=\"/wiki/gingerbread-cookie-34683\" title=\"Gingerbread Cookie\" rel=\"noopener noreferrer\" target=\"_blank\">Gingerbread Cookie</a></b>\n</td>\n<td><b><a href=\"/wiki/bacon-donut-34958\" title=\"Bacon Donut\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon Donut</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 57\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 86\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 88\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/coconut-ice-cream-35568\" title=\"Coconut ice cream\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Coconut ice cream\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/berry-waffles-35745\" title=\"Berry waffles\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Berry waffles\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/vanilla-milkshake-35977\" title=\"Vanilla milkshake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Vanilla milkshake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/coconut-ice-cream-35568\" title=\"Coconut Ice Cream\" rel=\"noopener noreferrer\" target=\"_blank\">Coconut Ice Cream</a></b>\n</td>\n<td><b><a href=\"/wiki/berry-waffles-35745\" title=\"Berry Waffles\" rel=\"noopener noreferrer\" target=\"_blank\">Berry Waffles</a></b>\n</td>\n<td><b><a href=\"/wiki/vanilla-milkshake-35977\" title=\"Vanilla Milkshake\" rel=\"noopener noreferrer\" target=\"_blank\">Vanilla Milkshake</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2f/Syrup.png/revision/latest?cb=20240205163903\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 102\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 114\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 124\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest?cb=20150712182459\" class=\"mw-file-description image\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders require 1 to 4 bottles of syrup per crate, up to a total of 12 per boat.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Although syrup is used in few recipes, having enough in your <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a> is recommended, due to its longer production time. Most of the time, the sugar mill is running to make sugar, and won't be free to make syrup when you need it. It's a good idea to either regularly make some in between making sugar, or to make lots of it when you're not playing and have enough sugar in stock.</li>\n<li>You can't expect to find syrup in the <a href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Dirt</a>. Selling it, even at maximum price, is not worth it. Use it in a recipe, and sell the product that uses syrup instead.</li></ul>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Did you know?</b></span></h3>\n<ul><li>In real life, sugarcane syrup is made by boiling and refining sugarcane juices. Its color varies from slightly yellow to light brown.</li>\n<li>Syrup and olive oil are the only products that come in jugs</li></ul>\n<hr>\n<table class=\"navbox mw-collapsible mw-collapsed\">\n\n<tbody><tr class=\"navtitle\">\n<td><a href=\"/wiki/category%2Fcategory-sugar-mill-products-7555\" title=\"Category:Sugar Mill Products\" rel=\"noopener noreferrer\" target=\"_blank\">Sugar Mill Products</a>\n</td></tr>\n<tr>\n<td>\n<p><span><a href=\"/wiki/brown-sugar-2095\" title=\"Brown Sugar\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Brown Sugar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/syrup-2272\" title=\"Syrup\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Syrup\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n<span><a href=\"/wiki/white-sugar-2096\" title=\"White Sugar\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"White Sugar\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr class=\"navtitle\">\n<td><a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">Products</a>\n</td></tr></tbody></table>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831135425\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.159 seconds\nReal time usage: 0.193 seconds\nPreprocessor visited node count: 722/1000000\nPost‐expand include size: 9685/2097152 bytes\nTemplate argument size: 419/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.019/7.000 seconds\nLua memory usage: 1034273/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  115.344      1 -total\n 69.59%   80.273      1 Template:Infobox\n 30.46%   35.133      9 Template:Infoicon\n 16.19%   18.671      1 Template:Navigation\n  9.73%   11.221      1 Template:SugarMillMenu\n  6.04%    6.961      1 Template:Item_Usage\n  2.26%    2.612      1 Template:Languages\n  1.60%    1.851      4 Template:Clr\n  1.54%    1.778      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2272-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831135425 and revision id 108531. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "d4a4867131c5e68bfa505ad306ca3395d1c64d3d3fde462c6cc51bd76ffc2534",
+  "internalLinks": [
+    {
+      "route": "/wiki/apple-pie-2278",
+      "title": "Apple Pie"
+    },
+    {
+      "route": "/wiki/bacon-donut-34958",
+      "title": "Bacon Donut"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/berry-waffles-35745",
+      "title": "Berry Waffles"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/brown-sugar-2095",
+      "title": "Brown Sugar"
+    },
+    {
+      "route": "/wiki/caramel-apple-2515",
+      "title": "Caramel Apple"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-sugar-mill-products-7555",
+      "title": "Category:Sugar Mill Products"
+    },
+    {
+      "route": "/wiki/cherry-popsicle-2226",
+      "title": "Cherry Popsicle"
+    },
+    {
+      "route": "/wiki/coconut-ice-cream-35568",
+      "title": "Coconut Ice Cream"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/gingerbread-cookie-34683",
+      "title": "Gingerbread Cookie"
+    },
+    {
+      "route": "/wiki/lollipop-2521",
+      "title": "Lollipop"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/sugar-mill-3550",
+      "title": "Sugar Mill"
+    },
+    {
+      "route": "/wiki/sugarcane-2080",
+      "title": "Sugarcane"
+    },
+    {
+      "route": "/wiki/syrup-2272",
+      "title": "Syrup"
+    },
+    {
+      "route": "/wiki/vanilla-milkshake-35977",
+      "title": "Vanilla Milkshake"
+    },
+    {
+      "route": "/wiki/white-sugar-2096",
+      "title": "White Sugar"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2272,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Apple Pie.png",
+    "File:Bacon Donut.png",
+    "File:Berry Waffles.png",
+    "File:Brown Sugar.png",
+    "File:Caramel Apple.png",
+    "File:Cherry Popsicle.png",
+    "File:Clock.png",
+    "File:Coconut Ice Cream.png",
+    "File:Coins.png",
+    "File:Diamond.png",
+    "File:Experience.png",
+    "File:Gingerbread Cookie.png",
+    "File:Lollipop.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Sugar Mill.png",
+    "File:Sugarcane.png",
+    "File:Syrup.png",
+    "File:Vanilla Milkshake.png",
+    "File:White Sugar.png"
+  ],
+  "revisionId": 108531,
+  "revisionTimestamp": "2025-09-22T18:25:31Z",
+  "route": "/wiki/syrup-2272",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Syrup",
+  "title": "Syrup",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9bc0b3482a2a339c8fca12017e85736d01f33498ee373de87efb9a15932b0cea"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_214.png",
+  "height": 361,
+  "immutableUrl": null,
+  "mediaId": "File:Level 214.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-07-05T17:03:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%20214.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 614169,
+  "sourceSha1": "75e9966c7d068f9adb5ce388c72727693f0dd38e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8e/Level_214.png/revision/latest?cb=20220705170331",
+  "title": "File:Level 214.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 829
+}

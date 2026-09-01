@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Peanut?action=history",
+    "importedAt": "2026-09-01T03:06:20.810Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Peanut?oldid=96428",
+    "sourceRevisionId": 96428,
+    "sourceTitle": "Peanut",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Peanut?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/peanuts-33962\" title=\"Peanuts\" rel=\"noopener noreferrer\" target=\"_blank\">Peanuts</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030615\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:34696-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030615 and revision id 96428. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "d798e574ee492879ca66cd7dd92a28a10f49a3175d1d0584948000b31db9e26d",
+  "internalLinks": [
+    {
+      "route": "/wiki/peanuts-33962",
+      "title": "Peanuts"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 34696,
+  "redirectTarget": "Peanuts",
+  "referencedMediaIds": [],
+  "revisionId": 96428,
+  "revisionTimestamp": "2020-12-14T17:33:13Z",
+  "route": "/wiki/peanut-34696",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Peanut",
+  "title": "Peanut",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "1e274e9f366c418ad0d9f3c5e587a8277e4e1430e957745c7689e656e7ffc743"
+}

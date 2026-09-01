@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crocus.png",
+  "height": 250,
+  "immutableUrl": null,
+  "mediaId": "File:Crocus.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-02-26T18:02:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACrocus.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 141441,
+  "sourceSha1": "d30de1ed09233ec29e22b7b61cf2fa3f81f72e3c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Crocus.png/revision/latest?cb=20210226180237",
+  "title": "File:Crocus.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

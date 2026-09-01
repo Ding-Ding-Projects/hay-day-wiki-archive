@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sheba_Guinea_Pig.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Sheba Guinea Pig.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-18T20:16:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASheba%20Guinea%20Pig.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 189948,
+  "sourceSha1": "a6bdbc2abf9980ccf9a460b4d667506dc1b50cff",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/db/Sheba_Guinea_Pig.png/revision/latest?cb=20211018201620",
+  "title": "File:Sheba Guinea Pig.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

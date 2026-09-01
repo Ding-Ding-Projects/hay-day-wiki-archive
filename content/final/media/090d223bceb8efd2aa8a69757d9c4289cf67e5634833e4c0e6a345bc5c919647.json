@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Savannah_Grass.png",
+  "height": 478,
+  "immutableUrl": null,
+  "mediaId": "File:Savannah Grass.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-07T05:27:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASavannah%20Grass.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 235797,
+  "sourceSha1": "300c65f7678660dbd46d911c5c47fed823cf0ac8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/74/Savannah_Grass.png/revision/latest?cb=20200707052753",
+  "title": "File:Savannah Grass.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 683
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grants_Graveyard.png",
+  "height": 152,
+  "immutableUrl": null,
+  "mediaId": "File:Grants Graveyard.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-04-15T13:48:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGrants%20Graveyard.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 94589,
+  "sourceSha1": "50b30d142fca6cac68908d9566e06bf015614d0d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b4/Grants_Graveyard.png/revision/latest?cb=20170415134819",
+  "title": "File:Grants Graveyard.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Valley_Buildings?action=history",
+    "importedAt": "2026-09-01T03:04:24.016Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Valley_Buildings?oldid=86193",
+    "sourceRevisionId": 86193,
+    "sourceTitle": "Category:Valley Buildings",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Valley_Buildings?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260831233959\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.000 seconds\nReal time usage: 0.000 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:31480-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831233959 and revision id 86193. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "0a3fecd4723e535390ccec9a7cd98ee9c2e47ff79b565b13b5f713dfce13e112",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 31480,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 86193,
+  "revisionTimestamp": "2019-06-24T21:36:07Z",
+  "route": "/wiki/category%2Fcategory-valley-buildings-31480",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Valley_Buildings",
+  "title": "Category:Valley Buildings",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "abfc02874908470c2f0680c5b5a0c6569e205edb229ff89b4c64e7b8c086ed71"
+}

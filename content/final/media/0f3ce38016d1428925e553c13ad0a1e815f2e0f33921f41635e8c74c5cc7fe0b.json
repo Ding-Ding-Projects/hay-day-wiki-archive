@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pomegranate_Tree.png",
+  "height": 535,
+  "immutableUrl": null,
+  "mediaId": "File:Pomegranate Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-04-16T21:47:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APomegranate%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 292388,
+  "sourceSha1": "9886e9c260e7dd99ad93e9f28ac8fae32fe52e87",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4b/Pomegranate_Tree.png/revision/latest?cb=20230416214753",
+  "title": "File:Pomegranate Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 535
+}

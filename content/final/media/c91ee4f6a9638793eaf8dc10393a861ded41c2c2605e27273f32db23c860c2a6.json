@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pinto_horse_Walking.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Pinto horse Walking.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-16T20:30:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APinto%20horse%20Walking.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 99601,
+  "sourceSha1": "b8ec86ed1fecf336f7d4c63b0012a4bb966cbd2f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d6/Pinto_horse_Walking.png/revision/latest?cb=20210716203001",
+  "title": "File:Pinto horse Walking.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

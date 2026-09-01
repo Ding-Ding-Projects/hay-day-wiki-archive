@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lantern_Temple.png",
+  "height": 423,
+  "immutableUrl": null,
+  "mediaId": "File:Lantern Temple.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-09T17:43:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALantern%20Temple.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 307571,
+  "sourceSha1": "6245fdbd4f509a3cba97cfafc05ce48524e1ee11",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Lantern_Temple.png/revision/latest?cb=20260509174302",
+  "title": "File:Lantern Temple.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 482
+}

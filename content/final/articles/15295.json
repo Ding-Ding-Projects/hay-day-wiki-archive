@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Bunnies?action=history",
+    "importedAt": "2026-09-01T02:47:43.704Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Bunnies?oldid=71207",
+    "sourceRevisionId": 71207,
+    "sourceTitle": "Category:Bunnies",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Bunnies?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260901010434\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15295-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901010434 and revision id 71207. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "3a08962cfb24d2a6d31e686ba4d7efb0b6c6555e10a445254db9be4a39e58099",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 15295,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 71207,
+  "revisionTimestamp": "2017-04-14T12:52:28Z",
+  "route": "/wiki/category%2Fcategory-bunnies-15295",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bunnies",
+  "title": "Category:Bunnies",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ee3287c10255ef99db2302bdde3bb19858b2bc6f682056695169a1b190915d3b"
+}

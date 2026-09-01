@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Master_List?action=history",
+    "importedAt": "2026-09-01T03:05:25.990Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Master_List?oldid=93060",
+    "sourceRevisionId": 93060,
+    "sourceTitle": "Master List",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Master_List?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/goods-list-18954\" title=\"Goods List\" rel=\"noopener noreferrer\" target=\"_blank\">Goods List</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030524\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33392-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030524 and revision id 93060. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8dd25260957ee546d82cd41a7250dabe327fb9a97dbf18e7fca363fe6ab742a8",
+  "internalLinks": [
+    {
+      "route": "/wiki/goods-list-18954",
+      "title": "Goods List"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33392,
+  "redirectTarget": "Goods List",
+  "referencedMediaIds": [],
+  "revisionId": 93060,
+  "revisionTimestamp": "2020-04-11T06:14:26Z",
+  "route": "/wiki/master-list-33392",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Master_List",
+  "title": "Master List",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "cec028f2a5583f08f5821c8fdeb992e331f0f7a9c50edb503f997956ccd82e92"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Passion_Fruit_Jam.png",
+  "height": 2400,
+  "immutableUrl": null,
+  "mediaId": "File:Passion Fruit Jam.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T15:24:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APassion%20Fruit%20Jam.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 4176734,
+  "sourceSha1": "b5463dc797d8fe580da6c4abbfe53d5d4eafc720",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Passion_Fruit_Jam.png/revision/latest?cb=20240208152409",
+  "title": "File:Passion Fruit Jam.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2400
+}

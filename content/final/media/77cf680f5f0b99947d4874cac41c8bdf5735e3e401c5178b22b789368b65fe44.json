@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Cabin_Style.png",
+  "height": 515,
+  "immutableUrl": null,
+  "mediaId": "File:Farmhouse Cabin Style.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-16T22:19:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarmhouse%20Cabin%20Style.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 416178,
+  "sourceSha1": "deb1b998c281b35a1792bddfb3bf02ab9545ea06",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fd/Farmhouse_Cabin_Style.png/revision/latest?cb=20180416221955",
+  "title": "File:Farmhouse Cabin Style.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 515
+}

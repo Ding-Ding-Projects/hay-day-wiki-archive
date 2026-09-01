@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products?action=history",
+    "importedAt": "2026-09-01T03:07:01.464Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products?oldid=98665",
+    "sourceRevisionId": 98665,
+    "sourceTitle": "Category:Lemon Curd Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/ea/Lemon_Curd.png/revision/latest?cb=20240210055448\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lemon Curd\" src=\"https://static.wikia.nocookie.net/hayday/images/e/ea/Lemon_Curd.png/revision/latest/scale-to-width-down/180?cb=20240210055448\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ALemon_Curd.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/lemon-curd-10558\" title=\"Lemon Curd\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon Curd</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831080855\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35149-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831080855 and revision id 98665. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "bbf9b4cbc85544e82131e1542083c8b326e37401bdaec2e525e2c3e519aee867",
+  "internalLinks": [
+    {
+      "route": "/wiki/lemon-curd-10558",
+      "title": "Lemon Curd"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35149,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Lemon Curd.png"
+  ],
+  "revisionId": 98665,
+  "revisionTimestamp": "2021-09-07T10:08:13Z",
+  "route": "/wiki/category%2Fcategory-lemon-curd-products-35149",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products",
+  "title": "Category:Lemon Curd Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "22e6287fcaf796ea0bf57284eceb4404f41ae1834c32bff16c19a9c9585ef603"
+}

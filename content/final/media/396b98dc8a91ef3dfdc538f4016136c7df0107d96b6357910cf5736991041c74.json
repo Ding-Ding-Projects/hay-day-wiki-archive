@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Singing_at_the_Farm.png",
+  "height": 362,
+  "immutableUrl": null,
+  "mediaId": "File:Singing at the Farm.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:38:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASinging%20at%20the%20Farm.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 97882,
+  "sourceSha1": "c52b71277459e2b07cae9a822cad66afbf147700",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0c/Singing_at_the_Farm.png/revision/latest?cb=20150715103828",
+  "title": "File:Singing at the Farm.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 362
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Racetrack.png",
+  "height": 903,
+  "immutableUrl": null,
+  "mediaId": "File:Derby Racetrack.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-22T18:08:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADerby%20Racetrack.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 319320,
+  "sourceSha1": "e515c71aff04d358c4549f1cc32e4b635f8a6bf0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3e/Derby_Racetrack.png/revision/latest?cb=20171022180818",
+  "title": "File:Derby Racetrack.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 903
+}

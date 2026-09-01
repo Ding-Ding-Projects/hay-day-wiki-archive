@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Quillback_Photo.jpg",
+  "height": 239,
+  "immutableUrl": null,
+  "mediaId": "File:Quillback Photo.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-12-12T07:35:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AQuillback%20Photo.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 9483,
+  "sourceSha1": "325f265f09543e2987178edbe69780c03356a078",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/95/Quillback_Photo.jpg/revision/latest?cb=20141212073551",
+  "title": "File:Quillback Photo.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 228
+}

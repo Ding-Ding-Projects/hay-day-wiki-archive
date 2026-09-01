@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Motherland_Monument.jpg",
+  "height": 610,
+  "immutableUrl": null,
+  "mediaId": "File:Motherland Monument.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-05-08T13:22:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMotherland%20Monument.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 20197,
+  "sourceSha1": "4a39269e7260ac75b5f48507077422eeb291a795",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Motherland_Monument.jpg/revision/latest?cb=20240508132236",
+  "title": "File:Motherland Monument.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 610
+}

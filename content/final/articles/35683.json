@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Gift_Wrapping_Station_Products?action=history",
+    "importedAt": "2026-09-01T03:08:39.698Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Gift_Wrapping_Station_Products?oldid=102224",
+    "sourceRevisionId": 102224,
+    "sourceTitle": "Category:Gift Wrapping Station Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Gift_Wrapping_Station_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/47/Gift_Wrapping_Station.png/revision/latest?cb=20221206151201\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Gift Wrapping Station\" src=\"https://static.wikia.nocookie.net/hayday/images/4/47/Gift_Wrapping_Station.png/revision/latest/scale-to-width-down/180?cb=20221206151201\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AGift_Wrapping_Station.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/gift-wrapping-station-35675\" title=\"Gift Wrapping Station\" rel=\"noopener noreferrer\" target=\"_blank\">Gift Wrapping Station</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030834\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35683-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030834 and revision id 102224. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "097fbba9f6125195cff5faefe39d1858971f84a8d41c4eb847a9b1dd812bd38a",
+  "internalLinks": [
+    {
+      "route": "/wiki/gift-wrapping-station-35675",
+      "title": "Gift Wrapping Station"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35683,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Gift Wrapping Station.png"
+  ],
+  "revisionId": 102224,
+  "revisionTimestamp": "2022-12-08T15:48:50Z",
+  "route": "/wiki/category%2Fcategory-gift-wrapping-station-products-35683",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Gift_Wrapping_Station_Products",
+  "title": "Category:Gift Wrapping Station Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "447e76065562137fa4d6a5c4535cac6515f98e5a8c54866c0048e06e890314bf"
+}

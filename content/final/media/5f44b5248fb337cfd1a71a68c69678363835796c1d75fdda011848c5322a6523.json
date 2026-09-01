@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Stage6.png",
+  "height": 878,
+  "immutableUrl": null,
+  "mediaId": "File:Farmhouse Stage6.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T12:14:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarmhouse%20Stage6.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 520334,
+  "sourceSha1": "df44ec1325a52c284a8e356bddde70d1240e8e39",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f2/Farmhouse_Stage6.png/revision/latest?cb=20150713121455",
+  "title": "File:Farmhouse Stage6.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 878
+}

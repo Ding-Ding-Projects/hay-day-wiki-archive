@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Coiffeur_III.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Duck Coiffeur III.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T19:45:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADuck%20Coiffeur%20III.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 189571,
+  "sourceSha1": "d979e02b81ba058384b31b49ba5e5d326e215612",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fd/Duck_Coiffeur_III.png/revision/latest?cb=20180430194521",
+  "title": "File:Duck Coiffeur III.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1235
+}

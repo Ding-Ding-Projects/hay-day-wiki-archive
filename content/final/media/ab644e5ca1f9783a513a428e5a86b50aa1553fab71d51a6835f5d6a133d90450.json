@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Tree.png",
+  "height": 886,
+  "immutableUrl": null,
+  "mediaId": "File:Halloween Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-22T14:41:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AHalloween%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 525718,
+  "sourceSha1": "d9164b2b4e5fea8c8494cad01f6b84d72a04c887",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/Halloween_Tree.png/revision/latest?cb=20171022144105",
+  "title": "File:Halloween Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 886
+}

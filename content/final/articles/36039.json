@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Essential_Oils_Lab_Products?action=history",
+    "importedAt": "2026-09-01T03:09:40.942Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Essential_Oils_Lab_Products?oldid=105083",
+    "sourceRevisionId": 105083,
+    "sourceTitle": "Category:Essential Oils Lab Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Essential_Oils_Lab_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/a/a7/Essential_Oils_Lab.png/revision/latest?cb=20250925213522\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Essential Oils Lab\" src=\"https://static.wikia.nocookie.net/hayday/images/a/a7/Essential_Oils_Lab.png/revision/latest/scale-to-width-down/180?cb=20250925213522\" loading=\"lazy\" width=\"180\" height=\"192\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AEssential_Oils_Lab.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/essential-oils-lab-36027\" title=\"Essential Oils Lab\" rel=\"noopener noreferrer\" target=\"_blank\">Essential Oils Lab</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831133228\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36039-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831133228 and revision id 105083. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "5a5ae03ba7567e7d9ded514c161337080d76fb2f8b8a1de83d6ecc7e1d368e81",
+  "internalLinks": [
+    {
+      "route": "/wiki/essential-oils-lab-36027",
+      "title": "Essential Oils Lab"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36039,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Essential Oils Lab.png"
+  ],
+  "revisionId": 105083,
+  "revisionTimestamp": "2024-03-23T15:02:08Z",
+  "route": "/wiki/category%2Fcategory-essential-oils-lab-products-36039",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Essential_Oils_Lab_Products",
+  "title": "Category:Essential Oils Lab Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "64eb8f2e742e52ccb5a70d48a6d171f8f0fe2caaa0ee88303438e7a5be2f28be"
+}

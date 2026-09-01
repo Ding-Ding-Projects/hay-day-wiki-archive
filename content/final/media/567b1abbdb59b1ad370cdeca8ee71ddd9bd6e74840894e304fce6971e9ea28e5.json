@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Play_For_Trees_Event.png",
+  "height": 360,
+  "immutableUrl": null,
+  "mediaId": "File:Play For Trees Event.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-24T12:28:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APlay%20For%20Trees%20Event.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 135699,
+  "sourceSha1": "d657d8ab073a108a6d7f5f3cf3a0d90b32f6edec",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Play_For_Trees_Event.png/revision/latest?cb=20211024122815",
+  "title": "File:Play For Trees Event.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 264
+}

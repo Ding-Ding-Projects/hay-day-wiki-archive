@@ -1,0 +1,49 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Farm_Animals?action=history",
+    "importedAt": "2026-09-01T03:00:27.111Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Farm_Animals?oldid=68835",
+    "sourceRevisionId": 68835,
+    "sourceTitle": "Category:Farm Animals",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Farm_Animals?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Articles detailing <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">animals</a> which produce <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal goods</a>, not to be confused with <a href=\"/wiki/category%2Fcategory-pets-17088\" title=\"Category:Pets\" rel=\"noopener noreferrer\" target=\"_blank\">pets</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260829124026\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:26042-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260829124026 and revision id 68835. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "36506f4050ab66d8db61c7ae0b9940a737538d04d2221bf2feede0ba5f80e876",
+  "internalLinks": [
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-pets-17088",
+      "title": "Category:Pets"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 26042,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 68835,
+  "revisionTimestamp": "2017-01-19T19:03:37Z",
+  "route": "/wiki/category%2Fcategory-farm-animals-26042",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Farm_Animals",
+  "title": "Category:Farm Animals",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "8b708633ff367b0b36c37b81133ee264fa20f031025bb498dde22faee039b6c3"
+}

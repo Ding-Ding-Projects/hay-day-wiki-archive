@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coconut.png",
+  "height": 1920,
+  "immutableUrl": null,
+  "mediaId": "File:Coconut.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T03:28:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACoconut.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 2794745,
+  "sourceSha1": "10cb864780e5d2586a2dba405dd05b3f3e32f9dd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2f/Coconut.png/revision/latest?cb=20240219032853",
+  "title": "File:Coconut.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1920
+}

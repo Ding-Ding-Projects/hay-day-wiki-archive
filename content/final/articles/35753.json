@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products?action=history",
+    "importedAt": "2026-09-01T03:08:56.955Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products?oldid=102647",
+    "sourceRevisionId": 102647,
+    "sourceTitle": "Category:Waffle Maker Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/2/2b/Waffle_Maker.png/revision/latest?cb=20250926020952\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Waffle Maker\" src=\"https://static.wikia.nocookie.net/hayday/images/2/2b/Waffle_Maker.png/revision/latest/scale-to-width-down/180?cb=20250926020952\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AWaffle_Maker.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/waffle-maker-35743\" title=\"Waffle Maker\" rel=\"noopener noreferrer\" target=\"_blank\">Waffle Maker</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831155621\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35753-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831155621 and revision id 102647. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "de6875b2192783162a24b9c26fc6657e2e38a473002cb162495ee13abe676f0f",
+  "internalLinks": [
+    {
+      "route": "/wiki/waffle-maker-35743",
+      "title": "Waffle Maker"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35753,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Waffle Maker.png"
+  ],
+  "revisionId": 102647,
+  "revisionTimestamp": "2023-04-01T21:43:20Z",
+  "route": "/wiki/category%2Fcategory-waffle-maker-products-35753",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products",
+  "title": "Category:Waffle Maker Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "0f6cdfcfc6517cfb519c12930eca5857dc8904e81665e0929ef9c577b790f1eb"
+}

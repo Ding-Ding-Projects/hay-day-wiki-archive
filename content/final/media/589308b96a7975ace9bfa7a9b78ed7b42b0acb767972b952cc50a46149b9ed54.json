@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fairground_ride.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Fairground ride.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-01-12T20:33:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFairground%20ride.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 492495,
+  "sourceSha1": "001bc64b45b4ac37988437927a9c28a5dcd9ab07",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/95/Fairground_ride.png/revision/latest?cb=20260112203321",
+  "title": "File:Fairground ride.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

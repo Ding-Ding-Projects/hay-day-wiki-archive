@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Exotic_Topiary.png",
+  "height": 635,
+  "immutableUrl": null,
+  "mediaId": "File:Exotic Topiary.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T09:49:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AExotic%20Topiary.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 223640,
+  "sourceSha1": "52ada2f4e763a4ba3a4d810394c2da83e3e8e835",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Exotic_Topiary.png/revision/latest?cb=20150715094943",
+  "title": "File:Exotic Topiary.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 635
+}

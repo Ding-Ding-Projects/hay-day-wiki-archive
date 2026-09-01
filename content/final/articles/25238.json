@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Neighbourhood?action=history",
+    "importedAt": "2026-09-01T02:58:14.278Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Neighbourhood?oldid=63692",
+    "sourceRevisionId": 63692,
+    "sourceTitle": "Neighbourhood",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Neighbourhood?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">Neighborhood</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901025755\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:25238-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025755 and revision id 63692. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "7d5c1fd80e40e3da2db79f7d6447b867ebe28d6faecb47dc9a10adf3a6630e6b",
+  "internalLinks": [
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 25238,
+  "redirectTarget": "Neighborhood",
+  "referencedMediaIds": [],
+  "revisionId": 63692,
+  "revisionTimestamp": "2016-07-18T21:10:26Z",
+  "route": "/wiki/neighbourhood-25238",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Neighbourhood",
+  "title": "Neighbourhood",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "182749172610eceed3cc5bc6d9d63e3a6f4022430f04dac3ac883ad5c377e673"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snow_Loyalty.png",
+  "height": 435,
+  "immutableUrl": null,
+  "mediaId": "File:Snow Loyalty.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-11T07:18:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASnow%20Loyalty.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 159764,
+  "sourceSha1": "072bd6003ee77bc802dd14a6b88a9f086492a531",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Snow_Loyalty.png/revision/latest?cb=20181211071806",
+  "title": "File:Snow Loyalty.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 435
+}

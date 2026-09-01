@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Andalusian_Horse.png",
+  "height": 947,
+  "immutableUrl": null,
+  "mediaId": "File:Andalusian Horse.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T09:30:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAndalusian%20Horse.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 436132,
+  "sourceSha1": "bb72db770530eba92608bbfadd23d675945bea55",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Andalusian_Horse.png/revision/latest?cb=20150713093004",
+  "title": "File:Andalusian Horse.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 947
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel_Summer.png",
+  "height": 568,
+  "immutableUrl": null,
+  "mediaId": "File:Squirrel Summer.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-07T05:12:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASquirrel%20Summer.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 266567,
+  "sourceSha1": "0619d8a766e7e661ba8289f58619e2a8ec62124a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c0/Squirrel_Summer.png/revision/latest?cb=20200707051200",
+  "title": "File:Squirrel Summer.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 584
+}

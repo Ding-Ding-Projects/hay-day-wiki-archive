@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pine_Tree.png",
+  "height": 490,
+  "immutableUrl": null,
+  "mediaId": "File:Pine Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:28:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APine%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 157994,
+  "sourceSha1": "e8586ae393a310407d838b32ceee07b94d1aa8c6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d4/Pine_Tree.png/revision/latest?cb=20180207192850",
+  "title": "File:Pine Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 490
+}

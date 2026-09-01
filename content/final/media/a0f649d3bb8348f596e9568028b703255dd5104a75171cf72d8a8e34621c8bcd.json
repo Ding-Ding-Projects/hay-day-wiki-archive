@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lake_Whitefish.png",
+  "height": 500,
+  "immutableUrl": null,
+  "mediaId": "File:Lake Whitefish.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-12T16:15:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALake%20Whitefish.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 88856,
+  "sourceSha1": "1aed3112c6556f277cc98f28c74d5cca8afd74f6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/Lake_Whitefish.png/revision/latest?cb=20150912161506",
+  "title": "File:Lake Whitefish.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 500
+}

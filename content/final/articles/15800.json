@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Honey_Extractor_Products?action=history",
+    "importedAt": "2026-09-01T02:48:09.551Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Honey_Extractor_Products?oldid=57772",
+    "sourceRevisionId": 57772,
+    "sourceTitle": "Category:Honey Extractor Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Honey_Extractor_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/2/20/Honey_Extractor.png/revision/latest?cb=20250925200945\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey Extractor\" src=\"https://static.wikia.nocookie.net/hayday/images/2/20/Honey_Extractor.png/revision/latest/scale-to-width-down/180?cb=20250925200945\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AHoney_Extractor.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/honey-extractor-15755\" title=\"Honey Extractor\" rel=\"noopener noreferrer\" target=\"_blank\">Honey Extractor</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024754\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:15800-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024754 and revision id 57772. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "5295811a6d3a7f2aa51af728a3d72310eebc7de3cb675afc4886841d46f46f4d",
+  "internalLinks": [
+    {
+      "route": "/wiki/honey-extractor-15755",
+      "title": "Honey Extractor"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 15800,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Honey Extractor.png"
+  ],
+  "revisionId": 57772,
+  "revisionTimestamp": "2016-01-21T18:08:16Z",
+  "route": "/wiki/category%2Fcategory-honey-extractor-products-15800",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Honey_Extractor_Products",
+  "title": "Category:Honey Extractor Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "1739f00d939088f3c9d5f5bf5800b817ea98b0988eaba37c8bae75b3855da12b"
+}

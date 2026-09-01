@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Products?action=history",
+    "importedAt": "2026-09-01T03:06:47.997Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Tomato_Products?oldid=98543",
+    "sourceRevisionId": 98543,
+    "sourceTitle": "Category:Tomato Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png/revision/latest?cb=20240219025108\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tomato\" src=\"https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png/revision/latest/scale-to-width-down/180?cb=20240219025108\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ATomato.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/tomato-2236\" title=\"Tomato\" rel=\"noopener noreferrer\" target=\"_blank\">Tomato</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030646\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35066-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030646 and revision id 98543. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6b5aecc538491f52500849024bb7d6b51145eb586d359860ce08dd57e7814c7c",
+  "internalLinks": [
+    {
+      "route": "/wiki/tomato-2236",
+      "title": "Tomato"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35066,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Tomato.png"
+  ],
+  "revisionId": 98543,
+  "revisionTimestamp": "2021-08-31T20:55:29Z",
+  "route": "/wiki/category%2Fcategory-tomato-products-35066",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Products",
+  "title": "Category:Tomato Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "4e8903d0086efcb2462b6bfcea5bf2f58d465ad084a63f5a9575f55457e63ff8"
+}

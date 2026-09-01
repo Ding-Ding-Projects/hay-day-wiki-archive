@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Captain_III.png",
+  "height": 236,
+  "immutableUrl": null,
+  "mediaId": "File:Captain III.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T19:32:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACaptain%20III.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 188924,
+  "sourceSha1": "853aa2de9a0b9bdf96d391e54627881c1cdd866d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7a/Captain_III.png/revision/latest?cb=20180430193234",
+  "title": "File:Captain III.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1235
+}

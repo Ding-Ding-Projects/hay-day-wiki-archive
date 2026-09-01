@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Permit?action=history",
+    "importedAt": "2026-09-01T03:01:20.954Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Permit?oldid=70591",
+    "sourceRevisionId": 70591,
+    "sourceTitle": "Permit",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Permit?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/expansion-permit-27088\" title=\"Expansion Permit\" rel=\"noopener noreferrer\" target=\"_blank\">Expansion Permit</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030059\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:27153-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030059 and revision id 70591. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "fc41e3f68e0a285c8cec6e93cce565bdc1cd387acb8549ff0b4639a04af79929",
+  "internalLinks": [
+    {
+      "route": "/wiki/expansion-permit-27088",
+      "title": "Expansion Permit"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 27153,
+  "redirectTarget": "Expansion Permit",
+  "referencedMediaIds": [],
+  "revisionId": 70591,
+  "revisionTimestamp": "2017-03-29T09:10:29Z",
+  "route": "/wiki/permit-27153",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Permit",
+  "title": "Permit",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "eddf0cfe41102521de9304b7d320d311d124419d4750769ca3bf78827ea94c74"
+}

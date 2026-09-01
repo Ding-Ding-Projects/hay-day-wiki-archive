@@ -1,0 +1,189 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Leaderboard?action=history",
+    "importedAt": "2026-09-01T02:54:07.346Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Leaderboard?oldid=110909",
+    "sourceRevisionId": 110909,
+    "sourceTitle": "Leaderboard",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Boat_leaderboard",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Boat leaderboard</b>",
+      "text": "<b>Boat leaderboard</b>"
+    },
+    {
+      "anchor": "Derby_leaderboard",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Derby leaderboard</b>",
+      "text": "<b>Derby leaderboard</b>"
+    },
+    {
+      "anchor": "Gallery",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Gallery</b>",
+      "text": "<b>Gallery</b>"
+    },
+    {
+      "anchor": "Task_event_leaderboard",
+      "index": "4",
+      "level": 3,
+      "line": "Task event leaderboard",
+      "text": "Task event leaderboard"
+    },
+    {
+      "anchor": "References",
+      "index": "5",
+      "level": 3,
+      "line": "<b>References</b>",
+      "text": "<b>References</b>"
+    },
+    {
+      "anchor": "See_also",
+      "index": "6",
+      "level": 3,
+      "line": "<b>See also</b>",
+      "text": "<b>See also</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Leaderboard?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p><p><b>Leaderboards</b> are features which rank players globally. There are two leaderboards: one for <b>boat points</b> and one for <b>derby points</b>. High ranks do not confer any special benefits. Lastly, one for task events. Special benefits will be reached for high ranks.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat leaderboard</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Leaderboard.png/revision/latest?cb=20150712195736\" class=\"mw-file-description image\" title=\"Leaderboard\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Leaderboard\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Leaderboard</figcaption></figure>\n<p>The <b>boat leaderboard</b> ranks players according to the number of <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> points they have accumulated in total. Boat points are obtained by filling boat crates and sending complete shipment off as quickly as possible.\n</p><p>The board has two ranking lists: Global Top Player Ranking\nand Friends Ranking. When a friend passes a player on the boat order leaderboard, the user image of that friend is displayed on top of the leaderboard object.\n</p><p>A player needs over 35,000 Boat points to qualify and to see its rank in the Global Top Player Ranking and Friends Ranking.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Derby leaderboard</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0b/Champions_League_Leaderboard.png/revision/latest?cb=20151130094708\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Champions League Leaderboard\" loading=\"lazy\" width=\"200\" height=\"129\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption></figcaption></figure>\n<p>The <b><a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derby</a> board</b> ranks players according to the average number of league points <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhoods</a> competing in the Champions League have. Results are reset every four weeks.\n</p><p>Points are given according to four factors:\n</p>\n<ul><li>the average number of points won per player (total score/derby participants)</li>\n<li>minus the average number of trashed tasks per player (total trashed tasks/derby participants)</li>\n<li>plus bonus points for the rank of the neighborhood (see the table below)</li>\n<li>plus bonus points for the number of derby participants in each race (see the table below)&#160;</li></ul>\n<div></div>\n<table>\n<tbody><tr>\n<th>Rank\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>1</td>\n<td>15\n</td></tr>\n<tr>\n<td>2</td>\n<td>12\n</td></tr>\n<tr>\n<td>3</td>\n<td>10\n</td></tr>\n<tr>\n<td>4</td>\n<td>8\n</td></tr>\n<tr>\n<td>5</td>\n<td>6\n</td></tr>\n<tr>\n<td>6</td>\n<td>4\n</td></tr>\n<tr>\n<td>7</td>\n<td>3\n</td></tr>\n<tr>\n<td>8</td>\n<td>2\n</td></tr>\n<tr>\n<td>9</td>\n<td>1\n</td></tr>\n<tr>\n<td>10-15</td>\n<td>0\n</td></tr></tbody></table>\n<table>\n<tbody><tr>\n<th>Nb of participants\n</th>\n<th>Points\n</th></tr>\n<tr>\n<td>1-10</td>\n<td>0\n</td></tr>\n<tr>\n<td>11</td>\n<td>3\n</td></tr>\n<tr>\n<td>12</td>\n<td>6\n</td></tr>\n<tr>\n<td>13</td>\n<td>9\n</td></tr>\n<tr>\n<td>14</td>\n<td>12\n</td></tr>\n<tr>\n<td>15</td>\n<td>15\n</td></tr>\n<tr>\n<td>16</td>\n<td>19\n</td></tr>\n<tr>\n<td>17</td>\n<td>23\n</td></tr>\n<tr>\n<td>18</td>\n<td>27\n</td></tr>\n<tr>\n<td>19</td>\n<td>31\n</td></tr>\n<tr>\n<td>20</td>\n<td>35\n</td></tr>\n<tr>\n<td>21</td>\n<td>40\n</td></tr>\n<tr>\n<td>22</td>\n<td>45\n</td></tr>\n<tr>\n<td>23</td>\n<td>50\n</td></tr>\n<tr>\n<td>24</td>\n<td>56\n</td></tr>\n<tr>\n<td>25</td>\n<td>64\n</td></tr>\n<tr>\n<td>26</td>\n<td>73\n</td></tr>\n<tr>\n<td>27</td>\n<td>82\n</td></tr>\n<tr>\n<td>28</td>\n<td>91\n</td></tr>\n<tr>\n<td>29</td>\n<td>100\n</td></tr>\n<tr>\n<td>30</td>\n<td>110\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Gallery</b></span></h3>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AFriends_Leaderboard.png\" title=\"Friends Leaderboard.png (224 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/42/Friends_Leaderboard.png/revision/latest/scale-to-width-down/185?cb=20150406072337\" title=\"Friends Leaderboard.png (224 KB)\" class=\"thumbimage\" alt=\"An example of the Friends Leaderboard\" height=\"148\" width=\"185\" loading=\"lazy\"><img title=\"Friends Leaderboard.png (224 KB)\" class=\"thumbimage lazyload\" alt=\"An example of the Friends Leaderboard\" height=\"148\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">An example of the Friends Leaderboard</div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AGlobal_Leaderboard.png\" title=\"Global Leaderboard.png (291 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/77/Global_Leaderboard.png/revision/latest/scale-to-width-down/185?cb=20150406072410\" title=\"Global Leaderboard.png (291 KB)\" class=\"thumbimage\" alt=\"An example of the Global Leaderboard\" height=\"148\" width=\"185\" loading=\"lazy\"><img title=\"Global Leaderboard.png (291 KB)\" class=\"thumbimage lazyload\" alt=\"An example of the Global Leaderboard\" height=\"148\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">An example of the Global Leaderboard</div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3ALeaderboard_Top_10_points.png\" title=\"Leaderboard Top 10 points.png (1.04 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/54/Leaderboard_Top_10_points.png/revision/latest/scale-to-width-down/185?cb=20180315063021\" title=\"Leaderboard Top 10 points.png (1.04 MB)\" class=\"thumbimage\" alt=\"Top 10 players\" height=\"148\" width=\"185\" loading=\"lazy\"><img title=\"Leaderboard Top 10 points.png (1.04 MB)\" class=\"thumbimage lazyload\" alt=\"Top 10 players\" height=\"148\" width=\"185\" loading=\"lazy\"></a></div></div><div class=\"lightbox-caption\">Top 10 players</div></div></div>\n<hr>\n<h3><span class=\"mw-headline\">Task event leaderboard</span></h3>\n<p>The <b>task event</b> <b>leaderboard</b> ranks players according to the number of event points they have accumulated in total. Event points are obtained by completing tasks thought out the task events.\n</p><p>In the leaderboard, each player will be divided into brackets of 100 players depending on farm level. For example, if your farm is level 20, you will only compete against up to 99 other farm players on similar levels such as 18, 19, 21, and 22. You need to solve event task as many as possible to climb leaderboard in your own bracket. \n</p><p>At the end of the event, top 50 players on the leaderboard will receive various rewards depending on their position as follow:\n</p>\n<ul><li>Grand prize for 1st position</li>\n<li>Big prize for 2nd-5th position</li>\n<li>Medium prize for 6th-10th position</li>\n<li>Small prize for 11th-20th position</li>\n<li>Consolation prize for 21th-50th position</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>References</b></span></h3>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://supercell.helpshift.com/a/hay-day/?p=web&amp;f=champions-league-leaderboard\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: Champions League Leaderboard</a></li></ul>\n<p><br>\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>See also</b></span></h3>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/category%2Fcategory-animal-shelters-6565\" title=\"Category:Animal Shelters (467 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Chicken_Coop.png/revision/latest/scale-to-width-down/50?cb=20150713110707\" title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/barn-2652\" title=\"Barn (331 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest/scale-to-width-down/50?cb=20250926033811\" title=\"Barn (331 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Barn (331 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/customization-29379\" title=\"Customization (201 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/49/Maggies_Workbench.png/revision/latest/scale-to-width-down/50?cb=20180413172742\" title=\"Customization (201 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Customization (201 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/broccoli-30746\" title=\"Broccoli (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Broccoli (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Broccoli (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/derby-18422\" title=\"Derby (576 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e8/Derby_Stand.png/revision/latest/scale-to-width-down/50?cb=20150712192526\" title=\"Derby (576 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Derby (576 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/events-7210\" title=\"Events (34 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9a/Event_Board.png/revision/latest/scale-to-width-down/50?cb=20191028162131\" title=\"Events (34 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Events (34 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/farmhouse-7542\" title=\"Farmhouse (30 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Farmhouse.png/revision/latest/scale-to-width-down/50?cb=20160215111547\" title=\"Farmhouse (30 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Farmhouse (30 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/fishing-lake-23340\" title=\"Fishing Lake (637 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Fishing_Boat.png/revision/latest/scale-to-width-down/50?cb=20150712195437\" title=\"Fishing Lake (637 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Fishing Lake (637 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/leaderboard-19046\" title=\"Leaderboard (83 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Leaderboard.png/revision/latest/scale-to-width-down/50?cb=20150712195736\" title=\"Leaderboard (83 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Leaderboard (83 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mailbox-30439\" title=\"Mailbox (59 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/88/Mailbox.png/revision/latest/scale-to-width-down/31?cb=20141230172845\" title=\"Mailbox (59 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mailbox (59 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Daily Dirt (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Daily Dirt (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mine-7452\" title=\"Mine (133 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest/scale-to-width-down/50?cb=20150714140453\" title=\"Mine (133 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mine (133 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/neighborhood-10438\" title=\"Neighborhood (398 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a6/Neighborhood_House.png/revision/latest/scale-to-width-down/50?cb=20160201170459\" title=\"Neighborhood (398 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Neighborhood (398 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/production-buildings-7699\" title=\"Production Buildings (237 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/47/Bakery.png/revision/latest/scale-to-width-down/50?cb=20260810195925\" title=\"Production Buildings (237 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Production Buildings (237 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/boat-2675\" title=\"Boat (516 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest/scale-to-width-down/50?cb=20150712182459\" title=\"Boat (516 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Boat (516 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop (250 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest/scale-to-width-down/50?cb=20191028143054\" title=\"Roadside Shop (250 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Roadside Shop (250 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/silo-2654\" title=\"Silo (228 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Silo.png/revision/latest/scale-to-width-down/50?cb=20250926033422\" title=\"Silo (228 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Silo (228 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/train-station-13239\" title=\"Train Station (628 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f4/Farm_Train_Station.png/revision/latest/scale-to-width-down/50?cb=20150712184204\" title=\"Train Station (628 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Train Station (628 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/truck-2673\" title=\"Truck (132 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/01/Truck.png/revision/latest/scale-to-width-down/36?cb=20141207005356\" title=\"Truck (132 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Truck (132 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/valley-31465\" title=\"Valley (314 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/80/Valley_Board.png/revision/latest/scale-to-width-down/50?cb=20190625060045\" title=\"Valley (314 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Valley (314 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wheel-of-fortune-2745\" title=\"Wheel of Fortune (313 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/60/Wheel_of_Fortune.png/revision/latest/scale-to-width-down/50?cb=20150713123809\" title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<p><br>\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260829081029\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.054 seconds\nReal time usage: 0.067 seconds\nPreprocessor visited node count: 112/1000000\nPost‐expand include size: 343/2097152 bytes\nTemplate argument size: 46/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28134/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   43.043      1 -total\n 68.02%   29.277      1 Template:FarmBuildingsMenu\n  4.39%    1.889      1 Template:Languages\n  3.04%    1.308      1 Template:PageDisplay\n  2.79%    1.199      2 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:19046-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260829081029 and revision id 110909. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "b2fded3a81f9e3708dbea6f29838da2b4457cecde7b294798a654d901074da20",
+  "internalLinks": [
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-animal-shelters-6565",
+      "title": "Category:Animal Shelters"
+    },
+    {
+      "route": "/wiki/customization-29379",
+      "title": "Customization"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/events-7210",
+      "title": "Events"
+    },
+    {
+      "route": "/wiki/farmhouse-7542",
+      "title": "Farmhouse"
+    },
+    {
+      "route": "/wiki/fishing-lake-23340",
+      "title": "Fishing Lake"
+    },
+    {
+      "route": "/wiki/leaderboard-19046",
+      "title": "Leaderboard"
+    },
+    {
+      "route": "/wiki/mailbox-30439",
+      "title": "Mailbox"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    },
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/train-station-13239",
+      "title": "Train Station"
+    },
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    },
+    {
+      "route": "/wiki/valley-31465",
+      "title": "Valley"
+    },
+    {
+      "route": "/wiki/wheel-of-fortune-2745",
+      "title": "Wheel of Fortune"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 19046,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bakery.png",
+    "File:Barn.png",
+    "File:Champions League Leaderboard.png",
+    "File:Chicken Coop.png",
+    "File:Derby Stand.png",
+    "File:Event Board.png",
+    "File:Farm Train Station.png",
+    "File:Farmhouse.png",
+    "File:Fishing Boat.png",
+    "File:Friends Leaderboard.png",
+    "File:Global Leaderboard.png",
+    "File:Leaderboard Top 10 points.png",
+    "File:Leaderboard.png",
+    "File:Maggies Workbench.png",
+    "File:Mailbox.png",
+    "File:Mine.png",
+    "File:Neighborhood House.png",
+    "File:Newspaper Mailbox.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Silo.png",
+    "File:Truck.png",
+    "File:Valley Board.png",
+    "File:Wheel of Fortune.png"
+  ],
+  "revisionId": 110909,
+  "revisionTimestamp": "2026-08-17T12:17:47Z",
+  "route": "/wiki/leaderboard-19046",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Leaderboard",
+  "title": "Leaderboard",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5eb04861e09e634bb69e1a7f98ce3bb67ab2881d23407145d0ee0c94e24f56a2"
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Mine_Products?action=history",
+    "importedAt": "2026-09-01T02:41:49.579Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Mine_Products?oldid=57779",
+    "sourceRevisionId": 57779,
+    "sourceTitle": "Category:Mine Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Mine_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest?cb=20150714140453\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mine\" src=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest/scale-to-width-down/180?cb=20150714140453\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AMine.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">Mine</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024147\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7567-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024147 and revision id 57779. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "60cb0c60ad04c935cf66634de0ad54d4a8b0e25d878c7d86a983da8a19342199",
+  "internalLinks": [
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7567,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Mine.png"
+  ],
+  "revisionId": 57779,
+  "revisionTimestamp": "2016-01-21T18:11:35Z",
+  "route": "/wiki/category%2Fcategory-mine-products-7567",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Mine_Products",
+  "title": "Category:Mine Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9e460856e610cb5df831cd8368331204435ca22aafcd1f3985bfd723b746a1b7"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Wrapping_Station_2025_Mastered.png",
+  "height": 605,
+  "immutableUrl": null,
+  "mediaId": "File:Gift Wrapping Station 2025 Mastered.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-12-22T01:38:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGift%20Wrapping%20Station%202025%20Mastered.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 439475,
+  "sourceSha1": "1181851227f8aeb3d36e5f4d2a6972e5dca3646b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ee/Gift_Wrapping_Station_2025_Mastered.png/revision/latest?cb=20251222013808",
+  "title": "File:Gift Wrapping Station 2025 Mastered.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 604
+}

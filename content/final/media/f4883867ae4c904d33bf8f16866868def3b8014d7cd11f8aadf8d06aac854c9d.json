@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Palm_Tree.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Palm Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-07-07T20:43:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APalm%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 219284,
+  "sourceSha1": "ccd5634092c4a77c9f0630c06fa602787ce73e96",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/99/Palm_Tree.png/revision/latest?cb=20170707204335",
+  "title": "File:Palm Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 600
+}

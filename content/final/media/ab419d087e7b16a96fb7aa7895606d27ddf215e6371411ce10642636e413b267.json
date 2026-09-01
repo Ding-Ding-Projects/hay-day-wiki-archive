@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Red_Capybara_Pup.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Red Capybara Pup.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-12-27T00:40:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ARed%20Capybara%20Pup.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 169326,
+  "sourceSha1": "5848dbed6d9cfc73b2d1ea24f9a07d1747784dbf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/16/Red_Capybara_Pup.png/revision/latest?cb=20251227004005",
+  "title": "File:Red Capybara Pup.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 620
+}

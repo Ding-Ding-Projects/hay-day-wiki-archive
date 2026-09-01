@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Daylight_Fade.png",
+  "height": 216,
+  "immutableUrl": null,
+  "mediaId": "File:Cabin Daylight Fade.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-17T17:11:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACabin%20Daylight%20Fade.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 54124,
+  "sourceSha1": "5ee02842af564aaac602d1739ac2345bf36d94e1",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a8/Cabin_Daylight_Fade.png/revision/latest?cb=20180717171137",
+  "title": "File:Cabin Daylight Fade.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 216
+}

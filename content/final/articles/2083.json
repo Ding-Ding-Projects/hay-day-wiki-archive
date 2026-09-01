@@ -1,0 +1,387 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Indigo?action=history",
+    "importedAt": "2026-09-01T02:25:10.215Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Indigo?oldid=110941",
+    "sourceRevisionId": 110941,
+    "sourceTitle": "Indigo",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Growing_indigo",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Growing indigo</b>",
+      "text": "<b>Growing indigo</b>"
+    },
+    {
+      "anchor": "Selling_indigo",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling indigo</b>",
+      "text": "<b>Selling indigo</b>"
+    },
+    {
+      "anchor": "Using_indigo",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using indigo</b>",
+      "text": "<b>Using indigo</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Did_you_know?",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Did you know?</b>",
+      "text": "<b>Did you know?</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Indigo?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" title=\"Indigo\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Indigo</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">Crop</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 13</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 25</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  2 h</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Farm</span><span title=\"Field(s)\"><span class=\"mw-default-size\"><a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Farm\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 7</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Indigo</b> is a field <a href=\"/wiki/crops-3568\" title=\"Crops\" rel=\"noopener noreferrer\" target=\"_blank\">crop</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 13.\n</p><p>It is used to dye <a href=\"/wiki/cotton-fabric-14252\" title=\"Cotton Fabric\" rel=\"noopener noreferrer\" target=\"_blank\">cotton fabric</a> and <a href=\"/wiki/wool-2270\" title=\"Wool\" rel=\"noopener noreferrer\" target=\"_blank\">wool</a>, make <a href=\"/wiki/flower-shop-28398\" title=\"Flower Shop\" rel=\"noopener noreferrer\" target=\"_blank\">bouquets</a> and <a href=\"/wiki/floral-candle-29359\" title=\"Floral Candle\" rel=\"noopener noreferrer\" target=\"_blank\">floral candles</a>.\n</p><p>Like all crops, they are stored in the <a href=\"/wiki/silo-2654\" title=\"Silo\" rel=\"noopener noreferrer\" target=\"_blank\">silo</a>.\n</p><p>If you have none in your silo, you can buy 10 for 380 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Growing indigo</b></span></h3>\n<p>Indigo is grown in <a href=\"/wiki/farm-15139\" title=\"Farm\" rel=\"noopener noreferrer\" target=\"_blank\">fields</a> by planting another indigo plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 5 <span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> points, and takes 2 hours to mature.\n</p>\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AIndigo_Stage_1.png\" title=\"Indigo Stage 1.png (57 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/b/b9/Indigo_Stage_1.png/revision/latest/scale-to-width-down/185?cb=20150714121111\" title=\"Indigo Stage 1.png (57 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Indigo Stage 1.png (57 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AIndigo_Stage_2.png\" title=\"Indigo Stage 2.png (65 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/3a/Indigo_Stage_2.png/revision/latest/scale-to-width-down/185?cb=20150714121112\" title=\"Indigo Stage 2.png (65 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Indigo Stage 2.png (65 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AIndigo_Stage_3.png\" title=\"Indigo Stage 3.png (79 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f6/Indigo_Stage_3.png/revision/latest/scale-to-width-down/185?cb=20150714121112\" title=\"Indigo Stage 3.png (79 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Indigo Stage 3.png (79 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AIndigo_Stage_4.png\" title=\"Indigo Stage 4.png (111 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5c/Indigo_Stage_4.png/revision/latest/scale-to-width-down/185?cb=20150714121112\" title=\"Indigo Stage 4.png (111 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Indigo Stage 4.png (111 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper accent\"><a class=\"image lightbox\" href=\"/unavailable-source?media=File%3AIndigo_Stage_5.png\" title=\"Indigo Stage 5.png (46 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/d1/Indigo_Stage_5.png/revision/latest/scale-to-width-down/185?cb=20150714121112\" title=\"Indigo Stage 5.png (46 KB)\" class=\"thumbimage\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"><img title=\"Indigo Stage 5.png (46 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"185\" width=\"185\" loading=\"lazy\"></a></div></div></div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling indigo</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside Shop</figcaption></figure>\n<ul><li>Indigo can be sold or bought for a maximum price of 252 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using indigo</b></span></h3>\n<p>Indigo is used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue woolly hat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blue woolly hat\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/blue-sweater-2161\" title=\"Blue sweater\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blue sweater\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/violet-dress-14260\" title=\"Violet dress\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Violet dress\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blue-woolly-hat-2250\" title=\"Blue Woolly Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Woolly Hat</a></b>\n</td>\n<td><b><a href=\"/wiki/blue-sweater-2161\" title=\"Blue Sweater\" rel=\"noopener noreferrer\" target=\"_blank\">Blue Sweater</a></b>\n</td>\n<td><b><a href=\"/wiki/violet-dress-14260\" title=\"Violet Dress\" rel=\"noopener noreferrer\" target=\"_blank\">Violet Dress</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 19\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 20\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 25\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/rustic-bouquet-28467\" title=\"Rustic bouquet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Rustic bouquet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/bright-bouquet-28464\" title=\"Bright bouquet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bright bouquet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/sun-hat-18416\" title=\"Sun hat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Sun hat\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/rustic-bouquet-28467\" title=\"Rustic Bouquet\" rel=\"noopener noreferrer\" target=\"_blank\">Rustic Bouquet</a></b>\n</td>\n<td><b><a href=\"/wiki/bright-bouquet-28464\" title=\"Bright Bouquet\" rel=\"noopener noreferrer\" target=\"_blank\">Bright Bouquet</a></b>\n</td>\n<td><b><a href=\"/wiki/sun-hat-18416\" title=\"Sun Hat\" rel=\"noopener noreferrer\" target=\"_blank\">Sun Hat</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 49\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 65\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 74\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/birthday-bouquet-34955\" title=\"Birthday bouquet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Birthday bouquet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/floral-candle-29359\" title=\"Floral candle\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Floral candle\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/clay-mug-35281\" title=\"Clay mug\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Clay mug\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/birthday-bouquet-34955\" title=\"Birthday Bouquet\" rel=\"noopener noreferrer\" target=\"_blank\">Birthday Bouquet</a></b>\n</td>\n<td><b><a href=\"/wiki/floral-candle-29359\" title=\"Floral Candle\" rel=\"noopener noreferrer\" target=\"_blank\">Floral Candle</a></b>\n</td>\n<td><b><a href=\"/wiki/clay-mug-35281\" title=\"Clay Mug\" rel=\"noopener noreferrer\" target=\"_blank\">Clay Mug</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 92\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 95\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 99\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/calming-diffuser-36211\" title=\"Calming diffuser\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Calming diffuser\" loading=\"lazy\" width=\"75\" height=\"114\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/calming-diffuser-36211\" title=\"Calming Diffuser\" rel=\"noopener noreferrer\" target=\"_blank\">Calming Diffuser</a></b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest?cb=20191023151432\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Indigo\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 116\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/boat-2675\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for 8 to 19 indigo per crate, up to a total of 68 per boat.</li>\n<li>Each unit of indigo gives players 10 coins and 8 experience points in boat orders.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Recipes only ask for one to three units of indigo so it is not a crop you need to keep large quantities of.</li>\n<li>Indigos are very commonly found in the Daily Dirt and might not get sold quickly if you sell them on max price.</li></ul>\n<hr>\n<h3><span></span><span class=\"mw-headline\"><b>Did you know?</b></span></h3>\n<ul><li>In real life <a href=\"https://en.wikipedia.org/wiki/Indigofera\" class=\"extiw\" title=\"wikipedia:Indigofera\" rel=\"noopener noreferrer\" target=\"_blank\">indigofera plants</a> are used to create <a href=\"https://en.wikipedia.org/wiki/Indigo_dye\" class=\"extiw\" title=\"wikipedia:Indigo dye\" rel=\"noopener noreferrer\" target=\"_blank\">indigo dye</a>. In Hay Day, the dyeing making process is skipped.</li>\n<li>Before the October 2017 Update Indigo was the most common crop in Hay Day but after the addition of flower shop and other products the use of Indigo got increased and it started being sold better.</li></ul>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/asparagus-35799\" title=\"Asparagus (2.42 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Asparagus.png/revision/latest/scale-to-width-down/50?cb=20240218150229\" title=\"Asparagus (2.42 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Asparagus (2.42 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/beetroot-33002\" title=\"Beetroot (3.94 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/56/Beetroot.png/revision/latest/scale-to-width-down/47?cb=20240218150336\" title=\"Beetroot (3.94 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Beetroot (3.94 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/bell-pepper-29901\" title=\"Bell Pepper (3.53 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Bell_Pepper.png/revision/latest/scale-to-width-down/50?cb=20240218150145\" title=\"Bell Pepper (3.53 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Bell Pepper (3.53 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/black-bean-36496\" title=\"Black Bean (101 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/23/Black_Bean.png/revision/latest/scale-to-width-down/50?cb=20260126210023\" title=\"Black Bean (101 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Black Bean (101 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/broccoli-30746\" title=\"Broccoli (4.24 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f1/Broccoli.png/revision/latest/scale-to-width-down/50?cb=20240218150508\" title=\"Broccoli (4.24 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Broccoli (4.24 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cabbage-34832\" title=\"Cabbage (1.47 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Cabbage.png/revision/latest/scale-to-width-down/49?cb=20240218151308\" title=\"Cabbage (1.47 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cabbage (1.47 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/carrot-2081\" title=\"Carrot (614 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Carrot.png/revision/latest/scale-to-width-down/50?cb=20240218151353\" title=\"Carrot (614 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Carrot (614 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chamomile-36216\" title=\"Chamomile (642 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest/scale-to-width-down/50?cb=20241209180843\" title=\"Chamomile (642 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chamomile (642 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chickpea-35385\" title=\"Chickpea (2.2 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/02/Chickpea.png/revision/latest/scale-to-width-down/50?cb=20240218151443\" title=\"Chickpea (2.2 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chickpea (2.2 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/chili-pepper-2235\" title=\"Chili Pepper (14 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png/revision/latest/scale-to-width-down/50?cb=20191023151351\" title=\"Chili Pepper (14 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Chili Pepper (14 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/clay-35282\" title=\"Clay (2.64 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a2/Clay.png/revision/latest/scale-to-width-down/50?cb=20240218151529\" title=\"Clay (2.64 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Clay (2.64 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/corn-2063\" title=\"Corn (683 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Corn.png/revision/latest/scale-to-width-down/50?cb=20240218151631\" title=\"Corn (683 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Corn (683 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cotton-14254\" title=\"Cotton (426 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c3/Cotton.png/revision/latest/scale-to-width-down/50?cb=20240218151721\" title=\"Cotton (426 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cotton (426 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/cucumber-30747\" title=\"Cucumber (860 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/59/Cucumber.png/revision/latest/scale-to-width-down/50?cb=20240218151809\" title=\"Cucumber (860 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Cucumber (860 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/eggplant-30745\" title=\"Eggplant (3.94 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/8f/Eggplant.png/revision/latest/scale-to-width-down/50?cb=20240218151903\" title=\"Eggplant (3.94 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Eggplant (3.94 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/garlic-33001\" title=\"Garlic (2.41 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/cc/Garlic.png/revision/latest/scale-to-width-down/48?cb=20240218151955\" title=\"Garlic (2.41 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Garlic (2.41 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/ginger-31881\" title=\"Ginger (2.48 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/85/Ginger.png/revision/latest/scale-to-width-down/50?cb=20240218152109\" title=\"Ginger (2.48 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Ginger (2.48 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/grapes-26402\" title=\"Grapes (3.77 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/39/Grapes.png/revision/latest/scale-to-width-down/50?cb=20240218152214\" title=\"Grapes (3.77 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Grapes (3.77 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/indigo-2083\" title=\"Indigo (33 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Indigo.png/revision/latest/scale-to-width-down/50?cb=20191023151432\" title=\"Indigo (33 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Indigo (33 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lettuce-8898\" title=\"Lettuce (791 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/da/Lettuce.png/revision/latest/scale-to-width-down/50?cb=20260313083935\" title=\"Lettuce (791 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lettuce (791 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lily-33000\" title=\"Lily (2.22 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lily.png/revision/latest/scale-to-width-down/46?cb=20240219025449\" title=\"Lily (2.22 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lily (2.22 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mint-29903\" title=\"Mint (4.04 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/1/13/Mint.png/revision/latest/scale-to-width-down/50?cb=20240219025557\" title=\"Mint (4.04 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mint (4.04 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mushroom-31885\" title=\"Mushroom (2.62 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/8c/Mushroom.png/revision/latest/scale-to-width-down/50?cb=20240219025703\" title=\"Mushroom (2.62 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mushroom (2.62 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/oats-35900\" title=\"Oats (119 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/34/Oats.png/revision/latest/scale-to-width-down/50?cb=20230920004146\" title=\"Oats (119 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Oats (119 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/onion-24832\" title=\"Onion (271 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/51/Onion.png/revision/latest/scale-to-width-down/50?cb=20240219025803\" title=\"Onion (271 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Onion (271 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/passion-fruit-35182\" title=\"Passion Fruit (131 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Passion_Fruit.png/revision/latest/scale-to-width-down/50?cb=20240219030332\" title=\"Passion Fruit (131 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Passion Fruit (131 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/peony-28400\" title=\"Peony (6.08 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/50/Peony.png/revision/latest/scale-to-width-down/50?cb=20240219030430\" title=\"Peony (6.08 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Peony (6.08 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/pineapple-30748\" title=\"Pineapple (3.66 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/fb/Pineapple.png/revision/latest/scale-to-width-down/50?cb=20240219030555\" title=\"Pineapple (3.66 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Pineapple (3.66 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/potato-2693\" title=\"Potato (419 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Potato.png/revision/latest/scale-to-width-down/50?cb=20240219030654\" title=\"Potato (419 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Potato (419 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/pumpkin-2082\" title=\"Pumpkin (395 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/64/Pumpkin.png/revision/latest/scale-to-width-down/50?cb=20240219030742\" title=\"Pumpkin (395 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Pumpkin (395 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/rice-8896\" title=\"Rice (770 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/d/da/Rice.png/revision/latest/scale-to-width-down/50?cb=20240219030840\" title=\"Rice (770 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Rice (770 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sesame-31883\" title=\"Sesame (3.91 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/07/Sesame.png/revision/latest/scale-to-width-down/50?cb=20240219030944\" title=\"Sesame (3.91 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sesame (3.91 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/soybean-2079\" title=\"Soybean (767 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9e/Soybean.png/revision/latest/scale-to-width-down/50?cb=20240219031547\" title=\"Soybean (767 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Soybean (767 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/strawberry-2240\" title=\"Strawberry (670 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/6d/Strawberry.png/revision/latest/scale-to-width-down/50?cb=20240219031821\" title=\"Strawberry (670 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Strawberry (670 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sugarcane-2080\" title=\"Sugarcane (933 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/03/Sugarcane.png/revision/latest/scale-to-width-down/50?cb=20240219031727\" title=\"Sugarcane (933 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sugarcane (933 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/sunflower-28399\" title=\"Sunflower (1.38 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Sunflower.png/revision/latest/scale-to-width-down/48?cb=20240219031925\" title=\"Sunflower (1.38 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Sunflower (1.38 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/tea-leaf-24833\" title=\"Tea Leaf (428 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e3/Tea_Leaf.png/revision/latest/scale-to-width-down/50?cb=20240219032147\" title=\"Tea Leaf (428 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Tea Leaf (428 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/tomato-2236\" title=\"Tomato (542 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9d/Tomato.png/revision/latest/scale-to-width-down/50?cb=20240219025108\" title=\"Tomato (542 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Tomato (542 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/watermelon-29902\" title=\"Watermelon (2.92 MB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/06/Watermelon.png/revision/latest/scale-to-width-down/50?cb=20240219032022\" title=\"Watermelon (2.92 MB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Watermelon (2.92 MB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wheat-2062\" title=\"Wheat (631 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest/scale-to-width-down/50?cb=20240218150024\" title=\"Wheat (631 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wheat (631 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260830022719\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.109 seconds\nReal time usage: 0.167 seconds\nPreprocessor visited node count: 463/1000000\nPost‐expand include size: 9823/2097152 bytes\nTemplate argument size: 191/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 49016/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.007/7.000 seconds\nLua memory usage: 1029994/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  114.569      1 -total\n 51.12%   58.564      1 Template:Navigation\n 47.29%   54.176      1 Template:FieldCropsMenu\n 34.28%   39.271      1 Template:Infobox\n 15.08%   17.272     10 Template:Infoicon\n  3.63%    4.155      1 Template:Item_Usage\n  1.52%    1.744      1 Template:Languages\n  1.17%    1.345      4 Template:Clr\n  1.10%    1.258      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2083-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260830022719 and revision id 110941. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "e5f7d2bf5a04c3f70a126dae7d2f1c854e96373f6e7c450b3d78db529c36a451",
+  "internalLinks": [
+    {
+      "route": "/wiki/asparagus-35799",
+      "title": "Asparagus"
+    },
+    {
+      "route": "/wiki/beetroot-33002",
+      "title": "Beetroot"
+    },
+    {
+      "route": "/wiki/bell-pepper-29901",
+      "title": "Bell Pepper"
+    },
+    {
+      "route": "/wiki/birthday-bouquet-34955",
+      "title": "Birthday Bouquet"
+    },
+    {
+      "route": "/wiki/black-bean-36496",
+      "title": "Black Bean"
+    },
+    {
+      "route": "/wiki/blue-sweater-2161",
+      "title": "Blue Sweater"
+    },
+    {
+      "route": "/wiki/blue-woolly-hat-2250",
+      "title": "Blue Woolly Hat"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/bright-bouquet-28464",
+      "title": "Bright Bouquet"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/cabbage-34832",
+      "title": "Cabbage"
+    },
+    {
+      "route": "/wiki/calming-diffuser-36211",
+      "title": "Calming Diffuser"
+    },
+    {
+      "route": "/wiki/carrot-2081",
+      "title": "Carrot"
+    },
+    {
+      "route": "/wiki/chamomile-36216",
+      "title": "Chamomile"
+    },
+    {
+      "route": "/wiki/chickpea-35385",
+      "title": "Chickpea"
+    },
+    {
+      "route": "/wiki/chili-pepper-2235",
+      "title": "Chili Pepper"
+    },
+    {
+      "route": "/wiki/clay-35282",
+      "title": "Clay"
+    },
+    {
+      "route": "/wiki/clay-mug-35281",
+      "title": "Clay Mug"
+    },
+    {
+      "route": "/wiki/corn-2063",
+      "title": "Corn"
+    },
+    {
+      "route": "/wiki/cotton-14254",
+      "title": "Cotton"
+    },
+    {
+      "route": "/wiki/cotton-fabric-14252",
+      "title": "Cotton Fabric"
+    },
+    {
+      "route": "/wiki/crops-3568",
+      "title": "Crops"
+    },
+    {
+      "route": "/wiki/cucumber-30747",
+      "title": "Cucumber"
+    },
+    {
+      "route": "/wiki/eggplant-30745",
+      "title": "Eggplant"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farm-15139",
+      "title": "Farm"
+    },
+    {
+      "route": "/wiki/floral-candle-29359",
+      "title": "Floral Candle"
+    },
+    {
+      "route": "/wiki/flower-shop-28398",
+      "title": "Flower Shop"
+    },
+    {
+      "route": "/wiki/garlic-33001",
+      "title": "Garlic"
+    },
+    {
+      "route": "/wiki/ginger-31881",
+      "title": "Ginger"
+    },
+    {
+      "route": "/wiki/grapes-26402",
+      "title": "Grapes"
+    },
+    {
+      "route": "/wiki/indigo-2083",
+      "title": "Indigo"
+    },
+    {
+      "route": "/wiki/lettuce-8898",
+      "title": "Lettuce"
+    },
+    {
+      "route": "/wiki/lily-33000",
+      "title": "Lily"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/mint-29903",
+      "title": "Mint"
+    },
+    {
+      "route": "/wiki/mushroom-31885",
+      "title": "Mushroom"
+    },
+    {
+      "route": "/wiki/oats-35900",
+      "title": "Oats"
+    },
+    {
+      "route": "/wiki/onion-24832",
+      "title": "Onion"
+    },
+    {
+      "route": "/wiki/passion-fruit-35182",
+      "title": "Passion Fruit"
+    },
+    {
+      "route": "/wiki/peony-28400",
+      "title": "Peony"
+    },
+    {
+      "route": "/wiki/pineapple-30748",
+      "title": "Pineapple"
+    },
+    {
+      "route": "/wiki/potato-2693",
+      "title": "Potato"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/pumpkin-2082",
+      "title": "Pumpkin"
+    },
+    {
+      "route": "/wiki/rice-8896",
+      "title": "Rice"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/rustic-bouquet-28467",
+      "title": "Rustic Bouquet"
+    },
+    {
+      "route": "/wiki/sesame-31883",
+      "title": "Sesame"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/soybean-2079",
+      "title": "Soybean"
+    },
+    {
+      "route": "/wiki/strawberry-2240",
+      "title": "Strawberry"
+    },
+    {
+      "route": "/wiki/sugarcane-2080",
+      "title": "Sugarcane"
+    },
+    {
+      "route": "/wiki/sun-hat-18416",
+      "title": "Sun Hat"
+    },
+    {
+      "route": "/wiki/sunflower-28399",
+      "title": "Sunflower"
+    },
+    {
+      "route": "/wiki/tea-leaf-24833",
+      "title": "Tea Leaf"
+    },
+    {
+      "route": "/wiki/tomato-2236",
+      "title": "Tomato"
+    },
+    {
+      "route": "/wiki/violet-dress-14260",
+      "title": "Violet Dress"
+    },
+    {
+      "route": "/wiki/watermelon-29902",
+      "title": "Watermelon"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    },
+    {
+      "route": "/wiki/wool-2270",
+      "title": "Wool"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2083,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Asparagus.png",
+    "File:Beetroot.png",
+    "File:Bell Pepper.png",
+    "File:Birthday Bouquet.png",
+    "File:Black Bean.png",
+    "File:Blue Sweater.png",
+    "File:Blue Woolly Hat.png",
+    "File:Bright Bouquet.png",
+    "File:Broccoli.png",
+    "File:Cabbage.png",
+    "File:Calming Diffuser.png",
+    "File:Carrot.png",
+    "File:Chamomile.png",
+    "File:Chickpea.png",
+    "File:Chili Pepper.png",
+    "File:Clay Mug.png",
+    "File:Clay.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Corn.png",
+    "File:Cotton.png",
+    "File:Cucumber.png",
+    "File:Diamond.png",
+    "File:Eggplant.png",
+    "File:Experience.png",
+    "File:Field.png",
+    "File:Floral Candle.png",
+    "File:Garlic.png",
+    "File:Ginger.png",
+    "File:Grapes.png",
+    "File:Indigo Stage 1.png",
+    "File:Indigo Stage 2.png",
+    "File:Indigo Stage 3.png",
+    "File:Indigo Stage 4.png",
+    "File:Indigo Stage 5.png",
+    "File:Indigo.png",
+    "File:Lettuce.png",
+    "File:Lily.png",
+    "File:Mint.png",
+    "File:Mushroom.png",
+    "File:Oats.png",
+    "File:Onion.png",
+    "File:Passion Fruit.png",
+    "File:Peony.png",
+    "File:Pineapple.png",
+    "File:Potato.png",
+    "File:Pumpkin.png",
+    "File:Rice.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Rustic Bouquet.png",
+    "File:Sesame.png",
+    "File:Soybean.png",
+    "File:Strawberry.png",
+    "File:Sugarcane.png",
+    "File:Sun Hat.png",
+    "File:Sunflower.png",
+    "File:Tea Leaf.png",
+    "File:Tomato.png",
+    "File:Violet Dress.png",
+    "File:Watermelon.png",
+    "File:Wheat.png"
+  ],
+  "revisionId": 110941,
+  "revisionTimestamp": "2026-08-27T13:54:34Z",
+  "route": "/wiki/indigo-2083",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Indigo",
+  "title": "Indigo",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ce170f89988a364233853a248b6777649bcd31910edac49b296fd048bdd7205e"
+}

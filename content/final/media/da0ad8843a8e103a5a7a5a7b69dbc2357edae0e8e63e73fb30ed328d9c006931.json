@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bright_Path.png",
+  "height": 289,
+  "immutableUrl": null,
+  "mediaId": "File:Bright Path.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T18:50:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABright%20Path.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 46983,
+  "sourceSha1": "938497c171946ac632ddf9edd3b4d2fc7328dbc5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Bright_Path.png/revision/latest?cb=20180207185033",
+  "title": "File:Bright Path.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 289
+}

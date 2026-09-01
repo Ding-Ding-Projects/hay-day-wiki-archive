@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Card.png",
+  "height": 200,
+  "immutableUrl": null,
+  "mediaId": "File:Gift Card.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-09T12:26:27Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGift%20Card.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 44257,
+  "sourceSha1": "c4b4bc59653b296caa07398987d0a7fcfd5dc3cc",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/37/Gift_Card.png/revision/latest?cb=20160309122627",
+  "title": "File:Gift Card.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Booster?action=history",
+    "importedAt": "2026-09-01T03:02:16.959Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Booster?oldid=74972",
+    "sourceRevisionId": 74972,
+    "sourceTitle": "Booster",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Booster?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/boosters-27089\" title=\"Boosters\" rel=\"noopener noreferrer\" target=\"_blank\">Boosters</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030213\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28721-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030213 and revision id 74972. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "fbb51612ac7aad4dfd39cc8601abd1a18044e74825a64cac56a63252a6827ffd",
+  "internalLinks": [
+    {
+      "route": "/wiki/boosters-27089",
+      "title": "Boosters"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 28721,
+  "redirectTarget": "Boosters",
+  "referencedMediaIds": [],
+  "revisionId": 74972,
+  "revisionTimestamp": "2017-11-03T15:32:10Z",
+  "route": "/wiki/booster-28721",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Booster",
+  "title": "Booster",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "3f5ca1ea055fdcb03915889c4e34324a60c204bcc8c653c109989ce1df8eef2c"
+}

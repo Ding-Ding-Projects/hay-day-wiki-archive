@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Brown_Wooden.PNG",
+  "height": 220,
+  "immutableUrl": null,
+  "mediaId": "File:Awning Brown Wooden.PNG",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-04-30T14:38:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAwning%20Brown%20Wooden.PNG",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 75632,
+  "sourceSha1": "1a5ba63dc712e0fd6f5eded8e4f8b7b9517b3fe2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b8/Awning_Brown_Wooden.PNG/revision/latest?cb=20180430143859",
+  "title": "File:Awning Brown Wooden.PNG",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 220
+}

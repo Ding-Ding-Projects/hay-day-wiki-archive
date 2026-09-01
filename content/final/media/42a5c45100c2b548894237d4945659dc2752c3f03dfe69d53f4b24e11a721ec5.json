@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueberry_Cheesecake.png",
+  "height": 590,
+  "immutableUrl": null,
+  "mediaId": "File:Blueberry Cheesecake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-22T21:46:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlueberry%20Cheesecake.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 228546,
+  "sourceSha1": "70625318254a4e78535a3092839e682f388a71d8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Blueberry_Cheesecake.png/revision/latest?cb=20250922214642",
+  "title": "File:Blueberry Cheesecake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 590
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greg_Winter.PNG",
+  "height": 258,
+  "immutableUrl": null,
+  "mediaId": "File:Greg Winter.PNG",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-16T21:11:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGreg%20Winter.PNG",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 117308,
+  "sourceSha1": "827397019f0a1bb9f2330401233f8e6186e390f6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/12/Greg_Winter.PNG/revision/latest?cb=20151116211119",
+  "title": "File:Greg Winter.PNG",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 232
+}

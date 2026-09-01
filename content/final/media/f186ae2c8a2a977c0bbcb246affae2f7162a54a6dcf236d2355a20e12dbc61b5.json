@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walrus_House_Stage_3.png",
+  "height": 595,
+  "immutableUrl": null,
+  "mediaId": "File:Walrus House Stage 3.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-10T22:12:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalrus%20House%20Stage%203.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 176520,
+  "sourceSha1": "fa9bc736400348fc53e5a69ee8e93b54b6a0a755",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ed/Walrus_House_Stage_3.png/revision/latest?cb=20221210221238",
+  "title": "File:Walrus House Stage 3.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 595
+}

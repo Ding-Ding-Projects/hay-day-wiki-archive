@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Outhouse.png",
+  "height": 439,
+  "immutableUrl": null,
+  "mediaId": "File:Golden Outhouse.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T10:39:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGolden%20Outhouse.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 144880,
+  "sourceSha1": "96774a4a59b0e2bac2999000b4b4226df7e0803e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c5/Golden_Outhouse.png/revision/latest?cb=20150715103902",
+  "title": "File:Golden Outhouse.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 439
+}

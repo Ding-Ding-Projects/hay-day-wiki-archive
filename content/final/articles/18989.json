@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Truck?action=history",
+    "importedAt": "2026-09-01T02:54:07.329Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Truck?oldid=45384",
+    "sourceRevisionId": 45384,
+    "sourceTitle": "Category:Image Truck",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Truck?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to the <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">Truck</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025109\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:18989-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025109 and revision id 45384. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "6ad253b0b13630a8f1e4e80aec5c7f2f18c6dd07e627b6bda6a547652f686f62",
+  "internalLinks": [
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 18989,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 45384,
+  "revisionTimestamp": "2015-04-11T11:41:35Z",
+  "route": "/wiki/category%2Fcategory-image-truck-18989",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Truck",
+  "title": "Category:Image Truck",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "847ef357f2e335a0c1e2cbb03a4cfd3b10c661f750fd0f0b42de36473ffb17f4"
+}

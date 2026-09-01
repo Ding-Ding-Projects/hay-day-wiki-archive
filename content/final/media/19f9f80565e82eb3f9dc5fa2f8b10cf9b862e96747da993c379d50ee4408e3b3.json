@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ski_Jumper.png",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Ski Jumper.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-11-14T13:45:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASki%20Jumper.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 452975,
+  "sourceSha1": "c8f9ef418305491062e7eb92172aad9b266af167",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Ski_Jumper.png/revision/latest?cb=20211114134518",
+  "title": "File:Ski Jumper.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 480
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Smelter_Products?action=history",
+    "importedAt": "2026-09-01T02:41:45.452Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Smelter_Products?oldid=108223",
+    "sourceRevisionId": 108223,
+    "sourceTitle": "Category:Smelter Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Smelter_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/4/45/Smelter.png/revision/latest?cb=20250925185202\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Smelter\" src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Smelter.png/revision/latest/scale-to-width-down/180?cb=20250925185202\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ASmelter.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/smelter-3557\" title=\"Smelter\" rel=\"noopener noreferrer\" target=\"_blank\">Smelter</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024138\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7553-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024138 and revision id 108223. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "426826d389bf0593ac888a2f2e8584d6d00943619aae522440afdf044c6f615f",
+  "internalLinks": [
+    {
+      "route": "/wiki/smelter-3557",
+      "title": "Smelter"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7553,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Smelter.png"
+  ],
+  "revisionId": 108223,
+  "revisionTimestamp": "2025-08-05T20:07:25Z",
+  "route": "/wiki/category%2Fcategory-smelter-products-7553",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Smelter_Products",
+  "title": "Category:Smelter Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "b2ddb30abf774282962771f80e4a13fb50567dcb9640e0f3c8b2488f26093af0"
+}

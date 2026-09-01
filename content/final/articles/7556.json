@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Candy_Machine_Products?action=history",
+    "importedAt": "2026-09-01T02:41:47.591Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Candy_Machine_Products?oldid=57767",
+    "sourceRevisionId": 57767,
+    "sourceTitle": "Category:Candy Machine Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Candy_Machine_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Candy_Machine.png/revision/latest?cb=20250925204735\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Candy Machine\" src=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Candy_Machine.png/revision/latest/scale-to-width-down/180?cb=20250925204735\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ACandy_Machine.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/candy-machine-3565\" title=\"Candy Machine\" rel=\"noopener noreferrer\" target=\"_blank\">Candy Machine</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024145\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7556-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024145 and revision id 57767. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "987563b8570dccafa70e1c99e8b10d00438d9f974885e205a48b794a304c0051",
+  "internalLinks": [
+    {
+      "route": "/wiki/candy-machine-3565",
+      "title": "Candy Machine"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7556,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Candy Machine.png"
+  ],
+  "revisionId": 57767,
+  "revisionTimestamp": "2016-01-21T18:05:49Z",
+  "route": "/wiki/category%2Fcategory-candy-machine-products-7556",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Candy_Machine_Products",
+  "title": "Category:Candy Machine Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9cfa51d3aff2d0b5ba92ef23ab6283b9e807cb72ee111311252c634ef7fe01d4"
+}

@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products?action=history",
+    "importedAt": "2026-09-01T03:07:00.127Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products?oldid=98639",
+    "sourceRevisionId": 98639,
+    "sourceTitle": "Category:Tomato Juice Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Tomato_Juice.png/revision/latest?cb=20240223064831\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Tomato Juice\" src=\"https://static.wikia.nocookie.net/hayday/images/a/a5/Tomato_Juice.png/revision/latest/scale-to-width-down/180?cb=20240223064831\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ATomato_Juice.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/tomato-juice-2144\" title=\"Tomato Juice\" rel=\"noopener noreferrer\" target=\"_blank\">Tomato Juice</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030658\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35138-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030658 and revision id 98639. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8d49a251f4184b61f2d56c153f46bdba21f0b6b0bf00232089086fb56c3cba0d",
+  "internalLinks": [
+    {
+      "route": "/wiki/tomato-juice-2144",
+      "title": "Tomato Juice"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35138,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Tomato Juice.png"
+  ],
+  "revisionId": 98639,
+  "revisionTimestamp": "2021-09-06T22:41:58Z",
+  "route": "/wiki/category%2Fcategory-tomato-juice-products-35138",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products",
+  "title": "Category:Tomato Juice Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "8a118aa69aaeb66c38d2977395603bc370d62827244b0ce69a5b8aec96178f54"
+}

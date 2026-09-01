@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gargoyle.png",
+  "height": 710,
+  "immutableUrl": null,
+  "mediaId": "File:Gargoyle.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-23T23:53:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGargoyle.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 310742,
+  "sourceSha1": "fa4869e5b176b64744f3655714e0c37ed1b14302",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/Gargoyle.png/revision/latest?cb=20191023235333",
+  "title": "File:Gargoyle.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 710
+}

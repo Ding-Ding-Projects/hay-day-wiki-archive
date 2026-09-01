@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Truck_Bonus_Boosters.png",
+  "height": 300,
+  "immutableUrl": null,
+  "mediaId": "File:Truck Bonus Boosters.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T15:27:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATruck%20Bonus%20Boosters.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 80308,
+  "sourceSha1": "a3f156a6aa5312bfd7d04fdb79575517d61eb40e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Truck_Bonus_Boosters.png/revision/latest?cb=20191028152758",
+  "title": "File:Truck Bonus Boosters.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

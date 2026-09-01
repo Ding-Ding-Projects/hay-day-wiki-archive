@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates?action=history",
+    "importedAt": "2026-09-01T02:10:55.263Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Templates?oldid=95425",
+    "sourceRevisionId": 95425,
+    "sourceTitle": "Category:Templates",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This is the base category for <b>templates</b>. Templates should be placed in appropriate subcategories.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901020751\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:1766-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901020751 and revision id 95425. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "550d91c406c218d34904fc9543fd0e395fe1c63c18602da4d39bff94c0795524",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 1766,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 95425,
+  "revisionTimestamp": "2020-08-18T01:44:36Z",
+  "route": "/wiki/category%2Fcategory-templates-1766",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Templates",
+  "title": "Category:Templates",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ff846e2413d8440b02bdb5d99fad14535e9b66202c608fbd734a5d9c672a6b09"
+}

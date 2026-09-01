@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mocha_Milkshake.png",
+  "height": 5120,
+  "immutableUrl": null,
+  "mediaId": "File:Mocha Milkshake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-17T09:51:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMocha%20Milkshake.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 5215246,
+  "sourceSha1": "38e9480c02e20fbc31194b9fdd1f45a6f63f465c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7d/Mocha_Milkshake.png/revision/latest?cb=20240217095145",
+  "title": "File:Mocha Milkshake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 5120
+}

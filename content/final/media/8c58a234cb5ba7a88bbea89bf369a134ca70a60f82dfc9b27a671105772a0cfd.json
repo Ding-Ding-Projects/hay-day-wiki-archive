@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Update_June_2018.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:Update June 2018.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-25T21:34:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AUpdate%20June%202018.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 851236,
+  "sourceSha1": "ad042294b696bb6af6ebbf428c4c5ad63770f9a1",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Update_June_2018.png/revision/latest?cb=20180625213402",
+  "title": "File:Update June 2018.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

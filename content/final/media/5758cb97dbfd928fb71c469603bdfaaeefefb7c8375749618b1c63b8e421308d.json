@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Trap.png",
+  "height": 250,
+  "immutableUrl": null,
+  "mediaId": "File:Lobster Trap.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-25T03:55:12Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALobster%20Trap.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 92443,
+  "sourceSha1": "8d1282a6740c81fdb7396b0fcd52e6bb8c2e3c04",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Lobster_Trap.png/revision/latest?cb=20150725035512",
+  "title": "File:Lobster Trap.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

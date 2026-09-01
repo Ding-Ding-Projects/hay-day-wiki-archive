@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wheels_Gold_Spokes.png",
+  "height": 254,
+  "immutableUrl": null,
+  "mediaId": "File:Wheels Gold Spokes.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-14T16:16:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWheels%20Gold%20Spokes.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 229017,
+  "sourceSha1": "365a18161fee7d51b66e5fd5fe9c1265a6e8b650",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/ff/Wheels_Gold_Spokes.png/revision/latest?cb=20180514161648",
+  "title": "File:Wheels Gold Spokes.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Voucher.png",
+  "height": 661,
+  "immutableUrl": null,
+  "mediaId": "File:Blue Voucher.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-12T14:12:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlue%20Voucher.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 150042,
+  "sourceSha1": "50ca164eb14001e33e27e5d72dcc3bb7c8f9b1f4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Blue_Voucher.png/revision/latest?cb=20160312141220",
+  "title": "File:Blue Voucher.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 661
+}

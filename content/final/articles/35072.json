@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Bread_Products?action=history",
+    "importedAt": "2026-09-01T03:06:51.268Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Bread_Products?oldid=98549",
+    "sourceRevisionId": 98549,
+    "sourceTitle": "Category:Bread Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Bread_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Bread.png/revision/latest?cb=20240205073518\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bread\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Bread.png/revision/latest/scale-to-width-down/180?cb=20240205073518\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3ABread.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/bread-2084\" title=\"Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Bread</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030649\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35072-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030649 and revision id 98549. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "f77dec2a14e05d1a5e7ff4ef44612717b286a4317582307f694eaad562cc5042",
+  "internalLinks": [
+    {
+      "route": "/wiki/bread-2084",
+      "title": "Bread"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35072,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bread.png"
+  ],
+  "revisionId": 98549,
+  "revisionTimestamp": "2021-08-31T20:56:44Z",
+  "route": "/wiki/category%2Fcategory-bread-products-35072",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bread_Products",
+  "title": "Category:Bread Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "f406e1255fdb622d0d7780907e29d0d8fd8242fe4d50cff47a09e58bc45a4ab6"
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daily_Dirt_Cover_Old.jpg",
+  "height": 547,
+  "immutableUrl": null,
+  "mediaId": "File:Daily Dirt Cover Old.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-07-04T03:27:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADaily%20Dirt%20Cover%20Old.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 76280,
+  "sourceSha1": "cae17b823a56a66543aeb53f713c251f9fb8a08a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Daily_Dirt_Cover_Old.jpg/revision/latest?cb=20130704032719",
+  "title": "File:Daily Dirt Cover Old.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 404
+}

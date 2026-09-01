@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mushroom_Pasta.png",
+  "height": 2060,
+  "immutableUrl": null,
+  "mediaId": "File:Mushroom Pasta.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-11T17:58:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMushroom%20Pasta.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3639824,
+  "sourceSha1": "10703e3c542e2e5fcbafcd2624c50635f75b9e65",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2d/Mushroom_Pasta.png/revision/latest?cb=20240211175832",
+  "title": "File:Mushroom Pasta.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2060
+}

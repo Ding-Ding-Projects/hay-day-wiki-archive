@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products?action=history",
+    "importedAt": "2026-09-01T03:03:20.917Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products?oldid=78953",
+    "sourceRevisionId": 78953,
+    "sourceTitle": "Category:Lure Workbench Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lure_Workbench.png/revision/latest?cb=20250925185602\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lure Workbench\" src=\"https://static.wikia.nocookie.net/hayday/images/0/0a/Lure_Workbench.png/revision/latest/scale-to-width-down/180?cb=20250925185602\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ALure_Workbench.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/lure-workbench-5889\" title=\"Lure Workbench\" rel=\"noopener noreferrer\" target=\"_blank\">Lure Workbench</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030259\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:29469-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030259 and revision id 78953. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "dfd5c0424e5349a18c7ff79f2df3bae650df5622d5d4fc32bdbc5321732cd745",
+  "internalLinks": [
+    {
+      "route": "/wiki/lure-workbench-5889",
+      "title": "Lure Workbench"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 29469,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Lure Workbench.png"
+  ],
+  "revisionId": 78953,
+  "revisionTimestamp": "2018-04-18T13:01:17Z",
+  "route": "/wiki/category%2Fcategory-lure-workbench-products-29469",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products",
+  "title": "Category:Lure Workbench Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "98e03c8001e67e47f060b9ef8ef29d9cf6a1bed314f011c5f1c99b0caf00ec15"
+}

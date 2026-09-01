@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Flower_Pendant.png",
+  "height": 544,
+  "immutableUrl": null,
+  "mediaId": "File:Flower Pendant.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T16:23:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFlower%20Pendant.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 250182,
+  "sourceSha1": "78a6f849893551f7472dfaabbb6154f3699511b4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ae/Flower_Pendant.png/revision/latest?cb=20240208162301",
+  "title": "File:Flower Pendant.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 544
+}

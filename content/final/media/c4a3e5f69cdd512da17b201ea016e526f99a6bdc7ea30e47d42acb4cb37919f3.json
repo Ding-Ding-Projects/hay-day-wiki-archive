@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Faded_Green.png",
+  "height": 260,
+  "immutableUrl": null,
+  "mediaId": "File:Cabin Faded Green.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-21T18:14:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACabin%20Faded%20Green.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 245348,
+  "sourceSha1": "022055eb459cfa29f25862eaa3b155221ef801e2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/62/Cabin_Faded_Green.png/revision/latest?cb=20180521181436",
+  "title": "File:Cabin Faded Green.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 314
+}

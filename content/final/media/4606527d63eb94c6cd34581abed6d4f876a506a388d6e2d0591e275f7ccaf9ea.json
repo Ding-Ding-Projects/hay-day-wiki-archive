@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_11.jpg",
+  "height": 1078,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 11.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-10-18T09:25:59Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AReputation%20Level%2011.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 264268,
+  "sourceSha1": "98bb58a1fe5ff832c06fb6c6e27deac626ca16be",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/47/Reputation_Level_11.jpg/revision/latest?cb=20161018092559",
+  "title": "File:Reputation Level 11.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1555
+}

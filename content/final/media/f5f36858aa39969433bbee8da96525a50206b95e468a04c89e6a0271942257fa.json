@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bay_Horse_Eating.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Bay Horse Eating.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-16T20:27:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABay%20Horse%20Eating.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 91678,
+  "sourceSha1": "d2f71f8ac4a70345bea101bfc1b5b070421ebcfd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/Bay_Horse_Eating.png/revision/latest?cb=20210716202737",
+  "title": "File:Bay Horse Eating.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

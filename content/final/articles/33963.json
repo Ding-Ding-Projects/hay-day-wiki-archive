@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich?action=history",
+    "importedAt": "2026-09-01T03:06:05.641Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich?oldid=94394",
+    "sourceRevisionId": 94394,
+    "sourceTitle": "Peanut Butter & Jelly Sandwich",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/peanut-butter-and-jelly-sandwich-33955\" title=\"Peanut Butter and Jelly Sandwich\" rel=\"noopener noreferrer\" target=\"_blank\">Peanut Butter and Jelly Sandwich</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030600\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33963-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030600 and revision id 94394. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "1ddbf747cd67db0f8edbd14d90ddb5464c885e47fac872aebdb5d51fb9773690",
+  "internalLinks": [
+    {
+      "route": "/wiki/peanut-butter-and-jelly-sandwich-33955",
+      "title": "Peanut Butter and Jelly Sandwich"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33963,
+  "redirectTarget": "Peanut Butter and Jelly Sandwich",
+  "referencedMediaIds": [],
+  "revisionId": 94394,
+  "revisionTimestamp": "2020-06-29T11:07:24Z",
+  "route": "/wiki/peanut-butter-jelly-sandwich-33963",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich",
+  "title": "Peanut Butter & Jelly Sandwich",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "2ae4fce4dd7aa785d80159bf5b8346a55cd31eba0518d49f64f9ed3c6f46def2"
+}

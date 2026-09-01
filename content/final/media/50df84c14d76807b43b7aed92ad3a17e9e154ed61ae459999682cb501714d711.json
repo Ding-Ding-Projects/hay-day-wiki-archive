@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Lantern.png",
+  "height": 565,
+  "immutableUrl": null,
+  "mediaId": "File:Winter Lantern.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T17:59:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWinter%20Lantern.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 111742,
+  "sourceSha1": "38a6ac83847c9d708f0a66bba8d1a05f9a7a8228",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fe/Winter_Lantern.png/revision/latest?cb=20180207175948",
+  "title": "File:Winter Lantern.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 565
+}

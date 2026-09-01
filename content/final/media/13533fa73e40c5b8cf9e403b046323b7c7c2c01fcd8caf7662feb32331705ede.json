@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Balloon_Maker_2025.png",
+  "height": 485,
+  "immutableUrl": null,
+  "mediaId": "File:Birthday Balloon Maker 2025.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-10-23T20:53:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABirthday%20Balloon%20Maker%202025.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 274946,
+  "sourceSha1": "68da272ed32c62eafcc3d959e7a0ab38d7c5ae5e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/30/Birthday_Balloon_Maker_2025.png/revision/latest?cb=20251023205322",
+  "title": "File:Birthday Balloon Maker 2025.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 485
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels?action=history",
+    "importedAt": "2026-09-01T02:48:35.166Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels?oldid=39828",
+    "sourceRevisionId": 39828,
+    "sourceTitle": "Category:Image Reputation Levels",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Images related to <a href=\"/wiki/reputation-14275\" title=\"Reputation\" rel=\"noopener noreferrer\" target=\"_blank\">Reputation</a> levels.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024829\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:17543-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024829 and revision id 39828. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "775fc4ec4e120e3b831d2a63b2eca560db6bf561841c5777e294468158c78075",
+  "internalLinks": [
+    {
+      "route": "/wiki/reputation-14275",
+      "title": "Reputation"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 17543,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 39828,
+  "revisionTimestamp": "2014-12-30T15:05:59Z",
+  "route": "/wiki/category%2Fcategory-image-reputation-levels-17543",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels",
+  "title": "Category:Image Reputation Levels",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "0bfdadbcd4afc34bb753ff47284c6cb5af653e3aea959b761b56a2367f356de1"
+}

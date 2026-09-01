@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Chamomile_Products?action=history",
+    "importedAt": "2026-09-01T03:10:16.838Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Chamomile_Products?oldid=108213",
+    "sourceRevisionId": 108213,
+    "sourceTitle": "Category:Chamomile Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Chamomile_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest?cb=20241209180843\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chamomile\" src=\"https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest/scale-to-width-down/180?cb=20241209180843\" loading=\"lazy\" width=\"180\" height=\"138\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/media/File%3AChamomile.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/chamomile-36216\" title=\"Chamomile\" rel=\"noopener noreferrer\" target=\"_blank\">Chamomile</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031013\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36354-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031013 and revision id 108213. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "484ba26dc363ac0eb6c46536d564cf2a8dc094f7155f6b746a34a30afb06cdba",
+  "internalLinks": [
+    {
+      "route": "/wiki/chamomile-36216",
+      "title": "Chamomile"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36354,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Chamomile.png"
+  ],
+  "revisionId": 108213,
+  "revisionTimestamp": "2025-08-05T19:59:51Z",
+  "route": "/wiki/category%2Fcategory-chamomile-products-36354",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chamomile_Products",
+  "title": "Category:Chamomile Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "663e6540f7871545b388afb1eaf78f925ec2b80fa83b50d227b230fd930f5214"
+}

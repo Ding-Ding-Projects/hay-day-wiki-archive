@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sandcastle.png",
+  "height": 1062,
+  "immutableUrl": null,
+  "mediaId": "File:Sandcastle.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T12:01:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASandcastle.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 442421,
+  "sourceSha1": "db4bd52d57244c839203c4f93ccecec83a87329e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/54/Sandcastle.png/revision/latest?cb=20150715120116",
+  "title": "File:Sandcastle.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1062
+}

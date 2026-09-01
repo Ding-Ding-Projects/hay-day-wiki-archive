@@ -1,0 +1,422 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Egg?action=history",
+    "importedAt": "2026-09-01T02:24:10.644Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Egg?oldid=109709",
+    "sourceRevisionId": 109709,
+    "sourceTitle": "Egg",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Collecting_eggs",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Collecting eggs</b>",
+      "text": "<b>Collecting eggs</b>"
+    },
+    {
+      "anchor": "Selling_eggs",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Selling eggs</b>",
+      "text": "<b>Selling eggs</b>"
+    },
+    {
+      "anchor": "Using_eggs",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Using eggs</b>",
+      "text": "<b>Using eggs</b>"
+    },
+    {
+      "anchor": "Boat_orders",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Boat orders</b>",
+      "text": "<b>Boat orders</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Egg?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" title=\"Egg\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Egg</figcaption></figure>\n<p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\"><a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">Animal good</a></h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 1</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" src=\"https://static.wikia.nocookie.net/hayday/images/f/f0/Coins.png/revision/latest/scale-to-width-down/25?cb=20160223180814\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> 1 to 18</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>time</span><span title=\"Production/Building time\"><span class=\"mw-default-size\"><span title=\"time\"><img alt=\"time\" src=\"https://static.wikia.nocookie.net/hayday/images/3/35/Clock.png/revision/latest/scale-to-width-down/25?cb=20160228103426\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span>  20 min</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 2</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Source </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>Chicken</span><span title=\"Chicken(s)\"><span class=\"mw-default-size\"><a href=\"/wiki/chicken-2409\" title=\"Chicken\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chicken\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span></span></div>\n</div>\n\n</section>\n<section class=\"pi-item pi-group pi-border-color pi-collapse pi-collapse-closed\">\n\t<h2 class=\"pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background\">+</h2>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Default: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 5</div>\n</div>\n\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t\t<h3 class=\"pi-data-label pi-secondary-font\">Also: </h3>\n\t\n\t<div class=\"pi-data-value pi-font\"><span>dia</span><span title=\"Diamond(s)\"><span class=\"mw-default-size\"><span title=\"dia\"><img alt=\"dia\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> 2</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p><p><b>Eggs</b> are <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal goods</a> unlocked at <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 1.\n</p><p>They are the first type of goods unlocked in the game and, by far, the most widely used in other recipes.\n</p><p>Like all goods, they are stored in the <a href=\"/wiki/barn-2652\" title=\"Barn\" rel=\"noopener noreferrer\" target=\"_blank\">barn</a>.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Collecting eggs</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Chicken.gif/revision/latest?cb=20160415172651\" class=\"mw-file-description image\" title=\"Collecting eggs\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Collecting eggs\" loading=\"lazy\" width=\"200\" height=\"147\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Collecting eggs</figcaption></figure>\n<p>Eggs are collected from <a href=\"/wiki/chicken-2409\" title=\"Chicken\" rel=\"noopener noreferrer\" target=\"_blank\">chickens</a> which have been fed <a href=\"/wiki/chicken-feed-2086\" title=\"Chicken Feed\" rel=\"noopener noreferrer\" target=\"_blank\">chicken feed</a>. Once fed, each chicken needs 20 minutes to make an egg.\n</p><p>Collecting an egg gives players 2 <span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Selling eggs</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Roadside Shop\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Roadside Shop</figcaption></figure>\n<ul><li>Egg can be bought or sold for a maximum price of 180 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> for 10 units.</li>\n<li>A <a href=\"/wiki/chicken-2409\" title=\"Chicken\" rel=\"noopener noreferrer\" target=\"_blank\">chicken</a> costs between 10 and 270 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span> and a <a href=\"/wiki/chicken-coop-2715\" title=\"Chicken Coop\" rel=\"noopener noreferrer\" target=\"_blank\">chicken coop</a> 5 <span>coin</span><span title=\"Coin(s)\"><span class=\"mw-default-size\"><span title=\"coin\"><img alt=\"coin\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element lazyload\" loading=\"lazy\"></span></span></span>.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using eggs</b></span></h3>\n<p>Eggs are used to make the following <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>:\n</p><p><br>\n</p>\n<table>\n\n<tbody><tr>\n<td>\n<p><span><a href=\"/wiki/corn-bread-2090\" title=\"Corn bread\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Corn bread\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/pancake-2337\" title=\"Pancake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pancake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td>\n<td>\n<p><span><a href=\"/wiki/cookie-2085\" title=\"Cookie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cookie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</p>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/corn-bread-2090\" title=\"Corn Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Corn Bread</a></b>\n</td>\n<td><b><a href=\"/wiki/pancake-2337\" title=\"Pancake\" rel=\"noopener noreferrer\" target=\"_blank\">Pancake</a></b>\n</td>\n<td><b><a href=\"/wiki/cookie-2085\" title=\"Cookie\" rel=\"noopener noreferrer\" target=\"_blank\">Cookie</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 7\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 9\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 10\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/bacon-and-eggs-2069\" title=\"Bacon and eggs\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bacon and eggs\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/carrot-pie-2089\" title=\"Carrot pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Carrot pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/pumpkin-pie-2088\" title=\"Pumpkin pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pumpkin pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bacon-and-eggs-2069\" title=\"Bacon and Eggs\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon and Eggs</a></b>\n</td>\n<td><b><a href=\"/wiki/carrot-pie-2089\" title=\"Carrot Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Carrot Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/pumpkin-pie-2088\" title=\"Pumpkin Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Pumpkin Pie</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 11\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 14\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 15\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/bacon-pie-2308\" title=\"Bacon pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Bacon pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/raspberry-muffin-2283\" title=\"Raspberry muffin\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Raspberry muffin\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/red-berry-cake-2254\" title=\"Red berry cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Red berry cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/bacon-pie-2308\" title=\"Bacon Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Bacon Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/raspberry-muffin-2283\" title=\"Raspberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Raspberry Muffin</a></b>\n</td>\n<td><b><a href=\"/wiki/red-berry-cake-2254\" title=\"Red Berry Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Red Berry Cake</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 18\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 19\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 23\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/blackberry-muffin-2295\" title=\"Blackberry muffin\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blackberry muffin\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/apple-pie-2278\" title=\"Apple pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Apple pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/fish-pie-5877\" title=\"Fish pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Fish pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blackberry-muffin-2295\" title=\"Blackberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Blackberry Muffin</a></b>\n</td>\n<td><b><a href=\"/wiki/apple-pie-2278\" title=\"Apple Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/fish-pie-5877\" title=\"Fish Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Fish Pie</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 26\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 28\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 28\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/blueberry-muffin-36424\" title=\"Blueberry muffin\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Blueberry muffin\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/feta-pie-2290\" title=\"Feta pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Feta pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/casserole-2695\" title=\"Casserole\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Casserole\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/blueberry-muffin-36424\" title=\"Blueberry Muffin\" rel=\"noopener noreferrer\" target=\"_blank\">Blueberry Muffin</a></b>\n</td>\n<td><b><a href=\"/wiki/feta-pie-2290\" title=\"Feta Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Feta Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/casserole-2695\" title=\"Casserole\" rel=\"noopener noreferrer\" target=\"_blank\">Casserole</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 33\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 34\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 36\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/potato-feta-cake-2700\" title=\"Potato feta cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Potato feta cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/potato-bread-2707\" title=\"Potato bread\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Potato bread\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/honey-apple-cake-15785\" title=\"Honey apple cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey apple cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/potato-feta-cake-2700\" title=\"Potato Feta Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Potato Feta Cake</a></b>\n</td>\n<td><b><a href=\"/wiki/potato-bread-2707\" title=\"Potato Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Potato Bread</a></b>\n</td>\n<td><b><a href=\"/wiki/honey-apple-cake-15785\" title=\"Honey Apple Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Honey Apple Cake</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 38\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 39\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 42\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/asparagus-quiche-35814\" title=\"Asparagus quiche\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Asparagus quiche\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/mayonnaise-8931\" title=\"Mayonnaise\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mayonnaise\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/egg-sushi-8970\" title=\"Egg sushi\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg sushi\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/asparagus-quiche-35814\" title=\"Asparagus Quiche\" rel=\"noopener noreferrer\" target=\"_blank\">Asparagus Quiche</a></b>\n</td>\n<td><b><a href=\"/wiki/mayonnaise-8931\" title=\"Mayonnaise\" rel=\"noopener noreferrer\" target=\"_blank\">Mayonnaise</a></b>\n</td>\n<td><b><a href=\"/wiki/egg-sushi-8970\" title=\"Egg Sushi\" rel=\"noopener noreferrer\" target=\"_blank\">Egg Sushi</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x4</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 49\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 62\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 63\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/pineapple-cake-30782\" title=\"Pineapple cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pineapple cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/chocolate-pie-34691\" title=\"Chocolate pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Chocolate pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/lemon-curd-10558\" title=\"Lemon curd\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lemon curd\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pineapple-cake-30782\" title=\"Pineapple Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Pineapple Cake</a></b>\n</td>\n<td><b><a href=\"/wiki/chocolate-pie-34691\" title=\"Chocolate Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Chocolate Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/lemon-curd-10558\" title=\"Lemon Curd\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon Curd</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 65\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 65\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 66\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/egg-sandwich-9429\" title=\"Egg sandwich\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg sandwich\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/lemon-pie-10559\" title=\"Lemon pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lemon pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/fresh-pasta-19449\" title=\"Fresh pasta\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Fresh pasta\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/egg-sandwich-9429\" title=\"Egg Sandwich\" rel=\"noopener noreferrer\" target=\"_blank\">Egg Sandwich</a></b>\n</td>\n<td><b><a href=\"/wiki/lemon-pie-10559\" title=\"Lemon Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/fresh-pasta-19449\" title=\"Fresh Pasta\" rel=\"noopener noreferrer\" target=\"_blank\">Fresh Pasta</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 66\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 67\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 67\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/lemon-cake-10560\" title=\"Lemon cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Lemon cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/honey-toast-15783\" title=\"Honey toast\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey toast\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/fried-rice-32966\" title=\"Fried rice\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Fried rice\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/lemon-cake-10560\" title=\"Lemon Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Lemon Cake</a></b>\n</td>\n<td><b><a href=\"/wiki/honey-toast-15783\" title=\"Honey Toast\" rel=\"noopener noreferrer\" target=\"_blank\">Honey Toast</a></b>\n</td>\n<td><b><a href=\"/wiki/fried-rice-32966\" title=\"Fried Rice\" rel=\"noopener noreferrer\" target=\"_blank\">Fried Rice</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x5</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 68\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 69\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 69\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/noodle-soup-19466\" title=\"Noodle soup\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Noodle soup\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/peach-tart-24933\" title=\"Peach tart\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Peach tart\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/big-sushi-roll-29373\" title=\"Big sushi roll\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Big sushi roll\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/noodle-soup-19466\" title=\"Noodle Soup\" rel=\"noopener noreferrer\" target=\"_blank\">Noodle Soup</a></b>\n</td>\n<td><b><a href=\"/wiki/peach-tart-24933\" title=\"Peach Tart\" rel=\"noopener noreferrer\" target=\"_blank\">Peach Tart</a></b>\n</td>\n<td><b><a href=\"/wiki/big-sushi-roll-29373\" title=\"Big Sushi Roll\" rel=\"noopener noreferrer\" target=\"_blank\">Big Sushi Roll</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 73\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 76\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 76\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/plain-donut-34940\" title=\"Plain donut\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plain donut\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/colourful-omelet-35816\" title=\"Colourful omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Colourful omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/spring-omelet-35815\" title=\"Spring omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Spring omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/plain-donut-34940\" title=\"Plain Donut\" rel=\"noopener noreferrer\" target=\"_blank\">Plain Donut</a></b>\n</td>\n<td><b><a href=\"/wiki/colourful-omelet-35816\" title=\"Colourful Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Colourful Omelet</a></b>\n</td>\n<td><b><a href=\"/wiki/spring-omelet-35815\" title=\"Spring Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Spring Omelet</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 76\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 77\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 77\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/cheese-omelet-35817\" title=\"Cheese omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cheese omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/pasta-carbonara-28427\" title=\"Pasta carbonara\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pasta carbonara\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/rice-omelet-35869\" title=\"Rice omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Rice omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/cheese-omelet-35817\" title=\"Cheese Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Cheese Omelet</a></b>\n</td>\n<td><b><a href=\"/wiki/pasta-carbonara-28427\" title=\"Pasta Carbonara\" rel=\"noopener noreferrer\" target=\"_blank\">Pasta Carbonara</a></b>\n</td>\n<td><b><a href=\"/wiki/rice-omelet-35869\" title=\"Rice Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Rice Omelet</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 79\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 83\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 83\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/potato-omelet-35870\" title=\"Potato omelet\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Potato omelet\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/banana-bread-26412\" title=\"Banana bread\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Banana bread\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/hand-pies-33968\" title=\"Hand pies\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Hand pies\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/potato-omelet-35870\" title=\"Potato Omelet\" rel=\"noopener noreferrer\" target=\"_blank\">Potato Omelet</a></b>\n</td>\n<td><b><a href=\"/wiki/banana-bread-26412\" title=\"Banana Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Banana Bread</a></b>\n</td>\n<td><b><a href=\"/wiki/hand-pies-33968\" title=\"Hand Pies\" rel=\"noopener noreferrer\" target=\"_blank\">Hand Pies</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 87\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 91\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 91\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/passion-fruit-pie-35185\" title=\"Passion fruit pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Passion fruit pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/mushroom-pot-pie-34835\" title=\"Mushroom pot pie\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Mushroom pot pie\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/honey-face-mask-34852\" title=\"Honey face mask\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Honey face mask\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/passion-fruit-pie-35185\" title=\"Passion Fruit Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Passion Fruit Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/mushroom-pot-pie-34835\" title=\"Mushroom Pot Pie\" rel=\"noopener noreferrer\" target=\"_blank\">Mushroom Pot Pie</a></b>\n</td>\n<td><b><a href=\"/wiki/honey-face-mask-34852\" title=\"Honey Face Mask\" rel=\"noopener noreferrer\" target=\"_blank\">Honey Face Mask</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 92\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 97\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 99\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/pomegranate-cake-35746\" title=\"Pomegranate cake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Pomegranate cake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/plain-cupcake-35637\" title=\"Plain cupcake\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plain cupcake\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td><span><a href=\"/wiki/plain-waffles-35744\" title=\"Plain waffles\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Plain waffles\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/pomegranate-cake-35746\" title=\"Pomegranate Cake\" rel=\"noopener noreferrer\" target=\"_blank\">Pomegranate Cake</a></b>\n</td>\n<td><b><a href=\"/wiki/plain-cupcake-35637\" title=\"Plain Cupcake\" rel=\"noopener noreferrer\" target=\"_blank\">Plain Cupcake</a></b>\n</td>\n<td><b><a href=\"/wiki/plain-waffles-35744\" title=\"Plain Waffles\" rel=\"noopener noreferrer\" target=\"_blank\">Plain Waffles</a></b>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x2</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x3</b>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 108\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 109\n</td>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 114\n</td></tr>\n<tr>\n<td><span><a href=\"/wiki/breakfast-waffles-35811\" title=\"Breakfast waffles\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Breakfast waffles\" loading=\"lazy\" width=\"75\" height=\"75\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b><a href=\"/wiki/breakfast-waffles-35811\" title=\"Breakfast Waffles\" rel=\"noopener noreferrer\" target=\"_blank\">Breakfast Waffles</a></b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a href=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest?cb=20191025193420\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Egg\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a></span><b>x1</b>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">Level</a> 119\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Boat orders</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"/wiki/boat-2675\" title=\"Riverboat\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Riverboat\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Riverboat</figcaption></figure>\n<ul><li><a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">Boat</a> orders ask for&#160;15 to 24 eggs per crate, up to a total of 92&#160;per boat.</li></ul>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Most recipes require 1 to 4 eggs, with the exception of <a href=\"/wiki/fried-rice-32966\" title=\"Fried Rice\" rel=\"noopener noreferrer\" target=\"_blank\">Fried Rice</a> which requires 5.</li>\n<li>Eggs are so common that selling them at high prices may result in fewer or slower sales.</li></ul>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/bacon-2267\" title=\"Bacon (35 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f6/Bacon.png/revision/latest/scale-to-width-down/50?cb=20191025193433\" title=\"Bacon (35 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Bacon (35 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/duck-feather-17011\" title=\"Duck Feather (44 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f9/Duck_Feather.png/revision/latest/scale-to-width-down/50?cb=20150414212143\" title=\"Duck Feather (44 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Duck Feather (44 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/egg-2058\" title=\"Egg (17 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/26/Egg.png/revision/latest/scale-to-width-down/50?cb=20191025193420\" title=\"Egg (17 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Egg (17 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/fish-fillet-18999\" title=\"Fish Fillet (36 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/63/Fish_Fillet.png/revision/latest/scale-to-width-down/50?cb=20150414211348\" title=\"Fish Fillet (36 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Fish Fillet (36 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/goat-milk-2299\" title=\"Goat Milk (52 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/45/Goat_Milk.png/revision/latest/scale-to-width-down/50?cb=20191025193509\" title=\"Goat Milk (52 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Goat Milk (52 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/honeycomb-15787\" title=\"Honeycomb (103 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/7c/Honeycomb.png/revision/latest/scale-to-width-down/50?cb=20191025193524\" title=\"Honeycomb (103 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Honeycomb (103 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lamb-chop-36740\" title=\"Lamb Chop (289 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/7/72/Lamb_Chop.png/revision/latest/scale-to-width-down/50?cb=20260512222547\" title=\"Lamb Chop (289 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lamb Chop (289 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/lobster-tail-8470\" title=\"Lobster Tail (40 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5d/Lobster_Tail.png/revision/latest/scale-to-width-down/50?cb=20150411101115\" title=\"Lobster Tail (40 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Lobster Tail (40 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/milk-2141\" title=\"Milk (36 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/92/Milk.png/revision/latest/scale-to-width-down/50?cb=20191025193427\" title=\"Milk (36 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Milk (36 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/peanuts-33962\" title=\"Peanuts (90 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9b/Peanuts.png/revision/latest/scale-to-width-down/43?cb=20200707051034\" title=\"Peanuts (90 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Peanuts (90 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wool-2270\" title=\"Wool (47 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/3/34/Wool.png/revision/latest/scale-to-width-down/50?cb=20191025193439\" title=\"Wool (47 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wool (47 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260831093418\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.148 seconds\nReal time usage: 0.242 seconds\nPreprocessor visited node count: 574/1000000\nPost‐expand include size: 27698/2097152 bytes\nTemplate argument size: 121/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 12081/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.009/7.000 seconds\nLua memory usage: 1400597/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   76.606      1 -total\n 54.52%   41.768      1 Template:Infobox\n 25.85%   19.805     11 Template:Infoicon\n 24.59%   18.836      1 Template:Navigation\n 20.58%   15.767      1 Template:AnimalGoodsMenu\n 12.41%    9.506      1 Template:Item_Usage\n  2.13%    1.631      1 Template:Languages\n  2.03%    1.556      1 Template:PageDisplay\n  1.60%    1.228      4 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:2058-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831093418 and revision id 109709. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "090eb7f53cd54dbf4f61abafd9276a609cc2f5bb64801e1334edc6c52298329e",
+  "internalLinks": [
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/apple-pie-2278",
+      "title": "Apple Pie"
+    },
+    {
+      "route": "/wiki/asparagus-quiche-35814",
+      "title": "Asparagus Quiche"
+    },
+    {
+      "route": "/wiki/bacon-2267",
+      "title": "Bacon"
+    },
+    {
+      "route": "/wiki/bacon-and-eggs-2069",
+      "title": "Bacon and Eggs"
+    },
+    {
+      "route": "/wiki/bacon-pie-2308",
+      "title": "Bacon Pie"
+    },
+    {
+      "route": "/wiki/banana-bread-26412",
+      "title": "Banana Bread"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/big-sushi-roll-29373",
+      "title": "Big Sushi Roll"
+    },
+    {
+      "route": "/wiki/blackberry-muffin-2295",
+      "title": "Blackberry Muffin"
+    },
+    {
+      "route": "/wiki/blueberry-muffin-36424",
+      "title": "Blueberry Muffin"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/breakfast-waffles-35811",
+      "title": "Breakfast Waffles"
+    },
+    {
+      "route": "/wiki/carrot-pie-2089",
+      "title": "Carrot Pie"
+    },
+    {
+      "route": "/wiki/casserole-2695",
+      "title": "Casserole"
+    },
+    {
+      "route": "/wiki/cheese-omelet-35817",
+      "title": "Cheese Omelet"
+    },
+    {
+      "route": "/wiki/chicken-2409",
+      "title": "Chicken"
+    },
+    {
+      "route": "/wiki/chicken-coop-2715",
+      "title": "Chicken Coop"
+    },
+    {
+      "route": "/wiki/chicken-feed-2086",
+      "title": "Chicken Feed"
+    },
+    {
+      "route": "/wiki/chocolate-pie-34691",
+      "title": "Chocolate Pie"
+    },
+    {
+      "route": "/wiki/colourful-omelet-35816",
+      "title": "Colourful Omelet"
+    },
+    {
+      "route": "/wiki/cookie-2085",
+      "title": "Cookie"
+    },
+    {
+      "route": "/wiki/corn-bread-2090",
+      "title": "Corn Bread"
+    },
+    {
+      "route": "/wiki/duck-feather-17011",
+      "title": "Duck Feather"
+    },
+    {
+      "route": "/wiki/egg-2058",
+      "title": "Egg"
+    },
+    {
+      "route": "/wiki/egg-sandwich-9429",
+      "title": "Egg Sandwich"
+    },
+    {
+      "route": "/wiki/egg-sushi-8970",
+      "title": "Egg Sushi"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/feta-pie-2290",
+      "title": "Feta Pie"
+    },
+    {
+      "route": "/wiki/fish-fillet-18999",
+      "title": "Fish Fillet"
+    },
+    {
+      "route": "/wiki/fish-pie-5877",
+      "title": "Fish Pie"
+    },
+    {
+      "route": "/wiki/fresh-pasta-19449",
+      "title": "Fresh Pasta"
+    },
+    {
+      "route": "/wiki/fried-rice-32966",
+      "title": "Fried Rice"
+    },
+    {
+      "route": "/wiki/goat-milk-2299",
+      "title": "Goat Milk"
+    },
+    {
+      "route": "/wiki/hand-pies-33968",
+      "title": "Hand Pies"
+    },
+    {
+      "route": "/wiki/honey-apple-cake-15785",
+      "title": "Honey Apple Cake"
+    },
+    {
+      "route": "/wiki/honey-face-mask-34852",
+      "title": "Honey Face Mask"
+    },
+    {
+      "route": "/wiki/honey-toast-15783",
+      "title": "Honey Toast"
+    },
+    {
+      "route": "/wiki/honeycomb-15787",
+      "title": "Honeycomb"
+    },
+    {
+      "route": "/wiki/lamb-chop-36740",
+      "title": "Lamb Chop"
+    },
+    {
+      "route": "/wiki/lemon-cake-10560",
+      "title": "Lemon Cake"
+    },
+    {
+      "route": "/wiki/lemon-curd-10558",
+      "title": "Lemon Curd"
+    },
+    {
+      "route": "/wiki/lemon-pie-10559",
+      "title": "Lemon Pie"
+    },
+    {
+      "route": "/wiki/lobster-tail-8470",
+      "title": "Lobster Tail"
+    },
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    },
+    {
+      "route": "/wiki/mayonnaise-8931",
+      "title": "Mayonnaise"
+    },
+    {
+      "route": "/wiki/milk-2141",
+      "title": "Milk"
+    },
+    {
+      "route": "/wiki/mushroom-pot-pie-34835",
+      "title": "Mushroom Pot Pie"
+    },
+    {
+      "route": "/wiki/noodle-soup-19466",
+      "title": "Noodle Soup"
+    },
+    {
+      "route": "/wiki/pancake-2337",
+      "title": "Pancake"
+    },
+    {
+      "route": "/wiki/passion-fruit-pie-35185",
+      "title": "Passion Fruit Pie"
+    },
+    {
+      "route": "/wiki/pasta-carbonara-28427",
+      "title": "Pasta Carbonara"
+    },
+    {
+      "route": "/wiki/peach-tart-24933",
+      "title": "Peach Tart"
+    },
+    {
+      "route": "/wiki/peanuts-33962",
+      "title": "Peanuts"
+    },
+    {
+      "route": "/wiki/pineapple-cake-30782",
+      "title": "Pineapple Cake"
+    },
+    {
+      "route": "/wiki/plain-cupcake-35637",
+      "title": "Plain Cupcake"
+    },
+    {
+      "route": "/wiki/plain-donut-34940",
+      "title": "Plain Donut"
+    },
+    {
+      "route": "/wiki/plain-waffles-35744",
+      "title": "Plain Waffles"
+    },
+    {
+      "route": "/wiki/pomegranate-cake-35746",
+      "title": "Pomegranate Cake"
+    },
+    {
+      "route": "/wiki/potato-bread-2707",
+      "title": "Potato Bread"
+    },
+    {
+      "route": "/wiki/potato-feta-cake-2700",
+      "title": "Potato Feta Cake"
+    },
+    {
+      "route": "/wiki/potato-omelet-35870",
+      "title": "Potato Omelet"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/pumpkin-pie-2088",
+      "title": "Pumpkin Pie"
+    },
+    {
+      "route": "/wiki/raspberry-muffin-2283",
+      "title": "Raspberry Muffin"
+    },
+    {
+      "route": "/wiki/red-berry-cake-2254",
+      "title": "Red Berry Cake"
+    },
+    {
+      "route": "/wiki/rice-omelet-35869",
+      "title": "Rice Omelet"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/spring-omelet-35815",
+      "title": "Spring Omelet"
+    },
+    {
+      "route": "/wiki/wool-2270",
+      "title": "Wool"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 2058,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Apple Pie.png",
+    "File:Asparagus Quiche.png",
+    "File:Bacon and Eggs.png",
+    "File:Bacon Pie.png",
+    "File:Bacon.png",
+    "File:Banana Bread.png",
+    "File:Big Sushi Roll.png",
+    "File:Blackberry Muffin.png",
+    "File:Blueberry Muffin.png",
+    "File:Breakfast Waffles.png",
+    "File:Carrot Pie.png",
+    "File:Casserole.png",
+    "File:Cheese Omelet.png",
+    "File:Chicken.gif",
+    "File:Chicken.png",
+    "File:Chocolate Pie.png",
+    "File:Clock.png",
+    "File:Coins.png",
+    "File:Colourful Omelet.png",
+    "File:Cookie.png",
+    "File:Corn Bread.png",
+    "File:Diamond.png",
+    "File:Duck Feather.png",
+    "File:Egg Sandwich.png",
+    "File:Egg Sushi.png",
+    "File:Egg.png",
+    "File:Experience.png",
+    "File:Feta Pie.png",
+    "File:Fish Fillet.png",
+    "File:Fish Pie.png",
+    "File:Fresh Pasta.png",
+    "File:Fried Rice.png",
+    "File:Goat Milk.png",
+    "File:Hand Pies.png",
+    "File:Honey Apple Cake.png",
+    "File:Honey Face Mask.png",
+    "File:Honey Toast.png",
+    "File:Honeycomb.png",
+    "File:Lamb Chop.png",
+    "File:Lemon Cake.png",
+    "File:Lemon Curd.png",
+    "File:Lemon Pie.png",
+    "File:Lobster Tail.png",
+    "File:Mayonnaise.png",
+    "File:Milk.png",
+    "File:Mushroom Pot Pie.png",
+    "File:Noodle Soup.png",
+    "File:Pancake.png",
+    "File:Passion Fruit Pie.png",
+    "File:Pasta Carbonara.png",
+    "File:Peach Tart.png",
+    "File:Peanuts.png",
+    "File:Pineapple Cake.png",
+    "File:Plain Cupcake.png",
+    "File:Plain Donut.png",
+    "File:Plain Waffles.png",
+    "File:Pomegranate Cake.png",
+    "File:Potato Bread.png",
+    "File:Potato Feta Cake.png",
+    "File:Potato Omelet.png",
+    "File:Pumpkin Pie.png",
+    "File:Raspberry Muffin.png",
+    "File:Red Berry Cake.png",
+    "File:Rice Omelet.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Spring Omelet.png",
+    "File:Wool.png"
+  ],
+  "revisionId": 109709,
+  "revisionTimestamp": "2026-04-29T20:22:25Z",
+  "route": "/wiki/egg-2058",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Egg",
+  "title": "Egg",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c29f016924608be809a23bd2e8ad2f25c2341969f21ebc0faa8f3572d2b0ef9c"
+}

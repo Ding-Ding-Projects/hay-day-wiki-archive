@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Levels?action=history",
+    "importedAt": "2026-09-01T03:02:23.823Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Levels?oldid=98533",
+    "sourceRevisionId": 98533,
+    "sourceTitle": "Levels",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Levels?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Info\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Info.svg/revision/latest/scale-to-width-down/70?cb=20180220000724\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This article is a disambiguation page for Levels.</b>\n<p>If an <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FLevels\" title=\"Special:WhatLinksHere/Levels\" rel=\"noopener noreferrer\" target=\"_blank\">internal link</a> led you here, you may wish to change the link to point directly to the intended article.<b></b>\n</p>\n</td></tr></tbody></table><p><br>\n</p><p><br>\n<b>Levels</b> may refer to:<br>\n</p>\n<ul><li><a href=\"/wiki/experience-levels-2057\" title=\"Experience Levels\" rel=\"noopener noreferrer\" target=\"_blank\">Experience Levels</a></li>\n<li><a href=\"/wiki/reputation-levels-28799\" title=\"Reputation Levels\" rel=\"noopener noreferrer\" target=\"_blank\">Reputation Levels</a></li></ul>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831150411\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.011 seconds\nReal time usage: 0.015 seconds\nPreprocessor visited node count: 60/1000000\nPost‐expand include size: 968/2097152 bytes\nTemplate argument size: 226/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    5.169      1 -total\n 69.38%    3.586      1 Template:Disambig\n 29.66%    1.533      1 Template:Languages\n 23.72%    1.226      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28802-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831150411 and revision id 98533. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "768ee5b1d8f9039442f7910b3c10b342f34ceb77377bd63104bbfd9cc7264d1e",
+  "internalLinks": [
+    {
+      "route": "/wiki/experience-levels-2057",
+      "title": "Experience Levels"
+    },
+    {
+      "route": "/wiki/reputation-levels-28799",
+      "title": "Reputation Levels"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 28802,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Info.svg"
+  ],
+  "revisionId": 98533,
+  "revisionTimestamp": "2021-08-31T20:35:09Z",
+  "route": "/wiki/levels-28802",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Levels",
+  "title": "Levels",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "0cb649cd4317ce06a8aad666cdaa393b848628724c852a238ae39adb9cacef2a"
+}

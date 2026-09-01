@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Warning.svg",
+  "height": 512,
+  "immutableUrl": null,
+  "mediaId": "File:Warning.svg",
+  "mediaType": "DRAWING",
+  "mime": "image/svg+xml",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-20T03:38:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWarning.svg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 371,
+  "sourceSha1": "b076a64a6a362986c75a9d2bc7bca6f2a82b3b79",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/17/Warning.svg/revision/latest?cb=20180220033857",
+  "title": "File:Warning.svg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 512
+}

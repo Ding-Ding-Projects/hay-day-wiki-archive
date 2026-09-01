@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Audio?action=history",
+    "importedAt": "2026-09-01T03:04:24.023Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Audio?oldid=95419",
+    "sourceRevisionId": 95419,
+    "sourceTitle": "Category:Audio",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Audio?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\">\n<!-- \nNewPP limit report\nCached time: 20260831193847\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:31817-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831193847 and revision id 95419. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "c5da562785bca347137a37df11f2f600dd311b92df742258b5b2d9d2f93e9667",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 31817,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 95419,
+  "revisionTimestamp": "2020-08-18T01:44:29Z",
+  "route": "/wiki/category%2Fcategory-audio-31817",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Audio",
+  "title": "Category:Audio",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "d793048ed4ad9006f6ac463204af475596228bf5ada75fcb7846a99243338175"
+}

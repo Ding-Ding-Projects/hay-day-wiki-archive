@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueprint.png",
+  "height": 455,
+  "immutableUrl": null,
+  "mediaId": "File:Blueprint.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-28T13:02:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ABlueprint.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 168376,
+  "sourceSha1": "c4f8e29bdc935241e75e03ab30ef03b876a67331",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/Blueprint.png/revision/latest?cb=20200428130230",
+  "title": "File:Blueprint.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 566
+}

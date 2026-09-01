@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb.png",
+  "height": 811,
+  "immutableUrl": null,
+  "mediaId": "File:Lamb.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-10T12:23:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALamb.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 407517,
+  "sourceSha1": "fcff5c462a2324a90ada451008a9924a54f92f9c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/56/Lamb.png/revision/latest?cb=20260510122300",
+  "title": "File:Lamb.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 796
+}

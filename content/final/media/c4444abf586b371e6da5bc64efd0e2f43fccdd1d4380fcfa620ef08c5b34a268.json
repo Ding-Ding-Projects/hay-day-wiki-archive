@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Generosity_Title.png",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:Generosity Title.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-08-20T22:40:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGenerosity%20Title.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 579276,
+  "sourceSha1": "5d0de7c54043023a023287d1e4b547a1c520983f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Generosity_Title.png/revision/latest?cb=20160820224052",
+  "title": "File:Generosity Title.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1200
+}

@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Vacation_Mode?action=history",
+    "importedAt": "2026-09-01T03:10:09.533Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Vacation_Mode?oldid=107529",
+    "sourceRevisionId": 107529,
+    "sourceTitle": "Vacation Mode",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Vacation_Mode_is_an_event_triggered_when_a_player_logs_in_on_a_farm_that_has_not_been_active_for_over_31_days_and_if_the_player_has_not_triggered_this_event_in_the_last_365_days.",
+      "index": "1",
+      "level": 4,
+      "line": "<b>Vacation Mode</b> is an event triggered when a player logs in on a farm that has not been active for over 31 days and if the player has not triggered this event in the last 365 days.",
+      "text": "<b>Vacation Mode</b> is an event triggered when a player logs in on a farm that has not been active for over 31 days and if the player has not triggered this event in the last 365 days."
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Vacation_Mode?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><h4><span class=\"mw-headline\"><b>Vacation Mode</b> is an event triggered when a player logs in on a farm that has not been active for over 31 days and if the player has not triggered this event in the last 365 days.</span></h4>\n<p>This mode gives you re-engagement rewards<sup class=\"reference\"><a rel=\"noopener noreferrer\" target=\"_blank\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup> which are as follows:\n</p>\n<ul><li>2 days of Special Offers from Visitors</li>\n<li>1 free day of Tom’s services</li>\n<li>1 free day of tree, bush and rock removal</li>\n<li>1 free Silo upgrade:</li></ul>\n<p><span><a href=\"https://static.wikia.nocookie.net/hayday/images/7/77/Free_Silo_upgrade.jpg/revision/latest?cb=20250310121334\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"An image of what it looks like to get a free Silo/Barn upgrade after vacation mode\" src=\"https://static.wikia.nocookie.net/hayday/images/7/77/Free_Silo_upgrade.jpg/revision/latest/scale-to-width-down/300?cb=20250310121334\" loading=\"lazy\" width=\"300\" height=\"139\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</p>\n<ul><li>1 free Barn upgrade:</li></ul>\n<p><span><a href=\"https://static.wikia.nocookie.net/hayday/images/d/d3/Free_Barn_Upgrade.jpg/revision/latest?cb=20250310121714\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"An image of what it looks like to get a free Barn upgrade after vacation mode\" src=\"https://static.wikia.nocookie.net/hayday/images/d/d3/Free_Barn_Upgrade.jpg/revision/latest/scale-to-width-down/300?cb=20250310121714\" loading=\"lazy\" width=\"300\" height=\"139\" class=\"mw-file-element\" loading=\"lazy\"></a></span>\n</p>\n<ul><li>All Animals will be fed on your return</li></ul>\n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li><span class=\"mw-cite-backlink\"><a rel=\"noopener noreferrer\" target=\"_blank\">↑</a></span> <span class=\"reference-text\"><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external free\" href=\"https://support.supercell.com/hay-day/en/articles/re-engagement-rewards.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://support.supercell.com/hay-day/en/articles/re-engagement-rewards.html</a></span>\n</li>\n</ol></div>\n<!-- \nNewPP limit report\nCached time: 20260831172003\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 13/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 155/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36288-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831172003 and revision id 107529. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "d58b04987be8fa406c96a752c2a50eea3e08577e6d9d01a7a67076837ccecc7f",
+  "internalLinks": [],
+  "namespace": 0,
+  "pageId": 36288,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Free Barn Upgrade.jpg",
+    "File:Free Silo upgrade.jpg"
+  ],
+  "revisionId": 107529,
+  "revisionTimestamp": "2025-03-10T12:18:19Z",
+  "route": "/wiki/vacation-mode-36288",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Vacation_Mode",
+  "title": "Vacation Mode",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "5dec0c2fbc9dd0159cadefdfb09e4c5ef2887a2b060be68a10e125932dfc23b9"
+}

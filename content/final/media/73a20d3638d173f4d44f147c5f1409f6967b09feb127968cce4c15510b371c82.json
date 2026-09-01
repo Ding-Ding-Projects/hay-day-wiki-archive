@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fruit_Sorbet.png",
+  "height": 565,
+  "immutableUrl": null,
+  "mediaId": "File:Fruit Sorbet.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-11T15:06:14Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFruit%20Sorbet.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 170424,
+  "sourceSha1": "bba9766ee25bec40293d1803fc0cfce045cf3220",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Fruit_Sorbet.png/revision/latest?cb=20240411150614",
+  "title": "File:Fruit Sorbet.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 565
+}

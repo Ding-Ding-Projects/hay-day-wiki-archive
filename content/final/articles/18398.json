@@ -1,0 +1,47 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Tabby?action=history",
+    "importedAt": "2026-09-01T02:51:10.411Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Tabby?oldid=58180",
+    "sourceRevisionId": 58180,
+    "sourceTitle": "Tabby",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Tabby?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><table>\n<tbody><tr>\n<td><span><span><img alt=\"Info\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Info.svg/revision/latest/scale-to-width-down/70?cb=20180220000724\" loading=\"lazy\" width=\"70\" height=\"70\" class=\"mw-file-element\" loading=\"lazy\"></span></span>\n</td>\n<td><b>This article is a disambiguation page for Tabby.</b>\n<p>If an <a href=\"/unavailable-source?title=Special%3AWhatLinksHere%2FTabby\" title=\"Special:WhatLinksHere/Tabby\" rel=\"noopener noreferrer\" target=\"_blank\">internal link</a> led you here, you may wish to change the link to point directly to the intended article.<b></b>\n</p>\n</td></tr></tbody></table><p><br>\n</p><p><br>\n<b>Tabby</b> may refer to:<br>\n</p>\n<ul><li><a href=\"/wiki/tabby-cat-2533\" title=\"Tabby Cat\" rel=\"noopener noreferrer\" target=\"_blank\">Tabby Cat</a>, the adult form of the tabby kitten</li>\n<li><a href=\"/wiki/tabby-kitten-18342\" title=\"Tabby Kitten\" rel=\"noopener noreferrer\" target=\"_blank\">Tabby Kitten</a>, the infant form of the tabby cat</li></ul>\n<!-- \nNewPP limit report\nCached time: 20260901025014\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 24/1000000\nPost‐expand include size: 895/2097152 bytes\nTemplate argument size: 210/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.817      1 Template:Disambig\n100.00%    4.817      1 -total\n 27.63%    1.331      1 Template:MessageBox\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:18398-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025014 and revision id 58180. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "498e6dcf8dd49688ee3261e2b95a8a313e7ac534c7787aa88f0ff60c60673297",
+  "internalLinks": [
+    {
+      "route": "/wiki/tabby-cat-2533",
+      "title": "Tabby Cat"
+    },
+    {
+      "route": "/wiki/tabby-kitten-18342",
+      "title": "Tabby Kitten"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 18398,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Info.svg"
+  ],
+  "revisionId": 58180,
+  "revisionTimestamp": "2016-01-26T17:40:44Z",
+  "route": "/wiki/tabby-18398",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Tabby",
+  "title": "Tabby",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "c14308175edadd97deac290d94741b0a2984dd81a41ff7456e5ac868f96ac63f"
+}

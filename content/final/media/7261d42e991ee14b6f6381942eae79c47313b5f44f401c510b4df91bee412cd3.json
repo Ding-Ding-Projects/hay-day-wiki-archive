@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lvl117v2.jpg",
+  "height": 1027,
+  "immutableUrl": null,
+  "mediaId": "File:Lvl117v2.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-04-27T22:26:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALvl117v2.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1027845,
+  "sourceSha1": "86e172f79ad8ff71dd9f9ed22db708eb119f3212",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/eb/Lvl117v2.jpg/revision/latest?cb=20250427222636",
+  "title": "File:Lvl117v2.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1361
+}

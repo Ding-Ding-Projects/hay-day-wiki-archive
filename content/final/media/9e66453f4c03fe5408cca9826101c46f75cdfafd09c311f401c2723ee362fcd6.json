@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sheep.png",
+  "height": 469,
+  "immutableUrl": null,
+  "mediaId": "File:Sheep.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-25T20:36:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASheep.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 140002,
+  "sourceSha1": "39e8ab1beb56598c6951ddf5bf09b70bc689c3f2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/Sheep.png/revision/latest?cb=20191025203649",
+  "title": "File:Sheep.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 469
+}

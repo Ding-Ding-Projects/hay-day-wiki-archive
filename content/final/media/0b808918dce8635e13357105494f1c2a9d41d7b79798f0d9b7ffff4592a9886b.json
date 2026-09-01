@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cinema.png",
+  "height": 2220,
+  "immutableUrl": null,
+  "mediaId": "File:Cinema.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-19T11:39:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACinema.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 6680499,
+  "sourceSha1": "4e588ab9e6f1f56e008795c5103082f770e3b01e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/39/Cinema.png/revision/latest?cb=20240219113957",
+  "title": "File:Cinema.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2220
+}

@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/FAQ?action=history",
+    "importedAt": "2026-09-01T03:05:29.101Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/FAQ?oldid=93091",
+    "sourceRevisionId": 93091,
+    "sourceTitle": "FAQ",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/FAQ?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/faqs-7046\" title=\"FAQs\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030525\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33407-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030525 and revision id 93091. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "5083eadad323bd116c70c89b3f091d38f683aa56d2be242e889d1af4897392cc",
+  "internalLinks": [
+    {
+      "route": "/wiki/faqs-7046",
+      "title": "FAQs"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 33407,
+  "redirectTarget": "FAQs",
+  "referencedMediaIds": [],
+  "revisionId": 93091,
+  "revisionTimestamp": "2020-04-11T17:38:16Z",
+  "route": "/wiki/faq-33407",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/FAQ",
+  "title": "FAQ",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "cff4f5f38161afad8184f80b9b194d55ae2e7febfbb52d3af4f5e566c2386a2f"
+}

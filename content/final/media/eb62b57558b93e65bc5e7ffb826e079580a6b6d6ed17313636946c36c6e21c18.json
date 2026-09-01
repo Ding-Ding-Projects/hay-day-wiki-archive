@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chili_Pepper.png",
+  "height": 200,
+  "immutableUrl": null,
+  "mediaId": "File:Chili Pepper.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-23T15:13:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChili%20Pepper.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 14777,
+  "sourceSha1": "85cf3b3d9fbb0db77d3729055fb520bb3d2606ed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Chili_Pepper.png/revision/latest?cb=20191023151351",
+  "title": "File:Chili Pepper.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

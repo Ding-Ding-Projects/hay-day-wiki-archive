@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pasta_Kitchen.png",
+  "height": 847,
+  "immutableUrl": null,
+  "mediaId": "File:Pasta Kitchen.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-09-25T22:19:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APasta%20Kitchen.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 553535,
+  "sourceSha1": "96d4e040f1667605d4d23e06676280779cb6dc44",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6b/Pasta_Kitchen.png/revision/latest?cb=20250925221934",
+  "title": "File:Pasta Kitchen.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 847
+}

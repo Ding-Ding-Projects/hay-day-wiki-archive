@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Tail.png",
+  "height": 200,
+  "immutableUrl": null,
+  "mediaId": "File:Lobster Tail.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-04-11T10:11:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALobster%20Tail.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 41235,
+  "sourceSha1": "1fde2fb5b8ba5508c2e28d08ccaad47050427ea5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Lobster_Tail.png/revision/latest?cb=20150411101115",
+  "title": "File:Lobster Tail.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

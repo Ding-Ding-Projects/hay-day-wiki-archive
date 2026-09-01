@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Furry_Friends.png",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Furry Friends.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-12-08T15:02:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFurry%20Friends.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 87946,
+  "sourceSha1": "8c28d4b25a431a3734a24b2d8d5fa7291b52b7f9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Furry_Friends.png/revision/latest?cb=20211208150249",
+  "title": "File:Furry Friends.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 823
+}

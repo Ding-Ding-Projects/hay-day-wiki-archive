@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mavis.png",
+  "height": 849,
+  "immutableUrl": null,
+  "mediaId": "File:Mavis.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-07-19T10:17:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AMavis.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 487426,
+  "sourceSha1": "4e5b942648e8eb5e85134ae3f4ba41ad816b094a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7c/Mavis.png/revision/latest?cb=20260719101721",
+  "title": "File:Mavis.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 583
+}

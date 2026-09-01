@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Cotton_Fabric_Products?action=history",
+    "importedAt": "2026-09-01T03:06:52.547Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Cotton_Fabric_Products?oldid=98557",
+    "sourceRevisionId": 98557,
+    "sourceTitle": "Category:Cotton Fabric Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Cotton_Fabric_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/01/Cotton_Fabric.png/revision/latest?cb=20240207155935\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Cotton Fabric\" src=\"https://static.wikia.nocookie.net/hayday/images/0/01/Cotton_Fabric.png/revision/latest/scale-to-width-down/180?cb=20240207155935\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ACotton_Fabric.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/cotton-fabric-14252\" title=\"Cotton Fabric\" rel=\"noopener noreferrer\" target=\"_blank\">Cotton Fabric</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030650\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35080-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030650 and revision id 98557. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "8711b237ab2720a4b38b633bd6552736b796039253a072aecfb6765c24a7ebc4",
+  "internalLinks": [
+    {
+      "route": "/wiki/cotton-fabric-14252",
+      "title": "Cotton Fabric"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35080,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Cotton Fabric.png"
+  ],
+  "revisionId": 98557,
+  "revisionTimestamp": "2021-08-31T20:58:45Z",
+  "route": "/wiki/category%2Fcategory-cotton-fabric-products-35080",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cotton_Fabric_Products",
+  "title": "Category:Cotton Fabric Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "dfaf41812dafdd1c0c1ebf1716ecb609c8d7005fcc366269ae13a461a0245875"
+}

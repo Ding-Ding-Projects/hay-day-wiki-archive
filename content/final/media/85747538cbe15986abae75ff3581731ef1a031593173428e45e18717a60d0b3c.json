@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grape_Juice.png",
+  "height": 185,
+  "immutableUrl": null,
+  "mediaId": "File:Grape Juice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-23T07:02:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGrape%20Juice.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 28897,
+  "sourceSha1": "b723f60fc70e9e8c3fe695563caec82060c0722e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Grape_Juice.png/revision/latest?cb=20240223070201",
+  "title": "File:Grape Juice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 185
+}

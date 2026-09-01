@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Yellow_Planks.png",
+  "height": 256,
+  "immutableUrl": null,
+  "mediaId": "File:Walls Yellow Planks.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-04T22:53:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWalls%20Yellow%20Planks.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 213923,
+  "sourceSha1": "bba722c3b41724565e2b03d7d33e6165d8f47db5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/57/Walls_Yellow_Planks.png/revision/latest?cb=20180604225332",
+  "title": "File:Walls Yellow Planks.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 278
+}

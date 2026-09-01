@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Needs_Update?action=history",
+    "importedAt": "2026-09-01T03:02:23.824Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Needs_Update?oldid=89069",
+    "sourceRevisionId": 89069,
+    "sourceTitle": "Category:Needs Update",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Needs_Update?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>Pages, templates and categories which need to be updated when/after updates go live.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030217\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:28953-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030217 and revision id 89069. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "91df0fbb6f035a014fd823f049c4fa347f0528b4d896925a47347f3e00c0ff69",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 28953,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 89069,
+  "revisionTimestamp": "2019-10-26T04:15:20Z",
+  "route": "/wiki/category%2Fcategory-needs-update-28953",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Needs_Update",
+  "title": "Category:Needs Update",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "9f922d99ca54c07a6d13bc26662944382869f1124f6fba9be6ed236646605a22"
+}

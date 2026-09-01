@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Angus.png",
+  "height": 670,
+  "immutableUrl": null,
+  "mediaId": "File:Angus.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-28T16:29:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AAngus.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 268320,
+  "sourceSha1": "35d47df213f7b4b7ca9449533cd94e5c4a2d02e3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/bd/Angus.png/revision/latest?cb=20191028162936",
+  "title": "File:Angus.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 670
+}

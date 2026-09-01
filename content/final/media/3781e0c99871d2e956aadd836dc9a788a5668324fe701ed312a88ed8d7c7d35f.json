@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Super_Booster_Dairy_5.png",
+  "height": 522,
+  "immutableUrl": null,
+  "mediaId": "File:Super Booster Dairy 5.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-08-14T05:04:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ASuper%20Booster%20Dairy%205.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 523942,
+  "sourceSha1": "e600c248d5c6d9e2240f986e390d177c9ea5d60d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f6/Super_Booster_Dairy_5.png/revision/latest?cb=20250814050438",
+  "title": "File:Super Booster Dairy 5.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 463
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Shop_Stage_1.png",
+  "height": 975,
+  "immutableUrl": null,
+  "mediaId": "File:Gift Shop Stage 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-13T20:50:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGift%20Shop%20Stage%201.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 786230,
+  "sourceSha1": "20d52d52f68b7fa3a1bc77cb2c2b05d125dc605f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/21/Gift_Shop_Stage_1.png/revision/latest?cb=20150713205045",
+  "title": "File:Gift Shop Stage 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 975
+}

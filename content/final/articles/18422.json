@@ -1,0 +1,361 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Derby?action=history",
+    "importedAt": "2026-09-01T02:51:10.423Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Derby?oldid=105594",
+    "sourceRevisionId": 105594,
+    "sourceTitle": "Derby",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Duration",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Duration</b>",
+      "text": "<b>Duration</b>"
+    },
+    {
+      "anchor": "Matching",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Matching</b>",
+      "text": "<b>Matching</b>"
+    },
+    {
+      "anchor": "Leagues",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Leagues</b>",
+      "text": "<b>Leagues</b>"
+    },
+    {
+      "anchor": "Tasks",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Tasks</b>",
+      "text": "<b>Tasks</b>"
+    },
+    {
+      "anchor": "Combo_tasks_and_mystery_tasks",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Combo tasks and mystery tasks</b>",
+      "text": "<b>Combo tasks and mystery tasks</b>"
+    },
+    {
+      "anchor": "Managing_tasks",
+      "index": "6",
+      "level": 3,
+      "line": "<b>Managing tasks</b>",
+      "text": "<b>Managing tasks</b>"
+    },
+    {
+      "anchor": "Points_and_horseshoes",
+      "index": "7",
+      "level": 3,
+      "line": "<b>Points and horseshoes</b>",
+      "text": "<b>Points and horseshoes</b>"
+    },
+    {
+      "anchor": "Horseshoe_rewards",
+      "index": "8",
+      "level": 3,
+      "line": "<b>Horseshoe rewards</b>",
+      "text": "<b>Horseshoe rewards</b>"
+    },
+    {
+      "anchor": "Top_3_rewards",
+      "index": "9",
+      "level": 3,
+      "line": "<b>Top 3 rewards</b>",
+      "text": "<b>Top 3 rewards</b>"
+    },
+    {
+      "anchor": "League_ladder",
+      "index": "10",
+      "level": 3,
+      "line": "<b>League ladder</b>",
+      "text": "<b>League ladder</b>"
+    },
+    {
+      "anchor": "Champions_League_leaderboard",
+      "index": "11",
+      "level": 3,
+      "line": "<b>Champions League leaderboard</b>",
+      "text": "<b>Champions League leaderboard</b>"
+    },
+    {
+      "anchor": "Opting_out",
+      "index": "12",
+      "level": 3,
+      "line": "<b>Opting out</b>",
+      "text": "<b>Opting out</b>"
+    },
+    {
+      "anchor": "Achievements",
+      "index": "13",
+      "level": 3,
+      "line": "<b>Achievements</b>",
+      "text": "<b>Achievements</b>"
+    },
+    {
+      "anchor": "Strategy_tips",
+      "index": "14",
+      "level": 3,
+      "line": "<b>Strategy tips</b>",
+      "text": "<b>Strategy tips</b>"
+    },
+    {
+      "anchor": "Tutorials",
+      "index": "15",
+      "level": 3,
+      "line": "<b>Tutorials</b>",
+      "text": "<b>Tutorials</b>"
+    },
+    {
+      "anchor": "Table_of_task_probabilities",
+      "index": "16",
+      "level": 3,
+      "line": "<b>Table of task probabilities</b>",
+      "text": "<b>Table of task probabilities</b>"
+    },
+    {
+      "anchor": "Table_of_derby_checkpoints",
+      "index": "17",
+      "level": 3,
+      "line": "<b>Table of derby checkpoints</b>",
+      "text": "<b>Table of derby checkpoints</b>"
+    },
+    {
+      "anchor": "References",
+      "index": "18",
+      "level": 3,
+      "line": "<b>References</b>",
+      "text": "<b>References</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Derby?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p>\n<div class=\"note\"><i><b>Be careful:</b> You may experience some bugs while doing the Derby. Some tasks can be duplicated once you've finished them. The duplicate  won't give you any points. Support recommends you trash it. Failed tasks can also appear to be still active in your log (no red cross, not grayed out). They're not.</i></div>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/e/e8/Derby_Stand.png/revision/latest?cb=20150712192526\" class=\"mw-file-description image\" title=\"Derby stand\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Derby stand\" loading=\"lazy\" width=\"200\" height=\"200\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Derby stand</figcaption></figure>\n<p><b>Derbies are limited events</b> that occur in <a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">neighborhoods</a> from <a href=\"/wiki/experience-19023\" title=\"Experience\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> level 18 onwards.\n</p><p>Every week, a derby (a horse race) starts between neighborhoods and give them the opportunity to win prizes. The derby stand unlocks as the player repairs the neighborhood house.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Duration</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/8/83/Derby_Break.png/revision/latest?cb=20151018165655\" class=\"mw-file-description image\" title=\"Derby break\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Derby break</figcaption></figure>\n<p><br>\nDerbies <b> last 6 days</b>, from 8am UTC on Tuesdays to 8am UTC on Mondays. During the 24-hour cool down period members can opt out, opt back in or participate in the next derby with a different neighborhood.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Matching</b></span></h3>\n<p>A maximum of <b>15 random neighborhoods</b> compete against each other in the same league. A neighborhood is matched only with those with the same number of players who opted in to play derby, regardless of the total number of players in the neighborhood. Matching begins at the moment the first task is selected.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Leagues</b></span></h3>\n<p><b>Leagues</b> determine the number of tasks players can complete and, consequently, the number of rewards they can get. One extra task, purchased with 10 <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>, is available in every league.\n</p><p>There are five leagues:\n</p>\n<figure class=\"mw-halign-center\"><a href=\"https://static.wikia.nocookie.net/hayday/images/5/58/Derby_Leagues.png/revision/latest?cb=20151129155425\" class=\"mw-file-description image\" title=\"Leagues\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Leagues\" loading=\"lazy\" width=\"500\" height=\"280\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Leagues</figcaption></figure>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Tasks</b></span></h3>\n<p><i>Main article: <a href=\"/wiki/derby-tasks-19761\" title=\"Derby Tasks\" rel=\"noopener noreferrer\" target=\"_blank\">Derby Tasks</a></i>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/9/96/Derby_Task_Board.png/revision/latest?cb=20151018164933\" class=\"mw-file-description image\" title=\"Task board\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Task board</figcaption></figure>\n<p><br>\nCompleting a <b>task</b> gives players derby points.  There are 12 different types of tasks.\n</p><p><br>\n</p><p><br>\n<b>Time limited tasks:</b>\n</p>\n<ul><li>Feeding <a href=\"/wiki/animals-3602\" title=\"Animals\" rel=\"noopener noreferrer\" target=\"_blank\">animals</a></li>\n<li>Planting and harvesting fields</li>\n<li>Collecting one type of <a href=\"/wiki/animal-goods-7457\" title=\"Animal Goods\" rel=\"noopener noreferrer\" target=\"_blank\">animal goods</a></li>\n<li>Making and collecting a specific <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">product</a></li>\n<li>Filling <a href=\"/wiki/truck-2673\" title=\"Truck\" rel=\"noopener noreferrer\" target=\"_blank\">truck</a> orders</li></ul>\n<p><br>\n<b>Non-time-limited tasks:</b>\n</p>\n<ul><li>Helping other farmers with their <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> orders and their dead <a href=\"/wiki/trees-and-bushes-7454\" title=\"Trees and Bushes\" rel=\"noopener noreferrer\" target=\"_blank\">trees and bushes</a></li>\n<li>Extracting ore from the <a href=\"/wiki/mine-7452\" title=\"Mine\" rel=\"noopener noreferrer\" target=\"_blank\">mine</a></li>\n<li>Filling <a href=\"/wiki/boat-2675\" title=\"Boat\" rel=\"noopener noreferrer\" target=\"_blank\">boat</a> orders</li>\n<li><a href=\"/wiki/fishing-7449\" title=\"Fishing\" rel=\"noopener noreferrer\" target=\"_blank\">Fishing</a> with <a href=\"/wiki/lure-5882\" title=\"Lure\" rel=\"noopener noreferrer\" target=\"_blank\">lures</a></li>\n<li>Fully serving any type of <a href=\"/wiki/town-visitors-13241\" title=\"Town Visitors\" rel=\"noopener noreferrer\" target=\"_blank\">town visitors</a></li>\n<li>Fully serving a specific type of town visitors</li>\n<li>Serving town visitors in a specific <a href=\"/wiki/service-buildings-24540\" title=\"Service Buildings\" rel=\"noopener noreferrer\" target=\"_blank\">service building</a></li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>Combo tasks and mystery tasks</b></span></h3>\n<p><b>Combo tasks</b> (or basket tasks) are exactly the same types of tasks as mentioned above but less specific. For instance, instead of serving one type of town visitors 10 times, players will have to serve three types of visitors three times each. Depending on whether the original task is time-limited, the combo task will either be time-limited or not.\n</p><p>During <a href=\"/wiki/derby-themes-33583\" class=\"mw-redirect\" title=\"Derby Themes\" rel=\"noopener noreferrer\" target=\"_blank\">mystery derbies</a>, some tasks remain unknown until players pick them.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Managing tasks</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/b/be/Derby_Task_Log_Personal.png/revision/latest?cb=20151018181313\" class=\"mw-file-description image\" title=\"Personal task log\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Personal task log\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Personal task log</figcaption></figure>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/6/67/Derby_Task_Log_Neighborhood.png/revision/latest?cb=20171022154037\" class=\"mw-file-description image\" title=\"Neighborhood task log\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Neighborhood task log\" loading=\"lazy\" width=\"150\" height=\"157\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Neighborhood task log</figcaption></figure>\n<p>Each player can only choose one task at a time. Failing to complete a chosen task does not result in a penalty but still counts toward the player's task quota.\n</p><p>Neighborhood leaders, co-leaders, and elders can discard any non-selected task; a new task then replaces the discarded one 30 minutes later.\n</p><p>A player's list of completed or failed tasks is shown below the task board.\n</p><p>Neighborhood leaders can also display the neighborhood task log in the chat panel. It ranks members according to the number of tasks they have completed and the number of points they have earned. When a neighborhood competes It also displays the total number of trashed tasks for players in the Champions League.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Points and horseshoes</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/3/3e/Derby_Racetrack.png/revision/latest?cb=20171022180818\" class=\"mw-file-description image\" title=\"Racetrack\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Racetrack\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Racetrack</figcaption></figure>\n<p><b>Derby points</b> are won by completing tasks. Usually,&#160;tasks can give from 50 to 320 points. Players in higher leagues have more chances of getting high-value tasks on their boards (see the table below). During <a href=\"/wiki/derby-themes-33583\" class=\"mw-redirect\" title=\"Derby Themes\" rel=\"noopener noreferrer\" target=\"_blank\">thematic derbies</a>, some tasks can be worth up to 400 points.\n</p><p>When a neighborhood has reached a certain number of points - or flag, they win a horseshoe (see the table below).\n</p><p>Flags and points are displayed on the racetrack tab, which shows all neighborhood competing in the race.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Horseshoe rewards</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/a/a4/Derby_Rewards.png/revision/latest?cb=20170518113354\" class=\"mw-file-description image\" title=\"Rewards\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Rewards\" loading=\"lazy\" width=\"150\" height=\"112\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Rewards</figcaption></figure>\n<p><b>Rewards</b> are won by reaching horseshoes. Each horseshoe gives players the possibility to pick one reward out of three. Players who do not complete any tasks do not get any derby rewards.\n</p><p>Rewards can be one or more <a href=\"/wiki/supplies-23344\" title=\"Supplies\" rel=\"noopener noreferrer\" target=\"_blank\">supplies</a>, <a href=\"/wiki/products-3603\" title=\"Products\" rel=\"noopener noreferrer\" target=\"_blank\">products</a>, <a href=\"/wiki/voucher-3671\" title=\"Voucher\" rel=\"noopener noreferrer\" target=\"_blank\">vouchers</a>, <a href=\"/wiki/booster-28721\" class=\"mw-redirect\" title=\"Booster\" rel=\"noopener noreferrer\" target=\"_blank\">boosters</a>, <a href=\"/wiki/expansion-permit-27088\" title=\"Expansion Permit\" rel=\"noopener noreferrer\" target=\"_blank\">expansion permits</a>, <a href=\"/wiki/puzzle-piece-28177\" title=\"Puzzle Piece\" rel=\"noopener noreferrer\" target=\"_blank\">puzzle pieces</a>, <a href=\"/wiki/decorations-derby-24093\" title=\"Decorations/Derby\" rel=\"noopener noreferrer\" target=\"_blank\">exclusive decorations</a> or <a href=\"/wiki/diamond-2524\" title=\"Diamond\" rel=\"noopener noreferrer\" target=\"_blank\">diamonds</a>.\n</p><p>During some <a href=\"/wiki/derby-themes-33583\" class=\"mw-redirect\" title=\"Derby Themes\" rel=\"noopener noreferrer\" target=\"_blank\">thematic derbies</a>, players can get better rewards or additional rewards.\n</p><p>Players can use the reshuffle button to try and win different rewards by spending 5 diamonds.\n</p><p>Players who did not complete at least one task during the derby cannot claim their rewards.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Top 3 rewards</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/3/31/Derby_Win_Example_01.png/revision/latest?cb=20150413155819\" class=\"mw-file-description image\" title=\"Top 3 rewards\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Top 3 rewards\" loading=\"lazy\" width=\"150\" height=\"118\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Top 3 rewards</figcaption></figure>\n<p>Reaching the end of the derby in first, second or third place within your league gives the neighborhood a gold, silver or bronze trophy and additional random rewards. During some <a href=\"/wiki/derby-themes-33583\" class=\"mw-redirect\" title=\"Derby Themes\" rel=\"noopener noreferrer\" target=\"_blank\">thematic derbies</a>, top 3 neighborhoods get exclusive rewards instead.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>League ladder</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/d/d4/Champions_League.png/revision/latest?cb=20151123092228\" class=\"mw-file-description image\" title=\"League ladder\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"League ladder\" loading=\"lazy\" width=\"150\" height=\"98\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>League ladder</figcaption></figure>\n<p>Neighborhoods finishing a race in the top three are <b>promoted</b> to a higher league for the next derby.\n</p><p>Neighborhoods ranking in the bottom three and neighborhoods which did not reach the first horseshoe checkpoint move down to a lower league.\n</p><p>Other neighborhoods stay in their current leagues.\n</p><p>When all neighborhood members have opted out of a derby, the neighborhood is automatically <b>demoted</b> to the lower league.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Champions League leaderboard</b></span></h3>\n<p><i>Main article: <a href=\"/wiki/leaderboard-19046\" title=\"Leaderboard\" rel=\"noopener noreferrer\" target=\"_blank\">Leaderboard</a></i>\n</p>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/0/0b/Champions_League_Leaderboard.png/revision/latest?cb=20151130094708\" class=\"mw-file-description image\" title=\"Champions league leaderboard\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Champions league leaderboard\" loading=\"lazy\" width=\"150\" height=\"97\" class=\"mw-file-element lazyload\" loading=\"lazy\"></a><figcaption>Champions league leaderboard</figcaption></figure>\n<p>Top neighborhoods competing in the champions league are ranked in a <b>global leaderboard</b>. Scores are based on the neighborhood's average champion league points in the previous four weeks of competition. If a neighborhood is demoted to the expert league, they lose their leaderboard points.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Opting out</b></span></h3>\n<p>Players can <b>opt out</b> of the derby, or opt back in, at any time by (un)checking the appropriate option in their <a href=\"/wiki/settings-22791\" title=\"Settings\" rel=\"noopener noreferrer\" target=\"_blank\">settings</a>.\n</p><p>Players who have been inactive for a while are automatically opted out.\n</p><p><a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">Neighborhood</a> leaders and co-leaders can opt out members of their neighborhood. Members can opt back in if they want to. Co-leaders cannot opt leaders out.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Achievements</b></span></h3>\n<p><i>Main article: <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">Achievements</a></i>\n</p>\n<ul><li>Achieving tasks contributes toward the <i>Taskmaster</i> <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">achievement</a>.</li>\n<li>Accumulating points contributes toward the <i>Diligent Neighbor</i> <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">achievement</a>.</li>\n<li>Participating in Champions League derbies contributes toward the <i>Derby Champ</i> <a href=\"/wiki/achievements-6714\" title=\"Achievements\" rel=\"noopener noreferrer\" target=\"_blank\">achievement</a>.</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>Strategy tips</b></span></h3>\n<ul><li>Complete the task first, or go through the task midway, then select your event to save time.</li>\n<li>Coordinate with other members so you can help each other out.</li>\n<li>Neighborhoods with less than 4 members opting in cannot reach some horseshoe flags even if every member only picks 320-point tasks. This is a known limitation.</li>\n<li>Neighborhoods with 3 members opting in and completing ten 320-point tasks can reach the 8th horseshoe. Note that usually the 9th horseshoe reward usually does not include anything special such as expansion permits, puzzle pieces, boosters or special decorative items.</li>\n<li>It appears that horseshoe rewards currently follow this pattern. If a puzzle piece is included, it would appear at the 3rd and 6th horseshoes. Boosters are likely to appear at the 4th and 7th horseshoes. If an expansion permit is included, it would appear at the 5th and 8th horseshoes. So if you were interested in only expansion permits and puzzle pieces, you do not need to have more than 3 members opt in as the 9th horseshoe will not give you what you are looking for.</li>\n<li>Depending on your neighborhood's initial size and the league you're in it might be easier to move up the league ladder with more opted-in players, or oddly enough, less of them. Opted-out players can help opt-in players with some tasks (providing items for town, truck and boat orders, setting plants to be revived, making specific vistors available for pick up, etc.).</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>Tutorials</b></span></h3>\n<div></div>\n<figure class=\"mw-halign-left\"> <a href=\"/unavailable-source?media=File%3AHay_Day_Introducing_the_Neighborhood_Derby\" class=\"video video-thumbnail medium\" rel=\"noopener noreferrer\" target=\"_blank\"> \t<img alt=\"Hay_Day_Introducing_the_Neighborhood_Derby\" height=\"188\" width=\"335\" class=\"lazyload\" loading=\"lazy\"> \t<span class=\"thumbnail-play-icon-container\"> \t\t\t</span> </a> <figcaption></figcaption></figure>\n<div></div>\n<figure class=\"mw-halign-left\"> <a href=\"/unavailable-source?media=File%3AHay_Day_The_New_Derby_Leagues\" class=\"video video-thumbnail medium\" rel=\"noopener noreferrer\" target=\"_blank\"> \t<img alt=\"Hay_Day_The_New_Derby_Leagues\" height=\"188\" width=\"335\" class=\"lazyload\" loading=\"lazy\"> \t<span class=\"thumbnail-play-icon-container\"> \t\t\t</span> </a> <figcaption></figcaption></figure>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Table of task probabilities</b></span></h3>\n<table>\n<tbody><tr>\n<th>League\n</th>\n<th>Easy<br>(50-90)\n</th>\n<th>Medium<br>(120-190)\n</th>\n<th>Hard<br>(230-320)\n</th></tr>\n<tr>\n<td>Rookie</td>\n<td>30%</td>\n<td>30%</td>\n<td>40%\n</td></tr>\n<tr>\n<td>Novice</td>\n<td>20%</td>\n<td>30%</td>\n<td>50%\n</td></tr>\n<tr>\n<td>Professional</td>\n<td>15%</td>\n<td>25%</td>\n<td>60%\n</td></tr>\n<tr>\n<td>Expert</td>\n<td>10%</td>\n<td>20%</td>\n<td>70%\n</td></tr>\n<tr>\n<td>Champion</td>\n<td>0%</td>\n<td>0%</td>\n<td>100%\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>Table of derby checkpoints</b></span></h3>\n<p>This table lists the number of derby points neighborhoods must reach in the Champions League at each checkpoint according to their size.\n</p>\n<table>\n\n<tbody><tr>\n<th>No. of members\n</th>\n<th>Flag #1\n</th>\n<th>Flag #2\n</th>\n<th>Flag #3\n</th>\n<th>Flag #4\n</th>\n<th>Flag #5\n</th>\n<th>Flag #6\n</th>\n<th>Flag #7\n</th>\n<th>Flag #8\n</th>\n<th>Flag #9\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>450\n</td>\n<td>792\n</td>\n<td>1,134\n</td>\n<td>1,476\n</td>\n<td>1,818\n</td>\n<td>2,160\n</td>\n<td>2,502\n</td>\n<td>2,925\n</td>\n<td>3,186\n</td></tr>\n<tr>\n<td>2\n</td>\n<td>900\n</td>\n<td>1,584\n</td>\n<td>2,268\n</td>\n<td>2,952\n</td>\n<td>3,636\n</td>\n<td>4,320\n</td>\n<td>5,004\n</td>\n<td>5,850\n</td>\n<td>6,372\n</td></tr>\n<tr>\n<td>3\n</td>\n<td>1,350\n</td>\n<td>2,376\n</td>\n<td>3,402\n</td>\n<td>4,428\n</td>\n<td>5,454\n</td>\n<td>6,480\n</td>\n<td>7,506\n</td>\n<td>8,532\n</td>\n<td>9,558\n</td></tr>\n<tr>\n<td>4\n</td>\n<td>1,800\n</td>\n<td>3,024\n</td>\n<td>4,248\n</td>\n<td>5,472\n</td>\n<td>6,696\n</td>\n<td>7,920\n</td>\n<td>9,144\n</td>\n<td>10,368\n</td>\n<td>11,520\n</td></tr>\n<tr>\n<td>5\n</td>\n<td>2,250\n</td>\n<td>3,735\n</td>\n<td>5,220\n</td>\n<td>6,705\n</td>\n<td>8,190\n</td>\n<td>9,675\n</td>\n<td>11,160\n</td>\n<td>12,645\n</td>\n<td>13,950\n</td></tr>\n<tr>\n<td>6\n</td>\n<td>2,700\n</td>\n<td>4,482\n</td>\n<td>6,264\n</td>\n<td>8,046\n</td>\n<td>9,828\n</td>\n<td>11,610\n</td>\n<td>13,392\n</td>\n<td>15,174\n</td>\n<td>16,740\n</td></tr>\n<tr>\n<td>7\n</td>\n<td>2,835\n</td>\n<td>4,851\n</td>\n<td>6,867\n</td>\n<td>8,883\n</td>\n<td>10,899\n</td>\n<td>12,915\n</td>\n<td>14,931\n</td>\n<td>16,947\n</td>\n<td>18,900\n</td></tr>\n<tr>\n<td>8\n</td>\n<td>3,240\n</td>\n<td>5,544\n</td>\n<td>7,848\n</td>\n<td>10,152\n</td>\n<td>12,456\n</td>\n<td>14,760\n</td>\n<td>17,064\n</td>\n<td>19,368\n</td>\n<td>21,600\n</td></tr>\n<tr>\n<td>9\n</td>\n<td>3,645\n</td>\n<td>6,237\n</td>\n<td>8,829\n</td>\n<td>11,421\n</td>\n<td>14,013\n</td>\n<td>16,605\n</td>\n<td>19,197\n</td>\n<td>21,789\n</td>\n<td>24,300\n</td></tr>\n<tr>\n<td>10\n</td>\n<td>4,050\n</td>\n<td>6,930\n</td>\n<td>9,810\n</td>\n<td>12,690\n</td>\n<td>15,570\n</td>\n<td>18,450\n</td>\n<td>21,330\n</td>\n<td>24,210\n</td>\n<td>26,550\n</td></tr>\n<tr>\n<td>11\n</td>\n<td>4,455\n</td>\n<td>7,623\n</td>\n<td>10,791\n</td>\n<td>13,959\n</td>\n<td>17,127\n</td>\n<td>20,295\n</td>\n<td>23,463\n</td>\n<td>26,631\n</td>\n<td>29,205\n</td></tr>\n<tr>\n<td>12\n</td>\n<td>4,860\n</td>\n<td>8,316\n</td>\n<td>11,772\n</td>\n<td>15,228\n</td>\n<td>18,684\n</td>\n<td>22,140\n</td>\n<td>25,596\n</td>\n<td>29,052\n</td>\n<td>31,860\n</td></tr>\n<tr>\n<td>13\n</td>\n<td>4,680\n</td>\n<td>8,424\n</td>\n<td>12,168\n</td>\n<td>15,912\n</td>\n<td>19,656\n</td>\n<td>23,400\n</td>\n<td>27,144\n</td>\n<td>30,888\n</td>\n<td>34,515\n</td></tr>\n<tr>\n<td>14\n</td>\n<td>5,040\n</td>\n<td>9,072\n</td>\n<td>13,104\n</td>\n<td>17,136\n</td>\n<td>21,168\n</td>\n<td>25,200\n</td>\n<td>29,232\n</td>\n<td>33,264\n</td>\n<td>36,540\n</td></tr>\n<tr>\n<td>15\n</td>\n<td>5,400\n</td>\n<td>9,720\n</td>\n<td>14,040\n</td>\n<td>18,360\n</td>\n<td>22,680\n</td>\n<td>27,000\n</td>\n<td>31,320\n</td>\n<td>35,640\n</td>\n<td>39,150\n</td></tr>\n<tr>\n<td>16\n</td>\n<td>5,760\n</td>\n<td>10,368\n</td>\n<td>14,976\n</td>\n<td>19,584\n</td>\n<td>24,192\n</td>\n<td>28,800\n</td>\n<td>33,408\n</td>\n<td>38,016\n</td>\n<td>41,760\n</td></tr>\n<tr>\n<td>17\n</td>\n<td>6,120\n</td>\n<td>11,016\n</td>\n<td>15,912\n</td>\n<td>20,808\n</td>\n<td>25,704\n</td>\n<td>30,600\n</td>\n<td>35,496\n</td>\n<td>40,392\n</td>\n<td>44,370\n</td></tr>\n<tr>\n<td>18\n</td>\n<td>6,480\n</td>\n<td>11,664\n</td>\n<td>16,848\n</td>\n<td>22,032\n</td>\n<td>27,216\n</td>\n<td>32,400\n</td>\n<td>37,584\n</td>\n<td>42,768\n</td>\n<td>46,980\n</td></tr>\n<tr>\n<td>19\n</td>\n<td>5,985\n</td>\n<td>11,457\n</td>\n<td>16,929\n</td>\n<td>22,401\n</td>\n<td>27,873\n</td>\n<td>33,345\n</td>\n<td>38,817\n</td>\n<td>44,289\n</td>\n<td>49,590\n</td></tr>\n<tr>\n<td>20\n</td>\n<td>6,300\n</td>\n<td>12,060\n</td>\n<td>17,820\n</td>\n<td>23,580\n</td>\n<td>29,340\n</td>\n<td>35,100\n</td>\n<td>40,860\n</td>\n<td>46,620\n</td>\n<td>52,200\n</td></tr>\n<tr>\n<td>21\n</td>\n<td>6,615\n</td>\n<td>12,663\n</td>\n<td>18,711\n</td>\n<td>24,759\n</td>\n<td>30,807\n</td>\n<td>36,855\n</td>\n<td>42,903\n</td>\n<td>48,951\n</td>\n<td>54,810\n</td></tr>\n<tr>\n<td>22\n</td>\n<td>6,930\n</td>\n<td>13,266\n</td>\n<td>19,602\n</td>\n<td>25,938\n</td>\n<td>32,274\n</td>\n<td>38,610\n</td>\n<td>44,946\n</td>\n<td>51,282\n</td>\n<td>57,420\n</td></tr>\n<tr>\n<td>23\n</td>\n<td>7,245\n</td>\n<td>13,869\n</td>\n<td>20,493\n</td>\n<td>27,117\n</td>\n<td>33,741\n</td>\n<td>40,365\n</td>\n<td>46,989\n</td>\n<td>53,613\n</td>\n<td>58,995\n</td></tr>\n<tr>\n<td>24\n</td>\n<td>7,560\n</td>\n<td>14,472\n</td>\n<td>21,384\n</td>\n<td>28,296\n</td>\n<td>35,208\n</td>\n<td>42,120\n</td>\n<td>49,032\n</td>\n<td>55,944\n</td>\n<td>61,560\n</td></tr>\n<tr>\n<td>25\n</td>\n<td>7,875\n</td>\n<td>15,075\n</td>\n<td>22,275\n</td>\n<td>29,475\n</td>\n<td>36,675\n</td>\n<td>43,875\n</td>\n<td>51,075\n</td>\n<td>58,275\n</td>\n<td>64,125\n</td></tr>\n<tr>\n<td>26\n</td>\n<td>7,020\n</td>\n<td>14,508\n</td>\n<td>21,996\n</td>\n<td>29,484\n</td>\n<td>36,972\n</td>\n<td>44,460\n</td>\n<td>51,948\n</td>\n<td>59,436\n</td>\n<td>66,690\n</td></tr>\n<tr>\n<td>27\n</td>\n<td>7,290\n</td>\n<td>15,066\n</td>\n<td>22,842\n</td>\n<td>30,618\n</td>\n<td>38,394\n</td>\n<td>46,170\n</td>\n<td>53,946\n</td>\n<td>61,722\n</td>\n<td>69,255\n</td></tr>\n<tr>\n<td>28\n</td>\n<td>7,560\n</td>\n<td>15,624\n</td>\n<td>23,688\n</td>\n<td>31,752\n</td>\n<td>39,816\n</td>\n<td>47,880\n</td>\n<td>55,944\n</td>\n<td>64,008\n</td>\n<td>71,820\n</td></tr>\n<tr>\n<td>29\n</td>\n<td>7,830\n</td>\n<td>16,182\n</td>\n<td>24,534\n</td>\n<td>32,886\n</td>\n<td>41,238\n</td>\n<td>49,590\n</td>\n<td>57,942\n</td>\n<td>66,294\n</td>\n<td>74,385\n</td></tr>\n<tr>\n<td>30\n</td>\n<td>8,100\n</td>\n<td>16,740\n</td>\n<td>25,380\n</td>\n<td>34,020\n</td>\n<td>42,660\n</td>\n<td>51,300\n</td>\n<td>59,940\n</td>\n<td>68,580\n</td>\n<td>76,950\n</td></tr></tbody></table>\n<hr>\n<h3><span class=\"mw-headline\"><b>References</b></span></h3>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;s=neighbourhoods-derby\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell FAQs about derbies</a></li></ul>\n<p><br>\n</p>\n<ul><li><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://supercell.helpshift.com/a/hay-day/?p=web&amp;s=neighbourhoods-derby&amp;f=leagues-derby-task-probability\" rel=\"noopener noreferrer\" target=\"_blank\">Supercell Player Support: Leagues: Derby Task Probability</a></li></ul>\n<hr>\n<div class=\"navmenutitle\">See also</div><div class=\"navmenubox\">\n<div class=\"wikia-gallery wikia-gallery-caption-below wikia-gallery-position-center wikia-gallery-spacing-small wikia-gallery-border-none wikia-gallery-captions-center wikia-gallery-caption-size-medium\"><div class=\"wikia-gallery-caption\"></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/category%2Fcategory-animal-shelters-6565\" title=\"Category:Animal Shelters (467 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2e/Chicken_Coop.png/revision/latest/scale-to-width-down/50?cb=20150713110707\" title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Category:Animal Shelters (467 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/barn-2652\" title=\"Barn (331 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png/revision/latest/scale-to-width-down/50?cb=20250926033811\" title=\"Barn (331 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Barn (331 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/customization-29379\" title=\"Customization (201 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/49/Maggies_Workbench.png/revision/latest/scale-to-width-down/50?cb=20180413172742\" title=\"Customization (201 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Customization (201 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/broccoli-30746\" title=\"Broccoli (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Broccoli (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Broccoli (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/derby-18422\" title=\"Derby (576 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/e/e8/Derby_Stand.png/revision/latest/scale-to-width-down/50?cb=20150712192526\" title=\"Derby (576 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Derby (576 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/events-7210\" title=\"Events (34 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/9/9a/Event_Board.png/revision/latest/scale-to-width-down/50?cb=20191028162131\" title=\"Events (34 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Events (34 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/farmhouse-7542\" title=\"Farmhouse (30 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/c/c2/Farmhouse.png/revision/latest/scale-to-width-down/50?cb=20160215111547\" title=\"Farmhouse (30 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Farmhouse (30 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/fishing-lake-23340\" title=\"Fishing Lake (637 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/81/Fishing_Boat.png/revision/latest/scale-to-width-down/50?cb=20150712195437\" title=\"Fishing Lake (637 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Fishing Lake (637 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/leaderboard-19046\" title=\"Leaderboard (83 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Leaderboard.png/revision/latest/scale-to-width-down/50?cb=20150712195736\" title=\"Leaderboard (83 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Leaderboard (83 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mailbox-30439\" title=\"Mailbox (59 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/88/Mailbox.png/revision/latest/scale-to-width-down/31?cb=20141230172845\" title=\"Mailbox (59 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mailbox (59 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/daily-dirt-2679\" title=\"Daily Dirt (82 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/48/Newspaper_Mailbox.png/revision/latest/scale-to-width-down/50?cb=20150714100427\" title=\"Daily Dirt (82 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Daily Dirt (82 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/mine-7452\" title=\"Mine (133 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a0/Mine.png/revision/latest/scale-to-width-down/50?cb=20150714140453\" title=\"Mine (133 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Mine (133 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/neighborhood-10438\" title=\"Neighborhood (398 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/a/a6/Neighborhood_House.png/revision/latest/scale-to-width-down/50?cb=20160201170459\" title=\"Neighborhood (398 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Neighborhood (398 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/production-buildings-7699\" title=\"Production Buildings (237 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/4/47/Bakery.png/revision/latest/scale-to-width-down/50?cb=20260810195925\" title=\"Production Buildings (237 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Production Buildings (237 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/boat-2675\" title=\"Boat (516 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/2/2c/Riverboat.png/revision/latest/scale-to-width-down/50?cb=20150712182459\" title=\"Boat (516 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Boat (516 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/roadside-shop-2677\" title=\"Roadside Shop (250 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/09/Roadside_Shop.png/revision/latest/scale-to-width-down/50?cb=20191028143054\" title=\"Roadside Shop (250 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Roadside Shop (250 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/silo-2654\" title=\"Silo (228 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/5/5f/Silo.png/revision/latest/scale-to-width-down/50?cb=20250926033422\" title=\"Silo (228 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Silo (228 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/train-station-13239\" title=\"Train Station (628 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/f/f4/Farm_Train_Station.png/revision/latest/scale-to-width-down/50?cb=20150712184204\" title=\"Train Station (628 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Train Station (628 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/truck-2673\" title=\"Truck (132 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/0/01/Truck.png/revision/latest/scale-to-width-down/36?cb=20141207005356\" title=\"Truck (132 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Truck (132 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/valley-31465\" title=\"Valley (314 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/8/80/Valley_Board.png/revision/latest/scale-to-width-down/50?cb=20190625060045\" title=\"Valley (314 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Valley (314 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div><div class=\"wikia-gallery-item\"><div class=\"thumb\"><div class=\"gallery-image-wrapper\"><a class=\"image link-internal\" href=\"/wiki/wheel-of-fortune-2745\" title=\"Wheel of Fortune (313 KB)\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://static.wikia.nocookie.net/hayday/images/6/60/Wheel_of_Fortune.png/revision/latest/scale-to-width-down/50?cb=20150713123809\" title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"><img title=\"Wheel of Fortune (313 KB)\" class=\"thumbimage lazyload\" alt=\"\" height=\"50\" width=\"50\" loading=\"lazy\"></a></div></div></div></div></div>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260829185300\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.078 seconds\nReal time usage: 0.099 seconds\nPreprocessor visited node count: 261/1000000\nPost‐expand include size: 1524/2097152 bytes\nTemplate argument size: 451/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 23401/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   39.012      1 -total\n 74.90%   29.221      1 Template:FarmBuildingsMenu\n  5.15%    2.010      1 Template:Languages\n  4.25%    1.658      1 Template:Note\n  3.82%    1.491      3 Template:Main\n  3.69%    1.441      1 Template:PageDisplay\n  3.69%    1.438     12 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:18422-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260829185300 and revision id 105594. Rendering was triggered because: unknown\n -->\n</div>",
+  "htmlHash": "0b8763264b935f2213946c1a00468f1d3ca0cba9fc3863e0acb86a3f7cce0799",
+  "internalLinks": [
+    {
+      "route": "/wiki/achievements-6714",
+      "title": "Achievements"
+    },
+    {
+      "route": "/wiki/animal-goods-7457",
+      "title": "Animal Goods"
+    },
+    {
+      "route": "/wiki/animals-3602",
+      "title": "Animals"
+    },
+    {
+      "route": "/wiki/barn-2652",
+      "title": "Barn"
+    },
+    {
+      "route": "/wiki/boat-2675",
+      "title": "Boat"
+    },
+    {
+      "route": "/wiki/booster-28721",
+      "title": "Booster"
+    },
+    {
+      "route": "/wiki/broccoli-30746",
+      "title": "Broccoli"
+    },
+    {
+      "route": "/wiki/category%2Fcategory-animal-shelters-6565",
+      "title": "Category:Animal Shelters"
+    },
+    {
+      "route": "/wiki/customization-29379",
+      "title": "Customization"
+    },
+    {
+      "route": "/wiki/daily-dirt-2679",
+      "title": "Daily Dirt"
+    },
+    {
+      "route": "/wiki/decorations-derby-24093",
+      "title": "Decorations/Derby"
+    },
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/derby-tasks-19761",
+      "title": "Derby Tasks"
+    },
+    {
+      "route": "/wiki/derby-themes-33583",
+      "title": "Derby Themes"
+    },
+    {
+      "route": "/wiki/diamond-2524",
+      "title": "Diamond"
+    },
+    {
+      "route": "/wiki/events-7210",
+      "title": "Events"
+    },
+    {
+      "route": "/wiki/expansion-permit-27088",
+      "title": "Expansion Permit"
+    },
+    {
+      "route": "/wiki/experience-19023",
+      "title": "Experience"
+    },
+    {
+      "route": "/wiki/farmhouse-7542",
+      "title": "Farmhouse"
+    },
+    {
+      "route": "/wiki/fishing-7449",
+      "title": "Fishing"
+    },
+    {
+      "route": "/wiki/fishing-lake-23340",
+      "title": "Fishing Lake"
+    },
+    {
+      "route": "/wiki/leaderboard-19046",
+      "title": "Leaderboard"
+    },
+    {
+      "route": "/wiki/lure-5882",
+      "title": "Lure"
+    },
+    {
+      "route": "/wiki/mailbox-30439",
+      "title": "Mailbox"
+    },
+    {
+      "route": "/wiki/mine-7452",
+      "title": "Mine"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    },
+    {
+      "route": "/wiki/production-buildings-7699",
+      "title": "Production Buildings"
+    },
+    {
+      "route": "/wiki/products-3603",
+      "title": "Products"
+    },
+    {
+      "route": "/wiki/puzzle-piece-28177",
+      "title": "Puzzle Piece"
+    },
+    {
+      "route": "/wiki/roadside-shop-2677",
+      "title": "Roadside Shop"
+    },
+    {
+      "route": "/wiki/service-buildings-24540",
+      "title": "Service Buildings"
+    },
+    {
+      "route": "/wiki/settings-22791",
+      "title": "Settings"
+    },
+    {
+      "route": "/wiki/silo-2654",
+      "title": "Silo"
+    },
+    {
+      "route": "/wiki/supplies-23344",
+      "title": "Supplies"
+    },
+    {
+      "route": "/wiki/town-visitors-13241",
+      "title": "Town Visitors"
+    },
+    {
+      "route": "/wiki/train-station-13239",
+      "title": "Train Station"
+    },
+    {
+      "route": "/wiki/trees-and-bushes-7454",
+      "title": "Trees and Bushes"
+    },
+    {
+      "route": "/wiki/truck-2673",
+      "title": "Truck"
+    },
+    {
+      "route": "/wiki/valley-31465",
+      "title": "Valley"
+    },
+    {
+      "route": "/wiki/voucher-3671",
+      "title": "Voucher"
+    },
+    {
+      "route": "/wiki/wheel-of-fortune-2745",
+      "title": "Wheel of Fortune"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 18422,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Bakery.png",
+    "File:Barn.png",
+    "File:Champions League Leaderboard.png",
+    "File:Champions League.png",
+    "File:Chicken Coop.png",
+    "File:Derby Break.png",
+    "File:Derby Leagues.png",
+    "File:Derby Racetrack.png",
+    "File:Derby Rewards.png",
+    "File:Derby Stand.png",
+    "File:Derby Task Board.png",
+    "File:Derby Task Log Neighborhood.png",
+    "File:Derby Task Log Personal.png",
+    "File:Derby Win Example 01.png",
+    "File:Event Board.png",
+    "File:Farm Train Station.png",
+    "File:Farmhouse.png",
+    "File:Fishing Boat.png",
+    "File:Hay Day Introducing the Neighborhood Derby",
+    "File:Hay Day The New Derby Leagues",
+    "File:Leaderboard.png",
+    "File:Maggies Workbench.png",
+    "File:Mailbox.png",
+    "File:Mine.png",
+    "File:Neighborhood House.png",
+    "File:Newspaper Mailbox.png",
+    "File:Riverboat.png",
+    "File:Roadside Shop.png",
+    "File:Silo.png",
+    "File:Truck.png",
+    "File:Valley Board.png",
+    "File:Wheel of Fortune.png"
+  ],
+  "revisionId": 105594,
+  "revisionTimestamp": "2024-07-18T14:45:04Z",
+  "route": "/wiki/derby-18422",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Derby",
+  "title": "Derby",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "baaa75e8c34f904e30ab45d967da896af3c4e7b1f96439fa3ff925d050c802fd"
+}

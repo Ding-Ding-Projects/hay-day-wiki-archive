@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Teacher.png",
+  "height": 398,
+  "immutableUrl": null,
+  "mediaId": "File:Teacher.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-07-19T21:05:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATeacher.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 130684,
+  "sourceSha1": "a2b12cc2c72d8961212b1e763353c5f9a4d65e0c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6f/Teacher.png/revision/latest?cb=20260719210503",
+  "title": "File:Teacher.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

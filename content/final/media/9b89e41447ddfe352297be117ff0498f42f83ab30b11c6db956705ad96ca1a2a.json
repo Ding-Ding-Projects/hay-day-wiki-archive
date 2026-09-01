@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Iron_Bar.png",
+  "height": 900,
+  "immutableUrl": null,
+  "mediaId": "File:Iron Bar.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T09:06:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AIron%20Bar.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 629894,
+  "sourceSha1": "f24662b52df2c135fe955026f28cf1539d856dcf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6c/Iron_Bar.png/revision/latest?cb=20240208090640",
+  "title": "File:Iron Bar.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 900
+}

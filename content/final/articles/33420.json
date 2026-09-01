@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View?action=history",
+    "importedAt": "2026-09-01T03:05:35.822Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View?oldid=93139",
+    "sourceRevisionId": 93139,
+    "sourceTitle": "Hay Day Wiki:Neutral Point of View",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/hay-day-wiki%2Fhay-day-wiki-rules-1516\" title=\"Hay Day Wiki:Rules\" rel=\"noopener noreferrer\" target=\"_blank\">Hay Day Wiki:Rules</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901030528\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:33420-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030528 and revision id 93139. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "c40d41014d027ae1da597698456cdc0e65a1b89be7b83a6ab4017409fe102aa6",
+  "internalLinks": [
+    {
+      "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-rules-1516",
+      "title": "Hay Day Wiki:Rules"
+    }
+  ],
+  "namespace": 4,
+  "pageId": 33420,
+  "redirectTarget": "Hay Day Wiki:Rules",
+  "referencedMediaIds": [],
+  "revisionId": 93139,
+  "revisionTimestamp": "2020-04-12T01:19:25Z",
+  "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-neutral-point-of-view-33420",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View",
+  "title": "Hay Day Wiki:Neutral Point of View",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "602b783a5793e76d060ddd65bf1ed6c1b1403a38b2fac68fb28a088ebbffdc2a"
+}

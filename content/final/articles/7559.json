@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products?action=history",
+    "importedAt": "2026-09-01T02:41:47.591Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products?oldid=57794",
+    "sourceRevisionId": 57794,
+    "sourceTitle": "Category:Popcorn Pot Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/3/3c/Popcorn_Pot.png/revision/latest?cb=20250925180628\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Popcorn Pot\" src=\"https://static.wikia.nocookie.net/hayday/images/3/3c/Popcorn_Pot.png/revision/latest/scale-to-width-down/180?cb=20250925180628\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APopcorn_Pot.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of the <a href=\"/wiki/popcorn-pot-3551\" title=\"Popcorn Pot\" rel=\"noopener noreferrer\" target=\"_blank\">Popcorn Pot</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901024145\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:7559-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901024145 and revision id 57794. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "320e7761068c2c198ed42a0739d628ecbbf9bdbf1e544e7b789ac54260f03906",
+  "internalLinks": [
+    {
+      "route": "/wiki/popcorn-pot-3551",
+      "title": "Popcorn Pot"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 7559,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Popcorn Pot.png"
+  ],
+  "revisionId": 57794,
+  "revisionTimestamp": "2016-01-21T18:25:04Z",
+  "route": "/wiki/category%2Fcategory-popcorn-pot-products-7559",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products",
+  "title": "Category:Popcorn Pot Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "66529e944236689b01954748574aa99e9efbb5f9f686a17a9db2497563d14fa2"
+}

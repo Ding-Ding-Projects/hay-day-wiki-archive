@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Baby_Zebra.png",
+  "height": 935,
+  "immutableUrl": null,
+  "mediaId": "File:Grey Baby Zebra.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-10T21:48:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AGrey%20Baby%20Zebra.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 370816,
+  "sourceSha1": "65be0eef5a29b22f90e182b1e80def2fa7ab2d2c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Grey_Baby_Zebra.png/revision/latest?cb=20221210214819",
+  "title": "File:Grey Baby Zebra.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 935
+}

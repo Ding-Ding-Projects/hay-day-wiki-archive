@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Folk_Dance.jpg",
+  "height": 590,
+  "immutableUrl": null,
+  "mediaId": "File:Folk Dance.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-05-08T13:21:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFolk%20Dance.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 19545,
+  "sourceSha1": "7f369143d49ae18ac399e11b6a45d6f9c027cfd8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Folk_Dance.jpg/revision/latest?cb=20240508132117",
+  "title": "File:Folk Dance.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 590
+}

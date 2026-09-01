@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products?action=history",
+    "importedAt": "2026-09-01T03:07:01.465Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products?oldid=98681",
+    "sourceRevisionId": 98681,
+    "sourceTitle": "Category:Rice Noodles Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/2/20/Rice_Noodles.png/revision/latest?cb=20240211172740\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Rice Noodles\" src=\"https://static.wikia.nocookie.net/hayday/images/2/20/Rice_Noodles.png/revision/latest/scale-to-width-down/180?cb=20240211172740\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ARice_Noodles.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/rice-noodles-19451\" title=\"Rice Noodles\" rel=\"noopener noreferrer\" target=\"_blank\">Rice Noodles</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831052030\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35153-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831052030 and revision id 98681. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "85590683b26d8add0430424c0d728d0e81749bba0e26a8b35bd923cefffcc1af",
+  "internalLinks": [
+    {
+      "route": "/wiki/rice-noodles-19451",
+      "title": "Rice Noodles"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35153,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Rice Noodles.png"
+  ],
+  "revisionId": 98681,
+  "revisionTimestamp": "2021-09-07T10:16:58Z",
+  "route": "/wiki/category%2Fcategory-rice-noodles-products-35153",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products",
+  "title": "Category:Rice Noodles Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "64229f315df4f63900788dcdb50b1a8339111443cc5256563b0a5a020a3cc84b"
+}

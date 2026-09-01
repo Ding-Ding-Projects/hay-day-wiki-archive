@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tom_Cost.png",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:Tom Cost.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-02-19T15:48:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATom%20Cost.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 747876,
+  "sourceSha1": "dd60f4268aa91c806212b4c08769baac1978c12d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/35/Tom_Cost.png/revision/latest?cb=20160219154822",
+  "title": "File:Tom Cost.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

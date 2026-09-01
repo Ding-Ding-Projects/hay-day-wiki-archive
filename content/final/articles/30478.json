@@ -1,0 +1,84 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Neighborhood_Management?action=history",
+    "importedAt": "2026-09-01T03:03:45.286Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Neighborhood_Management?oldid=104050",
+    "sourceRevisionId": 104050,
+    "sourceTitle": "Neighborhood Management",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Positions",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Positions</b>",
+      "text": "<b>Positions</b>"
+    },
+    {
+      "anchor": "Abilities",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Abilities</b>",
+      "text": "<b>Abilities</b>"
+    },
+    {
+      "anchor": "Settings",
+      "index": "3",
+      "level": 3,
+      "line": "<b>Settings</b>",
+      "text": "<b>Settings</b>"
+    },
+    {
+      "anchor": "Emblems",
+      "index": "4",
+      "level": 3,
+      "line": "<b>Emblems</b>",
+      "text": "<b>Emblems</b>"
+    },
+    {
+      "anchor": "Type",
+      "index": "5",
+      "level": 3,
+      "line": "<b>Type</b>",
+      "text": "<b>Type</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Neighborhood_Management?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n<a href=\"/wiki/neighborhood-10438\" title=\"Neighborhood\" rel=\"noopener noreferrer\" target=\"_blank\">Neighborhoods</a> have several <b>management options</b> and settings. Most options can only be set by neighborhood leaders.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Positions</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/4/41/Neighborhoods_AdminUI_Members.png/revision/latest?cb=20140809002403\" class=\"mw-file-description image\" title=\"Management tab\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Management tab\" src=\"https://static.wikia.nocookie.net/hayday/images/4/41/Neighborhoods_AdminUI_Members.png/revision/latest/scale-to-width-down/150?cb=20140809002403\" loading=\"lazy\" width=\"150\" height=\"120\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>Management tab</figcaption></figure>\n<p>There are 4 different hierarchical positions within a neighborhood:\n</p>\n<ul><li>Leader</li>\n<li>Co-leaders</li>\n<li>Elders</li>\n<li>Members</li></ul>\n<p>There can only be one leader per neighborhood. When a leader leaves their neighborhood their position falls to the oldest member in hierarchical order. If they were the only member, the neighborhood is deleted.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Abilities</b></span></h3>\n<p>Position within the neighborhood grants players some abilities.\n</p>\n<ul><li>Leaders \"own\" and administer the neighborhoods: they can edit settings, promote or demote other members, invite or kick members out, accept or decline membership requests, trash <a href=\"/wiki/derby-18422\" title=\"Derby\" rel=\"noopener noreferrer\" target=\"_blank\">derby</a> tasks and opt out members of derbies. (When a member is kicked from a neighborhood there is a 24 hour cool down period before they can rejoin.)  They can also send messages to all members and pin up to 5 messages to the chat board.</li>\n<li>Co-leaders have the same abilities as leaders but cannot demote, kick out or opt out the leader. Co-leaders cannot demote other co-leaders either.</li>\n<li>Elders can invite other players, and accept or decline requests. Elders can also trash derby tasks.</li>\n<li>Members have no rights.</li></ul>\n<p>All neighborhood members can report other members in the chat tab. If at least three different members report the same player the player is automatically banned from the chat for 24 hours.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Settings</b></span></h3>\n<p>Leaders can set different options for their neighborhoods:\n</p>\n<ul><li>Its name</li>\n<li>Its emblem</li>\n<li>Its type</li>\n<li>Its minimum required level</li>\n<li>Its preferred chat language</li>\n<li>Its tags</li></ul>\n<p>They can also enable or disable the derby task log.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Emblems</b></span></h3>\n<figure class=\"mw-halign-left\"><a href=\"https://static.wikia.nocookie.net/hayday/images/2/25/Neighborhood_Emblem.png/revision/latest?cb=20160427131426\" class=\"mw-file-description image\" title=\"An emblem\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"An emblem\" src=\"https://static.wikia.nocookie.net/hayday/images/2/25/Neighborhood_Emblem.png/revision/latest?cb=20160427131426\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element\" loading=\"lazy\"></a><figcaption>An emblem</figcaption></figure>\n<p>Emblems look like <a href=\"https://en.wikipedia.org/wiki/escutcheon_(heraldry)\" class=\"extiw\" title=\"wikipedia:escutcheon (heraldry)\" rel=\"noopener noreferrer\" target=\"_blank\">escutcheons</a>. They have:\n</p>\n<ul><li>a shape (round, square, shield, starburst, heart, facet, flower, star or rhombus)</li>\n<li>a symbol (representing various elements of the game)</li>\n<li>a background pattern (whirlpool, stripes, check, points, shine or no pattern)</li>\n<li>colors for the symbol and the shape (orange, yellow, green, cyan, blue, purple, pink, red, coral, brown, gray or white)</li></ul>\n<p>When a player joins a neighborhood its emblem gets added to the neighborhood building.\n</p>\n<div></div>\n<hr>\n<h3><span class=\"mw-headline\"><b>Type</b></span></h3>\n<p>There are three neighborhood types:\n</p>\n<ul><li>Open neighborhoods: anyone can join them.</li>\n<li>Locked neighborhoods: players must send membership requests, which are then accepted or denied.</li>\n<li>Private neighborhoods: players can only join if they have received invites.</li></ul>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901013326\nCache expiry: 1209600\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.014 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 64/1000000\nPost‐expand include size: 192/2097152 bytes\nTemplate argument size: 58/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.307      1 -total\n 37.50%    1.615      1 Template:Languages\n 30.00%    1.292      1 Template:PageDisplay\n 28.70%    1.236      1 Template:Clr\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:30478-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901013326 and revision id 104050. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "f5a98241776170aeb74821fdd34eca0ecaadadbc5a74e8b1bf7ee9dd60ff9294",
+  "internalLinks": [
+    {
+      "route": "/wiki/derby-18422",
+      "title": "Derby"
+    },
+    {
+      "route": "/wiki/neighborhood-10438",
+      "title": "Neighborhood"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 30478,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Neighborhood Emblem.png",
+    "File:Neighborhoods AdminUI Members.png"
+  ],
+  "revisionId": 104050,
+  "revisionTimestamp": "2023-10-03T00:25:36Z",
+  "route": "/wiki/neighborhood-management-30478",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Neighborhood_Management",
+  "title": "Neighborhood Management",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "92211f1891234d635419e22d93d2181d61cc06a425d64086ad0654c4660c5ef4"
+}

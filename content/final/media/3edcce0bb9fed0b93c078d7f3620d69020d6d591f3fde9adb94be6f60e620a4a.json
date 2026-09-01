@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pinto_horse_Standing.png",
+  "height": 400,
+  "immutableUrl": null,
+  "mediaId": "File:Pinto horse Standing.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-16T20:29:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APinto%20horse%20Standing.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 100701,
+  "sourceSha1": "936c14322f8ed3218c13b1a3aab2187da3b5dc48",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/94/Pinto_horse_Standing.png/revision/latest?cb=20210716202944",
+  "title": "File:Pinto horse Standing.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 400
+}

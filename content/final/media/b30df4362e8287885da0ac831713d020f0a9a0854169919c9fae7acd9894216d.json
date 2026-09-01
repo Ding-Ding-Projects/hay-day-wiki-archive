@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Carrot_Stage_1.png",
+  "height": 270,
+  "immutableUrl": null,
+  "mediaId": "File:Carrot Stage 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T11:31:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACarrot%20Stage%201.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 58943,
+  "sourceSha1": "2e81c62ccc2d4032c6f37d4f910fa4506341cfb4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/Carrot_Stage_1.png/revision/latest?cb=20150714113109",
+  "title": "File:Carrot Stage 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 270
+}

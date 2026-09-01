@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:True_Fans.png",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:True Fans.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-03-29T20:00:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ATrue%20Fans.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 356215,
+  "sourceSha1": "49fc8c66ce447bf0ac975830bf6ef84f114d2701",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c9/True_Fans.png/revision/latest?cb=20150329200053",
+  "title": "File:True Fans.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1000
+}

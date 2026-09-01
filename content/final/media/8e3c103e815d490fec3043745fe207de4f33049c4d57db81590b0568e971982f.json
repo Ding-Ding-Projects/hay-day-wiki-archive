@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stacked_Gift.png",
+  "height": 2160,
+  "immutableUrl": null,
+  "mediaId": "File:Stacked Gift.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-18T02:48:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AStacked%20Gift.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 3828267,
+  "sourceSha1": "b8943f75f0029628170923fa2ee52aad295da17e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/24/Stacked_Gift.png/revision/latest?cb=20240218024855",
+  "title": "File:Stacked Gift.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2160
+}

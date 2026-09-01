@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fox_Puzzles_1.png",
+  "height": 653,
+  "immutableUrl": null,
+  "mediaId": "File:Fox Puzzles 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-18T20:39:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFox%20Puzzles%201.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 981826,
+  "sourceSha1": "526e5d4a8ce3061c4a39720d4e8d27cba807ecd0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b7/Fox_Puzzles_1.png/revision/latest?cb=20211018203931",
+  "title": "File:Fox Puzzles 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1050
+}

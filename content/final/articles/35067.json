@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products?action=history",
+    "importedAt": "2026-09-01T03:06:47.998Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products?oldid=98544",
+    "sourceRevisionId": 98544,
+    "sourceTitle": "Category:White Sugar Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/f/ff/White_Sugar.png/revision/latest?cb=20240205163815\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"White Sugar\" src=\"https://static.wikia.nocookie.net/hayday/images/f/ff/White_Sugar.png/revision/latest/scale-to-width-down/180?cb=20240205163815\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3AWhite_Sugar.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/white-sugar-2096\" title=\"White Sugar\" rel=\"noopener noreferrer\" target=\"_blank\">White Sugar</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030646\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:35067-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030646 and revision id 98544. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "d63eda7959b7cb87c03298b4fb1341a76acf210a3ec0a520c93cfd78688f265f",
+  "internalLinks": [
+    {
+      "route": "/wiki/white-sugar-2096",
+      "title": "White Sugar"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 35067,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:White Sugar.png"
+  ],
+  "revisionId": 98544,
+  "revisionTimestamp": "2021-08-31T20:55:46Z",
+  "route": "/wiki/category%2Fcategory-white-sugar-products-35067",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products",
+  "title": "Category:White Sugar Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "720744fac0ed27f1848e86afed4e1cb315cd3105b60cb3a01eb8db141480ca54"
+}

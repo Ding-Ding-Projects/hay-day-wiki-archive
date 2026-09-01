@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Potato_Soup.png",
+  "height": 1199,
+  "immutableUrl": null,
+  "mediaId": "File:Potato Soup.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-03-03T13:43:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3APotato%20Soup.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 436756,
+  "sourceSha1": "467a8342788ecccf09f53676999a498a1d388578",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Potato_Soup.png/revision/latest?cb=20240303134341",
+  "title": "File:Potato Soup.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1199
+}

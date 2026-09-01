@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Front_With_Halloween_Hat.png",
+  "height": 978,
+  "immutableUrl": null,
+  "mediaId": "File:Catalogue Front With Halloween Hat.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-10-21T19:24:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ACatalogue%20Front%20With%20Halloween%20Hat.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 266374,
+  "sourceSha1": "90c8a43ee3edd15bbd795684831f2c6fd9f88d02",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Catalogue_Front_With_Halloween_Hat.png/revision/latest?cb=20241021192430",
+  "title": "File:Catalogue Front With Halloween Hat.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 729
+}

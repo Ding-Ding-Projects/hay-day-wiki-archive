@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_70.png",
+  "height": 556,
+  "immutableUrl": null,
+  "mediaId": "File:Level 70.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-15T18:40:57Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ALevel%2070.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 896825,
+  "sourceSha1": "1f50039e5c9a7073123c5003230f870a98a0f85a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/60/Level_70.png/revision/latest?cb=20200415184057",
+  "title": "File:Level 70.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 723
+}

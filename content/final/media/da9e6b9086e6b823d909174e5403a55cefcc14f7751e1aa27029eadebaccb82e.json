@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chickpea_Stew.png",
+  "height": 500,
+  "immutableUrl": null,
+  "mediaId": "File:Chickpea Stew.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-04-26T12:22:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AChickpea%20Stew.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 212327,
+  "sourceSha1": "657d3c8c78762e57444586886604b19bee3bd437",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/Chickpea_Stew.png/revision/latest?cb=20240426122233",
+  "title": "File:Chickpea Stew.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 500
+}

@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wisteria_Bridge.png",
+  "height": 467,
+  "immutableUrl": null,
+  "mediaId": "File:Wisteria Bridge.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-05-26T18:59:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWisteria%20Bridge.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 474800,
+  "sourceSha1": "a12599ba95579b70902eefaf7e2cafc8156bbd9e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Wisteria_Bridge.png/revision/latest?cb=20260526185931",
+  "title": "File:Wisteria Bridge.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 596
+}

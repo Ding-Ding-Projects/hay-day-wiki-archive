@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_wonderland.png",
+  "height": 633,
+  "immutableUrl": null,
+  "mediaId": "File:Winter wonderland.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-08-24T13:31:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AWinter%20wonderland.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 408388,
+  "sourceSha1": "7dd18c21c121c72b2b99aa8a7f7f99c16195e9c8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dd/Winter_wonderland.png/revision/latest?cb=20260824133105",
+  "title": "File:Winter wonderland.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 567
+}

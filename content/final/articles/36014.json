@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Peach_Ice_Cream_Products?action=history",
+    "importedAt": "2026-09-01T03:09:37.054Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Peach_Ice_Cream_Products?oldid=104457",
+    "sourceRevisionId": 104457,
+    "sourceTitle": "Category:Peach Ice Cream Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Peach_Ice_Cream_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/7/72/Peach_Ice_Cream.png/revision/latest?cb=20240411152720\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Peach Ice Cream\" src=\"https://static.wikia.nocookie.net/hayday/images/7/72/Peach_Ice_Cream.png/revision/latest/scale-to-width-down/180?cb=20240411152720\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3APeach_Ice_Cream.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/peach-ice-cream-24924\" title=\"Peach Ice Cream\" rel=\"noopener noreferrer\" target=\"_blank\">Peach Ice Cream</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901030930\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36014-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901030930 and revision id 104457. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "fb1e4959fdcddef32a513f1a22ca171801de262a061d925f8c204b5e15107ab9",
+  "internalLinks": [
+    {
+      "route": "/wiki/peach-ice-cream-24924",
+      "title": "Peach Ice Cream"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36014,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Peach Ice Cream.png"
+  ],
+  "revisionId": 104457,
+  "revisionTimestamp": "2024-01-02T23:09:08Z",
+  "route": "/wiki/category%2Fcategory-peach-ice-cream-products-36014",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Peach_Ice_Cream_Products",
+  "title": "Category:Peach Ice Cream Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ce9d4ff96bfb02164480324285274176f423a3279bdeac56f7e65d2df8b8f957"
+}

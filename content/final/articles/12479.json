@@ -1,0 +1,160 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Editing_Guidelines?action=history",
+    "importedAt": "2026-09-01T02:46:00.826Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Editing_Guidelines?oldid=96940",
+    "sourceRevisionId": 96940,
+    "sourceTitle": "Hay Day Wiki:Editing Guidelines",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [
+    {
+      "anchor": "Basic_guidelines",
+      "index": "1",
+      "level": 3,
+      "line": "<b>Basic guidelines</b>",
+      "text": "<b>Basic guidelines</b>"
+    },
+    {
+      "anchor": "Editing_tips",
+      "index": "2",
+      "level": 3,
+      "line": "<b>Editing tips</b>",
+      "text": "<b>Editing tips</b>"
+    },
+    {
+      "anchor": "About_protected_pages",
+      "index": "3",
+      "level": 3,
+      "line": "<b>About protected pages</b>",
+      "text": "<b>About protected pages</b>"
+    },
+    {
+      "anchor": "How_to_format_pages",
+      "index": "4",
+      "level": 3,
+      "line": "<b>How to format pages</b>",
+      "text": "<b>How to format pages</b>"
+    },
+    {
+      "anchor": "Titles",
+      "index": "5",
+      "level": 4,
+      "line": "<b>Titles</b>",
+      "text": "<b>Titles</b>"
+    },
+    {
+      "anchor": "Infobox",
+      "index": "6",
+      "level": 4,
+      "line": "<b>Infobox</b>",
+      "text": "<b>Infobox</b>"
+    },
+    {
+      "anchor": "Introduction",
+      "index": "7",
+      "level": 4,
+      "line": "<b>Introduction</b>",
+      "text": "<b>Introduction</b>"
+    },
+    {
+      "anchor": "Sections",
+      "index": "8",
+      "level": 4,
+      "line": "<b>Sections</b>",
+      "text": "<b>Sections</b>"
+    },
+    {
+      "anchor": "Content",
+      "index": "9",
+      "level": 4,
+      "line": "<b>Content</b>",
+      "text": "<b>Content</b>"
+    },
+    {
+      "anchor": "Tips_and_trivia",
+      "index": "10",
+      "level": 4,
+      "line": "<b>Tips and trivia</b>",
+      "text": "<b>Tips and trivia</b>"
+    },
+    {
+      "anchor": "Navigation_boxes",
+      "index": "11",
+      "level": 4,
+      "line": "<b>Navigation boxes</b>",
+      "text": "<b>Navigation boxes</b>"
+    },
+    {
+      "anchor": "Interwiki_links",
+      "index": "12",
+      "level": 4,
+      "line": "<b>Interwiki links</b>",
+      "text": "<b>Interwiki links</b>"
+    },
+    {
+      "anchor": "Uploading_images_and_licensing_them",
+      "index": "13",
+      "level": 3,
+      "line": "<b>Uploading images and licensing them</b>",
+      "text": "<b>Uploading images and licensing them</b>"
+    },
+    {
+      "anchor": "Using_tables_and_galleries",
+      "index": "14",
+      "level": 3,
+      "line": "<b>Using tables and galleries</b>",
+      "text": "<b>Using tables and galleries</b>"
+    }
+  ],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Editing_Guidelines?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p><br>\n</p><p>This page explains the guidelines editors should follow.\n</p>\n<h3><span class=\"mw-headline\"><b>Basic guidelines</b></span></h3>\n<ul><li>Respect this wiki's <a href=\"/wiki/hay-day-wiki%2Fhay-day-wiki-rules-1516\" title=\"Hay Day Wiki:Rules\" rel=\"noopener noreferrer\" target=\"_blank\">policies</a>.</li>\n<li>Keep the wiki child-friendly.</li>\n<li>Keep the wiki informative, relevant and useful. It's its primary function. If you have any doubt about the creation of an article or content in general, please ask first.</li>\n<li>Give public information only: insider information shouldn't be divulged unless you've been given permission to talk about it publicly.</li>\n<li>Use proper English in all articles. Note that we follow the game's spelling when it comes to American English or British English.</li>\n<li>Use a neutral point of view: informative sections shouldn't talk to a reader or state one person's opinion. You can use \"you\" in tips sections.</li>\n<li>Explain your edits: add a summary, even for minor changes.</li>\n<li>Don't capitalize everything like they do in the game. We only do this for page titles, image names and proper nouns.</li>\n<li>Don't edit other users' personal pages without their permission. Don't edit users' profiles under any circumstances unless you are part of this wiki's staff.</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>Editing tips</b></span></h3>\n<ul><li>We strongly suggest you use the <a href=\"/unavailable-source?title=Special%3APreferences\" title=\"Special:Preferences\" rel=\"noopener noreferrer\" target=\"_blank\">Source Editor</a> as your default editor and that you enable the <i>Prompt me when entering a blank edit summary</i> option. This wiki uses templates and scripts on many pages and it's usually easier to understand how they work when you see the page as it is coded. It also makes it easy to copy/paste things from other articles and adapt them to your needs. That being said wiki editing is a collaborative effort so don't worry if things are formatted the same. Information is more important. We can always tweak the page later.</li>\n<li>When the game adds new items, you can use these pages as example: <a href=\"/wiki/wheat-2062\" title=\"Wheat\" rel=\"noopener noreferrer\" target=\"_blank\">Wheat</a>, <a href=\"/wiki/bakery-3545\" title=\"Bakery\" rel=\"noopener noreferrer\" target=\"_blank\">Bakery</a>, <a href=\"/wiki/bread-2084\" title=\"Bread\" rel=\"noopener noreferrer\" target=\"_blank\">Bread</a>.</li>\n<li>Don't hesitate to ask questions in Discussions, our Discord or on active editors' walls.</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>About protected pages</b></span></h3>\n<ul><li>The wiki can only be edited by registered users.</li>\n<li>Semi-protected pages can't be edited by newly registered users. New users have to wait for 4 days to become confirmed users.</li>\n<li>Fully protected pages can only be edited by bureaucrats, administrators and content moderators.</li>\n<li>Look for locks next to the Edit button to see if a page is protected or not.</li></ul>\n<hr>\n<h3><span class=\"mw-headline\"><b>How to format pages</b></span></h3>\n<h4><span class=\"mw-headline\"><b>Titles</b></span></h4>\n<p>Titles should be in title format and capitalized.\n</p>\n<ul><li>Not a good title: <span>Cows Are the Best</span></li>\n<li>Better: <span>Cow</span></li>\n<li>Not capitalized: <span>White dog</span></li>\n<li>Better: <span>White Dog</span></li></ul>\n<h4><span class=\"mw-headline\"><b>Infobox</b></span></h4>\n<p>The infobox should stay as concise and short as possible. Note that it's okay to include the same info in both the text and the infobox as long as the text expands on it.\n</p>\n<h4><span class=\"mw-headline\"><b>Introduction</b></span></h4>\n<p>All intros should start with the subject of the page in bold text and a brief paragraph explaining what the item or feature is. When an intro gets a bit long consider moving part of it into its own section.\n</p>\n<h4><span class=\"mw-headline\"><b>Sections</b></span></h4>\n<p>All articles should be clearly organized into sections. Sections can be different aspects of a page's subject, gameplay tips and trivia (\"did you know?\" facts). If a section gets too long consider dividing it into two or more sections. Please don't use subsections, though.\n</p><p>Sections titles should not be capitalized.\n</p>\n<h4><span class=\"mw-headline\"><b>Content</b></span></h4>\n<p>This wiki should be both informative and easy to read. We don't want big wall of texts. For better comprehension, go straight to the point, use images and short descriptive paragraphs, space things out, use short image captions.\n</p>\n<h4><span class=\"mw-headline\"><b>Tips and trivia</b></span></h4>\n<ul><li>Any advice, non-official stats,... should go to the strategy tips section.</li>\n<li>History belongs in <a href=\"/wiki/version-history-34971\" class=\"mw-redirect\" title=\"Version History\" rel=\"noopener noreferrer\" target=\"_blank\">Version History</a>. Changes should only be mentioned in articles if they have a particular significance (such as <a href=\"/wiki/tom-2981\" title=\"Tom\" rel=\"noopener noreferrer\" target=\"_blank\">Tom</a> changing appearance).</li>\n<li>Easter eggs, secrets, etc. go into their own section.</li></ul>\n<h4><span class=\"mw-headline\"><b>Navigation boxes</b></span></h4>\n<p>Add nav boxes at the end of the article to link to related pages.\n</p>\n<h4><span class=\"mw-headline\"><b>Interwiki links</b></span></h4>\n<p>Use interwiki links at the end of the article if it has an equivalent on another wiki.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Uploading images and licensing them</b></span></h3>\n<p>You can upload in-game screenshots and images from Supercell fan kits or promos. Be aware that they might be replaced at any point with better or newer versions.\n</p><p>To update an image please don't upload a new picture. Click on the existing image and choose edit/replace or update a new version of this file. (You can't do this if the file format is different though. In this case, please upload it.)\n</p><p>When you upload a game image please pick the Supercell license. They're all copyrighted to them.\n</p>\n<hr>\n<h3><span class=\"mw-headline\"><b>Using tables and galleries</b></span></h3>\n<p>Tables are very handy tools for organizing information and presenting it in a concise way. However, they must remain laptop-friendly and preferably mobile-friendly. Use galleries rather than tables whenever possible as they're adaptive.\n</p><p>A few tips for tables: keep columns to a minimum so there isn't much side scrolling; keep text short and concise; use images and info icons; consider moving lengthy tables to the bottom of articles or to their own pages.\n</p>\n<table>\n<tbody><tr>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>\n</td></tr></tbody></table>\n<p><br>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260831225507\nCache expiry: 2592000\nReduced expiry: false\nComplications: [no‐toc]\nCPU time usage: 0.013 seconds\nReal time usage: 0.017 seconds\nPreprocessor visited node count: 93/1000000\nPost‐expand include size: 142/2097152 bytes\nTemplate argument size: 64/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.913      1 -total\n 52.35%    1.525      1 Template:Languages\n 42.33%    1.233      1 Template:PageDisplay\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:12479-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260831225507 and revision id 96940. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "caed69c3977b20893f86f2efae1add69e254eff75f85349f088af3d47be3fb6f",
+  "internalLinks": [
+    {
+      "route": "/wiki/bakery-3545",
+      "title": "Bakery"
+    },
+    {
+      "route": "/wiki/bread-2084",
+      "title": "Bread"
+    },
+    {
+      "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-rules-1516",
+      "title": "Hay Day Wiki:Rules"
+    },
+    {
+      "route": "/wiki/tom-2981",
+      "title": "Tom"
+    },
+    {
+      "route": "/wiki/version-history-34971",
+      "title": "Version History"
+    },
+    {
+      "route": "/wiki/wheat-2062",
+      "title": "Wheat"
+    }
+  ],
+  "namespace": 4,
+  "pageId": 12479,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 96940,
+  "revisionTimestamp": "2021-02-04T19:28:17Z",
+  "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-editing-guidelines-12479",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Editing_Guidelines",
+  "title": "Hay Day Wiki:Editing Guidelines",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "90fd3de300619f12b6b29ed6e65881e1ae2dc173dde2a89d3eca30d4cc9e23a4"
+}

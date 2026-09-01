@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Complete_Puzzles.jpg",
+  "height": 2104,
+  "immutableUrl": null,
+  "mediaId": "File:Complete Puzzles.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T13:37:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AComplete%20Puzzles.jpg",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 420936,
+  "sourceSha1": "0b062f2405e889a64fe17d06c27010b64e974867",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Complete_Puzzles.jpg/revision/latest?cb=20180207133732",
+  "title": "File:Complete Puzzles.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2148
+}

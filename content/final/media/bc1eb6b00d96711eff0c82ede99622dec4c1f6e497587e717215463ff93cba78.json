@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Map2.png",
+  "height": 891,
+  "immutableUrl": null,
+  "mediaId": "File:Farm Map2.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-10-26T23:06:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AFarm%20Map2.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 1106133,
+  "sourceSha1": "e79ef423adf91b9052c48359fe1a925987f38d79",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/74/Farm_Map2.png/revision/latest?cb=20151026230634",
+  "title": "File:Farm Map2.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1146
+}

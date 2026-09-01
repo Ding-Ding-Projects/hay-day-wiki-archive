@@ -1,0 +1,41 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner?action=history",
+    "importedAt": "2026-09-01T03:11:11.543Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner?oldid=110831",
+    "sourceRevisionId": 110831,
+    "sourceTitle": "Spicy Bean Doner",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/spicy-bean-d%C3%B6ner-36798\" title=\"Spicy Bean Döner\" rel=\"noopener noreferrer\" target=\"_blank\">Spicy Bean Döner</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260901031109\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36897-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031109 and revision id 110831. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "156e484eda4369575a346d5f8a724376bfe51507200636f2f8d086fbf4955c2e",
+  "internalLinks": [
+    {
+      "route": "/wiki/spicy-bean-d%C3%B6ner-36798",
+      "title": "Spicy Bean Döner"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36897,
+  "redirectTarget": "Spicy Bean Döner",
+  "referencedMediaIds": [],
+  "revisionId": 110831,
+  "revisionTimestamp": "2026-08-05T09:02:35Z",
+  "route": "/wiki/spicy-bean-doner-36897",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner",
+  "title": "Spicy Bean Doner",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "ed5ff056de74a8f89052a3de738f2fd5a0d02f93a7f5041508c916cc30b86ced"
+}

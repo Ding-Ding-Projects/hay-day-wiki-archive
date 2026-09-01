@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dark_Leafy_Tree.png",
+  "height": 729,
+  "immutableUrl": null,
+  "mediaId": "File:Dark Leafy Tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-07T19:30:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3ADark%20Leafy%20Tree.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 578940,
+  "sourceSha1": "8c855790240efa70ab2ab367db28f81ffe099e7e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/76/Dark_Leafy_Tree.png/revision/latest?cb=20180207193024",
+  "title": "File:Dark Leafy Tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 729
+}

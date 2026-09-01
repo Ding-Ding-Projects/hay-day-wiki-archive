@@ -1,0 +1,43 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products?action=history",
+    "importedAt": "2026-09-01T03:11:07.587Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products?oldid=110534",
+    "sourceRevisionId": 110534,
+    "sourceTitle": "Category:Teeth Treats Products",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><figure class=\"thumb show-info-icon\"> \t<a href=\"https://static.wikia.nocookie.net/hayday/images/0/00/Teeth_Treats.png/revision/latest?cb=20241021180259\" class=\"mw-file-description image\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"Teeth Treats\" src=\"https://static.wikia.nocookie.net/hayday/images/0/00/Teeth_Treats.png/revision/latest/scale-to-width-down/180?cb=20241021180259\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" loading=\"lazy\"></a> \t \t<figcaption class=\"thumbcaption\"> \t\t \t\t\t<a href=\"/unavailable-source?media=File%3ATeeth_Treats.png\" class=\"info-icon\" rel=\"noopener noreferrer\" target=\"_blank\"></a> \t\t \t\t \t\t \t</figcaption> </figure>\n<p>Products of <a href=\"/wiki/teeth-treats-36170\" title=\"Teeth Treats\" rel=\"noopener noreferrer\" target=\"_blank\">Teeth Treats</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901031104\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36827-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901031104 and revision id 110534. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "a5b464160b9e6edd8cdb7bd984d868ec71aa32139cfcae85eb2710cbef0f53cd",
+  "internalLinks": [
+    {
+      "route": "/wiki/teeth-treats-36170",
+      "title": "Teeth Treats"
+    }
+  ],
+  "namespace": 14,
+  "pageId": 36827,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Teeth Treats.png"
+  ],
+  "revisionId": 110534,
+  "revisionTimestamp": "2026-06-15T21:08:35Z",
+  "route": "/wiki/category%2Fcategory-teeth-treats-products-36827",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products",
+  "title": "Category:Teeth Treats Products",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "6e6d6180cdcbcaf5fc50d1ba6b51af7c7dd79b89ecda4f0c411860cacfe1b1eb"
+}

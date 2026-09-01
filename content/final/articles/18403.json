@@ -1,0 +1,36 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Category:Puppies?action=history",
+    "importedAt": "2026-09-01T02:51:10.412Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Category:Puppies?oldid=42229",
+    "sourceRevisionId": 42229,
+    "sourceTitle": "Category:Puppies",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [],
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Category:Puppies?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p>This category contains pages about the different types of puppies available in Hay Day.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260901025013\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nExtLoops count: 0/200\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:18403-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260901025013 and revision id 42229. Rendering was triggered because: api-parse\n -->\n</div>",
+  "htmlHash": "3a9ddaaf5472a21ff0c97b520de8b7aef5dd73fa35a8e0531a5eb056d08c7dcb",
+  "internalLinks": [],
+  "namespace": 14,
+  "pageId": 18403,
+  "redirectTarget": null,
+  "referencedMediaIds": [],
+  "revisionId": 42229,
+  "revisionTimestamp": "2015-03-12T13:23:31Z",
+  "route": "/wiki/category%2Fcategory-puppies-18403",
+  "schemaVersion": 1,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Category:Puppies",
+  "title": "Category:Puppies",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitextHash": "8409b52c5479d9083847b62fe1301b4d0d6013fd9e2fdf91cf797bb75036f1e9"
+}

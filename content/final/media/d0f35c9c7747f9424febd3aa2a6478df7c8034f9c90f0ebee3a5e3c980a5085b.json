@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Vintage_Bike.png",
+  "height": 512,
+  "immutableUrl": null,
+  "mediaId": "File:Vintage Bike.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T11:24:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AVintage%20Bike.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 233293,
+  "sourceSha1": "ff859838c490381c2657c8e5fa7151d579edc606",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2e/Vintage_Bike.png/revision/latest?cb=20150715112409",
+  "title": "File:Vintage Bike.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 512
+}

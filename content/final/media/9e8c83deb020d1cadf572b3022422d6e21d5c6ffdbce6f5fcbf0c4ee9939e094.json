@@ -1,0 +1,38 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Strawberry_Stage_4.png",
+  "height": 270,
+  "immutableUrl": null,
+  "mediaId": "File:Strawberry Stage 4.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T12:44:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "route": "/media/File%3AStrawberry%20Stage%204.png",
+  "schemaVersion": 1,
+  "sha256": null,
+  "sizeBytes": 71448,
+  "sourceSha1": "551c63f83024aaf8d092645613e85ade5fc2d439",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8e/Strawberry_Stage_4.png/revision/latest?cb=20150714124448",
+  "title": "File:Strawberry Stage 4.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 270
+}
