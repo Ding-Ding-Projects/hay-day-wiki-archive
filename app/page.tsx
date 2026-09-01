@@ -98,7 +98,7 @@ export default function Home() {
             </div>
           </section>
 
-          <footer className="archive-footer"><div><Info aria-hidden="true" /><p>This material is unofficial and is not endorsed by Supercell. Imported community text remains attributed to the Hay Day Wiki and licensed under CC BY-SA 3.0 where applicable.</p></div><p className="build-state">Version 0.1.0 preview · Updated-at provenance unavailable until the first release build</p></footer>
+          <footer className="archive-footer"><div><Info aria-hidden="true" /><p>This material is unofficial and is not endorsed by Supercell. Imported community text will retain the exact CC BY-SA terms captured from its source revision.</p></div><p className="build-state">Version 0.1.0 preview · Updated-at provenance unavailable until the first release build</p></footer>
         </div>
       </section>
     </main>
