@@ -4,6 +4,10 @@ import { MediaWikiClient } from '../lib/wiki/client.mjs';
 import { WikiImporter } from '../lib/wiki/importer.mjs';
 
 const args = parseArgs(process.argv.slice(2));
+if (args.help) {
+  console.log(`Usage: npm run import -- [options]\n\nOptions:\n  --api <url>                MediaWiki API endpoint\n  --out <directory>          Generated content directory\n  --state <file>             Resumable private state file\n  --namespaces <ids>         Comma-separated namespace ids\n  --concurrency <1-8>        Bounded request concurrency\n  --max-pages <count>        Limit pages for a review import\n  --resume <true|false>      Resume the existing import state\n  --reusable-rights <names>  Explicit reusable media rights\n  --user-agent <value>       Importer user agent\n  --help                     Show this help without importing`);
+  process.exit(0);
+}
 const outputDir = resolve(args.out ?? 'content/wiki');
 const statePath = resolve(args.state ?? 'content/.import-state.json');
 const namespaces = (args.namespaces ?? '0,4,12,14')

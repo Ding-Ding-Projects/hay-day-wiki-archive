@@ -4,12 +4,30 @@ import { mkdtemp, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { sanitizeHtml } from '../lib/wiki/sanitize.mjs';
+import { MediaWikiClient } from '../lib/wiki/client.mjs';
 import { WikiImporter } from '../lib/wiki/importer.mjs';
 import {
   canonicalRoute,
   validateArticleRecord,
   validateMediaRecord,
 } from '../lib/wiki/schemas.mjs';
+
+test('parses an exact old revision without sending an invalid pageid pair', async () => {
+  let requested;
+  const client = new MediaWikiClient({
+    fetchImpl: async (url) => {
+      requested = new URL(url);
+      return new Response(JSON.stringify({ parse: { pageid: 42, title: 'Crops', text: '<p>ok</p>' } }), {
+        status: 200,
+        headers: { 'content-type': 'application/json' },
+      });
+    },
+  });
+  const parsed = await client.parsedPage(42, 9001);
+  assert.equal(parsed.pageid, 42);
+  assert.equal(requested.searchParams.get('oldid'), '9001');
+  assert.equal(requested.searchParams.has('pageid'), false);
+});
 
 test('sanitizes executable markup and rewrites known page and media links', () => {
   const pages = new Map([
