@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { BookOpen, ChevronRight, FolderTree, ImageIcon, Info, Leaf, Menu, Search, Settings, ShieldCheck, SlidersHorizontal, Sprout } from 'lucide-react';
+import { BookOpen, ChevronRight, Download, FolderTree, ImageIcon, Info, Leaf, Menu, Search, Settings, ShieldCheck, SlidersHorizontal, Sprout } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -29,6 +29,8 @@ const nav = [
   { label: 'Media', icon: ImageIcon, href: '/media' },
   { label: 'Settings', icon: Settings, href: '/settings' },
 ];
+
+const installerUrl = 'https://github.com/Ding-Ding-Projects/hay-day-wiki-archive/releases/download/v0.1.0/Hay-Day-Wiki-Archive-0.1.0-Setup.exe';
 
 export default function Home() {
   const [query, setQuery] = useState('');
@@ -68,7 +70,7 @@ export default function Home() {
               <p className="eyebrow"><Leaf aria-hidden="true" /> Unofficial fan reference</p>
               <h1 id="hero-title">The farm knowledge base, replanted for easier reading.</h1>
               <p>Browse a reproducible, attributed snapshot of the reader-facing Hay Day Wiki without ads, trackers, account prompts, or community clutter.</p>
-              <div className="hero-actions"><Link className="home-action primary" href={publicRoute('/all-pages')}><Search /> Search the archive</Link><Link className="home-action outline" href={publicRoute('/category')}><FolderTree /> Browse categories</Link></div>
+              <div className="hero-actions"><Link className="home-action primary" href={publicRoute('/all-pages')}><Search /> Search the archive</Link><Link className="home-action outline" href={publicRoute('/category')}><FolderTree /> Browse categories</Link><a className="home-action outline" href={installerUrl}><Download /> Download 0.1.0 for Windows</a></div>
               <dl className="snapshot-stats"><div><dt>Reader records</dt><dd>1,362</dd></div><div><dt>Category pages</dt><dd>354</dd></div><div><dt>Media records</dt><dd>3,708</dd></div></dl>
             </div>
             <div className="hero-art" aria-label="Archive snapshot overview">
@@ -99,7 +101,7 @@ export default function Home() {
             </div>
           </section>
 
-          <footer className="archive-footer"><div><Info aria-hidden="true" /><p>This material is unofficial and is not endorsed by Supercell. Imported community text will retain the exact CC BY-SA terms captured from its source revision.</p></div><p className="build-state">Version 0.1.0 preview · Updated-at provenance unavailable until the first release build</p></footer>
+          <footer className="archive-footer"><div><Info aria-hidden="true" /><p>This material is unofficial and is not endorsed by Supercell. Imported community text retains the exact CC BY-SA terms captured from its source revision.</p></div><p className="build-state">Version 0.1.0 · Updated September 4, 2026 at 2:03:53 PM EDT from the v0.1.0 release record</p></footer>
         </div>
       </section>
     </main>

@@ -4,6 +4,8 @@ An unofficial, read-only archive and reader for the reader-facing knowledge base
 
 > **Status:** The complete reader-facing snapshot and static archive are published. The repository contains 1,362 article records and 3,708 referenced media records. The Windows desktop package is implemented, packaged, and exercised through the required hidden-desktop route.
 
+[Download Hay Day Wiki Archive 0.1.0 for Windows](https://github.com/Ding-Ding-Projects/hay-day-wiki-archive/releases/download/v0.1.0/Hay-Day-Wiki-Archive-0.1.0-Setup.exe). The installer is unsigned and may trigger an unknown-publisher or SmartScreen warning. [Release notes and package files](https://github.com/Ding-Ding-Projects/hay-day-wiki-archive/releases/tag/v0.1.0) are published with byte sizes and SHA-256 digests.
+
 ## Start here
 
 - [Archive scope and exclusions](docs/content/archive-scope.md)
@@ -52,6 +54,8 @@ Every media record receives one terminal decision: `copied`, `external-embed`, `
 ## Build and run
 
 On Windows, run `build.bat /s` to install declared dependencies when needed, build the static reader, verify its 5,077-route output, and produce the unpacked desktop application. Run `build-installer.bat /s` to produce and verify the genuine unsigned Squirrel.Windows installer files. The installer is intentionally unsigned and may trigger an unknown-publisher warning.
+
+Release `v0.1.0` publishes the verified installer at commit `db5fb72fa280da86d7a0f65eda460c5e981d4a7e`. Its setup executable is 166,193,664 bytes with SHA-256 `a0c4b90f06adc716151c800a6a0beb1891e91d5e5269bb6b8d42deb499777f1c`.
 
 The desktop reader bundles the same static snapshot as the public reader. It serves those files on an ephemeral loopback port, requires a launch-specific HttpOnly session cookie, prevents path traversal, applies a restrictive content security policy, keeps Node.js out of renderer pages, and opens only approved HTTPS source links externally. See [Desktop reader architecture](docs/architecture/desktop-reader.md).
 

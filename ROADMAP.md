@@ -24,6 +24,7 @@ This checklist records the current state of the archive. A checked item means im
 - [ ] Upload eligible original media to immutable Cheap LFS release assets in verified batches.
 - [ ] Verify every copied media asset anonymously by status, content type, byte count, and SHA-256.
 - [x] Publish GitHub Pages from the validated static bundle.
+- [x] Publish the first verified unsigned Windows release with setup, full package, hashes, and anonymous download proof.
 - [ ] Add the release workflow, release timing evidence, manifests, hashes, and unsigned package evidence where applicable.
 - [x] Verify the packaged Windows desktop reader through the required headless interaction route, including Home, the 1,362-row index, an article, attribution, maximize and restore controls, overflow, console, network, and HTTP-error checks.
 
