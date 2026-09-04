@@ -66,6 +66,20 @@ The capture came from the packaged application built at commit `f2f8df109084f698
 
 The repository keeps a hand-written [feature completeness inventory](docs/architecture/feature-completeness.md). Rows marked `Unimplemented` are deliberate, factual placeholders. They are not a promise that a hidden route or sibling project satisfies the requirement.
 
+## Project size
+
+The committed `node scripts/count-lines.mjs` counter reports the following values for the first desktop-reader candidate:
+
+| Area | Files | Lines | Non-blank lines |
+| --- | ---: | ---: | ---: |
+| Source | 88 | 9,890 | 9,115 |
+| Tests | 3 | 355 | 340 |
+| Styles and markup | 28 | 834 | 601 |
+| Generated snapshot | 5,073 | 1,086,526 | 1,086,526 |
+| Other repository content | 19 | 16,019 | 15,976 |
+
+The human implementation estimate is **approximately 5 to 11 developer-months**. Method: 10,056 non-blank source, test, style, and markup lines at 60 to 120 reviewed lines per working day, multiplied by 1.35 for importer, rights, static-routing, security, packaging, and accessibility complexity, then divided by 21 working days per month. This is an estimate, not measured history. Generated snapshot records, installed dependencies, build output, and lockfiles are excluded.
+
 ## License
 
 Implementation code is intended to use the MIT License. Imported text is handled under its source terms, with the exact license version recorded from source evidence. Media rights remain file-specific. See [LICENSE](LICENSE) and [docs/content/licensing-and-attribution.md](docs/content/licensing-and-attribution.md).
