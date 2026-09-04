@@ -25,14 +25,14 @@ This checklist records the current state of the archive. A checked item means im
 - [ ] Verify every copied media asset anonymously by status, content type, byte count, and SHA-256.
 - [x] Publish GitHub Pages from the validated static bundle.
 - [ ] Add the release workflow, release timing evidence, manifests, hashes, and unsigned package evidence where applicable.
-- [ ] Verify the packaged Windows desktop reader through the required headless interaction route. Source, server tests, and unsigned Squirrel.Windows output are complete; built-interface interaction is blocked by the unavailable headless service.
+- [x] Verify the packaged Windows desktop reader through the required headless interaction route, including Home, the 1,362-row index, an article, attribution, maximize and restore controls, overflow, console, network, and HTTP-error checks.
 
 ## Reader feature contract
 
 - [ ] Implement the full universal feature inventory in `docs/architecture/feature-completeness.md`.
 - [ ] Add a hand-written negative regression that fails when an inventory row, implementation link, documentation link, localization entry, test, built interaction, or capture is removed.
 - [ ] Add Material Design reference files and deterministic parity captures. Current handoff: the Material Designer tool was unavailable in this session.
-- [ ] Add the real built-reader capture matrix and a short built-reader screen recording.
+- [ ] Complete the real built-reader capture matrix and add a short built-reader screen recording. The packaged desktop article capture is committed; the broader matrix remains open.
 
 ## Documentation and handoff
 

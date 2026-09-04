@@ -2,7 +2,7 @@
 
 An unofficial, read-only archive and reader for the reader-facing knowledge base at [Hay Day Wiki](https://hayday.fandom.com/wiki/Hay_Day_Wiki). The project is intended to preserve a reproducible snapshot with source revisions, attribution, media provenance, and a calm farm-guide reading experience.
 
-> **Status:** The complete reader-facing snapshot and static archive are published. The repository contains 1,362 article records and 3,708 referenced media records. The Windows desktop package is implemented and locally packaged, but its built-interface capture remains unverified while the required headless service is unavailable.
+> **Status:** The complete reader-facing snapshot and static archive are published. The repository contains 1,362 article records and 3,708 referenced media records. The Windows desktop package is implemented, packaged, and exercised through the required hidden-desktop route.
 
 ## Start here
 
@@ -54,6 +54,15 @@ Every media record receives one terminal decision: `copied`, `external-embed`, `
 On Windows, run `build.bat /s` to install declared dependencies when needed, build the static reader, verify its 5,077-route output, and produce the unpacked desktop application. Run `build-installer.bat /s` to produce and verify the genuine unsigned Squirrel.Windows installer files. The installer is intentionally unsigned and may trigger an unknown-publisher warning.
 
 The desktop reader bundles the same static snapshot as the public reader. It serves those files on an ephemeral loopback port, requires a launch-specific HttpOnly session cookie, prevents path traversal, applies a restrictive content security policy, keeps Node.js out of renderer pages, and opens only approved HTTPS source links externally. See [Desktop reader architecture](docs/architecture/desktop-reader.md).
+
+<details>
+<summary>Built desktop reader capture</summary>
+
+![The packaged desktop reader displaying the Category Help article and its source attribution panel](docs/captures/desktop-article-f2f8df1.png)
+
+The capture came from the packaged application built at commit `f2f8df109084f6985785c01125eced55647a9c88` on an isolated hidden desktop. Its SHA-256 is `a7dedc3c192545ce56db9a350352d36d5e1b56d3a288aef4110eb8638639297a`.
+
+</details>
 
 The repository keeps a hand-written [feature completeness inventory](docs/architecture/feature-completeness.md). Rows marked `Unimplemented` are deliberate, factual placeholders. They are not a promise that a hidden route or sibling project satisfies the requirement.
 

@@ -27,7 +27,9 @@ Code signing is permanently disabled. The generated installer is unsigned and ma
 
 ## Verification
 
-Focused tests exercise session establishment, authenticated home and article requests, unauthorized requests, traversal rejection, content security policy, renderer isolation settings, approved external navigation wiring, and explicit signing controls. Package verification reads the real generated files.
+Focused tests exercise session establishment, authenticated home and article requests, malformed-cookie refusal, unauthorized requests, traversal and symlink rejection, content security policy, renderer isolation settings, approved external navigation wiring, and explicit signing controls. Package verification reads the real generated files and inspects the packaged main and preload code.
+
+The packaged runtime was launched on an isolated hidden desktop at commit `f2f8df109084f6985785c01125eced55647a9c88`. The verified flow rendered Home, activated All articles, rendered all 1,362 rows, opened the first article, displayed attribution, maximized and restored the custom title bar, and reported no body overflow, runtime exception, error log, failed request, or HTTP error response.
 
 ## Suggested articles
 

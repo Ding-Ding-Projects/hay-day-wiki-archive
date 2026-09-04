@@ -22,6 +22,10 @@ Planning identified 1,362 reader-facing records: 994 main-namespace articles and
 - Desktop server and security tests: 2 passed
 - Complete local test set: 13 passed
 - Desktop package: genuine Squirrel.Windows `Setup.exe`, `RELEASES`, and full `.nupkg`; setup PE certificate table absent
+- Final desktop candidate commit: `f2f8df109084f6985785c01125eced55647a9c88`
+- Final setup: 166,192,128 bytes, SHA-256 `65e9de04959d0abce09af6d986b4788a3785edd8c8b24ee8f98b42b344c2e597`, unsigned
+- Packaged runtime: Home, all-pages, and article navigation verified; 1,362 rows rendered; attribution present; maximize and restore state verified; zero body overflow, runtime exceptions, error logs, failed requests, or HTTP error responses
+- Built capture: `docs/captures/desktop-article-f2f8df1.png`, SHA-256 `a7dedc3c192545ce56db9a350352d36d5e1b56d3a288aef4110eb8638639297a`
 
 ## Documentation lane
 
@@ -40,8 +44,8 @@ This lane adds:
 
 ## Verification
 
-The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. Import execution, static route generation, and GitHub Pages publication are complete. The Windows desktop shell and unsigned installer are implemented and locally packaged. Copied-media transfer, built-reader interaction through the required headless route, full UI capture evidence, and a release remain open.
+The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. Import execution, static route generation, GitHub Pages publication, the Windows desktop shell, unsigned installer packaging, and focused built-reader interaction are complete. Copied-media transfer, the full UI capture matrix, screen recording, and a release remain open.
 
 ## Next owner
 
-The next owner should preserve the frozen manifests and copy only media whose reusable rights are proven. Unknown and restricted media must stay source-link-only. Restore the required headless service, exercise the packaged desktop application and every critical reader link, then attach verified installer files to a release. Do not describe the installer as runtime-verified until that interaction evidence exists.
+The next owner should preserve the frozen manifests and copy only media whose reusable rights are proven. Unknown and restricted media must stay source-link-only. Expand the built-interface capture matrix, record the required screen recording, and attach the verified installer files to a release without weakening the unsigned-artifact warning.
