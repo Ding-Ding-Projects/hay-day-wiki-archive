@@ -6,6 +6,7 @@ import { ArchiveSearch } from '@/components/archive-search';
 import {
   categoryMembersFor,
   categoryIndexMembersFor,
+  categoryMemberRoute,
   type CategoryIndex,
   currentArchiveSegments,
   fetchArchiveJson,
@@ -61,18 +62,9 @@ export default function CategoryDetailPage() {
     ? categoryIndexMembersFor(category, categoryIndex)
     : categoryMembersFor(category, records);
   const items = membership.members.map((member) => {
-    const record = member.pageId
-      ? records.find((item) => item.pageId === member.pageId)
-      : records.find((item) => item.title === member.title);
-    const localRoute =
-      member.route && /^(?:\/wiki\/|\/media\/|\/category\/)/.test(member.route)
-        ? member.route
-        : record?.route;
     return {
       title: member.title,
-      route:
-        localRoute ??
-        `/unavailable-source?title=${encodeURIComponent(member.title)}`,
+      route: categoryMemberRoute(member, records),
       detail:
         [
           member.type,

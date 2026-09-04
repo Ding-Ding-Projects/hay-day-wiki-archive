@@ -161,14 +161,23 @@ export default function MediaRecordPage() {
               >
                 I understand, show external video link
               </button>
-            ) : (
+            ) : verifiedProviderUrl(record.originalUrl) ? (
               <a
                 className="source-media-link"
-                href={record.originalUrl ?? record.descriptionUrl}
+                href={verifiedProviderUrl(record.originalUrl) ?? undefined}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Open consented external video source
+                Open verified external video after consent
+              </a>
+            ) : (
+              <a
+                className="source-media-link"
+                href={record.descriptionUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Open source record after consent
               </a>
             )}
           </div>
@@ -224,5 +233,20 @@ function canPreview(record: MediaRecord): boolean {
     );
   } catch {
     return false;
+  }
+}
+
+function verifiedProviderUrl(value: string | null): string | null {
+  if (!value) return null;
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' &&
+      /^(?:www\.)?(?:youtube\.com|youtu\.be|vimeo\.com|player\.vimeo\.com)$/i.test(
+        url.hostname,
+      )
+      ? url.href
+      : null;
+  } catch {
+    return null;
   }
 }

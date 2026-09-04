@@ -131,11 +131,13 @@ export function currentArchiveSegments(
 }
 
 function normalizedTitle(value: string): string {
-  return String(value)
-    .replace(/^Category:/i, '')
-    .replaceAll('_', ' ')
-    .trim()
-    .toLocaleLowerCase();
+  return String(value).replaceAll('_', ' ').trim().toLocaleLowerCase();
+}
+
+function normalizedCategoryTitle(value: string): string {
+  return normalizedTitle(value)
+    .replace(/^category:/, '')
+    .trim();
 }
 
 function redirectTitle(value: string): string {
@@ -149,6 +151,12 @@ function redirectTitle(value: string): string {
   }
 }
 
+function redirectIdentity(record: ArticleRecord): string {
+  return Number.isInteger(record.pageId)
+    ? `page:${record.pageId}`
+    : `title:${record.title}`;
+}
+
 export type RedirectResolution = {
   record: ArticleRecord | null;
   chain: string[];
@@ -160,17 +168,21 @@ export function resolveRedirect(
   record: ArticleRecord,
   records: ArticleRecord[],
 ): RedirectResolution {
-  const byTitle = new Map(
-    records.map((item) => [normalizedTitle(item.title), item]),
-  );
+  const byTitle = new Map<string, ArticleRecord>();
+  for (const item of records) {
+    const key = normalizedTitle(item.title);
+    const existing = byTitle.get(key);
+    // Prefer a canonical record when malformed or future snapshots contain a
+    // duplicate title alongside its redirect record.
+    if (!existing || (existing.redirectTarget && !item.redirectTarget))
+      byTitle.set(key, item);
+  }
   const chain = [record.title];
-  const seen = new Set([normalizedTitle(record.title)]);
+  const seen = new Set([redirectIdentity(record)]);
   let current = record;
   while (current.redirectTarget) {
     const targetTitle = redirectTitle(current.redirectTarget);
     const key = normalizedTitle(targetTitle);
-    if (seen.has(key))
-      return { record: null, chain: [...chain, targetTitle], status: 'loop' };
     const next = byTitle.get(key);
     if (!next)
       return {
@@ -178,7 +190,10 @@ export function resolveRedirect(
         chain: [...chain, targetTitle],
         status: 'missing-target',
       };
-    seen.add(key);
+    const identity = redirectIdentity(next);
+    if (seen.has(identity))
+      return { record: null, chain: [...chain, targetTitle], status: 'loop' };
+    seen.add(identity);
     chain.push(next.title);
     current = next;
     if (chain.length > 32) return { record: null, chain, status: 'loop' };
@@ -208,13 +223,15 @@ export function categoryMembersFor(
       source: 'explicit',
     };
   }
-  const title = normalizedTitle(category.title);
+  const title = normalizedCategoryTitle(category.title);
   const members = records
     .filter(
       (item) =>
         item.pageId !== category.pageId &&
         Array.isArray(item.categories) &&
-        item.categories.some((value) => normalizedTitle(value) === title),
+        item.categories.some(
+          (value) => normalizedCategoryTitle(value) === title,
+        ),
     )
     .map((item) => ({
       pageId: item.pageId,
@@ -232,7 +249,8 @@ export function categoryIndexMembersFor(
 ): { members: CategoryMember[]; source: 'explicit' | 'none' } {
   const key = Object.keys(index.categories ?? {}).find(
     (candidate) =>
-      normalizedTitle(candidate) === normalizedTitle(category.title),
+      normalizedCategoryTitle(candidate) ===
+      normalizedCategoryTitle(category.title),
   );
   if (!key) return { members: [], source: 'none' };
   const members = index.categories[key];
@@ -244,6 +262,22 @@ export function categoryIndexMembersFor(
       : [],
     source: 'explicit',
   };
+}
+
+export function categoryMemberRoute(
+  member: CategoryMember,
+  records: ArticleRecord[],
+): string {
+  const record = member.pageId
+    ? records.find((item) => item.pageId === member.pageId)
+    : records.find((item) => item.title === member.title);
+  const localRoute =
+    member.route && /^(?:\/wiki\/|\/media\/|\/category\/)/.test(member.route)
+      ? member.route
+      : record?.route;
+  return localRoute
+    ? publishedRoute(localRoute)
+    : `/unavailable-source?title=${encodeURIComponent(member.title)}`;
 }
 
 export function rewriteArchiveHtml(html: string): string {
