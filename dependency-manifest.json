@@ -13,6 +13,7 @@
   },
   "notes": [
     "The dependency fetcher never writes dependencies into the repository.",
-    "A static Pages publication has no installer payload, so build-installer.bat fails closed with the exact unsupported capability."
+    "The desktop runtime and Squirrel.Windows packaging tools are declared in package-lock.json.",
+    "Code signing is disabled. The installer is intentionally unsigned and verified from its PE certificate table."
   ]
 }

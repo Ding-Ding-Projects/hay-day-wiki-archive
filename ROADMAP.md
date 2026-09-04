@@ -23,8 +23,9 @@ This checklist records the current state of the archive. A checked item means im
 - [x] Produce the per-file rights matrix from the execution manifest.
 - [ ] Upload eligible original media to immutable Cheap LFS release assets in verified batches.
 - [ ] Verify every copied media asset anonymously by status, content type, byte count, and SHA-256.
-- [ ] Publish GitHub Pages from the validated static bundle.
+- [x] Publish GitHub Pages from the validated static bundle.
 - [ ] Add the release workflow, release timing evidence, manifests, hashes, and unsigned package evidence where applicable.
+- [ ] Verify the packaged Windows desktop reader through the required headless interaction route. Source, server tests, and unsigned Squirrel.Windows output are complete; built-interface interaction is blocked by the unavailable headless service.
 
 ## Reader feature contract
 
