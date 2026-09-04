@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Treasure_Chest.png",
+  "filePageId": 20392,
+  "filePageRevisionId": 89251,
+  "filePageRevisionSha1": "d4b4da3a8debcddfaa99e62b545d648395d84452",
+  "filePageRevisionTimestamp": "2019-10-28T14:26:59Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Mystery Boxes]]",
+  "filePageWikitextHash": "342b6867870780b4ae528ac75527b3d70a58fdb134471005dad6b595190e2a1e",
   "height": 212,
   "immutableUrl": null,
   "mediaId": "File:Treasure Chest.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:26:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATreasure%20Chest.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 48443,
   "sourceSha1": "86a86400fd65058addb88f410dba2d75fcbe8c9e",

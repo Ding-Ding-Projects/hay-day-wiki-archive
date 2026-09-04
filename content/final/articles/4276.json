@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -133,11 +141,12 @@
   "revisionId": 107738,
   "revisionTimestamp": "2025-04-13T20:55:39Z",
   "route": "/wiki/alfred-4276",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Alfred",
   "title": "Alfred",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Alfred.png|left|200px]]\n'''Alfred''' is a [[:Category:Characters|non-player character]] (NPC) who delivers mail and packages.\n\nHe is unlocked at [[experience]] level 15.\n{{Clr}}\n----\n==='''Mail delivery'''===\n[[File:Alfred Mail.png|left|150px|Alfred delivering mail]]\n{{Main|Mailbox}}\nAlfred comes everyday at 12:00 AM UTC to deliver mail to the player's [[mailbox]].\n{{Clr}}\n----\n==='''Package delivery'''===\n[[File:Alfred Package.png|left|150px|Alfred delivering a package]]\nAlfred also delivers packages purchased from the [[catalogue]], gift packages from [[Supercell]] and reward packages from the town Mayor at the end of global [[events]].\n\nAlfred delivers packages to the left of the [[farmhouse]] and players can click on the package to reveal what is inside.\n\nPurchased packages are delivered immediately. Packages from Supercell are delivered once any maintenance breaks are over. These packages usually contain diamonds and a note about the nature of the break. Reward packages are delivered as soon as the common goal has been reached and even if the event is still going on.\n\nA player can only have one package at a time. If an unopened package remains at the farmhouse, any additional packages which need to be delivered will wait until the previous one had been opened.\n{{Clr}}\n----\n==='''Did you know?'''===\n*[[Supercell]] started giving packages with the [[Version History|July 2013]] update. Since then Supercell has frequently contacted users through this method, usually to apologize for server maintenance or announce new features.\n*Alfred is never seen delivering Supercell packages.\n*Prior to the April 2014 update, Alfred delivered mail on foot. Now he rides a light blue Vespa-like scooter.\n----\n{{Navigation}}\n{{Languages\n|de = Alfred\n|es = Alfred\n|ru = Альфред\n}}\n[[Category:Characters]]",
   "wikitextHash": "fa1d4dcd2d80c5aa36c270818b4d4768bef631d22fb6421510331bd6e298f702"
 }

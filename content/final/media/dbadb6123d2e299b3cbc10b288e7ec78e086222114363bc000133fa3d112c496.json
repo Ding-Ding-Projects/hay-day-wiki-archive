@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Salad_Bar_Mastered.png",
+  "filePageId": 12496,
+  "filePageRevisionId": 108611,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T21:08:03Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 604,
   "immutableUrl": null,
   "mediaId": "File:Salad Bar Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T21:08:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASalad%20Bar%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 311513,
   "sourceSha1": "a82c083b72cff54631eb33a2e64db3a33c7ca540",

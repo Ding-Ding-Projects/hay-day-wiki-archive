@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Intro_1.jpg",
+  "filePageId": 25567,
+  "filePageRevisionId": 69347,
+  "filePageRevisionSha1": "c672395bf3d5ea461d70af6dfed4988230e99bad",
+  "filePageRevisionTimestamp": "2017-02-06T01:09:36Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "954f3e3ccc9f605ca1d2c1fc39c9e0020388068af0606e9b5f8be92f1cbcff95",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Hay Day Intro 1.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-08-24T19:25:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHay%20Day%20Intro%201.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 162048,
   "sourceSha1": "ba80c1fbca3249503b72d66cd6d6a1875fa32eaa",

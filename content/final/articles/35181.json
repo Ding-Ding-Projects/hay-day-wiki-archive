@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Grapes Products",
+    "Category:Orange Products",
+    "Category:Preservation Station Products",
+    "Category:Raspberry Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Grapes Products",
+      "Category:Orange Products",
+      "Category:Preservation Station Products",
+      "Category:Raspberry Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -131,11 +147,12 @@
   "revisionId": 110214,
   "revisionTimestamp": "2026-05-24T17:46:57Z",
   "route": "/wiki/dried-fruit-35181",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Dried_Fruit",
   "title": "Dried Fruit",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Dried Fruits.png|200px|left|Dried fruits|link=Special:FilePath/Dried Fruits.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 102\n |price = 1 to 266\n |time = 3 h\n |source = {{Infoicon|preservst|bigger|link=Preservation Station}}\n |base = 74\n |dia = 6\n |time3 = 2 h 33 min\n|xp=32}}\n'''Dried fruits''' is a [[products|product]] unlocked at [[experience]] level 102.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making dried fruits'''===\n[[File:Preservation Station.png|150px|left|Preservation Station|link=Special:FilePath/Preservation_Station.png]]\nDried fruits is made in the [[Preservation Station]].\n\nTo make the dried fruits, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Strawberry.png|75px|Strawberry|link=Strawberry]]\n|[[File:Orange.png|75px|Orange|link=Orange]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours to make one bag, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] station. Each bag gives players 32 [[experience]] points.\n\n{{Clr}}----\n==='''Selling dried fruits'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Dried fruits can be bought or sold for a maximum price of 2,664 {{Infoicon|coin}} for 10 bags.\n* Buying the ingredients required to make the dried fruits costs 225 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 dried fruits per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Trockenobst\n|es = Fruta deshidratada\n|fr = Fruits Secs\n|it = Frutta disidratata\n|nl = Gedroogd Fruit\n|no = Tørket frukt\n|ru = Сухофрукты\n|zh = Dried Fruit\n}}\n[[pt-br:Fruta seca]]\n\n[[Category:Preservation Station Products]]\n[[Category:Grapes Products]]\n[[Category:Raspberry Products]]\n[[Category:Strawberry Products]]\n[[Category:Orange Products]]",
   "wikitextHash": "d3fcf1a5af78d52f56f7af517c8fdc43962a614f3c82bbe6b2339e4bbd6ba82d"
 }

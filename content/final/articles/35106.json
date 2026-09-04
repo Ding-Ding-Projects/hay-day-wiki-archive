@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Corn_Bread_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98583,
   "revisionTimestamp": "2021-08-31T21:25:13Z",
   "route": "/wiki/category%2Fcategory-corn-bread-products-35106",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Corn_Bread_Products",
   "title": "Category:Corn Bread Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Corn Bread.png|thumb]]\nProducts of [[Corn Bread]].\n[[Category:Products]]",
   "wikitextHash": "1359eab4acc32d120de7b6a22728ef19f09734c26b671491ca22e423bfa881ca"
 }

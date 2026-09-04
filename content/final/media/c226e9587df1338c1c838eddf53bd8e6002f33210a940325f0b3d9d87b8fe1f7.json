@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_day_Lv95_new_(2).png",
+  "filePageId": 35060,
+  "filePageRevisionId": 100010,
+  "filePageRevisionSha1": "3f73f787391be2f149e8d400f44a8ee6a3421092",
+  "filePageRevisionTimestamp": "2022-01-09T22:00:44Z",
+  "filePageWikitext": "\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "de271e3b6be32ac17e530ee1b1b7c4cf661aba81e62922838a602ec8ce889801",
+  "height": 1211,
+  "immutableUrl": null,
+  "mediaId": "File:Hay day Lv95 new (2).png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-08-28T03:55:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHay%20day%20Lv95%20new%20(2).png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 1727264,
+  "sourceSha1": "84de4cd3b751b49fb1619ca98fb4a63a0847e746",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Hay_day_Lv95_new_%282%29.png/revision/latest?cb=20210828035501",
+  "title": "File:Hay day Lv95 new (2).png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1558
+}

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_83.png",
+  "filePageId": 20508,
+  "filePageRevisionId": 96100,
+  "filePageRevisionSha1": "f575fd1a1140f055d2132e8dc19be7e62623c8a8",
+  "filePageRevisionTimestamp": "2020-10-09T12:45:07Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "833e9b4badd334d9bd362b878a217443a77200b68aced43ec82f6988b6ca39fb",
+  "height": 1108,
+  "immutableUrl": null,
+  "mediaId": "File:Level 83.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-10-09T12:45:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%2083.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 1491570,
+  "sourceSha1": "63c5d13a99c7ac0ec4213163ad546064a6c79081",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/Level_83.png/revision/latest?cb=20201009124507",
+  "title": "File:Level 83.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1476
+}

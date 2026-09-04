@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Colorful_Candles.png",
+  "filePageId": 34970,
+  "filePageRevisionId": 105170,
+  "filePageRevisionSha1": "c1deee7615d08f7a1f85742cff206983e90cdd63",
+  "filePageRevisionTimestamp": "2024-04-11T15:02:29Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "b24d7f5bebc3fb7792256f3bd5b172dd8f7811696ab3822387b2627c7a0abb88",
   "height": 1034,
   "immutableUrl": null,
   "mediaId": "File:Colorful Candles.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:02:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AColorful%20Candles.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 561440,
   "sourceSha1": "006bd491d6ba75503dae47e537a3e93056f4701c",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Pool_Stage_3.png",
+  "filePageId": 20971,
+  "filePageRevisionId": 77138,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2018-02-07T15:42:44Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 710,
   "immutableUrl": null,
   "mediaId": "File:Lobster Pool Stage 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:43:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALobster%20Pool%20Stage%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 200545,
   "sourceSha1": "1df24433850b4ca205157263490c5954b77b2c00",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yard_Decoration_Level_6.png",
+  "filePageId": 34873,
+  "filePageRevisionId": 99854,
+  "filePageRevisionSha1": "136a37ec5e88ac3df4f5595f4e9e5d5826326890",
+  "filePageRevisionTimestamp": "2021-12-15T23:01:37Z",
+  "filePageWikitext": "== Summary ==\nCustom Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "edcb8c1f37fc1dfd9a6fd658cbd18366dffaa57bdc693983a4e5800a9f86f588",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Yard Decoration Level 6.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-26T12:55:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYard%20Decoration%20Level%206.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 558363,
   "sourceSha1": "227f081df5864b010bcf2861714c461fc419420f",

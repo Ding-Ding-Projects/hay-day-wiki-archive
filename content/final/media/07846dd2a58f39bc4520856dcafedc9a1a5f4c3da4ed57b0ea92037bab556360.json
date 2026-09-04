@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Boat_Broken.png",
+  "filePageId": 20237,
+  "filePageRevisionId": 65713,
+  "filePageRevisionSha1": "9ae1a5bd85638503f12c1b4736e97e6eca78a660",
+  "filePageRevisionTimestamp": "2016-10-24T16:22:23Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "692a111ca4938c044b7f0e77920f2fcc133f0fb837a62a43b6f42fa059f0cda7",
   "height": 1509,
   "immutableUrl": null,
   "mediaId": "File:Fishing Boat Broken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-12T19:54:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Boat%20Broken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 543827,
   "sourceSha1": "b7ef79c454fa8e230501beed5f34e595adc11657",

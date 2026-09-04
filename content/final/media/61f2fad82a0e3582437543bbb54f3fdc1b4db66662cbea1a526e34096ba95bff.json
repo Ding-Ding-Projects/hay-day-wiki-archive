@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Bee_Full.png",
+  "filePageId": 15842,
+  "filePageRevisionId": 88989,
+  "filePageRevisionSha1": "4bebb5a90fa3b94dd11871a0c5eac9e31e802a11",
+  "filePageRevisionTimestamp": "2019-10-25T20:44:32Z",
+  "filePageWikitext": "Picture of honey bees on a full beehive.\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "8b7dbfe0eca88385a17b3ea188e9f5e7d2f4414ca46a01439816ebdb37060e3a",
   "height": 659,
   "immutableUrl": null,
   "mediaId": "File:Honey Bee Full.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:44:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney%20Bee%20Full.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 196723,
   "sourceSha1": "59d965ac923c66e09612b71edb45486277ddf91b",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -297,11 +305,12 @@
   "revisionId": 106923,
   "revisionTimestamp": "2025-01-18T21:59:07Z",
   "route": "/wiki/huchen-10102",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Huchen",
   "title": "Huchen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Huchen.png|200px|left|Huchen]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|redl|big|link=Lure}}\n |spots = any\n |circle = large\n |xp = 4\n}}\n'''Huchen''' are a type of [[fish]].\n\nLike all types of fish, each huchen gives one [[Fish Fillet|fish fillet]] when caught. The huchen is one of 4 fish that can be caught with the red lure. \n\n{{Clr}}\n----\n==='''Catching huchen'''===\nHuchen can be caught with red [[lure]]s in any fishing spot, but their favorite spot is #8 (the rocky area next to the fishing boat).\n\nHuchen can be caught in large circles and therefore are easier to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Huchen in the fishing book'''===\n[[File:Huchen Photo.png|150px|left|Fishing book photo]]\nThe huchen is on page 8 of the [[Fishing Book|fishing book]]:\n\n''A majestic fish that turns bright red in springtime. Likes sandy riverbeds.''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Rotfisch\n|es = Salmón del Danubio\n|no = Hucho\n}}\n[[Category:Fish]]",
   "wikitextHash": "e74cea713294c802d71d7727ad69e133906c9192b68ccb575814b73d98518e61"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Sauce_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98685,
   "revisionTimestamp": "2021-09-07T10:19:37Z",
   "route": "/wiki/category%2Fcategory-tomato-sauce-products-35154",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Sauce_Products",
   "title": "Category:Tomato Sauce Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Tomato Sauce.png|thumb]]\nProducts of [[Tomato Sauce]].\n[[Category:Products]]",
   "wikitextHash": "77f3c0659f07b1605c768fbe61f1e4aae4de970242f4390d6ac45210d911d6c2"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yogurt_Maker.png",
+  "filePageId": 35449,
+  "filePageRevisionId": 108647,
+  "filePageRevisionSha1": "c688ad989c72f0fdf8fca4fe39d1c132d6ada50b",
+  "filePageRevisionTimestamp": "2025-09-26T01:13:18Z",
+  "filePageWikitext": "== Summary ==\n[[Yogurt Maker]] image\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "8576999aa07941015384aa578bbd065ca1f745db0e70ecdfb8ddb3c701f42b6c",
   "height": 630,
   "immutableUrl": null,
   "mediaId": "File:Yogurt Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T01:13:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYogurt%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 345014,
   "sourceSha1": "1027c1aee5e485b267bc69da93ab7e03ce4c982f",

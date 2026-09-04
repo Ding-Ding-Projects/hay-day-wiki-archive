@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Sesame Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Sesame Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 107105,
   "revisionTimestamp": "2025-01-31T18:47:57Z",
   "route": "/wiki/sesame-ice-cream-31887",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sesame_Ice_Cream",
   "title": "Sesame Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n[[File:Sesame Ice Cream.png|200px|left|Sesame ice cream]]\n\n{{Infobox\n |level = 50|price = 1 to 176|time = 2 h|xp = 21|source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}|base = 49|dia = 5|time3 = 1 h 42 min|title = [[Products|Product]]}}\n'''Sesame ice cream''' is a [[products|product]] unlocked at [[experience]] level 50.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n\n==='''Making sesame ice cream'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nSesame ice cream is made in the [[Ice Cream Maker]].\n\nTo make the ice cream, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|[[File:Brown Sugar.png|75px|Brown sugar|link=Brown Sugar]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 2 hours to make one bowl, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 21 [[experience]] points.\n\n{{Clr}}----\n==='''Selling sesame ice cream'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Sesame ice cream can be bought or sold for a maximum price of 1764 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make sesame ice cream cost a total of 136 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 5 sesame ice cream per crate, up to a total of 20 per boat.\n\n{{Clr}}----\n{{Navigation}}\n\n{{Languages\n|de = Sesam-Eiscreme\n|es = Helado de sésamo\n|fr = Glace au Sésame\n|it = Gelato al sesamo\n|nl = Sesamijs\n|no = Sesam-is\n|zh = Sesame Ice Cream\n}}\n[[pt-br:Sorvete de gergelim]]\n[[ru:Кунжутное мороженое]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Cream Products]]\n[[Category:Brown Sugar Products]]\n[[Category:Sesame Products]]",
   "wikitextHash": "f335cd2fd77470fafc13edd86459b51bf7cc4bb0ed4acf96e36cb9c29a104d46"
 }

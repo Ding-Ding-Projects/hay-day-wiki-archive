@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Olive_Oil_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98561,
   "revisionTimestamp": "2021-08-31T21:19:19Z",
   "route": "/wiki/category%2Fcategory-olive-oil-products-35084",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Olive_Oil_Products",
   "title": "Category:Olive Oil Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Olive Oil.png|thumb]]\nProducts of [[Olive Oil]].\n[[Category:Products]]",
   "wikitextHash": "0ddafbe5d3c82d2b085350857bae7ddce28fd70f81674bc2dbc0629da8385348"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sugar_Mill_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57802,
   "revisionTimestamp": "2016-01-21T18:29:21Z",
   "route": "/wiki/category%2Fcategory-sugar-mill-products-7555",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sugar_Mill_Products",
   "title": "Category:Sugar Mill Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sugar_Mill.png|thumb]]\nProducts of the [[Sugar Mill]].\n[[Category:Products]]",
   "wikitextHash": "a44bfaac4a7b69abfb2df23a91969a53f44752df014ef1097147a68954da3f38"
 }

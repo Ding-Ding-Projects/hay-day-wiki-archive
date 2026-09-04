@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greg.png",
+  "filePageId": 7530,
+  "filePageRevisionId": 89334,
+  "filePageRevisionSha1": "6577dcf388f51a07534c67f8864ff897a060ecdc",
+  "filePageRevisionTimestamp": "2019-10-28T16:24:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "934f36b1190fab4434ee8657279a92331833ab4df3f66e1dae250f108c097fad",
   "height": 704,
   "immutableUrl": null,
   "mediaId": "File:Greg.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:24:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreg.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 271346,
   "sourceSha1": "96fc7c80764d8d9abbbe5b821b27d56d0cec62d8",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wok_Kitchen_Mastery.png",
+  "filePageId": 34220,
+  "filePageRevisionId": 98288,
+  "filePageRevisionSha1": "477c26471160921b579c559aa332d460e6ec580e",
+  "filePageRevisionTimestamp": "2021-07-15T22:31:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "06a747cfc63ab21189c6f870b2f73efb9f28083f27d99602faab995eddee2570",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Wok Kitchen Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-28T15:32:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWok%20Kitchen%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 84872,
   "sourceSha1": "1f54c955e6b141dbcad7768227035b53e8e5888d",

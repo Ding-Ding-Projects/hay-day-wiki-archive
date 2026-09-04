@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Halloween Treats Maker Products",
+    "Category:Spooky Lollipops Products",
+    "Category:Violet Dress Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Halloween Treats Maker Products",
+      "Category:Spooky Lollipops Products",
+      "Category:Violet Dress Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -93,11 +105,12 @@
   "revisionId": 108778,
   "revisionTimestamp": "2025-10-23T20:28:46Z",
   "route": "/wiki/colorful-frogs-36444",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Colorful_Frogs",
   "title": "Colorful Frogs",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Colorful Frogs.png|200px|left|Colorful Frogs]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 25\n |halloweenhat = 20\n |time = 10m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 102\n |dia = 3\n}}\n'''Colorful Frogs''' is a [[products|product]] unlocked at [[experience]] level 25. It's a special item used only for the Halloween 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Soft Candies'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nColorful Frogs are made in the [[Halloween Treats Maker]].\n\nTo make a serving of colorful frogs in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Spooky Lollipops.png|75px|Spooky Lollipops|link=Spooky Lollipops]]\n|[[File:Violet Dress.png|75px|Violet Dress|link=Violet Dress]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make one,and 5 minutes in a 1-star mastered station. Each colorful frogs gives players 102 [[experience]] points.\n\nAdditionally, Colorful Frogs is used to make the following [[products]]:\n{{Item Usage|Colorful Frogs\n|Skull Treats|1|45\n}}\n\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 colorful frogs  per crate, up to a total of 8 per boat. Each candy used on a boat will be rewarded with 20 [[Halloween Hat]]s, 30 halloween hats in a 2-star and 40 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Spooky Lollipops Products]]\n[[Category:Violet Dress Products]]\n\n\n{{Languages\n|es = Ranas multicolor\n}}",
   "wikitextHash": "6200c9de75718f09a6d1ea288d7026144e6d52f19f8d44bbf2e33d6363835224"
 }

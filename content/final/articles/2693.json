@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -406,11 +414,12 @@
   "revisionId": 109965,
   "revisionTimestamp": "2026-05-10T13:35:18Z",
   "route": "/wiki/potato-2693",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potato",
   "title": "Potato",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potato.png|200px|left|Potato]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 35\n |price = 1 to 36\n |time = 3 h 40 min\n |xp = 7\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 10\n |dia = 7\n}}\n'''Potatoes''' are field [[crops]] unlocked at [[experience]] level 35.\n\nThey are used to make several [[products]], and are often combined with [[Dairy]] items in recipes.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 540 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing potatoes'''===\nPotatoes are grown in [[Farm|fields]] by planting another potato (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 7 {{Infoicon|xp}} points, and takes 3 hours and 40 minutes in order to be harvested.\n<gallery>\nPotato Stage 1.png\nPotato Stage 2.png\nPotato Stage 3.png\nPotato Stage 4.png\nPotato Stage 5.png\n</gallery>\n----\n==='''Selling potatoes'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Potatoes can be sold or bought for a maximum price of 360 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n==='''Using potatoes'''===\nPotatoes are used to make the following [[products]]:\n\n{{Item Usage|Potato\n|Baked Potato|2|35\n|Casserole|2|36\n|Potato Feta Cake|1|38\n|Potato Bread|2|39\n|Shepherd's Pie|2|39\n|Fish and Chips|3|41\n|Lamb Soup|1|46\n|Fish Soup|3|53\n|Cabbage Soup|2|65\n|Winter Veggies|2|72\n|Gnocchi|4|72\n|Potato Soup|3|78\n|Broccoli Soup|3|87\n|Bacon Fries|4|87\n|Potato Omelet|1|87\n|Mushroom Salad|2|89\n|Samosa|3|103\n|Winter Stew|3|112\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 6 to 14 potatoes per crate, up to a total of 52 per boat.\n* Each unit of potato gives players 14 coins and 10 experience points in boat orders.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Potatoes are uncommon enough that selling them at a lower price is not necessary.\n* Potatoes can be found occasionally in the [[Daily Dirt]].\n* Recipes ask for one to four potatoes. You want to make sure you always have enough of them in your [[silo]].\n----\n[[ru:Картофель]]\n{{Navigation}}\n{{Languages\n|de = Kartoffel\n|es = Patata\n|fr = Pomme de Terre\n|it = Patata\n|no = Potet\n|sv = Potatis\n|vi = Potato\n|zh = Potato\n}}\n[[pt-br:Batata]]\n[[ru:Картофель]]\n[[Category:Field Crops]]",
   "wikitextHash": "f4b5d060490310e300cade5360de7f31c9aa6fd5f4b0dcd843ef7a2722c8417f"
 }

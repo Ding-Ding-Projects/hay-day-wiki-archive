@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mike_Winter.PNG",
+  "filePageId": 22659,
+  "filePageRevisionId": 69737,
+  "filePageRevisionSha1": "e08251b0e9a0a0319d064890dbf2bce296abfec5",
+  "filePageRevisionTimestamp": "2017-02-07T18:31:34Z",
+  "filePageWikitext": "NPC Mike in Winter Attire\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "bd7faa3fc6b9dadce6cf3589ecfdc8536292e42618ba7ac0c3e3f1131593f7a7",
   "height": 219,
   "immutableUrl": null,
   "mediaId": "File:Mike Winter.PNG",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-16T21:12:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMike%20Winter.PNG",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 72362,
   "sourceSha1": "a41c97dcad853d6c2c1bf1da358dc129235da62d",

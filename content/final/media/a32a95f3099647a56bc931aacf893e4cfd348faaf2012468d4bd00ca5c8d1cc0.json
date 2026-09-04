@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plot_Locked.png",
+  "filePageId": 21104,
+  "filePageRevisionId": 65710,
+  "filePageRevisionSha1": "c672395bf3d5ea461d70af6dfed4988230e99bad",
+  "filePageRevisionTimestamp": "2016-10-24T16:20:19Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "954f3e3ccc9f605ca1d2c1fc39c9e0020388068af0606e9b5f8be92f1cbcff95",
   "height": 661,
   "immutableUrl": null,
   "mediaId": "File:Plot Locked.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-16T19:11:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlot%20Locked.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 282995,
   "sourceSha1": "7cdff3a7ec3f884fd2da23e45f544b53cb61bc3a",

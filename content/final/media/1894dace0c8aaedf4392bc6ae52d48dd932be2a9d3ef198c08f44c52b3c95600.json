@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Events.png",
+  "filePageId": 21368,
+  "filePageRevisionId": 77755,
+  "filePageRevisionSha1": "156c4d40cee611869c33cac25b8a89723b52acd6",
+  "filePageRevisionTimestamp": "2018-02-21T21:58:02Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "dd4e82bd6fdb83aaff5e7d04e0caed7ea0b30b87fd4da0bbb68858827096813a",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Events.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-21T21:58:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Events.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 23272,
   "sourceSha1": "2f5ea0f5e1ca3b2a498e7fe4d35e45d1a4c25e7c",

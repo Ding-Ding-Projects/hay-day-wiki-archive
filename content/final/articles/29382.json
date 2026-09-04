@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Collection_Book?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 78371,
   "revisionTimestamp": "2018-04-13T17:45:16Z",
   "route": "/wiki/collection-book-29382",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Collection_Book",
   "title": "Collection Book",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Customization]]",
   "wikitextHash": "3c18044be401a9c78b2d5b06fd11b02ce94419fefc6daf86630b0abef291ef72"
 }

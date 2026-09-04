@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Suomi_-_Mestariliigaa_Tyhj%C3%A4ll%C3%A4_Ladolla",
+  "filePageId": 32419,
+  "filePageRevisionId": 90314,
+  "filePageRevisionSha1": "f0a2eb7d7ee8a26ec1f30fd721ee8f2ce8a4759e",
+  "filePageRevisionTimestamp": "2020-02-04T15:01:32Z",
+  "filePageWikitext": "\n== Description ==\nHaastetta kerrakseen.\n\nJätäthän tykkäyksen jos pidit videosta, ja tilaa halutessasi kanaa tästä: https://bit.ly/2JQ1LhV\n\n#hayday\n#supercell\n[[Category:Videos]]",
+  "filePageWikitextHash": "e10e1208bb5ef3b5748d1cdd9e4e92ce1be1236a1bbe88005df2150f7b50e2c0",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Suomi - Mestariliigaa Tyhjällä Ladolla",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-02-04T15:01:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Suomi%20-%20Mestariliigaa%20Tyhj%C3%A4ll%C3%A4%20Ladolla",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 30221,
+  "sourceSha1": "5520bc750917761e66f1a120c915726dda7cf5f8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Hay_Day_Suomi_-_Mestariliigaa_Tyhj%C3%A4ll%C3%A4_Ladolla/revision/latest?cb=20200204150132",
+  "title": "File:Hay Day Suomi - Mestariliigaa Tyhjällä Ladolla",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -329,11 +337,12 @@
   "revisionId": 110375,
   "revisionTimestamp": "2026-06-04T15:02:00Z",
   "route": "/wiki/bell-pepper-29901",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bell_Pepper",
   "title": "Bell Pepper",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bell Pepper.png|200px|left|Bell pepper]]\n\n{{Infobox\n|level = 74\n|price = 1 to 36\n|time = 4 h 30m\n|xp = 7\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 10\n|dia = 7\n|title = [[Crops|Crop]]}}\n'''Bell peppers''' are field [[crops]] unlocked at [[experience]] level 74.\n\nThey are used to make [[Bell Pepper Soup|bell pepper soup]] and [[Veggie Platter|veggie platters]]. \n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 540 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing bell peppers'''===\nBell peppers are grown in [[Farm|fields]] by planting another pepper (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 7 [[experience]] points, and takes 4 hours and 30 minutes to mature.\n<gallery>\nFile:Bell peppers Stage 1.png\nFile:Bell peppers Stage 2.png\nFile:Bell peppers Stage 3.png\nFile:Bell peppers Stage 4.png\nFile:Bell peppers Stage 5.png\n</gallery>\n\n----\n==='''Selling bell peppers'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Bell peppers can be sold or bought for a maximum price of 360 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using bell peppers''' ===\nBell peppers are used to make the following [[products]]:\n\n{{Item Usage|Bell Pepper\n|Veggie Platter|2|74\n|Colourful Omelet|1|77\n|Stuffed Peppers|3|80\n|Bell Pepper Soup|2|81\n|Bacon Fondue|1|86\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 9 to 14 bell peppers per crate, up to a total of 56 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\nit is useful to always have enough bell peppers, because bell pepper soup demands a lot. \nBell peppers take a long time, so for derby it is better to use other crops.\n----\n{{Navigation}}\n{{Languages\n|de = Paprika\n|es = Pimiento\n|fr = Poivron\n|it = Peperone\n|no = Paprika\n|ru = Болгарский_перец\n}}\n[[pt-br:Pimentão]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "6fc3a32d692ec50b938675287618ae0a8c9316ada95b5adcce3f8ed0e437855c"
 }

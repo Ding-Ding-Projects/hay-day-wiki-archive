@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_215.png",
+  "filePageId": 35535,
+  "filePageRevisionId": 101433,
+  "filePageRevisionSha1": "406910f3ed9770a3237b35625c02141a4ed32b86",
+  "filePageRevisionTimestamp": "2022-08-02T20:51:49Z",
+  "filePageWikitext": "== Summary ==\nUpgrade level banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "7de7b16a1f26422dd3b98715b0ab691198857ba78773fcd54879d4449b53d19e",
   "height": 359,
   "immutableUrl": null,
   "mediaId": "File:Level 215.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-02T18:07:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20215.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 616724,
   "sourceSha1": "d4d04d60ee453c67ba238b6308e76d19202c8b8c",

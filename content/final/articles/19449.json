@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Pasta Maker Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Pasta Maker Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +174,12 @@
   "revisionId": 107283,
   "revisionTimestamp": "2025-02-16T21:16:06Z",
   "route": "/wiki/fresh-pasta-19449",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fresh_Pasta",
   "title": "Fresh Pasta",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fresh Pasta.png|200px|left|Fresh pasta]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 67\n |price = 1 to 43\n |time = 15 min\n |source = {{Infoicon|pastam|bigger|link=Pasta Maker}}\n |xp = 5\n |base = 12\n |time3 = 12 min\n |dia = 2\n}}\n'''Fresh pasta''' is a [[Products|product]] unlocked at [[experience]] level 67.\n\nIt is used to make [[Broccoli Pasta|broccoli pasta]], [[Lobster Pasta|lobster pasta]], [[Pasta Salad|pasta salad]], [[Veggie Lasagna|veggie lasagna]], [[Pasta Carbonara|pasta carbonara]], [[Spicy Pasta|spicy pasta]] and [[Mushroom Pasta|mushroom pasta]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making fresh pasta'''===\n[[File:Pasta Maker.png|150px|left|Pasta Maker]]\nFresh pasta is made in the [[Pasta Maker]].\n\nTo make fresh pasta, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 15 minutes to make one unit, and only 12 minutes in a fully [[Masteries|mastered]] maker. Each unit gives players 5 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fresh pasta'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fresh pasta can be bought or sold for a maximum price of 432 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make fresh pasta costs 24 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using fresh pasta'''===\nFresh pasta is used to make the following [[products]]:\n\n{{Item Usage|Fresh Pasta\n|Pasta Salad|4|67\n|Veggie Lasagna|3|74\n|Lobster Pasta|3|79\n|Pasta Carbonara|3|83\n|Broccoli Pasta|3|83\n|Spicy Pasta|3|87\n|Mushroom Pasta|3|101\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 8 to 12 units of fresh pasta per crate, up to a total of 48 units per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Although fresh pasta can occasionally be found in the [[Daily Dirt]] you shouldn't expect to be able to get it there, especially since it is needed in big quantities to make dishes and fill boat crates.\n* Since Fresh Pasta has the most amount of uses of a product that requires [[Egg|eggs]], if you're making a lot of pasta dishes, it's a good idea to stock up on eggs.\n** [[Mayonnaise]] is another product that requires a lot of eggs, but since most recipes only require one, and there's less products that require it, it's best to use your eggs toward Fresh Pasta.\n----\n\n{{Navigation}}\n{{Languages\n|de = Frische Nudeln\n|es = Pasta fresca\n|fr = Pâtes fraiches\n|it = Pasta fresca\n|nl = Verse Pasta\n|no = Fersk pasta\n|zh = Fresh Pasta\n}}\n[[pt-br:Massa fresca]]\n[[ru:Свежая паста]]\n\n[[Category:Pasta Maker Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]",
   "wikitextHash": "6d60ad21a7a6996b92e80d97e183b98bc80ba2a6b3edad3c39cfe982525c2dab"
 }

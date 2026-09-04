@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stacked_Rock.png",
+  "filePageId": 36728,
+  "filePageRevisionId": 109897,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2026-05-09T18:29:46Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
   "height": 467,
   "immutableUrl": null,
   "mediaId": "File:Stacked Rock.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-09T18:29:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStacked%20Rock.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 225579,
   "sourceSha1": "660927a6c9e4e9484e333bca91149ed76f5ea3d8",

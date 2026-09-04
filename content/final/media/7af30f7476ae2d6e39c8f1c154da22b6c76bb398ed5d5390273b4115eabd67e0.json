@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Tree_Sequence_1.jpg",
+  "filePageId": 21056,
+  "filePageRevisionId": 74039,
+  "filePageRevisionSha1": "bc4fc5265f7d591a59b594a4b30f8621fdbf842f",
+  "filePageRevisionTimestamp": "2017-10-22T09:59:02Z",
+  "filePageWikitext": "a five part image sequence depicting winning the Golden Tree decoration\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "bf797bb9c609b4d2ddada826639d59aba79088e2fd8c581b99df66627c28de0f",
+  "height": 625,
+  "immutableUrl": null,
+  "mediaId": "File:Golden Tree Sequence 1.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T20:18:53Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGolden%20Tree%20Sequence%201.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 63482,
+  "sourceSha1": "1c8e575b3d808a196659004e9eb26ea5f1afeb44",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/55/Golden_Tree_Sequence_1.jpg/revision/latest?cb=20150714201853",
+  "title": "File:Golden Tree Sequence 1.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

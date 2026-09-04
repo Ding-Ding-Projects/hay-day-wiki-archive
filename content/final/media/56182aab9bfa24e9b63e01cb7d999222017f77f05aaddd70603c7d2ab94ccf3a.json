@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Bright_Yellow.jpg",
+  "filePageId": 29848,
+  "filePageRevisionId": 81633,
+  "filePageRevisionSha1": "a8e2f3e5b54beeee914a4ac44dae7c32867a59ce",
+  "filePageRevisionTimestamp": "2018-06-30T12:17:58Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "86b8e3e01607efd0c047f78a20522202a9d6441fe7df4a218ee03fb87dac8b9c",
   "height": 137,
   "immutableUrl": null,
   "mediaId": "File:Cabin Bright Yellow.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-06-12T01:59:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACabin%20Bright%20Yellow.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 7763,
   "sourceSha1": "5305586787c37aa0808869f0d4a0b6ab6257d74a",

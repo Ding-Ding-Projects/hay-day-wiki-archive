@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Savannah_Babies_III.png",
+  "filePageId": 29623,
+  "filePageRevisionId": 79839,
+  "filePageRevisionSha1": "0d93cb9ce59310b82f39bcdd58f11c2c696afd31",
+  "filePageRevisionTimestamp": "2018-05-01T15:43:45Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "4918cd2bd9a2ee9c0f46b9089fe5fbf49ce30ecbff362a64ee2a050dbf1036d9",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Savannah Babies III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T20:09:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASavannah%20Babies%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 197334,
   "sourceSha1": "7a70f6dd020c32cc774448ee1f26b6f53e4ea20d",

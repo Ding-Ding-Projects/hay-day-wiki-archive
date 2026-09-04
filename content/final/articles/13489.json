@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Iron Ore Products",
+    "Category:Smelter Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Iron Ore Products",
+      "Category:Smelter Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -147,11 +157,12 @@
   "revisionId": 108227,
   "revisionTimestamp": "2025-08-05T20:08:48Z",
   "route": "/wiki/iron-bar-13489",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Iron_Bar",
   "title": "Iron Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Iron Bar.png|200px|left|Iron bar]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 34\n |price = 1 to 129\n |time = 7 h\n |upgrades = {{Infoicon|ptrain|big|link=Personal Train}}\n |source ={{Infoicon|smelter|bigger|link=Smelter}}\n |xp = 15\n |base = 36\n |time3 = 5 h 57 min\n |dia = 8\n}}\n'''Iron bars''' are [[products]] unlocked at [[experience]] level 34.\n\nIron bars are used to make [[Jeweler|jewelry]], and to upgrade the [[Personal Train|personal train]] in the player's [[town]].\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making iron bars'''===\n[[File:Smelter.png|150px|left|Smelter]]\nIron bars are made in the [[Smelter]].\n\nTo make an iron bar, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Iron Ore.png|75px|Iron ore|link=Iron Ore]]\n|-\n|'''x3'''\n|}\nIt takes 7 hours to make one bar, and 5 hours 57 minutes in a fully [[Masteries|mastered]] smelter. Each bar gives players 14 [[experience]] points.\n\n{{Clr}}----\n==='''Selling iron bars'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Iron bars can be bought or sold for a maximum price of 1,296 {{Infoicon|Coin}} for 10 bars.\n* Buying the ingredients required to make a bar costs 42 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using iron bars'''===\nIron bars are used to make the following [[products|product]]:\n\n{{Item Usage|Iron Bar\n|Iron Bracelet|2|41\n}}\n{{Clr}}----\n\n==='''Strategy tips'''===\n* As is the case for all Smelter products, completing a [[truck]] order requesting one or more bars rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for iron bars\n----\n\n{{Navigation}}\n{{Languages\n|de = Eisenbarren\n|es = Lingote de hierro\n|fr = Lingot de Fer\n|it = Sbarra di ferro\n|nl = IJzeren Staaf\n|no = Jernstang\n|ru = Слиток железа\n|zh = Iron Bar\n}}\n[[pt-br:Barra de ferro]]\n\n[[Category:Smelter Products]]\n[[Category:Iron Ore Products]]",
   "wikitextHash": "7b2f3ce81cedf887e9ef6a17faabf5db0f7cfd617f37d12915631c3c05035c2b"
 }

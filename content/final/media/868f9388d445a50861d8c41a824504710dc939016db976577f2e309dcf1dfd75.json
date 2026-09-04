@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Edit_Mode_Eraser.png",
+  "filePageId": 23825,
+  "filePageRevisionId": 76284,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2017-12-27T17:34:03Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
   "height": 653,
   "immutableUrl": null,
   "mediaId": "File:Edit Mode Eraser.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-08T19:25:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AEdit%20Mode%20Eraser.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 111338,
   "sourceSha1": "241917738a15d2c1b76823fd0fbc83685c8cfbb4",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:No.png",
+  "filePageId": 7599,
+  "filePageRevisionId": 79788,
+  "filePageRevisionSha1": "7a6ffc3afaaa79f1cf352b89f0032da6b81cd029",
+  "filePageRevisionTimestamp": "2018-04-30T22:03:56Z",
+  "filePageWikitext": "Declining a request from a visiting customer.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "5b0030fea62cbff589264aa397e59432bd96c96998aeb5f9987db30b58928e5a",
   "height": 86,
   "immutableUrl": null,
   "mediaId": "File:No.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T22:03:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 24732,
   "sourceSha1": "842c14632fd6881e13b8515e399ae509c82c7a1d",

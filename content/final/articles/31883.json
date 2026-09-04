@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -340,11 +348,12 @@
   "revisionId": 109968,
   "revisionTimestamp": "2026-05-10T13:40:44Z",
   "route": "/wiki/sesame-31883",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sesame",
   "title": "Sesame",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sesame.png|200px|left]]\n\n{{Infobox\n |level = 50\n |price = 1 to 18\n |time = 1 h\n |xp = 4\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 5\n |dia = 4\n |title = [[Crops|Crop]]\n}}\n'''Sesame''' is a field [[crops|crop]] unlocked at [[experience]] level 50.\n\nIt is used to make [[Fish Skewer|fish skewers]], [[Snack Mix|snack mixes]], [[Sesame Brittle|sesame brittle]], [[Sesame Ice Cream|sesame ice cream]], [[Black Sesame Smoothie|sesame smoothies]] and [[Rice Ball|rice balls]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 270 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing sesame'''===\nSesame is grown in fields by planting another sesame (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 4 [[experience]] points, and takes 1 hour to mature.\n<gallery>\nFile:Sesame Stage 1.png\nFile:Sesame Stage 2.png\nFile:Sesame Stage 3.png\nFile:Sesame Stage 4.png\nFile:Sesame Stage 5.png\n</gallery>\n----\n==='''Selling sesame'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Sesame can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using sesame'''===\nSesame is used to make the following products:\n\n{{Item Usage|Sesame\n|Sesame Ice Cream|3|50\n|Snack Mix|1|64\n|Lamb Stir Fry|1|69\n|Sesame Brittle|3|78\n|Tofu Stir Fry|3|89\n|Black Sesame Smoothie|3|93\n|Fish Skewer|2|96\n|Rice Ball|1|110\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 16 to 25 sesame per crate, up to a total of 100 per boat.\n* Each unit of sesame gives players 8 coins and 6 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n*Recipes ask for 1-3 sesame. You want to make sure you always have enough of them in your silo. \n----\n\n{{Navigation}}\n{{Languages\n|de = Sesam\n|es = Sésamo\n|fr = Sésame\n|it = Sesamo\n|no = Sesam\n|zh = Sesame\n}}\n[[pt-br:Gergelim]]\n[[ru:Кунжут]]\n[[Category:Field Crops]]",
   "wikitextHash": "b38ca2b4e6b179177049f3c436c04b448640203c4698fcb6c511eca95bfa42a1"
 }

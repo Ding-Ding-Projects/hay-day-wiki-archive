@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tom_Spot.png",
+  "filePageId": 2980,
+  "filePageRevisionId": 77077,
+  "filePageRevisionSha1": "e1015e7822da5acd73200d84c9b98d9a4014431f",
+  "filePageRevisionTimestamp": "2018-02-07T15:03:52Z",
+  "filePageWikitext": "Picture of Tom.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "a85d75be03a4ddb6d79da9dd3ab61ac73f0dd42d117265ef01650a454d966ebc",
   "height": 186,
   "immutableUrl": null,
   "mediaId": "File:Tom Spot.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T15:03:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATom%20Spot.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 32623,
   "sourceSha1": "623ce43c5f2e197e63206f68626413353d7e1bdb",

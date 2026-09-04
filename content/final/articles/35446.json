@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Milk Products",
+    "Category:Yogurt Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Milk Products",
+      "Category:Yogurt Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -129,11 +141,12 @@
   "revisionId": 110294,
   "revisionTimestamp": "2026-05-30T21:20:00Z",
   "route": "/wiki/plain-yogurt-35446",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Plain_Yogurt",
   "title": "Plain Yogurt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Plain Yogurt.png|200px|left|Plain Yogurt]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 103\n |price = 1 to 234\n |time = 2 h\n |source = {{Infoicon|yogurtm|bigger|link=Yogurt Maker}}\n |xp = 28\n |base = 65\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Plain yogurt''' is a [[products|product]] unlocked at [[experience]] level 103.\n\nIt is used to make [[Strawberry Yogurt|strawberry yogurt]], [[Tropical Yogurt|tropical yogurt]], and [[Breakfast Bowl|breakfast bowls]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Plain Yogurt'''===\n[[File:Yogurt Maker.png|150px|left|Yogurt Maker]]\nPlain Yogurt is made in the [[Yogurt Maker]].\n\nTo make plain yoghurt, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x3'''\n|'''x2'''\n|}\nIt takes 2 hours  to make plain yogurt, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 28 [[experience]] points.\n\n{{Clr}}----\n==='''Selling plain yogurt'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Plain yogurt can be bought or sold for a maximum price of 2,340 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make plain yogurt costs 197 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using plain yogurt'''===\nPlain yogurt is used to make the following [[products]]:\n\n{{Item Usage|Plain Yogurt\n|Strawberry Yogurt|1|105\n|Tropical Yogurt|1|109\n|Breakfast Bowl|1|119\n}}\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 to 3 plain yogurt per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\nProducing the other yogurt requires plain yogurt, so it’s really important to make as much plain yogurt as possible.\n----\n{{Navigation}}\n{{Languages\n|de = Naturjoghurt\n|es = Yogurt natural\n|fr = Yaourt Nature\n|it = Yogurt bianco\n|nl = Gewone Yoghurt\n|no = Vanlig yoghurt\n|ru = Простой йогурт\n|zh = Plain Yogurt\n}}\n[[pt-br:Iogurte natural]]\n\n[[Category:Yogurt Maker Products]]\n[[Category:Milk Products]]\n[[Category:Cream Products]]",
   "wikitextHash": "b2c3e28101fba70fb910410eef68eaa44a52937977d9da6f00314d28b0c5c423"
 }

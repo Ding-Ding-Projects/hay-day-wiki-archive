@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Brown Sugar Products",
+    "Category:Egg Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Brown Sugar Products",
+      "Category:Egg Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -195,11 +207,12 @@
   "revisionId": 110008,
   "revisionTimestamp": "2026-05-11T21:00:04Z",
   "route": "/wiki/pancake-2337",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pancake",
   "title": "Pancake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pancake.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 9\n |price = 1 to 108\n |time = 30 m\n |xp = 13\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |base = 30\n |dia = 3\n |time3 = 25 m\n}}\n'''Pancake''' are [[products]] unlocked at [[experience]] level 9.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making pancakes'''===\n[[File:BBQ Grill.png|150px|left|link=BBQ Grill|BBQ Grill]]\nPancake are made in the [[BBQ Grill]].\n\nTo make a pancake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Brown Sugar.png|75px|Brown Sugar|link=Brown Sugar]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one pancake, and 25 minutes in a fully [[Masteries|mastered]] grill. Each pancake gives players 13 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling pancakes'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Pancakes can be bought or sold for a maximum price of 1,080 {{Infoicon|Coin}} for 10 pancakes.\n* Buying the ingredients required to make a pancake costs 86 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 pancakes per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Pancakes are very hard to find in the [[Daily Dirt]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Pfannkuchen\n|es = Tortitas\n|fr = Pancake\n|it = Pancake\n|nl = Pannenkoek\n|no = Pannekake\n|ru = Блинчик\n|vi = Bánh kếp\n|zh = 小煎饼\n}}\n[[pt-br:Panqueca]]\n\n[[Category:BBQ Grill Products|1]]\n[[Category:Egg Products]]\n[[Category:Brown Sugar Products]]",
   "wikitextHash": "a7fae55477ed7089338501ce200db72aae931418eebb5dfa64fd11a54b0afd7e"
 }

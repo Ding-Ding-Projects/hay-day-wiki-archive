@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Wrapping_Station_Mastery_2025_II.png",
+  "filePageId": 36490,
+  "filePageRevisionId": 108994,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2025-12-20T03:35:37Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
   "height": 180,
   "immutableUrl": null,
   "mediaId": "File:Gift Wrapping Station Mastery 2025 II.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-12-20T03:08:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Wrapping%20Station%20Mastery%202025%20II.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 105152,
   "sourceSha1": "7bd274fa70816562f2e47c051713ccd06521563f",

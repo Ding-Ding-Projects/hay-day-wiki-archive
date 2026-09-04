@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Info.svg",
+  "filePageId": 23410,
+  "filePageRevisionId": 77685,
+  "filePageRevisionSha1": "078b68865b2952b0686c7933281861d83aafbc83",
+  "filePageRevisionTimestamp": "2018-02-20T00:08:00Z",
+  "filePageWikitext": "== Licensing ==\n{{GNU LGPL}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "11aebea244fa7a7552812b701547762532f27dd0dd39d560a923ef2e8da0336c",
   "height": 512,
   "immutableUrl": null,
   "mediaId": "File:Info.svg",
   "mediaType": "DRAWING",
   "mime": "image/svg+xml",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-20T00:07:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "GNU LGPL"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
   "route": "/media/File%3AInfo.svg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 723,
   "sourceSha1": "998df247ce396ebb6d33e8ec19e34db9b108b046",

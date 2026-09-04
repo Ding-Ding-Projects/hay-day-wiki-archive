@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mail_Sorting.png",
+  "filePageId": 36668,
+  "filePageRevisionId": 109498,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2026-02-25T12:16:22Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
   "height": 598,
   "immutableUrl": null,
   "mediaId": "File:Mail Sorting.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-02-25T12:16:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMail%20Sorting.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 291698,
   "sourceSha1": "9ed0c153fcaf0a27106ebe2bc41be79be1d42d53",

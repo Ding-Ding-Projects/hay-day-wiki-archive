@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Daily_Reward?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 79591,
   "revisionTimestamp": "2018-04-27T16:22:59Z",
   "route": "/wiki/category%2Fcategory-image-daily-reward-29583",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Daily_Reward",
   "title": "Category:Image Daily Reward",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Trailer|Night at the Movies]].\n[[Category:Images]]",
   "wikitextHash": "3eb9014ef8101cd532ae63ed38a0496821d40047b329228271224b1e8d38d028"
 }

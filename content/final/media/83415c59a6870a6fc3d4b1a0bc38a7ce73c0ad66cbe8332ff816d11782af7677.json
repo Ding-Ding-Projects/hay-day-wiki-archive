@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rhino_Statue.png",
+  "filePageId": 25867,
+  "filePageRevisionId": 77250,
+  "filePageRevisionSha1": "0df98a82011e14e3c05ea21c496e515aed41c508",
+  "filePageRevisionTimestamp": "2018-02-07T17:18:36Z",
+  "filePageWikitext": "Rhino Statue part of the Fall Deco Package 3\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "0074e3ef2619324db64007d5d18e22b73c286f252fa29705fec513df5dfe8994",
   "height": 700,
   "immutableUrl": null,
   "mediaId": "File:Rhino Statue.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:18:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARhino%20Statue.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 433866,
   "sourceSha1": "2141a4d610ebf736388fa4a7e4631c49ce0a02fe",

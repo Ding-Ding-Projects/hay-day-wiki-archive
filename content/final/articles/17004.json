@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Duck Feather Products",
+    "Category:Sewing Machine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Duck Feather Products",
+      "Category:Sewing Machine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +137,12 @@
   "revisionId": 109074,
   "revisionTimestamp": "2026-01-07T00:00:30Z",
   "route": "/wiki/pillow-17004",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pillow",
   "title": "Pillow",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pillow.png|200px|left|Pillow]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 51\n |price = 1 to 676\n |time = 3 h\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 81\n |base = 188\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Pillows''' are [[products]] unlocked at [[experience]] level 51.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making pillows'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nPillows are made in the [[Sewing Machine]].\n\nTo make a pillow, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|[[File:Duck Feather.png|75px|link=Duck Feather|Duck feathers]]\n|-\n|'''x2'''\n|'''x3'''\n|}\nIt takes 3 hours to make a pillow, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] machine. Each pillow gives players 81 [[experience]] points.\n\n{{Clr}}----\n==='''Selling pillows'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pillows can be bought or sold for a maximum price of 6,768 {{Infoicon|coin}} for 10 pillows.\n* Buying the ingredients required to make a pillow costs 636 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 pillow per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Kissen\n|es = Almohada\n|fr = Oreiller\n|it = Cuscino\n|nl = Kussen\n|no = Pute\n|zh = Pillow\n}}\n[[pt-br:Travesseiro]]\n[[ru:Подушка]]\n[[Category:Sewing Machine Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Duck Feather Products]]",
   "wikitextHash": "e0c534441a3112dca536ac3be4820864b9a4d116fa1c9f69f2817e29f335002a"
 }

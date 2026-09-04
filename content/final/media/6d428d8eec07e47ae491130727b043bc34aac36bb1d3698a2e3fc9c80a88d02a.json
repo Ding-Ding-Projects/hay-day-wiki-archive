@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jam_Maker.png",
+  "filePageId": 2381,
+  "filePageRevisionId": 108666,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-26T03:36:43Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Jam Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T03:36:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJam%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 315998,
   "sourceSha1": "4111cda60ff713a51121065df5579baa89196316",

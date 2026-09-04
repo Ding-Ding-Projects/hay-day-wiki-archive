@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Map.png",
+  "filePageId": 21091,
+  "filePageRevisionId": 65704,
+  "filePageRevisionSha1": "c672395bf3d5ea461d70af6dfed4988230e99bad",
+  "filePageRevisionTimestamp": "2016-10-24T16:13:07Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "954f3e3ccc9f605ca1d2c1fc39c9e0020388068af0606e9b5f8be92f1cbcff95",
   "height": 695,
   "immutableUrl": null,
   "mediaId": "File:Farm Map.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-23T21:27:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarm%20Map.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 439810,
   "sourceSha1": "ff80847e2c8dcbd3698d34e4042b0db0d9493d3d",

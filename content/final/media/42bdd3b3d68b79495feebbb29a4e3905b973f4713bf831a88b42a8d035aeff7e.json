@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Chunky_Brown.png",
+  "filePageId": 30109,
+  "filePageRevisionId": 87917,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2019-09-21T10:06:03Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 217,
   "immutableUrl": null,
   "mediaId": "File:Crates Chunky Brown.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-07-13T16:13:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrates%20Chunky%20Brown.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 46484,
   "sourceSha1": "15c1939f1f4a07a6e5783b89ee071d60fe306507",

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Milk Products",
+    "Category:Onion Products",
+    "Category:Potato Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Milk Products",
+      "Category:Onion Products",
+      "Category:Potato Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 109803,
   "revisionTimestamp": "2026-05-05T20:25:42Z",
   "route": "/wiki/potato-soup-26436",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potato_Soup",
   "title": "Potato Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potato Soup.png|200px|left|Potato soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 78\n |price = 1 to 255\n |time = 2 h 30 m\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 31\n |dia = 6\n |base = 71\n |time3 = 2 h 7 min\n}}\n'''Potato soup''' is a [[Products|product]] unlocked at [[experience]] level 78.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making potato soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nPotato soup is made in the [[Soup Kitchen]].\n\nTo make soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|Potatoes|link=Potato]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours 30 minutes to make one bowl of soup, and 2 hours 7 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 31 [[experience]] points.\n\n{{Clr}}----\n==='''Selling potato soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Potato soup can be bought or sold for a maximum price of 2,556 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a bowl costs 218 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 potato soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Kartoffelsuppe\n|es = Sopa de patata\n|fr = Soupe de Pommes de Terre\n|it = Zuppa di patate\n|nl = Aardappelsoep\n|no = Potetsuppe\n|ru = Картофельный суп\n|zh = Potato Soup\n}}\n[[pt-br:Sopa de batata]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Milk Products]]\n[[Category:Potato Products]]\n[[Category:Onion Products]]",
   "wikitextHash": "79ebf003d59da9d940855e6ad5d87c0a2b82e71c1cf098c6bf41a6251d5a0cf7"
 }

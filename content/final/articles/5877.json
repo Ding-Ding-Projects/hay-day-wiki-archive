@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Fish Fillet Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Fish Fillet Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +189,12 @@
   "revisionId": 105867,
   "revisionTimestamp": "2024-09-21T22:58:56Z",
   "route": "/wiki/fish-pie-5877",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Pie",
   "title": "Fish Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fish Pie.png|200px|left|Fish pie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 28\n |price = 1 to 226\n |time = 2 h\n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 27\n |base = 63\n |time3 = 1 h 42 min\n |dia= 5\n}}\n\n'''Fish pies''' are [[products]] unlocked at [[experience]] level 28.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fish pies'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nFish pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|link=Fish Fillet|Fish fillets]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make a pie, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 27 [[experience]] points.\n\n{{Clr}}----\n==='''Selling fish pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fish pie can be bought or sold for a maximum price of 2,268 {{Infoicon|Coin}} for 10 pies.\n* Buying the ingredients required to make a fish pie costs 186 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 to 3 fish pies per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Fischpastete\n|es = Gratinado de pescado\n|fr = Gratin de Poisson\n|it = Tortino di pesce\n|nl = Vistaartje\n|no = Fiskepai\n|zh = Fish Pie\n}}\n[[pt-br:Torta de peixe]]\n[[ru:Рыбный пирог]]\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Fish Fillet Products]]",
   "wikitextHash": "42d2a8939ee98a25e4f7bb39049280044f76a8827036e6c79364833e2ef97a42"
 }

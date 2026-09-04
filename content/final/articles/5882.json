@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lure Workbench Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lure Workbench Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -118,11 +126,12 @@
   "revisionId": 103613,
   "revisionTimestamp": "2023-08-08T09:35:23Z",
   "route": "/wiki/lure-5882",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lure",
   "title": "Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Green Lure.png|left|100px|A lure]]\n[[File:Tackle Box.png|left|100px|A Tackle Box]]\n'''Lures''' are are [[products]] unlocked at [[experience]] level 27.\n\nThey are used to catch [[fish]], which produce [[Fish Fillet|fish fillets]]. There are five types of lures: red, green, blue, purple and yellow. Different lures attract different fish.\n\nLike all fishing gear, they are stored in the [[Tackle Box|tackle box]] and cannot be bought or sold, but lures can be requested in the [https://hayday.fandom.com/wiki/Neighborhood neighborhood requests].\n\n[[Truck]] and [[Boat]] never request lure.\n\n{{Clr}}\n----\n==='''Making lures'''===\nLures are made in the [[Lure Workbench]] using [[voucher]]s (except red lures, which require no raw materials).\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"margin: 0 auto; border-collapse: collapse; border: 1px solid #bbb; text-align: center;\"\n! scope=\"col\" style=\"background: #ddd;\"|Name\n! scope=\"col\" style=\"background: #ddd;\"|Duration\n! scope=\"col\" style=\"background: #ddd;\"|Experience\n! scope=\"col\" style=\"background: #ddd;\"|Ingredients\n|- style=\"border-top: 1px solid #bbb;\"\n|[[File:Red Lure.png|left|100px]]<br />'''[[Red Lure|Red lure]]'''\n|1 h 30 min<br />★★★1 h 16 min\n|1{{Infoicon|xp}}\n|None\n|- style=\"background: #ddd;\"\n|[[File:Green Lure.png|left|100px]]<br />'''[[Green Lure|Green lure]]'''\n|1 h 15 min<br />★★★1 h 3 min\n|2{{Infoicon|xp}}\n|1{{Infoicon|greenv}}\n|-\n|[[File:Blue Lure.png|left|100px]]<br />'''[[Blue Lure|Blue lure]]'''\n|1 h<br />★★★51 min\n|3{{Infoicon|xp}}\n|1{{Infoicon|bluev}}\n|- style=\"background: #ddd;\"\n|[[File:Purple Lure.png|left|100px]]<br />'''[[Purple Lure|Purple lure]]'''\n|45 min<br />★★★38 min\n|4{{Infoicon|xp}}\n|1{{Infoicon|purplev}}\n|-\n|[[File:Gold Lure.png|left|100px]]<br />'''[[Gold Lure|Gold lure]]'''\n|30 min<br />★★★25 min\n|5{{Infoicon|xp}}\n|1{{Infoicon|goldv}}\n|}\n----\n==='''Lure packs'''===\n*Lure packs are one-time limited offers for a bundle of lures, [[diamond]]s and [[coin]]s in exchange for real currency. The offer lasts for 24 hours.\n----\n<big>'''Trivia'''</big>\n* The Red Lure resembles a worm, and the Blue Lure resembles a dragonfly.\n* The Red Lure is the first item that does not require any materials to make.\n* Lures are the only items in the game which require vouchers to be produced.\n* The “Blue Lure”, despite its name and the color voucher needed to create one, is actually teal or cyan in color.\n* Using a glitch related to having multiple farms, it is actually possible to acquire fishing lures before level 27 using Neighborhood Requests.\n{{Languages\n|es = Cebo\n}}\n[[Category:Lure Workbench Products]]",
   "wikitextHash": "bfdaf2169f22124a626a3a570212cab9be967da44ab0ecce850750d1452b235b"
 }

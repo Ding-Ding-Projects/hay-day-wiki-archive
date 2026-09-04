@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Hidden_categories?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89065,
   "revisionTimestamp": "2019-10-26T04:15:16Z",
   "route": "/wiki/category%2Fcategory-hidden-categories-2034",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hidden_categories",
   "title": "Category:Hidden categories",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains hidden categories. Unlike normal categories, these are not displayed at the bottom of pages that are included in them, and are therefore hidden from readers.\n\nTo hide a category, add the <code><nowiki>__HIDDENCAT__</nowiki></code> magic word to the bottom of a category.\n[[Category:Site Administration]]",
   "wikitextHash": "64170f054766248ba02b0b1cdef552840067ac819b32c1616aed49d6981d67e9"
 }

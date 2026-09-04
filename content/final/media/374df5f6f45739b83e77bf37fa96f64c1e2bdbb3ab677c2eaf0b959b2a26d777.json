@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_5.png",
+  "filePageId": 13472,
+  "filePageRevisionId": 69443,
+  "filePageRevisionSha1": "3e62bba57e162a27d42ba068dee0728e6e1fb205",
+  "filePageRevisionTimestamp": "2017-02-06T12:28:30Z",
+  "filePageWikitext": "Picture of Reputation Level 5.\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "2a5a9d928dd14fcae2c6fa141d90fab8bc3e38827dbef3110516c45ed279226d",
   "height": 415,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-14T17:41:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 375283,
   "sourceSha1": "cd1a43533390306c2501d08144232a1ada71c5f3",

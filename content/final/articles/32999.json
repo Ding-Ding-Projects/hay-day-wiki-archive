@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Beetroot Products",
+    "Category:Goat Cheese Products",
+    "Category:Salad Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Beetroot Products",
+      "Category:Goat Cheese Products",
+      "Category:Salad Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -160,11 +172,12 @@
   "revisionId": 107778,
   "revisionTimestamp": "2025-04-13T21:15:48Z",
   "route": "/wiki/beetroot-salad-32999",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Beetroot_Salad",
   "title": "Beetroot Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Beetroot Salad.png|200px|left|Beetroot Salad]]\n\n{{Infobox\n |title = [[Products|product]]\n |level = 76\n |price = 1 to 234\n |time = 45 min\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 28\n |base = 65\n |dia = 3\n |time3 = 38 min\n}}\n'''Beetroot Salad''' is a [[products|product]] unlocked at [[experience]] level 76. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making beetroot salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nBeetroot salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Beetroot.png|75px|Beetroot|link=Beetroot]]\n|[[File:Goat Cheese.png|75px|Goat cheese|link=Goat Cheese]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 45 minutes to make one salad, and 38 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 28 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling beetroot salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Beetroot salad can be bought or sold for a maximum price of 2340 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a salad costs 204 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 beetroot salad per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Rote-Bete-Salat\n|es = Ensalada de remolacha\n|fr = Salade de Betteraves\n|it = Insalata di barbabietole\n|nl = Rode-bietensalade\n|no = Rødbetesalat\n|ru = Свекольный салат\n|zh = Beetroot Salad\n}}\n[[pt-br:Salada de beterraba]]\n\n[[Category:Salad Bar Products]]\n[[Category:Beetroot Products]]\n[[Category:Goat Cheese Products]]",
   "wikitextHash": "6cfd78e735156d15166e929120ea986b697cf05388fe24bc71fbf94a748ef77a"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Expansion_Pack.png",
+  "filePageId": 26163,
+  "filePageRevisionId": 66501,
+  "filePageRevisionSha1": "5e6863e7c9baeeff30646807cef74b4147ba65ea",
+  "filePageRevisionTimestamp": "2016-11-13T15:35:47Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "f870581f9f059f3587b6253e011e9718708c139c99e60af342d132c6ffce3e74",
   "height": 842,
   "immutableUrl": null,
   "mediaId": "File:Town Expansion Pack.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-11-01T18:25:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Expansion%20Pack.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 503204,
   "sourceSha1": "a179438eb8abe0470d0fada26f72ef2f51d08c70",

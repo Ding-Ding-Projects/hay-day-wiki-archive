@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blackberry_Bush_Dead.png",
+  "filePageId": 21758,
+  "filePageRevisionId": 89387,
+  "filePageRevisionSha1": "351ef95fa426183899692648f4df0be37558501d",
+  "filePageRevisionTimestamp": "2019-10-28T17:43:39Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "daa851210fbf5efe2ff7a4889f6b1f89d634faf3abf18dee06ed2c729cdf715a",
   "height": 355,
   "immutableUrl": null,
   "mediaId": "File:Blackberry Bush Dead.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T17:43:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlackberry%20Bush%20Dead.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 140311,
   "sourceSha1": "7dce48987006148b328ac68c6dc8f3d643a91b15",

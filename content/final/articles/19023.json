@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Experience"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Experience"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -154,11 +162,12 @@
   "revisionId": 108443,
   "revisionTimestamp": "2025-09-13T12:23:45Z",
   "route": "/wiki/experience-19023",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Experience",
   "title": "Experience",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Avatar Other Icon.png|left|Player's level|44px]]\n'''Experience''' (or '''XP''') is the player's level in the game. When players have gained enough experience points they change levels, which allows them to progress in the game.\n\n{{Clr}}\n----\n==='''Getting experience points'''===\n'''Experience points''' ({{Infoicon|xp}}) can be gained by:\n*harvesting [[crops]] and [[Animal Goods|animal goods]]\n*crafting items in [[Production Buildings|production buildings]]\n*filling [[truck]], [[boat]] and [[Town Visitors|town visitors]] orders\n*selling goods to [[visitors]]\n*reviving [[Trees and Bushes|trees and bushes]]\n*popping [[Tom]]'s balloon\n*waking up pets or sanctuary animals\n*unveiling new [[Production Buildings|production]] or [[Service Buildings|service buildings]]\n*collecting rewards from [[Farm Pass|farm pass]]\n*cutting bushes and trees\n*fishing with lures\n*collecting ready duck and lobster traps from lake\n*clearing rocks and swampy areas\n*placing newly bought decorations on farm\n*mining and collecting ore\n\n{{Clr}}\n\nThe total experience points players have accumulated corresponds to their farm score. Players can tap on their [[farmhouse]] to see the [[Achievements|achievement board]] and their score.\n----\n==='''Leveling up'''===\n[[File:Experience Bar.png|left|200px|Experience bar]]\nExperience points come in the form of blue stars ({{Infoicon|xp}}), which fill up the bar shown at the top of the screen. When players have accumulated the number of required stars the bar resets to 0 and they '''change levels''' (or '''level up'''), which unlocks new items, new features, and rewards.\n\nPlayers can view the items unlocked at the next level by tapping their level star.\n\nAs the player progresses, reaching the next level requires more and more points. Until level 50 the increase is inconsistent. From level 50 reaching the next level always asks for 11,000 more points than required for the previous level. This difference remains the same up to level 500. From level 500 you will need 20,000 more points for each next level. \n\nPlayers can calculate experience points (XP) of each level (L) from below formulas which require for leveling up: \n\n<math display=\"inline\">\\text{XP} = \\begin{cases} 157,000 + 11,000(L-50)  & \\text{for }50\\le L\\le500 \\\\ 5,107,000 + 20,000 (L-500) & \\text{for }L\\geq500 \\end{cases}\n</math>\n\n----\n==='''Level thresholds'''===\n[[File:Level Thresholds.png|left|200px|Thresholds]]\n[[File:Level Threshold Reward.png|left|200px|Threshold reward]]\nFrom level 15 and on, the experience progress bar is divided into parts. When players reach the '''intermediate thresholds''' on the bar they are rewarded with [[supplies]], [[diamond]]s or [[voucher]]s.\n\nThe number of thresholds increases as the players levels up. Numbers of thresholds in level 15-24, 25-39, 40-59, 60-84,  and 85+ are 1, 2, 3, 4, and 5 respectively.\n\n{{Clr}}\n----\n==='''Regular rewards'''===\n[[Farm|Fields]] {{Infoicon|field}} and [[diamond]]s {{Infoicon|dia}} are '''regular rewards''' in the game:\n*Players get additional fields every other level: three until level 49, two until level 99 then one until level 701. Players will get a field every other 4 levels until level 801, then get it every 10 levels after that.\n*From level 37 and on, players get diamonds every level: two until level 49, five starting at level 51 until level 59, eight until level 69, ten until level 99, 12 starting at level 101 until level 149, 15 until level 199, 20 until level 999, and 25 after that.\n*Reaching levels 150, 250, 350, 450, 550, and etc., players get 50 diamonds at each time.\n*Reaching levels 50, 100, 200, 300, 400, 500, 600 to 900, 1000, 1100, 1200, 1300, 1400, and 1500 gives players an exceptional bonus of 5, 50, 100, 200, 300, 400, 425, 450, 475, 500, 525, 550, and 575 diamonds respectively.\n----\n==='''Strategy tips'''===\n*Need more experience points? Fill in [[truck]] orders and accomplish [[Farm Pass|farm pass]] objectives, and you will get plenty of them.\n*See ''[[User_blog:Dreamfarm.hayday/Hay_Day:_Best_Tips_and_Strategies_on_How_to_Play|Best Tips and Strategies on How to Play]]'' for tips on how to level up.\n----\n==='''Table of levels'''===\n{{Main|Experience Levels}}\n\n{{Languages\n|es = Experiencia\n}}\n[[Category:Experience]]",
   "wikitextHash": "53fc38074c209472bae1d2f8f08a7cd5d779bd975a36508b676eac85fcf62646"
 }

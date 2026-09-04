@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:IMG_20160531_135320_burst_02.jpg",
+  "filePageId": 26374,
+  "filePageRevisionId": 69416,
+  "filePageRevisionSha1": "6319ad8d05728aadb69dcc197bffd685259b1de1",
+  "filePageRevisionTimestamp": "2017-02-06T12:19:44Z",
+  "filePageWikitext": "\n[[Category:Image User]]",
+  "filePageWikitextHash": "bec19baa054da263f1fd7220d4ead034fd0e54151193702ff7ff969ca031a26b",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:IMG 20160531 135320 burst 02.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-12-06T22:44:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AIMG%2020160531%20135320%20burst%2002.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 149863,
+  "sourceSha1": "9527a5b62ac886edb97bed4bf430da4c86bf2633",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/IMG_20160531_135320_burst_02.jpg/revision/latest?cb=20161206224404",
+  "title": "File:IMG 20160531 135320 burst 02.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1263
+}

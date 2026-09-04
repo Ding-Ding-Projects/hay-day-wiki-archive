@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:What.png",
+  "filePageId": 24313,
+  "filePageRevisionId": 62119,
+  "filePageRevisionSha1": "1f3ead940d2acb6642c99c6bc375bc720515c036",
+  "filePageRevisionTimestamp": "2016-05-13T22:50:05Z",
+  "filePageWikitext": "== Licensing ==\n{{Self}}\n[[Category:Image User]]",
+  "filePageWikitextHash": "9da77a697a193bd2326703b205817ec091e367241251a63569040b38f11645fd",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:What.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-04-01T20:44:48Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
+  "route": "/media/File%3AWhat.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 245825,
+  "sourceSha1": "02d4415d33cd8bb9466289dd702e979817858802",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d9/What.png/revision/latest?cb=20160401204448",
+  "title": "File:What.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

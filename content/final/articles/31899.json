@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Mushrooms?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 88164,
   "revisionTimestamp": "2019-10-21T20:44:59Z",
   "route": "/wiki/mushrooms-31899",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushrooms",
   "title": "Mushrooms",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Mushroom]]",
   "wikitextHash": "ca036c66bb963af79818627cb3a1f0973b20ff71d2142d9d2691b7e8944d78eb"
 }

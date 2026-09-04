@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_-_Relaxing_and_playing,_talking_about_the_upcoming_events_for_Hay_Day_week_24.",
+  "filePageId": 29860,
+  "filePageRevisionId": 80872,
+  "filePageRevisionSha1": "b6f8d403c393cbc106fb88ec25324b56f223c529",
+  "filePageRevisionTimestamp": "2018-06-14T18:44:56Z",
+  "filePageWikitext": "\n== Description ==\nTalking about the past week, the derby, the events and the events for the new week.   \n\nMy schedule for streaming will be:\n\nThursday:  7 P.M. CST (8 P.M.) EST\nSunday:   7 P.M. CST (8 P.M.) EST\n\nTo donate and support my channel:  https://www.paypal.me/BPorter000\n\n\n \n\n\n\n\nIf you are not subscribed to my channel, please do so and don't forget to push the bell and accept notifications to any future videos.\n\n*************************************************\nSupercell forums for all supercell games.\nhttps://supr.cl/HayDayForums\n\nFor more in depth information on the products, buildings, expansion:\nhttp://hayday.wikia.com/wiki/Master_List\n\nHay Day shop:  https://shop.supercell.com/#game=Hay_Day\n\nHay Day is a free game on IOS devices.  To download, go to the apps on your device and select Hay Day.  And enjoy!\n[[Category:Videos]]",
+  "filePageWikitextHash": "025e2cd844a965950d1a46d5217f4887a20b1f7af1ad4de8390698698e866396",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day - Relaxing and playing, talking about the upcoming events for Hay Day week 24.",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-14T18:44:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20-%20Relaxing%20and%20playing%2C%20talking%20about%20the%20upcoming%20events%20for%20Hay%20Day%20week%2024.",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 25559,
+  "sourceSha1": "0fcf8787b1efe2eaefd3ed6bd067bb45d791126e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b8/Hay_Day_-_Relaxing_and_playing%2C_talking_about_the_upcoming_events_for_Hay_Day_week_24./revision/latest?cb=20180614184455",
+  "title": "File:Hay Day - Relaxing and playing, talking about the upcoming events for Hay Day week 24.",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

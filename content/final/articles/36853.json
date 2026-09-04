@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Pumpkin Products",
+    "Category:Raspberry Muffin Products",
+    "Category:Soybean Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Pumpkin Products",
+      "Category:Raspberry Muffin Products",
+      "Category:Soybean Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -93,11 +107,12 @@
   "revisionId": 110646,
   "revisionTimestamp": "2026-06-22T20:38:20Z",
   "route": "/wiki/boot-balloon-36853",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Boot_Balloon",
   "title": "Boot Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Boot Balloon.png|200px|left|Boot Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 20\n |yellowflower = 20\n |time = 10m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 48\n |dia = 3\n}}\n'''Boot Balloon''' is a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Anniversary 2026 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Boot Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nFlower balloons are made in the [[Birthday Balloon Maker]].\n\nTo make a flower balloon in 2026, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Raspberry Muffin.png |75px|Raspberry Muffin|link=Raspberry Muffin]]\n|[[File:Pumpkin.png|75px|Pumpkin|link=Pumpkin]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x5'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 48 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 4 per boat. Each balloon used on a boat will be rewarded with 20 [[Yellow Flower|yellow flowers]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de =  Stiefelballon\n|es = Globo de bota\n|no = \n|pt-br = \n|ru = \n}}\n\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Raspberry Muffin Products]]\n[[Category:Pumpkin Products]]\n[[Category:Soybean Products]]",
   "wikitextHash": "99f942dc0eb8a7adb372b4929ec7d6bc2480cfa1fba01aa5a85179c5bcfe9824"
 }

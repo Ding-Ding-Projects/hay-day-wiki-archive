@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lucky_Cat.png",
+  "filePageId": 23816,
+  "filePageRevisionId": 77339,
+  "filePageRevisionSha1": "49eabd196961d2476906ea261f2361199fc15654",
+  "filePageRevisionTimestamp": "2018-02-07T18:54:23Z",
+  "filePageWikitext": "NEW Asian Theme Decoration - Lucky Cat\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "432383e6e6a4461420c3987ec158294a716a394fac52e075a912be9f5f536451",
   "height": 765,
   "immutableUrl": null,
   "mediaId": "File:Lucky Cat.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:54:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALucky%20Cat.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 287581,
   "sourceSha1": "919e87f418dc9d4b9455f53c87a612b3ce8a0c89",

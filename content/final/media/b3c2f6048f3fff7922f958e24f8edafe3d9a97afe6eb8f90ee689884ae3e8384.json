@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_gift_tree.png",
+  "filePageId": 35709,
+  "filePageRevisionId": 102316,
+  "filePageRevisionSha1": "8cadbbf37a1a7634d7ac29c190732ab68a9b7694",
+  "filePageRevisionTimestamp": "2022-12-19T14:05:18Z",
+  "filePageWikitext": "== Summary ==\nGift Tree\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "ad0cba0502c88365374ded75448f867ac11f88b63ed80551626e8b52e6f88b40",
+  "height": 542,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay gift tree.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-19T14:05:18Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AHayDay%20gift%20tree.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 270131,
+  "sourceSha1": "cc372c37b48628082bde664568b2000fb3ca45b0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/79/HayDay_gift_tree.png/revision/latest?cb=20221219140518",
+  "title": "File:HayDay gift tree.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 568
+}

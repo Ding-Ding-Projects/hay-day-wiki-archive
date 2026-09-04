@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Ship?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 63718,
   "revisionTimestamp": "2016-07-21T10:17:44Z",
   "route": "/wiki/ship-25252",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ship",
   "title": "Ship",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect [[Boat]]",
   "wikitextHash": "b016ea8121de01e7c01bff45999cd1380b53edaf2aabc0f58f4f2ab83f92be14"
 }

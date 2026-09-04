@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Red_Gift_2024.png",
+  "filePageId": 36259,
+  "filePageRevisionId": 107853,
+  "filePageRevisionSha1": "9c0c6b767e82863b70cdca87e785d122ac2850d8",
+  "filePageRevisionTimestamp": "2025-04-27T23:49:35Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for the 2024 version of the [[Red Gift]]\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "8f28c8be3f823a9d35452a5ec0a65e5fd3c3d73bccc03d3f2bba9bb3c97fb1aa",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Red Gift 2024.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-04-27T23:49:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARed%20Gift%202024.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 175893,
   "sourceSha1": "7e8579153649ebb9583efe21539a0c28a7d77e39",

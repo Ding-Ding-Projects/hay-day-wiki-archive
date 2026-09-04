@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Neighborhood_Mailbox_Full.png",
+  "filePageId": 25005,
+  "filePageRevisionId": 74419,
+  "filePageRevisionSha1": "d2c6516e635c965a421030567bdd9acb89e19193",
+  "filePageRevisionTimestamp": "2017-10-22T16:12:12Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "a80df22d99cb1c88f152caf0917bc2122fff7627669a7dda7a4e7439bbac6b29",
   "height": 317,
   "immutableUrl": null,
   "mediaId": "File:Neighborhood Mailbox Full.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-06-23T15:54:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANeighborhood%20Mailbox%20Full.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 88497,
   "sourceSha1": "1cba3a55db51546a08a024354308884b65212d5b",

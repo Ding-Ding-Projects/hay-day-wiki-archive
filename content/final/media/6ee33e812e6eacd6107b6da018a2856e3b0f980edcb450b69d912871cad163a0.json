@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Summer_Full.png",
+  "filePageId": 7188,
+  "filePageRevisionId": 58640,
+  "filePageRevisionSha1": "d9f3ac18d7dffa9ac51d772eb1331df2f529bc08",
+  "filePageRevisionTimestamp": "2016-02-06T10:55:23Z",
+  "filePageWikitext": "\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "fbd705882f698bec21e3e78072f62c58e604131ec7dd4a7db713a36d302cb8d5",
+  "height": 125,
+  "immutableUrl": null,
+  "mediaId": "File:Pig Summer Full.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-07-11T08:22:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3APig%20Summer%20Full.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 81419,
+  "sourceSha1": "d8db040bd971b02ff339c49a48c33eeceb4ecf0e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1b/Pig_Summer_Full.png/revision/latest?cb=20130711082203",
+  "title": "File:Pig Summer Full.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 157
+}

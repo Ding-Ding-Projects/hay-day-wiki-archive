@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Grapes Products",
+    "Category:Jam Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Grapes Products",
+      "Category:Jam Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +155,12 @@
   "revisionId": 107937,
   "revisionTimestamp": "2025-06-01T22:54:19Z",
   "route": "/wiki/grape-jam-26409",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grape_Jam",
   "title": "Grape Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grape Jam.png|200px|left|Grape jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 85\n |price = 1 to 162\n |time = 6 h 30 min\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 19\n |base = 45\n |dia = 8\n |time3 = 5 h 31 min\n}}\n'''Grape jam''' is a [[Products|product]] unlocked at [[experience]] level 85.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making grape jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nGrape jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|-\n|'''x3'''\n|}\nIt takes 6 hours and 30 minutes to make one jar, and 5 hours and 31 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 19 [[experience]] points.\n\n{{Clr}}----\n==='''Selling grape jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Grape jam can be bought or sold for a maximum price of 1,620 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the jam costs 96 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 grape jam per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Traubenmarmelade\n|es = Mermelada de uva\n|fr = Confiture de Raisin\n|it = Marmellata d'uva\n|nl = Druivenjam\n|no = Druesyltetøy\n|ru = Виноградное варенье\n|zh = Grape Jam\n}}\n[[pt-br:Geleia de uva]]\n[[Category:Jam Maker Products]]\n[[Category:Grapes Products]]",
   "wikitextHash": "323e46e3fec4ca73a0b411e21d8f4099e5e4c922f3216bf090f7de1334aa55b0"
 }

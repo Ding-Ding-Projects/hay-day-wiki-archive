@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 32462,
   "revisionTimestamp": "2014-08-08T14:39:06Z",
   "route": "/wiki/category%2Fcategory-image-mystery-boxes-15098",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Mystery_Boxes",
   "title": "Category:Image Mystery Boxes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images of [[Mystery Box]]es.\n[[Category:Images]]",
   "wikitextHash": "6b8623abb1c8b3e2cb554bc083820db337cfee82570e164360179a2da413f002"
 }

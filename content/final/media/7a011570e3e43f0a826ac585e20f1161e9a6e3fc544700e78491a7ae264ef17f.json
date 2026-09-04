@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walls_Cute_Yellow.png",
+  "filePageId": 29728,
+  "filePageRevisionId": 80585,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2018-05-19T10:27:26Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 256,
   "immutableUrl": null,
   "mediaId": "File:Walls Cute Yellow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-14T16:04:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWalls%20Cute%20Yellow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 213923,
   "sourceSha1": "967dbeb4bebd758459b5c89f0ac73dc33417e02d",

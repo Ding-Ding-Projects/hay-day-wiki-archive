@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Horses",
+    "Category:Pages with broken file links"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Horses",
+      "Category:Pages with broken file links"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -363,6 +373,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -393,6 +404,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -407,11 +419,12 @@
   "revisionId": 109415,
   "revisionTimestamp": "2026-02-13T19:47:30Z",
   "route": "/wiki/shetland-pony-36351",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Shetland_Pony",
   "title": "Shetland Pony",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Shetland Pony.png|200px|left|Shetland Pony]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 50\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}10 {{Infoicon|bluev|link=Voucher}}15 {{Infoicon|purplev|link=Voucher}}20 {{Infoicon|goldv|link=Voucher}}5\n |xp = 80\n |dia = 2,000\n}}\n'''Shetland Ponies''' are pets [[animals]]. A first pony is unlocked at [[experience]] level 50.\n\nThey give players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Shetland Pony Sleeping|}}{{BigIcon|Shetland Pony Running|}}{{BigIcon|Shetland Pony Standing|}}{{BigIcon|Shetland Pony Walking|}}{{BigIcon|Shetland Pony Eating|}}\n{{Clr}}\n----\n==='''Buying'''===\n[[File:Horse Stable.png|150px|left|Horse stable]]\nEach pnoy costs 10 green [[voucher]]s, 15 blue ones, 20 purple ones, and 5 golden ones or 2,000 [[diamond]]s. They must be placed near a [[Horse Stable|horse stable]] to be bought. Players can have one Shetland Pony.\n\nPonies and horse stables can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[carrot]]s ponies eat then roam around their stable for six hours and finally fall asleep. Players can immediately wake them up to receive 80 {{Infoicon|xp}} per animal. Shetland ponies stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking ponies one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Shetlandpony\n|es = Poni Shetland\n|no = Shetlandsponni\n|ru = Шетлендский пони\n}}\n\n[[Category:Horses]]",
   "wikitextHash": "0c5cc485f2ac15bb308d35e1f0a179580d185629a4d7533b221befaa65ac6a35"
 }

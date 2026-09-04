@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake Buildings",
+    "Category:Storage Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake Buildings",
+      "Category:Storage Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -110,11 +120,12 @@
   "revisionId": 107046,
   "revisionTimestamp": "2025-01-28T10:54:05Z",
   "route": "/wiki/tackle-box-9464",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tackle_Box",
   "title": "Tackle Box",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tackle Box.png|left|200px|Tackle box]]\nThe '''tackle box''' is the building where [[lure]]s, [[Net Maker|nets and traps]] can be stored. It unlocks at [[experience]] level 27. The tackle box is already standing when the [[Fishing Lake]] is unlocked and doesn't have to be repaired.\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe appearance of the tackle box changes as the player upgrades it. Its final appearance is displayed when the box can store at least 70 items.\n\n{| border=\"1\" cellpadding=\"5\" cellspacing=\"1\" style=\"border-collapse: collapse; text-align: center; border: 1px solid #bbb; margin: 1em 0; max-width: 80%;\"\n!scope=\"col\" style=\"background: #eee;\" |Appearance\n!scope=\"col\" style=\"background: #eee;\" |Tackle Box Level\n!scope=\"col\" style=\"background: #eee;\" |Capacity\n|-\n|1st stage||1||20\n|-\n|2nd stage||2 - 4||25 - 35\n|-\n|3rd stage||5 - 10||40 - 65\n|-\n|Final stage||11+||70+\n|}\n\n<gallery>\nTackle Box Stage 1.png\nTackle Box Stage 2.png\nTackle Box Stage 3.png\nTackle Box.png\n</gallery>\n----\n==='''Upgrading'''===\nThe tackle box can initially hold 20 items. Upgrading it increases its capacity by five spaces, to a maximum capacity of 1000.\n\nThe box can be upgraded using the following materials. Each upgrade requires the same number of nails, screws and wood panels but the number of items requires increases by 1 with each upgrade (see the table below).\n<gallery>\nNail.png|[[Nail]]\nScrew.png|[[Screw]]\nWood Panel.png|[[Wood Panel|Wood panel]]\n</gallery>\n----\n==='''Upgrading table'''===\n{| cellpadding=\"2\" cellspacing=\"1\" style=\"max-width: 80%; margin: 1em auto; border-collapse: collapse; text-align: center; border: 1px solid #ccc;\"\n|- style=\"background: #ddd; border: 1px solid #ccc;\"\n! scope=\"col\" |Capacity from-to\n! scope=\"col\" |[[File:Nail.png|50px]]+[[File:Screw.png|50px]]+[[File:Wood Panel.png|50px]]\n|-\n|'''20 - 25'''||x1\n|-\n|'''25 - 30'''||x2\n|-\n|'''30 - 35'''||x3\n|-\n|'''35 - 40'''||x4\n|-\n|'''40 - 45'''||x5\n|-\n|'''45- 50'''||x6\n|-\n|'''etc.'''||'''etc.'''\n|}\n----\n==='''Strategy tips'''===\n* You need the same items to upgrade the silo and the tackle box.\n* Upgrading the tackle box is not a priority at first but can help when you are doing fishing tasks in [[derby|derbies]] and need lots of lures.\n----\n{{Navigation}}\n{{Languages\n|de = Angelkasten\n|es = Caja de pesca\n|fr = Boîte à Appâts\n|no = Slukboks\n}}\n[[ru:Ящик со снастями]]\n\n[[Category:Storage Buildings]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "9f8e6331a906a2d7a0dbed4fa86423ea8d7be334bb247fab443f1ba6b2ee99be"
 }

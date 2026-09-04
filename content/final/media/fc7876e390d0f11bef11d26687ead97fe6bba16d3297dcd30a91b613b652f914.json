@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honeycomb.png",
+  "filePageId": 15792,
+  "filePageRevisionId": 88936,
+  "filePageRevisionSha1": "b63bc8e142ca33e5cd31ec9a9f123c59f143ba1a",
+  "filePageRevisionTimestamp": "2019-10-25T19:35:24Z",
+  "filePageWikitext": "Picture of honeycomb.\n{{License SC}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "21cddcdca18dde2b8a46b71d7023e74419532c4481fb4982deebc287f97fa8dd",
   "height": 350,
   "immutableUrl": null,
   "mediaId": "File:Honeycomb.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T19:35:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoneycomb.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 105468,
   "sourceSha1": "0a06983180cf31d0063bb0864090c5ea85fba84c",

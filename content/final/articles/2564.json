@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -148,11 +156,12 @@
   "revisionId": 110814,
   "revisionTimestamp": "2026-08-03T13:08:46Z",
   "route": "/wiki/platinum-ore-2564",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Platinum_Ore",
   "title": "Platinum Ore",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Platinum Ore.png|200px|left|Platinum ore]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 24\n |price = 1 to 32\n |time = Instant\n |source = {{Infoicon|mine|bigger|link=Mine}}\n |xp = 7\n |base = 9\n}}\n\n'''Platinum ore''' is a [[Products|product]] unlocked at [[experience]] level 25.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Extracting platinum ore'''===\n[[File:Mine.png|150px|left|Mine]]\nPlatinum ore is found in the [[Mine]].\n\nTo extract ore, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Dynamite.png|75px|link=Dynamite|Dynamite]]\n|[[File:TNT Barrel.png|75px|link=TNT Barrel|TNT barrel]]\n|[[File:Shovel.png|75px|link=Shovel|Shovel]]\n|[[File:Pickaxe.png|75px|link=Pickaxe|Pickaxe]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x4'''\n|'''x5'''\n|}\n\nIt takes no time to extract ore but the process is randomized: players might get any of the available Mine products when using mine supplies, as well as an extra [[diamond]]. Each extracted platinum ore gives players 7 [[experience]] points.\n\n{{Clr}}----\n==='''Selling platinum ore'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Platinum ore can be bought or sold for a maximum price of 324 {{Infoicon|coin}} for 10 units.\n* Buying a supply tool costs between 25 and 126 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Used in'''===\n{{Item Usage|Platinum Ore\n|Platinum Bar|3|25\n}}----\n==='''Strategy tips'''===\n* Platinum ore is uncommon enough that selling them at a lower price is not necessary.\n* Selling platinum ore is not profitable at all. You should always transform it into bars, or even better, [[Jeweler|jewelry]] unless it takes valuable space in your [[barn]].\n* [[Boat]] orders never require platinum ore.\n----\n{{Navigation}}\n{{Languages\n|de = Platinerz\n|es = Mineral de platino\n|fr = Minerai de Platine\n|it = Minerale di platino\n|nl = Platina-Erts\n|no = Platinamalm\n}}\n[[Category:Mine Products]]",
   "wikitextHash": "a7a13b6e4b2404ac6ce6905c63fcefa624c9dca5c1fe14564e1f7948d0763c2c"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Helpers?action=history",
@@ -26,11 +36,12 @@
   "revisionId": 78902,
   "revisionTimestamp": "2018-04-17T19:53:17Z",
   "route": "/wiki/category%2Fcategory-helpers-29467",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Helpers",
   "title": "Category:Helpers",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to farm helpers.\n[[Category:Characters]]\n[[Category:Game Features]]",
   "wikitextHash": "3530694dc041c2f3af010e0b2c1260067d802d971b4a5cf71e9cbffa2af0f596"
 }

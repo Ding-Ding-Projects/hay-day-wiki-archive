@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Flower_Fence.png",
+  "filePageId": 25857,
+  "filePageRevisionId": 77256,
+  "filePageRevisionSha1": "be661dd8c7e70849f568f137158bc337f0eef277",
+  "filePageRevisionTimestamp": "2018-02-07T17:27:47Z",
+  "filePageWikitext": "Flower Fence - Part of the Oct 3-7 Deco Package\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "7984a7f77fb11e523329be8fca71bf371fe6ce98f28013f19f08da290a50341e",
   "height": 423,
   "immutableUrl": null,
   "mediaId": "File:Flower Fence.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:27:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFlower%20Fence.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 144590,
   "sourceSha1": "374c86994bfcc39a8ad339325770eae8d501c66e",

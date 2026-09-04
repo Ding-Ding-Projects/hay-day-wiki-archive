@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Apple_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98564,
   "revisionTimestamp": "2021-08-31T21:20:06Z",
   "route": "/wiki/category%2Fcategory-apple-products-35087",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Apple_Products",
   "title": "Category:Apple Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Apple.png|thumb]]\nProducts of [[Apple]].\n[[Category:Products]]",
   "wikitextHash": "ea97e5869689295ff91b23a88c9acfe190fc7f6c38b6bc102c0f2dc4a6dc0fad"
 }

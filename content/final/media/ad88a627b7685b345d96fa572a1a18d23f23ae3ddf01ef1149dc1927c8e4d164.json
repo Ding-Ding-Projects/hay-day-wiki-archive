@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Iced_Banana_Latte.png",
+  "filePageId": 26549,
+  "filePageRevisionId": 104697,
+  "filePageRevisionSha1": "bde9e2a8cb2234ff3f28ee2e169792803b43b76b",
+  "filePageRevisionTimestamp": "2024-02-09T01:32:17Z",
+  "filePageWikitext": "Iced Banana Latte Image\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "7dc5f9d67b6b25eb5016d470cf943435bbc43ce6a63b9701bfca3cf2333b6d8f",
   "height": 768,
   "immutableUrl": null,
   "mediaId": "File:Iced Banana Latte.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-09T01:32:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AIced%20Banana%20Latte.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 433558,
   "sourceSha1": "c05cda23469f63d32e0a4f76672a8f06a5f3e7fe",

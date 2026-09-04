@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -359,11 +367,12 @@
   "revisionId": 109734,
   "revisionTimestamp": "2026-05-01T13:40:46Z",
   "route": "/wiki/sewing-machine-14242",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sewing_Machine",
   "title": "Sewing Machine",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sewing Machine.png|200px|left|Sewing Machine]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 19\n |price = 4,500\n |time = 20 h\n |slots = 2\n |dia = 44\n |size = 2×2\n}}\nThe '''Sewing Machine''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 19.\n\nIt is used to make [[Cotton Shirt|cotton shirts]], [[Wooly Chaps|wooly chaps]], [[Violet Dress|violet dresses]], [[pillow]]s and [[blanket]]s.\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe Sewing Machine is fuchsia and silver. A basket of wool balls and a needle are placed next to the machine. A wooden box is seated in front of the machine.\n\nThe mastered version gains various golden parts and the needle cap switches from a circular button to a star-shaped one.\n----\n=== '''Building''' ===\nIt costs 4,500 {{Infoicon|coin}} and takes 20 hours (or 44 {{Infoicon|dia}}) to build the Sewing Machine. It gives players 19 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Cotton Shirt|19|45m|241\n|Wooly Chaps|21|1:30|309\n|Violet Dress|25|2:15|327\n|Soothing Pad|45|1h|324\n|Pillow|51|3h|676\n|Blanket|59|3:30|1098\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Sewing Machine originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Sewing Machine:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Sewing Machine Mastered.png|150px|Mastered Sewing Machine]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Sewing Machine Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* All products made in the Sewing Machine require one or more units of [[Cotton Fabric|cotton fabric]].\n*[[Violet Dress|Violet dresses]] and [[Wooly Chaps|wooly chaps]] are often found in the [[Daily Dirt]] but still sell quite easily at max. price.\n\n=== '''Did you know?''' ===\n•The mastered version of this machine appearance doesn't just have some golden parts and a normal star; the button on top of the sewing machine is star-shaped, which makes it unique than the others.\n----\n{{Navigation}}\n{{Languages\n|de = Nähmaschine\n|es = Máquina de coser\n|fr = Machine à Coudre\n|it = Macchina da cucire\n|no = Symaskin\n|sv = Symaskin\n|vi = Máy khâu\n|zh = 缝纫机\n}}\n[[pt-br:Máquina de costura]]\n[[ru:Швейная машинка]]\n[[Category:Production Buildings]]",
   "wikitextHash": "7aba9e897ecf52989d6a593728573e2100d2cdde2131242a8e999ad179ec71ee"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Passion Fruit Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Passion Fruit Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +189,12 @@
   "revisionId": 109819,
   "revisionTimestamp": "2026-05-07T21:42:53Z",
   "route": "/wiki/passion-fruit-pie-35185",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Passion_Fruit_Pie",
   "title": "Passion Fruit Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Passion Fruit Pie.png|200px|left|Passion fruit pie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 92\n |price = 1 to 111\n |time = 50 m \n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 13\n |base = 31\n |time3 = 42 min\n |dia = 3\n}}\n'''Passion fruit pies''' are [[products]] unlocked at [[experience]] level 92.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making passion fruit pies'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nPassion fruitpies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Passion Fruit.png|75px|link=Passion Fruit|Passion Fruit]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 50 minutes to make a pie, and 42 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 13 [[experience]] points.\n\n{{Clr}}----\n==='''Selling passion fruit pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Passion fruit pies can be bought or sold for a maximum price of 1,116 {{Infoicon|coin}} for 10 pies.\n*Buying the ingredients required to make a pie costs 78 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 4 to 5 pies per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Passionsfruchtkuchen\n|es = Tarta de maracuyá\n|fr = Tarte aux Fruits de la Passion\n|it = Crostata al frutto della passione\n|nl = Passievruchtentaart\n|no = Pasjonsfruktpai\n|ru = Пирог с маракуйей\n|zh = Passion Fruit Pie\n}}\n[[pt-br:Torta de maracujá]]\n\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Passion Fruit Products]]",
   "wikitextHash": "c425dd0246a5c0cf642ae3d39559d07e8251e7da5185e04cf2e13a007beb4869"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chocolate_Duck.png",
+  "filePageId": 36458,
+  "filePageRevisionId": 108822,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2025-10-23T21:07:55Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 575,
   "immutableUrl": null,
   "mediaId": "File:Chocolate Duck.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-10-23T21:07:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChocolate%20Duck.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 191520,
   "sourceSha1": "1772f6b5bee374fd94676f42d41966fc8de629ea",

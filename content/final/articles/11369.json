@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -379,11 +387,12 @@
   "revisionId": 109752,
   "revisionTimestamp": "2026-05-02T03:03:33Z",
   "route": "/wiki/smoothie-mixer-11369",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Smoothie_Mixer",
   "title": "Smoothie Mixer",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Smoothie Mixer.png|200px|left|Smoothie Mixer]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 64\n |price = 220,000\n |time = 3 d\n |slots = 2\n |dia = 80\n |size = 2×2\n}}\nThe '''Smoothie Mixer''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 64. It is used to make [[Berry Smoothie|berry smoothies]], [[Green Smoothie|green smoothies]], [[Yogurt Smoothie|yogurt smoothies]], [[Cucumber Smoothie|cucumber smoothies]], [[Mixed Smoothie|mixed smoothies]], [[Cocoa Smoothie|cocoa smoothies]], [[Plum Smoothie|plum smoothies]], [[Black Sesame Smoothie|black sesame smoothies]], and [[Tropical Smoothie|tropical smoothies]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 220,000 {{Infoicon|coin}} and takes 3 days or 80 {{Infoicon|dia}} to build the Smoothie Mixer. It gives players 39 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThe machine is a small pale yellow smoothie blender with a table of smootie cups and a barrel of apples and berries in the side.\n\nThe mastered version of this machine have some small golden parts on the metal on the barrel and the dispenser, along with a golden star under the blender's handle.\n----\n=== '''Products''' ===\n{{Building Products\n|Berry Smoothie|64|1:15|547\n|Green Smoothie|66|45m|320\n|Yogurt Smoothie|70|1h|349\n|Cucumber Smoothie|70|40m|266\n|Mixed Smoothie|88|30m|504\n|Black Sesame Smoothie|93|45m|313\n|Cocoa Smoothie|100|40m|511\n|Plum Smoothie|102|35m|522\n|Tropical Smoothie|104|40m|457\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Smoothie Mixer originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Smoothie Mixer:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Smoothie Mixer Mastered.png|150px|Mastered Smoothie Mixer]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Smoothie Mixer Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*[[Berry Smoothie|Berry smoothies]] are the way to go if you want to master the mixer, but they require [[Raspberry|raspberries]] and [[Blackberry|blackberries]] and therefore a steady supply of [[axe]]s. The last ingredient, [[Strawberry|strawberries]], can quite easily be found in the newspaper.\n*[[Green Smoothie|Green smoothies]] require 5 heads of [[lettuce]] per glass, so make sure to stock up on these if you want to make some.\n----\n\n{{Navigation}}\n{{Languages\n|de = Smoothiemixer\n|es = Licuadora\n|fr = Mixeur de Smoothies\n|it = Frullatore\n|no = Smoothiemaskin\n|zh = Smoothie Mixer\n}}\n[[pt-br:Máquina de vitaminas]]\n[[ru:Смузи-машина]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "02561d3f5d94fab431b7624b439abf23d8f870e358023af527cbe22a0a0f85ae"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Spicy_Pizza_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 104413,
   "revisionTimestamp": "2023-12-17T10:55:17Z",
   "route": "/wiki/category%2Fcategory-spicy-pizza-products-36005",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Spicy_Pizza_Products",
   "title": "Category:Spicy Pizza Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Spicy Pizza.png|thumb]]\nProducts of [[Spicy Pizza]].\n[[Category:Products]]",
   "wikitextHash": "8577cb48a4e3f1f3c7edd95674efb45306ae9fe6c0b59c44cab50bb01ca87918"
 }

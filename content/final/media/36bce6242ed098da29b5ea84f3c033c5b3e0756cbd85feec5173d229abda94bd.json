@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Striped_Yellow.png",
+  "filePageId": 29735,
+  "filePageRevisionId": 80565,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2018-05-19T09:56:12Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 298,
   "immutableUrl": null,
   "mediaId": "File:Awning Striped Yellow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-14T16:25:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAwning%20Striped%20Yellow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 265095,
   "sourceSha1": "dec3a8dd5737b3c6b2657d60d8ba50cce4520caf",

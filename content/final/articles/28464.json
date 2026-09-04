@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Products",
+    "Category:Flower Shop Products",
+    "Category:Indigo Products",
+    "Category:Iron Ore Products",
+    "Category:Sunflower Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Products",
+      "Category:Flower Shop Products",
+      "Category:Indigo Products",
+      "Category:Iron Ore Products",
+      "Category:Sunflower Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -147,11 +163,12 @@
   "revisionId": 107808,
   "revisionTimestamp": "2025-04-13T22:24:11Z",
   "route": "/wiki/bright-bouquet-28464",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bright_Bouquet",
   "title": "Bright Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bright Bouquet.png|left|200px|Bright bouquet]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 65\n |price = 1 to 338\n |time = 20 min\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |xp = 40\n |base = 94\n |dia = 2\n |time3 = 17 min\n}}\n'''Bright bouquets''' are [[products]] unlocked at [[experience]] level 65.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making bright bouquets'''===\n[[File:Flower Shop.png|150px|left|Flower Shop]]\nBright bouquets are made in the [[Flower Shop]].\n\nTo make a bouquet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sunflower.png|75px|Sunflowers|link=Sunflower]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|[[File:Iron Ore.png|75px|Iron ore|link=Iron Ore]]\n|-\n|'''x5'''\n|'''x3'''\n|'''x1'''\n|'''x5'''\n|}\nIt takes 20 minutes to make a bright bouquet, and 17 minutes in a fully [[Masteries|mastered]] shop. Each bouquet gives players 40 [[experience]] points.\n\n{{Clr}}----\n==='''Selling bright bouquets'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bright bouquets can be bought or sold for a maximum price of 3,384 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a bright bouquet costs 278 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 bright bouquets per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* At only 278 coins to produce in a mere 17 minutes in a 3-star Flower Shop, the Bright Bouquet can be sold for a maximum on 338 coins. This makes it the most profitable of all machine products; earning you an astounding 212 coins per hour!\n* Note that it requires 5 iron ores for each bouquet, which may not be readily available. One should keep it in mind not to use up all the iron ores for iron bars.\n----\n\n{{Navigation}}\n{{Languages\n|de = Strahlender Strauß\n|es = Ramo colorido\n|fr = Bouquet Eclatant\n|it = Bouquet vivace\n|nl = Bont Boeket\n|no = Fargerik bukett\n|ru = Яркий букет\n|zh = Bright Bouquet\n}}\n[[pt-br:Arranjo colorido]]\n\n[[Category:Flower Shop Products]]\n[[Category:Indigo Products]]\n[[Category:Cotton Products]]\n[[Category:Sunflower Products]]\n[[Category:Iron Ore Products]]",
   "wikitextHash": "eeb68df8fb7244b0c40fd90892c136fbfb265964a45859e78483f31988898e33"
 }

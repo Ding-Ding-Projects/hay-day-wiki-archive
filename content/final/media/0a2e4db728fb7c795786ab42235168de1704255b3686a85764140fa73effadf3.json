@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Discord.png",
+  "filePageId": 29299,
+  "filePageRevisionId": 85742,
+  "filePageRevisionSha1": "6cb3b5d18aafee4a5762203b33170528590c658d",
+  "filePageRevisionTimestamp": "2019-05-18T09:19:04Z",
+  "filePageWikitext": "== Licensing ==\n{{Permission}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "a9c6d29f339ff3caa7bc7863c11fc2faeecac9eb9a3866604dbe5295f9f75747",
   "height": 240,
   "immutableUrl": null,
   "mediaId": "File:Discord.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-05-18T09:19:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3ADiscord.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1559,
   "sourceSha1": "60548aa40ce01b58153356051a40fa212f8529e5",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 100038,
   "revisionTimestamp": "2022-01-09T22:11:29Z",
   "route": "/wiki/category%2Fcategory-image-farm-pass-35330",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm_Pass",
   "title": "Category:Image Farm Pass",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Farm Pass|farm pass]].\n[[Category:Images]]",
   "wikitextHash": "ed236b9dcd063fb6eb269cd6aaaa68370eab7d6e8ecf147afd615e43a4885935"
 }

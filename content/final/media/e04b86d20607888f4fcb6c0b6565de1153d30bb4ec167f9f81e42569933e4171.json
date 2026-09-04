@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Teacher.png",
+  "filePageId": 17013,
+  "filePageRevisionId": 110775,
+  "filePageRevisionSha1": "07d4391d1c215f3435051b03657c543039064a0b",
+  "filePageRevisionTimestamp": "2026-07-19T21:05:03Z",
+  "filePageWikitext": "{{License SC}}\n[[Category: Image NPC]]",
+  "filePageWikitextHash": "d6abeef84d2dd41fd35557ba43003ad65350a18143621bf0a223ce87f630d769",
   "height": 398,
   "immutableUrl": null,
   "mediaId": "File:Teacher.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-07-19T21:05:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATeacher.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 130684,
   "sourceSha1": "a2b12cc2c72d8961212b1e763353c5f9a4d65e0c",

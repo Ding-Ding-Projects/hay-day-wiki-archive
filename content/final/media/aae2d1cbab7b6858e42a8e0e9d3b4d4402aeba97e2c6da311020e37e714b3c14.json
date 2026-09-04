@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Peanut_Bush.png",
+  "filePageId": 33972,
+  "filePageRevisionId": 98254,
+  "filePageRevisionSha1": "5acd0ced55fcb1d30777a9f9f77235921c8e0908",
+  "filePageRevisionTimestamp": "2021-07-15T22:22:22Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "915dc932432a75352e684c48eb341405924aaec9215d3b40b652689ee772e007",
   "height": 318,
   "immutableUrl": null,
   "mediaId": "File:Peanut Bush.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 19,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T05:11:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APeanut%20Bush.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 171597,
   "sourceSha1": "c66d4a87bd8473d74ef335c2ab953ec66a0c1211",

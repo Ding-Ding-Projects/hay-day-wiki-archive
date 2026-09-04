@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_House.png",
+  "filePageId": 26552,
+  "filePageRevisionId": 77315,
+  "filePageRevisionSha1": "55785e52888279e5f47a7fd5399a043b16e60abe",
+  "filePageRevisionTimestamp": "2018-02-07T18:35:34Z",
+  "filePageWikitext": "Gingerbread House found on the NPC Greg's Farm\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "f5f0a5b56c21042a0a21ef8a0ca03548ad606c45cb5973258edfa7a45889180b",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Gingerbread House.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:35:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGingerbread%20House.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 279305,
   "sourceSha1": "2e2a75adad50383704850f119279d34f8ad64dd1",

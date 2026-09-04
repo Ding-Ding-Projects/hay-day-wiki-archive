@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:FAQ1.png",
+  "filePageId": 7366,
+  "filePageRevisionId": 65964,
+  "filePageRevisionSha1": "29de14c90c7d67953bea1c4188387ae0a404e971",
+  "filePageRevisionTimestamp": "2016-10-28T13:17:40Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image FAQ]]",
+  "filePageWikitextHash": "58e8acea4020cd0c088736ec1e06fc8b9b7a99b3c7b263defda48c1fefd1b006",
   "height": 403,
   "immutableUrl": null,
   "mediaId": "File:FAQ1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2013-07-15T23:57:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFAQ1.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 141807,
   "sourceSha1": "80475e31d52130892eb6f938b3ef365e54b7570b",

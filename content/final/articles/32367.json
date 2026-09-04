@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F?action=history",
@@ -26,11 +30,12 @@
   "revisionId": 95966,
   "revisionTimestamp": "2020-09-21T19:40:12Z",
   "route": "/wiki/category%2Fcategory-did-you-know-32367",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Did_you_know%3F",
   "title": "Category:Did you know?",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Valley was the biggest feature ever added into the game after the May 2014 Town Update.",
   "wikitextHash": "691d3f94fbbbe636331969aba381b1569c0e9235b425cd36f054642f293079e8"
 }

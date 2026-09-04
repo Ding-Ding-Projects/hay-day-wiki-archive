@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roadside_Shop_(RED).png",
+  "filePageId": 26355,
+  "filePageRevisionId": 69378,
+  "filePageRevisionSha1": "c672395bf3d5ea461d70af6dfed4988230e99bad",
+  "filePageRevisionTimestamp": "2017-02-06T01:19:35Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "954f3e3ccc9f605ca1d2c1fc39c9e0020388068af0606e9b5f8be92f1cbcff95",
   "height": 433,
   "immutableUrl": null,
   "mediaId": "File:Roadside Shop (RED).png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-12-02T10:20:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARoadside%20Shop%20(RED).png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 97635,
   "sourceSha1": "7d9cdbe1fe41c08d97ba629697b564867b5a35c0",

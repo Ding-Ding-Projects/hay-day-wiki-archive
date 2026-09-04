@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Chili Pepper Products",
+    "Category:Cream Products",
+    "Category:Onion Products",
+    "Category:Stew Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Chili Pepper Products",
+      "Category:Cream Products",
+      "Category:Onion Products",
+      "Category:Stew Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -120,11 +136,12 @@
   "revisionId": 110362,
   "revisionTimestamp": "2026-06-03T21:08:58Z",
   "route": "/wiki/chili-stew-35567",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chili_Stew",
   "title": "Chili Stew",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chili Stew.png|200px|left|Chili Stew]]\n\n{{Infobox\n |level = 109\n |price = 1 to 370\n |time = 2 hr\n |xp = 44\n |source = {{Infoicon|stewp|bigger|link=Stew Pot}}\n |base = 103\n |dia = 5\n |time3 = 1 hr 42 min\n |title = [[Products|Product]]\n }}\n'''Chili Stew''' is a [[Products|product]] unlocked at [[experience]] level 109. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chili Stew'''===\n[[File:Stew Pot.png|150px|left|Stew Pot]]\nChili Stew is made in the [[Stew Pot]].\n\nTo make the stew, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Pepper.png|75px|Chili Peppers|link=Chili Pepper]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make one bowl, and 1 hour 42 minutes in a fully [[Masteries|mastered]] stew pot. Each stew gives players 44 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Chili Stew'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Chili Stew can be bought or sold for a maximum price of 3,708 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a Chili Stew costs 336 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Chili Stew per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Chili-Eintopf\n|es = Estofado de chile\n|fr = Soupe Epicée\n|it = Stufato piccante\n|nl = Chilistoofpot\n|no = Chiligryte\n|ru = Рагу с чили\n}}\n[[pt-br:Ensopado apimentado]]\n\n[[Category:Stew Pot Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Bacon Products]]\n[[Category:Onion Products]]\n[[Category:Cream Products]]",
   "wikitextHash": "a88ea3806b07a6ef2d205271ba302ffb72a9f992fd77b1215c9c969f2ee38d31"
 }

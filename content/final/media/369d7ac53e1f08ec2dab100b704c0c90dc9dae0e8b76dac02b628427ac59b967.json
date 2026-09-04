@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fruit_Sellers.jpg",
+  "filePageId": 36060,
+  "filePageRevisionId": 105276,
+  "filePageRevisionSha1": "bf5518e76f27103464c749b3b783b6723d04abc3",
+  "filePageRevisionTimestamp": "2024-05-08T13:20:59Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "562e4f93e9fdb66b3dce2a51217b95b425692af757ec417564e9ab7ccd6ae0dd",
   "height": 580,
   "immutableUrl": null,
   "mediaId": "File:Fruit Sellers.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-05-08T13:20:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFruit%20Sellers.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 22068,
   "sourceSha1": "62d31f3d86ccde6c5b5f31c175f933610b83efa2",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Wrapping_Station.png",
+  "filePageId": 35677,
+  "filePageRevisionId": 102216,
+  "filePageRevisionSha1": "674d2dd7130207fbdc58153d30e8f2271bae296f",
+  "filePageRevisionTimestamp": "2022-12-08T15:42:54Z",
+  "filePageWikitext": "{{DISPLAYTITLE:File:Gift Wrapping Station.png}}\n\n== Summary ==\nPicture of the [[Gift Wrapping Station]]\n\n==Licensing==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "7ff5181268c1a255f9c379222da50bc74ba04ba7b485a33849be3f05e863c2ea",
   "height": 535,
   "immutableUrl": null,
   "mediaId": "File:Gift Wrapping Station.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-06T15:12:01Z",
@@ -25,8 +32,18 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "DISPLAYTITLE:File:Gift Wrapping Station.png",
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Wrapping%20Station.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 320166,
   "sourceSha1": "ca8a2ee7860d1c16ec54faed779a921d1b9eb7ac",

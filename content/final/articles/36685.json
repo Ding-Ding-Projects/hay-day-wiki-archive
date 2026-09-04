@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Blue Woolly Hat Products",
+    "Category:Carrot Products",
+    "Category:Easter Egg Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Blue Woolly Hat Products",
+      "Category:Carrot Products",
+      "Category:Easter Egg Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +171,12 @@
   "revisionId": 110535,
   "revisionTimestamp": "2026-06-15T21:10:39Z",
   "route": "/wiki/chocolate-bee-36685",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Bee",
   "title": "Chocolate Bee",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Bee.png|200px|left|Chocolate Bee]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 15\n |level = 20\n |time = 10m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 67\n |dia = 3\n |time3 = 8m\n}}\n'''Chocolate Bee''' is a [[products|product]] unlocked at [[experience]] level . It's a special item used only for the Easter event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Bee'''===\n[[File:Easter Egg Maker 2025.png|150px|left|Easter Egg Maker 2025|link=Easter Egg Maker]]\nChocolate bees are made in the [[Easter Egg Maker]].\n\nTo make a chocolate bee, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Woolly Hat.png|75px|Blue Woolly Hat|link=Blue Woolly Hat]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\nIt takes 10 minutes to make a chocolate bee. Each chocolate cow gives players 67 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Woolly Hat.png|75px|Blue Woolly Hat|link=Blue Woolly Hat]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 chocolate cows per crate, up to a total of 6 per boat. Each chocolate cow used on a boat will be rewarded with 30 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Bacon Products]]\n[[Category:Carrot Products]]\n[[Category:Blue Woolly Hat Products]]\n\n{{Languages\n|es = Abeja de chocolate 2025\n}}",
   "wikitextHash": "5eeffc01f2d8f6498a9a7706b98973d76cb72e3a67107f3fb668c92e62af3b82"
 }

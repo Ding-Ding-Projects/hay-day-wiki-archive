@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Help.png",
+  "filePageId": 28957,
+  "filePageRevisionId": 75981,
+  "filePageRevisionSha1": "00ce53e23e13cdc215da9e1d83134d6f03ea2396",
+  "filePageRevisionTimestamp": "2017-12-16T15:20:11Z",
+  "filePageWikitext": "== Licensing ==\n{{CC-BY-SA}}\n\nThe ''Lobster'' font used in this image is under the SIL Open Font License.\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "598881856c179618aeb31a66566e5548f759eb9d07bd27541ef2b146448ac839",
   "height": 375,
   "immutableUrl": null,
   "mediaId": "File:Help.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-12-16T15:20:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3AHelp.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 28074,
   "sourceSha1": "9051e569c0cf1d1f79f0b410656f292d8ae4bcb3",

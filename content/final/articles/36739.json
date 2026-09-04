@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -202,11 +210,12 @@
   "revisionId": 110785,
   "revisionTimestamp": "2026-07-25T13:46:03Z",
   "route": "/wiki/lamb-36739",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb",
   "title": "Lamb",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{Note|This is about the baby animal. For the adult, see [[Sheep]].}}\n[[File:Lamb.png|left|200x200px|Lamb]]\n{{Infobox\n|title=[[Animals|Animal]]|level=25 • 30\n|price=800 • 2,300\n|gives={{Infoicon|lambchop|big|link=Lamb Chop}}\n|time=every 30 min\n}}\n'''Lamb''' are [[farm]] [[animals]] that produce [[Lamb Chop]]. They are unlocked at [[experience]] level 25. They were added since May 2026 Update.\n{{Clr}}\n----\n=== '''Appearance''' ===\n<gallery widths=\"185\">\n{{Clr}}\n\nFile:Lamb.png|Lamb\nFile:Lamb Bleating.png|Lamb Bleating\nFile:Lamb Full.png|Lamb Full\nFile:Ready Lamb Cube.png|Ready Lamb Cube\nFile:Lamb Hungry.png|Lamb Hungry\nFile:Lamb Sleeping.png|Lamb Sleeping\n\nFile:Lamb Summer.png|Lamb Summer \nFile:Lamb Winter.png|Lamb Winter \nFile:Lamb Halloween.png|Lamb Halloween\n</gallery>\n----\n\n\n=== '''Alternate appearance''' ===\n{{Main|Themes}} \n----\n\n=== '''Buying''' ===\n[[File:Lamb_Pasture.png|left|150x150px|A lamb pasture]]\nLambs must be placed in [[Lamb Pasture|lamb pastures]] to be purchased. Pastures cost 500 {{Infoicon|coin}} each. They are unlocked at levels 25 and 30. Each pasture can house five lambs.\n\nAt level 25 lamb cost 800 coins each; at level 30 2,300 coins.\n\nLambs and lamb pastures can be bought from the [[shop]].{{Infoicon|shop|bigger|link=Shop}}{{Clr}}\n----\n\n=== '''Harvesting''' ===\n[[File:Lamb_Wooden Bath Barrel.png|left|150x150px|Wooden Bath Barrel]]\nLamb chop can be sheared from sheep every 30 minutes. Players can skip the wait by paying 3 [[Diamond|diamonds]] per lamb. Players must then give [[Lamb Feed|lamb feed]] to get another harvest.\n\nLamb feed is made of:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|[[File:Black Bean.png|link=Black Bean|75px|Black Bean]]\n|[[File:Soybean.png|link=Soybean|75px|Soybean]]\n|-\n|'''x4'''\n|'''x2'''\n|}\n{{Clr}}\n----\n\n=== '''Strategy tips''' ===\n\n* It takes 10 minutes to make 3 units of [[Lamb Feed|lamb feed]]. You can easily collect all your lamb chop and replenish your feed stock by the time the sheep are ready to be sheared again.\n* Lamb chop can pretty regularly be found in the [[Daily Dirt]].\n\n----\n\n=== '''Easter egg''' ===\n\n----\n=== '''Did you know?''' ===\n\n\n----\n{{Navigation}}\n{{Languages\n|de = Lamm\n|es = Cordero\n|no = Lam\n|ru = Ягнёнок\n}}\n[[pt-br:Cordeiro]]",
   "wikitextHash": "3389c6894553abb7ef64b76b64d9594e81ed74c3c759a3024a7d2d40b16eb0a1"
 }

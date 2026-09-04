@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Nail.png",
+  "filePageId": 2634,
+  "filePageRevisionId": 89195,
+  "filePageRevisionSha1": "30b3b2159c89be3cf1f482cbe83517b8e6414812",
+  "filePageRevisionTimestamp": "2019-10-28T13:09:07Z",
+  "filePageWikitext": "Picture of nails.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "375d019b78eba6c22535ba9dad169c762fe131a5ebce601966a59702e75b4f4b",
   "height": 208,
   "immutableUrl": null,
   "mediaId": "File:Nail.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:09:07Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANail.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 35339,
   "sourceSha1": "6c8fb027f68372c01f1706948071a0b67209b991",

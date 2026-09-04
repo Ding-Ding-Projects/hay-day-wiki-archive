@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E3_Stina_%26_Mariama",
+  "filePageId": 30346,
+  "filePageRevisionId": 82633,
+  "filePageRevisionSha1": "43f73b4e17b37708bc52db29077df26f62846a17",
+  "filePageRevisionTimestamp": "2018-08-19T10:08:15Z",
+  "filePageWikitext": "\n== Description ==\nMeet the farmers in Hay Day from all around the world! \n\nIn this 3rd episode of the series you'll get two real-life friends & Hay Day players, Mariama and Stina living in Helsinki, Finland. \n\nLearn how both of them have taken Hay Day into their everyday life as a relaxing and fun way to spend some quality time together.\n[[Category:Videos]]",
+  "filePageWikitextHash": "25b196897e5ab2f117797c4be72845ff9e0e43e311d1cc873d97201c91f7ba2b",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E3 Stina & Mariama",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-08-19T10:08:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E3%20Stina%20%26%20Mariama",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 24875,
+  "sourceSha1": "688caaf89b58239509fed22901907133dda33b10",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/98/Hay_Day_Meet_the_Farmer%21_E3_Stina_%26_Mariama/revision/latest?cb=20180819100815",
+  "title": "File:Hay Day Meet the Farmer! E3 Stina & Mariama",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

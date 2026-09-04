@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tom_Comparison.png",
+  "filePageId": 20271,
+  "filePageRevisionId": 69743,
+  "filePageRevisionSha1": "6577dcf388f51a07534c67f8864ff897a060ecdc",
+  "filePageRevisionTimestamp": "2017-02-07T18:32:43Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "934f36b1190fab4434ee8657279a92331833ab4df3f66e1dae250f108c097fad",
   "height": 664,
   "immutableUrl": null,
   "mediaId": "File:Tom Comparison.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-06-17T18:08:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATom%20Comparison.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 347545,
   "sourceSha1": "53943b6aafe17ae41f5e649dd7c7f04a42fac651",

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hayday_chocolate_fondue.png",
+  "filePageId": 33161,
+  "filePageRevisionId": 92361,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2020-04-03T14:23:31Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 155,
+  "immutableUrl": null,
+  "mediaId": "File:Hayday chocolate fondue.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-03T14:23:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHayday%20chocolate%20fondue.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 17420,
+  "sourceSha1": "42d21cd5a4d8b88819f75e14cdc3c8d01be628c4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5a/Hayday_chocolate_fondue.png/revision/latest?cb=20200403142331",
+  "title": "File:Hayday chocolate fondue.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

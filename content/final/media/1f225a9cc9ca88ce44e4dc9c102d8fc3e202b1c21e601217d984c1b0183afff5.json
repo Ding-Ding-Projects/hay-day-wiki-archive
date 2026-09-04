@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lucky_Bonus.png",
+  "filePageId": 32336,
+  "filePageRevisionId": 90123,
+  "filePageRevisionSha1": "8c7e293ad687dec86657513f7adaed3745ad3e76",
+  "filePageRevisionTimestamp": "2020-01-07T15:27:34Z",
+  "filePageWikitext": "== Summary ==\nResults of playing the Lucky Bonus game in The Valley.\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "fd6d5f21b633a068d8c06f99bceb8eabf80097048595278defc76b9b807b4f52",
+  "height": 725,
+  "immutableUrl": null,
+  "mediaId": "File:Lucky Bonus.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-01-07T15:27:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALucky%20Bonus.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 585636,
+  "sourceSha1": "97485d621dae5df13e87d563fbaeea2ddb16cb75",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5d/Lucky_Bonus.png/revision/latest?cb=20200107152733",
+  "title": "File:Lucky Bonus.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 878
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -176,11 +184,12 @@
   "revisionId": 107460,
   "revisionTimestamp": "2025-02-28T23:31:38Z",
   "route": "/wiki/coal-13487",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coal",
   "title": "Coal",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coal.png|200px|left]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 33\n |price = 1 to 10\n |time = Instant\n |source = {{Infoicon|mine|bigger|link=Mine}}\n |xp = 3\n |base = 3\n}}\n'''Coal''' is a [[Products|product]] unlocked at [[experience]] level 33.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Extracting coal'''===\n[[File:Mine.png|150px|left|Mine]]\nCoal is found in the [[Mine]].\n\nTo extract coal, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Dynamite.png|75px|link=Dynamite|Dynamite]]\n|[[File:TNT Barrel.png|75px|link=TNT Barrel|TNT barrel]]\n|[[File:Shovel.png|75px|link=Shovel|Shovel]]\n|[[File:Pickaxe.png|75px|link=Pickaxe|Pickaxe]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x4'''\n|'''x5'''\n|}\n\nIt takes no time to extract coal but the process is randomized: players might get any of the available Mine products when using mine supplies, as well as an extra [[diamond]]. It is observed that the chance to obtain coal, [[Gold Ore|gold ore]] and [[Iron Ore|iron ore]] is quite similar. Each extracted coal gives players 3 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling coal'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Coal can be bought or sold for a maximum price of 108 {{Infoicon|coin}} for 10 units.\n* Buying a supply tool costs between 25 and 126 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n=== '''Using coal''' ===\n*Coal is used to make the following [[products|product]]:\n{{Item Usage|Coal\n|Refined Coal|3|33\n}}\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Coal is commonly found on [[Daily Dirt]].\n** This is probably due to its limited uses, unlike gold ore which can make [[Gracious Bouquet]], [[Fancy Cake]], and iron ore which can make [[Bright Bouquet]].\n* Selling coal is not profitable at all. You should always transform it into refined coal. Selling it is already profitable at this stage, but to have more benefits, you can make [[Iron Bracelet]] or upgrade personal train in [[Town]] to gain [[supplies]] easily as visitors who are brought by personal train only visit one town building only.\n* [[Truck]], [[Boat]] and [[Town]] orders never require coal.\n----\n{{Navigation}}\n{{Languages\n|de = Kohle\n|es = Carbón\n|fr = Minerai de Charbon\n|it = Carbone\n|nl = Steenkool\n|no = Kull\n}}\n[[Category:Mine Products]]",
   "wikitextHash": "ff67176dcc041cd7119be93b9c3a4426cc784df7aaa0d419209e451143d05f08"
 }

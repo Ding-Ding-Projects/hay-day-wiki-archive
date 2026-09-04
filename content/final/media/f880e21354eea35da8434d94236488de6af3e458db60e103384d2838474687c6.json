@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Fainting.png",
+  "filePageId": 32055,
+  "filePageRevisionId": 88974,
+  "filePageRevisionSha1": "560f5e5fb9f652bab9fd8feae3934f989eefd4bd",
+  "filePageRevisionTimestamp": "2019-10-25T20:29:11Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "a8607461ceaeb6b89ca95737fa480cac68296c83180e7ff31825661fc3c1d443",
   "height": 737,
   "immutableUrl": null,
   "mediaId": "File:Goat Fainting.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:28:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGoat%20Fainting.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 295984,
   "sourceSha1": "351d308e2dccd02da749f50ac4663dd935a0510b",

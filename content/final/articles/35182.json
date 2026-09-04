@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -343,11 +351,12 @@
   "revisionId": 109679,
   "revisionTimestamp": "2026-04-14T17:07:27Z",
   "route": "/wiki/passion-fruit-35182",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Passion_Fruit",
   "title": "Passion Fruit",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Passion Fruit.png|200px|left]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 88\n |price = 1 to 18\n |time = 1 h\n |xp= 4\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 5\n |dia = 4\n }}\n'''Passion Fruit''' is a field [[crops|crop]] unlocked at [[experience]] level 88.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing passion fruit'''===\nPassion fruit is grown in [[Farm|fields]] by planting another passion fruit plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 4 {{Infoicon|xp}} point, and takes 1 hour to mature.\n\n<gallery>\nFile:Passion Fruit Stage 1.png\nFile:Passion Fruit Stage 2.png\nFile:Passion Fruit Stage 3.png\nFile:Passion Fruit Stage 4.png\nFile:Passion Fruit Stage 5.png\n</gallery>\n----\n==='''Selling passion fruit'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop|Roadside Shop]]\n* Passion fruit can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using passion fruit'''===\nPassion fruit is used to make the following [[products]]:\n\n{{Item Usage|Passion Fruit\n|Passion Fruit Juice|2|88\n|Passion Fruit Pie|3|92\n|Passion Fruit Jam|3|96\n|Tart Dressing|2|100\n|Tropical Smoothie|2|104\n|Fruit Sorbet|1|106\n|Tropical Yogurt|1|109\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat|Boat]]\n* [[Boat]] orders ask for 16 to 26 passion fruit per crate, up to a total of 78 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Passionsfrucht\n|es = Maracuyá\n|fr = Fruit de la Passion\n|no = Pasjonsfrukt\n}}\n[[pt-br:Maracujá]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "fa87482bfc34b78adddd9d8304bb99fdd3980cb405b73a50c2b172e519c5442c"
 }

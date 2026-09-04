@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Flamingos?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 105221,
   "revisionTimestamp": "2024-04-17T19:51:17Z",
   "route": "/wiki/category%2Fcategory-flamingos-36053",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Flamingos",
   "title": "Category:Flamingos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of flamingos available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "5ecae550b219a55d3dd81ce0b7c88407d385e08eb64a1fc7eb77d398cd08d16b"
 }

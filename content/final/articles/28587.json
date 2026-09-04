@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animals",
+    "Category:Sanctuary"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animals",
+      "Category:Sanctuary"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary_Animals?action=history",
@@ -31,11 +41,12 @@
   "revisionId": 74283,
   "revisionTimestamp": "2017-10-22T11:55:53Z",
   "route": "/wiki/category%2Fcategory-sanctuary-animals-28587",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary_Animals",
   "title": "Category:Sanctuary Animals",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to animals from the [[sanctuary]].\n[[Category:Animals]]\n[[Category:Sanctuary]]",
   "wikitextHash": "bc87e5381353cdf891ed76e6afa5e0449685756ff0d676a2e2d1cb33d58c0b1c"
 }

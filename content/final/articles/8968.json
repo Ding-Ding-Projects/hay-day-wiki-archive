@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Olive Products",
+    "Category:Sauce Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Olive Products",
+      "Category:Sauce Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -229,11 +239,12 @@
   "revisionId": 109697,
   "revisionTimestamp": "2026-04-22T20:11:45Z",
   "route": "/wiki/olive-oil-8968",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Olive_Oil",
   "title": "Olive Oil",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Olive Oil.png|200px|left|Olive oil]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 60\n |price = 1 to 277\n |time = 45 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 33\n |base = 77\n |dia = 3\n |time3 = 38 min\n}}\n'''Olive oil''' is a [[Products|product]] unlocked at [[experience]] level 60.\n\nIt is used to make [[Veggie Bagel|veggie bagels]], [[mayonnaise]], [[Pasta Salad|pasta salad]], [[Corn Dog|corn dogs]], [[Spicy_Fish|spicy fish]], [[Bell Pepper Soup|bell pepper soup]], [[Lemon_Lotion|lemon lotion]], [[Bacon_Fondue|bacon fondue]] and [[Canned_Fish|canned fish]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making olive oil'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nOlive oil is made in the [[Sauce Maker]].\n\nTo make olive oil, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Olive.png|75px|Olives|link=Olive]]\n|-\n|'''x3'''\n|}\nIt takes 45 minutes to make one bottle of olive oil, and 38 minutes in a fully [[Masteries|mastered]] maker. Each bottle gives players 33 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling olive oil'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Olive oil can be bought or sold for a maximum price of 2,772 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make olive oil costs 246 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using olive oil'''===\nOlive oil is used to make the following [[products]]:\n\n{{Item Usage|Olive Oil\n|Veggie Bagel|1|61\n|Mayonnaise|1|62\n|Pasta Salad|1|67\n|Corn Dog|1|78\n|Spicy Fish|1|79\n|Bell Pepper Soup|1|81\n|Lemon Lotion|1|84\n|Bacon Fondue|1|86\n|Canned Fish|1|95\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 bottles per crate, up to a total of 6 per boat (for three crates).\n** 1 bottle per crate, up to a total of 4 per boat (for four crates).\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Olive oil is required to produce [[Mayonnaise]]. Mayonnaise is used to make [[BLT Salad|BLT salad]], [[Seafood Salad|seafood salad]], [[Bacon Toast|bacon toasts]], [[Egg Sandwich|egg sandwiches]] and [[Cucumber Sandwich|cucumber sandwiches]]. It is recommended to produce large amounts of olive oil to produce Mayonnaise.\n----\n==='''Did you know?'''===\n* Olive oil used to be the only product in the game to be used for another product made in the very same machine, but now [[Cream Cake|Cream cake]] is used to make [[Fancy Cake|Fancy cake]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Olivenöl\n|es = Aceite de oliva\n|fr = Huile d'Olive\n|it = Olio d'oliva\n|nl = Olijfolie\n|no = Olivenolje\n|zh = Olive Oil\n}}\n[[pt-br:Azeite]]\n[[ru:Оливковое масло]]\n[[Category:Sauce Maker Products]]\n[[Category:Olive Products]]",
   "wikitextHash": "fcc45070ac768c56fd60a96f837bf721866fe61eff2ff1493f5750b7c4b80d86"
 }

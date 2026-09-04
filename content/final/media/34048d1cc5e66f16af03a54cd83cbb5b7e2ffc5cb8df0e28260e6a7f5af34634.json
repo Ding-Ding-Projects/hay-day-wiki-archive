@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HDxmasSS.png",
+  "filePageId": 8997,
+  "filePageRevisionId": 46306,
+  "filePageRevisionSha1": "b2ea23224c4a25dbf99929c46538aeeb8aa1d7f6",
+  "filePageRevisionTimestamp": "2015-04-19T10:04:17Z",
+  "filePageWikitext": "[[Category:Image User]]",
+  "filePageWikitextHash": "6f9adc204b7d7931ba69cdb6f07f622358498d9b24279c9afae3ef9210d36371",
+  "height": 629,
+  "immutableUrl": null,
+  "mediaId": "File:HDxmasSS.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-11-17T18:26:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHDxmasSS.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 643875,
+  "sourceSha1": "7be6bc5b2739ae0945b39ddbd43c8d9144e93959",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/3c/HDxmasSS.png/revision/latest?cb=20131117182642",
+  "title": "File:HDxmasSS.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 825
+}

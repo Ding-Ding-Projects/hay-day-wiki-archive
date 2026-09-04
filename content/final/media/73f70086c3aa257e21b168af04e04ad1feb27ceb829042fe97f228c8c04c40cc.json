@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stew_Pot.png",
+  "filePageId": 35561,
+  "filePageRevisionId": 108648,
+  "filePageRevisionSha1": "c60b9553ba6d93a5ae094106475c948cacb164e7",
+  "filePageRevisionTimestamp": "2025-09-26T01:21:50Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Stew Pot]] image\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "7f192a4d937ec97dd74cde23877f034f1c488d83b66f445d33c86a4a81f0236f",
   "height": 534,
   "immutableUrl": null,
   "mediaId": "File:Stew Pot.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T01:21:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStew%20Pot.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 414905,
   "sourceSha1": "1405fe3ac4b665b436fe5dc420dbc874aaa5d8eb",

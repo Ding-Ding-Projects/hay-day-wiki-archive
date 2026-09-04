@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Porch_Guesthouse.png",
+  "filePageId": 29844,
+  "filePageRevisionId": 81597,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2018-06-30T12:08:07Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 272,
   "immutableUrl": null,
   "mediaId": "File:Porch Guesthouse.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-06-11T15:47:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APorch%20Guesthouse.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 72869,
   "sourceSha1": "cf54fa4350713650967292a2c6cc19f618c425a7",

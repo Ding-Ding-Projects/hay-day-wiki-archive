@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_90.png",
+  "filePageId": 27954,
+  "filePageRevisionId": 97617,
+  "filePageRevisionSha1": "3828a0e088faea8e4a7d35e7c631006394649675",
+  "filePageRevisionTimestamp": "2021-05-20T16:53:48Z",
+  "filePageWikitext": "Level 90 with updated 10 Diamonds\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "51080b7adafeffd1a79e2b5dc4755d467d938b474aacd4cce2cc2c7d0685f748",
   "height": 475,
   "immutableUrl": null,
   "mediaId": "File:Level 90.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-05-20T16:53:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2090.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 475979,
   "sourceSha1": "4e5c1c5319a80d286d147225743ba8b6edc6880d",

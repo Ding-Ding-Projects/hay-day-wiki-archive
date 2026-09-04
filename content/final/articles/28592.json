@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Vouchers?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 74203,
   "revisionTimestamp": "2017-10-22T10:05:21Z",
   "route": "/wiki/category%2Fcategory-image-vouchers-28592",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Vouchers",
   "title": "Category:Image Vouchers",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image Voucher\n[[Category:Images]]",
   "wikitextHash": "4c4fbb1793d788d865212c71cdec0c3bb0838bb007aee74dc2150e079a184d36"
 }

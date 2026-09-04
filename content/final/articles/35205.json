@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Passion_Fruit_Dressing?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 98967,
   "revisionTimestamp": "2021-10-18T11:56:01Z",
   "route": "/wiki/passion-fruit-dressing-35205",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Passion_Fruit_Dressing",
   "title": "Passion Fruit Dressing",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Tart Dressing]]",
   "wikitextHash": "2c96326ade31441a78aad499b23dc3e9acfcc1362e530cdd926504664a8dbe7b"
 }

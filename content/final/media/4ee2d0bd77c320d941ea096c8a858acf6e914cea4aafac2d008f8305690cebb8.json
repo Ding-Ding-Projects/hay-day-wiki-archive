@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_54.png",
+  "filePageId": 35331,
+  "filePageRevisionId": 100047,
+  "filePageRevisionSha1": "4aa8c965326887455c85188307de4f57a7449cde",
+  "filePageRevisionTimestamp": "2022-01-12T20:20:12Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5300f60c6113adbc9ca24969094cb386749abede9686f1f7ec9a4c562687ec70",
   "height": 455,
   "immutableUrl": null,
   "mediaId": "File:Level 54.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-12T16:46:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2054.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 573205,
   "sourceSha1": "aa454553ba807e1f1085a01776088c6216139693",

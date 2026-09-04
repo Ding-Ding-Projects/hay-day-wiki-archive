@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cabbage Products",
+    "Category:Carrot Products",
+    "Category:Mayonnaise Products",
+    "Category:Salad Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cabbage Products",
+      "Category:Carrot Products",
+      "Category:Mayonnaise Products",
+      "Category:Salad Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 107249,
   "revisionTimestamp": "2025-02-12T22:17:28Z",
   "route": "/wiki/coleslaw-34846",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coleslaw",
   "title": "Coleslaw",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coleslaw.png|200px|left|Coleslaw]]\n\n{{Infobox\n |title = [[Products|product]]\n |level = 75\n |price = 1 to 468\n |time = 1 hr 15 min\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 56\n |base = 130\n |dia = 4\n |time3 = 1 hr 3 min\n}}\n'''Coleslaw''' is a [[products|product]] unlocked at [[experience]] level 75. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making coleslaw'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nColeslaw is made in the [[Salad Bar]].\n\nTo make coleslaw, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cabbage.png|75px|Cabbage|link=Cabbage]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Mayonnaise.png|75px|Mayonnaise|link=Mayonnaise]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hr 15 minutes to make coleslaw, and 1 hr 3 minutes in a fully [[Masteries|mastered]] bar. Each coleslaw gives players 56 [[experience]] points.\n\n{{Clr}}----\n==='''Selling coleslaw'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Coleslaw can be bought or sold for a maximum price of 4,680 {{Infoicon|Coin}} for 10 bowls.\n*Buying the ingredients required to make coleslaw costs 435 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 coleslaw per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Clr}}\n----\n{{navigation}}\n{{Languages\n|de = Krautsalat\n|es = Ensalada de col\n|fr = Coleslaw\n|it = Insalata di cavolo\n|nl = Koolsla\n|no = Kålsalat\n|zh = Coleslaw\n}}\n[[pt-br:Salada de repolho]]\n[[ru:Капустный салат]]\n\n[[Category:Salad Bar Products]]\n[[Category:Cabbage Products]]\n[[Category:Carrot Products]]\n[[Category:Mayonnaise Products]]",
   "wikitextHash": "62892e01a00de5b73ec7edec09d764e5f36b11f98524caf9349a29b9c11adc15"
 }

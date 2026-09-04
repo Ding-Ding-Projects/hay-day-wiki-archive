@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_67.png",
+  "filePageId": 27488,
+  "filePageRevisionId": 75782,
+  "filePageRevisionSha1": "deb69d03ef60458b9280b58aadd393b4d7ced1fa",
+  "filePageRevisionTimestamp": "2017-11-26T17:32:20Z",
+  "filePageWikitext": "Level 67\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "7f71974ee23455b2fc0f2207a884a7ae5406883da0035926d887678b44c60e88",
   "height": 1440,
   "immutableUrl": null,
   "mediaId": "File:Level 67.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-22T13:22:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2067.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2735404,
   "sourceSha1": "18dfb3a70f69767a866cefa7e90ba87f4dd5c31f",

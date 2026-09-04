@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals",
+    "Category:Fishing"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals",
+      "Category:Fishing"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +162,12 @@
   "revisionId": 110843,
   "revisionTimestamp": "2026-08-05T12:36:45Z",
   "route": "/wiki/duck-16989",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Duck",
   "title": "Duck",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Duck.png|200px|left|Duck]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 50\n |price = Free\n |gives = {{Infoicon|duckf|big|link=Duck Feather}}\n |time = 1h to make a trap,<br>2h in water,<br>3h in Salon\n|dia = 4 to make a trap,<br>5 in water,<br>6 in Salon\n}}\n'''Ducks''' are [[animals]] found in the [[Fishing Lake|fishing lake]]. They produce [[Duck Feather|feathers]].\n\nThey are unlocked at [[experience]] level 50 when the [[Duck Salon]] can be repaired.\n\n{{Clr}}\n----\n==='''Appearance'''===\nDucks have three main states: sitting in the salon as they get their hair styled, covered in feathers once their hair is done and flying. They get more varied sitting animations as players upgrade the salon. Unlike other animals, they do not change appearance during seasonal [[themes]].\n\n<gallery hideaddbutton=\"true\" widths=\"100px\">\nDuck Ice Cream.png|Initial stage\nDuck Cookie.png|Stage 2\nDuck Cucumber.png|Stage 3\nDuck Book.png|Stage 4\nDuck Cocktail.png|Stage 5\nDuck Bubbles.png|Stage 6\nDuck ready.png|Ready to collect duck feather\n</gallery>\n----\n==='''Catching ducks'''===\n[[File:Duck Trapped.png|150px|left]]\nDucks can be caught with [[Duck Trap|duck traps]], which is made in the [[Net Maker]] for free using 1 hour (or speed up using 4 diamonds). Then, players need to throw a duck trap to a fishing spot and let the duck trap occupy the fishing spot for 2 hours (or speed up using 5 diamonds). After that, ducks must stay in the [[Duck Salon]] for 3 hours (or speed up using 6 diamonds) before they yield duck feathers. The duck goes back into the water after that.\n\n{{Clr}}\n[[File:Duck Salon Stage6.png|150px|left]]\nThe [[Duck Salon|salon]] can initially welcome only one duck. Players can upgrade it using [[coin]]s and time to make room for more ducks (to a maximum of six ducks). \n\n{{Clr}}\n----\n\n\n{{Navigation}}\n{{Languages\n|de = Ente\n|es = Pato\n|fr = Canard\n|it = Anatra\n|ru = Утка\n}}\n[[Category:Fishing]]\n[[Category:Farm Animals]]",
   "wikitextHash": "2dec855d5b59b5ed58b27caa7017c8c2270a99cc30b15634f6bfd5e8ac4ad6b6"
 }

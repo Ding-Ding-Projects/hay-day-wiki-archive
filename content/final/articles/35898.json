@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Coconut Products",
+    "Category:Oats Products",
+    "Category:Pineapple Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Coconut Products",
+      "Category:Oats Products",
+      "Category:Pineapple Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +191,12 @@
   "revisionId": 109546,
   "revisionTimestamp": "2026-03-11T22:14:34Z",
   "route": "/wiki/pineapple-coconut-bars-35898",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pineapple_Coconut_Bars",
   "title": "Pineapple Coconut Bars",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pineapple Coconut Bars.png|left|200x200px|Pineapple Coconut Bars]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 120\n |price = 1 to 284\n |time = 40 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 34\n |dia = 3\n |base = 79\n |time3 = 34 min\n}}\n'''Pineapple Coconut Bars''' is a [[Products|product]] unlocked at [[experience]] level 120.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Pineapple Coconut Bars'''===\n[[File:Bakery.png|150px|left|link=Bakery|Bakery]]\nPineapple Coconut Bars are made in the [[Bakery]].\n\nTo make a pineapple coconut bar, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coconut.png|75px|Coconot|link=Coconut]]\n|[[File:White Sugar.png|75px|White Sugar|link=White Sugar]]\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|[[File:Pineapple.png|75px|Pineapple|link=Pineapple]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|'''x2'''\n|}\nIt takes 40 minutes to make Pineapple Coconut Bars, and 34 minutes in a fully [[Masteries|mastered]] Bakery. Each loaf gives players 34 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Pineapple Coconut Bars'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Pineapple Coconut Bars can be bought or sold for a maximum price of 2,844 {{Infoicon|Coin}} for 10 bars.\n* Buying the ingredients required to make one Pineapple Coconut Bars costs 257 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 bars per crate, up to a total of 6 per boat (for three crates).\n** 2 bars per crate, up to a total of 8 per boat (for four crates).\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Ananas-Kokosnuss-Riegel\n|es = Barritas de piña y coco\n|it = Barrette di ananas e cocco\n|nl = Ananas Kokos Repen\n|no = Ananas- og kokosnøttkubbe\n|ru = Ананасно-кокосовые батончики\n}}\n[[pt-br:Barras de coco e abacaxi]]\n\n[[Category:Bakery Products]]\n[[Category:Oats Products]]\n[[Category:Pineapple Products]]\n[[Category:White Sugar Products]]\n[[Category:Coconut Products]]",
   "wikitextHash": "455bf12e075d083c5c81551b9e96186978eb46a4ecd368dc739ba14ac0563353"
 }

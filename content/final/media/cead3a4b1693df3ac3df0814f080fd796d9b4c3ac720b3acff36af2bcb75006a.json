@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Advanced_Settings_Neighborhood.png",
+  "filePageId": 22754,
+  "filePageRevisionId": 76281,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2017-12-27T17:32:02Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
   "height": 701,
   "immutableUrl": null,
   "mediaId": "File:Advanced Settings Neighborhood.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-21T07:04:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAdvanced%20Settings%20Neighborhood.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 361310,
   "sourceSha1": "d86c3d3e6b738371c22166c16e620a14c90b7998",

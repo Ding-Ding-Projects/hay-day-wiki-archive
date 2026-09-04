@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Help:Editing?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 26814,
   "revisionTimestamp": "2014-05-21T23:25:54Z",
   "route": "/wiki/help%2Fhelp-editing-9459",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Help:Editing",
   "title": "Help:Editing",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This page details how editing on the Hay Day Wiki works as well as editing in general. Experienced editors may want to check out our [[Manual of Style]] to see how our pages are formatted.",
   "wikitextHash": "0351d77870c9b0d439d556b38ae2a72313f350076e1d849203c69b206cd9c686"
 }

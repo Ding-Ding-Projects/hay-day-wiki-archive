@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fresh_Diffuser.png",
+  "filePageId": 36223,
+  "filePageRevisionId": 108835,
+  "filePageRevisionSha1": "e23bd839441caeb13fe4e3c686f3133f16b9b498",
+  "filePageRevisionTimestamp": "2025-10-23T21:18:38Z",
+  "filePageWikitext": "== Summary ==\nScreenshot from game \n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0a51fd93cedd0ce63fd15b42436860ae13e17d64264fd78fa1a308af7c80fe16",
   "height": 1854,
   "immutableUrl": null,
   "mediaId": "File:Fresh Diffuser.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 7,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T19:46:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFresh%20Diffuser.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 899667,
   "sourceSha1": "d6a3dbdc1625029d54bc8c6fbf432a2c6a91cbed",

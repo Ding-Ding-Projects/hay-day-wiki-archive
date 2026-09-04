@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HAY_DAY_SUOMI_ONNENPY%C3%96R%C3%84HAASTEITA_RANGAISTUKSILLA_*P%C3%84%C3%84SI%C3%84INEN_EDITION%22",
+  "filePageId": 33384,
+  "filePageRevisionId": 93026,
+  "filePageRevisionSha1": "133e4bcc6cfc1b415e053cf90b8bcb2ad4d3ec1c",
+  "filePageRevisionTimestamp": "2020-04-10T11:55:30Z",
+  "filePageWikitext": "\n== Description ==\n#HAYDAY\n#Supercell\n\nJätä tykkäys. Okei?\nTilaa kanava. Kuulikko nää? Sanoin että tilaa kanava.\n\nHyvää pääsiäistä.\n\nMusiikit:\n1 Rameses B - Visionary\n2 Avicii - Levels\n3 DJVI - Cycles\n4 LFZ - Echoes\n5 Far Out - Apex\n6 Don Diablo - On My Mind\n7 Far Out - Rise\n8 Noisestrom - Crab Rave\n\nJoidenkin musiikkien nimiä en valitettavasti tiedä.\n[[Category:Videos]]",
+  "filePageWikitextHash": "cb6f206ca2acc2d5823c0be17fefe073146e7dc8785594376b9453c526e19374",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:HAY DAY SUOMI ONNENPYÖRÄHAASTEITA RANGAISTUKSILLA *PÄÄSIÄINEN EDITION\"",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-10T11:55:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHAY%20DAY%20SUOMI%20ONNENPY%C3%96R%C3%84HAASTEITA%20RANGAISTUKSILLA%20*P%C3%84%C3%84SI%C3%84INEN%20EDITION%22",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 26624,
+  "sourceSha1": "b7fed01adf65ceb2b603286319efc680ddf1c368",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/HAY_DAY_SUOMI_ONNENPY%C3%96R%C3%84HAASTEITA_RANGAISTUKSILLA_%2AP%C3%84%C3%84SI%C3%84INEN_EDITION%22/revision/latest?cb=20200410115530",
+  "title": "File:HAY DAY SUOMI ONNENPYÖRÄHAASTEITA RANGAISTUKSILLA *PÄÄSIÄINEN EDITION\"",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Royal_Poinciana_Tree.png",
+  "filePageId": 27527,
+  "filePageRevisionId": 74140,
+  "filePageRevisionSha1": "b31251d7d8e647c51b6ff42de8880ed470800622",
+  "filePageRevisionTimestamp": "2017-10-22T10:00:44Z",
+  "filePageWikitext": "== Summary ==\nNew Diamond Package Deco - Royal Poinciana Tree $9.99 for 275 Diamonds\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "09223bd79c1ddd9412d6432519a200088f837c1b16621c831d8be5635936c392",
   "height": 491,
   "immutableUrl": null,
   "mediaId": "File:Royal Poinciana Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-28T12:04:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARoyal%20Poinciana%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 392485,
   "sourceSha1": "06e33d194fd6a343135c6a7d31db1f06fa805e73",

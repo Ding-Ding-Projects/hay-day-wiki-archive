@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shovel.png",
+  "filePageId": 4198,
+  "filePageRevisionId": 89190,
+  "filePageRevisionSha1": "7af6f951fe723f31e9e9f6cba789dd7818d38793",
+  "filePageRevisionTimestamp": "2019-10-28T13:02:18Z",
+  "filePageWikitext": "Picture of a shovel.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "deb88384caf246d3e8f46989f37810541eff848f1aeac4ab212e14fdbdc31ab7",
   "height": 228,
   "immutableUrl": null,
   "mediaId": "File:Shovel.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 32,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:02:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShovel.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 30106,
   "sourceSha1": "de226cd0108acf64da5da31a0fe929ee29ac8653",

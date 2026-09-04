@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Site_Administration?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95424,
   "revisionTimestamp": "2020-08-18T01:44:35Z",
   "route": "/wiki/category%2Fcategory-site-administration-25706",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Site_Administration",
   "title": "Category:Site Administration",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Content regarding the administration of this site.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "5478b5b97bd9ce1c997d1b79c16c2a5f2fbe32960f474c3f3f1fca6450a2dc3f"
 }

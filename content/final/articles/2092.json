@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Products",
+    "Category:Popcorn Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Products",
+      "Category:Popcorn Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +145,12 @@
   "revisionId": 105664,
   "revisionTimestamp": "2024-08-15T23:06:37Z",
   "route": "/wiki/popcorn-2092",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Popcorn",
   "title": "Popcorn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}[[ru:Попкорн]]\n[[File:Popcorn.png|200px|left|Popcorn]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 8\n |price = 1 to 32\n |time = 30 min\n |xp = 4\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |base = 9\n |dia = 3\n |time3 = 25 min\n}}\n'''Popcorn''' is a [[Products|product]] unlocked at [[experience]] level 8.\n\nPopcorn is the first product unlocked in the [[Popcorn Pot]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making popcorn'''===\n[[File:Popcorn Pot.png|150px|left|link=Popcorn Pot|Popcorn Pot]]\nPopcorn is made in the [[Popcorn Pot]].\n\nTo make popcorn, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|-\n|'''x2'''\n|}\nIt takes 30 minutes to make one bag, and 25 minutes in a fully [[Masteries|mastered]] pot. Each bag gives players 4 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling popcorn'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Popcorn can be bought or sold for a maximum price of 324 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make popcorn costs 14 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 10 to 20 bags of popcorn per crate, up to a total of 80 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Popcorn is a common item in lower levels in the [[Daily Dirt]]. At higher levels, it becomes more rare to find.\n* Boat crates often ask for a large number of popcorn so you must have some already stored.\n----\n\n{{Navigation}}\n{{Languages\n|de = Popcorn\n|es = Palomitas\n|fr = Pop-Corn\n|it = Popcorn\n|nl = Popcorn\n|no = Popkorn\n|vi = Bỏng ngô\n|zh = 爆米花\n}}\n[[pt-br:Pipoca]]\n[[ru:Попкорн]]\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]",
   "wikitextHash": "7394a6f49b029971192605a73dee322fe59602055e2f94adcd1ca8495470a9fb"
 }

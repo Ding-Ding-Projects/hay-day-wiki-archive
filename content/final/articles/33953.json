@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candy Machine Products",
+    "Category:Honey Products",
+    "Category:Peanuts Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candy Machine Products",
+      "Category:Honey Products",
+      "Category:Peanuts Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +149,12 @@
   "revisionId": 107192,
   "revisionTimestamp": "2025-02-08T19:13:28Z",
   "route": "/wiki/honey-peanuts-33953",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Peanuts",
   "title": "Honey Peanuts",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Peanuts.png|200px|left|Honey peanuts]]\n\n{{Infobox\n |level = 63\n |price = 1 to 468\n |time = 40 min\n |xp = 64\n |source = {{Infoicon|candym|bigger|link=Candy Machine}}\n |base = 130\n |dia = 3\n |time3 = 34 min\n |title = [[Products|Product]]\n}}\n'''Honey peanuts''' are a [[Products|product]] unlocked at [[experience]] level 63.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making honey peanuts'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nHoney peanuts are made in the [[Candy Machine]].\n\nTo make honey peanuts, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 40 minutes to make one bowl, and 34 minutes in a fully [[Masteries|mastered]] machine. Each bowl gives players 64 [[experience]] points.\n\n{{Clr}}----\n==='''Selling honey peanuts'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Honey peanuts can be bought or sold for a maximum price of 4680 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make honey peanuts costs 388 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Keep both your bees and squirrels busy producing the ingredients.\n* Stock plenty of axes to remove dead nectar and peanut pod bushes.\n----\n==='''Did you know?'''===\n*Originally, the price of honey peanuts was 540. In the December 2020 upgrade, the price of peanuts was reduced by 126, and the price of the extant peanut products went down by less.\n\n{{Navigation}}\n\n{{Languages\n|de = Honigerdnüsse\n|es = Cacahuetes garrapiñados\n|fr = Cacahuètes au Miel\n|it = Arachidi al miele\n|nl = Honingpinda's\n|no = Honningpeanøtter\n|zh = Honey Peanuts\n}}\n[[pt-br:Amendoim caramelizado]]\n[[ru:Арахис с мёдом]]\n\n[[Category:Candy Machine Products]]\n[[Category:Honey Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "642450bc2b6d6212d808df256323a8c283e78bbf681d4c1280de1f91b338a850"
 }

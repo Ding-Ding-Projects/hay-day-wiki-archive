@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Juice Products",
+    "Category:Flower Shop Products",
+    "Category:Indigo Products",
+    "Category:Lily Products",
+    "Category:Peony Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Juice Products",
+      "Category:Flower Shop Products",
+      "Category:Indigo Products",
+      "Category:Lily Products",
+      "Category:Peony Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -155,11 +171,12 @@
   "revisionId": 109466,
   "revisionTimestamp": "2026-02-21T22:18:15Z",
   "route": "/wiki/birthday-bouquet-34955",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Birthday_Bouquet",
   "title": "Birthday Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Birthday Bouquet.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 92\n |price = 1 to 349\n |time = 20 min\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |xp = 42\n |base = 97\n |dia = 2\n |time3 = 17 min\n}}\n'''Birthday bouquets''' are [[products]] unlocked at [[experience]] level 92. It's not used to make any other product.\n\nIt is introduced in [[Version History|28 June 2021 Update]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making birthday bouquets'''===\n[[File:Flower Shop.png|thumb|150px|left|link=Flower Shop]]\nBirthday bouquets are made in [[Flower Shop]].\n\nTo make birthday bouquets, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cherry Juice.png|thumb|75px|Cherry Juice|link=Cherry Juice]]\n|[[File:Peony.png|thumb|75px|Peony|link=Peony]]\n|[[File:Lily.png|thumb|75px|Lily|link=Lily]]\n|[[File:Indigo.png|thumb|75px|Indigo|link=Indigo]]\n|-\n|'''×1'''\n|'''×3'''\n|'''×1'''\n|'''×1'''\n|}\nIt takes 20 minutes to make one bouquet, and 17 minutes in a fully [[Masteries|mastered]] flower shop. Each bouquet gives players 42 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling birthday bouquets'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Birthday bouquets can be bought or sold for a maximum price of 3,492 {{Infoicon|Coin}} for 10 bouquets.\n* Buying the ingredients required to make 1 bouquet costs 370 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 1 to 2 birthday bouquets per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Birthday bouquets are one of the few products in the game where the ingredients cost more that the final product.  This means that you are losing coins by producing them. If you cannot find then for sale in the Daily Dirt then only make enough to satisfy your town visitors.  Never sell them in your Roadside Shop.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Geburtstagsstrauß\n|es = Ramo de aniversario\n|fr = Bouquet d'Anniversaire\n|it = Bouquet del compleanno\n|nl = Verjaardagsboeket\n|no = Bursdagsbukett\n|ru = Букет ко дню рождения\n|zh = Birthday Bouquet\n}}\n[[pt-br:Buquê de aniversário]]\n\n[[Category:Flower Shop Products]]\n[[Category:Cherry Juice Products]]\n[[Category:Peony Products]]\n[[Category:Lily Products]]\n[[Category:Indigo Products]]",
   "wikitextHash": "ba6ae179971768fc381291bb5e3424803e7c909dba271d49a6eafc1a9b1cf6c7"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_243.jpg",
+  "filePageId": 36267,
+  "filePageRevisionId": 109837,
+  "filePageRevisionSha1": "7bb5072b122e1776f455acd07ab6f4b905d37fc5",
+  "filePageRevisionTimestamp": "2026-05-08T11:32:42Z",
+  "filePageWikitext": "== Summary ==\nLevel 243\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "206a364ccd03016bb9b7f6c625c6060216a2dd1ff2f965ac9ead572f1872e1c7",
   "height": 503,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 243.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-02-09T12:45:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20243.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 32319,
   "sourceSha1": "0631c31473c81e465d5d55124d035e1122c988c6",

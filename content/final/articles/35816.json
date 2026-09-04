@@ -12,7 +12,25 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bell Pepper Products",
+    "Category:Cabbage Products",
+    "Category:Carrot Products",
+    "Category:Egg Products",
+    "Category:Note",
+    "Category:Omelet Station Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bell Pepper Products",
+      "Category:Cabbage Products",
+      "Category:Carrot Products",
+      "Category:Egg Products",
+      "Category:Note",
+      "Category:Omelet Station Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +163,12 @@
   "revisionId": 109861,
   "revisionTimestamp": "2026-05-09T06:18:58Z",
   "route": "/wiki/colourful-omelet-35816",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Colourful_Omelet",
   "title": "Colourful Omelet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|the game uses two different spellings: ''colourful'' for omelet and ''colorful'' for [[Colorful Candles|candles]].}}\n[[File:Colourful Omelet.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 77\n |price = 1 to 136\n |time = 1 h\n |xp = 16\n |source = {{Infoicon|omelets|bigger|link=Omelet Station}}\n |base = 38\n |dia = 4\n |time3 = 51 m\n}}\n'''Colourful Omelet''' are [[products]] unlocked at [[experience]] level 77. It was added in Summer 2023 update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making colourful omelet'''===\n[[File:Omelet Station.png|150px|left|link=Omelet Station|Omelet Station]]\nColourful omelet are made in the [[Omelet Station]].\n\nTo make a colourful omelet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Bell Pepper.png|75px|Bell Pepper|link=Bell Pepper]]\n|[[File:Cabbage.png|75px|Cabbage|link=Cabbage]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour to make one colourful omelet, and 51 minutes in a fully [[Masteries|mastered]] station. Each colourful omelet gives players 16 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling colourful omelet'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Colourful can be bought or sold for a maximum price of 1,368 {{Infoicon|Coin}} for 10 colourful omelet.\n* Buying the ingredients required to make a colourful omelet costs 104 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 colourful omelet per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Bell Peppers are likely to be a bottleneck, so make sure you enough a sufficient amount of them.\n\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Buntes Omelett\n|es = Tortilla colorida\n|fr = Omelette Colorée\n|it = Omelette colorata\n|nl = Kleurrijke Omelet\n|no = Fargerik omelett\n|ru = Разноцветный омлет\n}}\n[[pt-br:Omelete colorida]]\n\n[[Category:Omelet Station Products|1]]\n[[Category:Egg Products]]\n[[Category:Carrot Products]]\n[[Category:Bell Pepper Products]]\n[[Category:Cabbage Products]]",
   "wikitextHash": "9feb331e04a392b7115c5101e94cf31e4ccac7bd949ea28483ab300e37aafc3b"
 }

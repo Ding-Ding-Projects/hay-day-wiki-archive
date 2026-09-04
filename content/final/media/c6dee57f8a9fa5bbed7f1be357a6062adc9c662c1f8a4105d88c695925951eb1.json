@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_tree_market.png",
+  "filePageId": 35719,
+  "filePageRevisionId": 102343,
+  "filePageRevisionSha1": "eb69bffc399957584c4360bf57596e10eb5a07bd",
+  "filePageRevisionTimestamp": "2022-12-21T08:30:17Z",
+  "filePageWikitext": "== Summary ==\nWinter Tree Market\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "9970804e7866aa0b42444f73530312f370b63555043b9f2795701b318fd349e0",
   "height": 535,
   "immutableUrl": null,
   "mediaId": "File:HayDay tree market.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-19T14:15:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHayDay%20tree%20market.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 370873,
   "sourceSha1": "0dd48ff8883b303922ae1bc101133cd81dc0aa1c",

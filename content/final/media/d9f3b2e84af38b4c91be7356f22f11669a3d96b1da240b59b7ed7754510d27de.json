@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dried_Fruit.png",
+  "filePageId": 35200,
+  "filePageRevisionId": 105172,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-04-11T15:03:08Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 3412,
   "immutableUrl": null,
   "mediaId": "File:Dried Fruit.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:03:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADried%20Fruit.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 7570765,
   "sourceSha1": "2b3d9390444fae726aa32675b384ad44386a856a",

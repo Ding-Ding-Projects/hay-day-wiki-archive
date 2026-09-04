@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -352,11 +360,12 @@
   "revisionId": 110894,
   "revisionTimestamp": "2026-08-11T13:07:13Z",
   "route": "/wiki/sugar-mill-3550",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sugar_Mill",
   "title": "Sugar Mill",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sugar Mill.png|200px|left|Sugar Mill]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 7 (first)<br>76 (second)\n |price = 350 (first)<br>199,750 (second)\n |time = 6 h\n |slots = 2\n |dia = 25\n |size = 2×2\n}}\nThe '''Sugar Mill''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 7. A second sugar mill, which was introduced on 28 June 2021, is unlocked at level 76.\n\nIt is used to make [[Brown Sugar|brown sugar]], [[White Sugar|white sugar]] and [[syrup]].\n\n{{Clr}}----\n==='''Appearance'''===\nThe Sugar Mill is a cyan press, extracting the juice from the sugarcane between heavy iron rollers, which are held in place with a red support beam and turned with a red crank. There is a small wooden tub in front of the machine for catching the finished sugar.\n\nThe mastered version gets a golden crank and a star on top, in front of the rollers.\n----\n=== '''Building''' ===\nThe first sugar mill costs 350 {{Infoicon|coin}}. The second one costs 199,750 {{Infoicon|coin}}. Both sugar mills take 6 hours (or 25 {{Infoicon|dia}}) to build, and give players 13 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Brown Sugar|7|20m|32\n|White Sugar|13|40m|50\n|Syrup|18|1:30|90\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Sugar Mill originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 525 hours of production is required to [[Masteries|master]] the Sugar Mill:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Sugar Mill Mastered.png|150px|Mastered Sugar Mill]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />25 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />100 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />400 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Sugar Mill Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*Sugar is widely used in the game. The sugar mills need to constantly produce it.\n*All products from sugar mills are very hard to find in [[Daily Dirt]].\n*[[Sugarcane]], the only item required to make all sugar products, is easy to find in the [[Daily Dirt]], but it often takes a few papers to find some.\n*[[Ernest]] can run the mills for you if you hire him. You can hire him using [[diamond]]s, [[boosters]], or when he occasionally offers to be hired for free.\n*Making syrup will be the most effective way of mastering your Sugar Mill.\n\n----\n==='''Did you know?'''===\n* To make raw sugar, white sugar, or syrup from sugarcane, additional steps are required in real life, such as clarification, evaporation, crystallization and centrifuging.\n----\n\n{{Navigation}}\n{{Languages\n|de = Zuckermühle\n|es = Azucarera\n|fr = Sucrerie\n|it = Zuccherificio\n|nl = Suikerfabriek\n|no = Sukkermølle\n|sv = Sockerbruk\n|vi = Máy ép mía\n|zh = 制糖厂\n}}\n[[pt-br:Engenho]]\n[[ru:Сахарный завод]]\n[[Category:Production Buildings]]",
   "wikitextHash": "6cd20c91d452204da3ed8dbbb141b02f0a9d1a3e4ae94b275e80f6a8e3c82a0a"
 }

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Lamb_Doner_Wrap?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 110829,
   "revisionTimestamp": "2026-08-05T09:01:32Z",
   "route": "/wiki/lamb-doner-wrap-36896",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_Doner_Wrap",
   "title": "Lamb Doner Wrap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Lamb Döner Wrap]]",
   "wikitextHash": "d4860fe192ef3a4157f40982cc052f8d9a5fca540f88ab25597fffef1f131881"
 }

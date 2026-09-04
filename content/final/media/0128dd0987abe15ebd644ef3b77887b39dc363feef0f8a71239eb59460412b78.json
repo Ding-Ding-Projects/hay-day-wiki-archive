@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snow_Chicken.png",
+  "filePageId": 35270,
+  "filePageRevisionId": 99382,
+  "filePageRevisionSha1": "8887475f59447003d18bcfdfbe9c697b672c74c5",
+  "filePageRevisionTimestamp": "2021-11-14T19:15:06Z",
+  "filePageWikitext": "== Summary ==\nWinter 2021 package decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3dd3135c7d34692de0c6c5de7965ce92b50d778c52e482675b6d7d291d7e095f",
   "height": 325,
   "immutableUrl": null,
   "mediaId": "File:Snow Chicken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-11-14T13:45:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASnow%20Chicken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 211859,
   "sourceSha1": "4b0398f4116a40b58dd790ced77e0174e0c76713",

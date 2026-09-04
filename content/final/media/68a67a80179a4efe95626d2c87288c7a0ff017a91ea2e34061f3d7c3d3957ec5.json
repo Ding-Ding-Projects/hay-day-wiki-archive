@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Steaming.png",
+  "filePageId": 23219,
+  "filePageRevisionId": 110059,
+  "filePageRevisionSha1": "a57bda5775f7e5529eb7b1550436dab1e763d83d",
+  "filePageRevisionTimestamp": "2026-05-14T21:17:27Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "00cd3ffab63af630bc7c8ee4cfad78d8166b61dd437121911722fe6a44011861",
   "height": 812,
   "immutableUrl": null,
   "mediaId": "File:Pig Steaming.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-14T21:17:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APig%20Steaming.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 346319,
   "sourceSha1": "ebcb1d7b0eab3b8b453ac9b557fb8a1b16c92441",

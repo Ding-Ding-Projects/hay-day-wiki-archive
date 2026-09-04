@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -319,11 +329,12 @@
   "revisionId": 109683,
   "revisionTimestamp": "2026-04-14T17:09:03Z",
   "route": "/wiki/clay-35282",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Clay",
   "title": "Clay",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Clay.png|200px|left|Clay|link=Special:FilePath/Clay.png]]\n\n{{Infobox\n|level = 94\n|price = 1 to 18\n|time = 1 h 50 m\n|xp = 5\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 5\n|dia = 5\n|title = [[Crops|Crop]]}}\n'''Clay''' is a field [[crops|crop]] unlocked at [[experience]] level 94. \n\nThey are used to make [[Tea Pot|tea pots]], [[Potted Plant|potted plants]], and [[Clay Mug|clay mugs]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing clay'''===\nClay is grown in [[Farm|fields]] by planting another clay (either previously harvested or purchased). Each plot yields 2 clay (net gain of 1 clay) and 5 [[experience]] points, and takes 1 hour 50 minutes to mature.\n<gallery>\nFile:Clay Stage 1.png\nFile:Clay Stage 2.png\nFile:Clay Stage 3.png\nFile:Clay Stage 4.png\nFile:Clay Stage 5.png\n</gallery>\n----\n==='''Selling clay'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Clay can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using clay''' ===\nClay is used to make the following [[products]]:\n\n{{Item Usage|Clay\n|Tea Pot|3|94\n|Potted Plant|3|96\n|Clay Mug|3|99\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 12 to 19 clay per crate, up to a total of 57 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n{{NoTips}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Ton\n|es = Arcilla\n|fr = Argile\n|it = Creta\n|no = Leire\n}}\n[[Category:Field Crops]]",
   "wikitextHash": "0aac061e2efd292d8754c0f5504f48ef945b9a69d7bb5c999af79f0c6d91f4ce"
 }

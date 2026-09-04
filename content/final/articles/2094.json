@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Feed Mill Products",
+    "Category:Soybean Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Feed Mill Products",
+      "Category:Soybean Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +162,12 @@
   "revisionId": 105682,
   "revisionTimestamp": "2024-08-18T21:00:00Z",
   "route": "/wiki/pig-feed-2094",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pig_Feed",
   "title": "Pig Feed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Корм для свиней]]\n{{PageDisplay}}\n[[File:Pig_Feed.png|200px|left|Pig feed]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 10\n |price = 1 to 14\n |time = 20 min\n |xp = 2\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |base = 4\n |dia = 2\n |time3 = 17 min\n}}\n'''Pig feed''' is a [[Products|product]] unlocked at [[experience]] level 10. It is used to feed [[pig]]s.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making pig feed'''===\n[[File:Feed Mill.png|150px|left|link=Feed Mill|Feed Mill]]\nPig feed is made in the [[Feed Mill]]. Sacks of feed are made three by three.\n\nTo make three units of pig feed, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|Carrots|link=Carrot]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 20 minutes to make three sacks, and 17 minutes in a fully [[Masteries|mastered]] Feed mill. Three sacks give players 2 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling pig feed'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Pig feed can be bought or sold for a maximum price of 144 {{Infoicon|Coin}} for 10 sacks.\n* Buying the ingredients required to make pig feed costs 24 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* [[Rose]] can make feed for you if you hire her. This costs [[diamond]]s.\n* [[Boat]]s never ask for any type of feed.\n----\n\n{{Navigation}}\n{{Languages\n|de=Schweinefutter\n|es=Pienso de cerdo\n|fr=Ration Cochon\n|it=Cibo per maiali\n|nl=Varkensvoer\n|no=Grisefôr\n|vi=Thức ăn cho heo\n|zh=猪饲料\n}}\n[[pt-br:Ração dos porcos]]\n[[ru:Корм для свиней]]\n[[Category:Feed Mill Products]]\n[[Category:Soybean Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "c6d8306e7edd27d1dbb234df3991fa72ef68ca0bba5d0cc6411abf09c14107eb"
 }

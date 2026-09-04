@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Arch.png",
+  "filePageId": 26550,
+  "filePageRevisionId": 77290,
+  "filePageRevisionSha1": "b869ecfd3c6f697650bd5f55a2723d0b0759e84a",
+  "filePageRevisionTimestamp": "2018-02-07T18:01:36Z",
+  "filePageWikitext": "Winter Arch Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "0e13e0d0543c0678718d02b1e09b5d1a6a10212177113e87c29811640dfd67e0",
   "height": 684,
   "immutableUrl": null,
   "mediaId": "File:Winter Arch.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:01:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWinter%20Arch.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 361431,
   "sourceSha1": "783efe0dce6bf0c445f1fef0b2f0ca9429e25e8d",

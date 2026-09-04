@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Fish?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 50709,
   "revisionTimestamp": "2015-07-11T15:49:14Z",
   "route": "/wiki/category%2Fcategory-image-fish-7583",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Fish",
   "title": "Category:Image Fish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[fish]].\n[[Category:Images]]",
   "wikitextHash": "42fb861fa1970619e14b2bf4811b1dc3fa9b6b4bb9869539edace964e549dc94"
 }

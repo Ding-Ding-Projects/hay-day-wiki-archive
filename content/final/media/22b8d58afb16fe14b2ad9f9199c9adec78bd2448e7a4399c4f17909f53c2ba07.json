@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Whistle.png",
+  "filePageId": 29191,
+  "filePageRevisionId": 77451,
+  "filePageRevisionSha1": "560f5e5fb9f652bab9fd8feae3934f989eefd4bd",
+  "filePageRevisionTimestamp": "2018-02-11T17:43:03Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "a8607461ceaeb6b89ca95737fa480cac68296c83180e7ff31825661fc3c1d443",
   "height": 184,
   "immutableUrl": null,
   "mediaId": "File:Whistle.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T17:41:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWhistle.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 25435,
   "sourceSha1": "5f5f56004bd756bf5563dea0fd5661e7a7cd5b87",

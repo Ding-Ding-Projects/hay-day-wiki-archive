@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Balloon_Maker_Mastery_III.png",
+  "filePageId": 36093,
+  "filePageRevisionId": 105428,
+  "filePageRevisionSha1": "d2f45ef9f2c422d6703503313c2f92183c3154ac",
+  "filePageRevisionTimestamp": "2024-06-26T21:14:47Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "e67de001443b57c6dc6f7e331a364d80067f2f9805db338f0fde353406150abe",
   "height": 265,
   "immutableUrl": null,
   "mediaId": "File:Birthday Balloon Maker Mastery III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-06-26T21:13:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABirthday%20Balloon%20Maker%20Mastery%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 184853,
   "sourceSha1": "86135aa9daef56272808df7b8b55d54a17530c5a",

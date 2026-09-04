@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Gray_Ostrich?action=history",
@@ -37,11 +45,12 @@
   "revisionId": 105091,
   "revisionTimestamp": "2024-03-23T17:50:13Z",
   "route": "/wiki/gray-ostrich-36030",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gray_Ostrich",
   "title": "Gray Ostrich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Use [[Ostrich]]\n\n{{Delete}}",
   "wikitextHash": "e47eb9406973bcbe2c68a4a5a27b1f015a03ae3249d637b2ee257435894817f5"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Rep_Levels.png",
+  "filePageId": 28597,
+  "filePageRevisionId": 77745,
+  "filePageRevisionSha1": "b6399a7e2cabe1e5469af0715f0110bc86d2e2bd",
+  "filePageRevisionTimestamp": "2018-02-21T21:40:40Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "8d4aa039e5ef3bdb4762a86bd8782f21d52ea94aaf093cd796776c773d911bb7",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Rep Levels.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-21T21:40:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Rep%20Levels.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 13815,
   "sourceSha1": "048b31ca2968ecb728fd85a399e5a11bc20f64f8",

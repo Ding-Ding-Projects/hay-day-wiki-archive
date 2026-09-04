@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pasta_Maker_Mastery.png",
+  "filePageId": 22871,
+  "filePageRevisionId": 79933,
+  "filePageRevisionSha1": "ed02166154b09609bec7077e62c6e50454b53316",
+  "filePageRevisionTimestamp": "2018-05-01T17:44:39Z",
+  "filePageWikitext": "Pasta Maker Mastery Image\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "bc7365ec8c24647de43737339d5d5f2c43850e9dacc0b9144a90f0b7a3931db5",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Pasta Maker Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:44:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APasta%20Maker%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 58732,
   "sourceSha1": "783b9ff548afff06b5deb1257c676168bc92b885",

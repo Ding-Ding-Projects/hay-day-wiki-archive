@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mushroom_Salad.png",
+  "filePageId": 31920,
+  "filePageRevisionId": 104746,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-11T10:54:05Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 2112,
   "immutableUrl": null,
   "mediaId": "File:Mushroom Salad.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T10:54:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMushroom%20Salad.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2184454,
   "sourceSha1": "a0ed9fb502206842bc2290be6e4c22de3c06a1d3",

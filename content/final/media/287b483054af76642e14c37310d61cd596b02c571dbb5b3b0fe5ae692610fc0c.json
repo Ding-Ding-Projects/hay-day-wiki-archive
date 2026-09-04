@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Back.png",
+  "filePageId": 14777,
+  "filePageRevisionId": 73830,
+  "filePageRevisionSha1": "f1262a2cb1f7a6396c19702a0e66e53c58967abf",
+  "filePageRevisionTimestamp": "2017-10-21T10:27:04Z",
+  "filePageWikitext": "Picture of the back of the Catalogue.\n{{License SC}}\n[[Category:Image_Catalogue]]",
+  "filePageWikitextHash": "5eb6daea488ed2b085f51e4ddac431ecd21c9296dec903927b413acf684d7248",
   "height": 520,
   "immutableUrl": null,
   "mediaId": "File:Catalogue Back.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-07-20T17:29:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACatalogue%20Back.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 198649,
   "sourceSha1": "154ce0c82a727867e1960da9bd01bfd23c6b242d",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Experience?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 75370,
   "revisionTimestamp": "2017-11-26T16:10:32Z",
   "route": "/wiki/category%2Fcategory-experience-28801",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Experience",
   "title": "Category:Experience",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "All pages related to [[experience]].\n[[Category:Game Features]]",
   "wikitextHash": "c19e75a1de07b83537c8c9fcd38096437e5d98c97468d696a9fb875f69da0c5e"
 }

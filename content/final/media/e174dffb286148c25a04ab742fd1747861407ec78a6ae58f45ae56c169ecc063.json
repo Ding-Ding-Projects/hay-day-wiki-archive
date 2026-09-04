@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Summer_Rolls.png",
+  "filePageId": 28444,
+  "filePageRevisionId": 104750,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-11T11:00:30Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 1812,
   "immutableUrl": null,
   "mediaId": "File:Summer Rolls.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T11:00:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASummer%20Rolls.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2503566,
   "sourceSha1": "ff61347cc596025b6d517e63b04400873e9cbb6e",

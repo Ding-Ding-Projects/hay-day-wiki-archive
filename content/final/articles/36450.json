@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108795,
   "revisionTimestamp": "2025-10-23T20:41:54Z",
   "route": "/wiki/category%2Fcategory-striped-candy-products-36450",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Striped_Candy_Products",
   "title": "Category:Striped Candy Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Soft Candy.png|thumb]]\nProducts of [[Soft Candy]].\n[[Category:Products]]",
   "wikitextHash": "120d0b1251d4ffd09e988a551f3199a0c68bfe6585e43a98de08258471315192"
 }

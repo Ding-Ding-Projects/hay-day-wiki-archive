@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +166,12 @@
   "revisionId": 107498,
   "revisionTimestamp": "2025-03-02T03:47:44Z",
   "route": "/wiki/level-thresholds-36283",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Level_Thresholds",
   "title": "Level Thresholds",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "== '''Level Thresholds''' ==\n\n=== '''Overview''' ===\nIn ''Hay Day'', level thresholds are specific XP milestones within a level where players receive special supplies such as [[Axe|axes]], [[dynamite]], [[Saw|saws]], [[Shovel|shovels]] and [[TNT Barrel|TNT barrels]]., and barn or silo upgrade materials. These thresholds serve as bonus rewards to aid in farm expansion and storage improvements\n\n=== '''How Level Thresholds Work''' ===\nAs players accumulate XP within a level, they will reach predefined XP checkpoints where they receive supply rewards. These rewards are automatically added to the player's inventory and can significantly help with expanding land, increasing barn and silo capacity, or unlocking special areas.\n\n=== '''Types of Supplies Rewarded''' ===\n\n* '''Land Expansion Items''': [[Land Deed|land deeds]], [[Mallet|mallets]], [[Map Piece|map pieces]], [[Marker Stake|marker stakes]] , and [[Expansion Permit|expansion permits]].\n\n* '''Building supplies''': [[Bolt|bolts]], [[brick]], [[Duct Tape|duct tape]], [[Hammer|hammers]], [[Hand Drill|hand drills]], [[Nail|nails]], [[Paint Bucket|paint buckets]], [[Plank|planks]], [[Screw|screws]], [[Stone Block|stone blocks]], [[Tar Bucket|tar buckets]] and [[Wood Panel|wood panels]].\n\n* '''Mining supplies''': [[dynamite]], [[Shovel|shovels]], [[TNT Barrel|TNT barrels]] , and [[Pickaxe|pickaxes]].\n\n* '''Land-clearing supplies''': [[Axe|axes]], [[dynamite]], [[Saw|saws]], [[Shovel|shovels]] , and [[TNT Barrel|TNT barrels]].\n\n=== '''Level Threshold Placement''' ===\nLevel thresholds are spaced throughout the XP range of a level. They become more frequent at higher levels, where XP requirements increase. While the exact placement varies, players can expect to receive multiple supply rewards before fully leveling up.\n\n=== '''Conclusion''' ===\nLevel thresholds in ''Hay Day'' provide players with essential supplies as they progress within a level. Understanding these checkpoints and maximizing XP gain helps in efficient farm management, ensuring a steady flow of expansion materials and upgrades.\n{| class=\"mw-collapsible fandom-table\"\n|+Numbers of thresholds \n!15-24\n|1\n|-\n!25-39\n|2\n|-\n!40-59\n|3\n|-\n!60-84\n|4\n|-\n!85+\n|5\n|}",
   "wikitextHash": "e1a8462344836bc4fe72eab00b0b9348be1d95943f56bcc82130c01349bc901a"
 }

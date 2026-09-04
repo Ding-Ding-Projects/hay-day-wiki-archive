@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Products",
+    "Category:Feed Mill Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Products",
+      "Category:Feed Mill Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +162,12 @@
   "revisionId": 110763,
   "revisionTimestamp": "2026-07-17T17:22:30Z",
   "route": "/wiki/chicken-feed-2086",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chicken_Feed",
   "title": "Chicken Feed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chicken_Feed.png|200px|left|Chicken feed]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 2\n |price = 1 to 7\n |time = 5 min\n |xp = 1\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |base = 2\n |dia = 1\n |time3 = 4 min\n}}\n'''Chicken feed''' is a [[Products|product]] unlocked at [[experience]] level 2. It is used to feed [[chicken]]s.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making chicken feed'''===\n[[File:Feed Mill.png|150px|left|link=Feed Mill|Feed Mill]]\nChicken feed is made in the [[Feed Mill]]. Sacks of feed are made three by three.\n\nTo make three units of chicken feed, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 5 minutes to make three sacks, and 4 minutes in a fully [[Masteries|mastered]] Feed mill. Three sacks give players 1 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling chicken feed'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Chicken feed can be bought or sold for a maximum price of 72 {{Infoicon|Coin}} for 10 sacks.\n* Buying the ingredients required to make chicken feed costs 13 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* [[Rose]] can make feed for you if you hire her. This costs [[diamond]]s.\n* [[Boat]]s never ask for any type of feed.\n----\n[[ru:Корм для кур]]\n{{Navigation}}\n{{Languages\n|de = Hühnerfutter\n|es = Pienso de gallina\n|fr = Ration Volaille\n|it = Cibo per galline\n|no = Hønsefôr\n|vi = Thức ăn cho gà\n|zh = 鸡饲料\n}}\n[[pt-br:Ração das galinhas]]\n[[ru:Корм для кур]]\n[[Category:Feed Mill Products]]\n[[Category:Wheat Products]]\n[[Category:Corn Products]]",
   "wikitextHash": "57ea17549ce557ad82eca557f4c9ee3b00d35393c2b425d79d398a722ea1e2a0"
 }

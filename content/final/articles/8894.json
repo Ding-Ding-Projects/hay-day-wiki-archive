@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -365,11 +373,12 @@
   "revisionId": 109221,
   "revisionTimestamp": "2026-01-25T11:05:17Z",
   "route": "/wiki/sauce-maker-8894",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sauce_Maker",
   "title": "Sauce Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sauce Maker.png|200px|left|Sauce Maker]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 54\n |price = 135,000\n |time = 1 d 16 h\n |slots = 2\n |dia = 59\n |size = 3×3\n}}\nThe '''Sauce Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 54.\n\nIt is used to make [[hummus]], [[Lemon Curd|lemon curd]], [[mayonnaise]], [[Olive Oil|olive oil]], [[Olive Dip|olive dip]],  [[Soy Sauce|soy sauce]], [[Tomato Sauce|tomato sauce]], [[Tart Dressing|tart dressing]] and [[salsa]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 135,000 {{Infoicon|coin}} and takes 1 day and 16 hours (or 59 {{Infoicon|dia}}) to build the Sauce Maker. It gives players 30 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Soy Sauce|54|3h|154/18\n|Bean Dip|54|40m|126\n|Olive Oil|60|45m|277\n|Mayonnaise|62|15m|367\n|Lemon Curd|66|25m|378\n|Olive Dip|66|45m|468\n|Tomato Sauce|69|30m|230\n|Salsa|77|20m|252\n|Hummus|95|30m|277\n|Tart Dressing|100|30m|288\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Sauce Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Sauce Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Sauce Maker Mastered.png|150px|Mastered Sauce Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Sauce Maker Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*The Sauce Maker is quite easy to master if you make a lot of [[Soy Sauce|soy sauce]]. Soy sauce requires 9 soybeans per bottle so take that into account. You may also want to unlock more slots to be able to do this while you are sleeping. :) Preferably at 4, and better before you unlock the advanced [[Salad Bar]] products.\n*Make sure you '''always''' have enough [[Olive]] and [[Egg]]! You are gonna always run out of these thing making [[Mayonnaise]]!\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Soßenmacher\n|es = Puesto de salsas\n|fr = Saucier\n|it = Salsificio\n|no = Sausmaker\n|zh = Sauce Maker\n}}\n[[pt-br:Máquina de molhos]]\n[[ru:Соусоварня]]\n[[Category:Production Buildings]]",
   "wikitextHash": "d37ac6c972f2807794ff97f00c473392370cd66eca58eb3e35afda436839ab51"
 }

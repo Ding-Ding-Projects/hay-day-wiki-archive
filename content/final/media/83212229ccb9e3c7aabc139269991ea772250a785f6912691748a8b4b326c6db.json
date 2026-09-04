@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coconut_Tree.png",
+  "filePageId": 35559,
+  "filePageRevisionId": 109616,
+  "filePageRevisionSha1": "9b92705941fbe3535dc518bb42cd4f0874197470",
+  "filePageRevisionTimestamp": "2026-04-01T00:21:51Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Coconut Tree]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "a59f29bf6672f854b7c7238f2ec4b6ce080bbd21101b9c50e5d3f658b06439ee",
   "height": 665,
   "immutableUrl": null,
   "mediaId": "File:Coconut Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-04-01T00:21:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACoconut%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 284705,
   "sourceSha1": "fc9ed24c4e729c3825a7b1a30bf4bb413b8cc9cc",

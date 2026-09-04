@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +188,12 @@
   "revisionId": 106789,
   "revisionTimestamp": "2025-01-07T21:19:45Z",
   "route": "/wiki/farmhouse-7542",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Farmhouse",
   "title": "Farmhouse",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Farmhouse.png|200px|left]]\nThe '''farmhouse''' is a [[Buildings|building]] that is already on a farm when a game is started. It is mainly used to check information on [[achievements]] a player has completed, or is trying to complete.\n\n{{Clr}}----\n==='''Appearance'''===\nThe farmhouse takes on the appearance of a two-story white cape house with a black roof. It changes as the player completes more achievements:\n<gallery expand=\"true\">\nFarmhouse Broken.png\nFarmhouse Stage1.png\nFarmhouse Stage2.png\nFarmhouse Stage3.png\nFarmhouse Stage4.png\nFarmhouse Stage5.png\nFarmhouse Stage6.png\nFarmhouse Stage7.png\nFarmhouse.png\n</gallery>\nFrom mid-December to mid-February Christmas lights are strung all over the house:{{BigIcon|Farmhouse Christmas}}\n\n{{Clr}}----\n==='''Customization'''===\n[[File:Maggies Workbench.png|150px|left|The customization workbench]]\n{{Main|Customization}}\nPlayers who have reached [[experience]] level 31 and have completed 20 [[achievements]] can customize their farmhouse to their liking, by picking custom styles for their roofs, walls and porches in [[Maggie]]'s shop.\n\n{{Clr}}----\n==='''Checking achievements'''===\n[[File:Achievement Cup.png|150px|left|Achievement cup]]\nPlayers may check [[achievements]] by tapping on the farmhouse from [[experience]] level 6 and up. This will bring up a menu that shows the progress towards completing an achievement, the rewards that will be given upon completing an achievement, and a player's \"Farm Score\". The Farm Score is the total number of experience points accumulated.\n\n{{Clr}}----\n{{FarmBuildingsMenu}}\n{{Languages\n|de = Farmhaus\n|es = Casa de la granja\n|it = Tenuta\n|no = Gårdshus\n|zh = 成就榜小屋\n}}\n[[ru:Дом игрока]]\n\n[[Category:Farm Buildings]]",
   "wikitextHash": "dc36c80338ea5664224a340317ef273347dd7be7c2eb34069a63ddeb393bea2a"
 }

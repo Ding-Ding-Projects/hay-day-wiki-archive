@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chamomile.png",
+  "filePageId": 36217,
+  "filePageRevisionId": 108831,
+  "filePageRevisionSha1": "fef38dbf816c7ef629c776b06dbb245fc75b48cc",
+  "filePageRevisionTimestamp": "2025-10-23T21:17:14Z",
+  "filePageWikitext": "== Summary ==\nTaken from R3DKNIGHT's video\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "e9df6dd684e897c962cd4dfd2610b7262a635760c2ec16e5e50bd284c88e25b9",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Chamomile.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 49,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T18:08:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChamomile.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 657163,
   "sourceSha1": "4cdbb03ccbfeb4691b957350647a565246270728",

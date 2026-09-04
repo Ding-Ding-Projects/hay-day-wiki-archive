@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -332,11 +340,12 @@
   "revisionId": 110832,
   "revisionTimestamp": "2026-08-05T09:05:54Z",
   "route": "/wiki/d%C3%B6ner-kebab-stand-36796",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/D%C3%B6ner_Kebab_Stand",
   "title": "Döner Kebab Stand",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Döner Kebab Stand.png|200px|left|Döner Kebab Stand]]\n\n{{Infobox\n|level = 32\n|price = 22000\n|time = 1 d\n|xp = 44\n|slots = 2\n|dia = 47\n|title = [[Production Buildings|Machine]]\n|size = 2×2\n}}\nThe '''Döner Kebab Stand''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 32. It was added since June 2026 Update.\n\nIt is used to make [[Lamb Döner Wrap|lamb döner wrap]], [[Spicy Bean Döner|spicy bean döner]], and [[Tower Döner Supreme|tower döner supreme]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 22000 {{Infoicon|coin}} and takes 1 day (or 47 {{Infoicon|dia}}) to build the Döner Kebab Stand. It gives players 44 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Lamb Döner Wrap|32|20m|172/20\n|Spicy Bean Döner|32|30m|471\n|Tower Döner Supreme|58|40m|356\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Döner Kebab Stand originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,480 hours of production is required to [[Masteries|master]] the Döner Kebab Stand:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Döner Kebab Stand Mastered.png|150px|Mastered Doner Kebab Stand]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />90 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />280hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,110 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:Mastery I.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:Mastery II 5.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Döner Kebab Stand Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n\n\n=== '''Did you know?''' ===\n\n----\n\n{{Navigation}}\n{{Languages\n|de = Döner-Kebab-Stand\n|es = Puesto de kebabs\n|fr = Stand de kebab\n|it = Chiosco de kebab\n|no = Dönerkebab-bod\n|ru = Киоск для шаурмы\n|sv = Kebabstånd\n|vi = Quầy doner kebab\n|zh = 土耳其烤肉摊\n}}\n[[pt-br:Barraca de kebab]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "46d9ad222f6b2027cd23285ad829e6dc58d1d35eb79df67407ed0e1958264e79"
 }

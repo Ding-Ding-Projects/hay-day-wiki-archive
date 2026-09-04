@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Gold Bar Products",
+    "Category:Jeweler Products",
+    "Category:Peony Products",
+    "Category:Platinum Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Gold Bar Products",
+      "Category:Jeweler Products",
+      "Category:Peony Products",
+      "Category:Platinum Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +146,12 @@
   "revisionId": 109891,
   "revisionTimestamp": "2026-05-09T18:17:58Z",
   "route": "/wiki/flower-pendant-29360",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Flower_Pendant",
   "title": "Flower Pendant",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Flower Pendant.png|200px|left|Flower pendant]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 98\n |price = 1 to 698\n |time = 1 h\n |xp = 83\n |source = {{Infoicon|jeweler|bigger|link=jeweler}}\n |base = 194\n |dia = 4\n |time3 = 51 min\n}}\n'''Flower pendants''' are [[products]] unlocked at [[experience]] level 98.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making flower pendants'''===\n[[File:jeweler.png|150px|left|jeweler]]\nFlower pendants are made in the [[jeweler]].\n\nTo make a pendant, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peony.png|75px|Peonies|link=Peony]]\n|[[File:Platinum Bar.png|75px|Platinum bar|link=Platinum Bar]]\n|[[File:Gold Bar.png|75px|Gold bars|link=Gold Bar]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hour to make one pendant, and 51 minutes in a fully [[Masteries|mastered]] jeweler. Each pendant gives players 83 [[experience]] points.\n{{Clr}}\n----\n==='''Selling flower pendants'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Flower pendants can be bought or sold for a maximum price of 6,984 {{Infoicon|Coin}} for 10 pendants.\n* Buying the ingredients required to make a pendant costs 673 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* As is the case for all Jeweler products, completing a [[truck]] order requesting one or more pendants rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for flower pendants.\n----\n\n{{Navigation}}\n{{Languages\n|de = Blumenanhänger\n|es = Colgante floral\n|fr = Pendentif de Fleurs\n|it = Ciondolo floreale\n|nl = Bloemenhanger\n|no = Blomstersmykke\n|ru = Подвеска в виде цветка\n|zh = Flower Pendant\n}}\n[[pt-br:Pingente de flor]]\n\n[[Category:Jeweler Products]]\n[[Category:Gold Bar Products]]\n[[Category:Platinum Bar Products]]\n[[Category:Peony Products]]",
   "wikitextHash": "febab564f482c1d2fd3e284d158f83b32b342f9fb987ab6cd723763abbc58c2a"
 }

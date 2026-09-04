@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Donut_Maker_Mastered.png",
+  "filePageId": 34960,
+  "filePageRevisionId": 108629,
+  "filePageRevisionSha1": "1b82c05cf2fecd8f01e6dbf54b070e61bda3e52b",
+  "filePageRevisionTimestamp": "2025-09-25T23:20:13Z",
+  "filePageWikitext": "== Summary ==\nSorry for the poor quality, but it is better to have one on the page\n== Licensing ==\n{{Permission}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "6280e84f677c450e6086d51144f9ded0442f231e3830b51e14d43946fd92901a",
   "height": 580,
   "immutableUrl": null,
   "mediaId": "File:Donut Maker Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T23:20:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3ADonut%20Maker%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 347162,
   "sourceSha1": "0707617fd89cd40fa4937b26c73dde50c7c5b4af",

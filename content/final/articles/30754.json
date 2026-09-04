@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cucumber Products",
+    "Category:Honey Products",
+    "Category:Pineapple Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cucumber Products",
+      "Category:Honey Products",
+      "Category:Pineapple Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -97,11 +111,12 @@
   "revisionId": 108759,
   "revisionTimestamp": "2025-10-21T21:36:19Z",
   "route": "/wiki/cucumber-smoothie-30754",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cucumber_Smoothie",
   "title": "Cucumber Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cucumber Smoothie.png|200px|left|Cucumber smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 70\n |price = 1 to 266 \n |time = 40 min\n |xp = 32\n |source ={{Infoicon|smoothiem|bigger|link=Smoothie Mixer}}\n |base = 74\n |dia = 3\n |time3 = 34 min\n}}\n'''Cucumber smoothies''' are [[products]] unlocked at [[experience]] level 70.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cucumber smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nCucumber smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cucumber.png|75px|link=Cucumber|Cucumbers]]\n|[[File:Honey.png|75px|link=Honey|Honey]]\n|[[File:Pineapple.png|75px|link=Pineapple|Pineapples]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 40 minutes to make a smoothie, and 34 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 32 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling cucumber smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cucumber smoothies can be bought or sold for a maximum price of 2,664 {{Infoicon|Coin}} for 10 glasses.\n* Buying the ingredients required to make a cucumber smoothie costs 238 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 cucumber smoothies per crate, up to a total of 12 per boat.\n\n{{Navigation}}\n{{Languages\n|de = Gurkensmoothie\n|es = Batido de pepino\n|fr = Smoothie au Concombre\n|it = Frullato di cetriolo\n|nl = Komkommersmoothie\n|no = Agurksmoothie\n|zh = Cucumber Smoothie\n}}\n[[pt-br:Vitamina de pepino]]\n[[ru:Огуречный смузи]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Honey Products]]\n[[Category:Pineapple Products]]\n[[Category:Cucumber Products]]",
   "wikitextHash": "3ec3ac1ad711cc19aee4daf456dc71278f1154a0db8098e59a39a9f164e275e0"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Motherland_Monument.jpg",
+  "filePageId": 36063,
+  "filePageRevisionId": 105279,
+  "filePageRevisionSha1": "bf5518e76f27103464c749b3b783b6723d04abc3",
+  "filePageRevisionTimestamp": "2024-05-08T13:22:36Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "562e4f93e9fdb66b3dce2a51217b95b425692af757ec417564e9ab7ccd6ae0dd",
   "height": 610,
   "immutableUrl": null,
   "mediaId": "File:Motherland Monument.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-05-08T13:22:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMotherland%20Monument.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 20197,
   "sourceSha1": "4a39269e7260ac75b5f48507077422eeb291a795",

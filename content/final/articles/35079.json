@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Strawberry_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98556,
   "revisionTimestamp": "2021-08-31T20:58:31Z",
   "route": "/wiki/category%2Fcategory-strawberry-products-35079",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Strawberry_Products",
   "title": "Category:Strawberry Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Strawberry.png|thumb]]\nProducts of [[Strawberry]].\n[[Category:Products]]",
   "wikitextHash": "da441007c9ed9e1049606de7f1145b67a008b8e7aaaaade76138295d67714edb"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -298,11 +306,12 @@
   "revisionId": 106969,
   "revisionTimestamp": "2025-01-19T22:12:26Z",
   "route": "/wiki/quillback-17181",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Quillback",
   "title": "Quillback",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Quillback.png|200px|left|Quillback]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|bluel|big|link=Lure}} {{Infoicon|purplel|big|link=Lure}}\n |spots = 12\n |circle = small\n |xp = 14\n}}\n'''Quillback''' are a type of [[fish]].\n\nLike all types of fish, each quillback gives one [[Fish Fillet|fish fillet]] when caught.\n\n{{Clr}}----\n==='''Catching quillback'''===\nQuillback can only be caught with blue and purple [[lure]]s in fishing spot #12 (the shallow area with dragonflies and poles).\n\nQuillback can be caught in small circles and therefore are harder to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Quillback in the fishing book'''===\n[[File:Quillback Photo.jpg|150px|left|Fishing book photo]]\nThe quillback is on page 22 of the [[Fishing Book|fishing book]]:\n\n''This freshwater vacuum cleaner will eat anything. Mind your fingers!''\n\n(Note: the quillback is displayed in spot #11 in the fishing book but cannot be caught in this spot.)\n\n{{Clr}}----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Quillback\n|es = Bocachico\n|no = Sugekarpe\n}}\n[[Category:Fish]]",
   "wikitextHash": "9014cfbddd0f1bf426df33418d67e18b9dc6ec838ed6ed5769298555701d4ac4"
 }

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Products",
+    "Category:Hat Maker Products",
+    "Category:Peony Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Products",
+      "Category:Hat Maker Products",
+      "Category:Peony Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +127,12 @@
   "revisionId": 110087,
   "revisionTimestamp": "2026-05-16T15:14:45Z",
   "route": "/wiki/flower-crown-28481",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Flower_Crown",
   "title": "Flower Crown",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Flower Crown.png|left|200px|Flower crown]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 86\n |price = 1 to 331\n |time = 2 h\n |source = {{Infoicon|hatm|bigger|link=Hat Maker}}\n |xp = 40\n |base = 92\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Flower crowns''' are [[products]] unlocked at [[experience]] level 86.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making flower crowns'''===\n[[File:Hat Maker.png|150px|left|Hat Maker]]\nFlower crowns are made in the [[Hat Maker]].\n\nTo make a crown, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peony.png|75px|Peonies|link=Peony]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|-\n|'''x5'''\n|'''x4'''\n|}\nIt takes 2 hours to make a flower crown, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] maker. Each crown gives players 40 [[experience]] points.\n\n{{Clr}}----\n==='''Selling flower crowns'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Flower crowns can be bought or sold for a maximum price of 3312 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a flower crown costs 292 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 flower crowns per crate, a total of up to 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Blumenkrone\n|es = Corona de flores\n|fr = Couronne de Fleurs\n|it = Corona di fiori\n|nl = Bloemenkroon\n|no = Blomsterkrone\n}}\n[[pt-br:Coroa de flores]]\n\n[[Category:Hat Maker Products]]\n[[Category:Cotton Products]]\n[[Category:Peony Products]]",
   "wikitextHash": "537a946fd9b2b9057a59357b1e776d402132a989e1342f8c26b19a5b80d34120"
 }

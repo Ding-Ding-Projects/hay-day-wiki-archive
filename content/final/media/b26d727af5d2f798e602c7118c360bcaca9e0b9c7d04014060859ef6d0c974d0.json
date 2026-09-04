@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Free_Silo-Barn_upgrade.jpg.jpg",
+  "filePageId": 36289,
+  "filePageRevisionId": 107523,
+  "filePageRevisionSha1": "ef14f93615e22203a33e58f344d64b4947f64f01",
+  "filePageRevisionTimestamp": "2025-03-10T11:53:17Z",
+  "filePageWikitext": "An image of what it looks like to get a free Silo/Barn upgrade after vacation mode",
+  "filePageWikitextHash": "1490327b8a8e02c9b1e60956b832ae4fb0738b8d9a5e6fc62ba8b81b629719c7",
+  "height": 1125,
+  "immutableUrl": null,
+  "mediaId": "File:Free Silo-Barn upgrade.jpg.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-03-10T11:53:17Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AFree%20Silo-Barn%20upgrade.jpg.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 327579,
+  "sourceSha1": "aa8d4c427be68969cdd76742f09a0b1ccf990178",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e6/Free_Silo-Barn_upgrade.jpg.jpg/revision/latest?cb=20250310115317",
+  "title": "File:Free Silo-Barn upgrade.jpg.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2436
+}

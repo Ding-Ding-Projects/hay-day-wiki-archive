@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Alfred_Mail.png",
+  "filePageId": 4269,
+  "filePageRevisionId": 69722,
+  "filePageRevisionSha1": "6577dcf388f51a07534c67f8864ff897a060ecdc",
+  "filePageRevisionTimestamp": "2017-02-07T18:25:49Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "934f36b1190fab4434ee8657279a92331833ab4df3f66e1dae250f108c097fad",
   "height": 291,
   "immutableUrl": null,
   "mediaId": "File:Alfred Mail.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-06-28T08:23:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAlfred%20Mail.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 75264,
   "sourceSha1": "ffe2e266ba513d4f18318251e3f478d4e17086cd",

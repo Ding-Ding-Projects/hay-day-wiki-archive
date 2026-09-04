@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bee_Lighting.png",
+  "filePageId": 34814,
+  "filePageRevisionId": 99369,
+  "filePageRevisionSha1": "7d255befe161455b510a0020d117fb17429f617a",
+  "filePageRevisionTimestamp": "2021-11-10T21:20:37Z",
+  "filePageWikitext": "== Summary ==\nEaster 2021 Package Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "099dcd5b8771804b35baefbe4244889f64b5cd772e2e8222e0c759a0cd78e017",
   "height": 421,
   "immutableUrl": null,
   "mediaId": "File:Bee Lighting.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-03-29T15:23:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABee%20Lighting.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 376897,
   "sourceSha1": "e1d53f8f79c732525faebb5cddfff1d9dc4d6e16",

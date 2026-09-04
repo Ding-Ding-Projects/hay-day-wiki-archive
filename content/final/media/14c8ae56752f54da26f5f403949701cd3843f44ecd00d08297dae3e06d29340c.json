@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Stage5.png",
+  "filePageId": 14888,
+  "filePageRevisionId": 66013,
+  "filePageRevisionSha1": "6f07a7c521343227b5055014145c6ceac6048094",
+  "filePageRevisionTimestamp": "2016-10-28T13:46:18Z",
+  "filePageWikitext": "Picture of the Farmhouse, once it's been upgraded four times (Stage 5).\n{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "bdb4ab58fa6348e305442271dc2da766d3a51d6f01f4339ec92dd53a01ec35b9",
   "height": 878,
   "immutableUrl": null,
   "mediaId": "File:Farmhouse Stage5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T12:14:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarmhouse%20Stage5.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 502654,
   "sourceSha1": "ff039e99e94620264b15d8f525544ba136b761ff",

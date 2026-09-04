@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:June_2023_Update.png",
+  "filePageId": 35819,
+  "filePageRevisionId": 103117,
+  "filePageRevisionSha1": "e6369d413fafbca807fdd22f9d7c5efe27f6f7ed",
+  "filePageRevisionTimestamp": "2023-06-12T19:32:06Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "16effc8182142a2a0e2376d14eb1ef269a806897342f6431e7069543d8176c44",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:June 2023 Update.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-06-12T15:25:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJune%202023%20Update.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 908821,
   "sourceSha1": "69edce5e6f0db1d145606356b24d83631662fe04",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95425,
   "revisionTimestamp": "2020-08-18T01:44:36Z",
   "route": "/wiki/category%2Fcategory-templates-1766",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Templates",
   "title": "Category:Templates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is the base category for '''templates'''. Templates should be placed in appropriate subcategories.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "ff846e2413d8440b02bdb5d99fad14535e9b66202c608fbd734a5d9c672a6b09"
 }

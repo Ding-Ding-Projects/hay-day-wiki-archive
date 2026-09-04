@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Delete_letter.jpeg",
+  "filePageId": 35851,
+  "filePageRevisionId": 103343,
+  "filePageRevisionSha1": "df305a2f4b8ebb9b26f33df7121e3cc22161d239",
+  "filePageRevisionTimestamp": "2023-07-03T13:32:20Z",
+  "filePageWikitext": "== Summary ==\nhow to delete the letter message in the neighborhood notifications\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "4915b58ba58fdfd8fd494c21644eab90e79f220d0a934b818f14cc1a09699497",
+  "height": 608,
+  "immutableUrl": null,
+  "mediaId": "File:Delete letter.jpeg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-07-03T13:32:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ADelete%20letter.jpeg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 68994,
+  "sourceSha1": "6598d9acbee31960908947d8df74c44d95c2fb02",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/18/Delete_letter.jpeg/revision/latest?cb=20230703133220",
+  "title": "File:Delete letter.jpeg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 999
+}

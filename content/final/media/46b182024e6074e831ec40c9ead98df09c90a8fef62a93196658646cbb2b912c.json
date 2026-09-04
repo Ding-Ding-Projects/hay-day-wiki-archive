@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Rewards.png",
+  "filePageId": 14427,
+  "filePageRevisionId": 73862,
+  "filePageRevisionSha1": "15a057fe94817db1a13589bcc797435c33cc8086",
+  "filePageRevisionTimestamp": "2017-10-21T18:13:16Z",
+  "filePageWikitext": "Picture of the Gifts tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "0e58e9106106d6707f9907bf1506ad2fecfe3318f94d3b1e0d9aee347973a619",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Rewards.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:13:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Rewards.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76989,
   "sourceSha1": "34219349286611cc30351042529fdc7dfd8fe29a",

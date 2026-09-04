@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bouncy_Castle.png",
+  "filePageId": 24918,
+  "filePageRevisionId": 73977,
+  "filePageRevisionSha1": "e9f5844f01f65358f9f3aa4371d5ae1412a3fe7b",
+  "filePageRevisionTimestamp": "2017-10-22T09:57:57Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1214f2a6ca93af598259a6842df3292a82aeefbd988cce921739d96b52e5e65c",
   "height": 337,
   "immutableUrl": null,
   "mediaId": "File:Bouncy Castle.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-06-21T21:28:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABouncy%20Castle.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 97797,
   "sourceSha1": "aa7681dbce87732bfb44740bbe47cbea8e8d0a78",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pineapple.png",
+  "filePageId": 30994,
+  "filePageRevisionId": 104897,
+  "filePageRevisionSha1": "87dab28f50b959eff53cdc3637b179387ef8c681",
+  "filePageRevisionTimestamp": "2024-02-19T03:05:55Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "09928baf13613e96a0930c28d1ffdfd6bbbc1625d4c7e612caae1d0af56adb9f",
   "height": 2180,
   "immutableUrl": null,
   "mediaId": "File:Pineapple.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 53,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T03:05:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APineapple.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3841021,
   "sourceSha1": "1dc515e675e41de4813b323b1c933068f0b4e114",

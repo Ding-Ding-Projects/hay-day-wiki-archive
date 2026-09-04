@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mary_Winter.PNG",
+  "filePageId": 22658,
+  "filePageRevisionId": 69732,
+  "filePageRevisionSha1": "94aa84737f3e77c1b7f275d26cf46e3c94b0880a",
+  "filePageRevisionTimestamp": "2017-02-07T18:29:49Z",
+  "filePageWikitext": "NPC Mary in Winter Attire\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "8ca99e7d9cf47ee977907b34d03aa0419e7bc2f0b84a0db4616c3ca922ccfde6",
   "height": 253,
   "immutableUrl": null,
   "mediaId": "File:Mary Winter.PNG",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-16T21:12:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMary%20Winter.PNG",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 87167,
   "sourceSha1": "b465b8a9a4d296dbcff93d79c8e0fc8053b79d6d",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roadside_Shop_Daily_Limit_Tip.png",
+  "filePageId": 32399,
+  "filePageRevisionId": 90262,
+  "filePageRevisionSha1": "55b64ee86cb243d80151529df20af6c414dd6abc",
+  "filePageRevisionTimestamp": "2020-01-25T13:27:42Z",
+  "filePageWikitext": "== Summary ==\n89 Tool Limit\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "abe8197c5ad2e321ab76bacf9ca606341376bfda4aede455b9331f1bdb0199be",
   "height": 167,
   "immutableUrl": null,
   "mediaId": "File:Roadside Shop Daily Limit Tip.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-01-25T13:27:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARoadside%20Shop%20Daily%20Limit%20Tip.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 39926,
   "sourceSha1": "e91df842a58e5058c627f4475dbfdbb17332789f",

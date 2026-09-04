@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Egg Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Egg Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +193,12 @@
   "revisionId": 105719,
   "revisionTimestamp": "2024-08-23T20:40:57Z",
   "route": "/wiki/carrot-pie-2089",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Carrot_Pie",
   "title": "Carrot Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Carrot Pie.png|200px|left|Carrot Pie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 14\n |price = 1 to 82\n |time = 1 h \n |xp = 10\n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |base = 23\n |dia= 4\n |time3 = 51 min\n}}\n'''Carrot pies''' are [[products]] unlocked at [[experience]] level 14.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making carrot pies'''===\n[[File:Pie Oven.png|150px|left|link=Pie Oven|Pie Oven]]\nCarrot pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|link=Carrot|Carrot]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make a pie, and 51 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 10 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling carrot pies'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Carrot pies can be bought or sold for a maximum price of 828 {{Infoicon|Coin}} for 10 pies.\n* Buying the ingredients required to make a pie costs 45 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders require 4 to 7 carrot pies per crate, up to a total of 21 per boat.\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Karottenkuchen\n|es = Tarta de zanahoria\n|fr = Tarte à La Carotte\n|it = Pasticcio di carote\n|nl = Wortelquiche\n|no = Gulrotpai\n|vi = Bánh cà rốt\n|zh = 胡萝卜派\n}}\n[[pt-br:Torta de cenoura]]\n[[ru:Морковный пирог]]\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "fd15a55108f32622867665107e4d443751e750e52d4e60a307acb797fb58d97e"
 }

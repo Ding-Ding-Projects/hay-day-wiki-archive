@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Joan.png",
+  "filePageId": 17028,
+  "filePageRevisionId": 89336,
+  "filePageRevisionSha1": "8dc1d5f36c580167cf03088171c6c93b0bb54094",
+  "filePageRevisionTimestamp": "2019-10-28T16:24:50Z",
+  "filePageWikitext": "Picture of Joan.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "3fb8328841f47d7690ac065fe8584905ed49db308cb75460e963492f9548d6db",
   "height": 705,
   "immutableUrl": null,
   "mediaId": "File:Joan.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:24:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJoan.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 175067,
   "sourceSha1": "5a1ddb9ffc08bd6693f1d74df451543baf80d8bb",

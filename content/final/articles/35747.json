@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pomegranate Products",
+    "Category:Tea Leaf Products",
+    "Category:Tea Stand Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pomegranate Products",
+      "Category:Tea Leaf Products",
+      "Category:Tea Stand Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +157,12 @@
   "revisionId": 110180,
   "revisionTimestamp": "2026-05-23T20:01:26Z",
   "route": "/wiki/pomegranate-tea-35747",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pomegranate_Tea",
   "title": "Pomegranate Tea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pomegranate Tea.png|200px|left|Pomegranate tea]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 107\n |price = 1 to 313\n |time = 34 min\n |source = {{Infoicon|teas|bigger|link=Tea Stand}}\n |xp = 37\n |base = 87\n |dia = 3\n |time3 = 29 min\n}}\n'''Pomegranate tea''' is a [[Products|product]] unlocked at [[experience]] level 107. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making pomegranate tea'''===\n[[File:Tea Stand.png|150px|left|Tea Stand]]\nPomegranate tea is made in the [[Tea Stand]].\n\nTo make the tea, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pomegranate.png|75px|link=Pomegranate|Pomegranate]]\n|[[File:Tea Leaf.png|75px|link=Tea Leaf|Tea leaves]]\n|-\n|'''x1'''\n|'''x4'''\n|}\nIt takes 34 minutes to make one cup of tea, and 29 minutes in a fully [[Masteries|mastered]] stand. Each cup gives players 37 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling pomegranate tea'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Pomegranate tea can be bought or sold for a maximum price of 3,132 {{Infoicon|coin}} for 10 cups.\n* Buying the ingredients required to make the tea costs 283 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 pomegranate tea per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Granatapfeltee\n|es = Té de granada\n|it = Tè alla melagrana\n|nl = Granaatappelthee\n|no = Granateplete\n|ru = Гранатовый чай\n}}\n[[pt-br:Chá de romã]]\n\n[[Category:Tea Stand Products]]\n[[Category:Pomegranate Products]]\n[[Category:Tea Leaf Products]]",
   "wikitextHash": "ae1d5c1dc9f553b0009cb6ada0fa454ddf08b923c1cddc831d78d6307ffc7de2"
 }

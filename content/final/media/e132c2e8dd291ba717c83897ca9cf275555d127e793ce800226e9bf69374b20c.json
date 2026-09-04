@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Truck_Bonus_3XPa.png",
+  "filePageId": 35308,
+  "filePageRevisionId": 100000,
+  "filePageRevisionSha1": "ae88e3fddace236d388f1f9fd85a023a4f991dfd",
+  "filePageRevisionTimestamp": "2022-01-09T21:55:50Z",
+  "filePageWikitext": "== Summary ==\nNew design for 3x event.\n== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "950755f1208014a89b5b659e4feb8b0143137627359e132cbf3fcba3ec4ffa47",
   "height": 225,
   "immutableUrl": null,
   "mediaId": "File:Truck Bonus 3XPa.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-19T15:31:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATruck%20Bonus%203XPa.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 57319,
   "sourceSha1": "5e311c25efa0bd033ebdc8dd38e0a8add31613dd",

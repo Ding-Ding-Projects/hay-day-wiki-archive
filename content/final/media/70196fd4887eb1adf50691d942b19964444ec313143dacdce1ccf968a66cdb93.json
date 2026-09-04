@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stop_Speak_Support",
+  "filePageId": 29165,
+  "filePageRevisionId": 77007,
+  "filePageRevisionSha1": "013ada89076f01645701abafb5b1cbced0c0ecb3",
+  "filePageRevisionTimestamp": "2018-02-06T15:07:23Z",
+  "filePageWikitext": "\n== Description ==\nNot sure what to do when you see online bullying taking place? Supercell says “Stop Speak Support”! Learn more from here: https://goo.gl/of7hp9\n\nInstagram: @stopspeaksupport\nTwitter: @stpspkspprt\nFacebook: #stopspeaksupport\n[[Category:Videos]]",
+  "filePageWikitextHash": "02aa12cba6cf533ad4c61eea137d411932512e57f363eb92f8168ae92c6dfd51",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Stop Speak Support",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-06T15:07:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AStop%20Speak%20Support",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 15862,
+  "sourceSha1": "908f44c56facf1f90d8d2c40d25abb45957fe06a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/64/Stop_Speak_Support/revision/latest?cb=20180206150722",
+  "title": "File:Stop Speak Support",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

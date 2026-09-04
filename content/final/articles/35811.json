@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Asparagus Products",
+    "Category:Bacon Products",
+    "Category:Egg Products",
+    "Category:Plain Waffles Products",
+    "Category:Waffle Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Asparagus Products",
+      "Category:Bacon Products",
+      "Category:Egg Products",
+      "Category:Plain Waffles Products",
+      "Category:Waffle Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +148,12 @@
   "revisionId": 110450,
   "revisionTimestamp": "2026-06-07T21:10:12Z",
   "route": "/wiki/breakfast-waffles-35811",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Breakfast_Waffles",
   "title": "Breakfast Waffles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Breakfast Waffles.png|left|200px|Breakfast waffles]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 119\n |price = 1 to 424\n |time = 45 min\n |source = {{Infoicon|wafflem|bigger|link=Waffle Maker}}\n |xp = 51\n |base = 118\n |dia = 3\n |time3 = 38 min\n}}\n'''Breakfast Waffles''' is a [[products|product]] unlocked at [[experience]] level 119. It was added in Summer 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Breakfast Waffles'''===\n[[File:Waffle Maker.png|150px|left|Waffle Maker]]\nBreakfast Waffles are made in the [[Waffle Maker]].\n\nTo make breakfast waffles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Waffles.png|75px|Plain Waffles|link=Plain Waffles]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Asparagus.png|75px|Asparagus|link=Asparagus]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 45 minutes to make breakfast waffles, and 38 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 51 [[experience]] points.\n\n{{Clr}}----\n==='''Selling breakfast waffles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Breakfast waffles can be bought or sold for a maximum price of 4248 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a breakfast waffles costs 402 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 breakfast waffles per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Frühstückswaffeln\n|es = Gofres con huevos y beicon\n|it = Waffle salati\n|nl = Ontbijt Wafels\n|no = Frokostvafler\n|ru = Утренние вафли\n}}\n[[pt-br:Waffles matinais]]\n\n[[Category:Waffle Maker Products]]\n[[Category:Plain Waffles Products]]\n[[Category:Bacon Products]]\n[[Category:Egg Products]]\n[[Category:Asparagus Products]]",
   "wikitextHash": "bb58ae1b64b9c63241601d0ba3f2f4b1111fd7d54e9128b7a888857f2ab90521"
 }

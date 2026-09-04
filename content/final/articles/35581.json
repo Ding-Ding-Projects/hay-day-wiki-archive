@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cockatoos?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 101626,
   "revisionTimestamp": "2022-10-04T21:33:48Z",
   "route": "/wiki/category%2Fcategory-cockatoos-35581",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cockatoos",
   "title": "Category:Cockatoos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of cockatoos available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "3530f450c52f1e3599065d05708e2b17681b000d0554a81b059bae7e58b1bbd2"
 }

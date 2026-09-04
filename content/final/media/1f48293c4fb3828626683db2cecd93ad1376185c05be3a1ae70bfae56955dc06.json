@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hat_Maker_Mastery.png",
+  "filePageId": 22869,
+  "filePageRevisionId": 79915,
+  "filePageRevisionSha1": "5966d9614af853213546254f3106d76f0a2988dc",
+  "filePageRevisionTimestamp": "2018-05-01T17:36:01Z",
+  "filePageWikitext": "Hat Maker Mastery Image\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "16f6a4f160d53cf4c1a81ddbd5ae37e83d89c8d5dda29ae960a774307b91bb3b",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Hat Maker Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:36:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHat%20Maker%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 53502,
   "sourceSha1": "def67bd71b57634af4b3318b848ca5bbda53b946",

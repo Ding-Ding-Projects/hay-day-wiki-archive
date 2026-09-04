@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chick_Voucher_Farm_Pass.png",
+  "filePageId": 35614,
+  "filePageRevisionId": 101767,
+  "filePageRevisionSha1": "71532f01321fffda8850d711d26a03d466230e67",
+  "filePageRevisionTimestamp": "2022-10-16T21:30:52Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Farm Pass]]",
+  "filePageWikitextHash": "eae405c5b0131481f88d9a480cc4c2a7707598633477cb1ddbebab96dbbd5e87",
   "height": 335,
   "immutableUrl": null,
   "mediaId": "File:Chick Voucher Farm Pass.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-16T21:30:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChick%20Voucher%20Farm%20Pass.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 270898,
   "sourceSha1": "39f10345c7989dc2a653bbb610232890db88a2b2",

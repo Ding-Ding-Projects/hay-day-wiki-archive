@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sweet_Treat_III.png",
+  "filePageId": 29621,
+  "filePageRevisionId": 79841,
+  "filePageRevisionSha1": "0d93cb9ce59310b82f39bcdd58f11c2c696afd31",
+  "filePageRevisionTimestamp": "2018-05-01T15:44:05Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "4918cd2bd9a2ee9c0f46b9089fe5fbf49ce30ecbff362a64ee2a050dbf1036d9",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Sweet Treat III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T19:47:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASweet%20Treat%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 187413,
   "sourceSha1": "70e374f8c0d378d2fe2b8ac167032c3903f08601",

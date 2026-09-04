@@ -12,7 +12,27 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Carrot Products",
+    "Category:Cookie Products",
+    "Category:Egg Products",
+    "Category:Halloween Treats Maker Products",
+    "Category:New",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Carrot Products",
+      "Category:Cookie Products",
+      "Category:Egg Products",
+      "Category:Halloween Treats Maker Products",
+      "Category:New",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +147,12 @@
   "revisionId": 108755,
   "revisionTimestamp": "2025-10-21T17:12:28Z",
   "route": "/wiki/teeth-treats-36170",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Teeth_Treats",
   "title": "Teeth Treats",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{New}}\n[[File:Teeth Treats.png|200px|left|Teeth Treats]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |halloweenhat = 10\n |time = 10m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 27\n |dia = 10\n}}\n'''Teeth Treats''' are a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Halloween event.\nIn 2025, they are unlocked at level 30.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Teeth Treats'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nTeeth Treats are made in the [[Halloween Treats Maker]].\n\nTo make teeth treats, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sugarcane.png|75px|Sugarcane|link=Sugarcane]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 10 minutes to make treat. Each treats gives players 27 [[experience]] points.\n\nTo make a teeth treat in the '''Halloween 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Cookie.png|75px|Cookie|link=Cookie]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 10 minutes to make one treat, and 5 minutes in a 1-star mastered station. Each treat gives players 60 experience points.\n\nAdditionally, Teeth Treat is used to make the following [[products]]:\n{{Item Usage|Teeth Treats \n|Pumpkin Treats|1|60\n}}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 treats per crate, up to a total of 4 per boat. Each treats used on a boat will be rewarded with 10 [[Halloween Hat]]s, 11 halloween hats in a 1-star and mastered maker, 14 halloween hats in a 2-star and 20 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Sugarcane Products]]\n[[Category:Carrot Products]]\n[[Category:Egg Products]]\n[[Category:Cookie Products]]\n[[Category:Bacon Products]]\n\n{{Languages\n|es = Dientes de golosina\n}}",
   "wikitextHash": "1f4d1b78c4b594a39d1f04354ce9a2a4dc027afbbd436545c5195d4c558fad74"
 }

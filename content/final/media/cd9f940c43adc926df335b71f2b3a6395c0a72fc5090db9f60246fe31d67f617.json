@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_249.jpg",
+  "filePageId": 36342,
+  "filePageRevisionId": 109842,
+  "filePageRevisionSha1": "3f2ade28835357d0ced398cb85165474e47b7826",
+  "filePageRevisionTimestamp": "2026-05-08T11:33:23Z",
+  "filePageWikitext": "== Summary ==\nExperience Level Up Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "c8b8f2a8cfb6ecfa15db87a0ab310d9edcf659ec6a033af1ac5825f85f9f9210",
   "height": 563,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 249.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-07-17T12:34:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20249.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 40876,
   "sourceSha1": "63f9f3c0cfc2cb8ac7dadb982cf14870dc8e153e",

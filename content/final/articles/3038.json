@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -250,11 +258,12 @@
   "revisionId": 106906,
   "revisionTimestamp": "2025-01-16T21:44:13Z",
   "route": "/wiki/tnt-barrel-3038",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/TNT_Barrel",
   "title": "TNT Barrel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:TNT Barrel.png|200px|left|A TNT barrel]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 5\n |price = 1 to 72\n |base = 20\n |dia = 7\n}}\n'''TNT barrels''' are [[supplies]] used to blow up rock clusters in the [[farm]] and in the [[town]], and to extract 3 ores from the [[mine]]. As other mining tools they can also randomly extract a [[diamond]].\n\nThey are unlocked at [[experience]] level 5.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting TNT barrels'''===\nA sure way to get a TNT barrel is to buy it with 7 {{Infoicon|dia}} or to hire [[Tom]] and have him find some.\n\nTNT barrels can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 72 {{Infoicon|coin}} per barrel.\n\nFinally, TNT barrels can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n{{Navigation}}\n{{Languages\n|de = TNT-Fass\n|es = Barril de TNT\n|fr = Baril de TNT\n|it = Barile di TNT\n|no = TNT-tønne\n}}\n[[Category:Supplies]]",
   "wikitextHash": "6ebe5a0e1ad467512dd19af875d709b94a55245f4d2c180b272bfb8f82222ee2"
 }

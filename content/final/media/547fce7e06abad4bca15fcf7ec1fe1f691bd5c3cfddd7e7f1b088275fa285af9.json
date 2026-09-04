@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Booster_Mystery_Package.png",
+  "filePageId": 28573,
+  "filePageRevisionId": 73827,
+  "filePageRevisionSha1": "16db994a2da28c1dce1a928e80caa64054eb3255",
+  "filePageRevisionTimestamp": "2017-10-21T10:24:40Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "7d3e31767cab9c8dfd8a2d9f31e5336cedb477e38a9a1ad606db9952232213bb",
   "height": 261,
   "immutableUrl": null,
   "mediaId": "File:Booster Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T10:17:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABooster%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 96118,
   "sourceSha1": "60bea70bf5e541d25a9aac32de67293e4ef7a3cf",

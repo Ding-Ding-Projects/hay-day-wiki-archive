@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Global_Truck_Event.png",
+  "filePageId": 31319,
+  "filePageRevisionId": 89301,
+  "filePageRevisionSha1": "410dbaccf191d5dda2871442c563586e2c9e1806",
+  "filePageRevisionTimestamp": "2019-10-28T15:29:00Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "385787885ea02daef7d67fa99846171b3753bb0475464170f229beccc4bc7254",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Global Truck Event.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T15:29:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGlobal%20Truck%20Event.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76184,
   "sourceSha1": "f02c3ba9d849f2269d2dc24bf85dd665685ca769",

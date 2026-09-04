@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_264.jpg",
+  "filePageId": 36691,
+  "filePageRevisionId": 109854,
+  "filePageRevisionSha1": "4aa8c965326887455c85188307de4f57a7449cde",
+  "filePageRevisionTimestamp": "2026-05-08T11:35:26Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5300f60c6113adbc9ca24969094cb386749abede9686f1f7ec9a4c562687ec70",
   "height": 568,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 264.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-04-02T14:10:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20264.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 49317,
   "sourceSha1": "f60556e6f9208851e93f9bfd11954d085f664fef",

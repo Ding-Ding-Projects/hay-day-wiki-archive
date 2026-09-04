@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Truck_Midnight_Style.png",
+  "filePageId": 29437,
+  "filePageRevisionId": 78645,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2018-04-16T23:15:04Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Truck Midnight Style.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-16T23:14:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATruck%20Midnight%20Style.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 348543,
   "sourceSha1": "114d9e3f3e658fa87982c4d81f7e5d11182e76ba",

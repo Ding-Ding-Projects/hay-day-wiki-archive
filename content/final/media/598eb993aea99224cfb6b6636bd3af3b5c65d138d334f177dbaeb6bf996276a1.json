@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Truck_Bonus_3XP.png",
+  "filePageId": 34069,
+  "filePageRevisionId": 99850,
+  "filePageRevisionSha1": "c06f3de19bc876c4683bcd3195d9f195ef7778b2",
+  "filePageRevisionTimestamp": "2021-12-15T23:00:52Z",
+  "filePageWikitext": "== Summary ==\nTriple XP bonus truck event\n== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "6ad46aaa19e07a2e135fadc2ee8dd4d9f6e0a17934984838059ed72f2f532609",
   "height": 223,
   "immutableUrl": null,
   "mediaId": "File:Truck Bonus 3XP.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-06T14:16:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATruck%20Bonus%203XP.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 78909,
   "sourceSha1": "c5354703656e52667655776d46124e165080e632",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57793,
   "revisionTimestamp": "2016-01-21T18:24:49Z",
   "route": "/wiki/category%2Fcategory-pie-oven-products-7560",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pie_Oven_Products",
   "title": "Category:Pie Oven Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pie_Oven.png|thumb]]\nProducts of the [[Pie Oven]].\n[[Category:Products]]",
   "wikitextHash": "bb08102f93b94ba3ecc8a69040c3e9cf44f34f8fd1f884f099312a1cadeb890a"
 }

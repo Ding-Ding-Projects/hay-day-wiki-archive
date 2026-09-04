@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Derby",
+    "Category:Farm Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Derby",
+      "Category:Farm Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +189,12 @@
   "revisionId": 110909,
   "revisionTimestamp": "2026-08-17T12:17:47Z",
   "route": "/wiki/leaderboard-19046",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Leaderboard",
   "title": "Leaderboard",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n'''Leaderboards''' are features which rank players globally. There are two leaderboards: one for '''boat points''' and one for '''derby points'''. High ranks do not confer any special benefits. Lastly, one for task events. Special benefits will be reached for high ranks.\n----\n==='''Boat leaderboard'''===\n[[File:Leaderboard.png|200px|Leaderboard|left]]\nThe '''boat leaderboard''' ranks players according to the number of [[boat]] points they have accumulated in total. Boat points are obtained by filling boat crates and sending complete shipment off as quickly as possible.\n\nThe board has two ranking lists: Global Top Player Ranking\nand Friends Ranking. When a friend passes a player on the boat order leaderboard, the user image of that friend is displayed on top of the leaderboard object.\n\nA player needs over 35,000 Boat points to qualify and to see its rank in the Global Top Player Ranking and Friends Ranking.\n\n{{Clr}}\n----\n==='''Derby leaderboard'''===\n[[File:Champions League Leaderboard.png|left|200px]]\nThe '''[[derby]] board''' ranks players according to the average number of league points [[neighborhood]]s competing in the Champions League have. Results are reset every four weeks.\n\nPoints are given according to four factors:\n* the average number of points won per player (total score/derby participants)\n* minus the average number of trashed tasks per player (total trashed tasks/derby participants)\n* plus bonus points for the rank of the neighborhood (see the table below)\n* plus bonus points for the number of derby participants in each race (see the table below) \n\n{{Clr}}\n{| border=0 cellpadding=5 cellspacing=\"1\" style=\"text-align: center; margin: 1em auto; max-width: 50%; border-collapse: collapse; border: 1px solid #ccc;\"\n!scope=\"col\" style=\"background: #eee;\" |Rank\n!scope=\"col\" style=\"background: #eee;\" |Points\n|-\n|1||15\n|-\n|2||12\n|-\n|3||10\n|-\n|4||8\n|-\n|5||6\n|-\n|6||4\n|-\n|7||3\n|-\n|8||2\n|-\n|9||1\n|-\n|10-15||0\n|}\n\n{| border=0 cellpadding=5 cellspacing=\"1\" style=\"text-align: center; margin: 1em auto; max-width: 50%; border-collapse: collapse; border: 1px solid #ccc;\"\n!scope=\"col\" style=\"background: #eee;\" |Nb of participants\n!scope=\"col\" style=\"background: #eee;\" |Points\n|-\n|1-10||0\n|-\n|11||3\n|-\n|12||6\n|-\n|13||9\n|-\n|14||12\n|-\n|15||15\n|-\n|16||19\n|-\n|17||23\n|-\n|18||27\n|-\n|19||31\n|-\n|20||35\n|-\n|21||40\n|-\n|22||45\n|-\n|23||50\n|-\n|24||56\n|-\n|25||64\n|-\n|26||73\n|-\n|27||82\n|-\n|28||91\n|-\n|29||100\n|-\n|30||110\n|}\n----\n==='''Gallery'''===\n<gallery>\nFriends Leaderboard.png|An example of the Friends Leaderboard\nGlobal_Leaderboard.png|An example of the Global Leaderboard\nLeaderboard_Top_10_points.png|Top 10 players\n</gallery>\n----\n=== Task event leaderboard ===\nThe '''task event''' '''leaderboard''' ranks players according to the number of event points they have accumulated in total. Event points are obtained by completing tasks thought out the task events.\n\nIn the leaderboard, each player will be divided into brackets of 100 players depending on farm level. For example, if your farm is level 20, you will only compete against up to 99 other farm players on similar levels such as 18, 19, 21, and 22. You need to solve event task as many as possible to climb leaderboard in your own bracket. \n\nAt the end of the event, top 50 players on the leaderboard will receive various rewards depending on their position as follow:\n\n* Grand prize for 1st position\n* Big prize for 2nd-5th position\n* Medium prize for 6th-10th position\n* Small prize for 11th-20th position\n* Consolation prize for 21th-50th position\n----\n==='''References'''===\n*[http://supercell.helpshift.com/a/hay-day/?p=web&f=champions-league-leaderboard Supercell Player Support: Champions League Leaderboard]\n\n<references />\n----\n==='''See also'''===\n{{FarmBuildingsMenu}}\n\n{{Languages\n|es = Tabla de clasificación\n}}\n[[Category:Farm Buildings]]\n[[Category:Derby]]",
   "wikitextHash": "5eb04861e09e634bb69e1a7f98ce3bb67ab2881d23407145d0ee0c94e24f56a2"
 }

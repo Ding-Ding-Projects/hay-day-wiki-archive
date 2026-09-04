@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_200.png",
+  "filePageId": 35054,
+  "filePageRevisionId": 100019,
+  "filePageRevisionSha1": "3a87bb661c0182a31da018b7aa454082e4017021",
+  "filePageRevisionTimestamp": "2022-01-09T22:04:11Z",
+  "filePageWikitext": "== Summary ==\nLevel 200 banner.\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "ed1711ffa78cac69cc825cb389d9e073cfdf4a831fac3a62ed0b50b5586e80fc",
   "height": 374,
   "immutableUrl": null,
   "mediaId": "File:Level 200.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-08-22T14:46:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20200.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 621944,
   "sourceSha1": "4ae4c827e4fcb45d9072be54fcbbad5f5218ec28",

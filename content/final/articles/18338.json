@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -339,11 +347,12 @@
   "revisionId": 108127,
   "revisionTimestamp": "2025-07-09T08:37:35Z",
   "route": "/wiki/hat-maker-18338",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hat_Maker",
   "title": "Hat Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hat Maker.png|200px|left|Hat Maker]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 70\n |price = 260,000\n |time = 3 d 4 h\n |slots = 2\n |dia = 80\n |size = 2×2\n}}\nThe '''Hat Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 70.\n\nIt is used to make [[Cloche Hat|cloche hats]], [[Top Hat|top hats]], [[Sun Hat|sun hats]] and [[Flower Crown|flower crowns]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 260,000 {{Infoicon|coin}} and takes 3 days and 4 hours or 80 {{Infoicon|dia}} to build the Hat Maker. It gives players 40 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Cloche Hat|70|2h|468\n|Top Hat|72|3:30|619\n|Sun Hat|74|2:30|558\n|Flower Crown|86|2h|331/40\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Hat Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Hat Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Hat Maker Mastered.png|150px|Mastered Hat Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Hat Maker Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* [[Cloche Hat|Cloche hats]] are very easy to make as they only require [[wool]] and [[Strawberry|strawberries]], both items which can be found pretty easily in the [[Daily Dirt]]. If you make them often enough mastering the Hat Maker is pretty quick. The hats sell well at maximum price if sold in small quantities.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Hutmacher\n|es = Taller de sombreros\n|fr = Chapellerie\n|it = Cappellaio\n|vi = Máy may mũ\n|zh = Hat Maker\n}}\n[[pt-br:Máquina de chapéus]]\n[[ru:Шляпник]]\n[[Category:Production Buildings]]",
   "wikitextHash": "96db3a14960fe1ccf10a24906afdd81002d12f25d194d52bc374562e28537e30"
 }

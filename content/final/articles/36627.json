@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animals",
+    "Category:Pages with broken file links",
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animals",
+      "Category:Pages with broken file links",
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Sar%C4%B1_benekli_z%C3%BCrafa?action=history",
@@ -28,11 +40,12 @@
   "revisionId": 109356,
   "revisionTimestamp": "2026-02-03T18:20:10Z",
   "route": "/wiki/sar%C4%B1-benekli-z%C3%BCrafa-36627",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sar%C4%B1_benekli_z%C3%BCrafa",
   "title": "Sarı benekli zürafa",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Baby-giraffe-in-golden-light 11010534.png!w700wp.webp|thumb]]\n[[Category:Sanctuary Animals]]\n[[Category:Animals]]",
   "wikitextHash": "64ca2a91a1102032d39e1818d5a20f3369234fdb4a10db64c6429388c4284027"
 }

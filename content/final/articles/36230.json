@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Swan?action=history",
@@ -97,11 +101,12 @@
   "revisionId": 106664,
   "revisionTimestamp": "2024-12-21T02:50:00Z",
   "route": "/wiki/swan-36230",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Swan",
   "title": "Swan",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Black Swan.png|thumb]]\n'''Black Swan''' are pet [[animals]]. They are unlocked at [[experience]] level 20. Black Swans were the first swans to be available and were added in the Winter 2024 update.\n\nThey give players [[experience]] points in exchange for any available feed.\n\n\n\nEach Black Swan costs 4 gold [[Voucher|vouchers]] and 9 chick [[Voucher|vouchers]]. They must be placed near a [[Bird House|bird house]] to be bought. Players can have one Black Swan. Swans and bird houses can be bought from the [[Shop]].\n\n\nWhen given certain quantity of [[Soybean]], [[Carrot]], [[Fish Fillet]], [[Strawberry]], [[Sesame]], [[Rice]], [[Cabbage]], [[Sunflower]], [[Bell Pepper]], [[Broccoli]] or [[Watermelon]], Swan eat then roam the [[farm]] for ? hours and finally fall asleep. Players can immediately wake them up to receive ?? experience per animal. Swans stay asleep otherwise.\n\nSwans which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.",
   "wikitextHash": "25827b9c0dbd185ba39f6de6d9309d5e839e5acb1d9402d62b88e27ea18f0ec2"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_89.png",
+  "filePageId": 27795,
+  "filePageRevisionId": 97611,
+  "filePageRevisionSha1": "421aef786ff42d70af11d21826088515a09cfdfa",
+  "filePageRevisionTimestamp": "2021-05-19T13:20:00Z",
+  "filePageWikitext": "Level 89 with Mushroom, Fruit Cake, Mushroom Salad, Orange Tea, Toffu Stir Fry, 10 Diamonds and 2 Fields.\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "68f715245079f37d622f12ad9368a96fffa16c46b65b81b55cc98bf4014d5cfd",
   "height": 478,
   "immutableUrl": null,
   "mediaId": "File:Level 89.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-05-19T13:16:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2089.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 653249,
   "sourceSha1": "d89eb3ea2f947f6dcbcb4379bd5a0f3272cf3917",

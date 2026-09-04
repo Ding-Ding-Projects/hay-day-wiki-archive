@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -228,11 +236,12 @@
   "revisionId": 106801,
   "revisionTimestamp": "2025-01-07T22:31:05Z",
   "route": "/wiki/hand-drill-13235",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hand_Drill",
   "title": "Hand Drill",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hand Drill.png|200px|left|Stone blocks]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 342\n |upgrades = {{Infoicon|beachc|big|link=[[Beach Café]]}}  {{Infoicon|bb|big|link=Bed and Breakfast}}  {{Infoicon|trains|big|link=Train Station}}\n |base = 95\n |dia = 10\n}}\n'''Hand drills''' are [[supplies]] used to upgrade the [[Beach Café|beach café]], the [[Bed and Breakfast|bed and breakfast]] and the [[Train Station|train station]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting hand drills'''===\nA sure way to get a hand drill is to buy it with 10 {{Infoicon|dia}}.\n\nHand drills can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 342 {{Infoicon|coin}} per drill.\n\nFinally, hand drills can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Handbohrmaschine\n|es = Berbiquí\n|fr = Chignole\n|it = Trapano a Mano\n|no = Håndbor\n}}\n[[Category:Supplies]]",
   "wikitextHash": "7b6b19e3c89d516ceaf45753fac4bc2d99f383bc52b505ad9db6ed73020a2fd2"
 }

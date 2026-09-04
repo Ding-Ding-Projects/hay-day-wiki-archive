@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Puppy_House.png",
+  "filePageId": 18440,
+  "filePageRevisionId": 103481,
+  "filePageRevisionSha1": "bf45ff07b75b7c5fb1e22e758082fe70a368cf2d",
+  "filePageRevisionTimestamp": "2023-07-20T20:52:50Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "a6ce05a8fa962fc1beb7e671f18053119e28292f91a3a5a831e532d05409370d",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Puppy House.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 23,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:06:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APuppy%20House.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 201304,
   "sourceSha1": "09165d9bd28c930056ca98de029ddef807a36a43",

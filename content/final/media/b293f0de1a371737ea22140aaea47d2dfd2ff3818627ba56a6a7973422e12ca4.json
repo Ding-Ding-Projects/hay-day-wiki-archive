@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_-_The_Valley_Guide-0",
+  "filePageId": 32220,
+  "filePageRevisionId": 89946,
+  "filePageRevisionSha1": "b8c68d0ace75fe03413e95b7da9e0891b396ff43",
+  "filePageRevisionTimestamp": "2019-12-22T21:08:57Z",
+  "filePageWikitext": "\n== Description ==\nFb: https://www.facebook.com/Hay-Day-Addicts-1985968274771198/\n\nPlease like, comment & subscribe for more Hay Day videos!\n\n\n\n\nThe valley is a game feature which gives players a new area to play in with other players (their neighbors and solo players) and the opportunity to gain tokens.\n\nThe tokens can be used to purchase many different items that get used in your farm!\nIt is unlocked at level 25.\n[[Category:Videos]]\n[[Category:Image Valley]]\n[[Category:Images]]",
+  "filePageWikitextHash": "2bd2d4cc00106e476da0bb974be73d81e65e6be9182576d83cfdab0378b2d04a",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day - The Valley Guide-0",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-12-05T13:07:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHay%20Day%20-%20The%20Valley%20Guide-0",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 33434,
+  "sourceSha1": "ea7b6a86b97913d42be33513e48922f5946c19c0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/bf/Hay_Day_-_The_Valley_Guide-0/revision/latest?cb=20191205130751",
+  "title": "File:Hay Day - The Valley Guide-0",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 480
+}

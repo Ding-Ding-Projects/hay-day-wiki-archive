@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Goat_Cheese_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98577,
   "revisionTimestamp": "2021-08-31T21:23:30Z",
   "route": "/wiki/category%2Fcategory-goat-cheese-products-35100",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Goat_Cheese_Products",
   "title": "Category:Goat Cheese Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Goat Cheese.png|thumb]]\nProducts of [[Goat Cheese]].\n[[Category:Products]]",
   "wikitextHash": "749a7b43e5a2339520aa3baa5812dc0d2954b8b5799dfe0d2b9321f8eefde5cd"
 }

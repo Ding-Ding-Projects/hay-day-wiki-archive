@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -256,11 +264,12 @@
   "revisionId": 106913,
   "revisionTimestamp": "2025-01-16T22:19:50Z",
   "route": "/wiki/currencies-2658",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Currencies",
   "title": "Currencies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n'''Currencies''' come in six forms: [[coin]]s, [[diamond]]s, [[Gift Card|gift cards]], [[voucher]]s, [[token]]s and [[Puzzle Piece|puzzle pieces]]. These currencies are used to purchase everything in the game.\n----\n\n==='''Coins'''===\n[[File:coin.png|A coin|left|150px]]\n{{Main|Coin}}\n'''Coins''' are the main currency of the game.\n\nThey are used to buy [[farm]] items from the [[shop]], [[products]] from other players' [[Roadside Shop|roadside shops]] and [[customization]] options from [[Maggie]]'s. They are also used to unlock several areas such as the the [[mine]], the [[Fishing Lake]] and more.\n\nCoins can be earned by completing [[truck]], [[boat]] and [[town]] orders, and selling goods to [[visitors]] and other players in roadside shops.\n\nThey can randomly be found by opening [[Mystery Box|mystery boxes]], spinning the [[Wheel of Fortune]] and popping one of [[Tom]]'s \"percent\" balloons. Players can also purchase coins as an in-app purchase with real-world money.\n\nAt the start of the game, players are given 350 coins.\n\nThis is possibly the highest amount of coins you can accumulate 2,147,483,647. This is not a confirmation of this being the cap for coins you can have concurrent, this is the absolute highest it would be. This cap of 2,147,483,647 isn't a random number and is actually the highest achievable number for a system that uses 32-bit signed integers (consist of 32 1’s and 0’s) in the game coding.\n\n{{Clr}}\n----\n\n==='''Diamonds'''===\n[[File:Diamond.png|A diamond|left|150px]]\n{{Main|Diamond}}\n'''Diamonds''' are the 'premium' currency of the game. They mostly help players do tasks more quickly and are used to buy certain [[decorations]] and [[customization]] options from [[Maggie]]'s, but they are not required to unlock any feature. For example players can use them to skip waiting times or get missing items.\n\nDiamonds are mainly earned by completing [[achievements]], participating in global [[events]], [[experience|leveling up]] and catching new [[fish]]. They may also be found in [[Mystery Box|mystery boxes]], the [[mine]] and one of [[Tom]]'s \"percent\" balloons. Players can also purchase diamonds as an in-app purchase with real-world money.\n\nAt the start of the game, players are given 30 diamonds.\n\n{{Clr}}\n----\n==='''Gift cards'''===\n[[File:Gift Card.png|left|150px|A gift card]]\n{{Main|Gift Card}}\n'''Gift cards''' are rewards players get for helping other players, either by reviving their dead [[Trees and Bushes|trees and bushes]] or by filling one of their [[boat]] crates. They are unlocked at [[experience]] level 15.\n\nGift cards are used to purchase mystery packages from the [[catalogue]]. You can only have 40 at a time.\n\n{{Clr}}\n----\n\n==='''Vouchers'''===\n[[File:Green Voucher.png|left|150px|A voucher]]\n{{Main|Voucher}}\n'''Vouchers''' are used to buy [[Animals|pets]], [[decorations]] and [[customization]] options from [[Maggie]]'s. They are also used to make special fishing [[lure]]s. There come in four colors -- green, blue, purple, and golden-- and are unlocked at [[experience]] level 20.\n\nVouchers are earned by completing [[boat]] orders, [[truck]] orders for [[Smelter|metal bars and refined coal]] and [[Jeweler|jewelry]], and participating in global [[events]] or [[derby|derbies]]. They can also be found in [[Mystery Box|mystery boxes]] and won in the [[Wheel of Fortune]]. Players can also buy them using [[diamond]]s.\n\n{{Clr}}\n----\n\n==='''Chick Vouchers'''===\n[[File:Chick Voucher.png|left|150px|A chick voucher]]\n{{Main|Chick Voucher}}\n'''Chick Vouchers''' are used to trade for special items in the [[shop]].\n\nChick vouchers are earned on [[Farm Pass|farm pass]] road.\n\n{{Clr}}\n----\n\n==='''Tokens'''===\n[[File:Pink Token.png|left|150px|A token]]\n{{Main|Token}}\n'''Tokens''' are used to buy items from the [[Valley Shop]]. They can be won by fulfilling requests in the valley. The valley is unlocked at [[experience]] level 25. They come in 3 varieties: red, blue, and green.\n\n{{Clr}}\n----\n\n==='''Puzzle pieces'''===\n[[File:Puzzle Piece.png|left|150px|A puzzle piece]]\n{{Main|Puzzle Piece}}\n'''Puzzle pieces''' are used to unlock [[Animals|wild animals]]. They are unlocked at [[reputation]] level 3.\n\nPuzzle pieces are earned by completing special [[boat]] orders and reaching horseshoe flags in [[derby|derbies]]. They can also be found in [[Mystery Box|mystery boxes]].\n\n{{Clr}}\n----\n\n==='''Strategy Tips'''===\n*[[Diamond]]s are best used to add slots to [[Production Buildings]] or to add bins to your [[Roadside Shop]].\n\n*[[Voucher]]s are best used to make [[Lure]]s to catch new [[Fish]] to add to your [[Fishing Book]], which earn you [[Diamond]]s. Once you have completely filled your [[Fishing Book]], vouchers should be spent on pets, which earn you [[Supplies]] and [[Experience|XPs]].\n\n*See ''[[User_blog:Dreamfarm.hayday/Hay_Day:_Best_Tips_and_Strategies_on_How_to_Play|Best Tips and Strategies on How to Play]]'' for tips on how to win diamonds and coins.\n\n{{Clr}}\n----\n\n{{Languages\n|de = Währung\n|es = Divisas\n|fr = Les Revenus\n|it = Valute\n|no = Valuta\n}}\n[[ru:Валюты]]\n\n[[Category:Currencies]]",
   "wikitextHash": "b4ebdaf68bbb1166961aef53cc33d9c8a5458274311115c3e3995c6148e5cfb6"
 }

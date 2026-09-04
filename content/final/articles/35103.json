@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Peanuts_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98580,
   "revisionTimestamp": "2021-08-31T21:24:29Z",
   "route": "/wiki/category%2Fcategory-peanuts-products-35103",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Peanuts_Products",
   "title": "Category:Peanuts Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Peanuts.png|thumb]]\nProducts of [[Peanuts]].\n[[Category:Products]]",
   "wikitextHash": "8197eadbe42e514fe759d25ab4da1d824feba252f86cd49cb96cd3acdcf13e48"
 }

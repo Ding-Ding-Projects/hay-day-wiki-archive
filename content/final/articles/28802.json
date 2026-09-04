@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Disambiguations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Disambiguations"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Levels?action=history",
@@ -37,11 +45,12 @@
   "revisionId": 98533,
   "revisionTimestamp": "2021-08-31T20:35:09Z",
   "route": "/wiki/levels-28802",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Levels",
   "title": "Levels",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Disambig}}\n*[[Experience Levels]]\n*[[Reputation Levels]]\n\n{{Languages\n|es = Niveles\n}}",
   "wikitextHash": "0cb649cd4317ce06a8aad666cdaa393b848628724c852a238ae39adb9cacef2a"
 }

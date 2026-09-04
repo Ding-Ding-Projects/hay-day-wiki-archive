@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Town_Buildings?action=history",
@@ -39,11 +47,12 @@
   "revisionId": 32615,
   "revisionTimestamp": "2014-08-10T23:21:14Z",
   "route": "/wiki/category%2Fcategory-town-buildings-15140",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Town_Buildings",
   "title": "Category:Town Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This page lists the buildings found in the [[Town]]. Also see [[:Category:Farm Buildings|Farm Buildings]] and [[:Category:Fishing|Fishing]].\n\n[[Category: Buildings]]",
   "wikitextHash": "ebed86b0ec236fd2418bed4adb5615f047847ec6323f6de0d1b47696ee5d94a7"
 }

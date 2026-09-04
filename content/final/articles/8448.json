@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Fish Fillet Products",
+    "Category:Milk Products",
+    "Category:Potato Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Fish Fillet Products",
+      "Category:Milk Products",
+      "Category:Potato Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -178,11 +194,12 @@
   "revisionId": 106293,
   "revisionTimestamp": "2024-11-19T20:50:51Z",
   "route": "/wiki/fish-soup-8448",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Soup",
   "title": "Fish Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fish Soup.png|200px|left|Fish soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 53\n |price = 1 to 298\n |time = 3 h\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 35\n |base = 83\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Fish soup''' is a [[Products|product]] unlocked at [[experience]] level 53.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fish soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nFish soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|Potatoes|link=Potato]]\n|[[File:Fish Fillet.png|75px|Fish fillets|link=Fish Fillet]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours to make one bowl of fish soup, and 2 hour and 33 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 35 [[experience]] points.\n\n{{Clr}}----\n==='''Selling fish soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fish soup can be bought or sold for a maximum price of 2,988 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make fish soup costs 255 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 fish soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Video'''===\n<gallery>\nThe Hay Day Kitchen Fish Soup\n</gallery>\n----\n\n{{Navigation}}\n{{Languages\n|de = Fischsuppe\n|es = Sopa de pescado\n|fr = Soupe de Poisson\n|it = Zuppa di pesce\n|nl = Vissoep\n|no = Fiskesuppe\n|zh = Fish Soup\n}}\n[[pt-br:Sopa de peixe]]\n[[ru:Уха]]\n[[Category:Soup Kitchen Products]]\n[[Category:Milk Products]]\n[[Category:Carrot Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "2df573657a32c2f8ebf07ef6e7593954885d392bb6bceb67e57f094b10476779"
 }

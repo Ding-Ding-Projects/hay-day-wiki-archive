@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Scuba_Helmet.png",
+  "filePageId": 32012,
+  "filePageRevisionId": 88691,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2019-10-24T15:20:03Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 540,
   "immutableUrl": null,
   "mediaId": "File:Scuba Helmet.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-24T15:19:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AScuba%20Helmet.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 201303,
   "sourceSha1": "250683ef0bf6aa91658169b0c2767f2d9a02e326",

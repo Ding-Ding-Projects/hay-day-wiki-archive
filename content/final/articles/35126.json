@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98627,
   "revisionTimestamp": "2021-09-06T22:36:17Z",
   "route": "/wiki/category%2Fcategory-roasted-tomatoes-products-35126",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Roasted_Tomatoes_Products",
   "title": "Category:Roasted Tomatoes Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Roasted Tomatoes.png|thumb]]\nProducts of [[Roasted Tomatoes]].\n[[Category:Products]]",
   "wikitextHash": "cd75c561494b4fb4c76a0b4df972e0dbbf9963483a019e6fe83c32aaed1f006c"
 }

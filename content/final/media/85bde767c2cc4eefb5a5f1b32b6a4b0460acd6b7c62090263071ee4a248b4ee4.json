@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_PawPrint.png",
+  "filePageId": 35692,
+  "filePageRevisionId": 102232,
+  "filePageRevisionSha1": "9e2a8af73a22ec0b1f773ec8041cff614045f55c",
+  "filePageRevisionTimestamp": "2022-12-09T07:20:16Z",
+  "filePageWikitext": "== Summary ==\nPaw Print in Town Hall\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "6e838eac999ba9214799beffb53bd0ad86d0796c80d124d64676f845d4f3e26c",
   "height": 100,
   "immutableUrl": null,
   "mediaId": "File:HayDay PawPrint.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-09T07:20:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHayDay%20PawPrint.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3197,
   "sourceSha1": "9dcfbcbf19a337324cd55d47492cff55847db0c3",

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_making_of_Hay_Day_Greg%27s_Holiday_Farm",
+  "filePageId": 26665,
+  "filePageRevisionId": 68050,
+  "filePageRevisionSha1": "73cd958df49c49b4bf8cefc2d00e081f56e77460",
+  "filePageRevisionTimestamp": "2016-12-26T16:55:35Z",
+  "filePageWikitext": "\n== Description ==\nGet a unique glimpse behind the scenes of Hay Day! In this time-lapse video you can enjoy the creation of Greg's Holiday farm!\n\nGet Hay Day now. Download for free for mobile devices.\nhttp://supr.cl/GetHayDay\n\n© Supercell Oy 2016\n[[Category:Videos]]",
+  "filePageWikitextHash": "3031d65340c91264abc33c6946fdb19961f2a58fcd0b9b2e39ddb0702580e02b",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:The making of Hay Day Greg's Holiday Farm",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-12-26T16:55:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AThe%20making%20of%20Hay%20Day%20Greg's%20Holiday%20Farm",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 20227,
+  "sourceSha1": "82f948dcab969a62e026f3c155c794d356deb4fb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c1/The_making_of_Hay_Day_Greg%27s_Holiday_Farm/revision/latest?cb=20161226165535",
+  "title": "File:The making of Hay Day Greg's Holiday Farm",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

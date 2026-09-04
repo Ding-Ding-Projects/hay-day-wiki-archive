@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Eggplant_Stage_4.png",
+  "filePageId": 32087,
+  "filePageRevisionId": 89448,
+  "filePageRevisionSha1": "87dab28f50b959eff53cdc3637b179387ef8c681",
+  "filePageRevisionTimestamp": "2019-11-02T17:24:30Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "09928baf13613e96a0930c28d1ffdfd6bbbc1625d4c7e612caae1d0af56adb9f",
   "height": 1066,
   "immutableUrl": null,
   "mediaId": "File:Eggplant Stage 4.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-11-02T17:23:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AEggplant%20Stage%204.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 816009,
   "sourceSha1": "5c0db5c6af7cfffefc8834075f70afb6ac63ab81",

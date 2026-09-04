@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Token.png",
+  "filePageId": 31472,
+  "filePageRevisionId": 87825,
+  "filePageRevisionSha1": "123086eb18842ddf9e3678db9f1542aafc1e0511",
+  "filePageRevisionTimestamp": "2019-09-21T09:28:57Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "315471195f7ddf96341e787205434394acf869c21d73c5d46fb210a94306409a",
   "height": 407,
   "immutableUrl": null,
   "mediaId": "File:Blue Token.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-25T05:58:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlue%20Token.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 66559,
   "sourceSha1": "6ddbc74f8bf377fc93d2cff6fff9e79342a1a072",

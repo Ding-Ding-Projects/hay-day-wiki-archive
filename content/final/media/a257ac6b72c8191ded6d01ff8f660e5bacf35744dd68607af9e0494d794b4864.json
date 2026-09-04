@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tractor_Springer.png",
+  "filePageId": 29346,
+  "filePageRevisionId": 78199,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2018-04-12T15:59:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 550,
   "immutableUrl": null,
   "mediaId": "File:Tractor Springer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-12T15:58:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATractor%20Springer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 212612,
   "sourceSha1": "49e4f4106d0c6ac5a072c41f32b5836e621cf03f",

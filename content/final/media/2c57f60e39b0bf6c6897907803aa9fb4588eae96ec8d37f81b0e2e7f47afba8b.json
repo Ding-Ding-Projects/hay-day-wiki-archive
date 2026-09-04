@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chocolate_Fountain.png",
+  "filePageId": 24916,
+  "filePageRevisionId": 84090,
+  "filePageRevisionSha1": "e9f5844f01f65358f9f3aa4371d5ae1412a3fe7b",
+  "filePageRevisionTimestamp": "2018-12-11T07:00:45Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1214f2a6ca93af598259a6842df3292a82aeefbd988cce921739d96b52e5e65c",
   "height": 460,
   "immutableUrl": null,
   "mediaId": "File:Chocolate Fountain.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-11T07:00:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChocolate%20Fountain.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 176401,
   "sourceSha1": "5f029f369314ad329a398b8dc05ad51f40382fe1",

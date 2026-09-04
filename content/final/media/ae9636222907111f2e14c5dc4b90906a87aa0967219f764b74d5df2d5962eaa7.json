@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hayday_fried_rice.png",
+  "filePageId": 33163,
+  "filePageRevisionId": 92363,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2020-04-03T14:23:56Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 158,
+  "immutableUrl": null,
+  "mediaId": "File:Hayday fried rice.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-03T14:23:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHayday%20fried%20rice.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 14950,
+  "sourceSha1": "eceea34bcf81d082277bbfe542470b5bd99e1c1a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Hayday_fried_rice.png/revision/latest?cb=20200403142356",
+  "title": "File:Hayday fried rice.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

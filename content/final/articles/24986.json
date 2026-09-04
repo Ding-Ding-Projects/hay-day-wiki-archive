@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cheese Products",
+    "Category:Corn Products",
+    "Category:Salsa Products",
+    "Category:Taco Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cheese Products",
+      "Category:Corn Products",
+      "Category:Salsa Products",
+      "Category:Taco Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 108097,
   "revisionTimestamp": "2025-06-28T13:51:58Z",
   "route": "/wiki/nachos-24986",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Nachos",
   "title": "Nachos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Nachos.png|200px|left|Nachos]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 87\n |price = 1 to 432\n |time = 1 h 15 min\n |source = {{Infoicon|tacok|bigger|link=Taco Kitchen}}\n |xp = 52\n |base = 120\n |dia = 4\n |time3 = 1 h 3 min\n}}\n'''Nachos''' are [[products]] unlocked at [[experience]] level 87.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making nachos'''===\n[[File:Taco Kitchen.png|150px|left|Taco Kitchen]]\nNachos are made in the [[Taco Kitchen]].\n\nTo make nachos, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cheese.png|75px|link=Cheese|Cheese]]\n|[[File:Corn.png|75px|link=Corn|Corn]]\n|[[File:Salsa.png|75px|link=Salsa|Salsa]]\n|-\n|'''x1'''\n|'''x4'''\n|'''x1'''\n|}\nIt takes 1 hour 15 minutes to make nachos, and 1 hour and 3 minutes in a fully [[Masteries|mastered]] kitchen. Each serving gives players 52 [[experience]] points.\n\n{{Clr}}----\n==='''Selling nachos'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Nachos can be bought or sold for a maximum price of 4,320 {{Infoicon|coin}} for 10 nachos.\n* Buying the ingredients required to make nachos costs 402 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 nachos per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Nachos\n|es = Nachos\n|fr = Nachos\n|it = Nachos\n|nl = Nacho's\n|no = Nachos\n|ru = Начос\n|zh = Nachos\n}}\n[[pt-br:Nachos]]\n[[Category:Taco Kitchen Products]]\n[[Category:Corn Products]]\n[[Category:Cheese Products]]\n[[Category:Salsa Products]]",
   "wikitextHash": "44dca5d1c6118aea0bdfa40ac33c30438edc3febb438d4828f39958c3dc64545"
 }

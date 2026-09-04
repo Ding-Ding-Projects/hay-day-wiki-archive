@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Checkered_Banner.png",
+  "filePageId": 29172,
+  "filePageRevisionId": 77294,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2018-02-07T18:08:01Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 798,
   "immutableUrl": null,
   "mediaId": "File:Checkered Banner.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:06:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACheckered%20Banner.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 202123,
   "sourceSha1": "d8e248d717dba6646f8db040d5ec255b644d14db",

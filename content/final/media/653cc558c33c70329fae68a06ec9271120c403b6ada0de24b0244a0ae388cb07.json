@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Net_Maker_Mastery_III.png",
+  "filePageId": 10956,
+  "filePageRevisionId": 79931,
+  "filePageRevisionSha1": "484921ded994754e54512ada057e43be9d90bbd7",
+  "filePageRevisionTimestamp": "2018-05-01T17:43:46Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "aeb196532c317fe2efad74c9e65150199857036af6212cf0fcd18c2ef8fafa74",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Net Maker Mastery III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:43:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANet%20Maker%20Mastery%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 53506,
   "sourceSha1": "e90f894e0a49f7d8e4f9c077908911b804c333d1",

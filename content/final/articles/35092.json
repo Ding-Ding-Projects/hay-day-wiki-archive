@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Lobster_Tail_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98569,
   "revisionTimestamp": "2021-08-31T21:21:31Z",
   "route": "/wiki/category%2Fcategory-lobster-tail-products-35092",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lobster_Tail_Products",
   "title": "Category:Lobster Tail Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Lobster Tail.png|thumb]]\nProducts of [[Lobster Tail]].\n[[Category:Products]]",
   "wikitextHash": "a7ccb06165f344c34db959db62fbb66e6a6cbad8ee454f62ddf6fbad942b1b27"
 }

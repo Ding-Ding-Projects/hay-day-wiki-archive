@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Corn Bread Products",
+    "Category:Fish Fillet Products",
+    "Category:Lemon Products",
+    "Category:Taco Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Corn Bread Products",
+      "Category:Fish Fillet Products",
+      "Category:Lemon Products",
+      "Category:Taco Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110125,
   "revisionTimestamp": "2026-05-19T21:23:03Z",
   "route": "/wiki/fish-taco-24982",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Taco",
   "title": "Fish Taco",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fish Taco.png|200px|left|Fish Taco]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 79\n |price = 1 to 392\n |time = 1 h 30 min\n |source = {{Infoicon|tacok|bigger|link=Taco Kitchen}}\n |xp = 47\n |base = 109\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Fish tacos''' are [[products]] unlocked at [[experience]] level 79.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making fish tacos'''===\n[[File:Taco Kitchen.png|150px|left|Taco Kitchen]]\nFish tacos are made in the [[Taco Kitchen]].\n\nTo make a fish taco, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Pepper.png|75px|link=Chili Pepper|Chili peppers]]\n|[[File:Corn Bread.png|75px|link=Corn Bread|Corn bread]]\n|[[File:Fish Fillet.png|75px|link=Fish Fillet|Fish fillet]]\n|[[File:Lemon.png|75px|link=Lemon|Lemon]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour and 30 minutes to make a taco, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] kitchen. Each taco gives players 44 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fish tacos'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Fish tacos can be bought or sold for a maximum price of 3,924 {{Infoicon|coin}} for 10 fish tacos.\n* Buying the ingredients required to make a taco costs 363 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 tacos per crate, up to a total of 6 per boat (for three crates).\n** 1 taco per crate, up to a total of 4 per boat (for four crates).\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Fischtaco\n|es = Taco de pescado\n|fr = Taco de poisson\n|it = Taco al pesce\n|nl = Vis-Taco\n|no = Fisketaco\n|ru = Рыбное тако\n|zh = Fish Taco\n}}\n[[pt-br:Taco de peixe]]\n\n[[Category:Taco Kitchen Products]]\n[[Category:Corn Bread Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "a2cd0321aec3667d8424a0e69acc5e168577cfab5074e4e8ec7a6af364b4da8f"
 }

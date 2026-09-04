@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Street_Hawkers.png",
+  "filePageId": 36515,
+  "filePageRevisionId": 109105,
+  "filePageRevisionSha1": "3d91701b4abe06ce17125e9f4bd0318f0da43d1e",
+  "filePageRevisionTimestamp": "2026-01-11T15:28:24Z",
+  "filePageWikitext": "== Summary ==\nValley Deco\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5f22e9e0bfa82617d53bad4b1548a28440acecd2f2ac4971105f9db105b22118",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Street Hawkers.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-01-11T15:28:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStreet%20Hawkers.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 672353,
   "sourceSha1": "5de8afceec580146edce1f90a6e6841ad818ba69",

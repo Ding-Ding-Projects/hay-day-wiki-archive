@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -66,11 +76,12 @@
   "revisionId": 110635,
   "revisionTimestamp": "2026-06-22T20:20:36Z",
   "route": "/wiki/yellow-flower-36864",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Yellow_Flower",
   "title": "Yellow Flower",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Yellow Flower.png|left|200px|Yellow Flower]]\nYellow flower is a type of [[Currencies|currency]] used to buy special prizes from the [[catalogue]]. It's part of the Birthday 2026 event.\n\nIt is unlocked at [[experience]] level 17.\n\n{{Clr}}\n----\n==='''Getting yellow flower'''===\n[[File:Riverboat.jpg|left|150 px|Riverboat]]\nEach boat during the event requires one type of [[:Category:Birthday Balloon Maker Products|balloon]] from the [[Birthday Balloon Maker|birthday balloon maker]]. Filling any box with a balloon gives you a certain amount of yellow flower.\n{{Clr}}\n----\n==='''Using yellow flower'''===\n{{Main|Catalogue}}\n[[File:Catalogue Front With Yellow Flower.png|150px|left|The catalogue]]\nYellow flower can be used to purchase items from the \"Fyne & Mysterious Gifts [[Catalogue]],\" found by clicking the blue post box at the end of the driveway. Different gifts have different prices.\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Flor amarilla\n}}\n\n[[Category:Currencies]]\n[[Category:Catalogue]]",
   "wikitextHash": "2a7d9256cdf47d2119621470f81ddb0d259eb2f574237885ea63075356f2e16f"
 }

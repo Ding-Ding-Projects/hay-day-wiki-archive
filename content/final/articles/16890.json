@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -85,11 +95,12 @@
   "revisionId": 109771,
   "revisionTimestamp": "2026-05-03T15:33:29Z",
   "route": "/wiki/movie-ticket-16890",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Movie_Ticket",
   "title": "Movie Ticket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|this feature may not be described accurately as it is unclear whether it works the same way for every player.}}\n[[File:Admit One.png|left|200px|A ticket]]\n'''Movie Ticket''' is a game feature where players can use tickets to get random prizes.\n\nThe feature is unlocked at [[experience]] level 10.\n\n{{Clr}}----\n==='''Getting tickets'''===\nPlayers are given four tickets every day. After the first in game purchase (with real money) you will only have two tickets but there will be no ads to watch anymore.\n\n=== '''Note''' ===\nPlayers who confirmed under the age of 16 does not get any personalised advertisements, movie tickets does not appear nor generate on their farms under the newspaper.\n----\n==='''Prizes'''===\nPrizes include [[supplies]], [[voucher]]s, [[products]], [[Diamond|diamonds]], and [[decorations]].\n\nDecorations offered as prizes vary seasonally. September 2023 prizes included: \n\n* Autumn Lantern\n* Autumn Wheelbarrow\n* Cow Fence\n* Gnome Fisherman\n* Log Path\n* Rake Leafs\n* Round Hay-bales\n* Tractor\n\n----\n==='''Gallery'''===\n<gallery width=\"200\" position=\"center\" captionalign=\"center\" orientation=\"square\">\nNight at the Movies.png|First trailer\nNight at the Movies-other trailer.png|Another trailer\nNight at the Movies-max.png|No other available trailer\n</gallery>\n----\n\n{{Languages\n|de = Kinokarten\n|es = Tráiler\n}}\n[[Category:Trade]]",
   "wikitextHash": "3a491a5de7c95fde9ec1c7c47f32f05489330d01a50b7d8f5bf43e7f47f3251a"
 }

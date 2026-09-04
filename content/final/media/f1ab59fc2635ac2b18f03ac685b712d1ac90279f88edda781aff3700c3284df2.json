@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tree_Revival_Stage_1.png",
+  "filePageId": 22495,
+  "filePageRevisionId": 69618,
+  "filePageRevisionSha1": "351ef95fa426183899692648f4df0be37558501d",
+  "filePageRevisionTimestamp": "2017-02-06T17:38:52Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "daa851210fbf5efe2ff7a4889f6b1f89d634faf3abf18dee06ed2c729cdf715a",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Tree Revival Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-05T00:10:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATree%20Revival%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 275503,
   "sourceSha1": "fa289e34705a9a79de11a87c933361c1de12b220",

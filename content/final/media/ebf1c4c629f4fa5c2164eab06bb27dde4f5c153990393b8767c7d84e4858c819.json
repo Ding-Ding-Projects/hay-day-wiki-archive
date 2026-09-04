@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Olive_Tree_Harvest_3.png",
+  "filePageId": 29229,
+  "filePageRevisionId": 77603,
+  "filePageRevisionSha1": "1dea26bb4a6b98ec3f5ef55be53508a749179146",
+  "filePageRevisionTimestamp": "2018-02-17T15:40:00Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "d14e287cddf242ab2efcf9c4ce10e1bd9a812d8c7be02f9c4ed7aa64531ae823",
   "height": 210,
   "immutableUrl": null,
   "mediaId": "File:Olive Tree Harvest 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-17T15:39:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOlive%20Tree%20Harvest%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 54892,
   "sourceSha1": "0c3194ba423c225e6a4255fc86ab8bc77a4a766f",

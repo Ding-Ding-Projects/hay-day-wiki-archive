@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Bee.png",
+  "filePageId": 17109,
+  "filePageRevisionId": 88990,
+  "filePageRevisionSha1": "c7a0c7767ebc43f786e831053a335a621d732243",
+  "filePageRevisionTimestamp": "2019-10-25T20:45:15Z",
+  "filePageWikitext": "Picture of honey bee.\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "72d698614c4704af89ac205af143bd23db76d7c508e76885339065ac37fd24a0",
   "height": 502,
   "immutableUrl": null,
   "mediaId": "File:Honey Bee.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:45:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney%20Bee.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 163341,
   "sourceSha1": "9957f48302df16fad8954ac53ba1eaf0e75e4b0f",

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Reviving?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93172,
   "revisionTimestamp": "2020-04-12T16:08:04Z",
   "route": "/wiki/reviving-33431",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Reviving",
   "title": "Reviving",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Trees and Bushes]]",
   "wikitextHash": "217d60a8390f65c2e714fa865c2e697c2c905be2f25f465cbafc40df73159ac8"
 }

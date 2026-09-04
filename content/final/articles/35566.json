@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chickpea Products",
+    "Category:Coconut Products",
+    "Category:Stew Pot Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chickpea Products",
+      "Category:Coconut Products",
+      "Category:Stew Pot Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +129,12 @@
   "revisionId": 110361,
   "revisionTimestamp": "2026-06-03T21:02:49Z",
   "route": "/wiki/chickpea-stew-35566",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chickpea_Stew",
   "title": "Chickpea Stew",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chickpea Stew.png|200px|left|Chickpea Stew]]\n\n{{Infobox\n |level = 106\n |price = 1 to 284\n |time = 1 hr 30 min\n |xp = 34\n |source = {{Infoicon|stewp|bigger|link=Stew Pot}}\n |base = 79\n |dia = 5\n |time3 = 1 hr 16 min\n |title = [[Products|Product]]\n }}\n'''Chickpea Stew''' is a [[Products|product]] unlocked at [[experience]] level 106. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chickpea Stew'''===\n[[File:Stew Pot.png|150px|left|Stew Pot]]\nChickpea Stew is made in the [[Stew Pot]].\n\nTo make the stew, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coconut.png|75px|Coconut|link=Coconut]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|[[File:Chickpea.png|75px|Chickpeas|link=Chickpea]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 1 hour 30 minutes to make one bowl, and 1 hour 16 minutes in a fully [[Masteries|mastered]] stew pot. Each stew gives players 34 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Chickpea Stew'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Chickpea Stew can be bought or sold for a maximum price of 2,844 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a Chickpea Stew costs 248 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 Chickpea Stew per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Kicherbohneneintopf\n|es = Estofado de garbanzos\n|fr = Soupe de Pois Chiches\n|it = Stufato di ceci\n|nl = Kikkererwtenstoofpot\n|no = Kikertgryte\n|ru = Рагу с нутом\n}}\n[[pt-br:Ensopado de grão-de-bico]]\n\n[[Category:Stew Pot Products]]\n[[Category:Coconut Products]]\n[[Category:Tomato Products]]\n[[Category:Chickpea Products]]",
   "wikitextHash": "5b049e2b0b293a3433e3038cc931555503b80717f56c81dbf909831fd08e5bc3"
 }

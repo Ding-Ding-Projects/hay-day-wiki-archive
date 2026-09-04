@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Fish Fillet Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Fish Fillet Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +199,12 @@
   "revisionId": 106091,
   "revisionTimestamp": "2024-10-25T20:43:29Z",
   "route": "/wiki/fish-and-chips-7182",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_and_Chips",
   "title": "Fish and Chips",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fish and Chips.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 41\n |price = 1 to 244\n |time = 1 h 30 m\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 29\n |base = 68\n |dia = 5\n |time3 = 1 h 16 m\n}}\n'''Fish and chips''' are [[products]] unlocked at [[experience]] level 41.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fish and chips'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nFish and chips are made in the [[BBQ Grill]].\n\nTo make the fish and chips, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|Fish Fillet|link=Fish Fillet]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|-\n|'''x2'''\n|'''x3'''\n|}\nIt takes 1 hour and 30 minutes to make one fish and chips, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] grill. Each fish and chips gives players 29 [[experience]] points.\n\n{{Clr}}----\n==='''Selling fish and chips'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fish and chips can be bought or sold for a maximum price of 2,448 {{Infoicon|Coin}} coins for 10 fish and chips.\n* Buying the ingredients required to make the fish and chips costs 216 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 fish and chips per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Trivia'''===\n* Fish and chips is a popular English dish. It is French fries and fish deep fried with some sides.\n*There are more than 8,500 fish and chips shops in the United Kingdom.\n\n----\n\n{{Navigation}}\n{{Languages\n|de = Fisch mit Pommes\n|es = Pescado y patatas\n|fr = Fish and Chips\n|it = Fish and chips\n|nl = Vis met Friet\n|no = Fish and chips\n|zh = Fish and Chips\n}}\n[[pt-br:Peixe e fritas]]\n[[ru:Рыба с картошкой]]\n[[Category:BBQ Grill Products|7]]\n[[Category:Fish Fillet Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "ad2dfb8d4c7cf49d80ab49ac705bc448b234fa30da733f9b4bd5a1445797947f"
 }

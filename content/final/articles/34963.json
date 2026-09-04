@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Donut Maker Products",
+    "Category:Plain Donut Products",
+    "Category:Raspberry Jam Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Donut Maker Products",
+      "Category:Plain Donut Products",
+      "Category:Raspberry Jam Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -128,11 +140,12 @@
   "revisionId": 107919,
   "revisionTimestamp": "2025-05-26T22:38:56Z",
   "route": "/wiki/filled-donut-34963",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Filled_Donut",
   "title": "Filled Donut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Filled Donut.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 93\n |price = 1 to 403\n |time = 35 min\n |source = {{Infoicon|donutm|bigger|link=Donut Maker}}\n |xp = 48\n |base = 112\n |dia = 3\n |time3 = 29 min\n}}\n'''Filled donuts''' are [[products]] unlocked at [[experience]] level 93. It's not used to make any other product.\n\nIt is introduced at [[Update|28 June 2021]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making filled donuts'''===\n[[File:Donut Maker.png|thumb|150px|left|link=Donut Maker]]\nFilled donuts are made in the [[Donut Maker]].\n\nTo make filled donuts, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Donut.png|75px|link=Plain Donut]]\n|[[File:Raspberry Jam.png|75px|link=Raspberry Jam]]\n|-\n|'''×1'''\n|'''×1'''\n|}\nIt takes 35 minutes to make one filled donut, and 29 minutes in a fully [[Masteries|mastered]] maker. Each donut gives players 48 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling filled donuts'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Filled donuts can be bought or sold for a maximum price of 4032 {{Infoicon|Coin}} for 10 donuts.\n* Buying the ingredients required to make 1 filled donut costs 381 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 1 to 2 filled donuts per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Gefüllter Donut\n|es = Dónut relleno\n|fr = Beignet à la Framboise\n|it = Bombolone ripieno\n|nl = Gevulde Donut\n|no = Fylt donut\n|ru = Пончик с начинкой\n|zh = Filled Donut\n}}\n[[pt-br:Donut recheado]]\n[[Category:Donut Maker Products]]\n[[Category:Plain Donut Products]]\n[[Category:Raspberry Jam Products]]",
   "wikitextHash": "534d71a7e82bdac31888c0c6fbf4729a2275f8eaee60683420d480290d74c40b"
 }

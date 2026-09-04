@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wood_Panel.png",
+  "filePageId": 2636,
+  "filePageRevisionId": 89200,
+  "filePageRevisionSha1": "6cce98ca78a51457db24c7d4e41c0fa13acd87fc",
+  "filePageRevisionTimestamp": "2019-10-28T13:10:42Z",
+  "filePageWikitext": "Picture of wood panels.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "7dec6c49d63fed8be6d622b3516eaba2519623db5bf9c9c4cb552259caaa2214",
   "height": 144,
   "immutableUrl": null,
   "mediaId": "File:Wood Panel.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:10:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWood%20Panel.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 15591,
   "sourceSha1": "54ae9976b1fcc45126ced175d90e0590798ed062",

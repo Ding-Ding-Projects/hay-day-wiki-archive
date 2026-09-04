@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_115.png",
+  "filePageId": 27044,
+  "filePageRevisionId": 75716,
+  "filePageRevisionSha1": "8f0d906def20e4dd5c1e4802a03764a6e9adbd1e",
+  "filePageRevisionTimestamp": "2017-11-26T17:31:09Z",
+  "filePageWikitext": "== Summary ==\nLevel 115 Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "0356b19abf79e70e772f8a1925133f8342e0dae80a5927c4bc8e11a8a47de260",
   "height": 353,
   "immutableUrl": null,
   "mediaId": "File:Level 115.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-03-20T15:06:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20115.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 508831,
   "sourceSha1": "2a6abbb88eeddeef7d865b2ddd292bf2001f9fd6",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_64.png",
+  "filePageId": 27483,
+  "filePageRevisionId": 75778,
+  "filePageRevisionSha1": "dade4beb3075e320b0efd7e4e4a684c4f0af84b6",
+  "filePageRevisionTimestamp": "2017-11-26T17:32:14Z",
+  "filePageWikitext": "Level 64\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "85360b62fcec4ddf1ac94bc641695d346b683ac68da6ea3f587e787b9db6bb35",
   "height": 1440,
   "immutableUrl": null,
   "mediaId": "File:Level 64.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-22T13:20:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2064.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2520446,
   "sourceSha1": "8fe7e7e62746f98ab83b62ce88d9ac84de5b65d3",

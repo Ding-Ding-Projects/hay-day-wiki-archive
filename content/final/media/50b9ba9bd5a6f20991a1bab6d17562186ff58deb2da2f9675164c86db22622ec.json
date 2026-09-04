@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E6_Gitti_from_Bad_Zell,_Austria",
+  "filePageId": 30583,
+  "filePageRevisionId": 83268,
+  "filePageRevisionSha1": "086a1165a6ca474346b4609bbf803f614ba98d5f",
+  "filePageRevisionTimestamp": "2018-10-19T20:48:46Z",
+  "filePageWikitext": "\n== Description ==\nMeet the farmers in Hay Day from all around the world! \n\nIn this 6th episode of the series you'll get to meet Gitti, from Bad Zell, Austria. \n\nGet to see how her life resembles Hay Day in this beautiful town, living surrounded by nature, great friends and cute animals.\n[[Category:Videos]]",
+  "filePageWikitextHash": "e48019df73467b401a81bdc1c7bd71a7c2da56ede84b9860a2408aada9ee88e0",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E6 Gitti from Bad Zell, Austria",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-19T20:48:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E6%20Gitti%20from%20Bad%20Zell%2C%20Austria",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 25023,
+  "sourceSha1": "303a6becfee5830a05b55e4b7c0dec7bcd78f827",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/dc/Hay_Day_Meet_the_Farmer%21_E6_Gitti_from_Bad_Zell%2C_Austria/revision/latest?cb=20181019204846",
+  "title": "File:Hay Day Meet the Farmer! E6 Gitti from Bad Zell, Austria",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

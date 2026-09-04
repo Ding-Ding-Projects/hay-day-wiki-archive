@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Violet_Dress_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 102139,
   "revisionTimestamp": "2022-12-04T16:12:28Z",
   "route": "/wiki/category%2Fcategory-violet-dress-products-35684",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Violet_Dress_Products",
   "title": "Category:Violet Dress Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Violet Dress.png|thumb]]\nProducts of [[Violet Dress]].\n[[Category:Products]]",
   "wikitextHash": "a659415ba35a959dd763f641956378b5d1af56c12e1ba7825737ae11dcf5b5e1"
 }

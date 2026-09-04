@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Purple_Tree.png",
+  "filePageId": 27843,
+  "filePageRevisionId": 77361,
+  "filePageRevisionSha1": "cdd6fb4ea0740fc6b2acb842ed8acc452dbf8f08",
+  "filePageRevisionTimestamp": "2018-02-07T19:12:30Z",
+  "filePageWikitext": "== Summary ==\nOne of the NEW Trees (4 of 5)\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "bcf0bff1b9f861c3de6a0513f67de8ae92eba63592838f73428fb6cbc43d7533",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Purple Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:12:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APurple%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 430967,
   "sourceSha1": "a8365de2ce7d23c11f5c969b5d4d693443e7ea49",

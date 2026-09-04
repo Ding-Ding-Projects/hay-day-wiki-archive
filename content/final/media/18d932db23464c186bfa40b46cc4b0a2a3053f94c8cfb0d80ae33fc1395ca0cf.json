@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beige_Giraffe.png",
+  "filePageId": 28021,
+  "filePageRevisionId": 89224,
+  "filePageRevisionSha1": "92af06dc6fd5c0553c07d67407216f927229bb89",
+  "filePageRevisionTimestamp": "2019-10-28T14:06:07Z",
+  "filePageWikitext": "== Summary ==\nBeige Giraffe\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "e497c2ac641ccc277e308140705f18b9094267505064ca2474fee1e4e3247a85",
   "height": 528,
   "immutableUrl": null,
   "mediaId": "File:Beige Giraffe.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:06:07Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeige%20Giraffe.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 101939,
   "sourceSha1": "6c79728c67b05b3a294b1e1ae4f142ff34656b79",

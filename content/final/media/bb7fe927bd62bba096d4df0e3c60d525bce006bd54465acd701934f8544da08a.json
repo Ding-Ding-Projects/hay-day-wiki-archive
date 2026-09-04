@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:True_Fans.png",
+  "filePageId": 18883,
+  "filePageRevisionId": 69885,
+  "filePageRevisionSha1": "b6399a7e2cabe1e5469af0715f0110bc86d2e2bd",
+  "filePageRevisionTimestamp": "2017-02-09T20:13:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "8d4aa039e5ef3bdb4762a86bd8782f21d52ea94aaf093cd796776c773d911bb7",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:True Fans.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-03-29T20:00:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATrue%20Fans.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 356215,
   "sourceSha1": "49fc8c66ce447bf0ac975830bf6ef84f114d2701",

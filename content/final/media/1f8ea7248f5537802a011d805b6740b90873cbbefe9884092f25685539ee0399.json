@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_212.png",
+  "filePageId": 35435,
+  "filePageRevisionId": 100947,
+  "filePageRevisionSha1": "4aa8c965326887455c85188307de4f57a7449cde",
+  "filePageRevisionTimestamp": "2022-05-29T19:26:43Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5300f60c6113adbc9ca24969094cb386749abede9686f1f7ec9a4c562687ec70",
   "height": 363,
   "immutableUrl": null,
   "mediaId": "File:Level 212.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-05-09T18:04:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20212.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 613628,
   "sourceSha1": "094adaff863b2e407fc715ff8a34a1cbac03996f",

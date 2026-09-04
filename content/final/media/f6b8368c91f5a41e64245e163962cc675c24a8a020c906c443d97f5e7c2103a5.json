@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candy_Machine.png",
+  "filePageId": 2509,
+  "filePageRevisionId": 108604,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T20:47:35Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 875,
   "immutableUrl": null,
   "mediaId": "File:Candy Machine.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T20:47:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACandy%20Machine.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 415517,
   "sourceSha1": "d3cbd0e7f38f2b56f2faf402441f56453ac08721",

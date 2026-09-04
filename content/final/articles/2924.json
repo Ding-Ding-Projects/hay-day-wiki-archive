@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -249,11 +257,12 @@
   "revisionId": 110092,
   "revisionTimestamp": "2026-05-16T22:25:07Z",
   "route": "/wiki/saw-2924",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Saw",
   "title": "Saw",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Saw.png|200px|left|A saw]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 5\n |price = 1 to 54\n |base = 15\n |dia = 5\n}}\n'''Saws''' are [[supplies]] used to cut down big decorative trees (leaf trees and pine trees) as well as dead [[Trees and Bushes|fruit trees]] in the [[farm]] and in the [[town]].\n\nThey are unlocked at [[experience]] level 5.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting saws'''===\nA sure way to get a saw is to buy it with 5 {{Infoicon|dia}} or to hire [[Tom]] and have him find some.\n\nSaws can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 54 {{Infoicon|coin}} per saw.\n\nAdditionally, as of the April 2026 update, saws can be purchased for 3000 {{Infoicon|coin}} each if the player has zero in their barn.\n\nFinally, saws can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Säge\n|es = Sierra\n|fr = Scie\n|it = Sega\n|no = Sag\n}}\n[[ru:Пила]]\n\n[[Category:Supplies]]",
   "wikitextHash": "5cfc5b14eb5cb3640d35a8e47a45c0e83bba768d455e1082a0ee1ac33358c12b"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Boat_Puzzle.png",
+  "filePageId": 28185,
+  "filePageRevisionId": 72912,
+  "filePageRevisionSha1": "7ea85e9346a98aba28ee74632586df91a1f9119a",
+  "filePageRevisionTimestamp": "2017-07-09T18:07:22Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Boat]]",
+  "filePageWikitextHash": "3a5ba079539d26c7b27504b3b7c8268408fe7ce766c8cdb25089fe192b4fff11",
   "height": 264,
   "immutableUrl": null,
   "mediaId": "File:Boat Puzzle.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-09T18:05:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABoat%20Puzzle.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 87714,
   "sourceSha1": "28c08869896f2d121cd4995341c5851f8a3060c5",

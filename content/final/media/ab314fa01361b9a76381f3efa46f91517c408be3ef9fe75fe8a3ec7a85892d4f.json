@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mango_Juice.png",
+  "filePageId": 35441,
+  "filePageRevisionId": 104946,
+  "filePageRevisionSha1": "3e30c136b7a24183d1fa8477beebde89cce6d3bb",
+  "filePageRevisionTimestamp": "2024-02-23T07:19:22Z",
+  "filePageWikitext": "== Summary ==\n [[Mango Juice]], a product added as part of the 10th birthday update\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "8015cbb4b2442fbff0692fbb2e0600dda1a3dac949ddae49fa5601f34b3b6331",
   "height": 660,
   "immutableUrl": null,
   "mediaId": "File:Mango Juice.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-23T07:19:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMango%20Juice.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 173240,
   "sourceSha1": "870d8e15704b2844ea98f6604c6b23e6e95aee07",

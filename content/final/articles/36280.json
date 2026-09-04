@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Swans?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 107488,
   "revisionTimestamp": "2025-03-01T22:43:23Z",
   "route": "/wiki/category%2Fcategory-swans-36280",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Swans",
   "title": "Category:Swans",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of swans available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "d40e9400aa9727043fc683726d98a0041d8dcee604dfa7c5e21e0e25338a0cad"
 }

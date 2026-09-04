@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:20210628Update.png",
+  "filePageId": 34969,
+  "filePageRevisionId": 98150,
+  "filePageRevisionSha1": "8d0a553a5b51940bed93ee044ea634dbea78a079",
+  "filePageRevisionTimestamp": "2021-07-15T21:25:43Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "3e0b6afa405e3350fc8124482f4b06e94c0101a528e74c1fe2b61e1ca9e8471b",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:20210628Update.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-06-28T11:43:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3A20210628Update.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 975221,
   "sourceSha1": "b39ee62b4c4f403f75831de786d84e58da023901",

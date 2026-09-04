@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Warning.svg",
+  "filePageId": 29249,
+  "filePageRevisionId": 77727,
+  "filePageRevisionSha1": "078b68865b2952b0686c7933281861d83aafbc83",
+  "filePageRevisionTimestamp": "2018-02-20T03:39:12Z",
+  "filePageWikitext": "== Licensing ==\n{{GNU LGPL}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "11aebea244fa7a7552812b701547762532f27dd0dd39d560a923ef2e8da0336c",
   "height": 512,
   "immutableUrl": null,
   "mediaId": "File:Warning.svg",
   "mediaType": "DRAWING",
   "mime": "image/svg+xml",
+  "referenceCount": 35,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-20T03:38:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "GNU LGPL"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
   "route": "/media/File%3AWarning.svg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 371,
   "sourceSha1": "b076a64a6a362986c75a9d2bc7bca6f2a82b3b79",

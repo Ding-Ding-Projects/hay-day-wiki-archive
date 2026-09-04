@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lure Workbench Products",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lure Workbench Products",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -196,11 +206,12 @@
   "revisionId": 108064,
   "revisionTimestamp": "2025-06-22T16:07:07Z",
   "route": "/wiki/purple-lure-33409",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Purple_Lure",
   "title": "Purple Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Note|This page needs some cleanup in the list of fish. The mobile/tablet page numbers need fixing.|title = Note}}{{PageDisplay}}.\n[[File:Purple Lure.png|200px|left|Purple lure]]\n\n{{Infobox\n|title = [[Products|Product]]\n|level = 27\n|time = 45 mins\n|source = [[File:Lure Workbench.png|45px|link=Lure Workbench]]\n|xp = 4\n|dia = ?\n|time3 = 38 mins\n}}\n'''Purple lures''' are [[products]] unlocked at [[experience]] level 27. They are used to lure [[fish]].\n\nThey are stored in the [[Tackle Box|tackle box]].\n\n{{Clr}}\n----\n==='''Making purple lures'''===\n[[File:Lure Workbench.png|150px|left|Lure Workbench]]\nPurple lures are made in the [[Lure Workbench]].\n\nTo make a purple lure, players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Purple Voucher.png|75px|Purple Voucher]]\n|-\n|'''x1'''\n|}\nIt takes 45 minutes to make one lure, and 38 minutes in a fully [[Masteries|mastered]] machine. Each lure gives players 4 [[experience]] points.\n\n{{Clr}}\n----\n==='''Using purple lures'''===\n{{Note|<nowiki>T=Tablet, MB=Mobile followed by the page number.</nowiki>}}Purple lures can fish the following [[fish]]:\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"text-align: center; margin: .5em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #ddd;\"\n|[[File:Coho Salmon.png|75px|link=Coho Salmon|Coho Salmon]]\n|[[File:Rainbowfish.png|75px|link=Rainbowfish|Rainbowfish]]\n|[[File:Bluespotted Sunfish.png|75px|link=Bluespotted Sunfish|Bluespotted Sunfish]]\n|[[File:Bitterling.png|75px|link=Bitterling|Bitterling]]\n|- style=\"background: #ddd;\"\n|'''[[Coho Salmon]]'''\n|'''[[Rainbowfish]]'''\n|'''[[Bluespotted Sunfish]]'''\n|'''[[Bitterling]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#4 - MB#6\n|T#4 - MB#7\n|T#5 - B#8\n|T#6 - B#10\n|- style=\"background: #ddd;\"\n|[[File:Shadow Bass.png|75px|link=Shadow Bass|Shadow Bass]]\n|[[File:Spotted Sunfish.png|75px|link=Spotted Sunfish|Spotted Sunfish]]\n|[[File:Sauger.png|75px|link=Sauger|Sauger]]\n|[[File:Arctic Charr.png|75px|link=Arctic Charr|Arctic Charr]]\n|- style=\"background: #ddd;\"\n|'''[[Shadow Bass]]'''\n|'''[[Spotted Sunfish]]'''\n|'''[[Sauger]]'''\n|'''[[Arctic Charr]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#9 - MB#17\n|T#10 - MB#19\n|T#12 - MB#22\n|T#14 - MB#26\n|- style=\"background: #ddd;\"\n|[[File:Greater Redhorse.png|75px|link=Greater Redhorse|Greater Redhorse]]\n|[[File:Grass Carp.png|75px|link=Grass Carp|Grass Carp]]\n|[[File:Longear Sunfish.png|75px|link=Longear Sunfish|Longear Sunfish]]\n|[[File:Giant Barb.png|75px|link=Giant Barb|Giant Barb]]\n|- style=\"background: #ddd;\"\n|'''[[Greater Redhorse]]'''\n|'''[[Grass Carp]]'''\n|'''[[Longear Sunfish]]'''\n|'''[[Giant Barb]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|- style=\"border: 1px solid #ccc;\"\n|T#15 - MB#29\n|T#16 - MB#30\n|T#17 - MB#33\n|T#18 - MB#34\n|- style=\"background: #ddd;\"\n|[[File:Lake Sturgeon.png|75px|link=Lake Sturgeon|Lake Sturgeon]]\n|[[File:Nile Perch.png|75px|link=Nile Perch|Nile Perch]]\n|[[File:White Catfish.png|75px|link=White Catfish|White Catfish]]\n|[[File:Quillback.png|75px|link=Quillback|Quillback]]\n|- style=\"background: #ddd;\"\n|'''[[Lake Sturgeon]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|'''[[Nile Perch]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|'''[[White Catfish]]'''\n|'''[[Quillback]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#19 - MB#36\n|T#20 - MB#38\n|T#22 - MB#42\n|T#22 - MB#43\n|}\n----\n==='''Tips'''===\n*Lures cannot be bought or sold in the roadside shop, but can be traded between [[Neighborhood|neighbors]].\n*[[Boat]]s never ask for lures.<big>'''Trivia'''</big>\n*Using a glitch related to having multiple farms, it is actually possible to get purple lures before level 27 using Neighborhood Requests. By playing on a farm that is Level 27 or higher, select the Tackle Box tab on the Neighborhood Requests screen. Then, switch to a farm between levels 12 and 26, and open Neighborhood Requests, and you will be on the (invisible) Tackle Box tab, where you can then request purple lures.\n----\n{{Navigation}}\n{{Languages\n|de = Lila Köder\n|es = Cebo morado\n|fr = Appât violet\n|it = Esca viola\n|nl = Paars Kunstaas\n|no = Lilla sluk\n|ru = Фиолетовая приманка\n|zh = Purple Lure\n}}\n[[Category:Lure Workbench Products]]",
   "wikitextHash": "2ddff0d8e186a875550d51c887fbe7cc2f93e60bb4c8a2df57ee16fc7c897d76"
 }

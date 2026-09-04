@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chickpea Products",
+    "Category:Chili Pepper Products",
+    "Category:Deep Fryer Products",
+    "Category:Potato Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chickpea Products",
+      "Category:Chili Pepper Products",
+      "Category:Deep Fryer Products",
+      "Category:Potato Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -142,11 +158,12 @@
   "revisionId": 110208,
   "revisionTimestamp": "2026-05-24T10:40:49Z",
   "route": "/wiki/samosa-35387",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Samosa",
   "title": "Samosa",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Samosa.png|200px|left|Samosa|link=Special:FilePath/Samosa.png]]\n\n{{Infobox\n |level = 103\n |price = 1 to 223\n |time = 1 h 15 min\n |xp = 27\n |source = {{Infoicon|deepfr|bigger|link=Deep Fryer}}\n |base = 62\n |dia = 4\n |time3 = 1 h 3 min\n |title = [[Products|Product]]}}\n\n'''Samosa''' are a [[Products|product]] unlocked at [[experience]] level 103.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making samosa'''===\n[[File:Deep_Fryer.png|150px|left|Deep Fryer]]\nSamosa are made in the [[Deep Fryer]].\n\nTo make samosa, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chickpea.png|75px|Chickpea|link=Chickpea]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Chili Pepper.png|75px|Chili Pepper|link=Chili Pepper]]\n|-\n|'''x2'''\n|'''x4'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour and 15 minutes to make one serving, and 1 hour and 3 minutes in a fully [[Masteries|mastered]] machine. Each serving gives players 27 [[experience]] points.\n\n{{Clr}}----\n==='''Selling samosa'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Samosa can be bought or sold for a maximum price of 2,232 {{Infoicon|Coin}} for 10 servings.\n* Buying the ingredients required to make samosa costs 192 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 servings of samosa per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n\n----\n{{Navigation}}\n{{Languages\n|de = Samosa\n|es = Samosa\n|fr = Samosa\n|it = Samosa\n|nl = Samosa\n|no = Samosa\n|ru = Самоса\n|zh = Samosa\n}}\n[[pt-br:Chamuça]]\n\n[[Category:Deep Fryer Products]]\n[[Category:Chickpea Products]]\n[[Category:Wheat Products]]\n[[Category:Potato Products]]\n[[Category:Chili Pepper Products]]",
   "wikitextHash": "1249d73d94bbaea4991d4afa2054c00f6126e246ab10f3881926b2f536060cf6"
 }

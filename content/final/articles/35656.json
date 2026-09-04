@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Guava Products",
+    "Category:Lemon Products",
+    "Category:Preservation Station Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Guava Products",
+      "Category:Lemon Products",
+      "Category:Preservation Station Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 110213,
   "revisionTimestamp": "2026-05-24T17:36:36Z",
   "route": "/wiki/guava-compote-35656",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Guava_Compote",
   "title": "Guava Compote",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Варенье из гуавы]]{{PageDisplay}}\n[[File:Guava Compote.png|200px|left|Guava Compote]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 104\n |price = 1 to 421\n |time = 4 h 20 m\n |source = {{Infoicon|preservst|bigger|link=Preservation Station}}\n |xp = 50\n |base = 117\n |dia = 7\n |time3 = 3 h 41 min\n}}\n'''Guava Compote''' is a [[products|product]] unlocked at [[experience]] level 104.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Guava Compote'''===\n[[File:Preservation Station.png|150px|left|Preservation Station]]\nGuava Compote are made in the [[Preservation Station]].\n\nTo make the Guava Compote, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Guava.png|75px|Guava|link=Guava]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:White Sugar.png|75px|White Sugar|link=White Sugar]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 4 hours and 20 minutes to make one jar, and 3 hours and 41 minutes in a fully [[Masteries|mastered]] station. Each jar gives players 50 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Guava Compote'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Guava Compote can be bought or sold for a maximum price of 4,212 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the Guava Compote costs 365 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Guava Compote per crate, up to a total of 8 per boat.\n\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Guavenkompott\n|es = Compota de guayaba\n|it = Composta di guaiava\n|nl = Guavecompote\n|no = Guavakompott\n|ru = Варенье из гуавы\n}}\n[[pt-br:Geleia de goiaba]]\n\n[[Category:Preservation Station Products]]\n[[Category:Guava Products]]\n[[Category:Lemon Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "d505cdbfde941ab866010aad28c3b50f8b20a1caf44b4e3bb773678951038f83"
 }

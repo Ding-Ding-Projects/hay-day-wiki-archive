@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -345,11 +353,12 @@
   "revisionId": 110571,
   "revisionTimestamp": "2026-06-18T07:02:23Z",
   "route": "/wiki/cotton-14254",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cotton",
   "title": "Cotton",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cotton.png|200px|left|Cotton]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 18\n |price = 1 to 28\n |time = 2 h 30 min\n |xp= 6\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 8\n |dia = 7\n}}\n'''Cotton''' is a field [[crops|crop]] unlocked at [[experience]] level 18.\n\nIt is used to make multiple [[products]], like [[Cotton Fabric |cotton fabric]] and [[Flower Shop|bouquets]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 440 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing cotton'''===\nCotton is grown in fields by planting another cotton plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 {{Infoicon|xp}} points, and takes 2 hours and 30 minutes to mature. \n<gallery>\nCotton Stage 1.png\nCotton Stage 2.png\nCotton Stage 3.png\nCotton Stage 4.png\nCotton Stage 5.png\n</gallery>\n----\n==='''Selling cotton'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Cotton can be sold or bought for a maximum price of 288 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using cotton'''===\nCotton is used to make the following [[products]]:\n\n{{Item Usage|Cotton\n|Cotton Fabric|3|18\n|Rustic Bouquet|3|49\n|Bright Bouquet|1|65\n|Flower Crown|4|86\n|Soft Bouquet|1|93\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 10 to 16 cotton per crate, up to a total of 48 per boat.\n* Each unit of cotton gives players 11 coins and 9 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Cotton is uncommon enough that selling it at a lower price is not necessary.\n* Cotton can very often be found in the [[Daily Dirt]], and sells very quickly.\n* Fabric and bouquets require several units of cotton and don't take long to make. If you want to keep up you need to have a steady supply of cotton.\n* If you're in need for money between levels 18-25+, cotton is an easy thing to sell to make [[coin]]s.\n----\n[[ru:Хлопок]]\n{{Navigation}}\n{{Languages\n|de = Baumwolle\n|es = Algodón\n|fr = Coton\n|it = Cotone\n|nl = Katoen\n|no = Bomull\n|sv = Bomull\n|zh = 棉花\n}}\n[[pt-br:Algodão]]\n[[ru:Хлопок]]\n[[Category:Field Crops]]",
   "wikitextHash": "a731226fc0d5d93f7ed0a00bc452609248b560de8d6a2d0b2baa316979a57ceb"
 }

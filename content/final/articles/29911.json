@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Grapes Products",
+    "Category:Honey Products",
+    "Category:Mint Products",
+    "Category:Plum Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Grapes Products",
+      "Category:Honey Products",
+      "Category:Mint Products",
+      "Category:Plum Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -173,11 +189,12 @@
   "revisionId": 109800,
   "revisionTimestamp": "2026-05-04T21:57:43Z",
   "route": "/wiki/plum-smoothie-29911",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Plum_Smoothie",
   "title": "Plum Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Plum Smoothie.png|200px|left|Plum smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 102\n |price = 1 to 522\n |time = 35 min\n |xp = 62\n |source = {{Infoicon|smoothiem|bigger|link=Smoothie Mixer}}\n |base = 145\n |dia = 3\n |time3 = 29 min\n}}\n'''Plum smoothies''' are [[products]] unlocked at [[experience]] level 102.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making plum smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nPlum smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plum.png|75px|link=Plum|Plums]]\n|[[File:Grapes.png|75px|link=Grapes|Grapes]]\n|[[File:Mint.png|75px|link=Mint|Mint]]\n|[[File:Honey.png|75px|link=Honey|Honey]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 35 minutes to make one smoothie, and 29 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 62 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling plum smoothies'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Plum smoothies can be bought or sold for a maximum price of 5,220 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a plum smoothie costs 496 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 plum smoothies per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Plum Smoothie was once the last Product unlocked.\n** This title then went to [[Mushroom Soup]], [[Rice Ball|Rice Ball , and now is]] [[Fruity Milkshake]].  \n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Pflaumensmoothie\n|es = Batido de ciruela\n|fr = Smoothie à la Prune\n|it = Frullato di prugne\n|nl = Pruimensmoothie\n|no = Plommesmoothie\n|ru = Сливовый смузи\n|zh = Plum Smoothie\n}}\n[[pt-br:Vitamina de ameixa]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Honey Products]]\n[[Category:Plum Products]]\n[[Category:Grapes Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "13db99e6f3d72f0d7dff09e228e9c36e62babcfcd84a7f0ea27664ef00618ed5"
 }

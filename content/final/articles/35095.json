@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Beeswax_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98572,
   "revisionTimestamp": "2021-08-31T21:22:07Z",
   "route": "/wiki/category%2Fcategory-beeswax-products-35095",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Beeswax_Products",
   "title": "Category:Beeswax Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Beeswax.png|thumb]]\nProducts of [[Beeswax]].\n[[Category:Products]]",
   "wikitextHash": "0aaed5a13934cf5b66d0b4b3dede28e97e4e9077f630289f1d337bb2acfa7537"
 }

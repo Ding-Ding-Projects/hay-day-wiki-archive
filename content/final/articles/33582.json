@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Bunny_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93481,
   "revisionTimestamp": "2020-04-16T19:42:35Z",
   "route": "/wiki/bunny-derby-33582",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bunny_Derby",
   "title": "Bunny Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Bunny derby]]",
   "wikitextHash": "375f2807ebe87645d26a3a133075a2ab123f71e8e1ddd13429ff1c9b7210ae79"
 }

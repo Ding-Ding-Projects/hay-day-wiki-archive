@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Santa_Husky.png",
+  "filePageId": 36569,
+  "filePageRevisionId": 109177,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2026-01-13T18:57:51Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Santa Husky.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-01-13T18:57:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASanta%20Husky.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 392216,
   "sourceSha1": "c16250cf17e4dadb0b11dacd25916c549a7c3565",

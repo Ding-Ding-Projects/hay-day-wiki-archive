@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Gem?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 91084,
   "revisionTimestamp": "2020-03-16T14:30:25Z",
   "route": "/wiki/gem-32700",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gem",
   "title": "Gem",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Diamond]]",
   "wikitextHash": "2f3f962714bb12be70085b2fa51e422f0330e10802639e97be1e0e3358c08472"
 }

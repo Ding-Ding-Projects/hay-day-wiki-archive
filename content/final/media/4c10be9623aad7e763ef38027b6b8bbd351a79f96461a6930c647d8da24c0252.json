@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Coins.png",
+  "filePageId": 14424,
+  "filePageRevisionId": 73859,
+  "filePageRevisionSha1": "0bb619257e9e29ae1e497cfe0c880c946c9fb94c",
+  "filePageRevisionTimestamp": "2017-10-21T18:11:18Z",
+  "filePageWikitext": "Picture of the Coins tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "2280d997f924fd064721e333582215e10e58b7cecab3f71a3b85e81e7e8dd117",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Coins.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:09:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Coins.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 73697,
   "sourceSha1": "e23e18adde7c5d793f0cdea6affade99346c47c0",

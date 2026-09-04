@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cotton_Candy.png",
+  "filePageId": 34949,
+  "filePageRevisionId": 104721,
+  "filePageRevisionSha1": "edb6b3f069770a25903a7f79111c7c994dc57de3",
+  "filePageRevisionTimestamp": "2024-02-10T05:39:18Z",
+  "filePageWikitext": "== Summary ==\nImage of [[Cotton Candy|cotton candy]] fron official Dairy News video, place holder until actual image with no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "2e2adca324224e857136987644ff24fce49cff9a440532e753ced9967a1dd20c",
   "height": 1900,
   "immutableUrl": null,
   "mediaId": "File:Cotton Candy.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-10T05:39:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACotton%20Candy.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2444379,
   "sourceSha1": "611d22d0c5af9367e4d10079e4a792b237888de0",

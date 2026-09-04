@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -70,11 +80,12 @@
   "revisionId": 100263,
   "revisionTimestamp": "2022-01-25T16:05:52Z",
   "route": "/wiki/decorations-farming-28589",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Farming",
   "title": "Decorations/Farming",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n\n{{Note|the star icon (★) denotes animated decorations.}}\n==='''Farming decorations'''===\n[[File:Shop Farming.png|100px|Farming  tab|left]]\n'''Farming decorations''' are permanent [[decorations]] found in the farming tab. The tab may also list other special [[decorations]] such as seasonal ones. These have been omitted here.\n\n{{Clr}}\n{| cellspacing=\"0\" cellpadding=\"4\" style=\"max-width: 100%; border-collapse: collapse; margin: 1em auto; text-align: center; border: 1px solid #bbb;\"\n|- style=\"background: #ddd;\"\n|[[File:Kegs.png|100px]]\n|[[File:Hay Bale.png|100px]]\n|[[File:Wren House.png|100px]]\n|[[File:Wheelbarrow.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Kegs'''\n|'''Hay Bale'''\n|'''Wren House'''\n|'''Wheelbarrow'''\n|-\n|Lvl 8\n|Lvl 9\n|Lvl 9\n|Lvl 12\n|-\n|99 {{Infoicon|coin}}\n|250 {{Infoicon|coin}}\n|5 {{Infoicon|dia}}\n|16 {{Infoicon|dia}}\n|- style=\"background: #ddd;\"\n|[[File:Lantern.png|100px]]\n|[[File:Birdhouse.png|100px]]\n|[[File:Wood Pile.png|100px]]\n|[[File:Hay Cart.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Lantern'''\n|'''Birdhouse'''\n|'''Wood Pile'''\n|'''Hay Cart'''\n|-\n|Lvl 12\n|Lvl 13\n|Lvl 14\n|Lvl 15\n|-\n|175 {{Infoicon|coin}}+50 per purchase\n|349 {{Infoicon|coin}}\n|19 {{Infoicon|coin}}\n|300 {{Infoicon|coin}}\n|- style=\"background: #ddd;\"\n|[[File:Laundry Tub.png|100px]]\n|[[File:Barrels.png|100px]]\n|[[File:Fresh Hay.png|100px]]\n|[[File:Gazebo.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Laundry Tub★'''\n|'''Barrels'''\n|'''Fresh Hay'''\n|'''Gazebo'''\n|-\n|Lvl 16\n|Lvl 17\n|Lvl 18\n|Lvl 19\n|-\n|2,000 {{Infoicon|coin}}\n|200 {{Infoicon|coin}}\n|8 {{Infoicon|dia}}\n|2,500 {{Infoicon|coin}}\n|- style=\"background: #ddd;\"\n|[[File:Pavilion.png|100px]]\n|[[File:Bench.png|100px]]\n|[[File:Garden Bench.png|100px]]\n|[[File:Windmill.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Pavilion'''\n|'''Bench'''\n|'''Garden Bench'''\n|'''Windmill★'''\n|-\n|Lvl 19\n|Lvl 20\n|Lvl 23\n|Lvl 24\n|-\n|30 {{Infoicon|dia}}\n|350 {{Infoicon|coin}}\n|20 {{Infoicon|dia}}\n|35 {{Infoicon|dia}}\n|- style=\"background: #ddd;\"\n|[[File:Well.png|100px]]\n|[[File:Outhouse.png|100px]]\n|[[File:Golden Well.png|100px]]\n|[[File:Golden Outhouse.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Well'''\n|'''Outhouse'''\n|'''Golden Well'''\n|'''Golden Outhouse'''\n|-\n|Lvl 27\n|Lvl 28\n|Lvl 29\n|Lvl 30\n|-\n|1 {{Infoicon|bluev}} 2 {{Infoicon|greenv}}\n|400 {{Infoicon|coin}}\n|59 {{Infoicon|dia}}\n|49 {{Infoicon|dia}}\n|- style=\"background: #ddd;\"\n|[[File:Campfire.png|100px]]\n|[[File:Bird Bath.png|100px]]\n|[[File:White Carriage.png|100px]]\n|[[File:Tractor.png|100px]]\n|- style=\"background: #ddd;\"\n|'''Campfire★'''\n|'''Bird Bath★'''\n|'''White Carriage'''\n|'''Tractor'''\n|-\n|Lvl 31\n|Lvl 31\n|Lvl 44\n|Lvl 45\n|-\n|1,000 {{Infoicon|coin}}\n|1 {{Infoicon|goldv}} 1 {{Infoicon|greenv}}\n|130 {{Infoicon|dia}}\n|1,500,000{{Infoicon|coin}}+250,000 per purchase\n|}\n\n{{Languages\n|es = Decoraciones/Agrícolas\n}}\n\n[[Category:Decorations]]",
   "wikitextHash": "953b57f0b46a74ad09515fbc5069428ea15671c6c8926db974b4d45307045260"
 }

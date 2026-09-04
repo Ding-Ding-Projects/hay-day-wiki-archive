@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Loom Products",
+    "Category:Strawberry Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Loom Products",
+      "Category:Strawberry Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +144,12 @@
   "revisionId": 106218,
   "revisionTimestamp": "2024-11-07T20:38:29Z",
   "route": "/wiki/red-scarf-8888",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Red_Scarf",
   "title": "Red Scarf",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Red Scarf.png|200px|left|Red scarf]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 48\n |price = 1 to 288\n |time = 2 h 30 min\n |source = {{Infoicon|Loom|bigger|link=Loom}}\n |xp = 34\n |base = 80\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Red scarves''' are [[products]] unlocked at [[experience]] level 48. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making red scarves'''===\n[[File:Loom.png|150px|left|Loom]]\nRed scarves are made in the [[Loom]].\n\nTo make a scarf, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 2 hours and 30 minutes to make one scarf, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] machine. Each scarf gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling red scarves'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Red scarves can be bought or sold for a maximum price of 2,880 {{Infoicon|Coin}} for 10 scarves.\n* Buying the ingredients required to make a scarf costs 208 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 red scarves per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Cloche hats (unlocked at level 70) require 6 wool and 2 strawberries but are very common in the newspaper and can be found easily whereas red scarves require 2 wool and 2 strawberries but are very rare and can't be found easily.\n----\n\n{{Navigation}}\n{{Languages\n|de = Roter Schal\n|es = Bufanda roja\n|fr = Echarpe Rouge\n|it = Sciarpa rossa\n|nl = Rode Sjaal\n|no = Rødt skjerf\n|zh = Red Scarf\n}}\n[[pt-br:Cachecol vermelho]]\n[[ru:Красный шарф]]\n[[Category:Loom Products]]\n[[Category:Wool Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "54d88f7e04cf2c4c5b203519e699d90b1aa6f3fdcc191e675fd12e77640d33c5"
 }

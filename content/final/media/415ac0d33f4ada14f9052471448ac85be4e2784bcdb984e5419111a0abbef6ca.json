@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stonemason%27s_Decoration_Stage_5.png",
+  "filePageId": 34230,
+  "filePageRevisionId": 99845,
+  "filePageRevisionSha1": "1c4c30debb59d32870fddcd9bb7ba1490dbb6205",
+  "filePageRevisionTimestamp": "2021-12-15T22:59:27Z",
+  "filePageWikitext": "== Summary ==\nOne of the possible Stage 5 configurations <This picture is actually of the Pedestal Decoration as of 2021-01-04...sorry, I don't know where to post this>\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "bf3284cd53ffd9faa1eaf4a2231134d11a466e158d7d4bb5d5845c77cb4b5730",
   "height": 426,
   "immutableUrl": null,
   "mediaId": "File:Stonemason's Decoration Stage 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-08-01T15:29:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStonemason's%20Decoration%20Stage%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 430974,
   "sourceSha1": "895d1ee2f6f18640ec4b7058657ca7ac1ee85f3a",

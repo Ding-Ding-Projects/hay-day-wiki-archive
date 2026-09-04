@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -210,11 +218,12 @@
   "revisionId": 105621,
   "revisionTimestamp": "2024-07-27T17:04:38Z",
   "route": "/wiki/peanuts-33962",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanuts",
   "title": "Peanuts",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Peanuts.png|200px|left|Peanuts]]\n\n{{Infobox\n |level = 62\n |price = 1 to 234\n |time = 5 h\n |xp = 43\n |source = {{Infoicon|squirrel|bigger|link=Squirrel}}\n |base = 65\n |dia = 6\n |title = [[Animal Goods|Animal good]]\n}}\n'''Peanuts''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 62.\n\n\n\nIt is used to make [[Honey Peanuts|honey peanuts]], [[Snack Mix|snack mixes]], [[Chocolate Pie|chocolate pies]], [[Peanut Noodles|peanut noodles]], [[Peanut Butter and Jelly Sandwich|peanut butter and jelly sandwiches]], [[Peanut Fudge|peanut fudges]], [[Crunchy Donut|crunchy donuts]], [[Fried Candy Bar|fried candy bars]] and [[Peanut Butter Milkshake|peanut butter milkshakes]].\n\nUnlike the other animal goods, peanuts are stored in the [[silo]].\n\n{{Clr}}\n----\n==='''Collecting peanuts'''===\n[[File:Squirrel.png|150px|left|Squirrel]]\n<!--[[File:Beehive Tree Stage 4.png|150px|left|Beehive tree]]-->\nPeanuts are collected from entrances in the [[Squirrel House|squirrel house]].\n\nTo make one unit of peanuts, [[squirrel]]s need to gather 300 peanut pods from [[Peanut Bush|peanut bushes]] and bring them to the squirrel house. This takes approximately 5 hours if the bushes are close enough. Peanuts can then be immediately collected.\n\nCollecting one unit of peanuts gives players 43 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling peanuts'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Peanuts can be bought or sold for a maximum price of 2,340 {{Infoicon|coin}} for 10 units.\n* A [[squirrel]] costs between 4,000 and 7,000 {{Infoicon|coin}} and a [[Peanut Bush|peanut bush]] costs 1,200 {{Infoicon|coin}}.\n* The [[Squirrel House|squirrel house]] costs 45,000 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using peanuts'''===\nPeanuts are used to make the following [[products]]:\n\n{{Item Usage|Peanuts|Honey Peanuts|1|63\n|Snack Mix|1|64\n|Chocolate Pie|1|65\n|Peanut Butter Milkshake|1|68\n|Peanut Butter and Jelly Sandwich|1|71\n|Crunchy Donut|1|82\n|Peanut Noodles|1|86\n|Fried Candy Bar|1|100\n|Peanut Fudge|2|111\n}}\n----\n==='''Strategy tips'''===\n<!-- please redo after the upgrade in December 2020--->\n*Peanuts were once considered rare in the Daily Dirt. As time goes on, it has now become a very common product you see in the Daily Dirt, so selling in high quantities, or at maximum, may result in slower sales, but still a little faster than the rustic bouquets. (Edit: now possible to find, but not too regularly)\n*Although peanuts are now somewhat commonly found in the Daily Dirt, you can always buy them up and make some peanut products with the peanuts you've purchased then sell them back.\n*Bear in mind that you can't do the 'buy, make and sell' process all the time as they can also result in slower sales as well.\n* Peanuts are never requested in [[boat]] orders.\n\n----\n==='''Did you know?'''===\n*This is the most expensive crop to this day, costing a whopping 360 coins per bag. It was subsequently reduced to 234 coins in the December 2020 update and still stays as the most expensive crop to this day.\n*It may look like a product, but it's stored in the silo instead of the barn.\n**This is also the only animal product to do so.\n*Originally, it only took 2 hours and 30 minutes for a pair of squirrels to collect the 300 peanut pods necessary to produce 1 peanut.  This was changed 31 August 2020.\n\n{{Clr}}\n----\n\n\n{{Navigation}}\n{{Languages\n|es = Cacahuetes\n|de = Erdnüsse\n}}\n[[Category:Animal Goods]]",
   "wikitextHash": "9b10ebbae3265f639302d5e521e7049cd55f64992cc17dc756586bd125c175b9"
 }

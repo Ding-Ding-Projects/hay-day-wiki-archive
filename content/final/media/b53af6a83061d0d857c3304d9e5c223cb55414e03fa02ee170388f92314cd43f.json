@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Front_With_Holly.png",
+  "filePageId": 35689,
+  "filePageRevisionId": 102773,
+  "filePageRevisionSha1": "7f1b3e20652924d124c57d6e5a591e60a53ca38f",
+  "filePageRevisionTimestamp": "2023-04-16T14:06:41Z",
+  "filePageWikitext": "== Summary ==\nCatalog with [[holly]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "04f79ccd0e49b0bf0740b3e29b200a485f4cdec0b9c75f876ec8a791ee6438db",
   "height": 1407,
   "immutableUrl": null,
   "mediaId": "File:Catalogue Front With Holly.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-05T10:28:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACatalogue%20Front%20With%20Holly.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 546372,
   "sourceSha1": "3780090663c0d612d7e0ff1bbebe2c8c2099bba5",

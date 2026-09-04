@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Acacia_Tree.png",
+  "filePageId": 28027,
+  "filePageRevisionId": 73952,
+  "filePageRevisionSha1": "ad030fc338cb4e9eec61c9e1d5a49879f096a0b0",
+  "filePageRevisionTimestamp": "2017-10-22T09:57:31Z",
+  "filePageWikitext": "== Summary ==\nAcacia Tree\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "aacdc61749b6979201a61f9a0b4d3c9e66656dcc459c7be993911ab98294e3b5",
   "height": 688,
   "immutableUrl": null,
   "mediaId": "File:Acacia Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:39:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAcacia%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 412941,
   "sourceSha1": "64408a34998c0621ec70b465ea5bae8228819ad0",

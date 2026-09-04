@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Candy Machine Products",
+    "Category:Cream Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Candy Machine Products",
+      "Category:Cream Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -163,11 +177,12 @@
   "revisionId": 107189,
   "revisionTimestamp": "2025-02-08T14:40:01Z",
   "route": "/wiki/chocolate-2523",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate",
   "title": "Chocolate",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate.png|200px|left|Chocolate]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 54\n |price = 1 to 460\n |time = 20 h\n |source = {{Infoicon|candym|bigger|link=Candy Machine}}\n |xp = 55\n |base = 128\n |dia = 13\n |time3 = 17 h\n}}\n'''Chocolate''' is a [[products|product]] unlocked at [[experience]] level 54.\n\nChocolate is one of the most time consuming products to make at 20 hours a chocolate bar. This specific form of chocolate is used to make only [[Chocolate Fondue]], despite the fact that [[Cacao|cacao]] is used to make chocolate-related [[Goods List|products]], eg [[Chocolate Cake|chocolate cake.]]\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making chocolate'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nChocolate is made in the [[Candy Machine]].\n\nTo make chocolate, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 20 hours to make one chocolate bar, and 17 hours in a fully [[Masteries|mastered]] machine. Each bar gives players 55 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling chocolate'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Chocolate can be bought or sold for a maximum price of 4,608 {{Infoicon|coin}} for 10 bars.\n* Buying the ingredients required to make a chocolate bar costs 358 {{Infoicon|coin}}.\n\n{{Clr}}\n==='''Using chocolate'''===\nChocolate is used to make the following [[products|product]]:\n\n{{Item Usage|Chocolate\n|Chocolate Fondue|1|81\n}}\n----\n==='''Strategy tips'''===\n* Chocolate is very hard to find in the [[Daily Dirt]].\n* It is very easy to master the [[Candy Machine]] once you have unlocked chocolate.\n* [[Boat]] orders never ask for chocolate.\n----\n\n{{Navigation}}\n{{Languages\n|de = Schokolade\n|es = Chocolate\n|fr = Chocolat\n|it = Cioccolato\n|nl = Chocola\n|no = Sjokolade\n|zh = Chocolate\n}}\n[[pt-br:Chocolate]]\n[[ru:Шоколад]]\n\n[[Category:Candy Machine Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "10f37a06dc2cd145c7974fe2a9ace38a5962f3c36374166250eeb0e8d38330e6"
 }

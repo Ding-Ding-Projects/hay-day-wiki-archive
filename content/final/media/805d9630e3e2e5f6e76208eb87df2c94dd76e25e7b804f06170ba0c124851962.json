@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_68.png",
+  "filePageId": 27489,
+  "filePageRevisionId": 99759,
+  "filePageRevisionSha1": "a970bd5382f17cc6e64fd5bf47657b87cfbaf0ee",
+  "filePageRevisionTimestamp": "2021-12-13T05:59:49Z",
+  "filePageWikitext": "Level 68\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "45d66de6d0271cc7b7e366799991293141ac1f22f46ba970fd48871c7bdcac6a",
   "height": 562,
   "immutableUrl": null,
   "mediaId": "File:Level 68.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-13T05:59:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2068.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 874410,
   "sourceSha1": "e8d0203e731bdc40311326e92af5ec89370b174b",

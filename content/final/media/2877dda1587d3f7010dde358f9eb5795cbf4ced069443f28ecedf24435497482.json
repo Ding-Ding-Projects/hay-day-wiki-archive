@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_229.jpg",
+  "filePageId": 36023,
+  "filePageRevisionId": 104530,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2024-01-22T13:55:39Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
   "height": 741,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 229.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-01-22T13:55:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20229.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 545466,
   "sourceSha1": "11982905143ff90947da707c734ba8a4964638b1",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Reindeer.png",
+  "filePageId": 22954,
+  "filePageRevisionId": 77284,
+  "filePageRevisionSha1": "595d673ec02bd11a64c75581afce7f63a9b63a83",
+  "filePageRevisionTimestamp": "2018-02-07T17:57:10Z",
+  "filePageWikitext": "NEW Winter Reindeer Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "07435b831e749ae167ad3c4d077edd2bc0d885ee6ec9a14e1a976cc6aeff5031",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Winter Reindeer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:57:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWinter%20Reindeer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 174452,
   "sourceSha1": "67098d4d8853ed8874ba5bc26941278fb1e4702a",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jolly_Clothes.png",
+  "filePageId": 34745,
+  "filePageRevisionId": 99675,
+  "filePageRevisionSha1": "5be41b13c7f9f6700b3e181fd02329f851f1ab2d",
+  "filePageRevisionTimestamp": "2021-12-12T22:37:27Z",
+  "filePageWikitext": "== Summary ==\nChristmas 2020 Package Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "d5390f4ff67ee42854b728b2f84d2494b77f482eb32056c0f1bc5d8bc189d9f1",
   "height": 263,
   "immutableUrl": null,
   "mediaId": "File:Jolly Clothes.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-01-19T14:14:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJolly%20Clothes.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 164947,
   "sourceSha1": "d6f64e47ea85544a5efd03d1df599b9e8bb86d20",

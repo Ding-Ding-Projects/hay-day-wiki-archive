@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +173,12 @@
   "revisionId": 110472,
   "revisionTimestamp": "2026-06-08T19:52:38Z",
   "route": "/wiki/animal-shelters-33414",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Animal_Shelters",
   "title": "Animal Shelters",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n'''Animal shelters''' are shelters for animals, either farm animals or pets. Building a shelter costs 5 to 45,000 coins and doesn't require time.\n----\n==='''Shelters for farm animals'''===\nPlayer needs to purchase shelter from their shop first in order to purchase the according farm animal. Farm animals live inside the shelter. Player needs to use [[Feed Mill]] to produce feed to feed farm animals to collect animal goods after a period of time.\n\nBees and squirrels are fed with bushes, and their shelter can be mastered to be more productive by having enough bushes and collecting their output.\n{| class=\"article-table\" cellspacing=\"1\" cellpadding=\"1\" border=\"1\" style=\"text-align:center\" width=\"350px\"\n|-\n!style=\"text-align:center\"|[[File:Chicken Coop.png|75px]]\n!style=\"text-align:center\"|[[File:Cow Pasture.png|75px]]\n!style=\"text-align:center\"|[[File:Pig Pen.png|75px]]\n!style=\"text-align:center\"|[[File:Sheep Pasture.png|75px]]\n|-\n|[[Chicken Coop]]\n|[[Cow Pasture]]\n|[[Pig Pen]]\n|[[Sheep Pasture]]\n|-\n|6 [[chicken]]s each\n|5 [[cow]]s each\n|5 [[pig]]s each\n|5 [[sheep]] each\n|-\n|3 houses unlocked at level 1,12,23\n|3 houses unlocked at level 6,15,27\n|3 houses unlocked at level 10,18,32\n|3 houses unlocked at level 16,26,42\n|-\n!style=\"text-align:center\"|[[File:Lamb Pasture.png|75px]]\n!style=\"text-align:center\"|[[File:Goat Yard.png|75px]]\n!style=\"text-align:center\"|[[File:Beehive Tree Stage 4.png|75px]]\n!style=\"text-align:center\"|[[File:Squirrel House Stage 4.png|75px]]\n|-\n|[[Lamb Pasture]]\n|[[Goat Yard]]\n|[[Beehive Tree]]\n|[[Squirrel House]]\n|-\n|5 [[lamb]] each\n|4 [[goat]]s each\n|1-4 beehives\n|1-4 squirrels\n|-\n|2 houses unlocked at level 25,30\n|3 houses unlocked at level 32,37,50\n|Unlocked at level 39, can be mastered\n|Unlocked at level 62, can be mastered\n|}\n----\n==='''Shelters for pets'''===\nWhen purchasing pets, they need to be placed outside of their shelters, and pets don't live inside their shelter. Players feed bacon, milk or carrot (depend on pet species) to pets to get xp and sometimes they also give players [[supplies]]. Each pet shelter can only hold a maximum of 3 pets.\n{| class=\"article-table\" cellspacing=\"1\" cellpadding=\"1\" border=\"1\" style=\"text-align:center\" width=\"350px\"\n|-\n!style=\"text-align:center\"|[[File:Dog House.png|75px]]\n!style=\"text-align:center\"|[[File:Bird House.png|75px|link=Special:FilePath/Bird_House.png]]\n!style=\"text-align:center\"|[[File:Cat House.png|75px]]\n!style=\"text-align:center\"|[[File:Horse Stable.png|75px]]\n!style=\"text-align:center\"|[[File:Bunny House.png|75px]]\n|-\n|[[Dog House]]\n|[[Bird House]]\n|[[Cat House]]\n|[[Horse Stable]]\n|[[Bunny House]]\n|-\n|2 houses unlocked at level 20,28\n|1 house unlocked at level 20\n|2 houses unlocked at level 21,29\n|4 houses unlocked at level 27,37,40,47\n|2 houses unlocked at level 31,41\n|-\n!style=\"text-align:center\"|[[File:Alpaca House.png|75px]]\n!style=\"text-align:center\"|[[File:Puppy House.png|75px]]\n!style=\"text-align:center\"|[[File:Donkey Stable.png|75px]]\n!style=\"text-align:center\"|[[File:Kitten House.png|75px]]\n!style=\"text-align:center\"|[[File:Guinea Pig House.png|75px]]\n|-\n|[[Alpaca House]]\n|[[Puppy House]]\n|[[Donkey Stable]]\n|[[Kitten House]]\n|[[Guinea Pig House]]\n|-\n|2 houses unlocked at level 34\n|2 houses unlocked at level 35,50\n|2 houses unlocked at level 43,55\n|2 houses unlocked at level 49,58\n|2 houses unlocked at level 60,64\n|}\n----\n{{Languages\n|es = Hogares para animales\n|ru = Жилища для животных\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "a6d68b510fbc327a919a1876e5be24ddf24f362e40d9c213f82c523ca6bb763e"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Cacao Products",
+    "Category:Milk Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Cacao Products",
+      "Category:Milk Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +166,12 @@
   "revisionId": 108075,
   "revisionTimestamp": "2025-06-25T00:07:55Z",
   "route": "/wiki/cocoa-smoothie-29363",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cocoa_Smoothie",
   "title": "Cocoa Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cocoa Smoothie.png|left|200px|Cocoa smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 100\n |price = 1 to 511\n |time = 40 min\n |xp = 61\n |source = {{Infoicon|SmoothieM|bigger|link=Smoothie Mixer}}\n |base = 142\n |dia = 3\n |time3 = 34 min\n}}\n'''Cocoa smoothies''' are [[products]] unlocked at [[experience]] level 100.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making cocoa smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nCocoa smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Banana.png|75px|link=Banana|Banana]]\n|[[File:Cacao.png|75px|link=Cacao|Cacao]]\n|[[File:Milk.png|75px|link=Milk|Milk]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 40 minutes to make one smoothie, and 34 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 61 [[experience]] points.\n----\n==='''Selling cocoa smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cocoa smoothies can be bought or sold for a maximum price of 5,112 {{Infoicon|Coin}} for 10 smoothies.\n* Buying the ingredients required to make a smoothie costs 498 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 cocoa smoothies per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Cocoa Smoothie is the only product that requires Cocoa, that has \"Cocoa\" in the name.\n{{Navigation}}\n{{Languages\n|de = Kakaosmoothie\n|es = Batido de cacao\n|fr = Smoothie au Cacao\n|it = Frappè al cacao\n|nl = Chocoladesmoothie\n|no = Kakaosmoothie\n|ru = Смузи с какао\n|zh = Cocoa Smoothie\n}}\n[[pt-br:Vitamina de cacau]]\n[[Category:Smoothie Mixer Products]]\n[[Category:Milk Products]]\n[[Category:Cacao Products]]\n[[Category:Banana Products]]",
   "wikitextHash": "665c4b9efdbd69dbaed517549428ac7f9fe7dcdfd82b8e0c1732f29052acdacf"
 }

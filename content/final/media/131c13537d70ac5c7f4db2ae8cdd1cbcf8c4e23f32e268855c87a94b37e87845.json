@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Deep_Fryer_Mastered.png",
+  "filePageId": 34072,
+  "filePageRevisionId": 108640,
+  "filePageRevisionSha1": "6b6488f0c6c311642e87c05ad53c0468445a203a",
+  "filePageRevisionTimestamp": "2025-09-26T00:28:21Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]]]",
+  "filePageWikitextHash": "80cc9fa8feae1649a03a41e85313443cd5f3dd2a58e8b0d63296cd34efe4fb48",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Deep Fryer Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T00:28:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADeep%20Fryer%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 454831,
   "sourceSha1": "d34c24b11ab2faf57e71c359a1799ae55007b420",

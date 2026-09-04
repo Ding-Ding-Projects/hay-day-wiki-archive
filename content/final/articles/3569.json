@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Fishing Lake Buildings",
+    "Category:Storage Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Fishing Lake Buildings",
+      "Category:Storage Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -141,11 +153,12 @@
   "revisionId": 109550,
   "revisionTimestamp": "2026-03-12T23:10:58Z",
   "route": "/wiki/storage-buildings-3569",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Storage_Buildings",
   "title": "Storage Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''Storage buildings''' are building where players can store all the items they collect or harvest in the game.\n----\n==='''Types of buildings'''===\n[[File:Silo.png|100px|link=Silo|left]]\n[[File:Barn.png|100px|link=Barn|left]]\n[[File:Tackle Box.png|100px|link=Tackle Box|left]]\nThere are three different storage buildings:\n* the silo, which is used to store [[crops]]\n* the barn, which is used to store [[Animal Goods|animal goods]], [[products]] and [[supplies]]\n* the tackle box, which is used to store [[lure]]s, [[Fishing Net|fishing nets]], [[Mystery Net|mystery nets]], [[Lobster Trap|lobster traps]] and [[Duck Trap|duck traps]].\n\nThe silo and the barn are located on the [[farm]]. They are unlocked at level 1. They can be repaired for free.\n\nThe tackle box is located near the [[Fishing Lake|fishing lake]]. It is unlocked at level 27. It is given for free and does not need to be repaired.\n{{Clr}}\n----\n==='''Upgrading'''===\n{{Main|Barn}}\n{{Main|Silo}}\n{{Main|Tackle Box}}\nThe silo and the barn can each hold 50 items initially, while the tackle box can hold 20.\n\nAll buildings can be upgraded using some [[supplies]]:\n* the silo and the tackle box can be upgraded using [[nail]]s, [[screw]]s and [[Wood Panel|wood panel]]s.\n* the barn can be upgraded using [[bolt]]s, [[Duct Tape|duct tape]] and [[plank]]s.\n----\n{{Navigation}}\n{{Languages\n|de = Gebäude#Lager\n|es = Edificios de almacenamiento\n|fr = Les Bâtiments de Stockage\n|it = Magazzini\n|no = Lagringsbygninger\n|ru = Здания для хранения\n|vi = Kho vật phẩm\n}}\n[[Category:Storage Buildings]]\n[[Category:Fishing Lake Buildings]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "3e4a2be88e3f77930fa94cc553f55084b811aae73ae223e0f046f7614630d7b7"
 }

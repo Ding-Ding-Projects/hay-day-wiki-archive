@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Kittens",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Kittens",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -367,6 +377,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -394,6 +405,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -408,11 +420,12 @@
   "revisionId": 110901,
   "revisionTimestamp": "2026-08-11T18:56:45Z",
   "route": "/wiki/calico-kitten-19435",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Calico_Kitten",
   "title": "Calico Kitten",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}{{note|this page is about the calico kitten, not to be confused with the [[Calico Cat|calico cat]].}}\n[[File:Calico Kitten.png|200px|left|Calico kitten]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 56\n |needs = {{Infoicon|milk|big|link=Milk}} {{Infoicon|goatm|big|link=Goat Milk}}\n |time = every 6 h\n |cost= {{Infoicon|bluev|link=Voucher}}20 {{Infoicon|purplev|link=Voucher}}15 {{Infoicon|goldv|link=Voucher}}4\n |xp = 40\n |dia = 1,670\n}}\n'''Calico kittens''' are pet [[animals]] unlocked at [[experience]] level 56.\n\nThey give players [[experience]] points in exchange for either [[milk]] or [[Goat Milk|goat milk]].\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Calico Kitten Sleeping}}{{BigIcon|Calico Kitten Tired}}\n----\n==='''Buying'''===\n[[File:Kitten House.png|150px|left|Kitten house]]\nEach kitten costs 20 blue [[voucher]]s, 15 purple ones and 4 golden ones, or 1,670 [[diamond]]s. They must be placed near a [[Kitten House|kitten house]] to be bought. Players can have two calico kittens.\n\nKittens and kitten houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[milk]] or [[Goat Milk|goat milk]], kittens drink then roam around their house for six hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Kittens stay asleep otherwise.\n\nKittens which have been woken up but are not given milk for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking kittens one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Dreifarbiges Kätzchen\n|es = Gatito tricolor\n|fr = Chaton tricolore\n|it = Gattino tricolore\n|no = Stripete kattunge\n}}\n[[ru:Трёхцветный котёнок]]\n\n[[Category:Kittens]]",
   "wikitextHash": "07a13826ba8bf3acd7b3bba68da0bddee5ab8aaff1aa5dd8f7b0a90ba2e9e1b5"
 }

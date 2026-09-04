@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Raspberry Products",
+    "Category:Smoothie Mixer Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Raspberry Products",
+      "Category:Smoothie Mixer Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +166,12 @@
   "revisionId": 107785,
   "revisionTimestamp": "2025-04-13T21:18:56Z",
   "route": "/wiki/berry-smoothie-11417",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Berry_Smoothie",
   "title": "Berry Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Berry Smoothie.png|left|200px|Berry smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 64\n |price = 1 to 547\n |time = 1 h 15 min\n |source = {{Infoicon|SmoothieM|bigger|link=Smoothie Mixer}}\n |xp = 65\n |base = 152\n |dia = 4\n |time3 = 1 h 3 min\n}}\n'''Berry smoothies''' (also nicknamed 'strawberry smoothies' because a strawberry is wedged into the glass) are [[products]] unlocked at [[experience]] level 64.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making berry smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nBerry smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Raspberry.png|75px|link=Raspberry|Raspberries]]\n|[[File:Strawberry.png|75px|link=Strawberry|Strawberries]]\n|[[File:Blackberry.png|75px|link=Blackberry|Blackberries]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 1 hour 15 minutes to make one smoothie, and 1 hour 3 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 65 [[experience]] points.\n----\n==='''Selling berry smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Berry smoothies can be bought or sold for a maximum price of 5,472 {{Infoicon|Coin}} for 10 smoothies.\n* Buying the ingredients required to make a smoothie costs 534 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 berry smoothie per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n=== '''Strategy tips''' ===\n• Berry smoothies are easy to make with crops that are common in the Daily Dirt (or easy to get in general, just watch your axes and plant strawberries overnight). That makes them somewhat common, so try to sell them in smaller stacks to make them more comfortable to buy for visitors. \n\n•This is the smoothie mixer product that takes the longest to make, so it's a good choice for mastering the machine.\n\n{{Navigation}}\n{{Languages\n|de = Beerensmoothie\n|es = Batido de bayas\n|fr = Smoothie aux Baies\n|it = Frullato di frutta\n|nl = Bessensmoothie\n|no = Bærsmoothie\n|ru = Ягодный смузи\n|zh = Berry Smoothie\n}}\n[[pt-br:Vitamina de frutas]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Raspberry Products]]\n[[Category:Blackberry Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "f5cf671d7fd933c70ca0d3eb974a0e0a532c0f6c02bdc2980bdacdb68f67be96"
 }

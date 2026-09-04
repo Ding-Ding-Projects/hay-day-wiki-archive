@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Neighborhood.png",
+  "filePageId": 22319,
+  "filePageRevisionId": 74425,
+  "filePageRevisionSha1": "d2c6516e635c965a421030567bdd9acb89e19193",
+  "filePageRevisionTimestamp": "2017-10-22T16:13:29Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "a80df22d99cb1c88f152caf0917bc2122fff7627669a7dda7a4e7439bbac6b29",
   "height": 668,
   "immutableUrl": null,
   "mediaId": "File:Neighborhood.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-01T01:38:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANeighborhood.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 346518,
   "sourceSha1": "eddf42e02376865cc1ee894f30915aea698bdc78",

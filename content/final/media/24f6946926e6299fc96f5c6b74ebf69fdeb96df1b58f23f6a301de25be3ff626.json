@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_List.png",
+  "filePageId": 25613,
+  "filePageRevisionId": 69364,
+  "filePageRevisionSha1": "e73d48947d72ec2c03a180e655b016944ecbe398",
+  "filePageRevisionTimestamp": "2017-02-06T01:15:22Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Fish]]",
+  "filePageWikitextHash": "d1d650ef30ad3be8f2af8d2e3f472a1fe0d14b8e63afc6a1bcd53a3ca39f71a4",
   "height": 403,
   "immutableUrl": null,
   "mediaId": "File:Fishing List.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-08-25T18:28:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20List.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 104293,
   "sourceSha1": "7a6933d84b79eb006b126261b36416e072b686ea",

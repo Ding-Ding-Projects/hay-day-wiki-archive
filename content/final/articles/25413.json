@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Event?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 74926,
   "revisionTimestamp": "2017-11-03T13:38:30Z",
   "route": "/wiki/event-25413",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Event",
   "title": "Event",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Events]]",
   "wikitextHash": "ad7becc4cb9fb51db3c5dd2438c8981363c11509bedd5dcfd7006b049736a1e0"
 }

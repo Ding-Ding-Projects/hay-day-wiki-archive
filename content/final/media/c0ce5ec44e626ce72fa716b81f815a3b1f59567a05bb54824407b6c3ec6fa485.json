@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Holly.png",
+  "filePageId": 35676,
+  "filePageRevisionId": 102173,
+  "filePageRevisionSha1": "370ccee145dd00f3cabc9f26c96c7fd36fd93e04",
+  "filePageRevisionTimestamp": "2022-12-06T14:57:59Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[holly]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "b806fa5250c5e64b696d719058b226a266179bc4a4b67bacabce4a782454dd2d",
   "height": 450,
   "immutableUrl": null,
   "mediaId": "File:Holly.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-06T14:57:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHolly.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 111649,
   "sourceSha1": "45d65ac959efcdcf9cb1c56853ec4390414bb75a",

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Corn Products",
+    "Category:Popcorn Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Corn Products",
+      "Category:Popcorn Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +148,12 @@
   "revisionId": 105837,
   "revisionTimestamp": "2024-09-14T22:54:46Z",
   "route": "/wiki/chili-popcorn-2311",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chili_Popcorn",
   "title": "Chili Popcorn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chili_Popcorn.png|200px|left|Chili popcorn]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 25\n |price = 1 to 122\n |time = 2 h\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |xp = 15\n |base = 34\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Chili popcorn''' is a [[Products|product]] unlocked at [[experience]] level 25.\n\nChili popcorn is the third product unlocked in the [[Popcorn Pot]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making chili popcorn'''===\n[[File:Popcorn Pot.png|150px|left|Popcorn Pot]]\nChili popcorn is made in the [[Popcorn Pot]].\n\nTo make chili popcorn, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Chili_Pepper.png|75px|Chili peppers|link=Chili Pepper]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 2 hours to make one bag, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] pot. Each bag gives players 15 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling chili popcorn'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Chili popcorn can be bought or sold for a maximum price of 1,224 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make it costs 86 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 bags of chili popcorn per crate, up to a total of 16 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Chili popcorn can often be found in the [[Daily Dirt]], so sell it at a lower price to attract more people.\n----\n\n{{Navigation}}\n{{Languages\n|de = Chili-Popcorn\n|es = Palomitas de chile\n|fr = Pop-Corn au Piment\n|it = Popcorn piccanti\n|nl = Chilipopcorn\n|no = Chili-popkorn\n|vi = Bỏng ngô cay\n|zh = Chili Popcorn\n}}\n[[pt-br:Pipoca apimentada]]\n[[ru:Попкорн с чили]]\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]\n[[Category:Chili Pepper Products]]",
   "wikitextHash": "79a0c61f949e463e8a3729604627927197406dd23f78f5992fb6b16e7a39fac4"
 }

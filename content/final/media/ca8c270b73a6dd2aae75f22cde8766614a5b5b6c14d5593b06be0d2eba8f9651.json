@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:How_to_select_the_boats_that_give_you_a_better_payoff_faster_%3F",
+  "filePageId": 19777,
+  "filePageRevisionId": 47529,
+  "filePageRevisionSha1": "fe523909a33306f547260db102aadadc5865ae86",
+  "filePageRevisionTimestamp": "2015-05-09T14:58:15Z",
+  "filePageWikitext": "\n== Description ==\nAn easy way to succeed\n[[Category:Videos]]",
+  "filePageWikitextHash": "c2c0d94af3c9df2bb8a7ef3fe87144adc44c539761a3153987942ad6801b34a0",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:How to select the boats that give you a better payoff faster ?",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-05-09T14:58:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHow%20to%20select%20the%20boats%20that%20give%20you%20a%20better%20payoff%20faster%20%3F",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 25159,
+  "sourceSha1": "a5627f953bcc45f982603e7939a25c0294c659be",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8d/How_to_select_the_boats_that_give_you_a_better_payoff_faster_%3F/revision/latest?cb=20150509145815",
+  "title": "File:How to select the boats that give you a better payoff faster ?",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

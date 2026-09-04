@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Black Bean Products",
+    "Category:Feed Mill Products",
+    "Category:Soybean Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Black Bean Products",
+      "Category:Feed Mill Products",
+      "Category:Soybean Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -146,11 +158,12 @@
   "revisionId": 110549,
   "revisionTimestamp": "2026-06-16T20:56:00Z",
   "route": "/wiki/lamb-feed-36738",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_Feed",
   "title": "Lamb Feed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lamb Feed.png|200px|left|Lamb feed]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 25\n |price = 1 to 18\n |time = 10 min\n |xp = 4\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |base = 5\n |dia = 2\n |time3 = 8 min\n}}\n'''Lamb feed''' is a [[Products|product]] unlocked at [[experience]] level 25. It is used to feed [[Lamb]]. It added in May 2026 Update.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making Lamb Feed'''===\n[[File:Feed Mill.png|150px|left|link=Feed Mill]]\nLamb feed is made in the [[Feed Mill]]. Sacks of feed are made three by three.\n\nTo make three units of lamb feed, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Black Bean.png|75px|Black bean|link=Black Bean]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x4'''\n|'''x2'''\n|}\nIt takes 10 minutes to make three sacks, and 8 minutes in a fully [[Masteries|mastered]] Feed Mill. Three sacks give players 4 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling Lamb Feed'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Sheep feed can be bought or sold for a maximum price of 180 {{Infoicon|Coin}} for 10 sacks.\n* Buying the ingredients required to make lamb feed costs 48 {{Infoicon|Coin}} per 3 sacks (16 {{Infoicon|Coin}}/sack) .\n{{Clr}}\n----\n==='''Strategy tips'''===\n* [[Rose]] can make feed for you if you hire her.\n* [[Boat]]s never ask for any type of feed.\n----\n{{Navigation}}\n{{Languages\n|de = Lammfutter\n|es = Pienso de cordero\n|no = Lammefôr\n|ru = Корм для ягнят\n}}\n[[pt-br:Ração dos cordeiros]]\n\n[[Category:Feed Mill Products]]\n[[Category:Black Bean Products]]\n[[Category:Soybean Products]]",
   "wikitextHash": "f2e8a1b8b9df782139ce2fb9886faeede58ef0e5f59d11d0472238f8bd6428bc"
 }

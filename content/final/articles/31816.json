@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Valley?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 87838,
   "revisionTimestamp": "2019-09-21T09:31:28Z",
   "route": "/wiki/category%2Fcategory-image-valley-31816",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Valley",
   "title": "Category:Image Valley",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Images]]",
   "wikitextHash": "dcf91bbf2758f8aedf8976966d308559c2a46b58f7b5fd7ab2196230f6a2d29b"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gold_Trophy.png",
+  "filePageId": 19860,
+  "filePageRevisionId": 54486,
+  "filePageRevisionSha1": "6319ad8d05728aadb69dcc197bffd685259b1de1",
+  "filePageRevisionTimestamp": "2015-10-14T10:42:56Z",
+  "filePageWikitext": "\n[[Category:Image User]]",
+  "filePageWikitextHash": "bec19baa054da263f1fd7220d4ead034fd0e54151193702ff7ff969ca031a26b",
+  "height": 96,
+  "immutableUrl": null,
+  "mediaId": "File:Gold Trophy.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-05-17T16:39:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGold%20Trophy.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 13497,
+  "sourceSha1": "9e8c7c5c1684a749451feb38fca821be261ba9a3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/ee/Gold_Trophy.png/revision/latest?cb=20150517163921",
+  "title": "File:Gold Trophy.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 96
+}

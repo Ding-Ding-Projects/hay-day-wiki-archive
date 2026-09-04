@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Bacon_and_Eggs_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108215,
   "revisionTimestamp": "2025-08-05T20:01:18Z",
   "route": "/wiki/category%2Fcategory-bacon-and-eggs-products-36356",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bacon_and_Eggs_Products",
   "title": "Category:Bacon and Eggs Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Bacon and Eggs.png|thumb]]\nProducts of [[Bacon and Eggs]].\n[[Category:Products]]",
   "wikitextHash": "787daad8d130d9dfc439ff5f5fabb2457b0728e0b9234f4287af86f50a9c556c"
 }

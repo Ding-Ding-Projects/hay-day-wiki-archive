@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Candy Machine Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Candy Machine Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +162,12 @@
   "revisionId": 107187,
   "revisionTimestamp": "2025-02-08T14:30:48Z",
   "route": "/wiki/caramel-apple-2515",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Caramel_Apple",
   "title": "Caramel Apple",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Caramel Apple.png|200px|left|Caramel apple]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 51\n |price = 1 to 255\n |time = 2 h\n |source = {{Infoicon|candym|bigger|link=Candy Machine}}\n |xp = 31\n |base = 71\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Caramel apples''' are [[products]] unlocked at [[experience]] level 51.\n\nThey are used to make [[Candy Bouquet|candy bouquets]].\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making caramel apples'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nCaramel apples are made in the [[Candy Machine]].\n\nTo make a caramel apple, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make one apple, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] machine. Each apple gives players 31 [[experience]] points.\n\n{{Clr}}----\n==='''Selling caramel apples'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Caramel apples can be bought or sold for a maximum price of 2,556 {{Infoicon|coin}} for 10 apples.\n* Buying the ingredients required to make a caramel apple costs 219 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using caramel apples'''===\nCaramel apples are used to make the following [[products|product]]:\n\n{{Item Usage|Caramel Apple\n|Candy Bouquet|1|90\n}}\n----\n==='''Strategy tips'''===\n* Caramel apples are very hard to find in the [[Daily Dirt]].\n* [[Boat]] orders never ask for caramel apples.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kandierter Apfel\n|es = Manzana caramelizada\n|fr = Pomme d'Amour\n|it = Mela caramellata\n|nl = Karamelappel\n|no = Glasert eple\n|zh = Caramel Apple\n}}\n[[pt-br:Maçã do amor]]\n[[ru:Яблоко в карамели]]\n[[Category:Candy Machine Products]]\n[[Category:Apple Products]]\n[[Category:Syrup Products]]",
   "wikitextHash": "458aa551f4383a6d251aa5b6e590cce2bf5863ad1d459043486237c591e46f42"
 }

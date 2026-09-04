@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Halloween_Full.png",
+  "filePageId": 16651,
+  "filePageRevisionId": 58673,
+  "filePageRevisionSha1": "c50f7e27025169b86aea3d717afabeecd81065a0",
+  "filePageRevisionTimestamp": "2016-02-06T12:11:52Z",
+  "filePageWikitext": "Picture of ready goat during Halloween.\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "ef05ee7052871b818f5650cd499fe40ca73a2b02620a2dd5cb8e388f719285e6",
+  "height": 239,
+  "immutableUrl": null,
+  "mediaId": "File:Goat Halloween Full.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-10-26T18:41:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGoat%20Halloween%20Full.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 72085,
+  "sourceSha1": "30ca537819bac7ad1da420b4e24b96cef8154896",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d8/Goat_Halloween_Full.png/revision/latest?cb=20141026184110",
+  "title": "File:Goat Halloween Full.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

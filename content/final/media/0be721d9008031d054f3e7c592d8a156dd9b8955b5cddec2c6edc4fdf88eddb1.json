@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plank.png",
+  "filePageId": 2637,
+  "filePageRevisionId": 89194,
+  "filePageRevisionSha1": "0ae6a360f86336e87f67ff3dfc369ba030f90450",
+  "filePageRevisionTimestamp": "2019-10-28T13:09:00Z",
+  "filePageWikitext": "Picture of a plank.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "3445fcf9cc20ac5d9868a1bdf95249cc7a330625bd4c0e393156be662c325e62",
   "height": 91,
   "immutableUrl": null,
   "mediaId": "File:Plank.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:09:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlank.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 7267,
   "sourceSha1": "132fe021a963ffbbf962a6f211c7048b035b8a42",

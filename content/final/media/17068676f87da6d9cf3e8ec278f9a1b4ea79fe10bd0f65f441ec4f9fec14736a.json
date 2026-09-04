@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Lake.png",
+  "filePageId": 22178,
+  "filePageRevisionId": 65714,
+  "filePageRevisionSha1": "156c4d40cee611869c33cac25b8a89723b52acd6",
+  "filePageRevisionTimestamp": "2016-10-24T16:22:46Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "dd4e82bd6fdb83aaff5e7d04e0caed7ea0b30b87fd4da0bbb68858827096813a",
   "height": 891,
   "immutableUrl": null,
   "mediaId": "File:Fishing Lake.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-26T23:15:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Lake.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1057013,
   "sourceSha1": "ad0461b688166dd4338ada446178e2b18b05709f",

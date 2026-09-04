@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -201,11 +211,12 @@
   "revisionId": 110896,
   "revisionTimestamp": "2026-08-11T18:48:28Z",
   "route": "/wiki/goat-milk-2299",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Goat_Milk",
   "title": "Goat Milk",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{note|this page is about goat milk, not to be confused with [[milk|cow milk]].}}\n[[File:Goat Milk.png|200px|left|Goat milk]]\n\n{{Infobox\n|title = [[Animal Goods|Animal good]]\n|level = 32\n|price = 1 to 64\n|time = 8 h\n|xp = 6\n|source = {{Infoicon|goat|bigger|link=Goat}}\n|base = 18\n|dia = 10\n}}\n'''Goat milk''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 32.\n\nIt is primarily used to make [[Goat Cheese|goat cheese]], a product needed in several recipes, but can also be used to feed [[:Category:Cats|cats]] and [[:Category:Kittens|kittens]].\n\nLike all goods, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Collecting goat milk'''===\n[[File:Goat.png|150px|left|Goat]]\nGoat milk is collected from [[goat]]s which have been fed [[Goat Feed|goat feed]]. Once fed, each goat needs 8 hours to produce milk.\n\nCollecting one jar of milk gives players 6 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling goat milk'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Goat milk can be bought or sold for a maximum price of 648 {{Infoicon|coin}} for 10 jars.\n* A [[goat]] costs between 2,150 and 8,650 {{Infoicon|coin}} and a [[Goat Yard|goat yard]] costs 1,000 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using goat milk'''===\nGoat milk is used to make the following [[products]]:\n\n{{Item Usage|Goat Milk\n|Goat Cheese|2|33\n|Honey Soap|1|84\n|Black Sesame Smoothie|2|93\n|Mushroom Pasta|1|101\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 5 to 8 jars per crate, up to a total of 28 per boat.\n\n{{clr}}----\n==='''Strategy tips'''===\n* Selling goat milk at maximum price is recommended as it sells pretty quickly.\n* As of the August 2026 update, goat milk can be used to feed cats and kittens, likely making it less common in the Daily Dirt. While it was once not uncommon to find for sale, you are now more likely to have to rely on your own supply.\n\n==='''Trivia'''===\n* Before the 1.44.74 update, Goat Milk was only used to make [[Goat Cheese]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Ziegenmilch\n|es = Leche de cabra\n|fr = Lait de Chèvre\n|it = Latte di capra\n|no = Geitemelk\n}}\n[[pt-br:Leite de cabra]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "09cc8ef1105bc16713386c81b0c6aff776e414e91bea8a5d5624cbe92ebd019a"
 }

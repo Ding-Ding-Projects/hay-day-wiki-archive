@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candy Machine Products",
+    "Category:Ginger Products",
+    "Category:Honey Products",
+    "Category:Sesame Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candy Machine Products",
+      "Category:Ginger Products",
+      "Category:Honey Products",
+      "Category:Sesame Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -139,11 +153,12 @@
   "revisionId": 109913,
   "revisionTimestamp": "2026-05-09T22:28:27Z",
   "route": "/wiki/sesame-brittle-31889",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sesame_Brittle",
   "title": "Sesame Brittle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sesame_Brittle.png|200px|left|Sesame brittle]]\n\n{{Infobox\n |level = 78|price = 1 to 270|time = 1 h|xp = 32|source = {{Infoicon|candym|bigger|link=Candy Machine}}|base = 75|dia = 4|time3 = 51 min|title = [[Products|Product]]}}\n'''Sesame brittle''' is a [[products|product]] unlocked at [[experience]] level 78.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Making sesame brittle'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nSesame brittle is made in the [[Candy Machine]]. \n\nTo make sesame brittle, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nDue to a bug in the June 2020 update, the honey was removed; in the optional update which came out later in the week, this was fixed.\n\nIt takes 1 hour to make one piece, and 51 minutes in a fully [[Masteries|mastered]] machine. Each brittle gives players 32 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling sesame brittle'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Sesame brittle can be bought or sold for a maximum price of 2700 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make sesame brittle cost a total of 236 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Strategy Tips'''===\n*[[Boat]] orders never ask for Sesame Brittle.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Sesamkrokant\n|es = Crocante de sésamo\n|fr = Nougatine au Sésame\n|it = Croccante al sesamo\n|nl = Sesamkoekje\n|no = Sesamkrokan\n|ru = Кунжутные козинаки\n|zh = Sesame Brittle\n}}\n[[pt-br:Barra de gergelim]]\n\n[[Category:Candy Machine Products]]\n[[Category:Honey Products]]\n[[Category:Sesame Products]]\n[[Category:Ginger Products]]",
   "wikitextHash": "3c6828280c421ece9c0bdb9597b57aec5d516b6363007a5a664a042b742349f4"
 }

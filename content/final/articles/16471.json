@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Candle_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57766,
   "revisionTimestamp": "2016-01-21T18:05:34Z",
   "route": "/wiki/category%2Fcategory-candle-maker-products-16471",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Candle_Maker_Products",
   "title": "Category:Candle Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Candle Maker.png|thumb]]\nProducts of the [[Candle Maker]].\n[[Category:Products]]",
   "wikitextHash": "fabf027ef64d9d760708c503629047292450d32c3bb11d3aea095971dac09a0c"
 }

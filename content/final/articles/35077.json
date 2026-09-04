@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Lettuce_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98554,
   "revisionTimestamp": "2021-08-31T20:58:07Z",
   "route": "/wiki/category%2Fcategory-lettuce-products-35077",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lettuce_Products",
   "title": "Category:Lettuce Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Lettuce.png|thumb]]\nProducts of [[Lettuce]].\n[[Category:Products]]",
   "wikitextHash": "ed0e4ca9f5f27876668e64a43ac5a6594a3ec19d971efaa1a191ea67b0fdd035"
 }

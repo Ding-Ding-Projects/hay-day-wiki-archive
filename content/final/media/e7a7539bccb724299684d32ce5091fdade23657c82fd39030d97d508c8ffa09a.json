@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_Chop.png",
+  "filePageId": 36742,
+  "filePageRevisionId": 110028,
+  "filePageRevisionSha1": "393566d9de95c6042459b81546477745f52bad2c",
+  "filePageRevisionTimestamp": "2026-05-12T22:25:47Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "c05dd736b4a3605eefc6d1ff0c3ec2494264b36047fbfa6027ea77bdfa40604c",
   "height": 955,
   "immutableUrl": null,
   "mediaId": "File:Lamb Chop.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 28,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-12T22:25:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALamb%20Chop.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 295776,
   "sourceSha1": "786fee37f6419425a3674e7390f0673957dce741",

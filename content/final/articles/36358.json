@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108217,
   "revisionTimestamp": "2025-08-05T20:02:27Z",
   "route": "/wiki/category%2Fcategory-cherry-popsicle-products-36358",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Popsicle_Products",
   "title": "Category:Cherry Popsicle Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Cherry Popsicle.png|thumb]]\nProducts of [[Cherry Popsicle]].\n[[Category:Products]]",
   "wikitextHash": "161671032dc2d3218775714b2d293e2e05ff1bd6e2a76b52e3fc885a630c2c5c"
 }

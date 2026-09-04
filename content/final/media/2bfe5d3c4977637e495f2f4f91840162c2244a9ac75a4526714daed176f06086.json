@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Banana_Tree_Stage_3.png",
+  "filePageId": 26596,
+  "filePageRevisionId": 69468,
+  "filePageRevisionSha1": "a499b187bb88085c1f9b3ae264359dcbe67dab0d",
+  "filePageRevisionTimestamp": "2017-02-06T13:06:05Z",
+  "filePageWikitext": "2 Bunches of Bananas Ready to Harvest\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "2e419e411731f686da85ef59f6cc2e5ddef15fed71171d1145ddc8a06038f1f7",
   "height": 383,
   "immutableUrl": null,
   "mediaId": "File:Banana Tree Stage 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-12-17T07:20:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABanana%20Tree%20Stage%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 121167,
   "sourceSha1": "3a527c1b0f0be438078ea36bbc24336ae08202ff",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sunflower_Stage_4.png",
+  "filePageId": 29993,
+  "filePageRevisionId": 101399,
+  "filePageRevisionSha1": "d77b7652ff24362e542f92c371e64afce1671129",
+  "filePageRevisionTimestamp": "2022-07-16T12:51:48Z",
+  "filePageWikitext": "== Summary ==\nThanks to Macmillan99.\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "9c7b5b59e79e6fc383c8ae8e54481c3cb42a4102d093618bd4743418b836a826",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Sunflower Stage 4.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-07-16T12:51:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASunflower%20Stage%204.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 233136,
   "sourceSha1": "35b548caf19582af5870825edc5e04d5ab4b8984",

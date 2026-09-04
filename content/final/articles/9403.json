@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -372,11 +380,12 @@
   "revisionId": 109735,
   "revisionTimestamp": "2026-05-01T14:36:55Z",
   "route": "/wiki/sandwich-bar-9403",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sandwich_Bar",
   "title": "Sandwich Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sandwich Bar.png|200px|left|Sandwich Bar]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 61\n |price = 180,000\n |time = 2 d 4 h\n |slots = 2\n |dia = 67\n |size = 3×3\n}}\nThe '''Sandwich Bar''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 61.\n\nIt is used to make [[Bacon Toast|bacon toast]], [[Egg Sandwich|egg sandwiches]], [[Goat Cheese Toast|goat cheese toasts]], [[Honey Toast|honey toast]], [[Peanut Butter & Jelly Sandwich|peanut butter &amp; jelly sandwich]], [[Onion Melt|onion melts]], [[Veggie Bagel|veggie bagels]] and [[Hummus Wrap|hummus wraps]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 180,000 {{Infoicon|coin}} and takes 2 days and 4 hours (or 67 {{Infoicon|dia}}) to build the Sandwich Bar. It gives players 34 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Veggie Bagel|61|40m|532\n|Bacon Toast|65|1:40|648\n|Egg Sandwich|66|1:20/5|583\n|Honey Toast|69|1h|255/31\n|Peanut Butter and Jelly Sandwich|71|25m|601/80\n|Cucumber Sandwich|79|35m|464\n|Onion Melt|84|1:30|417\n|Goat Cheese Toast|92|50m|302\n|Hummus Wrap|109|25m|374\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Sandwich Bar originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Sandwich Bar:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Sandwich Bar Mastered.png|150px|Mastered Sandwich Bar]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Sandwich Bar Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*Every product, except onion melt, requires bread, so make sure you have a large quantity. Buying from the Daily Dirt is possible, but you should not rely on it.\n*Most sandwiches and toast require products from other machines: [[Olive Oil|olive oil]], [[mayonnaise]], [[honey]] or [[Raspberry Jam|raspberry jam]]. You should time your production in consequence.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Sandwichtheke\n|es = Sandwichería\n|fr = Sandwicherie\n|it = Snack bar\n|vi = Quầy sandwich\n|zh = Sandwich Bar\n}}\n[[pt-br:Balcão de sanduíches]]\n[[ru:Бутербродная]]\n[[Category:Production Buildings]]",
   "wikitextHash": "73fa867d11c7a72df486038cfe8addb09702faa78f44eaae6d420bd399062cba"
 }

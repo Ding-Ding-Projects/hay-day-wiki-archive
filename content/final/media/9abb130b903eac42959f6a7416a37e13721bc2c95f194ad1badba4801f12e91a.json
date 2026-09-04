@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel_Idle.png",
+  "filePageId": 34084,
+  "filePageRevisionId": 103458,
+  "filePageRevisionSha1": "a57bda5775f7e5529eb7b1550436dab1e763d83d",
+  "filePageRevisionTimestamp": "2023-07-20T20:46:41Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "00cd3ffab63af630bc7c8ee4cfad78d8166b61dd437121911722fe6a44011861",
   "height": 552,
   "immutableUrl": null,
   "mediaId": "File:Squirrel Idle.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T05:30:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASquirrel%20Idle.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 183283,
   "sourceSha1": "791ad04c1d4b4f9e5fa20763b3f414c29ce646bd",

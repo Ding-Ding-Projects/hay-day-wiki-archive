@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Go_Nuts!.png",
+  "filePageId": 33964,
+  "filePageRevisionId": 99618,
+  "filePageRevisionSha1": "c3600a735e623b5c647e81d503a084fa988fcfd4",
+  "filePageRevisionTimestamp": "2021-12-08T15:00:49Z",
+  "filePageWikitext": "== Summary ==\npeanut achievement\n== Licensing ==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "793982bf724952a0ae4530bcd21ba04a3579b4c48f35c24bcb7aaf284563a86b",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Go Nuts!.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-08T15:00:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGo%20Nuts!.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 86936,
   "sourceSha1": "4a2c9dc689c9126be83bf8510409d55f834eda0b",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brown_Elephant.png",
+  "filePageId": 28023,
+  "filePageRevisionId": 89217,
+  "filePageRevisionSha1": "389c299f7b7c48135f5efb2136ad4c0a897c0ff7",
+  "filePageRevisionTimestamp": "2019-10-28T14:02:46Z",
+  "filePageWikitext": "== Summary ==\nBrown Elephant\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6c11568998b65ef078bbf9f330401b44c4af41a5f8c5fc0adc676e4f5af77855",
   "height": 444,
   "immutableUrl": null,
   "mediaId": "File:Brown Elephant.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:02:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrown%20Elephant.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 174267,
   "sourceSha1": "b08ecb3fa608ad430c6305550d258d8756c61776",

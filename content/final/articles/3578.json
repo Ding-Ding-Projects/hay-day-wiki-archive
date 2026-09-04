@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Fishing Lake",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Fishing Lake",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Buildings?action=history",
@@ -26,11 +40,12 @@
   "revisionId": 57790,
   "revisionTimestamp": "2016-01-21T18:20:56Z",
   "route": "/wiki/category%2Fcategory-buildings-3578",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Buildings",
   "title": "Category:Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Game Features]]\n[[Category:Town]]\n[[Category:Farm]]\n[[Category:Fishing Lake]]",
   "wikitextHash": "4593647ae24aec53995383a88755678e6dac7f817357a33a029e35bd9dd46ca1"
 }

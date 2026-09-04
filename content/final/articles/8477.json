@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake Buildings",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake Buildings",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -331,11 +341,12 @@
   "revisionId": 109306,
   "revisionTimestamp": "2026-01-30T22:57:28Z",
   "route": "/wiki/lobster-pool-8477",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster_Pool",
   "title": "Lobster Pool",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster Pool Stage 6.png|200px|left|Lobster Pool ]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 44\n |price = 80,000\n |time = 2 d\n |seats = 1\n}}\nThe '''Lobster Pool''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 44.\n\nIt is used to extract [[Lobster Tail|lobster tails]] from [[lobster]]s.\n\n{{Clr}}----\n\n==='''Appearance'''===\nThe appearance of the pool changes as the player upgrades it:\n{| style=\"text-align: center;\n|-\n|[[File:Lobster Pool Stage 1.png|150px]]\n|[[File:Lobster Pool Stage 2.png|150px]]\n|[[File:Lobster Pool Stage 3.png|150px]]\n|-\n|'''With one seat'''\n|'''With two seats'''\n|'''With three seats'''\n|-\n|[[File:Lobster Pool Stage 4.png|150px]]\n|[[File:Lobster Pool Stage 5.png|150px]]\n|[[File:Lobster Pool Stage 6.png|150px]]\n|-\n|'''With four seats'''\n|'''With five seats'''\n|'''With six seats'''\n|}\n\n{{Clr}}----\n=== '''Repairing''' ===\n[[File:Lobster Pool Broken.png|150px|left|Broken pool]]\nIt costs 80,000{{Infoicon|coin}} and takes 2 days (or 65 {{Infoicon|dia}}) to repair the Lobster Pool. It gives players 32 {{Infoicon|xp}} when repaired.\n\nUnlike other machines, the Lobster Pool cannot be moved or rotated.\n\n{{Clr}}----\n=== '''Products''' ===\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"1\" style=\"text-align: center; margin: 1em auto; border-collapse: collapse; border: 1px solid #bbb;\"\n|- style=\"background: #ddd;\"\n|[[File:Lobster Tail.png|75px]]\n|- style=\"background: #ddd;\"\n|'''[[Lobster Tail|Lobster tail]]'''\n|- style=\"border: 1px solid #bbb;\"\n|Lvl 44\n|-\n|6 h\n|- style=\"border-top: 1px solid #bbb;\"\n|201{{Infoicon|coin}}\n|-\n|24{{Infoicon|xp}}\n|}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Lobster Pool originally has one seat available. Unlocking more slots costs {{Infoicon|coin}}:\n{| class=\"wikitable\" style=\"text-align: center; margin: 1rem auto 2rem;\" border=\"0\" cellpadding=\"2\" cellspacing=\"1\"\n!Level\n!Cost\n!Time\n!Skip\n!Exp\n|-\n| 2nd seat\n|45 000 {{Infoicon|coin|link=Coin}}\n|12h\n|35 {{Infoicon|diamond|link=Diamond}}\n|18 {{Infoicon|xp|link=Experience}}\n|-\n|3rd seat\n|52 500 {{Infoicon|coin|link=Coin}}\n|14h\n|37 {{Infoicon|diamond|link=Diamond}}\n|19 {{Infoicon|xp|link=Experience}}\n|-\n|4th seat\n| 63 800 {{Infoicon|coin|link=Coin}}\n|16h\n|40 {{Infoicon|diamond|link=Diamond}}\n|20 {{Infoicon|xp|link=Experience}}\n|-\n|5th seat\n|79 800 {{Infoicon|coin|link=Coin}}\n|18h\n| 42 {{Infoicon|diamond|link=Diamond}}\n|21 {{Infoicon|xp|link=Experience}}\n|-\n|6th seat\n|102 000 {{Infoicon|coin|link=Coin}}\n|20h\n|44 {{Infoicon|diamond|link=Diamond}}\n|22 {{Infoicon|xp|link=Experience}}\n|}\nLobsters cannot be put into the pool while it is being upgraded. Lobsters which were already in it cannot be taken out before the upgrade is complete.\n----\n=== '''Mastering''' ===\nUnlike other machines, the Lobster Pool cannot be mastered.\n----\n=== '''Strategy tips''' ===\n* Catching a [[lobster]] takes 6 hours so you can get a maximum of 6 tails every 12 hours (providing you steadily produce [[Lobster Trap|lobster traps]]).\n* Animations for the lobsters swimming in the pool get more varied as you upgrade the machine.\n----\n{{Navigation}}\n{{Languages\n|de = Hummerpool\n|es = Tanque para langostas\n|fr = Piscine de Homard\n|it = Vasca per aragoste\n|no = Hummerbasseng\n}}\n[[ru:Бассейн с раками]]\n\n[[Category:Production Buildings]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "f27b9f9f0d549eedf63cd00434f80845000cff3a6acbebc79f606fb279f336d3"
 }

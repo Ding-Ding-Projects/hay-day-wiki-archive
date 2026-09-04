@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel_House_Stage_1.png",
+  "filePageId": 33974,
+  "filePageRevisionId": 98273,
+  "filePageRevisionSha1": "943e5a5d1b894d04fddae86709016b99e9ee1563",
+  "filePageRevisionTimestamp": "2021-07-15T22:28:45Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "466eb6f829e766b6295983419f38fde12f0e07ab386bbacfee3ff801a72e7e68",
   "height": 598,
   "immutableUrl": null,
   "mediaId": "File:Squirrel House Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T05:12:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASquirrel%20House%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 474611,
   "sourceSha1": "6e58e5933e2d94fba5069d59fbe0259d63b2975f",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Maggies_Workbench.png",
+  "filePageId": 29377,
+  "filePageRevisionId": 78365,
+  "filePageRevisionSha1": "823c416f46273b957107a9b9800e40dc99f9be51",
+  "filePageRevisionTimestamp": "2018-04-13T17:30:10Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "f2604c1da5d6c03517911c9f426a28d7d021f4f2af102000b90d0925b6234611",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Maggies Workbench.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-13T17:27:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMaggies%20Workbench.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 205804,
   "sourceSha1": "a70113fdbb6638f3d1df884a226df3aac7fc763a",

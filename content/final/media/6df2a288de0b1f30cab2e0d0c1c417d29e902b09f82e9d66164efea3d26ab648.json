@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_211.png",
+  "filePageId": 35376,
+  "filePageRevisionId": 100516,
+  "filePageRevisionSha1": "dd7abd7f193c9a0959b269d91cbbf5821039b3af",
+  "filePageRevisionTimestamp": "2022-04-21T09:26:35Z",
+  "filePageWikitext": "== Summary ==\nLevel 211 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "d4e8c31862cf0bb5e5daa56ee5cb3438453621832c3027f3002622c7da28ec4a",
   "height": 364,
   "immutableUrl": null,
   "mediaId": "File:Level 211.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-20T14:59:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20211.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 617530,
   "sourceSha1": "7b4874b3246f3ce9ee8598f9e3e81c02194718f8",

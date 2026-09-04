@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals",
+    "Category:Fishing",
+    "Category:Fishing Lake"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals",
+      "Category:Fishing",
+      "Category:Fishing Lake"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fish?action=history",
@@ -31,11 +43,12 @@
   "revisionId": 65900,
   "revisionTimestamp": "2016-10-28T11:27:19Z",
   "route": "/wiki/category%2Fcategory-fish-23486",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fish",
   "title": "Category:Fish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pages related to [[Fish]].\n[[Category:Fishing]]\n[[Category:Fishing Lake]]\n[[Category:Farm Animals]]",
   "wikitextHash": "c9ce8d37ac1f0becfdd21b9f3e25bf7415341a3cd3363ba38c80e73badd5fbdb"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fresh Pasta Products",
+    "Category:Goat Milk Products",
+    "Category:Mushroom Products",
+    "Category:Pasta Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fresh Pasta Products",
+      "Category:Goat Milk Products",
+      "Category:Mushroom Products",
+      "Category:Pasta Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +149,12 @@
   "revisionId": 110090,
   "revisionTimestamp": "2026-05-16T20:26:59Z",
   "route": "/wiki/mushroom-pasta-31953",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushroom_Pasta",
   "title": "Mushroom Pasta",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mushroom Pasta.png|200px|left|Mushroom pasta]]\n\n{{Infobox\n|level = 101\n|price = 1 to 280\n|time = 1 h 15 min\n|xp = 33\n|source = {{Infoicon|pastak|bigger|link=Pasta Kitchen}}\n|base = 78\n|dia = 4\n|time3 = 1 h 3 min\n|title = [[Products|Product]]\n}}\n'''Mushroom pasta''' is a [[products|product]] unlocked at [[experience]] level 101.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making mushroom pasta'''===\n[[File:Pasta Kitchen.png|150px|left|Pasta Kitchen]]\nMushroom pasta is made in the [[Pasta Kitchen]].\n\nTo make the pasta, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mushroom.png|75px|Mushrooms|link=Mushroom]]\n|[[File:Fresh Pasta.png|75px|Fresh pasta|link=Fresh Pasta]]\n|[[File:Goat Milk.png|75px|Goat milk|link=Goat Milk]]\n|-\n|'''x5'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour and 15 minutes to make one bowl, and 1 hour and 3 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 33 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling mushroom pasta'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Mushroom pasta can be bought or sold for a maximum price of 2808 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make mushroom pasta cost a total of 243 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 mushroom pasta per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Pilznudeln\n|es = Pasta con setas\n|fr = Pâtes aux Champignons\n|it = Pasta coi funghi\n|nl = Paddenstoelenpasta\n|no = Sopp-pasta\n|ru = Паста с грибами\n|zh = Mushroom Pasta\n}}\n[[pt-br:Macarrão com cogumelos]]\n\n[[Category:Pasta Kitchen Products]]\n[[Category:Mushroom Products]]\n[[Category:Goat Milk Products]]\n[[Category:Fresh Pasta Products]]",
   "wikitextHash": "357d7df14faa2b47febcc07685e473de77cc90392198b44de421ac30c1d205ef"
 }

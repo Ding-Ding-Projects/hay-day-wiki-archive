@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Vouchers2.png",
+  "filePageId": 35615,
+  "filePageRevisionId": 101769,
+  "filePageRevisionSha1": "d7d8cac94ab276c54313b9b075a27fe02d26034e",
+  "filePageRevisionTimestamp": "2022-10-16T21:31:36Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Vouchers]]",
+  "filePageWikitextHash": "ce2d622f0993fc5a0f4c028deb7d9b756b1046c236996c30b011f9d4bbd11f64",
   "height": 320,
   "immutableUrl": null,
   "mediaId": "File:Vouchers2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-16T21:31:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AVouchers2.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 160937,
   "sourceSha1": "ae1fabf876e26c47b4c33825e75c342935c528c0",

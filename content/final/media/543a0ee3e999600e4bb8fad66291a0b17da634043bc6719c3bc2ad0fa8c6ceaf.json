@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Treats_Maker_Mastery_II.png",
+  "filePageId": 36163,
+  "filePageRevisionId": 105996,
+  "filePageRevisionSha1": "d2f45ef9f2c422d6703503313c2f92183c3154ac",
+  "filePageRevisionTimestamp": "2024-10-21T18:06:35Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "e67de001443b57c6dc6f7e331a364d80067f2f9805db338f0fde353406150abe",
   "height": 265,
   "immutableUrl": null,
   "mediaId": "File:Halloween Treats Maker Mastery II.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-21T18:06:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHalloween%20Treats%20Maker%20Mastery%20II.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 179172,
   "sourceSha1": "87a3a69ccb27b349516653e3a395a1d6605e5b43",

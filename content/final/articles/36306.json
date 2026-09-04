@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Pages with broken file links",
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Pages with broken file links",
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -220,11 +232,12 @@
   "revisionId": 110857,
   "revisionTimestamp": "2026-08-08T12:43:28Z",
   "route": "/wiki/capybara-36306",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Capybara",
   "title": "Capybara",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Brown Capybara.png|200px|left|Capybara|link=Special:FilePath/Brown Capybara.png]]\n \n{{Infobox\n |title = [[Animals|Animal]]\n |rlevel = 3\n |needs = {{Infoicon|wheatb|big|link=Wheat Bundle}}\n |time = every 10 h\n |xp = 25\n |dia = ?\n}}\n \n'''Capybara''' are [[sanctuary]] and pet [[animals]]. They are unlocked at [[reputation]] level 3.\n \nLike all other sanctuary animals, players can only have four of them, one of each type.\n{{Clr}}\n----\n==='''Appearance'''===\nCapybara have two different appearances: brown and red.\n \n<gallery>\nBrown Capybara.png|Brown\nRed Capybara.png|Red\nBrown Capybara Pup.png|Brown Pup\nRed Capybara Pup.png|Red Pup\n</gallery>\n{{Clr}}\n----\n==='''Unlocking capybara'''===\n[[File:Capybara Puzzles.png|150px|left|Completed Puzzles-Adult]]\nUnlike other animals, capybara cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n \nOnce players have obtained a first capybara, the puzzle for the second capybara is unlocked. After both adult capybara have been added to the sanctuary, the puzzle for one of the pups is unlocked.\n{{Clr}}\n----\n==='''Placing capybara===\nPlayers must have a capybara house to be able to place the animal in the sanctuary. The capybara house is free and can be obtained from the [[Shop]] {{Infoicon|shop|bigger|link=Shop}}.\n \nWhen a second capybara is added to the sanctuary, an upgraded capybara house is obtained from the Shop. Upgrading does not cost anything. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n \n<gallery hideaddbutton=\"true\">\nCapybara Nest Stage 1.png|Stage 1\nCapybara Nest Stage 2.png|Stage 2\nCapybara Nest Stage 3.png|Stage 3\nCapybara Nest Stage 4.png|Stage 4\n</gallery>\n{{Clr}}\n----\n==='''Feeding capybara'''===\n[[File:Wheat Bundle.png|150px|left|Wheat bundle]]\nCapybara are fed with [[Wheat Bundle|wheat bundles]]. Once capybara have eaten eat they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal and a chance to get [[supplies]]. Capybara stay asleep otherwise.\n \nCapybara which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n*Tip: Waking up sanctuary animals one by one instead of using a whistle may increase your chance of getting [[supplies]].\n{{Clr}}\n----\n==='''Decorations'''===\nEach capybara unlocks some [[decorations]] in the shop as specified below:\n<gallery>\nCoral Tree.png|Coral Tree (Brown)\nWhite Ginger Lily.png|White Ginger Lily (Red)\nWater Hyacinth.png|Water Hyacinth (Brown Pup)\nTropical Feast.png|Tropical Feast (Red Pup)\n</gallery>\nWith each animal players are given the first pair of decorations for free.\n----\n{{Navigation}}\n{{Languages\n|de = Wasserschweine\n|es = Capibara\n|ru = Капибары\n}}\n \n[[Category:Sanctuary Animals]]",
   "wikitextHash": "8160417a0d77f40c07e3ceb34c888b9704b29e2ffaae0ba5bbaf5eff6f28765b"
 }

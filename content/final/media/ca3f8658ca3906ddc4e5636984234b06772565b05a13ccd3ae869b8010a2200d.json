@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mary.png",
+  "filePageId": 19269,
+  "filePageRevisionId": 89337,
+  "filePageRevisionSha1": "6577dcf388f51a07534c67f8864ff897a060ecdc",
+  "filePageRevisionTimestamp": "2019-10-28T16:24:58Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "934f36b1190fab4434ee8657279a92331833ab4df3f66e1dae250f108c097fad",
   "height": 645,
   "immutableUrl": null,
   "mediaId": "File:Mary.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:24:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMary.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 161527,
   "sourceSha1": "9f00cf3eedad7f0e78d3dd9d0ee8e6a476838422",

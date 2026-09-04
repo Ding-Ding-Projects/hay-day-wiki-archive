@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Feather.png",
+  "filePageId": 17019,
+  "filePageRevisionId": 65947,
+  "filePageRevisionSha1": "323f7bd95ae3684663710b2d3808f231703daea9",
+  "filePageRevisionTimestamp": "2016-10-28T13:12:31Z",
+  "filePageWikitext": "Picture of feathers.\n{{License SC}}\n[[Category:Image Animal Goods‎]]",
+  "filePageWikitextHash": "e6b5cfa457742471541fe888fa2d7a7d3d28b74917b9ce8e940679b43956d0c9",
   "height": 200,
   "immutableUrl": null,
   "mediaId": "File:Duck Feather.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-14T21:21:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADuck%20Feather.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 45446,
   "sourceSha1": "b1a65dad449c8346d83b6e8f330f5e4ebb43f67f",

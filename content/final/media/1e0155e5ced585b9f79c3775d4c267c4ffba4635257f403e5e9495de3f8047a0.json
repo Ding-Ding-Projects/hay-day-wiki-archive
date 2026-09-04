@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_Train.png",
+  "filePageId": 30820,
+  "filePageRevisionId": 84265,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2018-12-23T22:19:28Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 606,
   "immutableUrl": null,
   "mediaId": "File:Gingerbread Train.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-23T22:19:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGingerbread%20Train.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 277965,
   "sourceSha1": "8012f21a12da6e288bca9890e68bac4801d30fa0",

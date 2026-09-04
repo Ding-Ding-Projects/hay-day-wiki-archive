@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Plain Waffles Products",
+    "Category:Raspberry Products",
+    "Category:Syrup Products",
+    "Category:Waffle Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Plain Waffles Products",
+      "Category:Raspberry Products",
+      "Category:Syrup Products",
+      "Category:Waffle Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +148,12 @@
   "revisionId": 110448,
   "revisionTimestamp": "2026-06-07T21:03:14Z",
   "route": "/wiki/berry-waffles-35745",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Berry_Waffles",
   "title": "Berry Waffles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Berry Waffles.png|left|184x184px|Berry Waffles]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 114\n |price = 1 to 604\n |time = 35 min\n |source = {{Infoicon|wafflem|bigger|link=Waffle Maker}}\n |xp = 72\n |base = 168\n |dia = 3\n |time3 = 29 min\n}}\n'''Berry Waffles''' is a [[products|product]] unlocked at [[experience]] level 114. It was added in Spring 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Berry Waffles'''===\n[[File:Waffle Maker.png|150px|left|Waffle Maker]]\nBerry Waffle are made in the [[Waffle Maker]].\n\nTo make berry waffles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Waffles.png|75px|Plain Waffles|link=Plain Waffles]]\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|'''x2'''\n|}\nIt takes 35 Minutes to make berry waffles, and 29 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 72 [[experience]] points.\n\n{{Clr}}----\n==='''Selling berry waffles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Berry waffles can be bought or sold for a maximum price of 6,048 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a berry waffles costs 590 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 berry waffles per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n{{Navigation}}\n{{Languages\n|de = Waffeln mit Beeren\n|es = Gofres con frutos rojos\n|it = Waffle ai frutti di bosco\n|nl = Wafels met Bessen\n|no = Bærvafler\n|ru = Вафли с ягодами\n}}\n[[pt-br:Waffles com frutinhas]]\n\n[[Category:Waffle Maker Products]]\n[[Category:Plain Waffles Products]]\n[[Category:Syrup Products]]\n[[Category:Raspberry Products]]\n[[Category:Blackberry Products]]",
   "wikitextHash": "d689a0b387ef01c65fd5920ecddbe7bd306358de9b19a4eb75142e9376855bef"
 }

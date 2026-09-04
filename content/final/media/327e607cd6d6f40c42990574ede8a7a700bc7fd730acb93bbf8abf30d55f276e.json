@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sulphur_Crested_Cockatoo.png",
+  "filePageId": 35572,
+  "filePageRevisionId": 101598,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2022-10-03T21:50:28Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 595,
   "immutableUrl": null,
   "mediaId": "File:Sulphur Crested Cockatoo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-03T21:49:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASulphur%20Crested%20Cockatoo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 170264,
   "sourceSha1": "de3e493340fc43ef9e15d733171bfc0a1fdec8af",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Prized_Pig_Painting_Statue.png",
+  "filePageId": 31606,
+  "filePageRevisionId": 86836,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2019-07-07T00:02:18Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 618,
   "immutableUrl": null,
   "mediaId": "File:Prized Pig Painting Statue.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-07-06T12:22:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APrized%20Pig%20Painting%20Statue.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 304441,
   "sourceSha1": "163fbbbe262a17c4f5d7216cc83a4674e6e92450",

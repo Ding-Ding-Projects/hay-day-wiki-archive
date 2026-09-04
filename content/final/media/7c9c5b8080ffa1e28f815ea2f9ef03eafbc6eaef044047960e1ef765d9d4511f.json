@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Center.png",
+  "filePageId": 14775,
+  "filePageRevisionId": 73832,
+  "filePageRevisionSha1": "dc28daf5dd36b5ef54bbd5794818aaf4829cef2d",
+  "filePageRevisionTimestamp": "2017-10-21T10:27:47Z",
+  "filePageWikitext": "Pictures of pages 2 and 3 of the Catalogue (Small Mystery Package and Medium Mystery Package).\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "e57c986d3d325e18cf819a68a7c56060cbd29d6ab5074b0affbf90cc330789e8",
   "height": 686,
   "immutableUrl": null,
   "mediaId": "File:Catalogue Center.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-16T20:54:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACatalogue%20Center.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 391733,
   "sourceSha1": "6bda064498f8c9155da7ab6094be9f62bb880558",

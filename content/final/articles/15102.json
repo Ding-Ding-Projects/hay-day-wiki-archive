@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Shop?action=history",
@@ -35,11 +43,12 @@
   "revisionId": 32469,
   "revisionTimestamp": "2014-08-08T14:48:56Z",
   "route": "/wiki/category%2Fcategory-image-shop-15102",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Shop",
   "title": "Category:Image Shop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to the [[Shop]]. See [[:Category:Images]] for images of production buildings, decorations, etc.\n[[Category:Images]]",
   "wikitextHash": "77450216747a72b8ad768691b322b375be1935e3925a97b54637712c30d4f0fa"
 }

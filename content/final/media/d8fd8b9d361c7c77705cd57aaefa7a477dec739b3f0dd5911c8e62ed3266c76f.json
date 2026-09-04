@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dv_example_one.jpg",
+  "filePageId": 6267,
+  "filePageRevisionId": 54483,
+  "filePageRevisionSha1": "6319ad8d05728aadb69dcc197bffd685259b1de1",
+  "filePageRevisionTimestamp": "2015-10-14T10:41:55Z",
+  "filePageWikitext": "\n[[Category:Image User]]",
+  "filePageWikitextHash": "bec19baa054da263f1fd7220d4ead034fd0e54151193702ff7ff969ca031a26b",
+  "height": 781,
+  "immutableUrl": null,
+  "mediaId": "File:Dv example one.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-06-20T09:28:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ADv%20example%20one.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 205230,
+  "sourceSha1": "123bdcebb2e9127da7e4e10fd23af967ff5ddade",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/45/Dv_example_one.jpg/revision/latest?cb=20130620092806",
+  "title": "File:Dv example one.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 667
+}

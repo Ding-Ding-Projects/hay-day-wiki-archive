@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Policy?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93090,
   "revisionTimestamp": "2020-04-11T17:37:34Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-policy-33406",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Policy",
   "title": "Hay Day Wiki:Policy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Hay Day Wiki:Rules]]",
   "wikitextHash": "602b783a5793e76d060ddd65bf1ed6c1b1403a38b2fac68fb28a088ebbffdc2a"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Porridge_Bar_Mastered.png",
+  "filePageId": 35919,
+  "filePageRevisionId": 108655,
+  "filePageRevisionSha1": "7de4d91f7f3917a63d6b211e859dcdeb1a7a71dd",
+  "filePageRevisionTimestamp": "2025-09-26T02:16:05Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "3cab6ce95f1d16648b9899793f9f7a6e1682e2633270630862b8e17783e0ecc8",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Porridge Bar Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T02:16:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APorridge%20Bar%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 276768,
   "sourceSha1": "be43c79950f272c994a071f3c4c8df9cecdbf29f",

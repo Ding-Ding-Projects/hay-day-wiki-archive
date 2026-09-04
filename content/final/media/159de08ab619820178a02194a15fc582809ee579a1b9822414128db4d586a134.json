@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Paint_Bucket.png",
+  "filePageId": 14401,
+  "filePageRevisionId": 89203,
+  "filePageRevisionSha1": "653bfae60ba56b33dc7c745fab211990f646ad88",
+  "filePageRevisionTimestamp": "2019-10-28T13:16:19Z",
+  "filePageWikitext": "Picture of a paint bucket.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "531162fbeead2cd6515b35e078a515b97b32247fff41eee38fb5e46732b5dcea",
   "height": 225,
   "immutableUrl": null,
   "mediaId": "File:Paint Bucket.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:16:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APaint%20Bucket.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 55060,
   "sourceSha1": "2258767ced574edc3e675f6e78aa434f639b51b4",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Neighborhood"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Neighborhood"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -74,11 +82,12 @@
   "revisionId": 104050,
   "revisionTimestamp": "2023-10-03T00:25:36Z",
   "route": "/wiki/neighborhood-management-30478",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Neighborhood_Management",
   "title": "Neighborhood Management",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[Neighborhood]]s have several '''management options''' and settings. Most options can only be set by neighborhood leaders.\n----\n==='''Positions'''===\n[[File:Neighborhoods AdminUI Members.png|150px|left|Management tab]]\nThere are 4 different hierarchical positions within a neighborhood:\n*Leader\n*Co-leaders\n*Elders\n*Members\n\nThere can only be one leader per neighborhood. When a leader leaves their neighborhood their position falls to the oldest member in hierarchical order. If they were the only member, the neighborhood is deleted.\n----\n==='''Abilities'''===\nPosition within the neighborhood grants players some abilities.\n* Leaders \"own\" and administer the neighborhoods: they can edit settings, promote or demote other members, invite or kick members out, accept or decline membership requests, trash [[derby]] tasks and opt out members of derbies. (When a member is kicked from a neighborhood there is a 24 hour cool down period before they can rejoin.)  They can also send messages to all members and pin up to 5 messages to the chat board.\n* Co-leaders have the same abilities as leaders but cannot demote, kick out or opt out the leader. Co-leaders cannot demote other co-leaders either.\n* Elders can invite other players, and accept or decline requests. Elders can also trash derby tasks.\n* Members have no rights.\n\nAll neighborhood members can report other members in the chat tab. If at least three different members report the same player the player is automatically banned from the chat for 24 hours.\n----\n==='''Settings'''===\nLeaders can set different options for their neighborhoods:\n*Its name\n*Its emblem\n*Its type\n*Its minimum required level\n*Its preferred chat language\n*Its tags\n\nThey can also enable or disable the derby task log.\n----\n==='''Emblems'''===\n[[File:Neighborhood Emblem.png|150px|left|An emblem]]\nEmblems look like [[wikipedia:escutcheon (heraldry)|escutcheons]]. They have:\n* a shape (round, square, shield, starburst, heart, facet, flower, star or rhombus)\n* a symbol (representing various elements of the game)\n* a background pattern (whirlpool, stripes, check, points, shine or no pattern)\n* colors for the symbol and the shape (orange, yellow, green, cyan, blue, purple, pink, red, coral, brown, gray or white)\n\nWhen a player joins a neighborhood its emblem gets added to the neighborhood building.\n{{Clr}}\n----\n==='''Type'''===\nThere are three neighborhood types:\n* Open neighborhoods: anyone can join them.\n* Locked neighborhoods: players must send membership requests, which are then accepted or denied.\n* Private neighborhoods: players can only join if they have received invites.\n[[Category:Neighborhood]]\n\n{{Languages\n|es = Administración de vecindario\n}}",
   "wikitextHash": "92211f1891234d635419e22d93d2181d61cc06a425d64086ad0654c4660c5ef4"
 }

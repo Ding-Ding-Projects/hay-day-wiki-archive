@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_185.png",
+  "filePageId": 34309,
+  "filePageRevisionId": 98231,
+  "filePageRevisionSha1": "5a1700af308dc4ee40c59d453cfaae3af7920108",
+  "filePageRevisionTimestamp": "2021-07-15T22:06:21Z",
+  "filePageWikitext": "== Summary ==\nLevel 185 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "9397c96e5f6bf44c7e5a0a7ba6a100c408f6e3b558dd2b4869930050bfdbed46",
   "height": 370,
   "immutableUrl": null,
   "mediaId": "File:Level 185.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-08-19T14:45:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20185.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 630526,
   "sourceSha1": "82f9582611e87fc8c5510f1744994472bc4646ca",

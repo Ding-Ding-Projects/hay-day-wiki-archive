@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roasted_Tomatoes.png",
+  "filePageId": 14665,
+  "filePageRevisionId": 88555,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2019-10-23T23:31:09Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 200,
   "immutableUrl": null,
   "mediaId": "File:Roasted Tomatoes.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T23:31:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARoasted%20Tomatoes.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 59807,
   "sourceSha1": "44b439fbe868f2e61fc83a8ea9fa08400f134335",

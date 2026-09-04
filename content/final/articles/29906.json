@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Mint Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Mint Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +190,12 @@
   "revisionId": 107917,
   "revisionTimestamp": "2025-05-25T23:11:23Z",
   "route": "/wiki/mint-ice-cream-29906",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mint_Ice_Cream",
   "title": "Mint Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mint Ice Cream.png|200px|left|Mint ice cream]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 85\n |price = 1 to 288\n |time = 2 h 15 min\n |xp = 34 \n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |base = 80\n |dia = 5\n |time3 = 1 h 54 min\n}}\n'''Mint ice cream''' is a [[Products|product]] unlocked at [[experience]] level 85.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mint ice cream'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nMint ice cream is made in the [[Ice Cream Maker]].\n\nTo make the ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|[[File:White Sugar.png|75px|link=White Sugar|White sugar]]\n|[[File:Mint.png|75px|link=Mint|Mint]]\n|[[File:Cacao.png|75px|link=Cacao|Cacao]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours and 15 minutes to make one bowl of ice cream, and 1 hour and 54 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling mint ice cream'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Mint ice cream can be bought or sold for a maximum price of 2880 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make mint ice cream costs 250 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 mint ice cream per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Minzeis\n|es = Helado de menta\n|fr = Glace à la Menthe\n|it = Gelato alla menta\n|nl = Muntijs\n|no = Mynteis\n|ru = Мятное мороженое\n|zh = Mint Ice Cream\n}}\n[[pt-br:Sorvete de hortelã]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Cacao Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "62918d2260b90394e34bcf8f42be8799131f3ce26b5fb6ff9bfc790e3d06e02f"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Honeycomb_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98586,
   "revisionTimestamp": "2021-08-31T21:25:44Z",
   "route": "/wiki/category%2Fcategory-honeycomb-products-35109",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Honeycomb_Products",
   "title": "Category:Honeycomb Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Honeycomb.png|thumb]]\nProducts of [[Honeycomb]].\n[[Category:Products]]",
   "wikitextHash": "9b222edccd97843f7f71d2ec7ea179c73e061792326ac35ff47d23a37f7b87b1"
 }

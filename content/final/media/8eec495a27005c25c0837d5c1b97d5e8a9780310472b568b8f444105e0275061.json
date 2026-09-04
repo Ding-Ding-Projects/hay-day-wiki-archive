@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Generous_Neighbor_II_Reward.png",
+  "filePageId": 25042,
+  "filePageRevisionId": 75191,
+  "filePageRevisionSha1": "1ff0b6fe0562f476df9caafc070381401f8d5ffe",
+  "filePageRevisionTimestamp": "2017-11-26T14:21:12Z",
+  "filePageWikitext": "==Description==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "b88a148f29823d029c10fa1be894362f6152ab7c3b66ef22332c54ca4e8aa9bf",
   "height": 306,
   "immutableUrl": null,
   "mediaId": "File:Generous Neighbor II Reward.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-08-02T15:55:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGenerous%20Neighbor%20II%20Reward.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 88667,
   "sourceSha1": "6d213172213352d2d2e456cccdf7c3cbd2fb916f",

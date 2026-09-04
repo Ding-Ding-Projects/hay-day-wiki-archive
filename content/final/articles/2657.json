@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Currencies?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 57789,
   "revisionTimestamp": "2016-01-21T18:20:26Z",
   "route": "/wiki/category%2Fcategory-currencies-2657",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Currencies",
   "title": "Category:Currencies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This page contains links to the different [[currencies]] used in Hay Day.\n[[Category:Game Features]]",
   "wikitextHash": "51078166ad55020001d4a1d401e71d939cf920c7ec1fe958635bd01769f73a77"
 }

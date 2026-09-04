@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Black_Bean_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 109252,
   "revisionTimestamp": "2026-01-26T21:15:54Z",
   "route": "/wiki/category%2Fcategory-black-bean-products-36599",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Black_Bean_Products",
   "title": "Category:Black Bean Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Black Bean.png|thumb]]\nProducts of [[Black Bean]].\n[[Category:Products]]",
   "wikitextHash": "1ac368d4426561ade9b6653c83ae48363d7ba9f137a41bbfcbaeced832ba88f0"
 }

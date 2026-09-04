@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Derby.png",
+  "filePageId": 30253,
+  "filePageRevisionId": 87867,
+  "filePageRevisionSha1": "6a7adebc374cff906764ad7c5388c76f41ffeb85",
+  "filePageRevisionTimestamp": "2019-09-21T09:37:57Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "421c7ff9ad79bdacc978a30f85227d63be228d9cc9541647a36876d11896bc75",
   "height": 551,
   "immutableUrl": null,
   "mediaId": "File:Fishing Derby.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-08-09T11:42:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Derby.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 411052,
   "sourceSha1": "3d67be12cf28e0af62d0c7f5dea66ba5160adb97",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Perfumerie Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Perfumerie Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -111,11 +121,12 @@
   "revisionId": 110424,
   "revisionTimestamp": "2026-06-06T18:14:56Z",
   "route": "/wiki/calming-diffuser-36211",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Calming_Diffuser",
   "title": "Calming Diffuser",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Calming Diffuser.png|left|184x184px|Calming Diffuser]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 116\n |price = 1 to 169\n |time = 25 min\n |source = {{Infoicon|perfumerie|bigger|link=Perfumerie}}\n |xp = 20\n |base = 47\n |dia = 3\n |time3 = 21 min\n}}\n'''Calming Diffuser''' is a [[products|product]] unlocked at [[experience]] level 116. It was added in the Winter 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Calming Diffuser'''===\n[[File:Perfumerie.png|150px|left|Perfumerie]]\nCalming Diffuser is made in the [[Perfumerie]].\n\nTo make Calming Diffuser, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chamomile Essential Oil.png|75px|Chamomile Essential Oil|link=Chamomile Essential Oil]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|-\n|'''×1'''\n|'''x3'''\n|}\nIt takes 25 Minutes to make Calming Diffuser, and 21 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Calming Diffuser'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Calming Diffuser can be bought or sold for a maximum price of 1692 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Calming Diffuser costs 147 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 3 Calming Diffuser per crate, up to a total of 12 per boat.\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Entspannungsduft\n|es = Difusor relajante\n|it = Diffusore di profumo rilassante\n|no = Beroligende spreder\n|ru = Ромашковый диффузор\n}}\n[[pt-br:Difusor calmante]]\n\n[[Category:Perfumerie Products]]",
   "wikitextHash": "ddb0f069c60ab6a6da802b733439090fdb8f7b0bceaee803555a86c97e7bd828"
 }

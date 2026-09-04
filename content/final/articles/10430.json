@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Donkeys"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Donkeys"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -364,6 +372,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -389,6 +398,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -403,11 +413,12 @@
   "revisionId": 107740,
   "revisionTimestamp": "2025-04-13T20:56:17Z",
   "route": "/wiki/anatolian-donkey-10430",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Anatolian_Donkey",
   "title": "Anatolian Donkey",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Anatolian Donkey.png|200px|left|Anatolian donkey]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 52 • 55\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 1 h\n |cost= {{Infoicon|greenv|link=Voucher}}2 {{Infoicon|bluev|link=Voucher}}2 {{Infoicon|purplev|link=Voucher}}2 {{Infoicon|goldv|link=Voucher}}20\n |xp = 35\n |dia = 1,790\n}}\n'''Anatolian donkeys''' are pet [[animals]]. A first donkey is unlocked at [[experience]] level 52 and a second one at level 55.\n\nThey give players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n\n----\n==='''Buying'''===\n[[File:Donkey Stable.png|150px|left|Donkey stable]]\nEach donkey costs 2 green [[voucher]]s, 2 blue ones, 2 purple ones, and 20 golden ones, or 1,790 [[diamond]]s. They must be placed near a [[Donkey Stable|donkey stable]] to be bought. Players can have two Anatolian donkeys.\n\nDonkeys and donkey stables can be bought from the [[Shop]]. Each stable can house 3 donkeys. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\n[[File:DonkeyStable2.png|150px|left|Giving carrots]]\nWhen given [[carrot]]s donkeys eat then roam around their stable for one hour and finally fall asleep. Players can immediately wake them up to receive 35 {{Infoicon|xp}} per animal. Donkeys stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking donkeys one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Anatolischer Esel\n|es = Burro anatolio\n|fr = Âne d'Anatolie\n|it = Asino dell'Anatolia\n|no = Anatolier-esel\n|ru = Анатолийский ослик\n}}\n\n[[Category:Donkeys]]",
   "wikitextHash": "81a0c22f34edff6745297742825fa3ede1902e33083d93e36cbb114cda9f455c"
 }

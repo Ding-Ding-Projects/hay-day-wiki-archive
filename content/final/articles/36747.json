@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Grilled Lamb Skewer Products",
+    "Category:Potato Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Grilled Lamb Skewer Products",
+      "Category:Potato Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 110552,
   "revisionTimestamp": "2026-06-16T21:43:02Z",
   "route": "/wiki/lamb-soup-36747",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_Soup",
   "title": "Lamb Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lamb Soup.png|200px|left|Lamb soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 46\n |price = 1 to 180\n |time = 2 h \n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 21\n |base = 50\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Lamb soup''' is a [[Products|product]] unlocked at [[experience]] level 46. It was added since May 2026 Update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making lamb soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nLamb soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grilled Lamb Skewer.png|75px|Grilled lamb skewer|link=Grilled Lamb Skewer]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 2 hours to make one bowl of lobster soup, and 1 hours and 42 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 21 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling lobster soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lobster soup can be bought or sold for a maximum price of 1,800 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make lamb soup costs 140 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 lamb soup per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|es = Sopa de cordero\n|de = Lammsuppe\n|no = Lammesuppe\n|ru = Суп из ягнятины\n}}\n[[pt-br:Sopa de cordeiro]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Grilled Lamb Skewer Products]]\n[[Category:Potato Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "31ba2db7325a7ea8498f0cfc914fe436291da2805940146bac8ff483698c0dfd"
 }

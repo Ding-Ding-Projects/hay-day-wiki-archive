@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sprinkled_Donut.png",
+  "filePageId": 34946,
+  "filePageRevisionId": 104789,
+  "filePageRevisionSha1": "b7aa8ecf476c1c573bd3d4a4e24b22fdbcdfcbe4",
+  "filePageRevisionTimestamp": "2024-02-12T10:18:44Z",
+  "filePageWikitext": "== Summary ==\nImage of [[Sprinkled Donut|sprinkled donut]], place holder until actual image woth no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "2d462e1d00aaba7a29f75c3267a4330f5b0a971b9fe08eb6a9fec923d40208e5",
   "height": 2396,
   "immutableUrl": null,
   "mediaId": "File:Sprinkled Donut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T10:18:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASprinkled%20Donut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2192034,
   "sourceSha1": "6cf1135934dd3375434ab4756456d083591116bd",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Rainbow.png",
+  "filePageId": 29917,
+  "filePageRevisionId": 81569,
+  "filePageRevisionSha1": "a8e2f3e5b54beeee914a4ac44dae7c32867a59ce",
+  "filePageRevisionTimestamp": "2018-06-30T11:58:54Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "86b8e3e01607efd0c047f78a20522202a9d6441fe7df4a218ee03fb87dac8b9c",
   "height": 240,
   "immutableUrl": null,
   "mediaId": "File:Crates Rainbow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-06-23T18:35:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrates%20Rainbow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 49615,
   "sourceSha1": "69869757325ad7bb2087f79ef60ccea423af19d5",

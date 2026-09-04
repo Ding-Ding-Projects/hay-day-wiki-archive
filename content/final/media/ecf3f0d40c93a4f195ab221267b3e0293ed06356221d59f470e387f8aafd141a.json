@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_92_2021.jpg",
+  "filePageId": 35230,
+  "filePageRevisionId": 100026,
+  "filePageRevisionSha1": "700aecf6694e5c9556001a8374d3226d529a599e",
+  "filePageRevisionTimestamp": "2022-01-09T22:05:56Z",
+  "filePageWikitext": "level 92 before the fall update 2021\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "74c498450cfad82dced27643c4fe7aa0158f2aae2750428969ec347b74aa8dce",
+  "height": 727,
+  "immutableUrl": null,
+  "mediaId": "File:Level 92 2021.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-19T20:44:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel%2092%202021.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 97567,
+  "sourceSha1": "833cfcce1650d15896068d2a4d2fef74f33ef779",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Level_92_2021.jpg/revision/latest?cb=20211019204438",
+  "title": "File:Level 92 2021.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1024
+}

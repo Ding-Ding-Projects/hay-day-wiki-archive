@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Field_Crops?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 60189,
   "revisionTimestamp": "2016-03-19T17:35:53Z",
   "route": "/wiki/category%2Fcategory-field-crops-7546",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Field_Crops",
   "title": "Category:Field Crops",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Field crops are plants planted in a [[Farm|field]].\n[[Category:Crops]]",
   "wikitextHash": "8f798c8f47aede2523cf94144eff817c550fafdaa8c647868285625286642ff6"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 14761,
   "revisionTimestamp": "2013-07-24T16:51:46Z",
   "route": "/wiki/category%2Fcategory-image-farm-7698",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Farm",
   "title": "Category:Image Farm",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image Farm\n[[Category:Images]]",
   "wikitextHash": "056a53ecdc21b4fd6095b2aacfaec57bdd15c73425e05e343cbc6990a4994b93"
 }

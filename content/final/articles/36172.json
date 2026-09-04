@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blue Sweater Products",
+    "Category:Brown Sugar Products",
+    "Category:Chili Pepper Products",
+    "Category:Halloween Treats Maker Products",
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blue Sweater Products",
+      "Category:Brown Sugar Products",
+      "Category:Chili Pepper Products",
+      "Category:Halloween Treats Maker Products",
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 108758,
   "revisionTimestamp": "2025-10-21T17:14:43Z",
   "route": "/wiki/skull-treats-36172",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Skull_Treats",
   "title": "Skull Treats",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{New}}\n[[File:Skull Treats.png|200px|left|Skull Treats]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 35\n |halloweenhat = 25\n |time = 20m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 109\n |dia = 20\n}}\n'''Skull Treats''' are a [[products|product]] unlocked at [[experience]] level 35. It's a special item used only for the Halloween event. In 2025, they are unlocked at level 45.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Skull Treats'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nSkull Treats are made in the [[Halloween Treats Maker]].\n\nTo make skull treats, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Sweater.png|75px|Blue Sweater|link=Blue Sweater]]\n|[[File:Chili Pepper.png|75px|Chili Pepper|link=Chili Pepper]]\n|[[File:Brown Sugar.png|75px|Brown Sugar|link=Brown Sugar]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x2'''\n|}\n\nIt takes 20 minutes to make treats. Each treats gives players 109 [[experience]] points.\n\nTo make a skull treat in the '''Halloween 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Colorful Frogs.png|75px|Colorful Frogs|link=Colorful Frogs]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make one treat, and 5 minutes in a 1-star mastered station. Each treat gives players 143 experience points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 treats per crate, up to a total of 4 per boat. Each treats used on a boat will be rewarded with 25 [[Halloween Hat]]s, 27 halloween hats in a 1-star and mastered maker, 35 halloween hats in a 2-star and 50 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Blue Sweater Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Brown Sugar Products]]\n\n{{Languages\n|es = Calaveras de golosina\n}}",
   "wikitextHash": "047f9198da4050907adeadfb144e3c20b9b63de31159bc5846f7adab468b902c"
 }

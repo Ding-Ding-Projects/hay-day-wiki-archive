@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57803,
   "revisionTimestamp": "2016-01-21T18:29:29Z",
   "route": "/wiki/category%2Fcategory-sushi-bar-products-8915",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sushi_Bar_Products",
   "title": "Category:Sushi Bar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sushi_Bar.png|thumb]]\nProducts of the [[Sushi Bar]].\n[[Category:Products]]",
   "wikitextHash": "564b92c3515a218862f7ed7fb2f0a031bc7117c25f6406dbe4a378f72d0f3b8e"
 }

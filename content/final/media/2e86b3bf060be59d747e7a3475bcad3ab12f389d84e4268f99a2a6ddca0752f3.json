@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Olive_Tree_Dead.png",
+  "filePageId": 29228,
+  "filePageRevisionId": 77599,
+  "filePageRevisionSha1": "1dea26bb4a6b98ec3f5ef55be53508a749179146",
+  "filePageRevisionTimestamp": "2018-02-17T15:37:50Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "d14e287cddf242ab2efcf9c4ce10e1bd9a812d8c7be02f9c4ed7aa64531ae823",
   "height": 322,
   "immutableUrl": null,
   "mediaId": "File:Olive Tree Dead.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-17T15:37:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOlive%20Tree%20Dead.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 92560,
   "sourceSha1": "e80bcfcfd0cae0cb90c45be06e16b8bf8f411bc0",

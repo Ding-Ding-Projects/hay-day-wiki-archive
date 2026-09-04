@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tea_Stand_Mastery.png",
+  "filePageId": 29639,
+  "filePageRevisionId": 80119,
+  "filePageRevisionSha1": "477c26471160921b579c559aa332d460e6ec580e",
+  "filePageRevisionTimestamp": "2018-05-06T13:10:09Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "06a747cfc63ab21189c6f870b2f73efb9f28083f27d99602faab995eddee2570",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Tea Stand Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:50:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATea%20Stand%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 46480,
   "sourceSha1": "e17535157c971b3be6914d8f9637f1b32f4a45eb",

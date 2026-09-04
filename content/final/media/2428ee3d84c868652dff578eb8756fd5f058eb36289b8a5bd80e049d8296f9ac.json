@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_65.png",
+  "filePageId": 4597,
+  "filePageRevisionId": 100042,
+  "filePageRevisionSha1": "1f9ec55fb3d39859d61ed08e6488d75103403905",
+  "filePageRevisionTimestamp": "2022-01-12T16:49:13Z",
+  "filePageWikitext": "Level 65\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "f1ed99e6c88c08feb786db41f898c854e77c979e599b17a36e20d1f15df3816e",
   "height": 455,
   "immutableUrl": null,
   "mediaId": "File:Level 65.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-12T16:49:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2065.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 581048,
   "sourceSha1": "042aae025442ab87eafa9040c9cd45c6bcd7c795",

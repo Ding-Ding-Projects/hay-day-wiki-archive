@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brick.png",
+  "filePageId": 14399,
+  "filePageRevisionId": 89207,
+  "filePageRevisionSha1": "2bdc25ea985fec20157fcbbd052f3b8dc9ab5281",
+  "filePageRevisionTimestamp": "2019-10-28T13:17:43Z",
+  "filePageWikitext": "Picture of bricks.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "4f57d86f6007263217138aef8dd15f8838c014f4841165044673dd4cdf2bc96c",
   "height": 270,
   "immutableUrl": null,
   "mediaId": "File:Brick.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:17:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrick.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 40086,
   "sourceSha1": "886a5cc71b14735fd2b28249f4416d818ec77cf8",

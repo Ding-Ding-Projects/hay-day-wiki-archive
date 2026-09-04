@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Duck Feather Products",
+    "Category:Hat Maker Products",
+    "Category:Refined Coal Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Duck Feather Products",
+      "Category:Hat Maker Products",
+      "Category:Refined Coal Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -131,11 +145,12 @@
   "revisionId": 107685,
   "revisionTimestamp": "2025-04-10T05:13:29Z",
   "route": "/wiki/top-hat-18410",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Top_Hat",
   "title": "Top Hat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Top Hat.png|200px|left|Top hat]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 72\n |price = 1 to 619\n |time = 3 h 30 min\n |source = {{Infoicon|hatm|bigger|link=Hat Maker}}\n |xp = 74\n |base = 172\n |dia = 6\n |time3 = 2 h 58 min\n}}\n'''Top hats''' are [[products]] unlocked at [[experience]] level 72.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making top hats'''===\n[[File:Hat Maker.png|150px|left|Hat Maker]]\nTop hats are made in the [[Hat Maker]].\n\nTo make a top hat, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|Cotton fabric|link=Cotton Fabric]]\n|[[File:Refined Coal.png|75px|Refined coal|link=Refined Coal]]\n|[[File:Duck Feather.png|75px|Duck Feather|link=Duck Feather]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours and 30 minutes to make one top hat, and 2 hours and 58 minutes in a fully [[Masteries|mastered]] maker. Each hat gives players 74 [[experience]] points.\n\n{{Clr}}----\n==='''Selling top hats'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Top hats can be bought or sold for a maximum price of 6,192 {{Infoicon|coin}} for 10 hats.\n* Buying the ingredients required to make a top hat costs 572 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 top hats per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Did You Know'''===\n*The Top Hat is the only item that requires a bar of precious metal in its crafting recipe, and not be crafted in the [[Jeweler]]\n\n{{Navigation}}\n{{Languages|\n|de = Zylinder\n|es = Sombrero de copa\n|fr = Haut-de-forme\n|it = Cilindro\n|nl = Hoge Hoed\n|no = Flosshatt\n|zh = Top Hat\n}}\n[[pt-br:Cartola]]\n[[ru:Цилиндр]]\n\n[[Category:Hat Maker Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Refined Coal Products]]\n[[Category:Duck Feather Products]]",
   "wikitextHash": "e22004e58a0d5906f3d460b313769454eab4812641a2df9fd176142f4600c6b2"
 }

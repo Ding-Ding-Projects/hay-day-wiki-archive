@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Chunky_White.png",
+  "filePageId": 29977,
+  "filePageRevisionId": 81544,
+  "filePageRevisionSha1": "a8e2f3e5b54beeee914a4ac44dae7c32867a59ce",
+  "filePageRevisionTimestamp": "2018-06-30T11:52:06Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "86b8e3e01607efd0c047f78a20522202a9d6441fe7df4a218ee03fb87dac8b9c",
   "height": 237,
   "immutableUrl": null,
   "mediaId": "File:Crates Chunky White.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-06-28T11:37:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrates%20Chunky%20White.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 46827,
   "sourceSha1": "ea4a27fc90fa714850634256ef0b3dac5fb04c71",

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Peanuts Products",
+    "Category:Raspberry Jam Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Peanuts Products",
+      "Category:Raspberry Jam Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -159,11 +173,12 @@
   "revisionId": 107265,
   "revisionTimestamp": "2025-02-16T12:05:28Z",
   "route": "/wiki/peanut-butter-and-jelly-sandwich-33955",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_and_Jelly_Sandwich",
   "title": "Peanut Butter and Jelly Sandwich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peanut Butter and Jelly Sandwich.png|200px|left|Peanut butter and jelly sandwich]]\n\n{{Infobox\n |level = 71\n |price = 1 to 601\n |time = 25 min\n |xp = 80\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |base = 167\n |dia = 3\n |time3 = 21 min\n |title = [[Products|Product]]\n}}\n'''Peanut butter and jelly sandwich''' is a [[Products|product]] unlocked at [[experience]] level 71.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making peanut butter and jelly sandwich'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nPeanut butter and jelly sandwich is made in the [[Sandwich Bar]].\n\nTo make peanut butter and jelly sandwich, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Raspberry Jam.png|75px|Raspberry Jam|link=Raspberry Jam]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 25 minutes to make one sandwich, and 21 minutes in a fully [[Masteries|mastered]] machine. Each sandwich gives players 80 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling peanut butter and jelly sandwich'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Peanut butter and jelly sandwich can be bought or sold for a maximum price of 6,012 {{Infoicon|Coin}} for 10 sandwiches.\n* Buying the ingredients required to make peanut butter and jelly sandwich costs 528 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 peanut butter and jelly sandwiches per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Keep your squirrels busy producing peanuts.\n*Raspberry jams can take a very long time to make, so make sure you have enough raspberry jams for the sandwich. Take note that you can sometimes find raspberries in the Daily Dirt (blackberries are sold more frequently).\n\n==='''Did you know?'''===\n*Originally, the maximum price of peanut butter and jelly sandwich was 673 coins. In the December 2020 upgrade that price was reduced to 601 coins.\n*It's also the product with the longest name (with 28 letters and 4 spaces)\n\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Erdnussbutter-Marmelade-Sandwich\n|es = Sándwich de cacahuete y mermelada\n|fr = Sandwich PB & J\n|it = Pane burro d'arachidi e marmellata\n|nl = Boterham met Pindakaas en Jam\n|no = Smørbrød med peanøttsmør og syltetøy\n|zh = Peanut Butter and Jelly Sandwich\n}}\n[[pt-br:Sanduíche de pasta de amendoim]]\n[[ru:Бутерброд с арахисовой пастой]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Raspberry Jam Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "e8bfc035585140336e9a2c8b77b55089cd7b0a306b84185aaf31c6f70d6161e7"
 }

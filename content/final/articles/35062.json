@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Egg_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98539,
   "revisionTimestamp": "2021-08-31T20:54:04Z",
   "route": "/wiki/category%2Fcategory-egg-products-35062",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Egg_Products",
   "title": "Category:Egg Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Egg.png|thumb]]\nProducts of [[Egg]].\n[[Category:Products]]",
   "wikitextHash": "4eaecd4d62f96d26e67cd1b570ab9b55d76666f309bacdd16210570faa352df7"
 }

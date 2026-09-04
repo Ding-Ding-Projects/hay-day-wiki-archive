@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bread.png",
+  "filePageId": 2262,
+  "filePageRevisionId": 104562,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-05T07:35:18Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 616,
   "immutableUrl": null,
   "mediaId": "File:Bread.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 39,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-05T07:35:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABread.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 366595,
   "sourceSha1": "935d2055ee0fb25dc2dc783c0628ad1340f6dd95",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Onion_Melt.png",
+  "filePageId": 29365,
+  "filePageRevisionId": 104757,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-11T17:00:15Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 1672,
   "immutableUrl": null,
   "mediaId": "File:Onion Melt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T17:00:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOnion%20Melt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2063675,
   "sourceSha1": "6cdcb1c602a2f1af1701286a151a3d92f0972555",

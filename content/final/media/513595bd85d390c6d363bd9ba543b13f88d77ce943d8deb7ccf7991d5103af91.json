@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lemon_Lotion.png",
+  "filePageId": 34848,
+  "filePageRevisionId": 105189,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2024-04-11T15:10:54Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 766,
   "immutableUrl": null,
   "mediaId": "File:Lemon Lotion.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:10:54Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALemon%20Lotion.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 248718,
   "sourceSha1": "5823c6118f96ffa273d66d4d5b9f49cb6bb131e3",

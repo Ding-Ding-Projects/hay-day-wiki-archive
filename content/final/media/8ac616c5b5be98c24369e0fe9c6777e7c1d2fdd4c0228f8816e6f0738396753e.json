@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crescent_Arch.png",
+  "filePageId": 34825,
+  "filePageRevisionId": 99353,
+  "filePageRevisionSha1": "9f456c0518303a9ddc111ef9c948f834390f677f",
+  "filePageRevisionTimestamp": "2021-11-10T21:08:04Z",
+  "filePageWikitext": "== Summary ==\nRamadan 2021 diamond package decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "11dddc55d1c6465e54b42688baf185efcffe33cfacb2cdd403f73fcca4704820",
   "height": 520,
   "immutableUrl": null,
   "mediaId": "File:Crescent Arch.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-14T12:38:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrescent%20Arch.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 604238,
   "sourceSha1": "2b5975c68420a350f49f320bab05a0d9525a541f",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Perfumerie Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Perfumerie Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -111,11 +121,12 @@
   "revisionId": 110423,
   "revisionTimestamp": "2026-06-06T18:11:01Z",
   "route": "/wiki/zesty-perfume-36212",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Zesty_Perfume",
   "title": "Zesty Perfume",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Zesty Perfume.png|left|184x184px|Zesty Perfume]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 113\n |price = 1 to 388\n |time = 15 min\n |source = {{Infoicon|perfumerie|bigger|link=Perfumerie}}\n |xp = 46\n |base = 108\n |dia = 2\n |time3 = 12 min\n}}\n'''Zesty Perfume''' is a [[products|product]] unlocked at [[experience]] level 113. It was added in the Winter 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Zesty Perfume'''===\n[[File:Perfumerie.png|150px|left|Perfumerie]]\nZesty Perfume is made in the [[Perfumerie]].\n\nTo make Zesty Perfume, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon Essential Oil.png|75px|Lemon Essential Oil|link=Lemon Essential Oil]]\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|-\n|'''×1'''\n|'''x3'''\n|}\nIt takes 15 Minutes to make Zesty Perfume, and 12 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 46 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Zesty Perfume'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Zesty Perfume can be bought or sold for a maximum price of 3,888 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Zesty Perfume costs 374 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 Zesty Perfume per crate, up to a total of 4 per boat.\n\n{{Navigation}}\n{{Languages\n|de = Zitrusparfüm\n|es = Perfume cítrico\n|it = Profumo agli agrumi\n|no = Pikant parfyme\n|ru = Цитрусовый парфюм\n}}\n[[pt-br:Perfume cítrico]]\n\n[[Category:Perfumerie Products]]",
   "wikitextHash": "c7249c35b8e659287c5a4c35229e0b1e8975c9e0348dad9208c72584bffe8b48"
 }

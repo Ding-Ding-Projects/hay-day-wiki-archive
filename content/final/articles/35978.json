@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chocolate Ice Cream Products",
+    "Category:Espresso Products",
+    "Category:Milkshake Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chocolate Ice Cream Products",
+      "Category:Espresso Products",
+      "Category:Milkshake Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -110,11 +122,12 @@
   "revisionId": 110430,
   "revisionTimestamp": "2026-06-06T21:30:27Z",
   "route": "/wiki/mocha-milkshake-35978",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mocha_Milkshake",
   "title": "Mocha Milkshake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mocha Milkshake.png|left|184x184px|Mocha Milkshake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 125\n |price = 1 to 856\n |time = 30 min\n |source = {{Infoicon|milkshakeb|bigger|link=Milkshake Bar}}\n |xp = 102\n |base = 238\n |dia = 3\n |time3 = 25 min\n}}\n'''Mocha Milkshake''' is a [[products|product]] unlocked at [[experience]] level 125. It was added in winter 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Mocha Milkshake'''===\n[[File:Milkshake Bar.png|150px|left|Milkshake Bar]]\nMocha Milkshake are made in the [[Milkshake Bar]].\n\nTo make Mocha Milkshake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chocolate Ice Cream.png|75px|Chocolate Ice Cream|link=Chocolate Ice Cream]]\n|[[File:Espresso.png|75px|Espresso|link=Espresso]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 30 Minutes to make Mocha Milkshake, and 25 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 102 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Mocha Milkshake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Mocha Milkshake can be bought or sold for a maximum price of 8,568 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Mocha Milkshake costs 838 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 Mocha Milkshake per crate, up to a total of ? per boat.\n----\n{{Navigation}}\n{{Languages\n|de = Mokka-Milchshake\n|es = Batido de moca\n|it = Milkshake al mocaccino\n|no = Mochamilkshake\n|ru = Кофейный милкшейк\n}}\n[[pt-br:Milk-shake de mocha]]\n\n[[Category:Milkshake Bar Products]]\n[[Category:Chocolate Ice Cream Products]]\n[[Category:Espresso Products]]",
   "wikitextHash": "1d6cb7ecefca6b81080f9f26299a032bab8d4de1fc7864643d4a2081a4b747a3"
 }

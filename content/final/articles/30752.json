@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cheese Products",
+    "Category:Eggplant Products",
+    "Category:Pie Oven Products",
+    "Category:Tomato Sauce Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cheese Products",
+      "Category:Eggplant Products",
+      "Category:Pie Oven Products",
+      "Category:Tomato Sauce Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +189,12 @@
   "revisionId": 107251,
   "revisionTimestamp": "2025-02-13T20:02:39Z",
   "route": "/wiki/eggplant-parmesan-30752",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Eggplant_Parmesan",
   "title": "Eggplant Parmesan",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Eggplant Parmesan.png|200px|left|Eggplant parmesan]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 99\n |price = 1 to 442\n |time = 45 min\n |xp = 53\n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |base = 123\n |dia = 3\n |time3 = 38 min\n}}\n'''Eggplant parmesan''' is a [[products|product]] unlocked at [[experience]] level 99.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making eggplant parmesan'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nEggplant parmesan is made in the [[Pie Oven]].\n\nTo make eggplant parmesan players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Eggplant.png|75px|link=Eggplant|Eggplant]]\n|[[File:Cheese.png|75px|link=Cheese|Cheese]]\n|[[File:Tomato Sauce.png|75px|link=Tomato Sauce|Tomato sauce]]\n|-\n|'''x4'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make eggplant parmesan, and 38 minutes in a fully [[Masteries|mastered]] oven. Each eggplant parmesan gives players 53 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling eggplant parmesan'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Eggplant parmesan can be bought or sold for a maximum price of 4428 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make eggplant parmesan costs 408 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 eggplant parmesan per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Parmigiana\n|es = Pastel de berenjena\n|fr = Parmesan d'Aubergines\n|it = Parmigiana\n|nl = Aubergine met Kaas\n|no = Auberginer med parmesan\n|zh = Eggplant Parmesan\n}}\n[[pt-br:Berinjela com parmesão]]\n[[ru:Баклажан с пармезаном]]\n[[Category:Pie Oven Products]]\n[[Category:Cheese Products]]\n[[Category:Eggplant Products]]\n[[Category:Tomato Sauce Products]]",
   "wikitextHash": "97ce83036cada17dc1717fd6f20a7812ab009cf9f662ded05ba80586d43c3105"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sugar Mill Products",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sugar Mill Products",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -292,11 +302,12 @@
   "revisionId": 108530,
   "revisionTimestamp": "2025-09-22T18:25:00Z",
   "route": "/wiki/white-sugar-2096",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/White_Sugar",
   "title": "White Sugar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[ru:Белый сахар]]\n[[File:White Sugar.png|200px|left]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 13\n |price = 1 to 50\n |time = 40 min\n |xp = 6\n |source = {{Infoicon|SugarM|bigger|link=Sugar Mill}}\n |base = 14\n |dia = 3\n |time3 = 34 min\n}}\n'''White sugar''' is a [[Products|product]] unlocked at [[experience]] level 13.\n\nIt is an ingredient in many recipes, including [[Lemon Curd|lemon curd]], [[Plain Donut|plain donuts]], [[Plain Cupcake|plain cupcakes]] and [[Plain Waffles|plain waffles]]; which are then used in other recipes.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making white sugar'''===\n[[File:Sugar Mill.png|thumb|150px|left|link=Sugar Mill|Sugar Mill]]\nWhite sugar is made in the [[Sugar Mill]].\n\nTo make white sugar, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sugarcane.png|thumb|75px|Sugarcane|link=Sugarcane]]\n|-\n|'''x2'''\n|}\nIt takes 40 minutes to make one bag of sugar, and 34 minutes in a fully [[Masteries|mastered]] mill. Each bag gives players 6 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling white sugar'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop|Roadside Shop]]\n* White sugar can be bought or sold for a maximum price of 504 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make a bag costs 28 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Using white sugar'''===\nWhite sugar is used to make the following [[products]]:\n{{Item Usage|White Sugar\n|Cream Cake|1|23\n|Vanilla Ice Cream|1|29\n|Strawberry Ice Cream|1|34\n|Strawberry Cake|1|35\n|Potato Bread|1|39\n|Chocolate Ice Cream|1|39\n|Espresso|1|42\n|Caffè Latte|1|43\n|Hot Chocolate|1|47\n|Toffee|1|52\n|Chocolate|1|54\n|Jelly Beans|1|60\n|Lemon Curd|1|66\n|Yogurt Smoothie|1|70\n|Cotton Candy|3|75\n|Plain Donut|1|76\n|Mint Ice Cream|1|85\n|Rich Fudge|2|99\n|Tropical Fondue|1|100\n|Macaroon|2|101\n|Mint Fudge|1|102\n|Chili Fudge|1|104\n|Guava Compote|1|104\n|Fruit Sorbet|3|106\n|Lemon Fudge|2|108\n|Plain Cupcake|3|109\n|Peanut Fudge|1|111\n|Plain Waffles|2|114\n|Pineapple Coconut Bars|2|120\n}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat|Boat]]\n* [[Boat]] orders require 1 to 8 bags of white sugar per crate, up to a total of 24 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* White sugar is something you need to constantly have on hand. Many players have argued that one sugar mill was not enough to cover their needs. This tells you how often this product is used. After years of waiting, we finally got a second one, available at level 76.\n* You can't expect to find sugar in the [[Daily Dirt]]. Selling it, even at maximum price, is not worth it. Make something with it, and sell those instead.\n* [[White Sugar]] is often used in conjunction with [[Dairy|Dairy]]'s product like Cream and Butter, plus Milk to create intermediary like [[Lemon Curd|Lemon curd]], which is used to make [[Lemon Pie|lemon pies]] and [[Lemon Cake|lemon cakes]]. At higher level, you will need to this to create [[Plain Donut]], which in turn feed into other products of the same machine. \n----\n==='''Did you know?'''===\n* The label on the bag says 'Supasugar', like it does on [[Brown Sugar|brown sugar]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Weißer Zucker\n|es = Azúcar blanco\n|fr = Sucre Blanc\n|it = Zucchero\n|nl = Witte Suiker\n|no = Hvitt sukker\n|zh = 白糖\n}}\n[[pt-br:Açúcar refinado]]\n[[ru:Белый сахар]]\n[[Category:Sugar Mill Products]]\n[[Category:Sugarcane Products]]",
   "wikitextHash": "23cff110ee7fe53110c612ec093d98b6498cd32d45fb39a0502e0da4952e8499"
 }

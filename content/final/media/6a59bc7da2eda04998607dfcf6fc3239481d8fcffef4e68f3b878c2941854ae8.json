@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Apple_Tree_Harvest_3.png",
+  "filePageId": 26110,
+  "filePageRevisionId": 89358,
+  "filePageRevisionSha1": "351ef95fa426183899692648f4df0be37558501d",
+  "filePageRevisionTimestamp": "2019-10-28T16:55:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "daa851210fbf5efe2ff7a4889f6b1f89d634faf3abf18dee06ed2c729cdf715a",
   "height": 217,
   "immutableUrl": null,
   "mediaId": "File:Apple Tree Harvest 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:55:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AApple%20Tree%20Harvest%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 44696,
   "sourceSha1": "548601a5dc2e046495a5b8c274198320efb989fa",

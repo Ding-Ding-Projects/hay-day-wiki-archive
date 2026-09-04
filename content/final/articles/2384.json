@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Gold Bar Products",
+    "Category:Jeweler Products",
+    "Category:Platinum Bar Products",
+    "Category:Silver Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Gold Bar Products",
+      "Category:Jeweler Products",
+      "Category:Platinum Bar Products",
+      "Category:Silver Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +146,12 @@
   "revisionId": 107519,
   "revisionTimestamp": "2025-03-09T04:04:56Z",
   "route": "/wiki/necklace-2384",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Necklace",
   "title": "Necklace",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Necklace.png|200px|left|Necklace]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 39\n |price = 1 to 727\n |time = 3 h\n |source = {{Infoicon|jeweler|bigger|link=jeweler}}\n |xp = 87\n |base = 202\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Necklaces''' are [[products]] unlocked at [[experience]] level 39.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making necklaces'''===\n[[File:jeweler.png|150px|left|jeweler]]\nNecklaces are made in the [[jeweler]].\n\nTo make a necklace, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Silver Bar.png|75px|Silver bars|link=Silver Bar]]\n|[[File:Gold Bar.png|75px|Gold bar|link=Gold Bar]]\n|[[File:Platinum Bar.png|75px|Platinum bar|link=Platinum Bar]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours to make one necklace, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] jeweler. Each necklace gives players 87 [[experience]] points.\n\n{{Clr}}----\n==='''Selling necklaces'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Necklaces can be bought or sold for a maximum price of 7,272 {{Infoicon|Coin}} for 10 necklaces.\n* Buying the ingredients required to make a necklace costs 679 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* As is the case for all Jeweler products, completing a [[truck]] order requesting one or more necklaces rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for necklaces.\n*Necklaces are rarely found in the Daily Dirt, so make sure to have at least 5 necklaces in your Barn.\n\n----\n\n{{Navigation}}\n{{Languages\n|de = Halskette\n|es = Collar\n|fr = Collier\n|it = Collana\n|nl = Halsketting\n|no = Halskjede\n|vi = Vòng cổ\n|zh = Necklace\n}}\n[[pt-br:Colar]]\n[[ru:Ожерелье]]\n[[Category:Jeweler Products]]\n[[Category:Silver Bar Products]]\n[[Category:Gold Bar Products]]\n[[Category:Platinum Bar Products]]",
   "wikitextHash": "edf532b2219c3076324c1e99c0bf5f4913cc7ebe1be87b2ac7c829236fa4ad12"
 }

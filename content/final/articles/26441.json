@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Coffee Bean Products",
+    "Category:Coffee Kiosk Products",
+    "Category:Milk Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Coffee Bean Products",
+      "Category:Coffee Kiosk Products",
+      "Category:Milk Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +149,12 @@
   "revisionId": 109906,
   "revisionTimestamp": "2026-05-09T18:34:23Z",
   "route": "/wiki/iced-banana-latte-26441",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Iced_Banana_Latte",
   "title": "Iced Banana Latte",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Iced Banana Latte.png|200px|left|Iced banana latte]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 88\n |price = 1 to 277\n |time = 20m\n |source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n |xp = 33\n |base = 77\n |dia = 2\n |time3 = 17 min\n}}\n'''Iced banana lattes''' are [[products]] unlocked at [[experience]] level 88.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making iced banana lattes'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nIced banana lattes are made in the [[Coffee Kiosk]].\n\nTo make a latte, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Banana.png|75px|Banana|link=Banana]]\n|[[File:Coffee Bean.png|75px|Coffee beans|link=Coffee Bean]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 20 minutes to make one glass, and 17 minutes in a fully [[Masteries|mastered]] kiosk. Each glass gives players 33 [[experience]] points.\n\n{{Clr}}----\n==='''Selling iced banana lattes'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Iced banana lattes can be bought or sold for a maximum price of 2,772 {{Infoicon|Coin}} for 10 lattes.\n* Buying the ingredients required to make a latte costs 264 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 iced banana lattes per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Eiskaffee mit Banane\n|es = Café helado de plátano\n|fr = Latte Glacé à la Banane\n|it = Frappè di banane ghiacciato\n|nl = Bananenlatte\n|no = Islatte med banan\n|ru = Банановое холодное латте\n|zh = Iced Banana Latte\n}}\n[[pt-br:Latte gelado de banana]]\n\n[[Category:Coffee Kiosk Products]]\n[[Category:Milk Products]]\n[[Category:Coffee Bean Products]]\n[[Category:Banana Products]]",
   "wikitextHash": "1367c1ee98d38aa071dc1d0a45086cb9d9c9629a1cfe24c3454e4d78070d78a4"
 }

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Table_of_experience_levels.png",
+  "filePageId": 35050,
+  "filePageRevisionId": 98487,
+  "filePageRevisionSha1": "0e8d94f605ad1280ed51f1e5d4e5eb0211a37fb5",
+  "filePageRevisionTimestamp": "2021-08-21T13:11:26Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}",
+  "filePageWikitextHash": "4e180c42f07d036301e173df959a6bcd49ffe28eaab2c7ab605ad2a6b15d044e",
+  "height": 2092,
+  "immutableUrl": null,
+  "mediaId": "File:Table of experience levels.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-08-21T13:11:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
+  "route": "/media/File%3ATable%20of%20experience%20levels.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 390327,
+  "sourceSha1": "ec0287a2e8502331a5ae5a347367484867d3ac9a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/Table_of_experience_levels.png/revision/latest?cb=20210821131126",
+  "title": "File:Table of experience levels.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2385
+}

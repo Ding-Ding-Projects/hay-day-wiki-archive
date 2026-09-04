@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Boost_All.png",
+  "filePageId": 29313,
+  "filePageRevisionId": 89285,
+  "filePageRevisionSha1": "410dbaccf191d5dda2871442c563586e2c9e1806",
+  "filePageRevisionTimestamp": "2019-10-28T15:06:42Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "385787885ea02daef7d67fa99846171b3753bb0475464170f229beccc4bc7254",
   "height": 301,
   "immutableUrl": null,
   "mediaId": "File:Fishing Boost All.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T15:02:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Boost%20All.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 101181,
   "sourceSha1": "5870a62e4192de0b9ffbbcfcc235f0211c9fe200",

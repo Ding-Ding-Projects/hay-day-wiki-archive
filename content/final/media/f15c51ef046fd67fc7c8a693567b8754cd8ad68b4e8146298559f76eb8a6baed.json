@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Hippo_Calf.png",
+  "filePageId": 28962,
+  "filePageRevisionId": 98112,
+  "filePageRevisionSha1": "d702d24fb0065d819bd440a25af3dd74a92d6eb6",
+  "filePageRevisionTimestamp": "2021-07-15T20:20:30Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "2f2cd99868665031407ca3e40d7644f22ca999ae586577305f43333811a5ed1d",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Grey Hippo Calf.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:10:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrey%20Hippo%20Calf.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 217505,
   "sourceSha1": "a4403eb5bb9837f16ee8b293779c676a9d98fabd",

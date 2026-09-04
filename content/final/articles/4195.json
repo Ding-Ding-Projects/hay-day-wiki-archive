@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animal_Goods?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 44493,
   "revisionTimestamp": "2015-04-04T10:57:00Z",
   "route": "/wiki/category%2Fcategory-image-animal-goods-4195",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Animal_Goods",
   "title": "Category:Image Animal Goods",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Goods collected from [[animals]].\n[[Category:Images]]",
   "wikitextHash": "eec2a20b230f4ca76fa7e557cfceac2205b5fe49ecb839627011f90250e91916"
 }

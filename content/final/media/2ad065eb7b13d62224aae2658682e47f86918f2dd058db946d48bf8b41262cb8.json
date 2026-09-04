@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:1707325291912_9wi6kr_2_1.png",
+  "filePageId": 36024,
+  "filePageRevisionId": 104641,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2024-02-08T09:13:41Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 1770,
+  "immutableUrl": null,
+  "mediaId": "File:1707325291912 9wi6kr 2 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-08T09:13:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3A1707325291912%209wi6kr%202%201.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 979546,
+  "sourceSha1": "8f4bbf028248f12bf4ec11b3253d8b8f48c5367b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ad/1707325291912_9wi6kr_2_1.png/revision/latest?cb=20240208091341",
+  "title": "File:1707325291912 9wi6kr 2 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1770
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Bakery_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57761,
   "revisionTimestamp": "2016-01-21T18:01:48Z",
   "route": "/wiki/category%2Fcategory-bakery-products-7554",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bakery_Products",
   "title": "Category:Bakery Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Bakery.png|thumb]]\nProducts of the [[Bakery]].\n[[Category:Products]]",
   "wikitextHash": "56313ca3041004bdc973d190fe74b3ef0a5af6ff2a26f454f1355d6b76f09190"
 }

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Booster?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 74972,
   "revisionTimestamp": "2017-11-03T15:32:10Z",
   "route": "/wiki/booster-28721",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Booster",
   "title": "Booster",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Boosters]]",
   "wikitextHash": "3f5ca1ea055fdcb03915889c4e34324a60c204bcc8c653c109989ce1df8eef2c"
 }

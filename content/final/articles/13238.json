@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -92,11 +100,12 @@
   "revisionId": 104470,
   "revisionTimestamp": "2024-01-07T13:22:48Z",
   "route": "/wiki/town-hall-13238",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Town_Hall",
   "title": "Town Hall",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Town Hall.png|left|200px]] \nThe '''Town Hall''' is a building in the player's [[town]] which keeps track of [[Town Visitors|town visitors]].\n\nIt is unlocked at [[experience]] level 34.\n\nRepairing it does not cost anything.\n{{Clr}}\n----\n==='''Appearance'''===\nThe hall changes as the player upgrades it:\n<gallery>\nTown Hall Broken.png\nTown Hall Stage 1.png\nTown Hall Stage 2.png\nTown Hall Stage 3.png\nTown Hall.png\n</gallery>\n----\n==='''Tracking visitors'''===\nTapping on the hall lets players '''track''' their [[Town Visitors|town visitors]]'s statuses through 6 tabs:\n[[File:Town Hall Tabs.jpg|300px|center|Tabs]]\n* ''idle'' for visitors who are walking around town.\n* ''waiting'' for visitors who are waiting on their orders.\n* ''serving'' for visitors whose requests have been filled.\n* ''ready'' for visitors who are ready to leave buildings.\n* ''leaving'' for visitors who are going back to the station, either to be picked up by a fellow [[neighborhood|neighbor]] or to go home.\n\nPlayers can tap the settings icon to pick which order customers should be listed in for each tab.\n\nPlayers can also interact with visitors directly from the Hall by tapping on 'see visitor', 'send away' or 'collect reward'.\n\n[[File:HayDay PawPrint.png|50px|]]\nA paw print lets players spot visitors who want to go to the [[sanctuary]].\n\n----\n==='''Upgrading the hall'''===\nThe hall can be '''upgraded''' using [[hammer]]s, [[Paint Bucket|paint buckets]] and [[Stone Block|stone blocks]]:\n<gallery>\nHammer.png|Hammer\nPaint Bucket.png|Paint bucket\nStone Block.png|Stone block\n</gallery>\nThe Town Hall begins with a visitor capacity of nine people. Upgrading the hall allows players to increase the number of visitors in the town.\n\nEach upgrade increases the capacity of the hall by three and its level by one. It can be upgraded to level 12 for a maximum capacity of 42 visitors.\n----\n{{Navigation}}\n{{Languages\n|de = Rathaus\n|es = Ayuntamiento\n}}\n[[Category:Town Buildings]]",
   "wikitextHash": "5a95a056e195803c0897a4ab7428ea670719531186f3409aab5faf16541ae1c5"
 }

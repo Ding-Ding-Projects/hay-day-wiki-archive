@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Orange Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Orange Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +160,12 @@
   "revisionId": 107099,
   "revisionTimestamp": "2025-01-31T15:02:34Z",
   "route": "/wiki/orange-juice-24927",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Orange_Juice",
   "title": "Orange Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Orange Juice.png|200px|left|Orange juice]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 71\n |price = 1 to 234\n |time = 2 h\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 28\n |base = 65\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Orange juice''' is a [[Products|product]] unlocked at [[experience]] level 71.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making orange juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nOrange juice is made in the [[Juice Press]].\n\nTo make juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Orange.png|75px|Oranges|link=Orange]]\n|-\n|'''x2'''\n|}\nIt takes 2 hours to make one bottle, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] press. Each bottle gives players 28 [[experience]] points.\n{{Clr}}\n----\n==='''Selling orange juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Orange juice can be bought or sold for a maximum price of 2,340 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 194 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 orange juice per crate, up to a total of 12 per boat.\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Orangensaft\n|es = Zumo de naranja\n|fr = Jus d'orange\n|it = Succo d'arancia\n|nl = Sinaasappelsapк\n|no = Appelsinjuice\n|zh = Orange Juice\n}}\n[[pt-br:Suco de laranja]]\n[[ru:Апельсиновый сок]]\n[[Category:Juice Press Products]]\n[[Category:Orange Products]]",
   "wikitextHash": "b4edef57bbb9cd14b80c59554f8dbba029823cedcc2241a687cc38d73b1dd5d3"
 }

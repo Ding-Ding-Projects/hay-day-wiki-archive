@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Filled_Donut.png",
+  "filePageId": 34947,
+  "filePageRevisionId": 104790,
+  "filePageRevisionSha1": "0224558a30b05e3faa3b069e8d2e82c9f18727f4",
+  "filePageRevisionTimestamp": "2024-02-12T10:20:05Z",
+  "filePageWikitext": "== Summary ==\nImage of [[Filled Donut|filled donut]] from Dairy News, place holder until actual image with no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "6dfda47a5b41d85d42f7f71f5337ab10162256aa5bfb486396fd62e4584b354b",
   "height": 2244,
   "immutableUrl": null,
   "mediaId": "File:Filled Donut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T10:20:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFilled%20Donut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1614879,
   "sourceSha1": "7ad2b42c18b80f769e51dd59612bb5cf53c209ea",

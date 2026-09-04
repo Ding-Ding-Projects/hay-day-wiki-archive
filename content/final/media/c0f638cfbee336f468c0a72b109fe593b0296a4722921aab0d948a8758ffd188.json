@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lemon.png",
+  "filePageId": 10554,
+  "filePageRevisionId": 104916,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2024-02-19T03:32:00Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 1512,
   "immutableUrl": null,
   "mediaId": "File:Lemon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 43,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T03:32:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALemon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2442755,
   "sourceSha1": "1048de0d7d3f4ab14638231a234ec3812790ae3f",

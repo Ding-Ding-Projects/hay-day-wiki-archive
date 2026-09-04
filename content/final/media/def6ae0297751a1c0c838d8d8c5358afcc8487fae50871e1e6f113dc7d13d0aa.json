@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Banana_Pancakes.png",
+  "filePageId": 26422,
+  "filePageRevisionId": 104585,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-05T16:44:35Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 720,
   "immutableUrl": null,
   "mediaId": "File:Banana Pancakes.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 23,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-05T16:44:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABanana%20Pancakes.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 536739,
   "sourceSha1": "e34316de478b612c4c52885416c8a605abf589d7",

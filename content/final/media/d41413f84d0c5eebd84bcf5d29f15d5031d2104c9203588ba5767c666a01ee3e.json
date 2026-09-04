@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_2.jpg",
+  "filePageId": 13281,
+  "filePageRevisionId": 69429,
+  "filePageRevisionSha1": "f2a7a4c5d76a0fa47fd8ecece44d48ffac9c8ab4",
+  "filePageRevisionTimestamp": "2017-02-06T12:24:55Z",
+  "filePageWikitext": "==Description==\nReputation Level 2\n{{License SC}}\n[[Category: Image Reputation Levels]]",
+  "filePageWikitextHash": "6300dcda3f6e7ee76915906acbd0370d6a30f1f8be92ce5e57f2e9072121b781",
   "height": 366,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 2.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-25T15:48:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%202.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 89259,
   "sourceSha1": "abb74359ae227226e909523da7a8dd50b73e4204",

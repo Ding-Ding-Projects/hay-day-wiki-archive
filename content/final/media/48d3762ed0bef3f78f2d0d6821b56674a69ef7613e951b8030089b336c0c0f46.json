@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Book_Stand_Repairing.png",
+  "filePageId": 28004,
+  "filePageRevisionId": 74211,
+  "filePageRevisionSha1": "1a3fb6e4c78f279faabf404122e7bd97426b74fc",
+  "filePageRevisionTimestamp": "2017-10-22T10:07:25Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "7ebafc01f20fed674a3ac463fdc49c6ca67cb63c819669bfde68937f23e17858",
   "height": 324,
   "immutableUrl": null,
   "mediaId": "File:Book Stand Repairing.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-06-19T12:42:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABook%20Stand%20Repairing.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 374404,
   "sourceSha1": "db4d16d58c53f2631ce277bcae569569f5a23a48",

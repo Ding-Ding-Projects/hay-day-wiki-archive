@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lure Workbench Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lure Workbench Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -214,11 +222,12 @@
   "revisionId": 108070,
   "revisionTimestamp": "2025-06-23T22:05:47Z",
   "route": "/wiki/gold-lure-33410",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gold_Lure",
   "title": "Gold Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gold Lure.png|200px|left|Purple lure]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 27\n |time = 30 mins\n |source = [[File:Lure Workbench.png|45px|link=Lure Workbench]]\n |xp = 5\n |dia = ?\n |time3 = 25 mins\n}}\n'''Gold lures''' are [[products]] unlocked at [[experience]] level 27. They are used to lure [[fish]].\n\nThey are stored in the [[Tackle Box|tackle box]].\n\n{{Clr}}\n----\n==='''Making gold lures'''===\n[[File:Lure Workbench.png|150px|left|Lure Workbench]]\nGold lures are made in the [[Lure Workbench]].\n\nTo make a gold lure, players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Golden Voucher.png|75px|Golden Voucher]]\n|-\n|'''x1'''\n|}\nIt takes 30 minutes to make one lure, and 25 minutes in a fully [[Masteries|mastered]] machine. Each lure gives players 5 [[experience]] points.\n\n{{Clr}}\n----\n==='''Using gold lures'''===\n*Note: The color below fish is an alternative lure color that can catch the fish. Fish labelled with <span style=\"color: #FF4500;\">★★★</span> can only be caught during fishing events.\n\nGold lures can fish the following [[fish]]:\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"text-align: center; margin: .5em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #ddd;\"\n|[[File:Yellow Perch.png|75px]]\n|[[File:Bluegill.png|75px]]\n|[[File:Asp.png|75px]]\n|[[File:Speckled Dace.png|75px]]\n|- style=\"background: #ddd;\"\n|'''[[Yellow Perch]]'''\n|'''[[Bluegill]]'''\n|'''[[Asp]]'''\n|'''[[Speckled Dace]]'''\n|- style=\"border: 1px solid #ccc;\"\n|Green\n|Blue\n|Purple\n|\n|- style=\"background: #ddd;\"\n|[[File:Northern Pike.png|75px]]\n|[[File:Arctic Charr.png|75px]]\n|[[File:Rudd.png|75px]]\n|[[File:Yellow Bass.png|75px]]\n|- style=\"background: #ddd;\"\n|'''[[Northern Pike]]'''\n|'''[[Arctic Charr]]'''\n|'''[[Rudd]]'''\n|'''[[Yellow Bass]]'''\n|- style=\"border: 1px solid #ccc;\"\n|Green\n|Purple\n|Green\n|Blue\n|- style=\"background: #ddd;\"\n|[[File:Greater Redhorse.png|75px]]\n|[[File:Golden Trout.png|75px]]\n|[[File:Green Sunfish.png|75px]]\n|[[File:Zander.png|75px]]\n|- style=\"background: #ddd;\"\n|'''[[Greater Redhorse]]'''\n|'''[[Golden Trout]]'''\n|'''[[Green Sunfish]]'''\n|'''[[Zander]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|- style=\"border: 1px solid #ccc;\"\n|Purple\n|\n|Green\n|Green\n|- style=\"background: #ddd;\"\n|[[File:Carp.png|75px|link=Nile Perch|Nile Perch]]\n|[[File:Black Bullhead.png|75px|link=White Catfish|White Catfish]]\n|[[File:Goldfish.png|75px|link=Lake Whitefish|Lake Whitefish]]\n|\n|- style=\"background: #ddd;\"\n|'''[[Carp]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|'''[[Black Bullhead]]'''\n|'''[[Goldfish]]'''\n|\n|- style=\"border: 1px solid #ccc;\"\n|Green\n|Green\n|\n|\n|}\n----\n==='''Tips'''===\n*Lures cannot be bought or sold in the roadside shop, but can be traded between [[Neighborhood|neighbors]].\n*[[Truck]] and [[Boat]] never ask for lures.\n\n=== Trivia ===\n\n* The Gold Lure is the only item that requires a gold voucher to make.\n* Using a glitch related to having multiple farms, it is actually possible to get purple lures before level 27 using Neighborhood Requests. By playing on a farm that is Level 27 or higher, select the Tackle Box tab on the Neighborhood Requests screen. Then, switch to a farm between levels 12 and 26, and open Neighborhood Requests, and you will be on the (invisible) Tackle Box tab, where you can then request purple lures.\n\n----\n{{Navigation}}\n{{Languages\n|de = Goldener Köder\n|es = Cebo dorado\n|fr = Appât doré\n|it = Esca dorata\n|nl = Gouden Kunstaas\n|no = Gullfarget sluk\n|ru = Золотая приманка\n|zh = Gold Lure\n}}\n[[Category:Lure Workbench Products]]",
   "wikitextHash": "6d2e4f1693baf4544f440324cf7a3469042a41d4bbae13ed35e6642a8265d8ce"
 }

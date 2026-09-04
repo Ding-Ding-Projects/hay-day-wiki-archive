@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Small_Trophy.png",
+  "filePageId": 23009,
+  "filePageRevisionId": 77302,
+  "filePageRevisionSha1": "58f5e6dec90c3a19f86802cd48063b75944f077d",
+  "filePageRevisionTimestamp": "2018-02-07T18:15:16Z",
+  "filePageWikitext": "==Description==\nEnter the description here.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "6bd26a146568fe0214f88e7ee8d8bb6e79170e3d09b5dba29524ccd62cd91c1b",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Small Trophy.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:15:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASmall%20Trophy.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 306511,
   "sourceSha1": "19c8864662c440a850488a610810a7780f6dbe01",

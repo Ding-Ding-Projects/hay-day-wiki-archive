@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Expansions_Special.png",
+  "filePageId": 27110,
+  "filePageRevisionId": 71399,
+  "filePageRevisionSha1": "3bf264318e3f7b900a15bddfebb63610edc59f86",
+  "filePageRevisionTimestamp": "2017-04-23T10:31:50Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "dea9b8b05fbda9b02bfa9ff2b8f1ee562fccefa8b08a25f24d65fd1d9b66cbb2",
   "height": 577,
   "immutableUrl": null,
   "mediaId": "File:Farm Expansions Special.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-03-27T16:45:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarm%20Expansions%20Special.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 855427,
   "sourceSha1": "54d9847c60863307f00bd0c38597bbf59a2bed51",

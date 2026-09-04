@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:BBQ Grill Products",
+    "Category:Bell Pepper Products",
+    "Category:Cheese Products",
+    "Category:Rice Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:BBQ Grill Products",
+      "Category:Bell Pepper Products",
+      "Category:Cheese Products",
+      "Category:Rice Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -102,11 +118,12 @@
   "revisionId": 109714,
   "revisionTimestamp": "2026-04-29T21:34:33Z",
   "route": "/wiki/stuffed-peppers-34682",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Stuffed_Peppers",
   "title": "Stuffed Peppers",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Stuffed Peppers.png|alt=|left|200x200px|Stuffed Peppers]]\n\n{{Infobox\n |title = [[Products|product]]\n |level = 80\n |price = 1 to 352\n |time = 20 min\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 42\n |base = 98\n |dia = 2\n |time3 = 17 min\n}}\n'''Stuffed Peppers''' is a [[Products|product]] unlocked at [[experience]] level 80. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making stuffed peppers'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nStuffed peppers are made in the [[BBQ Grill]].\n\nTo make the winter Stuffed Peppers, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bell Pepper.png|75px|Bell Pepper|link=Bell Pepper]]\n|[[File:Bacon.png|75px|Bell Pepper|link=Bacon]]\n|[[File:Rice.png|75px|Rice|link=Rice]]\n|[[File:Cheese.png|75px|Cheese|link=Cheese]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 20 minutes to make one unit, and 17 minutes in a fully [[Masteries|mastered]] grill. Each unit gives players 42 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling stuffed peppers'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Stuffed peppers can be bought or sold for a maximum price of 3,528 {{Infoicon|Coin}} for 10 units.\n*Buying the ingredients required to make stuffed peppers costs 334 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 2 stuffed peppers per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Gefüllte Paprikaschoten\n|es = Pimientos rellenos\n|fr = Poivrons Farcis\n|it = Peperoni ripieni\n|nl = Gevulde Paprika's\n|no = Fylte paprikaer\n|ru = Фаршированный перец\n|zh = Stuffed Peppers\n}}\n[[pt-br:Pimentões recheados]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Bell Pepper Products]]\n[[Category:Bacon Products]]\n[[Category:Rice Products]]\n[[Category:Cheese Products]]",
   "wikitextHash": "a80d86881bbd42f63af15948eef8c19ecc25de89f13d211801eadddbffbc4dd8"
 }

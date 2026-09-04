@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -167,11 +177,12 @@
   "revisionId": 105928,
   "revisionTimestamp": "2024-10-11T20:47:43Z",
   "route": "/wiki/raspberry-jam-2335",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Raspberry_Jam",
   "title": "Raspberry Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Raspberry Jam.png|200px|left|Raspberry jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 36\n |price = 1 to 252\n |time = 7 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 30\n |base = 70\n |dia = 8\n |time3 = 5 h 57 min\n}}\n'''Raspberry jam''' is a [[Products|product]] unlocked at [[experience]] level 36.\n\nIt is used to make [[Jelly Beans|jelly beans]], [[Peanut Butter and Jelly Sandwich|peanut butter and jelly sandwiches]] and [[Filled Donut|filled donut]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making raspberry jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nRaspberry jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Raspberry.png|75px|Raspberries|link=Raspberry]]\n|-\n|'''x3'''\n|}\nIt takes 7 hours to make one jar, and 5 hours and 57 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 30 [[experience]] points.\n\n{{Clr}}----\n==='''Selling raspberry jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Raspberry jam can be bought or sold for a maximum price of 2,520 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make a jar costs 138 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using raspberry jam'''===\n{{Item Usage|Raspberry Jam\n|Jelly Beans|1|60\n|Peanut Butter and Jelly Sandwich|1|71\n|Filled Donut|1|93\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 raspberry jam per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Himbeermarmelade\n|es = Mermelada de frambuesa\n|fr = Confiture de Framboise\n|it = Marmellata di lamponi\n|nl = Frambozenjam\n|no = Bringebærsyltetøy\n|zh = Raspberry Jam\n}}\n[[pt-br:Geleia de framboesa]]\n[[ru:Малиновое варенье]]\n[[Category:Jam Maker Products]]\n[[Category:Raspberry Products]]",
   "wikitextHash": "48a61d2313d75c64ed100ca06696241c6e25ef5a7cc4c65bc375462ee985551e"
 }

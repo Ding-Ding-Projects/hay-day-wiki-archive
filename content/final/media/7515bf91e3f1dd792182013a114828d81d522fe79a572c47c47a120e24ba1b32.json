@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Update_June_2019.png",
+  "filePageId": 31553,
+  "filePageRevisionId": 86517,
+  "filePageRevisionSha1": "f19e2f3b37780aac0eadabf174c0185a42e8cc57",
+  "filePageRevisionTimestamp": "2019-06-29T13:12:49Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "c0482be4b9b64f34959d5dafa722200468de73d84227b0ed6857136e5eb75ebd",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:Update June 2019.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-29T13:12:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AUpdate%20June%202019.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 706128,
   "sourceSha1": "9eb11979ad8b286f5f956d672222d02d7d7b9414",

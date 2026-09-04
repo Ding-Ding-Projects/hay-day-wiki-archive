@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Friends"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Friends"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -65,11 +73,12 @@
   "revisionId": 101834,
   "revisionTimestamp": "2022-11-09T17:41:13Z",
   "route": "/wiki/friend-book-26387",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Friend_Book",
   "title": "Friend Book",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Friend Book.png|200px|left|The friend book]]\nThe '''friend book''' is a feature which lets players manage their game [[friends]] and followers.\n\n{{Clr}}\n----\n==='''Requests tab'''===\n[[File:Friend Book Requests Tab.png|200px|left|Requests tab]]\nThis tab lets players see their personal tag from this tab and enter other players' personal tags. Entering a tag sends a friend request. Players can then accept or decline friend requests, and block players who have requested to be their friends.\n\nRequests are limited to 50 pending ones per day. The request feature can be disabled entirely.\n\n{{Clr}}\n----\n==='''In-game friends tab'''===\n[[File:Friend Book In-Game Friends Tab.png|200px|left|In-game friends tab]]\nThis tab lets players see, remove or block their in-game friends.\n\nPlayers can have up to 500 in-game friends.\n\n{{Clr}}\n----\n==='''Other friends tab'''===\nThis tab lets players see and hide their GameCenter and Facebook friends. Hidden friends do not show up in the friends bar.\n----\n==='''Following/Followers tab'''===\n[[File:Friend Book Followers Tab.png|200px|left|Followers tab]]\nThis tab lets players see the farms they follow as well as their own followers. Players can also hide and block their followers using this tab.\n\nPlayers can follow up to 10 farms, and have up to 10 followers. Hidden followers do not show up in the followers bar. Blocks are effective for 30 days and can be removed at any time. Players can still visit the farms of blocked players.\n\nFollowed farms have a blue border around their avatars.\n\n{{Clr}}{{Languages\n|es = Libro de amigos\n}}\n[[Category:Friends]]",
   "wikitextHash": "faf0696c0deb8894b8bc0add3e061393a564bbbe810771628937281c3889512d"
 }

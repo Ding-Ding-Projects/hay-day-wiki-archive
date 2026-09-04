@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -297,11 +305,12 @@
   "revisionId": 106934,
   "revisionTimestamp": "2025-01-18T23:07:19Z",
   "route": "/wiki/largemouth-bass-10030",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Largemouth_Bass",
   "title": "Largemouth Bass",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Largemouth Bass.png|200px|left|Largemouth bass]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|greenl|big|link=Lure}}\n |spots = any\n |circle = large\n |xp = 8\n}}\n'''Largemouth bass''' are a type of [[fish]].\n\nLike all types of fish, each largemouth bass gives one [[Fish Fillet|fish fillet]] when caught.\n\nThe largest weight for this class of fish is 6.685.\n\n{{Clr}}\n----\n==='''Catching largemouth bass'''===\nLargemouth bass can be caught with green [[lure]]s in any fishing spot, but their favorite spot is #3 (the reedy area under the waterfall).\n\nLargemouth bass can be caught in large circles and therefore are easier to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Largemouth bass in the fishing book'''===\n[[File:Largemouth Bass Photo.png|150px|left|Fishing book photo]]\nThe largemouth bass is on page 13 of the [[Fishing Book|fishing book]]:\n\n''This bass knows when to keep its big mouth shut. Use only the most exquisite lures!''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Forellenbarsch\n|es = Lubina negra\n|no = Lakseabbor\n}}\n[[Category:Fish]]",
   "wikitextHash": "a51e7e1315c893782f0e0acfac104523249964d439efb97fc95b4f5fe31d020e"
 }

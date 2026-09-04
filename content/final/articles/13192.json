@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Service Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Service Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -200,11 +208,12 @@
   "revisionId": 94855,
   "revisionTimestamp": "2020-07-11T22:25:17Z",
   "route": "/wiki/diner-13192",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Diner",
   "title": "Diner",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Diner.png|200px|left|Diner]]\n\n{{Infobox\n |title = [[Service Buildings|Service Building]]\n |rlevel = 3\n |price = 19,000\n}}\nThe '''diner''' is a [[Service Buildings|service building]] unlocked at [[reputation]] level 3 in the player's [[town]].\n\n{{Clr}}\n----\n=== '''Appearance''' ===\nThe appearance of the diner changes as the player upgrades it:\n<gallery>\nDiner Stage 1.png\nDiner Inside 1.png\nDiner Stage 2.png\nDiner Inside 2.png\nDiner.png\nDiner Inside.png\n</gallery>\n----\n=== '''Building''' ===\nThe diner costs 19,000 {{Infoicon|coin}} and takes 1 day (or 73 [[diamond]]s) to build.\n----\n=== '''Serving''' ===\n* When the diner is at level 1, it takes 2 hours and 30 minutes (or 6 [[diamond]]s) to serve a customer and 9 {{Infoicon|rep|link=Reputation}} are awarded.\n* Serving time can be reduced to 1 hour and 30 minutes at most.\n* Points can be increased to a maximum of 15 {{Infoicon|rep|link=Reputation}} per customer.\n----\n=== '''Upgrading''' ===\n{{Main|Service Buildings}}\nThe following materials are required to upgrade the grocery store:\n<gallery>\nPaint Bucket.png|[[Paint Bucket|Paint bucket]]\nPlank.png|[[Plank]]\nScrew.png|[[Screw]]\n</gallery>\n----\n=== '''Orders''' ===\nCustomers visiting the diner usually require products from:\n*the [[Bakery]]\n*the [[BBQ Grill]]\n*the [[Cake Oven]]\n*the [[Deep Fryer]]\n*the [[Fondue Pot]]\n*the [[Juice Press]]\n*the [[Pie Oven]]\n*the [[Sandwich Bar]]\n*the [[Soup Kitchen]]\n*the [[Taco Kitchen]]\n----\n=== '''Strategy tips''' ===\n* [[Paint Bucket|Paint buckets]] are also used to upgrade the [[Bed and Breakfast]] and the [[Town Hall]].\n* [[Plank]]s are also used to upgrade the [[barn]], and [[screw]]s the [[silo]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Imbiss\n|es = Restaurante\n|fr = Resto\n|it = Trattoria\n}}\n[[Category:Service Buildings]]",
   "wikitextHash": "709bc8a82d37fc39ac7a14bb02eb731973d55df7c81499dfc6753c2d93177853"
 }

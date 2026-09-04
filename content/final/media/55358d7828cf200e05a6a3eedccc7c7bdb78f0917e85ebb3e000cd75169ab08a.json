@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabbage.png",
+  "filePageId": 34841,
+  "filePageRevisionId": 104877,
+  "filePageRevisionSha1": "1e5afcda2e599449026cb10109d235521530418f",
+  "filePageRevisionTimestamp": "2024-02-18T15:13:08Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "6aea416f2ad88dfdf62ca5fe99fefc4f8bb32f14f28ec6b90fc2b24238d5740d",
   "height": 2028,
   "immutableUrl": null,
   "mediaId": "File:Cabbage.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 73,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T15:13:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACabbage.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1541917,
   "sourceSha1": "3ee2abd2142a1eac9add8fb6de842500ec2143ee",

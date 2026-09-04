@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Coffee Kiosk Products",
+    "Category:Cream Products",
+    "Category:Milk Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Coffee Kiosk Products",
+      "Category:Cream Products",
+      "Category:Milk Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -158,11 +174,12 @@
   "revisionId": 108948,
   "revisionTimestamp": "2025-12-09T20:15:36Z",
   "route": "/wiki/hot-chocolate-2456",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hot_Chocolate",
   "title": "Hot Chocolate",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hot Chocolate.png|200px|left|Hot chocolate]]\n\n{{Infobox\n|level = 47\n|price = 1 to 316\n|time = 25 min\n|xp = 38\n|source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n|base = 88\n|dia = 3\n|time3 = 21 min\n|title = [[Products|Product]]\n}}\n'''Hot chocolate''' is a [[products|product]] unlocked at [[experience]] level 47.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making hot chocolate'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nHot chocolate is made in the [[Coffee Kiosk]].\n\nTo make hot chocolate, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:White Sugar.png|75px|White Sugar|link=White Sugar]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 25 minutes to make hot chocolate, and 21 minutes in a fully [[Masteries|mastered]] kiosk. Each hot chocolate gives players 38 [[experience]] points.\n\n{{Clr}}----\n==='''Selling hot chocolate'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Hot chocolate can be bought or sold for a maximum price of 3,168 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make hot chocolate costs 304 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 hot chocolate per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy'''===\n* Hot chocolate is one of the rarest products to be found in [[Daily Dirt]] because of the low revenue received by selling this good. Selling hot chocolate at roadside shop is not recommended, even at maximum price. You can keep a small amount of hot chocolate in your [[Barn]] to fill truck, boat and town orders.\n\n=== '''Fun Fact''' ===\n\n* Hot Chocolate was originally only worth 32 experience points\n\n----\n{{Navigation}}\n{{Languages\n|de = Heiße Schokolade\n|es = Chocolate caliente\n|fr = Chocolat Chaud\n|it = Cioccolata calda\n|nl = Warme Chocolademelk\n|no = Varm sjokolade\n|zh = Hot Chocolate\n}}\n[[pt-br:Chocolate quente]]\n[[ru:Горячий шоколад]]\n[[Category:Coffee Kiosk Products]]\n[[Category:Milk Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "ef4c6b6d12c58ac6181a5b252f73fdcba650700447027c70d30a898296be2c9e"
 }

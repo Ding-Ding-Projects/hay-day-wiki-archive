@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Scarecrow.png",
+  "filePageId": 19273,
+  "filePageRevisionId": 65707,
+  "filePageRevisionSha1": "6577dcf388f51a07534c67f8864ff897a060ecdc",
+  "filePageRevisionTimestamp": "2016-10-24T16:15:42Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "934f36b1190fab4434ee8657279a92331833ab4df3f66e1dae250f108c097fad",
   "height": 477,
   "immutableUrl": null,
   "mediaId": "File:Scarecrow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-15T23:26:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AScarecrow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 123162,
   "sourceSha1": "8f3e876d64b6b33f23156bf08c931e1ebcfa3df9",

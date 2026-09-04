@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Cucumber Products",
+    "Category:Mayonnaise Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Cucumber Products",
+      "Category:Mayonnaise Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +159,12 @@
   "revisionId": 110055,
   "revisionTimestamp": "2026-05-14T14:14:16Z",
   "route": "/wiki/cucumber-sandwich-30756",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cucumber_Sandwich",
   "title": "Cucumber Sandwich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cucumber Sandwich.png|200px|left|Cucumber sandwich]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 79\n |price = 1 to 464\n |time = 35 min\n |xp = 55\n |source = {{Infoicon|sandwichb|bigger|link=Sandwich Bar}}\n |base = 129\n |dia = 2\n |time3 = 29 min\n}}\n'''Cucumber sandwiches''' are [[products]] unlocked at [[experience]] level 79.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cucumber sandwiches'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nCucumber sandwiches are made in the [[Sandwich Bar]].\n\nTo make a sandwich players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cucumber.png|75px|link=Cucumber|Cucumber]]\n|[[File:Mayonnaise.png|75px|link=Mayonnaise|Mayonnaise]]\n|[[File:Bread.png|75px|link=Bread|Bread]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 35 minutes to make a sandwich, and 29 minutes in a fully [[Masteries|mastered]] bar. Each sandwich gives players 55 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling cucumber sandwiches'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cucumber sandwiches can be bought or sold for a maximum price of 4644 {{Infoicon|Coin}} for 10 sandwiches.\n* Buying the ingredients required to make a cucumber sandwich costs 437 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 cucumber sandwiches per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Gurkensandwich\n|es = Sándwich de pepino\n|fr = Sandwich au Concombre\n|it = Panino col cetriolo\n|nl = Komkommersandwich\n|no = Agurksmørbrød\n|ru = Бутерброд с огурцом\n|zh = Cucumber Sandwich\n}}\n[[pt-br:Sanduíche de pepino]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Cucumber Products]]\n[[Category:Mayonnaise Products]]",
   "wikitextHash": "9289bc906e044d294eeb3679254905f23267103d7d475a4cc01fea9a7bea943f"
 }

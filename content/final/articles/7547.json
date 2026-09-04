@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57762,
   "revisionTimestamp": "2016-01-21T18:02:23Z",
   "route": "/wiki/category%2Fcategory-bbq-grill-products-7547",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:BBQ_Grill_Products",
   "title": "Category:BBQ Grill Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:BBQ Grill.png|thumb]]\nProducts of the [[BBQ Grill]].\n[[Category:Products]]",
   "wikitextHash": "1d4194d5e5928cb95b14489040deb13e0bbae19e208920f259f4a91e341fa2f2"
 }

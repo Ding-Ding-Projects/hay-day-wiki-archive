@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bird.png",
+  "filePageId": 21073,
+  "filePageRevisionId": 65808,
+  "filePageRevisionSha1": "a57bda5775f7e5529eb7b1550436dab1e763d83d",
+  "filePageRevisionTimestamp": "2016-10-26T09:31:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "00cd3ffab63af630bc7c8ee4cfad78d8166b61dd437121911722fe6a44011861",
+  "height": 200,
+  "immutableUrl": null,
+  "mediaId": "File:Bird.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-15T09:58:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ABird.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 20362,
+  "sourceSha1": "af7586b716fcda8d4d60b906b5118a858bd3024b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/70/Bird.png/revision/latest?cb=20150715095821",
+  "title": "File:Bird.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 200
+}

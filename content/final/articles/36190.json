@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Blackberry_muffin?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 106149,
   "revisionTimestamp": "2024-10-29T23:38:57Z",
   "route": "/wiki/blackberry-muffin-36190",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blackberry_muffin",
   "title": "Blackberry muffin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{delete}}",
   "wikitextHash": "c967eb5e1ab85c2e43be7174ccd02d727de93573049cdff639babd2e24d467da"
 }

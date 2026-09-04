@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Recovery_Times.png",
+  "filePageId": 27270,
+  "filePageRevisionId": 79844,
+  "filePageRevisionSha1": "d30c093e7f4ebd21a0a29964d4f167c86b1c190c",
+  "filePageRevisionTimestamp": "2018-05-01T15:48:08Z",
+  "filePageWikitext": "== Summary ==\nColorized Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "60b468ef97c638eeab994f4ef4646962fec90af464e40523435c36d2df1f425a",
+  "height": 490,
+  "immutableUrl": null,
+  "mediaId": "File:Fishing Recovery Times.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-04-11T20:22:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AFishing%20Recovery%20Times.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 804144,
+  "sourceSha1": "ab8b0368a684f40988716174486ac6a6f0ae1c3d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/81/Fishing_Recovery_Times.png/revision/latest?cb=20170411202251",
+  "title": "File:Fishing Recovery Times.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 900
+}

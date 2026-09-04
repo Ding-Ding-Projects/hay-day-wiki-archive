@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hand_Pies.png",
+  "filePageId": 33984,
+  "filePageRevisionId": 105184,
+  "filePageRevisionSha1": "d854061f283b5e9caae29655c62c9296dce963a9",
+  "filePageRevisionTimestamp": "2024-04-11T15:09:16Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "14ac50d68a2ea6ea06ed6b51138a8e61f4a31633a2217eaf6e632cf749d88a17",
   "height": 2372,
   "immutableUrl": null,
   "mediaId": "File:Hand Pies.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:09:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHand%20Pies.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 5135171,
   "sourceSha1": "8eb9eb58b29e57bd27b86bd8babf3ab2a952f70a",

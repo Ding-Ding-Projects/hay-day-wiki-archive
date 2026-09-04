@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue-and-Gold_Macaw.png",
+  "filePageId": 36467,
+  "filePageRevisionId": 108916,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2025-11-04T21:54:55Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Blue-and-Gold Macaw.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 62,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-11-04T21:54:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlue-and-Gold%20Macaw.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 155024,
   "sourceSha1": "3ce3d4ccba0564998eeb81acd9b4f79a3b8b4f8e",

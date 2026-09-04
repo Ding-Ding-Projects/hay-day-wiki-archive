@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -213,11 +221,12 @@
   "revisionId": 109403,
   "revisionTimestamp": "2026-02-13T08:34:30Z",
   "route": "/wiki/cow-2488",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cow",
   "title": "Cow",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cow.png|200px|left|Cow]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 6 • 15 • 27\n |price = 50 • 600 • 1,150\n |gives = {{Infoicon|milk|big|link=Milk}}\n |time = every 1 h\n|Gender Female=Female}}\n'''Cows''' are [[farm]] [[animals]] that produce [[milk]]. They are unlocked at [[experience]] level 6. They are the second type of farm animal unlocked in the game.\n\n{{Clr|Gender=Female}}\n----\n==='''Appearance'''===\n<gallery>\nCow.png|Cow\nCow Walking.png|Cow Walking\nCow Mooing.png|Cow Mooing\nCow Tongue.png|Cow Tongue\nCow Full.png|Cow Full\nCow Hungry.png|Cow Hungry\nFile:Cow Summer Full.png|Cow Summer Full\nFile:Cow Summer.png|Cow Summer\nFile:Cow Summer Hungry.png|Cow Summer Hungry\nFile:Cow Halloween.png|Cow Halloween\nFile:Cows Winter.png|Cows Winter\nFile:Cow Halloween Full.png|Cow Halloween Full\n</gallery>\n----\n==='''Alternate appearance'''===\n{{Main|Themes}}\nCows wear themed clothes and accessories during summer, Halloween and winter.\n----\n==='''Buying'''===\n[[File:Cow Pasture.png|150px|left|Cow pasture]]\nCows must be placed in [[Cow Pasture|cow pastures]] to be purchased. Pastures cost 20 {{Infoicon|coin}} each. They are unlocked at levels 6, 15 and 27. Each pasture can house five cows.\n\nAt level 6 cows cost 50 coins each; at level 15, 600 coins; at level 32, 1,150 coins.\n\nCows and cow pastures can be bought from the [[shop]].{{Infoicon|shop|bigger|link=Shop}}\n\n{{Clr}}\n----\n==='''Harvesting'''===\n[[File:Milk Bucket.png|150px|left|Milk bucket]]\nMilk can be collected from cows every hour. Players can skip the wait by paying 4 [[diamond]]s per cow. Players must then give cows [[Cow Feed|cow feed]] to get another harvest.\n\nCow feed is made of:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x1'''\n|'''x2'''\n|}\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n*It takes 10 minutes to make 3 units of [[Cow Feed|cow feed]]. You can easily collect all your milk and replenish your feed stock by the time the cows are ready to be milked again.\n* While milk can be found in the [[Daily Dirt]] it is a sought-after item as it is also needed to feed [[:Category:Cats|cats]].\n* Feeding farm animals and harvesting milk are common tasks in [[Derby|derbies]].\n----\n==='''Easter egg'''===\n*Tapping on a cow pasture makes the cows squint their eyes and moo.\n\n=== '''Fun facts''' ===\n\n* Cows can sleep standing up in real life.\n* Cows can see almost 360 degrees around them!\n\n----\n{{Navigation}}\n{{Languages\n|de = Kuh\n|es = Vaca\n|fr = Vache\n|it = Mucca\n|no = Ku\n|sv = Ko\n|zh = 奶牛\n}}\n[[pt-br:Vaca]]\n[[ru:Корова]]\n\n[[Category:Farm Animals]]",
   "wikitextHash": "4f91796eb43c07ac2dfda43c89beff4da53cd8c49d31c19faa8c40b1377f8b45"
 }

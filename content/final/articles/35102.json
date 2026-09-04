@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Gold_Bar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98579,
   "revisionTimestamp": "2021-08-31T21:24:20Z",
   "route": "/wiki/category%2Fcategory-gold-bar-products-35102",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Gold_Bar_Products",
   "title": "Category:Gold Bar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Gold Bar.png|thumb]]\nProducts of [[Gold Bar]].\n[[Category:Products]]",
   "wikitextHash": "db5a78763ab07e1c4fef805643c95717810ad24cfa88cec57ce0dba721d60544"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Macaroon.png",
+  "filePageId": 35554,
+  "filePageRevisionId": 104980,
+  "filePageRevisionSha1": "16fe1838fa3c87807aa18bb3218beb1764ea3e95",
+  "filePageRevisionTimestamp": "2024-03-03T13:41:31Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for the [[Macaroon]] article\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "3230cb8abf0442073e966ed267f38b609dc51bd57fe35ebfed94a7cdb59148aa",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Macaroon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-03-03T13:41:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMacaroon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 226207,
   "sourceSha1": "9efb26c68a403525337aa8d4a8a198453b43572f",

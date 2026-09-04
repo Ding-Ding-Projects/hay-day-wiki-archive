@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Magical_Sleigh.png",
+  "filePageId": 23132,
+  "filePageRevisionId": 74090,
+  "filePageRevisionSha1": "e9f5844f01f65358f9f3aa4371d5ae1412a3fe7b",
+  "filePageRevisionTimestamp": "2017-10-22T09:59:53Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1214f2a6ca93af598259a6842df3292a82aeefbd988cce921739d96b52e5e65c",
   "height": 613,
   "immutableUrl": null,
   "mediaId": "File:Magical Sleigh.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-02-19T12:23:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMagical%20Sleigh.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 432139,
   "sourceSha1": "34884e585d0446d462764deca6260b8b57ad394f",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Image.lvup.16.jpg",
+  "filePageId": 21394,
+  "filePageRevisionId": 69675,
+  "filePageRevisionSha1": "17b503a0f06d18efbab603f9504d31f149443533",
+  "filePageRevisionTimestamp": "2017-02-06T21:56:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image User]]",
+  "filePageWikitextHash": "cf817fe6b43f4557cefdfca0dfa1f9899f6fb0638b356fbd7cf51894cf8987f6",
+  "height": 1536,
+  "immutableUrl": null,
+  "mediaId": "File:Image.lvup.16.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-08-01T01:52:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AImage.lvup.16.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 626406,
+  "sourceSha1": "9b136ea56382e0a62ba35f2ea3f0a381bb605fdd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Image.lvup.16.jpg/revision/latest?cb=20150801015221",
+  "title": "File:Image.lvup.16.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2048
+}

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Black Bean Products",
+    "Category:Chili Pepper Products",
+    "Category:Sauce Maker Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Black Bean Products",
+      "Category:Chili Pepper Products",
+      "Category:Sauce Maker Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +164,12 @@
   "revisionId": 109914,
   "revisionTimestamp": "2026-05-09T22:53:21Z",
   "route": "/wiki/bean-dip-36499",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bean_Dip",
   "title": "Bean Dip",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bean Dip.png|left|200px|Bean dip]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 54\n |price = 1 to 126\n |time = 40 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 15\n |base = 35\n |dia = 3\n |time3 = 34 min\n}}\n'''Bean dip''' is a [[products|product]] unlocked at [[experience]] level 54. Like all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making bean dip'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nBean dip is made in the [[Sauce Maker]].\n\nTo make the dip, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Black Bean.png|75px|Black bean|link=Black Bean]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 40 minutes to make the dip, and 34 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 15 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling bean dip'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bean dip can be bought or sold for a maximum price of 1,260 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a bowl of bean dip costs 100 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to ? bean dip per crate, up to a total of ? per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Bohnendip\n|es = Crema de frijoles\n|fr = \n|it = Crema di fagioli neri\n|nl = \n|no = Bønnedip\n|ru = Бобовый соус\n|zh = \n}}\n[[pt-br:Pasta de feijão]]\n\n[[Category:Sauce Maker Products]]\n[[Category:Black Bean Products]]\n[[Category:Tomato Products]]\n[[Category:Chili Pepper Products]]",
   "wikitextHash": "2721039df750f607fffd56ed8241b5f1c3f08c10148d4b5eafbb3fa3b461eead"
 }

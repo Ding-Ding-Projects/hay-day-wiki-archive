@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grilled_Lamb_Skewer.png",
+  "filePageId": 36743,
+  "filePageRevisionId": 109987,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2026-05-11T19:48:07Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 564,
   "immutableUrl": null,
   "mediaId": "File:Grilled Lamb Skewer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-10T10:20:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrilled%20Lamb%20Skewer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 644336,
   "sourceSha1": "ddee5f75e567ad479114c3a0c0bf4b0d6c3348d1",

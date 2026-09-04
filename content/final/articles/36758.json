@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Events",
+    "Category:Incomplete"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Events",
+      "Category:Incomplete"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Festival_Design?action=history",
@@ -26,11 +38,12 @@
   "revisionId": 110039,
   "revisionTimestamp": "2026-05-13T01:05:22Z",
   "route": "/wiki/festival-design-36758",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Festival_Design",
   "title": "Festival Design",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Events]]\n[[Category:Incomplete]]\n[[Category:Decorations]]",
   "wikitextHash": "cc80b363292bcd193d99b69cb108e71317ac6e11806020359abd785073abb6f0"
 }

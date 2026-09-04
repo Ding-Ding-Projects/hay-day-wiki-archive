@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Expansion_Supplies?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93108,
   "revisionTimestamp": "2020-04-11T18:11:56Z",
   "route": "/wiki/expansion-supplies-33412",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Expansion_Supplies",
   "title": "Expansion Supplies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Supplies]]",
   "wikitextHash": "5266da3280ace2be9528b13ea7f2d97d83146b45d2dc5fe31c8db2b75b47c6bd"
 }

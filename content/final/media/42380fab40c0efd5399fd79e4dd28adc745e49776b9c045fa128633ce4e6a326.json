@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mango_Tree.png",
+  "filePageId": 35465,
+  "filePageRevisionId": 101033,
+  "filePageRevisionSha1": "6860aaa5145c26524f8e0f12556dab78a85e4b1c",
+  "filePageRevisionTimestamp": "2022-06-01T16:20:51Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "3305b7f74c6b7aa21de73aa6e5391d0f40ef49fea8af5d1a77d3f42c955d60ed",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Mango Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-06-01T16:20:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMango%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 247698,
   "sourceSha1": "05a13e650d65a55c78ebcdd4d4da5d3e5c9f63b0",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HD_Promo_Animals.png",
+  "filePageId": 22286,
+  "filePageRevisionId": 69874,
+  "filePageRevisionSha1": "156c4d40cee611869c33cac25b8a89723b52acd6",
+  "filePageRevisionTimestamp": "2017-02-09T20:04:01Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "dd4e82bd6fdb83aaff5e7d04e0caed7ea0b30b87fd4da0bbb68858827096813a",
   "height": 900,
   "immutableUrl": null,
   "mediaId": "File:HD Promo Animals.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-29T21:29:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHD%20Promo%20Animals.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1783358,
   "sourceSha1": "95be55cc52e1d79414cab39dce53ac37a9a61553",

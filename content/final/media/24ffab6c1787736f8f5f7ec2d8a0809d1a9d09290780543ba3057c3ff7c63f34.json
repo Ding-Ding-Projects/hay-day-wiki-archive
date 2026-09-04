@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:PicRetouch_20240519_112154039.png",
+  "filePageId": 36069,
+  "filePageRevisionId": 105294,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2024-05-19T04:22:21Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 1280,
+  "immutableUrl": null,
+  "mediaId": "File:PicRetouch 20240519 112154039.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-05-19T04:22:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3APicRetouch%2020240519%20112154039.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 1015896,
+  "sourceSha1": "b9a5f6e75f93250623820761662839ec7fd1bcc2",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/99/PicRetouch_20240519_112154039.png/revision/latest?cb=20240519042221",
+  "title": "File:PicRetouch 20240519 112154039.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1254
+}

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Logo_de_Hay_Day.png",
+  "filePageId": 28192,
+  "filePageRevisionId": 74457,
+  "filePageRevisionSha1": "353d9e1da5c40ec96ed000fdd1864bd05d6a6972",
+  "filePageRevisionTimestamp": "2017-10-22T17:11:52Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image User]]",
+  "filePageWikitextHash": "04a9dd4bba024be0ef574b61a06a90c2e9e9534fdcd14a9679b0e3c07425784c",
+  "height": 180,
+  "immutableUrl": null,
+  "mediaId": "File:Logo de Hay Day.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-07-12T16:59:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALogo%20de%20Hay%20Day.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 62629,
+  "sourceSha1": "44111b7bf8b3d89edff5a0182d3c0ee56992d763",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Logo_de_Hay_Day.png/revision/latest?cb=20170712165933",
+  "title": "File:Logo de Hay Day.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 182
+}

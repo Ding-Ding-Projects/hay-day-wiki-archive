@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grocery_Store.png",
+  "filePageId": 13151,
+  "filePageRevisionId": 108668,
+  "filePageRevisionSha1": "f3ad946c56b99e6e970fe55ab286d4b93a303b8e",
+  "filePageRevisionTimestamp": "2025-09-26T03:44:49Z",
+  "filePageWikitext": "Edited screenshot of the Grocery Store.\n{{License SC}}\n[[Category:Image_Service_Buildings]]",
+  "filePageWikitextHash": "3d8f87306cf3d9890e81b3315891b3bb2636f8a71971d0a5c08135c47d4bc4b8",
   "height": 553,
   "immutableUrl": null,
   "mediaId": "File:Grocery Store.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 23,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T03:44:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrocery%20Store.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 475867,
   "sourceSha1": "3547d8fc041c594b089db25ccdbb9b60c7fa8b81",

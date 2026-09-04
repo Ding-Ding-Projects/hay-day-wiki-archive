@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Big_Appetites_III.png",
+  "filePageId": 29624,
+  "filePageRevisionId": 79838,
+  "filePageRevisionSha1": "0d93cb9ce59310b82f39bcdd58f11c2c696afd31",
+  "filePageRevisionTimestamp": "2018-05-01T15:43:35Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "4918cd2bd9a2ee9c0f46b9089fe5fbf49ce30ecbff362a64ee2a050dbf1036d9",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Big Appetites III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T20:14:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABig%20Appetites%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 191597,
   "sourceSha1": "d1d26bf6ec2ed8c24c9fab7bcfc75a98322a8864",

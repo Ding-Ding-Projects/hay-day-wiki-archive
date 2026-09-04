@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings",
+    "Category:Farm"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings",
+      "Category:Farm"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Farm_Buildings?action=history",
@@ -39,11 +49,12 @@
   "revisionId": 78434,
   "revisionTimestamp": "2018-04-15T10:29:59Z",
   "route": "/wiki/category%2Fcategory-farm-buildings-14843",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Farm_Buildings",
   "title": "Category:Farm Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This page lists the buildings found in the [[Farm]]. Also see [[:Category:Town Buildings|Town Buildings]] and [[:Category:Fishing|Fishing]].\n[[Category:Buildings]]\n[[Category:Farm]]",
   "wikitextHash": "16a7706cd1a6cca82f092cdd50b066fcb7cacc1e5a429e37935483c7a754659b"
 }

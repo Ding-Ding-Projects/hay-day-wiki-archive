@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chamomile Products",
+    "Category:Cotton Fabric Products",
+    "Category:Sewing Machine Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chamomile Products",
+      "Category:Cotton Fabric Products",
+      "Category:Sewing Machine Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +151,12 @@
   "revisionId": 107809,
   "revisionTimestamp": "2025-04-14T00:06:59Z",
   "route": "/wiki/soothing-pad-36215",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Soothing_Pad",
   "title": "Soothing Pad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Soothing Pad.png|200px|left|Soothing Pad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 45\n |price = 1 to 324\n |time = 1 h\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 39\n |base = 90\n |dia = 4\n |time3 = 51 min\n}}\n'''Soothing Pads''' are [[products]] unlocked at [[experience]] level 45.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making soothing pads'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nSoothing pads are made in the [[Sewing Machine]].\n\nTo make a soothing pad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Chamomile.png|75px|link=Chamomile|Chamomile]]\n|-\n|'''x2'''\n|'''x5'''\n|'''x5'''\n|}\nIt takes 1 hour to make a soothing pad, and 51 minutes in a fully [[Masteries|mastered]] machine. Each pad gives players 39 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling soothing pads'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Soothing pads can be bought or sold for a maximum price of 3,240 {{Infoicon|coin}} for 10 pads.\n* Buying the ingredients required to make a pad costs 281 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 soothing pad per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Entspannungskissen\n|es = Almohada relajante\n|it = Cuscini profumati\n|no = Trøstepute\n}}\n[[pt-br:Almofada calmante]]\n[[ru:Подушка для релаксации]]\n\n[[Category:Sewing Machine Products]]\n[[Category:Wheat Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Chamomile Products]]",
   "wikitextHash": "5365dd8df1a7accef7ecd7f57b366ff3a80078359008caed8a5108f0da8a97e9"
 }

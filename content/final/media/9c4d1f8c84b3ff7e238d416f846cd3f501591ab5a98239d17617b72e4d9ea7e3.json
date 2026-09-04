@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_96.jpg",
+  "filePageId": 35341,
+  "filePageRevisionId": 100237,
+  "filePageRevisionSha1": "bad6a04ee9524713592c9d7f0311a956881607d6",
+  "filePageRevisionTimestamp": "2022-01-20T21:27:51Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5c2aea7000308aa35ee98e24efa8348e2360c472ad6e8bef1ce868561ee2d9d8",
   "height": 673,
   "immutableUrl": null,
   "mediaId": "File:Level 96.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-20T13:43:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3ALevel%2096.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 417977,
   "sourceSha1": "08f1af5556df0ecf77feda1140d764596433c218",

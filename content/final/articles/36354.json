@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Chamomile_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108213,
   "revisionTimestamp": "2025-08-05T19:59:51Z",
   "route": "/wiki/category%2Fcategory-chamomile-products-36354",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chamomile_Products",
   "title": "Category:Chamomile Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Chamomile.png|thumb]]\nProducts of [[Chamomile]].\n[[Category:Products]]",
   "wikitextHash": "663e6540f7871545b388afb1eaf78f925ec2b80fa83b50d227b230fd930f5214"
 }

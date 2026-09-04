@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wagon.png",
+  "filePageId": 32018,
+  "filePageRevisionId": 88716,
+  "filePageRevisionSha1": "e9f5844f01f65358f9f3aa4371d5ae1412a3fe7b",
+  "filePageRevisionTimestamp": "2019-10-24T20:32:43Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1214f2a6ca93af598259a6842df3292a82aeefbd988cce921739d96b52e5e65c",
   "height": 550,
   "immutableUrl": null,
   "mediaId": "File:Wagon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-24T20:32:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWagon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 283500,
   "sourceSha1": "2be0ab9cd11ac5bcb155903ec407b489cb14b8ea",

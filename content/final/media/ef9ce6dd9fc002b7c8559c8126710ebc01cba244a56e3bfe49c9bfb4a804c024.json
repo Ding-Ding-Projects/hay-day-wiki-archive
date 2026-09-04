@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-_Beginners_Guide_to_Making_Money!_Quick_Cash!",
+  "filePageId": 9084,
+  "filePageRevisionId": 17771,
+  "filePageRevisionSha1": "26fb8519608d07a78c122e64022f2fc341619dac",
+  "filePageRevisionTimestamp": "2013-11-24T03:06:10Z",
+  "filePageWikitext": "\n== Description ==\nThis video specifically looks a beginners guide making money in hay day. We will be showing you the most cost effective ways to make cash!\n[[Category:Videos]]",
+  "filePageWikitextHash": "8f6ab4dcd3d5757b8cfd8ac73a7c7570ffa03fc118d8fa5de289ae83e6113469",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day- Beginners Guide to Making Money! Quick Cash!",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-11-24T03:06:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day-%20Beginners%20Guide%20to%20Making%20Money!%20Quick%20Cash!",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 26472,
+  "sourceSha1": "832c79041e9aa7e6205e2c26f309401c1f0a400b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/ca/Hay_Day-_Beginners_Guide_to_Making_Money%21_Quick_Cash%21/revision/latest?cb=20131124030609",
+  "title": "File:Hay Day- Beginners Guide to Making Money! Quick Cash!",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

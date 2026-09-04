@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Generous_Neighbor_III.png",
+  "filePageId": 26345,
+  "filePageRevisionId": 79794,
+  "filePageRevisionSha1": "95c4ac1826d7cb45f819112bdd74e8535008a92c",
+  "filePageRevisionTimestamp": "2018-04-30T23:30:00Z",
+  "filePageWikitext": "Updated Image for Generous Neighbor III\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "1aa7bd81a8d0d62aa84860461a75885cc584bf1591c7c359b3b085c91e7f5f7a",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Generous Neighbor III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T23:29:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGenerous%20Neighbor%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 245408,
   "sourceSha1": "d31d04aaae6f3d8d74e4fd522a6de31c815f8297",

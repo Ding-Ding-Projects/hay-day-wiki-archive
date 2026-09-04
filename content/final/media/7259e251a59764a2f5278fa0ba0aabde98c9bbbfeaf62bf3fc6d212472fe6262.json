@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Skater_Sheep.png",
+  "filePageId": 34158,
+  "filePageRevisionId": 99755,
+  "filePageRevisionSha1": "a1a6ce17af7de2bc73719b59aec54960f0538c9f",
+  "filePageRevisionTimestamp": "2021-12-12T22:58:21Z",
+  "filePageWikitext": "== Summary ==\nValley Season 11 decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "6d905dd2341865ac30c99e77109ffac92bc53e2c1c2de66ce55ed235cdd45ba7",
   "height": 315,
   "immutableUrl": null,
   "mediaId": "File:Skater Sheep.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-20T13:18:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASkater%20Sheep.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 177478,
   "sourceSha1": "ad789c23ae08ac5fd80e635f8dccf42976df8f7d",

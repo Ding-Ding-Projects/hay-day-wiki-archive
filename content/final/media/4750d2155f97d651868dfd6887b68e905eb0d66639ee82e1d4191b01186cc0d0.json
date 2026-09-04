@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Smelter.png",
+  "filePageId": 2341,
+  "filePageRevisionId": 108583,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T18:52:02Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 554,
   "immutableUrl": null,
   "mediaId": "File:Smelter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T18:52:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASmelter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 288551,
   "sourceSha1": "c58ecde4d49d698582cb0ea2301bfecd4a57e01c",

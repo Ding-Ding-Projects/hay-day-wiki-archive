@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Coconut Products",
+    "Category:Mint Products",
+    "Category:Oats Products",
+    "Category:Pomegranate Products",
+    "Category:Porridge Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Coconut Products",
+      "Category:Mint Products",
+      "Category:Oats Products",
+      "Category:Pomegranate Products",
+      "Category:Porridge Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 110428,
   "revisionTimestamp": "2026-06-06T18:36:18Z",
   "route": "/wiki/fresh-porridge-35896",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fresh_Porridge",
   "title": "Fresh Porridge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fresh Porridge.png|left|184x184px|Fresh Porridge]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 122\n |price = 1 to 435\n |time = 35 min\n |source = {{Infoicon|porridgeb|bigger|link=Porridge Bar}}\n |xp = 52\n |base = 55\n |dia = 3\n |time3 = 29 min\n}}\n'''Fresh Porridge''' is a [[products|product]] unlocked at [[experience]] level 122. It was added in the September 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Fresh Porridge'''===\n[[File:Porridge Bar.png|150px|left|Porridge Bar]]\nFresh Porridge are made in the [[Porridge Bar]].\n\nTo make Fresh Porridge, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pomegranate.png|75px|Pomegranate|link=Pomegranate]]\n|[[File:Mint.png|75px|Mint|link=Mint]]\n|[[File:Coconut.png|75px|Coconut|link=Coconut]]\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 35 minutes to make Fresh Porridge, and 29 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 52 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Apple Porridge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fresh Porridge can be bought or sold for a maximum price of 4,356 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Fresh Porridge costs 412 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 fresh porridge per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n----\n{{Navigation}}\n{{Languages\n|de = Frischer Haferbrei\n|es = Gachas recién hechas\n|it = Porridge rinfrescante\n|nl = Verse Havermout Pap\n|no = Fersk grøt\n|ru = Свежая каша\n}}\n[[pt-br:Mingau fresco]]\n\n[[Category:Porridge Bar Products]]\n[[Category:Pomegranate Products]]\n[[Category:Mint Products]]\n[[Category:Coconut Products]]\n[[Category:Oats Products]]",
   "wikitextHash": "354aab241a2ff1e6f971794f585cd4dd82b4683918f03e0fcc1bca28d0e25d27"
 }

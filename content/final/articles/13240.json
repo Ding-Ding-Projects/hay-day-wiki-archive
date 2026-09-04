@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion",
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion",
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -205,11 +215,12 @@
   "revisionId": 106815,
   "revisionTimestamp": "2025-01-09T22:43:41Z",
   "route": "/wiki/map-piece-13240",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Map_Piece",
   "title": "Map Piece",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Map Piece.png|200px|left|A map piece]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 450\n |base = 125\n |dia = 14\n}}\n'''Map pieces''' are [[supplies]] used to [[expansion|expand]] the [[town]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting map pieces'''===\nA sure way to get a map piece is to buy a packet with 14 {{Infoicon|dia}}.\n\nMap pieces can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 450 {{Infoicon|coin}} per piece.\n\nFinally, map pieces can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Kartenteil\n|es = Trozo de mapa\n|fr = Morceau de carte\n|it = Frammento Di Mappa\n|no = Kartdel\n}}\n[[Category:Expansion]]\n[[Category:Supplies]]",
   "wikitextHash": "8afcf6f53914baadb16900980c6ed7a32fd6e5eee162d98c30cd3a253243e9f4"
 }

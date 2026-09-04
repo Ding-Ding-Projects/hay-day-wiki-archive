@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Cacao Products",
+    "Category:Fudge Shop Products",
+    "Category:Mint Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Cacao Products",
+      "Category:Fudge Shop Products",
+      "Category:Mint Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110244,
   "revisionTimestamp": "2026-05-26T20:33:47Z",
   "route": "/wiki/mint-fudge-35380",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mint_Fudge",
   "title": "Mint Fudge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mint Fudge.png|200px|left|Mint Fudge|link=Special:FilePath/Mint Fudge.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 102\n |price = 1 to 522\n |time = 2 h 30 m\n |source = {{Infoicon|fudges|bigger|link=Fudge Shop}}\n |xp = 62\n |base = 145\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Mint Fudge''' is a [[products|product]] unlocked at [[experience]] level 102.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mint fudge'''===\n[[File:Fudge Shop.png|150px|left|Fudge Shop|link=Special:FilePath/Fudge_Shop.png]]\nMint Fudge is made in the [[Fudge Shop]].\n\nTo make the mint fudge, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Butter.png|75px|Butter|link=Cabbage]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|[[File:Mint.png|75px|Mint|link=Mint]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 2 hours 30 minutes to make one serving, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] shop. Each serving gives players 62 [[experience]] points.\n\n{{Clr}}----\n==='''Selling mint fudge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Mint fudge can be bought or sold for a maximum price of 5,220 {{Infoicon|coin}} for 10 servings.\n* Buying the ingredients required to make the mint fudge costs 482 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 mint fudge per crate, up to a total of 4 per boat.\n\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Minzkaramelle\n|es = Fudge de menta\n|fr = Caramel à la Menthe\n|it = Fudge alla menta\n|nl = Munttoffee\n|no = Myntefudge\n|ru = Мятный ирис\n|zh = Mint Fudge\n}}\n[[pt-br:Trufa de hortelã]]\n\n[[Category:Fudge Shop Products]]\n[[Category:Butter Products]]\n[[Category:Cacao Products]]\n[[Category:White Sugar Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "2483b704062340d6ef7a239ce524c28cde6a8579dd304307e967846fd23b434f"
 }

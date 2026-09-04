@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Kittens?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 42228,
   "revisionTimestamp": "2015-03-12T13:23:16Z",
   "route": "/wiki/category%2Fcategory-kittens-18402",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Kittens",
   "title": "Category:Kittens",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of kittens available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "2b1f00696c10344c9f772a01ba78d815f7817770059987626b27b83bacf00c2b"
 }

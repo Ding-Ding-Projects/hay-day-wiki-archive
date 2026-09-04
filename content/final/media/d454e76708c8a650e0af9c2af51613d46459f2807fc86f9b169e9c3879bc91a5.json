@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bush_Lily.png",
+  "filePageId": 35424,
+  "filePageRevisionId": 100710,
+  "filePageRevisionSha1": "fb5610e48f97b8ed84bd406a3a8b9c66611d4e58",
+  "filePageRevisionTimestamp": "2022-04-27T17:10:20Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "12470d46e593a27898bc11043ae60d0b11325ad924e77889b6d3371fcbf7651d",
   "height": 525,
   "immutableUrl": null,
   "mediaId": "File:Bush Lily.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-27T17:10:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABush%20Lily.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 191747,
   "sourceSha1": "6f1b48f9507811a0b7186f9648cd9ef5d90ef452",

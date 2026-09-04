@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Jam.png",
+  "filePageId": 2332,
+  "filePageRevisionId": 104674,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-08T15:17:24Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 1220,
   "immutableUrl": null,
   "mediaId": "File:Cherry Jam.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-08T15:17:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACherry%20Jam.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1564576,
   "sourceSha1": "1fd2ee7abe284ab6199b6f640a27fee23e2e88c3",

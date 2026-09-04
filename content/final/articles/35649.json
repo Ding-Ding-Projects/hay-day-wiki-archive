@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cookie Products",
+    "Category:Cream Products",
+    "Category:Cupcake Maker Products",
+    "Category:Plain Cupcake Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cookie Products",
+      "Category:Cream Products",
+      "Category:Cupcake Maker Products",
+      "Category:Plain Cupcake Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 110419,
   "revisionTimestamp": "2026-06-06T14:30:49Z",
   "route": "/wiki/cookie-cupcake-35649",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cookie_Cupcake",
   "title": "Cookie Cupcake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cookie Cupcake.png|left|230x230px|Cookie Cupcake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 114\n |price = 1 to 712\n |time = 2 h\n |source = {{Infoicon|cupcakem|bigger|link=Cupcake Maker}}\n |xp = 85\n |base = 198\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Cookie Cupcake''' is a [[products|product]] unlocked at [[experience]] level 114. It was added in winter update 2022.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Cookie cupcake'''===\n[[File:Cupcake Maker.png|150px|left|Cupcake Maker]]\nCookie Cupcake is made in the [[Cupcake Maker]].\n\nTo make cookie cupcake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Cupcake.png|75px|Plain Cupcake|link=Plain Cupcake]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Cookie.png|75px|Cookie|link=Cookie]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make plain Cupcake, and 1 hour 42 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 85 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Cookie cupcake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cookie cupcake can be bought or sold for a maximum price of 7,128 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a plain cupcake costs 674 {{Infoicon|coin}}.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 cookie cupcake per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n* Producing a cookie cupcake requires 2 cookies, so it's best to have several cookies in stock before making them.\n{{Navigation}}\n{{Languages\n|de = Kekscupcake\n|es = Cupcake de galleta\n|it = Cupcake con biscotti\n|nl = Cupcake met Koekjes\n|no = Cookiemuffins\n|ru = Кекс с печеньем\n}}\n[[pt-br:Cupcake com cookies]]\n\n[[Category:Cupcake Maker Products]]\n[[Category:Plain Cupcake Products]]\n[[Category:Cream Products]]\n[[Category:Cookie Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "aa5288261c13fd392991204c9c10e5888bd3a8166fcffe2af410a3d0f4ea6813"
 }

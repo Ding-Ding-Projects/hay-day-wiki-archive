@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Milk Products",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Milk Products",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +185,12 @@
   "revisionId": 109421,
   "revisionTimestamp": "2026-02-14T15:43:37Z",
   "route": "/wiki/chocolate-cow-36126",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Cow",
   "title": "Chocolate Cow",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Cow.png|200px|left|Chocolate Cow]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 20\n |level = 17\n |time = 30m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 67\n |dia = 3\n |time3 = 27m\n}}\n'''Chocolate Cow''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Easter 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Cow'''===\n[[File:Easter Egg Maker 2024.png|150px|left|Easter Egg Maker 2024|link=Easter Egg Maker]]\nChocolate cows are made in the [[Easter Egg Maker]].\n\nTo make a chocolate cow, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Sugarcane.png|75px|Sugarcane|link=Sugarcane]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 30 minutes to make a chocolate cow, and 27 minutes in a 2-star and fully [[Masteries|mastered]] station. Each chocolate cow gives players 67 [[experience]] points.\n\n'''In 2025''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pumpkin Pie.png|75px|Pumpkin Pie|link=Pumpkin Pie]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x5'''\n|}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 chocolate cows per crate, up to a total of 6 per boat. Each chocolate cow used on a boat will be rewarded with 20 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Milk Products]]\n[[Category:Sugarcane Products]]\n[[Category:Cream Products]]\n\n{{Languages\n|es = Vaca de chocolate\n}}",
   "wikitextHash": "13162d2144dffc2a47ee7ad956e208d6286629c38a8bbb0c51d3abeccce4335c"
 }

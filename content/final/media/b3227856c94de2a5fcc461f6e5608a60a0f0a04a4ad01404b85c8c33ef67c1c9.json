@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_72.png",
+  "filePageId": 35315,
+  "filePageRevisionId": 99997,
+  "filePageRevisionSha1": "aec99123f83e700eaccdb8735bd37dcc9ba4da51",
+  "filePageRevisionTimestamp": "2022-01-09T21:54:12Z",
+  "filePageWikitext": "== Summary ==\nRep 72 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "f54520d18800f29a55864d05840ac03f41e83faea151560cfc5ebc129b908327",
   "height": 781,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 72.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-06T18:33:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2072.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1061382,
   "sourceSha1": "1112acfb3b5defa93e2ffea52bfdbe1d91384084",

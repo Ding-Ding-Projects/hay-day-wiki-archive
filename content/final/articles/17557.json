@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 53271,
   "revisionTimestamp": "2015-08-18T18:44:55Z",
   "route": "/wiki/category%2Fcategory-image-neighborhood-17557",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Neighborhood",
   "title": "Category:Image Neighborhood",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Neighborhood]]s.\n[[Category:Images]]",
   "wikitextHash": "e8021ea0d4a5d2b69fb17093d298e5970000c6df481bfc210ade25d85188a024"
 }

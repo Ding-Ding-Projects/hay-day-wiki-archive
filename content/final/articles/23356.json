@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Playable Areas"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Playable Areas"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78960,
   "revisionTimestamp": "2018-04-18T13:08:27Z",
   "route": "/wiki/category%2Fcategory-fishing-lake-23356",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake",
   "title": "Category:Fishing Lake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to the [[Fishing Lake]].\n[[Category:Playable Areas]]",
   "wikitextHash": "9e963d05b3fdfe6f88372336f2de90e98e8db0a5aeaa0fe773507afa6bf18e32"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_225.png",
+  "filePageId": 35861,
+  "filePageRevisionId": 103378,
+  "filePageRevisionSha1": "d4b5a5a6b017092112e1a77f2628653232ce9d25",
+  "filePageRevisionTimestamp": "2023-07-09T13:17:48Z",
+  "filePageWikitext": "== Summary ==\nLevel 225\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "c4f069f5ec2931eaf322c02b43b2ea92be144d154c66ab27180abaaec9b634a8",
   "height": 767,
   "immutableUrl": null,
   "mediaId": "File:Level 225.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-07-09T13:17:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20225.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2114905,
   "sourceSha1": "a6e8fa71a266edcebbb290ba9fad6e4d384a4e6d",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Zebra_House_Stage_1.png",
+  "filePageId": 32059,
+  "filePageRevisionId": 99606,
+  "filePageRevisionSha1": "0db85818b3ece9061a2781dd3e55274463a7a494",
+  "filePageRevisionTimestamp": "2021-12-07T23:28:39Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "0c25badf4d3c88b76ec265937e63e6a50a52cae85dc39534647242e5633fbfd1",
   "height": 428,
   "immutableUrl": null,
   "mediaId": "File:Zebra House Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-26T02:01:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AZebra%20House%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 173778,
   "sourceSha1": "4f40144ae52787222a2abb5706ef40101d080595",

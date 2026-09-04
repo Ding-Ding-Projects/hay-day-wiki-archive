@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sunflower_Stage_5.png",
+  "filePageId": 29994,
+  "filePageRevisionId": 81653,
+  "filePageRevisionSha1": "d77b7652ff24362e542f92c371e64afce1671129",
+  "filePageRevisionTimestamp": "2018-06-30T12:43:55Z",
+  "filePageWikitext": "== Summary ==\nThanks to Macmillan99.\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "9c7b5b59e79e6fc383c8ae8e54481c3cb42a4102d093618bd4743418b836a826",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Sunflower Stage 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-06-30T12:42:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASunflower%20Stage%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 210993,
   "sourceSha1": "8884dcf912683b57f9d6e1a73db9e93174d739d4",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cow_Full.png",
+  "filePageId": 6776,
+  "filePageRevisionId": 88940,
+  "filePageRevisionSha1": "a57bda5775f7e5529eb7b1550436dab1e763d83d",
+  "filePageRevisionTimestamp": "2019-10-25T19:47:10Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "00cd3ffab63af630bc7c8ee4cfad78d8166b61dd437121911722fe6a44011861",
   "height": 638,
   "immutableUrl": null,
   "mediaId": "File:Cow Full.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T19:47:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACow%20Full.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 228227,
   "sourceSha1": "1246170a429b6d3d73352eade4fded104de3d2cc",

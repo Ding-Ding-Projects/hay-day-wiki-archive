@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Peach Products",
+    "Category:Tea Leaf Products",
+    "Category:Tea Stand Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Peach Products",
+      "Category:Tea Leaf Products",
+      "Category:Tea Stand Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +157,12 @@
   "revisionId": 110179,
   "revisionTimestamp": "2026-05-23T19:04:41Z",
   "route": "/wiki/iced-tea-24979",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Iced_Tea",
   "title": "Iced Tea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Iced Tea.png|200px|left|Iced tea]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 92\n |price = 1 to 252\n |time = 30 min\n |source = {{Infoicon|teas|bigger|link=Tea Stand}}\n |xp = 30\n |base = 70\n |dia = 3\n |time3 = 25 min\n}}\n'''Iced tea''' is a [[Products|product]] unlocked at [[experience]] level 92. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making iced tea'''===\n[[File:Tea Stand.png|150px|left|Tea Stand]]\nIced tea is made in the [[Tea Stand]].\n\nTo make the tea, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peach.png|75px|link=Peach]]\n|[[File:Tea Leaf.png|75px|link=Tea Leaf|Tea leaves]]\n|-\n|'''x1'''\n|'''x3'''\n|}\nIt takes 30 minutes to make one cup of tea, and 25 minutes in a fully [[Masteries|mastered]] stand. Each cup gives players 30 [[experience]] points.\n\n{{Clr}}----\n==='''Selling iced tea'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Iced tea can be bought or sold for a maximum price of 2,520 {{Infoicon|coin}} for 10 cups.\n* Buying the ingredients required to make the tea costs 229 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 iced tea per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Eistee\n|es = Té helado\n|fr = Thé glacé\n|it = Tè freddo\n|nl = IJsthee\n|no = Iste\n|ru = Холодный чай\n|zh = Iced Tea\n}}\n[[pt-br:Chá gelado]]\n\n[[Category:Tea Stand Products]]\n[[Category:Peach Products]]\n[[Category:Tea Leaf Products]]",
   "wikitextHash": "9fa5c952e8b9d5803ff92301c81f2cc432e369ef14b14229ae4e7f50ebcd9ec6"
 }

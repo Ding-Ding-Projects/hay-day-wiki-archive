@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fudge_Shop_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 100736,
   "revisionTimestamp": "2022-04-27T18:20:38Z",
   "route": "/wiki/category%2Fcategory-fudge-shop-products-35428",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fudge_Shop_Products",
   "title": "Category:Fudge Shop Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Fudge Shop.png|thumb]]\nProducts of the [[Fudge Shop]].\n[[Category:Products]]",
   "wikitextHash": "e0dc3509d3304df813a3543d2a24552086a628ce40e38bd5144c7a4d05338239"
 }

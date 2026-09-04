@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Broccoli Products",
+    "Category:Onion Products",
+    "Category:Sesame Products",
+    "Category:Soybean Products",
+    "Category:Wok Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Broccoli Products",
+      "Category:Onion Products",
+      "Category:Sesame Products",
+      "Category:Soybean Products",
+      "Category:Wok Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110074,
   "revisionTimestamp": "2026-05-15T17:23:16Z",
   "route": "/wiki/tofu-stir-fry-32975",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tofu_Stir_Fry",
   "title": "Tofu Stir Fry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tofu Stir Fry.png|200px|left|Tofu stir fry]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 89\n |price = 1 to 306\n |time = 1 h 15 min\n |source = {{Infoicon|wokk|bigger|link=Wok Kitchen}}\n |xp = 37\n |base = 85\n |dia = 4\n |time3 = 1 h 3 min\n}}\n'''Tofu stir fry''' is a [[Products|product]] unlocked at [[experience]] level 89. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tofu stir fry'''===\n[[File:Wok Kitchen.png|150px|left|Wok Kitchen]]\nTofu Stir Fry is made in the [[Wok Kitchen]].\n\nTo make the stir fry, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Soybean.png|75px|Soybeans|link=Soybean]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Broccoli.png|75px|Broccoli|link=Broccoli]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 1 hour and 15 minutes to make one bowl, and 1 hours and 3 minutes in a fully [[Masteries|mastered]] mitchen. Each tofu stir fry gives players 37 [[experience]] points.\n\n{{Clr}}----\n==='''Selling tofu stir fry'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tofu stir fry can be bought or sold for a maximum price of 3060 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a tofu stir fry costs 264 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 tofu stir fry per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Gebratener Tofu\n|es = Salteado de tofu\n|fr = Tofu Sauté\n|it = Tofu in padella\n|nl = Tofuroerbak\n|no = Wokrett med tofu\n}}\n[[pt-br:Refogado de tofu]]\n\n[[Category:Wok Kitchen Products]]\n[[Category:Soybean Products]]\n[[Category:Sesame Products]]\n[[Category:Onion Products]]\n[[Category:Broccoli Products]]",
   "wikitextHash": "923cb37a818d8957d5ade850061fd291b41d8392ff2be0062a83c4baa09b9926"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -221,11 +229,12 @@
   "revisionId": 109002,
   "revisionTimestamp": "2025-12-21T20:02:29Z",
   "route": "/wiki/gorilla-34718",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gorilla",
   "title": "Gorilla",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{Infobox\n|rlevel = 3\n|needs = {{Infoicon|wheatb|big|link=Wheat Bundle}}\n|time = every 10 h\n|xp = 25|dia = ?|title = [[Animals|Animal]]}}[[File:Silverback Gorilla.png|left|200px]]\n'''Gorillas''' are [[sanctuary]] [[animals]]. They are unlocked at [[reputation]] level 9.\n\nLike all other sanctuary animals, players can only have four of them, one of each type.\n\n{{Clr}}\n[[File:Hay Day Sneak Peek-GORILLAS!! New Sanctuary Animal! Day at the Zoo!!|thumb|206x206px|Sneak Peek! : Gorillas!]]\n----\n==='''Appearance'''===\nGorillas have two different adult appearances: silverback and black, and two baby appearances: grey and black.\n<gallery>\nSilverback Gorilla.png|Silverback\nBrown Gorilla.png|Black\nGrey Baby Gorilla.png|Grey Baby\nBrown Baby Gorilla.png|Black Baby\n</gallery>\n----\n==='''Unlocking gorillas'''===\n[[File:Gorilla Puzzles.png|thumb|150px|left|Completed Puzzles-Adult]][[File:Gorilla Puzzles 2.png|thumb|150px|left|Completed Puzzles-Baby]]\nUnlike other animals, gorillas cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n\nOnce players have obtained the first adult gorilla, the puzzle for the other adult gorilla is unlocked, and so on for baby gorillas.\n{{Clr}}\n----\n==='''Placing gorillas'''===\nPlayers must pick up a gorilla house to be able to place the animal in the sanctuary. The house is free and can be obtained from the [[Shop]]{{Infoicon|shop|bigger|link=Shop}}.\n\nWhen the second puzzle is completed, players are asked to upgrade the house, which does not cost anything. The same happens when players complete the baby gorillas puzzle. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n<gallery hideaddbutton=\"true\">\nGorilla House Stage 1.png\nGorilla House Stage 2.png\nGorilla House Stage 3.png\nGorilla House.png\n</gallery>\n\n{{Clr}}\n----\n==='''Feeding gorillas'''===\n[[File:Wheat_Bundle.png|150px|left]]\nGorillas, like other sanctuary animals, can be fed with [[Wheat Bundle|wheat bundles]]. Once gorillas have eaten they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal and a chance to get [[supplies]]. They stay asleep otherwise.\n\nGorillas which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n\n*Tip: Waking up sanctuary animals one by one instead of using a whistle can increase your chance of getting [[supplies]].\n\n{{Clr}}\n----\n==='''Decorations'''===\nEach gorilla unlocks some [[decorations]] in the shop as specified below:\n<gallery>\nBitter Aloe.png|Bitter Aloe (Silverback)\nAfrican Violet.png|African Violet (Silverback)\nAfrican Lilly.png|African Lilly (Brown)\nPincushion Protea.png|Pincushion Protea (Brown)\nBadminton Ball Tree.png|Badminton Ball Tree (Grey Baby)\nSnake Plant.png|Snake Plant (Brown Baby)\n</gallery>\nWith each animal players are given the first pair of decorations for free. They are unlocked in the Shop when you get the first animal.\n----\n{{Navigation}}\n[[ru:Гориллы]]\n{{Languages\n|es = Gorila\n|de = Gorillas\n}}\n[[Category:Sanctuary Animals]]",
   "wikitextHash": "e47e3cfad09f4216934b612f564d9629da184893c827c6732207750a0f769951"
 }

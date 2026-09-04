@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +195,12 @@
   "revisionId": 109487,
   "revisionTimestamp": "2026-02-24T21:53:34Z",
   "route": "/wiki/honeycomb-15787",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honeycomb",
   "title": "Honeycomb",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honeycomb.png|200px|left|Honeycomb]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 39\n |price = 1 to 68\n |time = 35 min\n |xp = 8\n |source = {{Infoicon|honeyb|bigger|link=Honey Bee}}\n |base = 19\n |dia = 3\n}}\n'''Honeycomb''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 39.\n\nIt is used to make [[honey]], [[beeswax]] and [[Honey Soap|honey soap]].\n\nLike all goods, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Collecting honeycomb'''===\n[[File:Honey Bee.png|150px|left|Honey bee]]\n[[File:Beehive Tree Stage 4.png|150px|left|Beehive tree]]\nHoneycomb is collected from beehives in the [[Beehive Tree |beehive tree]].\n\nTo make one piece of honeycomb, [[Honey Bee|honey bees]] need to gather 100 drops of nectar from [[Nectar Bush|nectar bushes]] and bring them to the tree. This takes approximately 33 minutes if bushes are close enough to the tree. Honeycomb can then be collected immediately.\n\nCollecting one piece of honeycomb gives players 8 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling honeycomb'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Honeycomb can be bought or sold for a maximum price of 684 {{Infoicon|coin}} for 10 units.\n* A [[Honey Bee|honey bee]] costs between 1,500 and 3,000 {{Infoicon|coin}} and a [[Nectar Bush|nectar bush]] costs 120 {{Infoicon|coin}}.\n* The [[Beehive Tree |beehive tree]] costs 4,000 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using honeycomb'''===\nHoneycomb is used to make the following [[products]]:\n\n{{Item Usage|Honeycomb\n|Honey|2|39\n|Beeswax|3|48\n|Honey Soap|1|84\n|Chamomile Tea|1|100\n}}\n----\n==='''Strategy tips'''===\n* Recipes ask between 2 and 3 pieces of honeycomb.\n* Honeycomb is very rare to be bought. You need to prepare some of it to make other recipes.\n* Honeycomb gives low revenue that selling it is not recommended. Instead, you can use honeycomb to make honey or beeswax then sell it to get greater revenue.\n* Honeycomb is never requested in [[boat]] orders.\n----\n==='''Did you know?'''===\n[[File:Skep.png|150px|left|Skep]]\n* The woven straw basket used to collect honeycomb in the game is called a '''skep'''.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Honigwabe\n|es = Panal\n|fr = Rayon de miel\n|it = Favo\n|no = Bikake\n}}\n[[pt-br:Favo de mel]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "50fd5633dd7717005b35aab9c03ae9db81bbefb5c9b42bc1e5b3284f84bcf1a2"
 }

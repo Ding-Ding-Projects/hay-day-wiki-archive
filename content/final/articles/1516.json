@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -78,11 +86,12 @@
   "revisionId": 89855,
   "revisionTimestamp": "2019-12-08T01:36:57Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-rules-1516",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Rules",
   "title": "Hay Day Wiki:Rules",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n==='''Disclaimer'''===\nAlthough this Wiki has been recognized and advertised by Supercell, it's '''a website made by fans for fans'''. Supercell has nothing to do with it. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see Supercell’s Fan Content Policy: http://www.supercell.com/fan-content-policy.\n----\n==='''Community guidelines'''===\n*Be nice and treat all users with respect.\n*Don't ruin other users' fun.\n*Complaints to us as if we make the game, game bashing, Supercell bashing or any kind of criticism which is not expressed in a respectful and constructive way is not acceptable.\n*Spam, ads, sexual, vulgar, racist, sexist, homophobic, transphobic, antisemitic, Islamophobic, or any other kind of offensive or irrelevant content is not acceptable. See [[Help:Vandalism]] for more details.\n*Have fun!\n\nWe reserve the right to remove content which we think violate these guidelines and to block temporarily or indefinitely authors of said content without notice. We have a zero tolerance policy for spam and offensive behavior.\n----\n==='''Editing guidelines'''===\nSee [[Hay Day Wiki:Editing Guidelines]].\n----\n==='''Media guidelines'''===\nAs a general rule, only media related to Hay Day should be uploaded to the wiki.\n\nHowever, users can use other images as avatars or profile pictures as long as they are not inappropriate. We also ask users to avoid uploading family photos/videos (and ones of children in particular) for privacy and security reasons.\n\nWe reserve the right to remove media which we think could be a concern, are unused or have no foreseeable use.\n----\n==='''Licensing'''===\nMedia from or derived from the game and Supercell in general is copyrighted to Supercell. It is used with permission as per their [http://supercell.com/en/fan-content-policy/%7CFan Content Policy].\n\nThe fonts used on this website are Sigmar One by Vernon Adams, and Lobster by Impallari Type and Cyreal. They are both licensed under an [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web Open Font License].\n\nAll other content of this Wiki is licensed under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike License 3.0 (Unported)] unless otherwise specified. See [https://www.fandom.com/licensing Licensing] for details.\n----\n==='''Privacy policy'''===\nSee [https://www.fandom.com/privacy-policy Privacy Policy].\n\n[[Category:Site Administration]]",
   "wikitextHash": "7acf3d955e2b27dfeecd44a42d4229a551551ca5f5f266b36c9a34ef59a8eb68"
 }

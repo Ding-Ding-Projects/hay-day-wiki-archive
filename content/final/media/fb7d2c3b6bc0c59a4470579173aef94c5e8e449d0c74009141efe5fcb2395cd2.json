@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Avatar_Neighbor_Icon.png",
+  "filePageId": 23074,
+  "filePageRevisionId": 76252,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2017-12-27T17:12:50Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
   "height": 235,
   "immutableUrl": null,
   "mediaId": "File:Avatar Neighbor Icon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-12-27T17:11:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAvatar%20Neighbor%20Icon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 81763,
   "sourceSha1": "f91a0f0e5303040e1fb8fc3111c9d035102e889d",

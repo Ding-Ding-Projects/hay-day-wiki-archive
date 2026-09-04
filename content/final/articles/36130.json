@@ -12,7 +12,25 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Goat Milk Products",
+    "Category:Lily Products",
+    "Category:Sesame Products",
+    "Category:Toffee Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Goat Milk Products",
+      "Category:Lily Products",
+      "Category:Sesame Products",
+      "Category:Toffee Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -166,11 +184,12 @@
   "revisionId": 109583,
   "revisionTimestamp": "2026-03-25T16:31:46Z",
   "route": "/wiki/chocolate-goat-36130",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Goat",
   "title": "Chocolate Goat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Goat.png|200px|left|Chocolate Goat]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 30\n |level = 55\n |time = 1h 30m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 166\n |dia = 5\n |time3 = 1h 21m\n}}\n'''Chocolate Goat''' is a [[products|product]] unlocked at [[experience]] level 55. It's a special item used only for the Easter event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Goat'''===\n[[File:Easter Egg Maker 2024.png|150px|left|Easter Egg Maker 2024|link=Easter Egg Maker]]\nChocolate goats are made in the [[Easter Egg Maker]].\n\nTo make a chocolate goat, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Goat Milk.png|75px|Goat Milk|link=Goat Milk]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour and 30 minutes to make a chocolate goat, and 1 hour and 21 minutes in a 2-star and fully [[Masteries|mastered]] station. Each chocolate goat gives players 166 [[experience]] points.\n\n'''In 2025 and 2026''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|[[File:Lily.png|75px|Lily|link=Lily]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\nIt takes 10 minutes to make a chocolate goat. Each chocolate goat gives players 166 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1-2 chocolate goats per crate, up to a total of 6 per boat. Each chocolate goat used on a boat will be rewarded with 60 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Goat Milk Products]]\n[[Category:Cacao Products]]\n[[Category:Toffee Products]]\n[[Category:Sesame Products]]\n[[Category:Lily Products]]\n\n{{Languages\n|es = Cabra de chocolate\n}}",
   "wikitextHash": "485b4d89c1ee0e1332296b28c5f8ced20aab73873148e05264d09e0b402c46eb"
 }

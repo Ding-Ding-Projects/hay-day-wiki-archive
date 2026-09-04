@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -329,11 +337,12 @@
   "revisionId": 110215,
   "revisionTimestamp": "2026-05-24T17:57:42Z",
   "route": "/wiki/pottery-studio-35276",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pottery_Studio",
   "title": "Pottery Studio",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pottery Studio.png|left|200px|Pottery Studio]]\n\n{{Infobox\n|level = 94\n|price = 1,000,000\n|time = 4 d\n|xp = 46\n|slots = 2 \n|dia = 89\n|title = [[Production Buildings|Machine]]\n|size = 2 x 2\n}}\n\nThe '''Pottery Studio''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 94.\n\nIt is used to make [[Tea Pot|tea pots]], [[Potted Plant|potted plants]], and [[Clay Mug|clay mugs]].\n{{Clr}}\n----\n==='''Building'''===\nIt costs 1,000,000 {{Infoicon|coin}} and takes 4 days (or 89 {{Infoicon|dia}}) to build the Pottery Studio. It gives players 46 {{Infoicon|xp}} when completed.\n----\n==='''Products'''===\n{{Building Products\n|Tea Pot|94|4h/7|219\n|Potted Plant|96|3:40/7|151/26\n|Clay Mug|99|3:20/7|212\n}}\n----\n==='''Upgrading'''===\n{{Main|Production Buildings}} \nThe Pottery Studio originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n==='''Mastering'''===\nA total of 2,180 hours of production is required to [[Masteries|master]] the Pottery Studio:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n| rowspan=\"3\" |[[File:Pottery Studio Mastered.png|150px|Mastered Pottery Studio]]\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★<br />140 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★<br />410 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★★<br />1630 hrs'''\n|-\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM10Coins.png|100px]]\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\" |[[File:Pottery Studio Mastery.png|100x100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n==='''Strategy tips'''===\n\n* Compared to other late game production machines, the Pottery Studio is unusually easy to master as [[Potted Plant]] require field products and take 33 hours to finish a full 9-slot queue.\n\n==='''Did you know?'''===\n\n* It's the very first machine to have reached a million coins.\n----\n\n{{Navigation}}\n{{Languages\n|de = Töpferwerkstatt\n|es = Taller de cerámica\n|fr = Atelier de Poterie\n|it = Laboratorio artigianale\n|no = Keramikkverksted\n|ru = Гончарная печь\n}}\n[[pt-br:Ateliê de cerâmica]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "14e31c9bcc8f43ff81f2f250291aecd54c7a58de4b399f678a18e6c7b9a24d35"
 }

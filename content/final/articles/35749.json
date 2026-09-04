@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -217,11 +225,12 @@
   "revisionId": 109778,
   "revisionTimestamp": "2026-05-03T18:14:47Z",
   "route": "/wiki/pomegranate-35749",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pomegranate",
   "title": "Pomegranate",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pomegranate.png|left|261x261px|Pomegranate]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 107\n |price = 1 to 111\n |time = 1 d 3 h\n |xp = 22\n |source = {{Infoicon|pomegranatet|bigger|link=Pomegranate Tree}}\n |base = 31\n |dia = 17\n }}\n'''Pomegranate''' are fruit [[crops]] unlocked at [[experience]] level 107. They grow on [[Pomegranate Tree|pomegranate trees]] and can be harvested four times, with each harvest giving varying numbers of pomegranates. They were introduced in the Spring 2023 update. \n\nThey are used as ingredients in several food [[products]].\n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}\n----\n==='''Harvesting pomegranates'''===\n[[File:Pomegranate Tree.png|150px|left|link=Pomegranate Tree|Pomegranate tree]]\nThe first harvest gives two pomegranates, the second one three, the third and the fourth harvests give four. After the third harvest the tree wilts.\n\nAfter the first time the tree wilts, tapping on it will show a pop-out menu consisting of two options, a [[saw]] , and a sign with an exclamation mark. If you place the sign, another player can tap on it, and revive the tree for one more harvest. After that, the tree wilts, and the only way to get rid of it is by using a saw.\n\n{{Clr}}\n----\n==='''Selling Pomegranates'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Pomegranate can be sold or bought for a maximum price of 1,116 {{Infoicon|coin}} for 10 fruit.\n* Buying an pomegranate tree costs 910 {{Infoicon|coin}}.\n* Given all 13 pomegranates are collected during the four harvests, the batch can be sold for 1,450 {{Infoicon|coin}}, thus giving a profit of 540 {{Infoicon|coin}} per tree.\n\n{{Clr}}\n----\n==='''Using Pomegranates'''===\nPomegranates are used to make the following [[products]]:\n\n{{Item Usage|Pomegranate\n|Pomegranate Tea|1|107\n|Pomegranate Cake|1|108\n|Orange Salad|1|117\n|Rich Soap|1|121\n|Fresh Porridge|1|122\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4  to 6 pomegranates per crate, up to a total of 24 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* As with all trees, plant in groves of 30 so the third harvest will yield 30 trees to revive; just enough to complete a derby Help task.\n----\n\n{{Navigation}}\n{{Languages\n|de = Granatapfel\n|es = Granada\n|no = Granateple\n|ru = Гранат\n}}\n[[pt-br:Romã]]\n\n[[Category:Tree Crops]]",
   "wikitextHash": "8a7067056c6108faf5e23c8beb361fb407c2d067f0b5dab9af881231681421a5"
 }

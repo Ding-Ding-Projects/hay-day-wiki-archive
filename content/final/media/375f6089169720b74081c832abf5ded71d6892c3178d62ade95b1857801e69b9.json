@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_191.png",
+  "filePageId": 34743,
+  "filePageRevisionId": 98236,
+  "filePageRevisionSha1": "a2faf8eddaada7c1f7e92d069aa8add8770b236c",
+  "filePageRevisionTimestamp": "2021-07-15T22:07:07Z",
+  "filePageWikitext": "== Summary ==\nLevel 191 Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "0360ff2bc82ce1fa9a817300d8aa63763bfcf969b2751353879f2d56c996b88a",
   "height": 373,
   "immutableUrl": null,
   "mediaId": "File:Level 191.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-01-19T14:05:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20191.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 637632,
   "sourceSha1": "22808bb51aa9628e345423e64f38d93dec58f19f",

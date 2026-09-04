@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Cacao Products",
+    "Category:Plain Waffles Products",
+    "Category:Strawberry Products",
+    "Category:Waffle Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Cacao Products",
+      "Category:Plain Waffles Products",
+      "Category:Strawberry Products",
+      "Category:Waffle Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +148,12 @@
   "revisionId": 110449,
   "revisionTimestamp": "2026-06-07T21:06:54Z",
   "route": "/wiki/chocolate-waffles-35793",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Waffles",
   "title": "Chocolate Waffles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Waffles.png|left|184x184px|Chocolate Waffles]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 117\n |price = 1 to 637\n |time = 40 min\n |source = {{Infoicon|wafflem|bigger|link=Waffle Maker}}\n |xp = 76\n |base = 177\n |dia = 3\n |time3 = 34 min\n}}\n'''Chocolate Waffles''' is a [[products|product]] unlocked at [[experience]] level 117. It was added in May 2023.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Waffles'''===\n[[File:Waffle Maker.png|150px|left|Waffle Maker]]\nChocolate Waffle are made in the [[Waffle Maker]].\n\nTo make chocolate waffles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Waffles.png|75px|Plain Waffles|link=Plain Waffles]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Strawberry.png|75px|Strawberry|link=Strawberry]]\n|[[File:Banana.png|75px|Banana|link=Banana]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 40 minutes to make chocolate waffles, and 34 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 76 [[experience]] points.\n\n{{Clr}}----\n==='''Selling chocolate waffles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Chocolate waffles can be bought or sold for a maximum price of 6,372 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a berry waffles costs 570 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 chocolate waffles per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n----\n{{Navigation}}\n{{Languages\n|de = Schokoladenwaffeln\n|es = Gofres con chocolate\n|it = Waffle al cioccolato\n|nl = Chocoladewafels\n|no = Sjokoladevafler\n|ru = Шоколадные вафли\n}}\n[[pt-br:Waffles com frutinhas]]\n\n[[Category:Waffle Maker Products]]\n[[Category:Plain Waffles Products]]\n[[Category:Cacao Products]]\n[[Category:Strawberry Products]]\n[[Category:Banana Products]]",
   "wikitextHash": "689b14cb1d1cd663f439fabeddee08559e41b0c1ed46aeb23b8f845c742f1273"
 }

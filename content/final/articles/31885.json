@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -340,11 +348,12 @@
   "revisionId": 109680,
   "revisionTimestamp": "2026-04-14T17:08:14Z",
   "route": "/wiki/mushroom-31885",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushroom",
   "title": "Mushroom",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Mushroom.png|200px|left]]\n\n{{Infobox\n |level = 89|price = 1 to 10|time = 20 min|xp = 2|source = {{Infoicon|field|bigger|link=Farm}}|base = 3|dia = 2|title = [[Crops|Crop]]}}\n'''Mushrooms''' are field [[crops]] unlocked at [[experience]] level 89.\n\nThey are used to make [[Fish Skewer|fish skewers]], [[Mushroom Pasta|mushroom pasta]], [[Mushroom Salad|mushroom salad]] and [[Mushroom Soup|mushroom soup]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing mushrooms'''===\nMushrooms are grown in fields by planting mushroom (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 2 [[experience]] points, and takes 20 minutes to mature.\n<gallery>\nFile:Mushroom Stage 1.png\nFile:Mushroom Stage 2.png\nFile:Mushroom Stage 3.png\nFile:Mushroom Stage 4.png\nFile:Mushroom Stage 5.png\n</gallery>\n----\n==='''Selling mushrooms'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Mushrooms can be sold or bought for a maximum price of 108 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n==='''Using mushrooms'''===\nMushrooms are used to make the following products:\n\n{{Item Usage|Mushroom\n|Mushroom Salad|3|89\n|Cheese Fondue|2|91\n|Fish Skewer|3|96\n|Mushroom Pot Pie|3|97\n|Mushroom Pasta|5|101\n|Mushroom Soup|3|104\n|Veggie Bouquet|3|106\n|Winter Stew|2|112\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n[[Boat]] orders ask for 32 to 50 mushrooms per crate, up to a total of 150 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n*Recipes ask for 2-5 mushrooms. You want to make sure you always have enough of them in your silo. \n----\n\n{{Navigation}}\n\n{{Languages\n|de = Pilz\n|es = Setas\n|fr = Champignon\n|it = Fungo\n|no = Sopp\n}}\n[[pt-br:Cogumelo]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "1514f072e5c7a67c67ff5bb4971ab8b1fe6802f520cd27d7943808f18ba6e092"
 }

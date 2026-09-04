@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mi_avatar.png",
+  "filePageId": 30003,
+  "filePageRevisionId": 82083,
+  "filePageRevisionSha1": "6319ad8d05728aadb69dcc197bffd685259b1de1",
+  "filePageRevisionTimestamp": "2018-07-11T10:27:33Z",
+  "filePageWikitext": "\n[[Category:Image User]]",
+  "filePageWikitextHash": "bec19baa054da263f1fd7220d4ead034fd0e54151193702ff7ff969ca031a26b",
+  "height": 388,
+  "immutableUrl": null,
+  "mediaId": "File:Mi avatar.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-02T23:37:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AMi%20avatar.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 145661,
+  "sourceSha1": "c22605625ef88a862d080a34f7fb6509e47e138d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e1/Mi_avatar.png/revision/latest?cb=20180702233708",
+  "title": "File:Mi avatar.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 388
+}

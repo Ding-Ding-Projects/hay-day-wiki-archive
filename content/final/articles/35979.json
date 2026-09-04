@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lemon Products",
+    "Category:Milkshake Bar Products",
+    "Category:Orange Products",
+    "Category:Peach Ice Cream Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lemon Products",
+      "Category:Milkshake Bar Products",
+      "Category:Orange Products",
+      "Category:Peach Ice Cream Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -122,11 +136,12 @@
   "revisionId": 110431,
   "revisionTimestamp": "2026-06-06T21:35:09Z",
   "route": "/wiki/fruity-milkshake-35979",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fruity_Milkshake",
   "title": "Fruity Milkshake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fruity Milkshake.png|left|184x184px|Fruity Milkshake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 126\n |price = 1 to 759\n |time = 35 min\n |source = {{Infoicon|milkshakeb|bigger|link=Milkshake Bar}}\n |xp = 90 XP\n |base = 211\n |dia = 3\n |time3 = 29 min\n}}\n'''Fruity Milkshake''' is a [[products|product]] unlocked at [[experience]] level 126. It was added in winter 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Fruity Milkshake'''===\n[[File:Milkshake Bar.png|150px|left|Milkshake Bar]]\nFruity Milkshake are made in the [[Milkshake Bar]].\n\nTo make Fruity Milkshake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peach Ice Cream.png|75px|Peach Ice Cream|link=Peach Ice Cream]]\n|[[File:Orange.png|75px|Orange|link=Orange]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 35 Minutes to make Fruity Milkshake, and 29 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 90 [[experience]] points.\n\n{{Clr}}----\n==='''Selling <span lang=\"pt\" dir=\"ltr\">Fruity</span> Milkshake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fruity Milkshake can be bought or sold for a maximum price of 7,596 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Fruity Milkshake costs 737 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 Fruity Milkshake per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Fruity Milkshake is the last Product unlocked.\n----\n{{Navigation}}\n{{Languages\n|de = Frucht-Milchshake\n|es = Batido de frutas\n|it = Milkshake alla frutta\n|nl = Fruit Milkshake\n|no = Fruktmilkshake\n|ru = Фруктовый милкшейк\n}}\n[[pt-br:Milk-shake de frutas]]\n\n[[Category:Milkshake Bar Products]]\n[[Category:Peach Ice Cream Products]]\n[[Category:Orange Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "5ce76b07d088c45b0a99ecd34373b8f5396cf089167e962bd7a0ea63832d4149"
 }

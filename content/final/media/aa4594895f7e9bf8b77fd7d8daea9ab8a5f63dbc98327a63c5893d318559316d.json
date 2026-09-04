@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Champions_League.png",
+  "filePageId": 22811,
+  "filePageRevisionId": 74397,
+  "filePageRevisionSha1": "035480a7445ec53c7e39776a6047cda2270f3cdb",
+  "filePageRevisionTimestamp": "2017-10-22T15:49:45Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "d748309cb5a53ea1d3e659f6701f8926947b47684a36595f58acaa167e9194b9",
   "height": 689,
   "immutableUrl": null,
   "mediaId": "File:Champions League.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-23T09:22:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChampions%20League.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1007299,
   "sourceSha1": "c1b27403816693634a1d3499de62c7b7cb4c4b32",

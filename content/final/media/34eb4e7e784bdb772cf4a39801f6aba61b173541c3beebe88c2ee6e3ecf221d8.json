@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_205.png",
+  "filePageId": 35306,
+  "filePageRevisionId": 100024,
+  "filePageRevisionSha1": "a0a848f286d5d422df56211180fad74e1b1dfd48",
+  "filePageRevisionTimestamp": "2022-01-09T22:05:33Z",
+  "filePageWikitext": "== Summary ==\nbanner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "1f965cadbafa19766571522baefc074034528ff28968de84271dace8946ad710",
   "height": 350,
   "immutableUrl": null,
   "mediaId": "File:Level 205.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-10T14:03:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 598908,
   "sourceSha1": "6967cc9694131d0b4b831726791721c770267856",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gorilla_Statue.png",
+  "filePageId": 27528,
+  "filePageRevisionId": 74047,
+  "filePageRevisionSha1": "33ce5211197aee1b3ed14f1d73c78bd7a2525e5a",
+  "filePageRevisionTimestamp": "2017-10-22T09:59:10Z",
+  "filePageWikitext": "== Summary ==\nNew Diamond Package Deco - Gorilla Statue $39.99 for 1,500 Diamonds\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "ff3e2b65c1cc6595300bafde1cb408525f4e5b1370944a8975b85c9100903524",
   "height": 246,
   "immutableUrl": null,
   "mediaId": "File:Gorilla Statue.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-28T12:06:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGorilla%20Statue.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 69313,
   "sourceSha1": "6b4be25f0e457f862540290b6b8b90a1babd5e20",

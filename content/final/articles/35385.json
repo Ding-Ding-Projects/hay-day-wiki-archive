@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -327,11 +335,12 @@
   "revisionId": 109684,
   "revisionTimestamp": "2026-04-14T17:09:14Z",
   "route": "/wiki/chickpea-35385",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chickpea",
   "title": "Chickpea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chickpea.png|200px|left|link=Special:FilePath/Chickpea.png]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 95\n |price = 1 to 18\n |time = 1 h\n |xp= 4\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 5\n |dia = 4\n}}\n'''Chickpea''' is a field [[crops|crop]] unlocked at [[experience]] level 95.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing chickpea'''===\nChickpea is grown in [[Farm|fields]] by planting another chickpea plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 4 {{Infoicon|xp}} point, and takes 1 hour to mature.\n\n<gallery>\nFile:Chickpea Stage 1.png\nFile:Chickpea Stage 2.png\nFile:Chickpea Stage 3.png\nFile:Chickpea Stage 4.png\n</gallery>\n----\n==='''Selling chickpea'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop|Roadside Shop]]\n* Chickpea can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using chickpea'''===\nChickpea is used to make the following [[products]]:\n\n{{Item Usage|Chickpea\n|Hummus|3|95\n|Falafel|3|98\n|Samosa|2|103\n|Chickpea Stew|3|106\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat|Boat]]\n* [[Boat]] orders ask for 15 to 24 chickpea per crate, up to a total of 76 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Kichererbse\n|es = Garbanzos\n|fr = Pois Chiche\n|it = Ceci\n|no = Kikert\n}}\n[[pt-br:Grão de bico]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "9ab1de2379ac8694180133ab6ba6c1c5e7e77a103c9535b0afd9c2210900ca1b"
 }

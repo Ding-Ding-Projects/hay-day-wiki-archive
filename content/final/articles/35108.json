@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Gold_Ore_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98585,
   "revisionTimestamp": "2021-08-31T21:25:33Z",
   "route": "/wiki/category%2Fcategory-gold-ore-products-35108",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Gold_Ore_Products",
   "title": "Category:Gold Ore Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Gold Ore.png|thumb]]\nProducts of [[Gold Ore]].\n[[Category:Products]]",
   "wikitextHash": "84d6f3befe9f61b6ed68a34ad35203ce995207b4d18c42ee575c10f31fd03e04"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Succulents.png",
+  "filePageId": 35423,
+  "filePageRevisionId": 100709,
+  "filePageRevisionSha1": "fb5610e48f97b8ed84bd406a3a8b9c66611d4e58",
+  "filePageRevisionTimestamp": "2022-04-27T17:10:13Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "12470d46e593a27898bc11043ae60d0b11325ad924e77889b6d3371fcbf7651d",
   "height": 570,
   "immutableUrl": null,
   "mediaId": "File:Succulents.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-27T17:09:54Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASucculents.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 220079,
   "sourceSha1": "642159ca31c0b7d2f18cd8569d717b71ec4f09c3",

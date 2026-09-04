@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:BBQ Grill Products",
+    "Category:Egg Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:BBQ Grill Products",
+      "Category:Egg Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -191,11 +203,12 @@
   "revisionId": 107768,
   "revisionTimestamp": "2025-04-13T21:09:22Z",
   "route": "/wiki/bacon-and-eggs-2069",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_and_Eggs",
   "title": "Bacon and Eggs",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon_and_Eggs.png|200px|left|Bacon and eggs]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 11\n |price = 1 to 201\n |time = 1 h\n |xp = 24\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |base = 56\n |dia = 4\n |time3 = 51 minutes\n}}\n'''Bacon and eggs''' are [[products]] unlocked at [[experience]] level 11.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making bacon and eggs'''===\n[[File:BBQ Grill.png|150px|left|link=BBQ Grill|BBQ Grill]]\nBacon and eggs are made in the [[BBQ Grill]].\n\nTo make bacon and eggs, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Bacon.png|75px|link=Bacon|Bacon]]\n|-\n|'''x4'''\n|'''x2'''\n|}\nIt takes 1 hour to make one bacon and eggs, and 51 minutes in a fully [[Masteries|mastered]] grill. Each bacon and eggs gives players 24 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling bacon and eggs'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Bacon and eggs can be bought or sold for a maximum price of 2,016 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make bacon and eggs costs 172 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 bacon and eggs per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Bacon and Eggs are uncommon enough that selling them at a lower price is not necessary.\n* Gamers who are going to sell bacon and eggs in the mid 70's (coins, that is) per unit and below should buy the bacon (at reasonable prices near base market price) and produce their own eggs. If gamers are going to sell bacon and eggs above the mid 70's per unit, they should buy both bacon and eggs. These suggestions are for profit maximization across time.\n----\n\n{{Navigation}}\n{{Languages\n|de = Speck und Eier\n|es = Huevos con beicon\n|fr = Œufs aux Bacon\n|it = Pancetta e uova\n|nl = Eieren met Spek\n|no = Egg og bacon\n|ru = Яичница с беконом\n|sv = Bacon och ägg\n|vi = Thịt xông khói và trứng rán\n|zh = 培根煎蛋\n}}\n[[pt-br:Bacon e ovos]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Egg Products]]\n[[Category:Bacon Products]]",
   "wikitextHash": "e9bfe7d15a7f9557add3de41f57039be707634d1ad3f6a639183aef90b7cacb1"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Platinum_Ore.png",
+  "filePageId": 19002,
+  "filePageRevisionId": 110816,
+  "filePageRevisionSha1": "b39e9362cce7ad209239f2d53d213dc9c342e674",
+  "filePageRevisionTimestamp": "2026-08-03T13:15:18Z",
+  "filePageWikitext": "[[Category:Image Products]]\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "ac29ba4057b1b69ee91e0d7591e5c1b5d021fedb9cef4025d9da2b1850939ddf",
   "height": 688,
   "immutableUrl": null,
   "mediaId": "File:Platinum Ore.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-08-03T13:03:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlatinum%20Ore.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 522600,
   "sourceSha1": "d9b70d793f33b2cf4ae9a73ea56efef6610b97a9",

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cherry Products",
+    "Category:Egg Products",
+    "Category:Pineapple Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cherry Products",
+      "Category:Egg Products",
+      "Category:Pineapple Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 109073,
   "revisionTimestamp": "2026-01-06T23:59:44Z",
   "route": "/wiki/pineapple-cake-30782",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pineapple_Cake",
   "title": "Pineapple Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pineapple Cake.png|200px|left|Pineapple cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 65\n |price = 1 to 259\n |time = 1 h 15 min\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 31\n |base = 72\n |time3 = 1 h 3 min\n |dia = 4\n}}\n'''Pineapple cakes''' are [[products]] unlocked at [[experience]] level 65.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making pineapple cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nPineapple cakes are made in the [[Cake Oven]].\n\nTo make a pineapple cake players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pineapple.png|75px|link=Pineapple|Pineapples]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Cherry.png|75px|link=Cherry|Cherries]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x2'''\n|'''x4'''\n|}\nIt takes 1 hour 15 minutes to make a pineapple cake, and 1 h 3 minutes in a fully [[Masteries|mastered]] Oven. Each cake gives players 31 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling pineapple cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pineapple cakes can be bought or sold for a maximum price of 2592 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a pineapple cake costs 226 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 pineapple cakes per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Ananaskuchen\n|es = Bizcocho de piña\n|fr = Gâteau à l'Ananas\n|it = Torta all'ananas\n|nl = Ananascake\n|no = Ananascake\n|zh = Pineapple Cake\n}}\n[[pt-br:Bolo de abacaxi]]\n[[ru:Ананасовый торт]]\n\n[[Category:Cake Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Cherry Products]]\n[[Category:Pineapple Products]]",
   "wikitextHash": "eb606385e1604ef7545e6254cc4173d05226955b3d4f4ff2d9312c6189dccafa"
 }

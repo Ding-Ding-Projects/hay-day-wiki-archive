@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Coconut Products",
+    "Category:Mango Products",
+    "Category:Passion Fruit Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Coconut Products",
+      "Category:Mango Products",
+      "Category:Passion Fruit Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -161,11 +177,12 @@
   "revisionId": 109801,
   "revisionTimestamp": "2026-05-04T22:08:22Z",
   "route": "/wiki/tropical-smoothie-35569",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tropical_Smoothie",
   "title": "Tropical Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tropical Smoothie.png|200px|left|Tropical smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 104\n |price = 1 to 475\n |time = 40 min\n |xp = 57\n |source = {{Infoicon|smoothiem|bigger|link=Smoothie Mixer}}\n |base = 132\n |dia = 3\n |time3 = 34 min\n}}\n'''Tropical smoothies''' are [[products]] unlocked at [[experience]] level 104.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Tropical smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nTropical smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coconut.png|75px|link=Coconut|Coconut]]\n|[[File:Banana.png|75px|link=Banana|Banana]]\n|[[File:Passion Fruit.png|75px|link=Passion Fruit|Passion Fruit]]\n|[[File:Mango.png|75px|link=Mango|Mangos]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 40 minutes to make one smoothie, and 34 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 57 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Tropical smoothies'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Tropical  smoothies can be bought or sold for a maximum price of 4,752 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a Tropical smoothie costs 448 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Tropical smoothies per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Tropischer Smoothie\n|es = Batido tropical\n|fr = Smoothie Tropical\n|it = Frullato tropicale\n|nl = Tropische Smootie\n|no = Tropisk smoothie\n|ru = Тропический смузи\n}}\n[[pt-br:Vitamina tropical]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Coconut Products]]\n[[Category:Banana Products]]\n[[Category:Passion Fruit Products]]\n[[Category:Mango Products]]",
   "wikitextHash": "323211d8491eed77e99c80380a2170e5ec0670966a0a4cb9cc913997be36dc69"
 }

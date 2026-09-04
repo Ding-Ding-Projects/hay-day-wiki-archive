@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Big_Mystery_Box.png",
+  "filePageId": 30815,
+  "filePageRevisionId": 96128,
+  "filePageRevisionSha1": "8f8e6bead922d136d911a6016fae699076edb5ed",
+  "filePageRevisionTimestamp": "2020-10-17T20:33:56Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Mystery Boxes]]",
+  "filePageWikitextHash": "2427e5ef3487d7ee01f5c8f1d266ab5d0149dbc4e27810cb6e48c5b7c0b564bf",
   "height": 260,
   "immutableUrl": null,
   "mediaId": "File:Big Mystery Box.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-10-17T20:33:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABig%20Mystery%20Box.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 75305,
   "sourceSha1": "b4d9f7a3599ac9e685709db1364ff58d49ff17e2",

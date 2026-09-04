@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ginger_Stage_1.png",
+  "filePageId": 31940,
+  "filePageRevisionId": 88374,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2019-10-23T14:45:42Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 766,
   "immutableUrl": null,
   "mediaId": "File:Ginger Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T14:45:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGinger%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 208509,
   "sourceSha1": "265711a7b5ce3e1f16821bb8128c74eb5b39f2c6",

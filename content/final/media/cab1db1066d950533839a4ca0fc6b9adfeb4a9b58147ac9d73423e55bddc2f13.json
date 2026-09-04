@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_icy_snowflake.png",
+  "filePageId": 35711,
+  "filePageRevisionId": 102318,
+  "filePageRevisionSha1": "950f5b8db6c9799516400b2abf58de159ce797d4",
+  "filePageRevisionTimestamp": "2022-12-19T14:07:03Z",
+  "filePageWikitext": "== Summary ==\nIcy Snowflake\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "6c856062d6fc4c9f42b98757ae26bc7d98041c56a289e63b8030ff67240b996c",
+  "height": 582,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay icy snowflake.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-19T14:07:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AHayDay%20icy%20snowflake.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 236339,
+  "sourceSha1": "376b6ed99d844d66576816d855a0603ae900907d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/HayDay_icy_snowflake.png/revision/latest?cb=20221219140703",
+  "title": "File:HayDay icy snowflake.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 488
+}

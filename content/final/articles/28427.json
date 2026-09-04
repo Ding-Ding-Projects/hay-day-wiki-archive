@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Cheese Products",
+    "Category:Egg Products",
+    "Category:Fresh Pasta Products",
+    "Category:Pasta Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Cheese Products",
+      "Category:Egg Products",
+      "Category:Fresh Pasta Products",
+      "Category:Pasta Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -140,11 +156,12 @@
   "revisionId": 110089,
   "revisionTimestamp": "2026-05-16T20:22:14Z",
   "route": "/wiki/pasta-carbonara-28427",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pasta_Carbonara",
   "title": "Pasta Carbonara",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pasta Carbonara.png|left|200px|Pasta Carbonara]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 83\n |price = 1 to 410\n |time = 2 h 30 min\n |source = {{Infoicon|pastak|bigger|link=Pasta Kitchen}}\n |xp = 49\n |base = 114\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Pasta carbonara''' is a [[products|product]] unlocked at [[experience]] level 83.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making pasta carbonara'''===\n[[File:Pasta Kitchen.png|150px|left|Pasta Kitchen]]\nPasta carbonara is made in the [[Pasta Kitchen]].\n\nTo make pasta carbonara, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fresh Pasta.png|75px|Fresh pasta|link=Fresh Pasta]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Cheese.png|75px|Cheese|link=Cheese]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 2 hours and 30 minutes to make pasta carbonara, or 2 hours and 7 minutes when using a fully [[Masteries|mastered]] kitchen. Each plate gives players 49 [[experience]] points.\n\n{{Clr}}----\n==='''Selling pasta carbonara'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Pasta carbonara can be bought or sold for a maximum price of 4,104 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a 1 bowl of pasta carbonara costs 369 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n*[[Boat]] orders ask for 1 to 2 pasta carbonaras per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Nudeln alla Carbonara\n|es = Pasta carbonara\n|fr = Pâtes Carbonara\n|it = Carbonara\n|nl = Pasta Carbonara\n|no = Pasta carbonara\n|ru = Паста «Карбонара»\n|zh = Pasta Carbonara\n}}\n[[pt-br:Macarrão à carbonara]]\n\n[[Category:Pasta Kitchen Products]]\n[[Category:Egg Products]]\n[[Category:Bacon Products]]\n[[Category:Cheese Products]]\n[[Category:Fresh Pasta Products]]",
   "wikitextHash": "13fa306bc1842cc2b7d4e6b87139145421f8a9a4f72fa3ddc8cdc31b3cc823a5"
 }

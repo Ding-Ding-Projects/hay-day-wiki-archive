@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Red_Capybara_Pup.png",
+  "filePageId": 36495,
+  "filePageRevisionId": 109428,
+  "filePageRevisionSha1": "79c48a3e58fbb569d8c9637fa46f784d7c20f71c",
+  "filePageRevisionTimestamp": "2026-02-14T23:31:29Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6a260ec6d6cd3aabf727c1e825f0a552b9edcafbbfd4d848c3c23e8a3dd97019",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Red Capybara Pup.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 4,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-12-27T00:40:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARed%20Capybara%20Pup.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 169326,
   "sourceSha1": "5848dbed6d9cfc73b2d1ea24f9a07d1747784dbf",

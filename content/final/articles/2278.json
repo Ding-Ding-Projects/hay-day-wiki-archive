@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Egg Products",
+    "Category:Pie Oven Products",
+    "Category:Syrup Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Egg Products",
+      "Category:Pie Oven Products",
+      "Category:Syrup Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 107751,
   "revisionTimestamp": "2025-04-13T21:01:12Z",
   "route": "/wiki/apple-pie-2278",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple_Pie",
   "title": "Apple Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple Pie.png|200px|left|Apple pie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 28\n |price = 1 to 270\n |time = 2 h 30 m \n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 32\n |base = 75\n |time3 = 2 h 7 min\n |dia= 6\n}}\n'''Apple pies''' are [[products]] unlocked at [[experience]] level 28.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making apple pies'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nApple pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple.png|75px|link=Apple|Apples]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|[[File:Syrup.png|75px|link=Syrup|Syrup]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 2 hours and 30 minutes to make a pie, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 32 [[experience]] points.\n\n{{Clr}}----\n==='''Selling apple pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Apple pies can be bought or sold for a maximum price of 2,700 {{Infoicon|coin}} for 10 pies.\n* Buying the ingredients required to make a pie costs 231 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 apple pies per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Apfelkuchen\n|es = Tarta de manzana\n|fr = Tarte aux Pommes\n|it = Torta di mele\n|nl = Appeltaart\n|no = Eplepai\n|ru = Яблочный пирог\n|zh = Apple Pie\n}}\n[[pt-br:Torta de maçã]]\n\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Apple Products]]\n[[Category:Syrup Products]]",
   "wikitextHash": "d740822bcf35914fbb51a49e22f03e3e2b8e0015f8cd219208b9dba0faeae306"
 }

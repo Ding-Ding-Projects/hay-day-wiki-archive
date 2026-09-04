@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Balloon_Bench.png",
+  "filePageId": 27051,
+  "filePageRevisionId": 84086,
+  "filePageRevisionSha1": "f836f7e76aa051b481180eaf4963b2c1ad325ef8",
+  "filePageRevisionTimestamp": "2018-12-11T06:55:04Z",
+  "filePageWikitext": "== Summary ==\nNew Decoration - Balloon Arch Bench\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3a5c192b2e11e2f7376ccd8fefcff92d574630280c73557869058c8ab54e9308",
   "height": 700,
   "immutableUrl": null,
   "mediaId": "File:Balloon Bench.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-11T06:55:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABalloon%20Bench.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 421288,
   "sourceSha1": "97c04fda92567978d2ca32117acb9653fe90cd59",

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cucumber Products",
+    "Category:Lemon Products",
+    "Category:Onion Products",
+    "Category:Preservation Station Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cucumber Products",
+      "Category:Lemon Products",
+      "Category:Onion Products",
+      "Category:Preservation Station Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 110210,
   "revisionTimestamp": "2026-05-24T17:07:09Z",
   "route": "/wiki/pickles-35178",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pickles",
   "title": "Pickles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pickles.png|200px|left|Pickles]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 91\n |price = 1 to 270\n |time = 4 h\n |source = {{Infoicon|preservst|bigger|link=Preservation Station}}\n |xp = 32\n |base = 75\n |dia = 7\n |time3 = 3 h 24 min\n}}\n'''Pickles''' are a [[products|product]] unlocked at [[experience]] level 91.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making pickles'''===\n[[File:Preservation Station.png|150px|left|Preservation Station]]\nPickles are made in the [[Preservation Station]].\n\nTo make the pickles, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cucumber.png|75px|Cucumbers|link=Cucumber]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 4 hours to make one jar, and 3 hours and 24 minutes in a fully [[Masteries|mastered]] station. Each jar gives players 32 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling pickles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pickles can be bought or sold for a maximum price of 2,700 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the pickles costs 213 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 pickles per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Eingelegte Gurken\n|es = Pepinillos\n|fr = Cornichons\n|it = Sottaceti\n|nl = Augurken\n|no = Pikkels\n|ru = Солёные огурцы\n|zh = Pickles\n}}\n[[pt-br:Picles]]\n\n[[Category:Preservation Station Products]]\n[[Category:Cucumber Products]]\n[[Category:Onion Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "ac6ca0a8515da2ed10234e51c7ef2d825aa04dee4d2b1feaffc0d680c5bacde2"
 }

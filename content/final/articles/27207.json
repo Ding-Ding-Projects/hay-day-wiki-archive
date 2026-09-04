@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Newspaper?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 70759,
   "revisionTimestamp": "2017-04-04T12:14:50Z",
   "route": "/wiki/newspaper-27207",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Newspaper",
   "title": "Newspaper",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Daily Dirt]]",
   "wikitextHash": "8e7d193f2dbfd2b01c13dcfc5a1c9fe01fa688be5dba789a5232663b0339d401"
 }

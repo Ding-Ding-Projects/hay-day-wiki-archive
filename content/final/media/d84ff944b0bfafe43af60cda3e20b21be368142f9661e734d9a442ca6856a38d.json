@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bird_house_left.gif",
+  "filePageId": 35263,
+  "filePageRevisionId": 103469,
+  "filePageRevisionSha1": "c4b3fe15dbaa7bfa74c34e25f9143364b2246a36",
+  "filePageRevisionTimestamp": "2023-07-20T20:50:26Z",
+  "filePageWikitext": "bird house facing left\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "6c55f41d30ead76864ca76a56b6cc893961642fed09e7fd62c6ad44872eebee5",
   "height": 480,
   "immutableUrl": null,
   "mediaId": "File:Bird house left.gif",
   "mediaType": "BITMAP",
   "mime": "image/gif",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-25T05:50:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABird%20house%20left.gif",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 5261378,
   "sourceSha1": "2f4c59028d8a3e765ba1c38702e425056f90b701",

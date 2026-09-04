@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Advanced_Settings_Fishing.png",
+  "filePageId": 22757,
+  "filePageRevisionId": 76280,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2017-12-27T17:31:45Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
   "height": 697,
   "immutableUrl": null,
   "mediaId": "File:Advanced Settings Fishing.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-21T07:06:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAdvanced%20Settings%20Fishing.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 345731,
   "sourceSha1": "8332117746ab457d02bca160484113ba9d17c0ea",

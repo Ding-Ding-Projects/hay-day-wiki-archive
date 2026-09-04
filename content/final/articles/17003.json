@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake Buildings",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake Buildings",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -331,11 +341,12 @@
   "revisionId": 107454,
   "revisionTimestamp": "2025-02-28T12:11:20Z",
   "route": "/wiki/duck-salon-17003",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Duck_Salon",
   "title": "Duck Salon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Duck Salon Stage6.png|200px|left|Duck Salon]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 50\n |price = 90,000\n |time = 2 d 5 h\n |seats = 1\n}}\nThe '''Duck Salon''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 50.\n\nIt is used to extract [[Duck Feather|duck feathers]] from [[duck]]s.\n\n{{Clr}}\n----\n\n==='''Appearance'''===\nThe appearance of the salon changes as the player upgrades it:\n{| style=\"text-align: center;\n|-\n|[[File:Duck Salon Stage1.png|150px]]\n|[[File:Duck Salon Stage2.png|150px]]\n|[[File:Duck Salon Stage3.png|150px]]\n|-\n|'''With one seat'''\n|'''With two seats'''\n|'''With three seats'''\n|-\n|[[File:Duck Salon Stage4.png|150px]]\n|[[File:Duck Salon Stage5.png|150px]]\n|[[File:Duck Salon Stage6.png|150px]]\n|-\n|'''With four seats'''\n|'''With five seats'''\n|'''With six seats'''\n|}\n\n{{Clr}}\n----\n=== '''Repairing''' ===\n[[File:Duck Salon Broken.png|150px|left|Broken salon]]\nIt costs 90,000{{Infoicon|coin}} and takes 2 days and 5 hours (or 68 {{Infoicon|dia}}) to repair the Duck Salon. It gives players 34 {{Infoicon|xp}} when repaired.\n\nUnlike other machines, the Duck Salon cannot be moved or rotated.\n\n{{Clr}}\n----\n=== '''Products''' ===\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"1\" style=\"text-align: center; margin: 1em auto; border-collapse: collapse; border: 1px solid #bbb;\"\n|- style=\"background: #ddd;\"\n|[[File:Duck Feather.png|75px]]\n|- style=\"background: #ddd;\"\n|'''[[Duck Feather|Duck feather]]'''\n|- style=\"border: 1px solid #bbb;\"\n|Lvl 50\n|-\n|3 h\n|- style=\"border-top: 1px solid #bbb;\"\n|140{{Infoicon|coin}}\n|-\n|17{{Infoicon|xp}}\n|}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Duck Salon originally has one seat available. Unlocking more slots costs {{Infoicon|coin|link=Coin}}:\n{| class=\"wikitable\" style=\"text-align: center; margin: 1rem auto 2rem;\" border=\"0\" cellpadding=\"2\" cellspacing=\"1\" \n!Level\n!Cost\n!Time\n!Skip\n!Exp\n|-\n|2nd Seat\n|51 000 {{Infoicon|coin|link=Coin}}\n|13h30m\n| 37 {{Infoicon|diamond|link=Diamond}}\n| 18 {{Infoicon|xp|link=Experience}}\n|-\n|3nd Seat\n| 59 000 {{Infoicon|coin|link=Coin}}\n|16h\n| 40 {{Infoicon|diamond|link=Diamond}}\n| 20 {{Infoicon|xp|link=Experience}}\n|-\n|4th Seat\n| 72 000 {{Infoicon|coin|link=Coin}}\n|18h\n| 42 {{Infoicon|diamond|link=Diamond}}\n| 21 {{Infoicon|xp|link=Experience}}\n|-\n|5th Seat\n| 90 000 {{Infoicon|coin|link=Coin}}\n|20h30m\n| 44 {{Infoicon|diamond|link=Diamond}}\n| 22 {{Infoicon|xp|link=Experience}}\n|-\n|6th Seat\n| 115 000 {{Infoicon|coin|link=Coin}}\n|22h30m\n|46 {{Infoicon|diamond|link=Diamond}}\n|23 {{Infoicon|xp|link=Experience}}\n|}\nDucks cannot be put into the salon while it is being upgraded. Ducks which were already in it cannot be taken out before the upgrade is complete.\n----\n=== '''Mastering''' ===\nUnlike other machines, the Duck Salon cannot be mastered.\n----\n=== '''Strategy tips''' ===\n* Catching a [[duck]] takes 2 hours so you can get a maximum of 6 feathers every 5 hours (providing you steadily produce [[Duck Trap|duck traps]]).\n* Animations for the ducks sitting in the salon get more varied as you upgrade the machine.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Entensalon\n|es = Peluquería para patos\n|fr = Salon de Plumage\n|it = Salone delle anatre\n|no = Andesalongen\n}}\n[[ru:Утиный салон]]\n\n[[Category:Production Buildings]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "7e44ce8597a49c7fe5576903c507548c6a2153b1271c66912a4cfcd092593c5c"
 }

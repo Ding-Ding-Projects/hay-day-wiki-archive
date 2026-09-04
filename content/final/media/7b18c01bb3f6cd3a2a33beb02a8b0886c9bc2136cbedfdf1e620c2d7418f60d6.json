@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_santas_gifts.png",
+  "filePageId": 35718,
+  "filePageRevisionId": 102344,
+  "filePageRevisionSha1": "ca01e3c06e55448badccb6b3b2dba9e413170e89",
+  "filePageRevisionTimestamp": "2022-12-21T08:30:23Z",
+  "filePageWikitext": "== Summary ==\nSanta's Gifts\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "577dea597b98bf6436ac689d7b4499d95a835cdbf9555e47485b7029b6e42919",
   "height": 309,
   "immutableUrl": null,
   "mediaId": "File:HayDay santas gifts.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-19T14:14:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHayDay%20santas%20gifts.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 147992,
   "sourceSha1": "3f363acefdd0305f8f29db7896bbd0f1a3012590",

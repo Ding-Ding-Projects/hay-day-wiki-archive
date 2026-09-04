@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Black_Bunny_Lost.png",
+  "filePageId": 27446,
+  "filePageRevisionId": 71787,
+  "filePageRevisionSha1": "2c29d7274ebaa89a11287aa6c4319d08ef049ee3",
+  "filePageRevisionTimestamp": "2017-05-15T16:40:28Z",
+  "filePageWikitext": "== Summary ==\nBlack Bunny Lost\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "1b954b32b4bbca00bfc2c319600054ffa6926e38bb79ef599193883d70681a0d",
   "height": 319,
   "immutableUrl": null,
   "mediaId": "File:Black Bunny Lost.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-14T20:35:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlack%20Bunny%20Lost.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 80675,
   "sourceSha1": "fd3342108c35e312520fbe671236fd0b1ca62477",

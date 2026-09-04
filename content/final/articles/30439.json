@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -146,11 +154,12 @@
   "revisionId": 95897,
   "revisionTimestamp": "2020-09-10T21:22:34Z",
   "route": "/wiki/mailbox-30439",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mailbox",
   "title": "Mailbox",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n {{PageDisplay}}\n'''Mailboxes''' are game features that let players receive letters, order [[Catalogue|packages]], browse the game's [[newspaper]] and trade items with [[Neighborhood|neighbors]]. There are three mailboxes: one for the newspaper, one for letters and packages, and one for the neighborhood.\n\nThe newspaper mailbox is unlocked at [[experience]] level 7; the neighborhood mailbox at level 10; the letter mailbox at level 15.\n----\n==='''Newspaper'''===\n[[File:Newspaper Mailbox.png|100px|left|Newspaper mailbox]]\n{{Main|Daily Dirt}}\nThe [[Daily Dirt]] is a fictional newspaper where players can see ads for items other players are selling in their [[Roadside Shop|roadside shops]]. Every player gets a unique version of the Daily Dirt.\n\nThe newspaper is renewed every 2 minutes or so. The mailbox moves when it happens.\n\n{{Clr}}\n----\n==='''Neighborhood'''===\n[[File:Neighborhood Mailbox Full.png|100px|left|Neighborhood mailbox]]\n{{Main|Neighborhood}}\nThe neighborhood mailbox (also called 'birdhouse') lets players request items from their neighbors and view their neighbors' requests. Tapping the mailbox loads the request board.\n\n{{Clr}}\n----\n==='''Letters'''===\n[[File:Mailbox.png|Letter mailbox|100px|left]]\n[[File:Mailbox Full.jpg|Full mailbox|100px|left]]\nPlayers get thank-you letters when they have helped other players. [[Alfred]], the postman, comes everyday at 12:00 AM UTC to deliver the mail.\n\nPlayers can tap on the mailbox to read their letters and collect the [[Gift Card|gift cards]] that may be enclosed in the letters.\n\nThis mailbox can contain up to 40 letters. If this limit has been reached, Alfred no longer delivers any mail. When a mailbox is full, the player can see mail lying on the ground around the mailbox.\n\nSee [[Gift Card]] for more about these.\n\n{{Clr}}\n----\n==='''Packages'''===\n[[File:Mailbox.png|Letter mailbox|100px|left]]\n{{Main|Catalogue}}\nThe letter mailbox also contains the [[Catalogue]]. Players can use their [[Gift Card|gift cards]] to purchase mystery packages featured in it. [[Alfred]] also delivers these.\n\n{{Clr}}\n----\n\n{{TradeMenu}}\n\n{{Languages\n|es = Buzón de correo\n}}\n[[Category:Trade]]",
   "wikitextHash": "c7e9a7609795dac2f6921dae3acaebaffe793f697f0f97290ba5b5ddafbf4375"
 }

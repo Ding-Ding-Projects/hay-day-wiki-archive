@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Orange_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98646,
   "revisionTimestamp": "2021-09-06T22:44:08Z",
   "route": "/wiki/category%2Fcategory-orange-products-35145",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Orange_Products",
   "title": "Category:Orange Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Orange.png|thumb]]\nProducts of [[Orange]].\n[[Category:Products]]",
   "wikitextHash": "ab7ef70b304c1fd6633a1bf9072ed27c4a543c3a26dd430691052263a48d52aa"
 }

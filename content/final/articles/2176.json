@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Milk Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Milk Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -195,11 +209,12 @@
   "revisionId": 105870,
   "revisionTimestamp": "2024-09-23T18:00:52Z",
   "route": "/wiki/vanilla-ice-cream-2176",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Vanilla_Ice_Cream",
   "title": "Vanilla Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Vanilla Ice Cream.png|left|200px|Vanilla ice cream]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 29\n |price = 1 to 172\n |time = 2 h\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 20\n |base = 48\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Vanilla ice cream''' is a [[Products|product]] unlocked at [[experience]] level 29.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making vanilla ice cream'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nVanilla ice cream is made in the [[Ice Cream Maker]].\n\nTo make vanilla ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|link=Milk|Milk x1]]\n|[[File:Cream.png|75px|link=Cream|Cream x1]]\n|[[File:White Sugar.png|75px|link=White Sugar|White sugar x1]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\n\nIt takes 2 hours to make one cone, or 1 hour and 42 minutes in a fully [[Masteries|mastered]] machine. Each cone gives players 20 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling vanilla ice cream'''===\n[[File:Roadside Shop.png|left|150px|Roadside shop]]\n* Vanilla ice cream can be bought or sold for a maximum price of 1,728 {{Infoicon|coin}} for 10 cones.\n* Buying the ingredients required to make vanilla ice cream costs 132 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n\n\n==='''Using vanilla ice cream'''===\nVanilla ice cream is used to make the following [[products]]:\n\n{{Item Usage|Vanilla Ice Cream\n|Affogato|1|78\n|Vanilla Milkshake|1|124\n}}\n{{Clr}}----\n\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 vanilla ice cream per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Ice cream is an extremely sought-after item. You rarely find it in the [[Daily Dirt]]. You may want to make sure you always have some in stock or in production.\n\n{{Clr}}\n----\n=== '''Did You Know?''' ===\n\n* Despite stating \"Vanilla Ice Cream\" in the product, Vanilla Ice Cream doesn't require vanilla to make as it doesn't exist currently in Hay Day\n----\n{{Navigation}}\n{{Languages\n|de = Vanilleeis\n|es = Helado de vainilla\n|fr = Glace à la Vanille\n|it = Gelato alla vaniglia\n|nl = Vanille-ijs\n|no = Vaniljeis\n|zh = Vanilla Ice Cream\n}}\n[[pt-br:Sorvete de baunilha]]\n[[ru:Ванильное мороженое]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Milk Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "e8dbe2cc5c184cfc716de163ed486bacd53677ea6d760928bb3bf75ea62c99ac"
 }

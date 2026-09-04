@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tea_Leaf_Stage_1.png",
+  "filePageId": 26393,
+  "filePageRevisionId": 89353,
+  "filePageRevisionSha1": "a9d3570d15a8c32e0a9fa70edd1cf871cfddc83c",
+  "filePageRevisionTimestamp": "2019-10-28T16:44:33Z",
+  "filePageWikitext": "Tea Leaves Stage 1\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "e644efe5ebb6a3ddd9d73e4a8eb843cef8ac0073051f5182f2990a0c2bb0dcaa",
   "height": 134,
   "immutableUrl": null,
   "mediaId": "File:Tea Leaf Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:44:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATea%20Leaf%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 13535,
   "sourceSha1": "f2e928bd8abd4d9efa49225ded1d544dfbfe04a2",

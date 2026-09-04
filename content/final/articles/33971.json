@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -190,11 +198,12 @@
   "revisionId": 110493,
   "revisionTimestamp": "2026-06-08T20:02:28Z",
   "route": "/wiki/squirrel-house-33971",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Squirrel_House",
   "title": "Squirrel House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Squirrel House Stage 4.png|200px|left|Squirrel house]]\n\n{{Infobox\n |level = 62|price = 45,000|houses = {{Infoicon|squirrel|big|link=Squirrel}} x8|title = [[Animal Shelters|Animal Shelter]]}}\nThe '''squirrel house''' is a shelter for [[Squirrel|squirrels]]. It is unlocked at [[experience]] level 62.\n\nIt can be grown to shelter more squirrels.\n\n{{Clr}}\n----\n==='''Growing '''===\nThe growth cycle of the squirrel house depends on how many peanut pods have been brought to the squirrel house by the squirrels:\n* when squirrels have collected 5,500 peanut pods from the [[Peanut Bush|peanut bushes]] the house gets another set of doors and can hold two more squirrels.\n* the same happens when squirrels have collected 80,000 pods.\n* the same happens when squirrels have collected 270,000 pods. The tree stops growing then.\n\nAs the house grows its overall appearance changes:\n\n{{BigIcon|Squirrel House Stage 1}}{{BigIcon|Squirrel House Stage 2}}{{BigIcon|Squirrel House Stage 3}}{{BigIcon|Squirrel House Stage 4}}\n\n----\n==='''Buying'''===\nThe squirrel house can be purchased in the [[shop]] for 45,000 {{Infoicon|coin}}. {{Infoicon|shop|bigger|link=Shop}}\n\nPlayers can only have one squirrel house.\n----\n==='''Harvesting'''===\nThe house itself does not produce anything: squirrels produce [[peanuts]] within the squirrel house. Peanuts are produced instantaneously once 300 peanut pods have been brought to the house. This takes approximately 5 hours.\n----\n==='''Did You Know?'''===\nWhen the Squirrel House was originally introduced 350,000 peanut pods were required to earn the 3-start mastery.\n----\n{{Navigation}}\n{{Languages\n|de = Eichhörnchenbaum\n|es = Árbol de ardillas\n|fr = Arbre à ruches\n|it = Albero Con Alveare\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "5e2f5ded5bbdc35f5ca5786ab143e220b59d46eafd3635f2503f60762b0e2aaf"
 }

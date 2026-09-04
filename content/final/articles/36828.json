@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Carrot_Pie_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 110538,
   "revisionTimestamp": "2026-06-15T21:12:27Z",
   "route": "/wiki/category%2Fcategory-carrot-pie-products-36828",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Carrot_Pie_Products",
   "title": "Category:Carrot Pie Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Carrot Pie.png|thumb]]\nProducts of [[Carrot Pie]].\n[[Category:Products]]",
   "wikitextHash": "b550f83570a456a97b9d2668b3ca7c0c079015dd1b0713babb3d17b33429ffcd"
 }

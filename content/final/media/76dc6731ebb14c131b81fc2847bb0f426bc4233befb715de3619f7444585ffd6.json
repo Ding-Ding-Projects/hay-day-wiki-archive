@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beehive_Tree_Stage_1.png",
+  "filePageId": 15843,
+  "filePageRevisionId": 103464,
+  "filePageRevisionSha1": "bf45ff07b75b7c5fb1e22e758082fe70a368cf2d",
+  "filePageRevisionTimestamp": "2023-07-20T20:48:33Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "a6ce05a8fa962fc1beb7e671f18053119e28292f91a3a5a831e532d05409370d",
   "height": 396,
   "immutableUrl": null,
   "mediaId": "File:Beehive Tree Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:18:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeehive%20Tree%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 158079,
   "sourceSha1": "cc4577a586905b5f0900b3f72d7b4b19a92e9012",

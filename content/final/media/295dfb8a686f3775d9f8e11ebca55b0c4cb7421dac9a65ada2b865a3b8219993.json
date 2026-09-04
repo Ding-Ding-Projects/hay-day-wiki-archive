@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Deco_Mystery_Package.png",
+  "filePageId": 17597,
+  "filePageRevisionId": 73825,
+  "filePageRevisionSha1": "9904de159ace24fc684d92346f17680541538e04",
+  "filePageRevisionTimestamp": "2017-10-21T10:22:10Z",
+  "filePageWikitext": "Picture of the mystery deco package.\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "d0a6c5ab9d873b9cf8b14fb2531027620a40237ca88d25e26c27c5f4e01df337",
   "height": 1238,
   "immutableUrl": null,
   "mediaId": "File:Deco Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:07:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADeco%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 359382,
   "sourceSha1": "63cc3ea0ed452333d2bff3bf86074e64db28353d",

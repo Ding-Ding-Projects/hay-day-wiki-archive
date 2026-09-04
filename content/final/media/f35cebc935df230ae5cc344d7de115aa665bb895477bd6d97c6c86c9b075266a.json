@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_Cookie.png",
+  "filePageId": 34684,
+  "filePageRevisionId": 105180,
+  "filePageRevisionSha1": "a2c91b8a4ac6cad77987490f78d367b3173b7e1e",
+  "filePageRevisionTimestamp": "2024-04-11T15:06:53Z",
+  "filePageWikitext": "== Summary ==\nTemp image until official is released.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "849bfd1cdbec236e3849b2c5e818747702f55e354df2bc8f13608a838d6c51fd",
   "height": 2428,
   "immutableUrl": null,
   "mediaId": "File:Gingerbread Cookie.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:06:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGingerbread%20Cookie.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 6286958,
   "sourceSha1": "fcdb89305cc81c00506c86b960df6a25b6f2afb9",

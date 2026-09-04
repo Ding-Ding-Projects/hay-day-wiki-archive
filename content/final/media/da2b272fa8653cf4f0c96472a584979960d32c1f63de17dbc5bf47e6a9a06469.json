@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Screenshot_20200211_102901_com.supercell.hayday.jpg",
+  "filePageId": 32442,
+  "filePageRevisionId": 90371,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2020-02-11T08:37:20Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 1600,
+  "immutableUrl": null,
+  "mediaId": "File:Screenshot 20200211 102901 com.supercell.hayday.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-02-11T08:37:20Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AScreenshot%2020200211%20102901%20com.supercell.hayday.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 1639577,
+  "sourceSha1": "694de36f886ae7851f7fe4a3348be04b34007b1f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b9/Screenshot_20200211_102901_com.supercell.hayday.jpg/revision/latest?cb=20200211083720",
+  "title": "File:Screenshot 20200211 102901 com.supercell.hayday.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2560
+}

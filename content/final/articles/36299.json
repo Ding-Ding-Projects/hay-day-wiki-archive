@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blue Woolly Hat Products",
+    "Category:Cotton Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blue Woolly Hat Products",
+      "Category:Cotton Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -104,11 +118,12 @@
   "revisionId": 108957,
   "revisionTimestamp": "2025-12-17T13:54:28Z",
   "route": "/wiki/polka-dot-gift-36299",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Polka_Dot_Gift",
   "title": "Polka Dot Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Polka Dot Gift.png|200px|left|Polka Dot Gift|link=Special:FilePath/Polka Dot Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 10\n |level = 20\n |time = 10m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp = 87\n |dia = 2\n |time3 = 8m\n}}\n\n'''Polka Dot Gift''' is a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Christmas event. In 2025 event, it is unlocked at [[experience]] level 50.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Polka Dot Gifts'''===\n[[File:Gift Wrapping Station 2024.png|150px|left|Gift Wrapping Station 2024|link=Special:FilePath/Gift_Wrapping_Station 2024.png]]\nPolka Dot Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a polka dot gift in the Christmas 2024 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Woolly Hat.png|75px|Blue woolly hat|link=Blue Woolly Hat]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\n\nIt takes 10 minutes to make one gift, and 8 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 87 [[experience]] points.\n\nTo make a polka dot gift in the '''Christmas 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Starry Gift.png|75px|Starry Gift|link=Starry Gift]]\n|[[File:Goat Cheese.png|75px|Goat Cheese|link=Goat Cheese]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a gift. Each treat gives players 113 experience points.\n{{Clr}}\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 10 [[holly]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Geschenk mit Tupfen\n|es = Regalo de lunares\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Blue Woolly Hat Products]]\n[[Category:Raspberry Products]]\n[[Category:Cotton Products]]",
   "wikitextHash": "5d96f91c8ece4e0d3fe318d6e9c8da898322a7e9fe722d0b59491c64cd635120"
 }

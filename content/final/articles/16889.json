@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals",
+    "Category:Fishing"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals",
+      "Category:Fishing"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -146,11 +156,12 @@
   "revisionId": 91576,
   "revisionTimestamp": "2020-03-29T21:33:01Z",
   "route": "/wiki/lobster-16889",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster",
   "title": "Lobster",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster.png|200px|left|Lobster]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 44\n |price = Free\n |gives = {{Infoicon|lobstert|big|link=Lobster Tail}}\n |time = every 12 h\n|dia = 8\n}}\n'''Lobsters''' are [[animals]] found in the [[Fishing Lake|fishing lake]]. They produce [[Lobster Tail|lobster tails]].\n\nThey are unlocked at [[experience]] level 44 when the [[Lobster Pool]] can be repaired.\n\n{{Clr}}\n----\n==='''Appearance'''===\nLobsters have two main states -swimming in the pool and floating when they are bloated. They get more varied swimming animations as players upgrade the salon. Unlike other animals, they do not change appearance during seasonal [[themes]].\n\n{{BigIcon|Lobster Ready}}\n----\n==='''Catching lobsters'''===\n[[File:Lobster Trap Full.png|150px|left|A lobster in a trap]]\nLobsters can be caught with [[Lobster Trap|lobster traps]] made in the [[Net Maker]]. Catching a lobster takes six hours or by paying 8 diamonds to expedite harvesting them. Lobsters must then stay in the [[Lobster Pool]] for another six hours before they yield tails.\n\n{{Clr}}\n[[File:Lobster Pool Stage 6.png|150px|left|The lobster pool]]\nThe pool can initially contain only one lobster. Players must upgrade it using [[coin]]s to make room for more lobsters (to a maximum of six lobsters).\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Hummer\n|es = Langosta\n|fr = Homard\n|it = Aragosta\n}}\n[[Category:Fishing]]\n[[Category:Farm Animals]]",
   "wikitextHash": "b4eefb7ec267a8fd8b714783e8e84d69cbc49a3b2664deef20c71a7797cb7b8e"
 }

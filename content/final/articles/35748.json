@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pages with broken file links",
+    "Category:Trees and Bushes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pages with broken file links",
+      "Category:Trees and Bushes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -200,11 +210,12 @@
   "revisionId": 110160,
   "revisionTimestamp": "2026-05-21T23:24:29Z",
   "route": "/wiki/pomegranate-tree-35748",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pomegranate_Tree",
   "title": "Pomegranate Tree",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pomegranate Tree.png|left|229x229px|Pomegranate tree]]\n{{Infobox\n |title = [[Trees and Bushes|Trees & bushes]]\n |level = 107\n |price = 910\n |gives = {{Infoicon|pomegranate|big|link=Pomegranate}}\n |time = every 1 d 3 h\n |xp = 22\n |dia = 17\n}}\n'''Pomegranate trees''' are a type of [[Trees and Bushes|tree]] unlocked at [[experience]] level 107.\n\nEach tree can give up to 13 [[Pomegranate]]s, which are collected over 4 harvests.\n\n{{Clr}}\n----\n==='''Stages'''===\n{| style=\"text-align: center;\"\n|-\n|[[File:Pomegranate Tree Stage 1.png|100px]]\n|[[File:Pomegranate Tree Stage 2.png|100px]]\n|[[File:Pomegranate Tree.png|100px]]\n|[[File:Pomegranate Tree Dead.png|100px]]\n|-\n|'''Stage 1'''\n|'''Stage 2'''\n|'''Ready'''\n|'''Dead'''\n|}\n----\n==='''Buying'''===\n{{Infoicon|shop|bigger|link=Shop}} Pomegranate trees can be purchased in the [[shop]] for 910 [[coin]]s each.\n----\n==='''Harvesting'''===\nThe time between harvests is 1 day and 2 hours for each tree. Each harvest yields additional pomegranates:\n{| style=\"text-align: center;\"\n|-\n|[[File:Pomegranate Tree Harvest 2.png|100px]]\n|[[File:Pomegranate Tree Harvest 3.png|100px]]\n|[[File:Pomegranate Tree.png|100px]]\n|-\n|'''2 Pomegranates'''\n|'''3 Pomegranates'''\n|'''4 Pomegranates'''\n|}\n\n{{Clr}}\n----\n==='''Revival'''===\n[[File:Pomegranate Tree Revival.png|150px|left|Pomegranate tree up for revival]]\nAfter the third harvest the tree wilts. A player can ask for another player to revive it by tapping on it and placing a sign on the tree. When another player revives it a final harvest of four pomegranates can be collected before the tree dies.  The helper gets 22 {{Infoicon|xp}} points by reviving a pomegranate tree.\n\n{{Clr}}\n----\n==='''Removing'''===\n[[File:Saw.png|left|150px]]\nA [[saw]] is needed to remove a dead tree from the farm. Note that players may also use a saw to remove the tree after the third harvest instead of placing it up for revival.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Granatapfelbaum\n|es = Granado\n|it = Melograno\n|no = Granatepletre\n|ru = Гранатовое дерево\n}}\n\n\n[[Category:Trees and Bushes]]",
   "wikitextHash": "519668c2487e0c19a8cae2893fa543f0444eee8633d9145de082884576f02cb3"
 }

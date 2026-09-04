@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98544,
   "revisionTimestamp": "2021-08-31T20:55:46Z",
   "route": "/wiki/category%2Fcategory-white-sugar-products-35067",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:White_Sugar_Products",
   "title": "Category:White Sugar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:White Sugar.png|thumb]]\nProducts of [[White Sugar]].\n[[Category:Products]]",
   "wikitextHash": "720744fac0ed27f1848e86afed4e1cb315cd3105b60cb3a01eb8db141480ca54"
 }

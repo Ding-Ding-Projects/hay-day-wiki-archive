@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Big_Gate.png",
+  "filePageId": 23814,
+  "filePageRevisionId": 77344,
+  "filePageRevisionSha1": "3c276989c6922fc585cc46275913b2c0338a9e93",
+  "filePageRevisionTimestamp": "2018-02-07T18:57:25Z",
+  "filePageWikitext": "NEW Asian Theme Decoration - Big Gate\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "ad00b32332a02dad2365bbe14b6c56062695bf1e809ab80fcb9b22a8f163cd6c",
   "height": 764,
   "immutableUrl": null,
   "mediaId": "File:Big Gate.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:57:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABig%20Gate.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 341444,
   "sourceSha1": "90c9b059bd5b0dfdbc5c566a60575b1a57e36882",

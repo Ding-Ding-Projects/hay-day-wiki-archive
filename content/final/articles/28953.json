@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Needs_Update?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89069,
   "revisionTimestamp": "2019-10-26T04:15:20Z",
   "route": "/wiki/category%2Fcategory-needs-update-28953",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Needs_Update",
   "title": "Category:Needs Update",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pages, templates and categories which need to be updated when/after updates go live.\n[[Category:Site Administration]]",
   "wikitextHash": "9f922d99ca54c07a6d13bc26662944382869f1124f6fba9be6ed236646605a22"
 }

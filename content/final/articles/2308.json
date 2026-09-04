@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Egg Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Egg Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +193,12 @@
   "revisionId": 108908,
   "revisionTimestamp": "2025-11-04T21:37:01Z",
   "route": "/wiki/bacon-pie-2308",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_Pie",
   "title": "Bacon Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon Pie.png|200px|left|Bacon pie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 18\n |price = 1 to 180\n |time = 3 h\n |xp = 26\n |source = {{Infoicon|PieO|bigger|link=Pie Oven}}\n |base = 50\n |dia = 6\n |time3 = 2 hr 33 min\n}}\n'''Bacon pies''' are [[products]] unlocked at [[experience]] level 18.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making bacon pies'''===\n[[File:Pie Oven.png|150px|left|link=Pie Oven|Pie Oven]]\nBacon pies are made in the [[Pie Oven]].\n\nTo make a bacon pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|link=Wheat]]\n|[[File:Bacon.png|75px|link=Bacon]]\n|[[File:Egg.png|75px|link=Egg]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 3 hours to make one bacon pie, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 26 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling bacon pies'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Bacon pies can be bought or sold for a maximum price of 1.800 {{Infoicon|coin}} for 10 pies.\n* Buying the ingredients required to make a pie costs 174 {{Infoicon|coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders require 1 to 3 bacon pies per crate, up to a total of 9 per boat.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Speckkuchen\n|es = Tarta de beicon\n|fr = Tarte au Bacon\n|it = Pasticcio di pancetta\n|nl = Spekquiche\n|no = Baconpai\n|ru = Пирог с беконом\n|zh = 熏肉派\n}}\n[[pt-br:Torta de bacon]]\n\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Bacon Products]]",
   "wikitextHash": "b5114332ec219f6ad4617191fd360730456a92de2f219290b7aba76aa11f02b1"
 }

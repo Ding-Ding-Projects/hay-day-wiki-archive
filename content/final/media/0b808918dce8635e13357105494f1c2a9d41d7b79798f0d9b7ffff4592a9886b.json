@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cinema.png",
+  "filePageId": 18803,
+  "filePageRevisionId": 104926,
+  "filePageRevisionSha1": "1889294ef6b63188c2dabf3ec0da58164ec87ff8",
+  "filePageRevisionTimestamp": "2024-02-19T11:39:57Z",
+  "filePageWikitext": "Upgraded version of the cinema.\n{{License SC}}\n[[Category:Image Service Buildings]]",
+  "filePageWikitextHash": "d64929765153dc7f4a29d86eefaec46eff76dccee39d81459e75d1200cd2362d",
   "height": 2220,
   "immutableUrl": null,
   "mediaId": "File:Cinema.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T11:39:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACinema.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 6680499,
   "sourceSha1": "4e588ab9e6f1f56e008795c5103082f770e3b01e",

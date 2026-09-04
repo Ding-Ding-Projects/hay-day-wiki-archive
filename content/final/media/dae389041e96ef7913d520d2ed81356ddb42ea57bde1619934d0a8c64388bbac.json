@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Corn_Daily_Dirt.png",
+  "filePageId": 34997,
+  "filePageRevisionId": 99364,
+  "filePageRevisionSha1": "f29b7a2da68b08cc11bea044d63bf2fe7c536f02",
+  "filePageRevisionTimestamp": "2021-11-10T21:17:24Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "f15ce6a6d301720ff66887757a23a36d50800aff003df95933d4487ac717f71d",
   "height": 920,
   "immutableUrl": null,
   "mediaId": "File:Corn Daily Dirt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-07-04T00:07:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3ACorn%20Daily%20Dirt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 303747,
   "sourceSha1": "aa8547834d90a0dbde9ee2ad4d7d38be8cc88ab3",

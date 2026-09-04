@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Fence.png",
+  "filePageId": 25325,
+  "filePageRevisionId": 77254,
+  "filePageRevisionSha1": "f4ffa431bd3477a5a5c9c011fe57698b8f4156bc",
+  "filePageRevisionTimestamp": "2018-02-07T17:25:31Z",
+  "filePageWikitext": "Special Fence in the $4.99 Diamond Package\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "d412ef623820f806eca99b93818055f18ba37624c3a84a8eda6aedf645088947",
   "height": 398,
   "immutableUrl": null,
   "mediaId": "File:Blue Fence.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:25:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlue%20Fence.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 95774,
   "sourceSha1": "1f319869d000eb25a16d732b9eeae80bded8be9d",

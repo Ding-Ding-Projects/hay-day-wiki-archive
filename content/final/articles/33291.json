@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Green_Voucher?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 92701,
   "revisionTimestamp": "2020-04-04T20:58:19Z",
   "route": "/wiki/green-voucher-33291",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Green_Voucher",
   "title": "Green Voucher",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect[[Voucher]]",
   "wikitextHash": "6f3c3d18a8a3186769e99594252f4d9a3de7a934ec4caa69de5214034c8461e7"
 }

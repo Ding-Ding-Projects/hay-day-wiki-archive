@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tar_Bucket.png",
+  "filePageId": 14398,
+  "filePageRevisionId": 89201,
+  "filePageRevisionSha1": "83759b14551fd9ab93906032a9f243380ae5c8d2",
+  "filePageRevisionTimestamp": "2019-10-28T13:16:06Z",
+  "filePageWikitext": "Picture of a tar bucket.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "9747fd8968d6756cfb7b7470a7376791abed09c5f6d7fac09192825d27e5db74",
   "height": 192,
   "immutableUrl": null,
   "mediaId": "File:Tar Bucket.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:16:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATar%20Bucket.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 44169,
   "sourceSha1": "3be50c28090c6614a2e4c6b0cc62299a76a0066c",

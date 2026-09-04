@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:IMG_3E66F0FAA0D4-1.jpeg",
+  "filePageId": 34102,
+  "filePageRevisionId": 94795,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2020-07-09T01:55:04Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 919,
+  "immutableUrl": null,
+  "mediaId": "File:IMG 3E66F0FAA0D4-1.jpeg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-09T01:55:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AIMG%203E66F0FAA0D4-1.jpeg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 2931040,
+  "sourceSha1": "43421d72845f8ab093f6323743e0ee8d57c653b6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e8/IMG_3E66F0FAA0D4-1.jpeg/revision/latest?cb=20200709015504",
+  "title": "File:IMG 3E66F0FAA0D4-1.jpeg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1506
+}

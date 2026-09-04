@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Card.png",
+  "filePageId": 23859,
+  "filePageRevisionId": 74216,
+  "filePageRevisionSha1": "3297f925f109bd0663db7d08fe7d996286c0a9d2",
+  "filePageRevisionTimestamp": "2017-10-22T10:07:45Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "c5a53c0994ca6ed61b06be879830d4abc15e3ffb116943ddea920858adcf20cd",
   "height": 200,
   "immutableUrl": null,
   "mediaId": "File:Gift Card.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-09T12:26:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Card.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 44257,
   "sourceSha1": "c4b4bc59653b296caa07398987d0a7fcfd5dc3cc",

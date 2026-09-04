@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Penguin.png",
+  "filePageId": 35922,
+  "filePageRevisionId": 103958,
+  "filePageRevisionSha1": "79c48a3e58fbb569d8c9637fa46f784d7c20f71c",
+  "filePageRevisionTimestamp": "2023-09-28T21:03:05Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6a260ec6d6cd3aabf727c1e825f0a552b9edcafbbfd4d848c3c23e8a3dd97019",
   "height": 685,
   "immutableUrl": null,
   "mediaId": "File:Grey Penguin.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-09-28T21:02:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrey%20Penguin.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 174875,
   "sourceSha1": "e14135d8ef7a8c0e34f0cff4db67cb5ecf0e4b77",

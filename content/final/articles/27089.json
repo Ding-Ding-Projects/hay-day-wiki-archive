@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Boosters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Boosters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -149,11 +157,12 @@
   "revisionId": 108298,
   "revisionTimestamp": "2025-08-14T05:10:44Z",
   "route": "/wiki/boosters-27089",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Boosters",
   "title": "Boosters",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Booster Icon.png|100px|left|The booster button]]\n'''Boosters''' let players temporarily benefit from a discount, a time reduction, [[experience]] bonuses or [[boat]] bonuses. They come in the form of cards.\n\nThey are unlocked at [[experience]] level 35.\n\nBoosters are stored separately. They can be accessed via the booster button in the lower right corner of the screen.\n\n{{Clr}}\n----\n\n==='''Types of boosters'''===\n{{Main|Booster List}}\nThere are 145 different boosters. They come in 8 categories:\n*5 '''blue''' boosters, which randomly fill one or more [[boat]] crates.\n*10 '''golden''' boosters, which give players more [[experience]] points or [[coin]]s.\n*60 '''green''' boosters, which make [[crops]] grow faster, [[Production Buildings|machines]] work faster, boats come faster or [[Tom]]'s naps shorter.\n*30 '''light blue''' boosters, which shorten [[fishing]] times and the production of certain fishing items or give players heavier fish\n*15 '''pink''' (or 'red') boosters, which let players use [[Tom]], [[Rose]] and [[Ernest]] for free.\n*5 '''purple''' boosters, which give players more extracted ores\n*15 '''orange''' boosters, which shorten servicing times in the [[town]].\n*5 '''deep pink''' boosters, which make machines producing products in very short time.\n\n<gallery hideaddbutton=\"true\" captionalign=\"center\">\nFile:Blue Booster.png\nFile:Golden Booster.jpg\nFile:Green Booster.png\nFile:Light Blue Booster.png\nFile:Pink Booster.png\nFile:Purple Booster.png\nFile:Orange Booster.png\nFile:Super Booster Dairy 5.png\n</gallery>\n\n{{Clr}}\n\nEach booster exists in 5 versions, rated from 1 to 5 stars. 5-star boosters last longer and give greater benefits. The probability of getting a 1-star booster is higher than the probability of getting a 5-star booster. Players who are in higher derby leagues have better chances of getting better boosters.\n----\n==='''Getting boosters'''===\nBoosters can randomly be found:\n*In the [[Wheel of Fortune]]\n*In [[Mystery Box|mystery boxes]]\n*In [[Treasure Chest|treasure chests]]\n*In [[catalogue]] packages\n*As horseshoe rewards in [[derby|derbies]]\n*As [[experience]] level threshold rewards\n*As rewards in global [[events]]\n*As bonuses during certain riverboat [[events]]\n*As bonuses during certain truck [[events]]\n*In the [[Valley Shop]]\n*As rewards in [[Farm Pass|farm pass]]\n\n{{Clr}}\n----\n==='''Storing and activating boosters'''===\n[[File:Booster Activation.png|150px|left|Activating a booster]]\n[[File:Booster Active.png|150px|left|Active boosters]]\n[[File:Booster Swap.png|150px|left|Swapping boosters]]\nPlayers can have up to '''three stored boosters''' and '''one active booster'''. They may buy extra slots, either for storage or for activation, but these are only temporary and cost [[diamond]]s.\n\nStoring a second booster costs 2 diamonds, storing a third one costs 4, storing a fourth one cost 6, etc. Activating a second booster costs 2 diamonds, activating a third one costs 4, etc. Once the booster has been used, the extra slot disappears.\n\nWhen one or more boosters is active, the booster button on the main screen is blinking green.\n\nPlayers can activate two boosters at the same time with a farm pass. \n\nPlayers cannot activate two boosters which have the same effect at the same time.\n\nPlayers can trash an active booster at any time.\n\nWhen players get a new booster card and their storage is full, they can discard the new booster or swap it with an already stored card. Players can accumulate up to 3 extra boosters. A red number on the booster button lets the player know how many extra boosters they have.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* When you have 3 boosters in storage, you can't add a new booster without spending diamonds for a temporary storage space.  If your booster storage is full and you find a new booster, you must trash it or swap it for one of your existing boosters.  You will tend to store boosters deemed most valuable, so once your storage is full of these valuable boosters, be sure to activate one so that you can store any new boosters.\n\n{{Clr}}\n----\n\n{{Languages\n|fr = Les Boosts\n|es = Potenciadores\n}}\n[[Category:Boosters]]",
   "wikitextHash": "8b0f48a69884855382d259d75d62e51f5bac7812384449e6eadd54e52a92754f"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Bread Products",
+    "Category:Doner Kebab Stand Products",
+    "Category:Goat Cheese Products",
+    "Category:Lamb Chop Products",
+    "Category:Lettuce Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Bread Products",
+      "Category:Doner Kebab Stand Products",
+      "Category:Goat Cheese Products",
+      "Category:Lamb Chop Products",
+      "Category:Lettuce Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +148,12 @@
   "revisionId": 110823,
   "revisionTimestamp": "2026-08-05T08:54:08Z",
   "route": "/wiki/tower-d%C3%B6ner-supreme-36799",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tower_D%C3%B6ner_Supreme",
   "title": "Tower Döner Supreme",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tower Döner Supreme.png|200px|left|Tower Döner Supreme]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 58\n |price = 1 to 356\n |time = 40 min\n |source = {{Infoicon|donerkebabs|bigger|link=Döner Kebab Stand}}\n |xp = 42\n |base = 99\n |dia = 3\n |time3 = 34 min\n}}\n'''Tower Döner Supreme''' is a [[products]] unlocked at [[experience]] level 58. \n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Tower Döner Supreme'''===\n[[File:Döner Kebab Stand.png|150px|left|Döner Kebab Stand]]\nTower Döner Supreme is made in the [[Döner Kebab Stand]].\n\nTo make the Tower Döner Supreme, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lamb Chop.png|75px|Lamb Chop|link=Lamb Chop]]\n|[[File:Corn Bread.png|75px|Corn Bread|link=Corn Bread]]\n|[[File:Goat Cheese.png|75px|Goat Cheese|link=Goat Cheese]]\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\n\nIt takes 40 minutes to make one wrap, and 34 minutes in a fully [[Masteries|mastered]] stand. Each Tower Döner Supreme gives players 42 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Tower Döner Supreme'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Tower Döner Supreme can be bought or sold for a maximum price of 3,564 {{Infoicon|coin}} for 10 items.\n* Buying the ingredients required to make the Tower Döner Supreme costs 438 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 Tower Döner Supreme per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* The Tower Döner Supreme is one of only a few products in Hay Day whose ingredients cost more than the finished product.  Because of this, you should not sell them in your [[Roadside Shop]] as you will lose coins.\n----\n{{Navigation}}\n{{Languages\n|de = Turm-Döner Supreme\n|es = Montaña de carne de kebab\n|fr = \n|it = \n|nl = \n|no = Suveren tårndöner\n|ru = Супершаурма-башня \n|zh = \n}}\n[[pt-br:Torre de kebab]]\n\n[[Category:Doner Kebab Stand Products]]\n[[Category:Lamb Chop Products]]\n[[Category:Corn Bread Products]]\n[[Category:Goat Cheese Products]]\n[[Category:Lettuce Products]]",
   "wikitextHash": "d319e2230bf1e0017cee0a15edc2bbc3740cc996918b161e9f35aba60ad070c1"
 }

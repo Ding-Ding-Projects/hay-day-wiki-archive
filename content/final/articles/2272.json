@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sugar Mill Products",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sugar Mill Products",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +185,12 @@
   "revisionId": 108531,
   "revisionTimestamp": "2025-09-22T18:25:31Z",
   "route": "/wiki/syrup-2272",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Syrup",
   "title": "Syrup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Syrup.png|200px|left|Syrup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 18\n |price = 1 to 90\n |time = 1 h 30 min\n |source = {{Infoicon|Sugarm|bigger|link=Sugar Mill}}\n |xp = 11\n |base = 25\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Syrup''' is a [[Products|product]] unlocked at [[experience]] level 18.\n\nIt is used as an ingredient in a few recipes.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making syrup'''===\n[[File:Sugar Mill.png|150px|left|Sugar Mill]]\nSyrup is made in the [[Sugar Mill]].\n\nTo make syrup, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sugarcane.png|75px|Sugarcane|link=Sugarcane]]\n|-\n|'''x4'''\n|}\nIt takes 1 hour and 30 minutes to make one bottle of syrup, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] mill. Each bottle gives players 11 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling syrup'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Syrup can be bought or sold for a maximum price of 900 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 56 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using syrup'''===\nSyrup is used to make the following [[products]]:\n\n{{Item Usage|Syrup\n|Apple Pie|1|28\n|Cherry Popsicle|1|33\n|Caramel Apple|2|51\n|Lollipop|1|57\n|Gingerbread Cookie|1|86\n|Bacon Donut|1|88\n|Coconut Ice Cream|1|102\n|Berry Waffles|1|114\n|Vanilla Milkshake|1|124\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 4 bottles of syrup per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Although syrup is used in few recipes, having enough in your [[barn]] is recommended, due to its longer production time. Most of the time, the sugar mill is running to make sugar, and won't be free to make syrup when you need it. It's a good idea to either regularly make some in between making sugar, or to make lots of it when you're not playing and have enough sugar in stock.\n* You can't expect to find syrup in the [[Daily Dirt]]. Selling it, even at maximum price, is not worth it. Use it in a recipe, and sell the product that uses syrup instead.\n----\n==='''Did you know?'''===\n* In real life, sugarcane syrup is made by boiling and refining sugarcane juices. Its color varies from slightly yellow to light brown.\n*Syrup and olive oil are the only products that come in jugs\n\n----\n{{Navigation}}\n{{Languages\n|de = Sirup\n|es = Almíbar\n|fr = Sirop\n|it = Sciroppo\n|nl = Siroop\n|no = Sirup\n|zh = 糖浆\n}}\n[[pt-br:Xarope]]\n[[ru:Сироп]]\n[[Category:Sugar Mill Products]]\n[[Category:Sugarcane Products]]",
   "wikitextHash": "9bc0b3482a2a339c8fca12017e85736d01f33498ee373de87efb9a15932b0cea"
 }

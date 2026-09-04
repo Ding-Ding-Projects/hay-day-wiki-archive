@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Flamingos",
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Flamingos",
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -154,11 +164,12 @@
   "revisionId": 110729,
   "revisionTimestamp": "2026-07-10T22:48:16Z",
   "route": "/wiki/greater-flamingo-36140",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Greater_Flamingo",
   "title": "Greater Flamingo",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Greater Flamingo.png|200px|left|Greater Flamingo]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 20\n |needs = any one:<br>[[File:Bell Pepper.png|35px|link=Bell Pepper]][[File:Blueberries.png|35px|link=Blueberries]][[File:Broccoli.png|35px|link=Broccoli]]<br/>\n[[File:Cabbage.png|35px|link=Cabbage]][[File:Carrot.png|35px|link=Carrot]][[File:Rice.png|35px|link=Rice]]<br/>\n[[File:Sesame.png|35px|link=Sesame]][[File:Soybean.png|35px|link=Soybean]][[File:Strawberry.png|35px|link=Strawberry]]<br/>\n[[File:Sunflower.png|35px|link=Sunflower]][[File:Watermelon.png|35px|link=Watermelon]]\n |time = every 6 h\n |cost= {{Infoicon|chickv|link=Chick Voucher}}9 {{Infoicon|bluev|link=Voucher}}14\n |xp = 40\n |dia = N/A\n}}\n'''Greater Flamingo''' are pet [[animals]]. They are unlocked at [[experience]] level 20.\n\nThey give players [[experience]] points in exchange for any available feed.\n{{Clr}}\n----\n==='''Appearance'''===\n{{Clr}}\n----\n==='''Buying'''===\n[[File:Bird House.png|150px|left|thumb|Bird house]]\nEach Greater flamingo costs 14 blue [[voucher]]s and 9 chick [[voucher]]s. They must be placed near a [[Bird House|bird house]] to be bought. Players can have one Greater flamingo.\n\nGreater flamingo and bird houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}{{Clr}}\n----\n==='''Feeding'''===\n[[File:Bird House 2.png|230x230px|left|thumb|Giving feed]]When given certain quantity of [[Soybean]], [[Carrot]], [[Strawberry]], [[Sesame]], [[Rice]], [[Cabbage]], [[Sunflower]], [[Bell Pepper]], [[Broccoli]] or [[Watermelon]], flamingo eat then roam the [[farm]] for 6 hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Greater Flamingo stay asleep otherwise.\nGreater Flamingo which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|es = Flamenco\n|fr = Grand Flamand Rose\n|no = Rosenflamingo\n}}\n[[ru:Розовый фламинго]]\n\n[[Category:Flamingos]]",
   "wikitextHash": "eec3930822c8417c437693cf43f5bd3e74f602ac260d461d58cdacedeb8dd0e9"
 }

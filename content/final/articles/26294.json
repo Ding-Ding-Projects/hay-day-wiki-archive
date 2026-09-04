@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Field?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 66520,
   "revisionTimestamp": "2016-11-13T16:03:13Z",
   "route": "/wiki/field-26294",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Field",
   "title": "Field",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Farm]]",
   "wikitextHash": "532bb225826ead85f6d4f738d8796d23a9e9633bd6ae0e2db4428267f13e5b5d"
 }

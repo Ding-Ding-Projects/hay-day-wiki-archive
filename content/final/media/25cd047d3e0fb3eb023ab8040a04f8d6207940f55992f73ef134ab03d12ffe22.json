@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Large_Fishing_Circle.png",
+  "filePageId": 26757,
+  "filePageRevisionId": 69200,
+  "filePageRevisionSha1": "c1e800466b424ff04f4d7b829906ee05e8b829ab",
+  "filePageRevisionTimestamp": "2017-02-05T23:21:42Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "d5d6f1f7e4deabbf5f21998dc0c7fdba44ed24c9d949275fe19af4a7a5da91e5",
+  "height": 617,
+  "immutableUrl": null,
+  "mediaId": "File:Large Fishing Circle.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-01-08T12:50:55Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALarge%20Fishing%20Circle.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 248587,
+  "sourceSha1": "22d42af8ca72c2c383fbd62d3e44ddc423f6249c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/71/Large_Fishing_Circle.png/revision/latest?cb=20170108125055",
+  "title": "File:Large Fishing Circle.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 617
+}

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Goat Cheese Products",
+    "Category:Grapes Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Goat Cheese Products",
+      "Category:Grapes Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +159,12 @@
   "revisionId": 109788,
   "revisionTimestamp": "2026-05-04T15:30:30Z",
   "route": "/wiki/goat-cheese-toast-26431",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Goat_Cheese_Toast",
   "title": "Goat Cheese Toast",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Goat Cheese Toast.png|200px|left|Goat cheese toast]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 92\n |price = 1 to 302\n |time = 50 min\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |xp = 36\n |dia = 3\n |base = 84\n |time3 = 42 min\n}}\n'''Goat cheese toasts''' are [[products]] unlocked at [[experience]] level 92. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making goat cheese toasts'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nGoat cheese toasts are made in the [[Sandwich Bar]].\n\nTo make a toast, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|[[File:Goat Cheese.png|75px|Goat cheese|link=Goat Cheese]]\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 50 minutes to make one toast, and 42 minutes in a fully [[Masteries|mastered]] Bar. Each toast gives players 36 [[experience]] points.\n\n{{Clr}}----\n==='''Selling goat cheese toasts'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Goat cheese toasts can be bought or sold for a maximum price of 3,024 {{Infoicon|Coin}} for 10 toasts.\n* Buying the ingredients required to make a toast costs 279 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 goat cheese toasts per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Toast mit Ziegenkäse\n|es = Tostada con queso de cabra\n|fr = Tartine au Fromage de Chèvre\n|it = Toast con formaggio di capra\n|nl = Toast met Geitenkaas\n|no = Sandwich med geitost\n|ru = Тост с козьим сыром\n|zh = Goat Cheese Toast\n}}\n[[pt-br:Torrada de queijo de cabra]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Grapes Products]]\n[[Category:Goat Cheese Products]]",
   "wikitextHash": "e83df7c6903283a4ad2722e6615f447ae10551498675cbe65d2b3fde9791fbb9"
 }

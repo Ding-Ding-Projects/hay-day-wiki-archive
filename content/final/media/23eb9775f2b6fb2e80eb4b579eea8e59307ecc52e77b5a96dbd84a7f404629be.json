@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brick_Path.png",
+  "filePageId": 35545,
+  "filePageRevisionId": 101494,
+  "filePageRevisionSha1": "352e3299b7f74ce6dc3d52a547a6bc84d79b8a08",
+  "filePageRevisionTimestamp": "2022-09-20T20:10:43Z",
+  "filePageWikitext": "== Summary ==\nPackage Decoration 130 diamonds or $4.99 USD for 5 items.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "63f09d8e33129e54a33df6009a40bf7a66f741f53d19ee3fe7e15c73f476ea27",
   "height": 227,
   "immutableUrl": null,
   "mediaId": "File:Brick Path.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-09T18:15:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrick%20Path.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 103838,
   "sourceSha1": "d397508be5990642984e4af9de7ae6fb91ee769b",

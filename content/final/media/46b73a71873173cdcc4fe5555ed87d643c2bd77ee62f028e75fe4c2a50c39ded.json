@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Black_Bunny_Playing.png",
+  "filePageId": 27447,
+  "filePageRevisionId": 71786,
+  "filePageRevisionSha1": "ff0b96a5302f0aed9f988f451b6fa1708ff49cbe",
+  "filePageRevisionTimestamp": "2017-05-15T16:40:19Z",
+  "filePageWikitext": "== Summary ==\nBlack Bunny playing\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "fdeb28b4245cb99288b62fbba4484357512fcb72a9b6b97278e743a29235423c",
   "height": 386,
   "immutableUrl": null,
   "mediaId": "File:Black Bunny Playing.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-14T20:35:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlack%20Bunny%20Playing.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 150112,
   "sourceSha1": "7bb7a8a4dd1d7e3856647ddb8118f07937d76a28",

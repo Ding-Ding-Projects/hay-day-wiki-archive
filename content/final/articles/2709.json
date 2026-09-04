@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -188,11 +196,12 @@
   "revisionId": 110487,
   "revisionTimestamp": "2026-06-08T20:02:08Z",
   "route": "/wiki/horse-stable-2709",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Horse_Stable",
   "title": "Horse Stable",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n''Note: this page is about horse stables, not to be confused with [[Donkey Stable|donkey stables]].''\n\n[[File:Horse Stable.png|200px|left|Horse stable]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 27 • 37 • 40 • 47\n |price = 10,000\n |houses = {{Infoicon|bayh|big|link=Bay Horse}}{{Infoicon|paloh|big|link=Palomino Horse}}{{Infoicon|pintoh|big|link=Pinto Horse}}{{Infoicon|andaluh|big|link=Andalusian Horse}}{{Infoicon|lipih|big|link=Lipizzaner Horse}} x3\n}}\n'''Horse stables''' are shelters for [[:Category:Horses|horses]]. The first house is unlocked at [[experience]] level 27.\n{{Clr}}\n----\n==='''Appearance'''===\nThe stable is green with a locked stall and bags for [[carrot]]s. However, horses never go into the stall. They eat and sleep in front of the stable.\n----\n==='''Building'''===\nEach stable costs 10,000 {{Infoicon|coin}} and can hold up to three horse. The second stable is unlocked at level 37, the third one at level 40 and the last one at level 47. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Stall\n|es = Establo\n|fr = Écurie\n|it = Stalla\n|no = Stall\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "3a7559fa57564cbf4a1fb3098f959c99893c22787feb30fc96b94371b8bf51b6"
 }

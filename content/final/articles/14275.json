@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Reputation"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Reputation"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -84,11 +92,12 @@
   "revisionId": 108025,
   "revisionTimestamp": "2025-06-14T10:21:14Z",
   "route": "/wiki/reputation-14275",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Reputation",
   "title": "Reputation",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Reputation.png|Reputation|left|200px]]\n'''Reputation''' is the player's level in the [[town]]. Much like [[experience]] drives the whole game forward, reputation drives the town area.\n\nWhen players have gained enough reputation points they change reputation levels, which lets them progress in the town.\n\nReputation levels and the [[town]] are unlocked at level 34.\n\n{{Clr}}\n----\n\n==='''Getting reputation points'''===\n'''Reputation points''' ({{Infoicon|rep}}) are gained by filling orders from [[Town Visitors|town visitors]] in the various [[Service Buildings|service buildings]] they wish to visit. A player can earn more points per visitor by upgrading their service buildings. Additionally, a player will get a point per a picked-up visitor by neighbors.\n----\n==='''Leveling up'''===\n[[File:Reputation Bar.png|200px|left|Reputation bar]]\nReputation points come in the form of red hearts ({{Infoicon|rep}}), which fill up the reputation bar shown at the top of the screen in the [[town]]. When the player has accumulated the number of required hearts the bar resets to 0 and they '''change reputation level''', which unlocks new items, new features, and rewards.\n\nAs the player progresses, reaching the next reputation level requires more and more points. From level 100 reaching the next level always asks for 11 more points than required for the previous level. This difference remains the same up to level 1,000. \n\n{{Clr}}\n----\n==='''Regular rewards'''===\n[[Diamond]]s ({{Infoicon|dia}}) are '''regular rewards''' for leveling up in the town:\n*Players gets diamonds every level: one until level 9, two until level 19, three until level 39, and five after that.\n*Reaching level 5, 15, 25, and 35 gives players an additional bonus of 5 diamonds, and 10 after that.\n*Reaching level 10, 20, 30, and 40 gives players an additional bonus of 10 diamonds, and 15 after that.\n----\n==='''Table of levels'''===\n{{Main|Reputation Levels}}\n----\n\n{{Languages\n|de = Ruf\n|es = Reputación\n|it = Reputazione\n|no = Omdømme\n}}\n[[Category:Reputation]]",
   "wikitextHash": "f014aa9b3babb9a392e74e3b823870bd0ef4c1ef1abfbe6dbae869e512e829ea"
 }

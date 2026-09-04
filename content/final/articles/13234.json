@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -228,11 +236,12 @@
   "revisionId": 106856,
   "revisionTimestamp": "2025-01-14T21:53:35Z",
   "route": "/wiki/paint-bucket-13234",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Paint_Bucket",
   "title": "Paint Bucket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Paint Bucket.png|200px|left|A paint bucket]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 342\n |upgrades = {{Infoicon|bb|big|link=Bed and Breakfast}}  {{Infoicon|diner|big|link=Diner}} {{Infoicon|townh|big|link=Town Hall}}\n |base = 95\n |dia = 10\n}}\n'''Paint buckets''' are [[supplies]] used to upgrade the [[Bed and Breakfast|bed and breakfast]], the [[diner]] and the [[Town Hall]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting paint buckets'''===\nA sure way to get a paint bucket is to buy it with 10 {{Infoicon|dia}}.\n\nPaint buckets can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 342 {{Infoicon|coin}} per bucket.\n\nFinally, paint buckets can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Farbeimer\n|es = Pintura\n|fr = Sceau de peinture\n|it = Secchio Di Vernice\n|no = Malingspann\n}}\n[[Category:Supplies]]",
   "wikitextHash": "b17a4dba833d6f47bbbca5b2c8d07ac2dd3562fd3aad4b2ca1472b6bb2aa585b"
 }

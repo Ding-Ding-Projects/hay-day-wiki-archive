@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E1_Ricky",
+  "filePageId": 29883,
+  "filePageRevisionId": 80933,
+  "filePageRevisionSha1": "86fc65b1a3fcd41b469b83f31ea56263a41cca79",
+  "filePageRevisionTimestamp": "2018-06-19T18:07:22Z",
+  "filePageWikitext": "\n== Description ==\nMeet the farmers in Hay Day from all around the world! \n\nIn this 1st episode of the series you'll get to meet Hay Day's YouTuber Ricky \"R3DKNIGHT\" Burnett, who is an Englishman living in Kobe, Japan! Learn how he has taken Hay Day into his everyday life as a way to relax, have fun and help farmers all around the globe.\n\nSubscribe to R3DKNIGHT's channel: https://www.youtube.com/channel/UC27cEfYbMEA006oOOKc9hKA/\n\n© Supercell Oy 2018\n[[Category:Videos]]",
+  "filePageWikitextHash": "7d550433f401d74976741ca8023031f34ca3dd0cfb0caf5357ff6b410cbb65af",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E1 Ricky",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-19T18:07:21Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E1%20Ricky",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 24263,
+  "sourceSha1": "28ad126cc2f6feb94c47543ed3081ef2e67454d6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Hay_Day_Meet_the_Farmer%21_E1_Ricky/revision/latest?cb=20180619180721",
+  "title": "File:Hay Day Meet the Farmer! E1 Ricky",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cake Oven Products",
+    "Category:Cream Products",
+    "Category:Mint Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cake Oven Products",
+      "Category:Cream Products",
+      "Category:Mint Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +203,12 @@
   "revisionId": 109777,
   "revisionTimestamp": "2026-05-03T18:10:46Z",
   "route": "/wiki/chocolate-roll-34685",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Roll",
   "title": "Chocolate Roll",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Roll.png|alt=|left|200x200px|Chocolate Roll]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 95\n |price = 1 to 604\n |time = 1 h 30 min\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 72\n |base = 168\n |time3 = 1 h 16 min\n |dia = 5\n|rlevel=|needs=|lures=|spots=|circle=|slots=|seats=|cost=|houses=|upgrades=|size=|walkin=|auto=}}\n'''Chocolate Rolls''' are [[products]] unlocked at [[experience]] level 95.\n\n\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making chocolate rolls'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nChocolate Rolls are made in the [[Cake Oven]].\n\nTo make a chocolate roll, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Mint.png|75px|Mint|link=Mint]]\n|-\n|'''x5'''\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 1 hour 30 minutes to make one roll, and 1 hour 16 minutes in a fully [[Masteries|mastered]] oven. Each roll gives players 72 [[experience]] points.\n\n{{Clr}}----\n==='''Selling chocolate rolls'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n\n*Chocolate rolls can be bought or sold for a maximum price of 6,048 {{Infoicon|Coin}} for 10 rolls.\n*Buying the ingredients required to make a roll costs 585 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 chocolate rolls per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n----\n\n{{Navigation}}\n{{Languages\n|de = Schokoladenrolle\n|es = Rollo de chocolate\n|fr = Roulé au Chocolat\n|it = Tronchetto al cioccolato\n|nl = Chocoladerol\n|no = Sjokoladerullekake\n|ru = Шоколадный рулет\n|zh = Chocolate Roll\n}}\n[[pt-br:Rocambole de chocolate]]\n\n[[Category:Cake Oven Products|4]]\n[[Category:Cacao Products]]\n[[Category:Cream Products]]\n[[Category:Wheat Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "1689ce088fa5c6a9776ee287b1f2051f6e49ce2de1a826ce3c8fd2d16b5a5f11"
 }

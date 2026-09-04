@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Awning_Fresh_Straw.png",
+  "filePageId": 29699,
+  "filePageRevisionId": 80277,
+  "filePageRevisionSha1": "a8e2f3e5b54beeee914a4ac44dae7c32867a59ce",
+  "filePageRevisionTimestamp": "2018-05-10T14:56:34Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "86b8e3e01607efd0c047f78a20522202a9d6441fe7df4a218ee03fb87dac8b9c",
   "height": 365,
   "immutableUrl": null,
   "mediaId": "File:Awning Fresh Straw.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-09T04:26:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAwning%20Fresh%20Straw.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 174226,
   "sourceSha1": "4bafaf368f7fd883e63aee13049e092329f1a7bf",

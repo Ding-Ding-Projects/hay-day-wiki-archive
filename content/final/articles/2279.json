@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -199,11 +209,12 @@
   "revisionId": 109930,
   "revisionTimestamp": "2026-05-10T10:20:06Z",
   "route": "/wiki/roasted-tomatoes-2279",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Roasted_Tomatoes",
   "title": "Roasted Tomatoes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Roasted Tomatoes.png|left|200px|Tomato juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 30\n |price = 1 to 118\n |time = 1 h 30 min\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 14\n |base = 33\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Roasted tomatoes''' are a [[Products|product]] unlocked at [[experience]] level 30.\n\nThey are used in [[Feta Salad|feta salad]] and [[BLT Salad|BLT salad]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making roasted tomatoes'''===\n[[File:BBQ Grill.png|150px|left]]\nRoasted tomatoes are made in the [[BBQ Grill]].\n\nTo make the roasted tomatoes, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Tomato.png|75px|link=Tomato]]\n|-\n|'''x2'''\n|}\nRoasted tomatoes take 1 hour and 30 minutes to be produced, but only 1 hour and 16 minutes in a [[masteries|3-star]] [[BBQ Grill]]. Each roasted tomatoes gives players 14 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling roasted tomatoes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Roasted tomatoes can be bought or sold for a maximum of 1,188 {{Infoicon|Coin}} coins for 10 roasted tomatoes.\n* Buying the ingredients required to make the roasted tomatoes costs 86 {{Infoicon|Coin}} coins.\n\n{{Clr}}\n----\n==='''Using roasted tomatoes'''===\nRoasted tomatoes is used to make the following [[products|product]]:\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"text-align: center; margin: .5em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #ddd;\"\n|style=\"width: 33%\"|[[File:Feta Salad.png|75px|link=Feta Salad]]\n|style=\"width: 33%\"|[[File:BLT Salad.png|75px|link=BLT Salad]]\n|- style=\"background: #ddd;\"\n|'''[[Feta Salad]]'''\n|'''[[BLT Salad]]'''\n|- style=\"border: 1px solid #ccc;\"\n|[[File:Roasted Tomatoes.png|50px]]'''x1'''\n|[[File:Roasted Tomatoes.png|50px]]'''x1'''\n|- style=\"border: 1px solid #ccc;\"\n|[[Experience|Level]] 58\n|[[Experience|Level]] 62\n|}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 roasted tomatoes per crate, up to a total of 16 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Before May 2026 Update, it was the only BBQ product that requires only one type of product to make. and the only BBQ product that is used in another product. Now, [[Grilled Lamb Skewer|Grilled lamb skewer]] is the second product.\n----\n\n{{Navigation}}\n{{Languages\n|de = Grilltomaten\n|es = Tomates asados\n|fr = Tomates Rôties\n|it = Pomodori arrosto\n|nl = Geroosterde Tomaten\n|no = Stekte tomater\n|zh = Roasted Tomatoes\n}}\n[[pt-br:Tomates assados]]\n[[ru:Печёные томаты]]\n[[Category:BBQ Grill Products]]\n[[Category:Tomato Products]]",
   "wikitextHash": "3ce997c2760695beb2fce0d8126c2c4f51deb898fd37a148c3549c4a4f2674c4"
 }

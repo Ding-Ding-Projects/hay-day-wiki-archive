@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ostrich_Nest_Stage_1.png",
+  "filePageId": 36043,
+  "filePageRevisionId": 105108,
+  "filePageRevisionSha1": "c2e44181a0cc724a499bd5e2316b94f60245c2ec",
+  "filePageRevisionTimestamp": "2024-03-23T20:57:03Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "2acd523a69766ead91c3dd6f9b4fb7959784e2e0abb584e1267924ebd6a4a24d",
   "height": 655,
   "immutableUrl": null,
   "mediaId": "File:Ostrich Nest Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-03-23T20:56:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOstrich%20Nest%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 172165,
   "sourceSha1": "d726ad86664133e0cc48e9addfe2ad769b1786a6",

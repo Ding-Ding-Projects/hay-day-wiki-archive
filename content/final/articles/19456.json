@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Lemon Products",
+    "Category:Sauce Maker Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Lemon Products",
+      "Category:Sauce Maker Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -182,11 +196,12 @@
   "revisionId": 107197,
   "revisionTimestamp": "2025-02-08T23:57:48Z",
   "route": "/wiki/tomato-sauce-19456",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tomato_Sauce",
   "title": "Tomato Sauce",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tomato Sauce.png|200px|left|Tomato sauce]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 69\n |price = 1 to 230\n |time = 30 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 27\n |base = 70\n |dia = 3\n |time3 = 25 min\n}}\n'''Tomato Sauce''' is a [[Products|product]] unlocked at [[experience]] level 69.\n\nIt is used to make [[Eggplant Parmesan|eggplant parmesan]], [[Hot Dog|hot dogs]], [[Veggie Lasagna|veggie lasagna]] and [[Spicy Pasta|spicy pasta]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tomato sauce'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nTomato sauce is made in the [[Sauce Maker]].\n\nTo make the sauce, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Brown Sugar.png|75px|Brown sugar|link=Brown Sugar]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 30 minutes to make one bottle of tomato sauce, and 25 minutes in a fully [[Masteries|mastered]] maker. Each bottle gives players 27 [[experience]] points.\n\n{{Clr}}----\n==='''Selling tomato sauce'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tomato sauce can be bought or sold for a maximum price of 2,304 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make tomato sauce costs 211 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using tomato sauce'''===\nTomato sauce is used to make the following [[products]]:\n\n{{Item Usage|Tomato Sauce\n|Veggie Lasagna|1|74\n|Hot Dog|1|75\n|Rice Omelet|2|83\n|Spicy Pasta|1|87\n|Eggplant Parmesan|1|99\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 tomato sauce per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Tomatensoße\n|es = Salsa de tomate\n|fr = Sauce tomate\n|it = Salsa di pomodoro\n|nl = Tomatensaus\n|no = Tomatsaus\n|zh = Tomato Sauce\n}}\n[[pt-br:Molho de tomate]]\n[[ru:Томатный соус]]\n\n[[Category:Sauce Maker Products]]\n[[Category:Brown Sugar Products]]\n[[Category:Tomato Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "a8e7f411d55ce250e6a756ed7b61ccba232f3860acc229d2bbafdcadb415d5b2"
 }

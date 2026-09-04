@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Asparagus Products",
+    "Category:Butter Products",
+    "Category:Egg Products",
+    "Category:Omelet Station Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Asparagus Products",
+      "Category:Butter Products",
+      "Category:Egg Products",
+      "Category:Omelet Station Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 107337,
   "revisionTimestamp": "2025-02-23T19:05:10Z",
   "route": "/wiki/spring-omelet-35815",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Spring_Omelet",
   "title": "Spring Omelet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Spring Omelet.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 77\n |price = 1 to 230\n |time = 40 min\n |xp = 27\n |source = {{Infoicon|omelets|bigger|link=Omelet Station}}\n |base = 64\n |dia = 3\n |time3 = 34 m\n}}\n'''Spring Omelet''' are [[products]] unlocked at [[experience]] level 77. It was added in Summer 2023 update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making spring omelet'''===\n[[File:Omelet Station.png|150px|left|link=Omelet Station|Omelet Station]]\nSpring omelet are made in the [[Omelet Station]].\n\nTo make a grilled asparagus, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Asparagus.png|75px|Asparagus|link=Asparagus]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 40 minutes to make one spring omelet, and 34 minutes in a fully [[Masteries|mastered]] grill. Each spring omelet gives players 27 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling spring omelet'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Pancakes can be bought or sold for a maximum price of 2304 {{Infoicon|Coin}} for 10 spring omelet.\n* Buying the ingredients required to make a spring omelet costs 204 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 spring omelet per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Frühlingsomelett\n|es = Tortilla de primavera\n|fr = Omelette de Printemps\n|it = Omelette di primavera\n|nl = Lenteomelet\n|no = Våromelett\n}}\n[[ru:Весенний омлет]]\n\n[[Category:Omelet Station Products|1]]\n[[Category:Egg Products]]\n[[Category:Butter Products]]\n[[Category:Asparagus Products]]",
   "wikitextHash": "ec12067031115f75fe10c551728d0795ffb50da50b4463284a4e1f2b549db862"
 }

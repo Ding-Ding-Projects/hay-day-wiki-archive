@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93139,
   "revisionTimestamp": "2020-04-12T01:19:25Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-neutral-point-of-view-33420",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Neutral_Point_of_View",
   "title": "Hay Day Wiki:Neutral Point of View",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Hay Day Wiki:Rules]]",
   "wikitextHash": "602b783a5793e76d060ddd65bf1ed6c1b1403a38b2fac68fb28a088ebbffdc2a"
 }

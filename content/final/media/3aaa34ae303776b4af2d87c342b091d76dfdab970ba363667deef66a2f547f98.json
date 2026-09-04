@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sewing_Machine_Mastered.png",
+  "filePageId": 17145,
+  "filePageRevisionId": 108582,
+  "filePageRevisionSha1": "e75b420d9dca4e99059391d66c8a260595de121d",
+  "filePageRevisionTimestamp": "2025-09-25T18:48:46Z",
+  "filePageWikitext": "Picture of a 3-star Sewing Machine.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "1170b64f72ce871ad22681769d89cc49499ad0a7592fa2919dcd801c375bc41b",
   "height": 516,
   "immutableUrl": null,
   "mediaId": "File:Sewing Machine Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T18:48:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASewing%20Machine%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 268848,
   "sourceSha1": "4ae5b2285f22ec14a4b15c1c4e1c0300555500fb",

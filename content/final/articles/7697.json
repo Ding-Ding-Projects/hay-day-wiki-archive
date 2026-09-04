@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_FAQ?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 14747,
   "revisionTimestamp": "2013-07-24T16:47:04Z",
   "route": "/wiki/category%2Fcategory-image-faq-7697",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_FAQ",
   "title": "Category:Image FAQ",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image FAQ\n[[Category:Images]]",
   "wikitextHash": "d8a1d3f0fbd1c4eb8c5bf182476e70b89074552fdb9f77dbaaa4a93e2a793f62"
 }

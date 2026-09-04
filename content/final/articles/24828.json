@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -343,11 +351,12 @@
   "revisionId": 109757,
   "revisionTimestamp": "2026-05-02T04:20:42Z",
   "route": "/wiki/taco-kitchen-24828",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Taco_Kitchen",
   "title": "Taco Kitchen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Taco Kitchen.png|200px|left|Taco Kitchen]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 77\n |price = 700,000\n |time = 3 d 18 h\n |slots = 2\n |dia = 86\n |size = 2×2\n}}\nThe '''Taco Kitchen''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 77.\n\nIt is used to make [[taco]]s, [[Fish Taco|fish tacos]], [[quesadilla]]s and [[nachos]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 700,000 {{Infoicon|coin}} and takes 3 days and 18 hours or 86 {{Infoicon|dia}} to build the Taco Kitchen. It gives players 43 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThis machine is composed on a yellow kitchen with a Taco Pot with three blue holders in the front. There is a fireplace and a chimney to release the smoke, some condiments are placed on a blue counter on the side: salt, pepper, oil and a wooden lidded bowl; a cutting board on a front with some garlics. A green hanging cloth is seen below the counter.\n\nThe mastered version of this machine is the walls of the kitchen turned into a golden orange color, the taco pot is made out of brass, the chimney is changed completely now with light blue cover and a gold star in it, some hanging chilis on the holders, and the hanging cloth changed with intricate designs while revealing some plates at the bottom.\n----\n=== '''Products''' ===\n{{Building Products\n|Taco|77|45m|331\n|Spicy Bean Taco|77|2h|453\n|Fish Taco|79|1:30|392\n|Quesadilla|82|1h|241\n|Nachos|87|1:15|432/52\n}}\n\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Taco Kitchen originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Taco Kitchen:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Taco Kitchen Mastered.png|150px|Mastered Taco Kitchen]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Taco Kitchen Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*[[Fish Taco]] or [[Taco]] are the best ways to master your machine because they don't require any dairy items like other products of the same machine ( Quesadilla and Nachos).\n*If you want to make some Tacos, make sure to have a good stock of [[Salsa]] (which can be produced in Sauce maker).\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Tacoküche\n|es = Cocina de tacos\n|fr = Cuisine à Tacos\n|it = Cucina dei taco\n|no = Taco-kjøkken\n|zh = Taco Kitchen\n}}\n[[pt-br:Banca de tacos]]\n[[ru:Тако-кухня]]\n[[Category:Production Buildings]]",
   "wikitextHash": "5200cef115c109ecf2f771d4c60e29ca2a5f58f722f7c3205c0384ed962f4626"
 }

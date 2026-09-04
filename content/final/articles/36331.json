@@ -12,7 +12,25 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blueberries Products",
+    "Category:Brown Sugar Products",
+    "Category:Jam Maker Products",
+    "Category:Lemon Products",
+    "Category:Onion Products",
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blueberries Products",
+      "Category:Brown Sugar Products",
+      "Category:Jam Maker Products",
+      "Category:Lemon Products",
+      "Category:Onion Products",
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -167,11 +185,12 @@
   "revisionId": 109880,
   "revisionTimestamp": "2026-05-09T18:02:33Z",
   "route": "/wiki/blueberry-chutney-36331",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blueberry_Chutney",
   "title": "Blueberry Chutney",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blueberry Chutney.png|left|205x205px|Blueberry Chutney]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 70\n |price = 1 to 579\n |time = 4 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 69\n |base = 161\n |dia = 3\n |time3 = 3 h 24 min\n}}\n'''Blueberry Chutney''' is a [[products|product]] unlocked at [[experience]] level 70. It was added in the July 2025 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Blueberry Chutney'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nBlueberry Chutney is made in the [[Jam Maker]].\n\nTo make blueberry chutney, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Brown Sugar.png|75px|Brown Sugar|link=Brown Sugar]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Onion.png|75px|Onion|link=Onion]]\n|[[File:Blueberries.png|75px|Blueberries|link=Blueberries]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 4 hours to make blueberry chutney, and 3 hours 24 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 69 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling blueberry chutney'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Blueberry chutney can be bought or sold for a maximum price of 5,796 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a blueberry chutney costs 410 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 blueberry chutney per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n\n==='''Strategy tips'''===\n\n{{Navigation}}\n{{Languages\n|de = Blaubeerchutney\n|es = Chutney de arándanos\n|it =\n|nl =\n|no = Blåbærchutney\n|ru = Черничный соус\n}}\n[[pt-br:Chutney de mirtilo]]\n\n[[Category:Jam Maker Products]]\n[[Category:Brown Sugar Products]]\n[[Category:Lemon Products]]\n[[Category:Onion Products]]\n[[Category:Blueberries Products]]\n[[Category:Products]]",
   "wikitextHash": "3ac5408a2e7ec20c459a5b6c68cdaf2629943d3d8047ff67cbf691208aed6bcf"
 }

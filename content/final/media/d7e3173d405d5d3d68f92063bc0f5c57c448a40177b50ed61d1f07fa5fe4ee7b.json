@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Suomi_-_HAY_DAY_NEWSPAPER_HUNT_1_ft._Netawsk",
+  "filePageId": 32136,
+  "filePageRevisionId": 89610,
+  "filePageRevisionSha1": "eeb2cdef697a22bd656f6c34a0a7417c863243b8",
+  "filePageRevisionTimestamp": "2019-11-19T14:25:49Z",
+  "filePageWikitext": "\n== Description ==\nHay Day Suomi - HAY DAY NEWSPAPER HUNT #1 ft. Netawsk\n\nJos tää video floppaa niin se menee huolella tunteisiin, koska tän tekemiseen meni aikaa ja hermot. Kiitos kun katsoit. Jätä tykkäys jos pidit, ja tilaa halutessasi Suomen laadukkain Hay Day-kanava: https://bit.ly/2JQ1LhV\n\n#Hayday\n#Thenewspaperhunt\n#Supercell\n[[Category:Videos]]",
+  "filePageWikitextHash": "88a882e0fad306302696d6bdbd5dd8b91296f097e75c6497222d9b92d591b96d",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Suomi - HAY DAY NEWSPAPER HUNT 1 ft. Netawsk",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-11-19T14:25:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Suomi%20-%20HAY%20DAY%20NEWSPAPER%20HUNT%201%20ft.%20Netawsk",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 34138,
+  "sourceSha1": "19fb7c4ce43a90849ba9640883f663691b566d6d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f5/Hay_Day_Suomi_-_HAY_DAY_NEWSPAPER_HUNT_1_ft._Netawsk/revision/latest?cb=20191119142549",
+  "title": "File:Hay Day Suomi - HAY DAY NEWSPAPER HUNT 1 ft. Netawsk",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

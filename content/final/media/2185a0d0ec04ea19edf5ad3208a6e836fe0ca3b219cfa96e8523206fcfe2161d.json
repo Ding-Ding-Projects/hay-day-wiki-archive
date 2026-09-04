@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Egg.png",
+  "filePageId": 35771,
+  "filePageRevisionId": 104868,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2024-02-18T02:51:00Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 2240,
   "immutableUrl": null,
   "mediaId": "File:Cherry Egg.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T02:51:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACherry%20Egg.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3809421,
   "sourceSha1": "06131295be2ad1ed3750aa106dd428a2f3d10642",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bees_Winter.png",
+  "filePageId": 23615,
+  "filePageRevisionId": 65807,
+  "filePageRevisionSha1": "a57bda5775f7e5529eb7b1550436dab1e763d83d",
+  "filePageRevisionTimestamp": "2016-10-26T09:31:32Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "00cd3ffab63af630bc7c8ee4cfad78d8166b61dd437121911722fe6a44011861",
   "height": 250,
   "immutableUrl": null,
   "mediaId": "File:Bees Winter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-02-19T15:41:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABees%20Winter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 132137,
   "sourceSha1": "daf8fff047625f8691614f0c14d4406d5b72a7aa",

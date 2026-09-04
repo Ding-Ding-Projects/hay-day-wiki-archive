@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_97_new.jpg",
+  "filePageId": 35121,
+  "filePageRevisionId": 100028,
+  "filePageRevisionSha1": "3f73f787391be2f149e8d400f44a8ee6a3421092",
+  "filePageRevisionTimestamp": "2022-01-09T22:06:17Z",
+  "filePageWikitext": "\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "de271e3b6be32ac17e530ee1b1b7c4cf661aba81e62922838a602ec8ce889801",
+  "height": 1184,
+  "immutableUrl": null,
+  "mediaId": "File:Level 97 new.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-09-01T02:53:39Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel%2097%20new.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 288752,
+  "sourceSha1": "b507354f459a1a7de3b2ee54bb7c059cd00d4bac",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d4/Level_97_new.jpg/revision/latest?cb=20210901025339",
+  "title": "File:Level 97 new.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1586
+}

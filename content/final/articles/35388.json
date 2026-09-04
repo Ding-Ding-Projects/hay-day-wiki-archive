@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Hummus Products",
+    "Category:Lettuce Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Hummus Products",
+      "Category:Lettuce Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +159,12 @@
   "revisionId": 110056,
   "revisionTimestamp": "2026-05-14T20:22:52Z",
   "route": "/wiki/hummus-wrap-35388",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hummus_Wrap",
   "title": "Hummus Wrap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hummus Wrap.png|200px|left|Hummus wrap|link=Special:FilePath/Hummus_Wrap.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 109\n |price = 1 to 374\n |time = 30 min\n |xp = 45\n |source = {{Infoicon|sandwichb|bigger|link=Sandwich Bar}}\n |base = 104\n |dia = 3\n |time3 = 25 min\n}}\n'''Hummus Wraps''' are [[products]] unlocked at [[experience]] level 109.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Hummus Wraps'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nHummus Wrapes are made in the [[Sandwich Bar]].\n\nTo make a sandwich players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Hummus.png|75px|link=Hummus|Hummus]]\n|[[File:Bread.png|75px|link=Bread|Bread]]\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|-\n|'''x1'''\n|'''X2'''\n|'''x1'''\n|}\nIt takes 30 minutes to make a wrap, and 25 minutes in a fully [[Masteries|mastered]] bar. Each wrap gives players 45 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Hummus Wraps'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Hummus Wraps can be bought or sold for a maximum price of 3,744 {{Infoicon|Coin}} for 10 wraps.\n* Buying the ingredients required to make a Hummus Wrap costs 351 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 hummus wraps per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Hummuswrap\n|es = Wrap de hummus\n|fr = Wrap à l'Houmous\n|it = Rotolo farcito di hummus\n|nl = Hummuswrap\n|no = Hummuswrap\n|ru = Шаурма с хумусом\n|zh = Hummus Wrap\n}}\n[[pt-br:Wrap com hummus]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Lettuce Products]]\n[[Category:Hummus Products]]",
   "wikitextHash": "ab4b276f12227d311f3d6c69b07ed6178cc6597460816b98cd0e38f53f90119c"
 }

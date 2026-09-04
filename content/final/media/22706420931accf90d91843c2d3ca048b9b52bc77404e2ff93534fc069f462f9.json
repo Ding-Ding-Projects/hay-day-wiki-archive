@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bird_House_2.png",
+  "filePageId": 35333,
+  "filePageRevisionId": 103468,
+  "filePageRevisionSha1": "bf45ff07b75b7c5fb1e22e758082fe70a368cf2d",
+  "filePageRevisionTimestamp": "2023-07-20T20:50:14Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "a6ce05a8fa962fc1beb7e671f18053119e28292f91a3a5a831e532d05409370d",
   "height": 801,
   "immutableUrl": null,
   "mediaId": "File:Bird House 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-18T10:22:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABird%20House%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 751657,
   "sourceSha1": "9c0930d7bef82b8f70db3f1bda1451a5279b69f2",

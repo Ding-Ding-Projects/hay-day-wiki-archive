@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fresh Pasta Products",
+    "Category:Lemon Products",
+    "Category:Olive Oil Products",
+    "Category:Salad Bar Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fresh Pasta Products",
+      "Category:Lemon Products",
+      "Category:Olive Oil Products",
+      "Category:Salad Bar Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 107247,
   "revisionTimestamp": "2025-02-12T22:07:03Z",
   "route": "/wiki/pasta-salad-19454",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pasta_Salad",
   "title": "Pasta Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pasta Salad.png|200px|left|Pasta salad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 67\n |price = 1 to 759\n |time = 2 h 30 min\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 90\n |base = 211\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Pasta salad''' is a [[Products|product]] unlocked at [[experience]] level 67. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making pasta salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nPasta salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fresh Pasta.png|75px|Fresh pasta|link=Fresh Pasta]]\n|[[File:Lemon.png|75px|Lemons|link=Lemon]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|-\n|'''x4'''\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 2 hours and 30 minutes to make one bowl, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 90 [[experience]] points.\n\n{{Clr}}----\n==='''Selling pasta salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Pasta salad can be bought or sold for a maximum price of 7,596 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a salad costs 721 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 pasta salad per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Nudelsalat\n|es = Ensalada de pasta\n|fr = Salade de pâtes\n|it = Pasta fredda\n|nl = Pastasalade\n|no = Pastasalat\n|zh = Pasta Salad\n}}\n[[pt-br:Salada de macarrão]]\n[[ru:Салат с макаронами]]\n\n[[Category:Salad Bar Products]]\n[[Category:Tomato Products]]\n[[Category:Olive Oil Products]]\n[[Category:Lemon Products]]\n[[Category:Fresh Pasta Products]]",
   "wikitextHash": "57c6f48aa4579ac83009cfe040cc6b7b9df653d0aa3d27d60dc6bc09ee366f7c"
 }

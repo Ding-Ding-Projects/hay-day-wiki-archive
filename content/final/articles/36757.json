@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Incomplete"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Incomplete"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Baptiste?action=history",
@@ -37,11 +47,12 @@
   "revisionId": 110961,
   "revisionTimestamp": "2026-08-29T14:51:02Z",
   "route": "/wiki/baptiste-36757",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Baptiste",
   "title": "Baptiste",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Baptiste.png|200px|left]]\n'''Baptiste''' is a [[:Category:Characters|non-player character]] (NPC) who manages the Design Festival event. He was introduced in early 2025, along with the event.\n\nBaptiste is a French photographer who has a stall near [[Maggie]]'s workbench. When there's a Design Festival happening, he walks around the farm, taking photos. The event allows players to design a decoration arrangement based on a given theme and earn rewards.\n\n[[Category:Characters]]\n[[Category:Incomplete]]",
   "wikitextHash": "a0e22d38d865e245b3e2d4d427d5bc400bf89c5a4f614f20f7e516cf78900444"
 }

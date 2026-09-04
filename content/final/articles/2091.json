@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Products",
+    "Category:Feed Mill Products",
+    "Category:Soybean Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Products",
+      "Category:Feed Mill Products",
+      "Category:Soybean Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +162,12 @@
   "revisionId": 106397,
   "revisionTimestamp": "2024-12-03T21:01:40Z",
   "route": "/wiki/cow-feed-2091",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cow_Feed",
   "title": "Cow Feed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}[[ru:Корм для коров]]\n[[File:Cow_Feed.png|200px|left|Cow feed]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 6\n |price = 1 to 14\n |time = 10 min\n |xp = 2\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |base = 4\n |dia = 2\n |time3 = 8 min\n}}\n'''Cow feed''' is a [[Products|product]] unlocked at [[experience]] level 6. It is used to feed [[cow]]s.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making cow feed'''===\n[[File:Feed Mill.png|150px|left|link=Feed Mill|Feed Mill]]\nCow feed is made in the [[Feed Mill]]. Sacks of feed are made three by three.\n\nTo make three units of cow feed, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Soybean.png|75px|Soybeans|link=Soybean]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 10 minutes to make three sacks, and 8 minutes in a fully [[Masteries|mastered]] Feed mill. Three sacks give players 2 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling cow feed'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Cow feed can be bought or sold for a maximum price of 144 {{Infoicon|Coin}} for 10 sacks.\n* Buying the ingredients required to make cow feed costs 27 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* [[Rose]] can make feed for you if you hire her. This costs [[diamond]]s.\n* [[Boat]]s never ask for any type of feed.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kuhfutter\n|es = Pienso de vaca\n|fr = Ration Vache\n|it = Cibo per mucche\n|nl = Koeienvoer\n|no = Kufôr\n|vi = Thức ăn cho bò\n|zh = 奶牛饲料\n}}\n[[pt-br:Ração das vacas]]\n[[ru:Корм для коров]]\n[[Category:Feed Mill Products]]\n[[Category:Corn Products]]\n[[Category:Soybean Products]]",
   "wikitextHash": "05007424bf44c5169515a353c52e7dbd389e36d601a4ec390f6aab2c00bd9c7f"
 }

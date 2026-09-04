@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hug_Statue.png",
+  "filePageId": 28113,
+  "filePageRevisionId": 74070,
+  "filePageRevisionSha1": "032c078620f96f82f1c827b19517bcfdbc9102ad",
+  "filePageRevisionTimestamp": "2017-10-22T09:59:33Z",
+  "filePageWikitext": "== Summary ==\nR3DKNIGHT sent this to me this morning... Not sure which event it's for... But at least we have the image...\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "e77068afb9f761c962cc3b7549d60d986d4f62a611df5c1e2eb70271e8320aaa",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Hug Statue.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:35:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHug%20Statue.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 181933,
   "sourceSha1": "0fc82cc0ffbd1d74b25a604513e1857d20612042",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tropical_Smoothie.png",
+  "filePageId": 35556,
+  "filePageRevisionId": 105202,
+  "filePageRevisionSha1": "bc2a24bef0c7cc46eeb6062015640664978f1afa",
+  "filePageRevisionTimestamp": "2024-04-11T15:15:09Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder image for [[Tropical Smoothie]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "da99293a4a57cc8d8fed14e7c68fbf9f0cdd0e7677d157c3335bbcc880ee4e30",
   "height": 961,
   "immutableUrl": null,
   "mediaId": "File:Tropical Smoothie.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:15:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATropical%20Smoothie.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 473919,
   "sourceSha1": "919677cb5d7a9f38fdc55a83b3e16724c252c139",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:User_Templates?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 62239,
   "revisionTimestamp": "2016-05-23T17:00:43Z",
   "route": "/wiki/category%2Fcategory-user-templates-24700",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:User_Templates",
   "title": "Category:User Templates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Templates which are used on profile pages, in comments, etc.\n[[Category:Templates]]",
   "wikitextHash": "7ca58843d08620b3f8abb59071441aa510ed2129ead62ef43091238adc5b11be"
 }

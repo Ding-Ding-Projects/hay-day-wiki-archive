@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bell Pepper Products",
+    "Category:Carrot Products",
+    "Category:Cream Products",
+    "Category:Salad Bar Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bell Pepper Products",
+      "Category:Carrot Products",
+      "Category:Cream Products",
+      "Category:Salad Bar Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +190,12 @@
   "revisionId": 107248,
   "revisionTimestamp": "2025-02-12T22:12:50Z",
   "route": "/wiki/veggie-platter-29912",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Veggie_Platter",
   "title": "Veggie Platter",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Veggie Platter.png|200px|left|Veggie platter]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 74\n |price = 1 to 266\n |time = 2 h\n |xp = 32\n |source ={{Infoicon|saladb|bigger|link=Salad Bar}}\n |base = 74\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Veggie platters''' are [[products]] unlocked at [[experience]] level 74.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making veggie platters'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nVeggie platters are made in the [[Salad Bar]].\n\nTo make a platter, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bell Pepper.png|75px|link=Bell Pepper|Bell peppers]]\n|[[File:Carrot.png|75px|link=Carrot|Carrots]]\n|[[File:Tomato.png|75px|link=Tomato|Tomatoes]]\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\n\nIt takes 2 hours to make one platter, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] bar. Each platter gives players 32 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling veggie platters'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Veggie platters can be bought or sold for a maximum price of 2664 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a veggie platter costs 222 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 veggie platters per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Gemüseplatte\n|es = Crudités\n|fr = Plat de Légumes\n|it = Piatto vegetariano\n|nl = Groente Schotel\n|no = Vegetartallerken\n|zh = Veggie Platter\n}}\n[[pt-br:Tábua de verduras]]\n[[ru:Тарелка овощей]]\n\n[[Category:Salad Bar Products]]\n[[Category:Cream Products]]\n[[Category:Carrot Products]]\n[[Category:Tomato Products]]\n[[Category:Bell Pepper Products]]",
   "wikitextHash": "6b0aa28db79d9512290a8f95fb00575181a50ae79ee44a660d7fcacf48ca73d4"
 }

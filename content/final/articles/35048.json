@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -84,11 +92,12 @@
   "revisionId": 102198,
   "revisionTimestamp": "2022-12-08T10:51:36Z",
   "route": "/wiki/blueprint-35048",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blueprint",
   "title": "Blueprint",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Blueprint.png|200px|left|A blueprint]]\n'''Blueprints''' are a type of [[supplies]] which let players unlock upgrades of custom decorations.\n\nThey are unlocked at [[experience]] level 71.\n\nLike expansion permits, they are not stored in the [[barn]].\n\nMaximum number of blueprints you can hold is 15.\n{{Clr}}\n----\n==='''Getting blueprints'''===\nLike [[Expansion Permit|expansion permits]], blueprints cannot be bought or sold.\n\nBlueprints can be obtained when players:\n\n*Spin the [[Wheel of Fortune]]\n*Reach flag checkpoints in [[Derby|derbies]]\n*Find them in [[Mystery Box|Huge Boxes]] or in some of the Holiday Calendar Boxes on Greg's farm\n*Buy them in [[Valley Shop]]\n*Complete checkpoints on either free or paid [[Farm Pass]]\n----\n==='''Using blueprints'''===\n\nYou need to pay level 4 and higher upgrade of decoration with specified number of blueprints. You can see the amount of them in [[Custom decorations/ Lists]].\n\n{{Languages\n|es = Plano\n|de=Bauplan}}\n[[Category:Supplies]]",
   "wikitextHash": "640a998c5d519781fe56d21470222e6417a2e7ae8a42d92005a70ea69495a774"
 }

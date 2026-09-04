@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Natural_White_Salt.jpg",
+  "filePageId": 25174,
+  "filePageRevisionId": 69676,
+  "filePageRevisionSha1": "6319ad8d05728aadb69dcc197bffd685259b1de1",
+  "filePageRevisionTimestamp": "2017-02-06T21:59:06Z",
+  "filePageWikitext": "\n[[Category:Image User]]",
+  "filePageWikitextHash": "bec19baa054da263f1fd7220d4ead034fd0e54151193702ff7ff969ca031a26b",
+  "height": 420,
+  "immutableUrl": null,
+  "mediaId": "File:Natural White Salt.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-07-13T20:49:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ANatural%20White%20Salt.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 73238,
+  "sourceSha1": "c4dfcbbd166b4ceb9df543bb3dc212d4cdcbb7a9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Natural_White_Salt.jpg/revision/latest?cb=20160713204901",
+  "title": "File:Natural White Salt.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 560
+}

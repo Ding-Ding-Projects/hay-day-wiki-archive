@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Stew_Pot_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 101618,
   "revisionTimestamp": "2022-10-04T21:03:15Z",
   "route": "/wiki/category%2Fcategory-stew-pot-products-35578",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Stew_Pot_Products",
   "title": "Category:Stew Pot Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Stew Pot.png|thumb]]\nProducts of the [[Stew Pot]].\n[[Category:Products]]",
   "wikitextHash": "8ccd04b92e8cb1ebddf6b07189ca429fcd695e45e71c46903c6dde9ff1fec8c7"
 }

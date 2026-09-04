@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Leagues.png",
+  "filePageId": 22667,
+  "filePageRevisionId": 74388,
+  "filePageRevisionSha1": "035480a7445ec53c7e39776a6047cda2270f3cdb",
+  "filePageRevisionTimestamp": "2017-10-22T15:45:46Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "d748309cb5a53ea1d3e659f6701f8926947b47684a36595f58acaa167e9194b9",
   "height": 571,
   "immutableUrl": null,
   "mediaId": "File:Derby Leagues.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-29T15:54:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADerby%20Leagues.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 472354,
   "sourceSha1": "d9d45348ab3e165a56146355e7b22335e44bca88",

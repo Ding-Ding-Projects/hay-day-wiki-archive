@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_71.png",
+  "filePageId": 35194,
+  "filePageRevisionId": 99750,
+  "filePageRevisionSha1": "f2f7ad03dc093f9c0d44d158d6cf0de0f8725636",
+  "filePageRevisionTimestamp": "2021-12-12T22:57:34Z",
+  "filePageWikitext": "== Summary ==\nRep 71 banner.\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "58cbe70f40897301cd11011d1699cd6ffe082303b09b83a5326f03f83e5306d4",
   "height": 781,
   "immutableUrl": null,
   "mediaId": "File:Reputation 71.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-16T19:55:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%2071.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1149116,
   "sourceSha1": "d6ee3824cc2825c503094252dce351e76bf6f436",

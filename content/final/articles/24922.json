@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Cheese Products",
+    "Category:Onion Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Cheese Products",
+      "Category:Onion Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 107141,
   "revisionTimestamp": "2025-02-04T22:30:33Z",
   "route": "/wiki/onion-soup-24922",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Onion_Soup",
   "title": "Onion Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Onion Soup.png|200px|left|Onion Soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 72\n |price = 1 to 327\n |time = 2 h 30 min\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 39\n |base = 91\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Onion soup''' is a [[Products|product]] unlocked at [[experience]] level 72.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making onion soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nOnion soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Cheese.png|75px|Cheese|link=Cheese]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 2 hours and 30 minutes to make one bowl of soup, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] kitchen. Each soup gives players 39 [[experience]] points.\n\n{{Clr}}----\n==='''Selling onion soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Soup can be bought or sold for a maximum price of 3,276 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make the soup costs 282 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 onion soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Zwiebelsuppe\n|es = Sopa de cebolla\n|fr = Soupe à l'Oignon\n|it = Zuppa di cipolle\n|nl = Uiensoep\n|no = Løksuppe\n|zh = Onion Soup\n}}\n[[pt-br:Sopa de cebola]]\n[[ru:Луковый суп]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Cheese Products]]\n[[Category:Onion Products]]\n[[Category:Bread Products]]",
   "wikitextHash": "bf5aeb471c9a9ed818ea0cfe0d95a80afec86bd16c0967ebcbf312fd61ab7504"
 }

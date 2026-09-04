@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Pineapple Products",
+    "Category:Toffee Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Pineapple Products",
+      "Category:Toffee Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -104,11 +118,12 @@
   "revisionId": 108960,
   "revisionTimestamp": "2025-12-17T14:09:40Z",
   "route": "/wiki/gift-bag-36316",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gift_Bag",
   "title": "Gift Bag",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gift Bag.png|200px|left|Gift Bag|link=Special:FilePath/Gift Bag.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 10\n |level = 60\n |time = 10m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp = 106\n |dia = 2\n |time3 = 8m\n}}\n\n'''Gift Bag''' is a [[products|product]] unlocked at [[experience]] level 60. It's a special item used only for the Christmas 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Gift Bags'''===\n[[File:Gift Wrapping Station 2024.png|150px|left|Gift Wrapping Station 2024|link=Special:FilePath/Gift_Wrapping_Station 2024.png]]\nGift Bags are made in the [[Gift Wrapping Station]].\n\nTo make a Gift Bag in the Christmas 2024 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|[[File:Pineapple.png|75px|Pineapple|link=Pineapple]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\n\nIt takes 10 minutes to make one gift, and 8 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 106 [[experience]] points.\n\nTo make a gift bag in the '''Christmas 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cake Gift.png|75px|Cake Gift|link=Cake Gift]]\n|[[File:Hamburger.png|75px|Hamburger|link=Hamburger]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a gift. Each treat gives players 104 experience points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 10 [[holly]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Geschenk mit Tupfen\n|es = Regalo de lunares\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Toffee Products]]\n[[Category:Blackberry Products]]\n[[Category:Pineapple Products]]",
   "wikitextHash": "d3bbe9d5bf13fe53b020e4f4f6cc9f77693b7e18cb024338942be71c5e5f5da5"
 }

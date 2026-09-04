@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Large_Trophy.png",
+  "filePageId": 24154,
+  "filePageRevisionId": 77304,
+  "filePageRevisionSha1": "84768e196b4a395802c047a00f9ae1b4900eeba8",
+  "filePageRevisionTimestamp": "2018-02-07T18:17:07Z",
+  "filePageWikitext": "==Description==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "2ef21a85f9e26153b26ce60041adb35f22b70e3003db8a83802f1a90d72ec414",
   "height": 564,
   "immutableUrl": null,
   "mediaId": "File:Large Trophy.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:17:07Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALarge%20Trophy.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 252420,
   "sourceSha1": "c74c4874edf4377b775b024714ec60b2563f3b09",

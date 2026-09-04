@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Banana_Tree_Stage_1.png",
+  "filePageId": 26494,
+  "filePageRevisionId": 69225,
+  "filePageRevisionSha1": "2d9bc550e4f589afae5510fbeb4a94480403ba23",
+  "filePageRevisionTimestamp": "2017-02-05T23:35:23Z",
+  "filePageWikitext": "Banana Trees Stage 1\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "69363442e1141fa0fba16bf147a588ed014d9a2535f6e9ffc22a0796a46da72c",
   "height": 379,
   "immutableUrl": null,
   "mediaId": "File:Banana Tree Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-12-12T18:31:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABanana%20Tree%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 92478,
   "sourceSha1": "3914dad7ff8e166da2f2174fa9de067fe76b6725",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_39.png",
+  "filePageId": 28163,
+  "filePageRevisionId": 74485,
+  "filePageRevisionSha1": "52ff517859fbc93a5dffb17e93e2211147934d80",
+  "filePageRevisionTimestamp": "2017-10-22T17:49:20Z",
+  "filePageWikitext": "== Summary ==\nLast Reputation Level Image but does NOT have the Level on it. No more Service Buildings to be upgraded only receive diamonds\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "d66a4f9682baed704b39ecd59386577a74f936fdee009b4ef21c18af9dcb8e44",
   "height": 538,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 39.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-06T12:16:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2039.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 412908,
   "sourceSha1": "4a1bab85bc6db5b0b84930722a38fcec1af20aca",

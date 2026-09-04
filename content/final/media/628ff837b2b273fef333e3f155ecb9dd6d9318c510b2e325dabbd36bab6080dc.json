@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beach_Hammock.png",
+  "filePageId": 35537,
+  "filePageRevisionId": 101499,
+  "filePageRevisionSha1": "8fcde9589c5029b2c3dd05d1f4f541eff0252110",
+  "filePageRevisionTimestamp": "2022-09-20T20:12:31Z",
+  "filePageWikitext": "== Summary ==\nDiamond Package Deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "5170b0850052816bece2494faafd5e1342e5b8d1b9ac9dc1796295dd42fecb13",
   "height": 514,
   "immutableUrl": null,
   "mediaId": "File:Beach Hammock.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-02T18:12:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeach%20Hammock.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 570520,
   "sourceSha1": "0f178e71051a69821732e049126323662f731213",

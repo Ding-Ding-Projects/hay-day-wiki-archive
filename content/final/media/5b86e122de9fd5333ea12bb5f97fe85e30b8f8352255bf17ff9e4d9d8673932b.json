@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wiki-wordmark.png",
+  "filePageId": 2037,
+  "filePageRevisionId": 69884,
+  "filePageRevisionSha1": "e833dfdd5cd57142d9305204c00f09effa7600f3",
+  "filePageRevisionTimestamp": "2017-02-09T20:11:34Z",
+  "filePageWikitext": "The [[Help:Wordmark|wordmark]] of the wiki. To upload a wordmark, please use the [[Special:ThemeDesigner|theme designer]].\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "514e21066d33f52968189a308b7e62d56f90d2f051cf8cbe4583402aae484cd2",
+  "height": 65,
+  "immutableUrl": null,
+  "mediaId": "File:Wiki-wordmark.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-08-25T21:50:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AWiki-wordmark.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 41697,
+  "sourceSha1": "7fe162f492a1a2d82b55959e12a4ba72495ae8ea",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/89/Wiki-wordmark.png/revision/latest?cb=20160825215056",
+  "title": "File:Wiki-wordmark.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 250
+}

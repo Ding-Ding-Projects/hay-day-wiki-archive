@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +167,12 @@
   "revisionId": 106279,
   "revisionTimestamp": "2024-11-12T23:01:14Z",
   "route": "/wiki/strawberry-jam-8907",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strawberry_Jam",
   "title": "Strawberry Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Strawberry Jam.png|200px|left|Strawberry jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 50\n |price = 1 to 270\n |time = 7 h 30 min\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 32\n |base = 75\n |dia = 8\n |time3 = 6 h 22 min\n}}\n'''Strawberry jam''' is a [[Products|product]] unlocked at [[experience]] level 50.\n\nIt is used to make [[Strawberry Yogurt|strawberry yogurt]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making strawberry jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nStrawberry jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|-\n|'''x3'''\n|}\nIt takes 7 hours and 30 minutes to make one jar, and 6 hours and 22 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 32 [[experience]] points.\n\n==='''Using strawberry jam'''===\nStrawberry jam is used to make the following [[products|product]]:\n\n{{Item Usage|Strawberry  Jam\n|Strawberry Yogurt|1|105\n}}\n----\n\n{{Clr}}----\n==='''Selling strawberry jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Strawberry jam can be bought or sold for a maximum price of 2,700 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make a jar costs 150 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 strawberry jam per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Erdbeermarmelade\n|es = Mermelada de fresa\n|fr = Confiture de Fraise\n|it = Marmellata di fragole\n|nl = Aardbeienjam\n|no = Jordbærsyltetøy\n|zh = Strawberry Jam\n}}\n[[pt-br:Geleia de morango]]\n[[ru:Клубничное варенье]]\n[[Category:Jam Maker Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "07eeb19c75785bff24a8afe88a5b8dfb4d3b4bf6bb0931443cf004a9524cae2e"
 }

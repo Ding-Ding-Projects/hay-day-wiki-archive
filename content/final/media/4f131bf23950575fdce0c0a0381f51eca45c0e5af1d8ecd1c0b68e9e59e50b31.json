@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brown_Baby_Zebra.png",
+  "filePageId": 33986,
+  "filePageRevisionId": 102260,
+  "filePageRevisionSha1": "10a5beb33b093d201e18d5d910c2f5f130f1f7a9",
+  "filePageRevisionTimestamp": "2022-12-10T21:48:30Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "189677ae6094bed0dae8aa248c8e8086bfd9e41336df2ea8d8b996ff878f4382",
   "height": 935,
   "immutableUrl": null,
   "mediaId": "File:Brown Baby Zebra.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-10T21:48:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrown%20Baby%20Zebra.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 368115,
   "sourceSha1": "91c0ae32e490ee42cce5404cf2f7bfb0c6d8cb98",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pink_Trumpet_Tree.png",
+  "filePageId": 25319,
+  "filePageRevisionId": 84096,
+  "filePageRevisionSha1": "e9f5844f01f65358f9f3aa4371d5ae1412a3fe7b",
+  "filePageRevisionTimestamp": "2018-12-11T07:14:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1214f2a6ca93af598259a6842df3292a82aeefbd988cce921739d96b52e5e65c",
   "height": 715,
   "immutableUrl": null,
   "mediaId": "File:Pink Trumpet Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-11T07:14:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APink%20Trumpet%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 590206,
   "sourceSha1": "aeec8a5af01b3c2052c8641a65a956753d5040cb",

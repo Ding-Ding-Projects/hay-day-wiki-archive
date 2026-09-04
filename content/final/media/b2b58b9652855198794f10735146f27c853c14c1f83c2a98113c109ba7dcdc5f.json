@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sheep_Shears.png",
+  "filePageId": 32056,
+  "filePageRevisionId": 110047,
+  "filePageRevisionSha1": "560f5e5fb9f652bab9fd8feae3934f989eefd4bd",
+  "filePageRevisionTimestamp": "2026-05-13T19:41:30Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "a8607461ceaeb6b89ca95737fa480cac68296c83180e7ff31825661fc3c1d443",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Sheep Shears.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-13T19:41:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASheep%20Shears.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 221449,
   "sourceSha1": "c0c259dbf397a4d2463c7ccbbca65f6c7fb2eaa2",

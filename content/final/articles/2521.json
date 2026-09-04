@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candy Machine Products",
+    "Category:Cherry Products",
+    "Category:Strawberry Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candy Machine Products",
+      "Category:Cherry Products",
+      "Category:Strawberry Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -143,11 +157,12 @@
   "revisionId": 107190,
   "revisionTimestamp": "2025-02-08T14:44:10Z",
   "route": "/wiki/lollipop-2521",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lollipop",
   "title": "Lollipop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lollipop.png|200px|left|Lollipop]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 57\n |price = 1 to 342\n |time = 12 h\n |source = {{Infoicon|candym|bigger|link=Candy Machine}}\n |xp = 41\n |base = 95\n |dia = 11\n |time3 = 10 h 12 min\n}}\n'''Lollipops''' are [[products]] unlocked at [[experience]] level 57.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making lollipops'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nLollipops are made in the [[Candy Machine]].\n\nTo make a lollipop, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 12 hours to make one lollipop, and 10 hour and 12 minutes in a fully [[Masteries|mastered]] machine. Each lollipop gives players 41 [[experience]] points.\n\n{{Clr}}----\n==='''Selling lollipops'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lollipops can be bought or sold for a maximum price of 3,420 {{Infoicon|coin}} for 10 pops.\n* Buying the ingredients required to make a lollipop costs 258 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Lollipops are very hard to find in the [[Daily Dirt]].\n* [[Boat]] orders never ask for lollipops.\n----\n\n{{Navigation}}\n{{Languages\n|de = Lutscher\n|es = Piruleta\n|fr = Sucette\n|it = Leccalecca\n|nl = Lolly\n|no = Kjærlighet på pinne\n|zh = Lollipop\n}}\n[[pt-br:Pirulito]]\n[[ru:Леденец]]\n\n[[Category:Candy Machine Products]]\n[[Category:Syrup Products]]\n[[Category:Cherry Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "5b225e90552acd4334d795fed7b2adca5531253fd6815d245bce0a1c2d083e08"
 }

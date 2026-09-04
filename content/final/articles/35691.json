@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 102201,
   "revisionTimestamp": "2022-12-08T11:13:57Z",
   "route": "/wiki/gift-wrapper-station-35691",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gift_Wrapper_Station",
   "title": "Gift Wrapper Station",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Gift Wrapping Station]]",
   "wikitextHash": "986326509ca7769662bd14b7d9f2a28efff7d5237164b7bb80c59cfe09d9905f"
 }

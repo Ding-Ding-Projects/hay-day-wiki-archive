@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stew_Pot_Mastery.png",
+  "filePageId": 35874,
+  "filePageRevisionId": 103572,
+  "filePageRevisionSha1": "3aab8b038360ef6f643545e6fe94afd167a48d99",
+  "filePageRevisionTimestamp": "2023-08-04T22:13:02Z",
+  "filePageWikitext": "== Summary ==\nStew pot mastery \n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "201362d90e60491f44731e8e6cb796542b79cb196dc502f840e4f0adbb153666",
   "height": 289,
   "immutableUrl": null,
   "mediaId": "File:Stew Pot Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-08-03T14:52:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStew%20Pot%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 119052,
   "sourceSha1": "bb6146a35a083b045aec48d02d7cd15a453de356",

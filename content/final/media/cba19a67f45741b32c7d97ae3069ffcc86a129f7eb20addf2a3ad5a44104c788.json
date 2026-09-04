@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Keel-billed_Toucan.png",
+  "filePageId": 35406,
+  "filePageRevisionId": 101593,
+  "filePageRevisionSha1": "7b961be2078b4b737fab54d5c48d55150fb13397",
+  "filePageRevisionTimestamp": "2022-10-03T21:49:10Z",
+  "filePageWikitext": "== Summary ==\nTemporary image\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "298b578b520bd2ad3789ba657295dc537e6eca1884210804d32f2f28100316e5",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Keel-billed Toucan.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-03T21:49:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AKeel-billed%20Toucan.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 153802,
   "sourceSha1": "e3b5c385722cc38a56a954d256914a05f7c4a571",

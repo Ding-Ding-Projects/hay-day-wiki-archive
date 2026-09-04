@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_117.png",
+  "filePageId": 27511,
+  "filePageRevisionId": 107171,
+  "filePageRevisionSha1": "b6febd163012274fc82c856e45c64dca88488ab5",
+  "filePageRevisionTimestamp": "2025-02-07T18:03:31Z",
+  "filePageWikitext": "== Summary ==\nExperience Level 117 Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "78e863d124a755e7827868ce2a5ea5b308705ffeb6df499b395225995099fd99",
+  "height": 565,
+  "immutableUrl": null,
+  "mediaId": "File:Level 117.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-02-07T18:03:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20117.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 363303,
+  "sourceSha1": "1e6245877ea0b3daf86f271867c9c19cba18d08c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/Level_117.png/revision/latest?cb=20250207180331",
+  "title": "File:Level 117.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 782
+}

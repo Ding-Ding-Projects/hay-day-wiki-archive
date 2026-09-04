@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Valley_Buildings?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 86193,
   "revisionTimestamp": "2019-06-24T21:36:07Z",
   "route": "/wiki/category%2Fcategory-valley-buildings-31480",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Valley_Buildings",
   "title": "Category:Valley Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Buildings]]",
   "wikitextHash": "abfc02874908470c2f0680c5b5a0c6569e205edb229ff89b4c64e7b8c086ed71"
 }

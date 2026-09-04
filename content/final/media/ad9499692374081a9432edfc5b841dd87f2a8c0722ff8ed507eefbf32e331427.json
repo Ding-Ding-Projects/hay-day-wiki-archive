@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mount_Guardians.png",
+  "filePageId": 36183,
+  "filePageRevisionId": 106112,
+  "filePageRevisionSha1": "fb5610e48f97b8ed84bd406a3a8b9c66611d4e58",
+  "filePageRevisionTimestamp": "2024-10-27T17:50:59Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "12470d46e593a27898bc11043ae60d0b11325ad924e77889b6d3371fcbf7651d",
   "height": 165,
   "immutableUrl": null,
   "mediaId": "File:Mount Guardians.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-27T17:50:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMount%20Guardians.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 42822,
   "sourceSha1": "4818e4c8e08864d4643e07fdc66ae804fb90e188",

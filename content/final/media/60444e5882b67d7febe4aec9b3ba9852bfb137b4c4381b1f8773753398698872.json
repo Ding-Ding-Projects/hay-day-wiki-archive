@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Ice_Cream.jpeg",
+  "filePageId": 29746,
+  "filePageRevisionId": 80562,
+  "filePageRevisionSha1": "a8e2f3e5b54beeee914a4ac44dae7c32867a59ce",
+  "filePageRevisionTimestamp": "2018-05-19T09:53:55Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "86b8e3e01607efd0c047f78a20522202a9d6441fe7df4a218ee03fb87dac8b9c",
   "height": 225,
   "immutableUrl": null,
   "mediaId": "File:Cabin Ice Cream.jpeg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-17T05:32:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACabin%20Ice%20Cream.jpeg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 22657,
   "sourceSha1": "7ed76e6eb66dcea4b4ab6701a0005dc46dca2a73",

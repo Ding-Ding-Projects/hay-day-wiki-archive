@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Popcorn_Pot_Mastery.png",
+  "filePageId": 2976,
+  "filePageRevisionId": 79935,
+  "filePageRevisionSha1": "484921ded994754e54512ada057e43be9d90bbd7",
+  "filePageRevisionTimestamp": "2018-05-01T17:45:20Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "aeb196532c317fe2efad74c9e65150199857036af6212cf0fcd18c2ef8fafa74",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Popcorn Pot Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:45:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APopcorn%20Pot%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 46825,
   "sourceSha1": "f23507f91f22cb4d901df48b2dfd917dcd3a6902",

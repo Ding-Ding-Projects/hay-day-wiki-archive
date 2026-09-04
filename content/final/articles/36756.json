@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Incomplete"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Incomplete"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -57,11 +67,12 @@
   "revisionId": 110772,
   "revisionTimestamp": "2026-07-19T12:06:38Z",
   "route": "/wiki/mavis-36756",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mavis",
   "title": "Mavis",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Mavis.png|200px|left]]\n'''Mavis''' is a [[:Category:Characters|non-player character]] (NPC) who guides players through the first levels of the game. Previously, this task belonged to the scarecrow (until end of 2025). Mavis first appeared in the game Hay Day Pop as Greg's girlfriend. Then she appeared in Squadbusters before arriving in Hay Day.\n{{Clr}}\n----\n==='''Tutorial'''===\nPlayers meet Mavis on their farms right at the start of the game. She walks them trough the most essential features of the game, such as cultivating [[crops]], making [[products]], and collecting [[Animal Goods|animal goods]].\n\nUntil the end of 2025, this tutorial was done by Mr. Wicker, a talking scarecrow. Despite that, he still appears in the other tutorials.\n\nHere are some highlights from the tutorial by Mavis:\n<gallery widths=\"300\">\nFile:Start Tutorial 1.jpg\nFile:Start Tutorial 2.jpg\nFile:Start Tutorial End 1.jpg\nFile:Start Tutorial End 2.jpg\n</gallery>\n\n[[Category:Characters]]\n[[Category:Incomplete]]",
   "wikitextHash": "0c8f8caba361073e85ddfc9b990f4512234d7f5ca4ae27caafa9b88e9c54fb44"
 }

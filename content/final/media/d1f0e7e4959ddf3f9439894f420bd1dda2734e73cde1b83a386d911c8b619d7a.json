@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Joans_Salon.png",
+  "filePageId": 18958,
+  "filePageRevisionId": 65970,
+  "filePageRevisionSha1": "46f551b7655622ca28e35baa3d8e19ddbd806d88",
+  "filePageRevisionTimestamp": "2016-10-28T13:19:40Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Truck]]",
+  "filePageWikitextHash": "557c8c83bcfd7db6851818d33a4071c456b753577f8eafc55e78a5918b14f190",
   "height": 155,
   "immutableUrl": null,
   "mediaId": "File:Joans Salon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-09-18T15:31:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJoans%20Salon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 88809,
   "sourceSha1": "b328ee0fc6f50a2656b8dec2c4f9adaf32806a5e",

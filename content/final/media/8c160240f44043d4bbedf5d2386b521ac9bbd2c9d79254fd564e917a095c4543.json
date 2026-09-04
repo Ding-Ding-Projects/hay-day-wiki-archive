@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Giraffe_Puzzles.png",
+  "filePageId": 28070,
+  "filePageRevisionId": 74469,
+  "filePageRevisionSha1": "69c5eb652e682d31427b200f5c12582473189966",
+  "filePageRevisionTimestamp": "2017-10-22T17:39:10Z",
+  "filePageWikitext": "== Summary ==\nGiraffe Puzzles\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "afab82d9c0b2f383a76ea880badcf324cc7b2b65eeab4bcc8d85525b719b9fc3",
   "height": 640,
   "immutableUrl": null,
   "mediaId": "File:Giraffe Puzzles.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-06-19T21:19:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGiraffe%20Puzzles.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 725678,
   "sourceSha1": "07896843a77485c89ab6508d2f936e8b56025935",

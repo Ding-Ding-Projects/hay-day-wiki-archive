@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Acorn_Lamp.png",
+  "filePageId": 35624,
+  "filePageRevisionId": 101827,
+  "filePageRevisionSha1": "fb5610e48f97b8ed84bd406a3a8b9c66611d4e58",
+  "filePageRevisionTimestamp": "2022-11-04T18:09:07Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "12470d46e593a27898bc11043ae60d0b11325ad924e77889b6d3371fcbf7651d",
   "height": 550,
   "immutableUrl": null,
   "mediaId": "File:Acorn Lamp.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-11-03T12:33:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAcorn%20Lamp.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 573250,
   "sourceSha1": "dffa3741e67d176afd4e33805df44278a0c1844c",

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hat Maker Products",
+    "Category:Strawberry Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hat Maker Products",
+      "Category:Strawberry Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -143,11 +155,12 @@
   "revisionId": 107297,
   "revisionTimestamp": "2025-02-18T18:46:29Z",
   "route": "/wiki/cloche-hat-18415",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cloche_Hat",
   "title": "Cloche Hat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cloche Hat.png|200px|left|Cloche hat]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 70\n |price = 1 to 468\n |time = 2 h\n |source = {{Infoicon|hatm|bigger|link=Hat Maker}}\n |xp = 56\n |base = 130\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Cloche hats''' are [[products]] unlocked at [[experience]] level 70.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making cloche hats'''===\n[[File:Hat Maker.png|150px|left|Hat Maker]]\nCloche hats are made in the [[Hat Maker]].\n\nTo make a cloche hat, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|-\n|'''x2'''\n|'''x6'''\n|}\nIt takes 2 hours to make one cloche hat, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] maker. Each hat gives players 56 [[experience]] points.\n\n{{Clr}}----\n==='''Selling cloche hats'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Cloche hats can be bought or sold for a maximum price of 4,680 {{Infoicon|coin}} for 10 hats.\n* Buying the ingredients required to make a cloche hat costs 424 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 4 cloche hats per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Cloche hats are commonly found in the [[Daily Dirt]]. Selling them at maximum price or in big quantities may result in slower sales.\n* Buying wool and strawberries and continuously making cloche hats is a simple and easy way to master the Hat Maker.\n\n{{Clr}}----\n==='''Do you know?'''===\n* There is a flower on the cloche hat, but it doesn't ask for [[Peony|peonies]][[File:Peony Stage 4.png|75px|link=Peony]] or [[Sunflower|sunflowers]][[File:Sunflower.png|75px|link=Sunflower]]\n----\n\n{{Navigation}}\n{{Languages|\n|de = Cloche\n|es = Sombrero cloché\n|fr = Chapeau cloche\n|it = Cloche\n|nl = Clochehoed\n|no = Clochehatt\n|zh = Cloche Hat\n}}\n[[pt-br:Chapéu cloche]]\n[[ru:Женская шляпка]]\n\n[[Category:Hat Maker Products]]\n[[Category:Wool Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "3938be13932d05f323c9c2a2d03d5d71f9325ca0141354db9ff0094d5a375bca"
 }

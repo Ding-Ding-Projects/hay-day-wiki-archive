@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_31.PNG",
+  "filePageId": 21664,
+  "filePageRevisionId": 69441,
+  "filePageRevisionSha1": "dbf2dcaf8a32024ba96d577d958871fb25ca9615",
+  "filePageRevisionTimestamp": "2017-02-06T12:27:29Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "8b8481666abeae08b1e72224dc1b21350c92b5fab42e12416770373cfa950dfd",
+  "height": 360,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 31.PNG",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-01T17:09:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AReputation%20Level%2031.PNG",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 314510,
+  "sourceSha1": "420a6c25bda6d955c8a20008b3b4197d6b966207",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/23/Reputation_Level_31.PNG/revision/latest?cb=20150901170923",
+  "title": "File:Reputation Level 31.PNG",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 640
+}

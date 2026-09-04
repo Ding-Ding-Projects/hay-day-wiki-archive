@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -412,11 +420,12 @@
   "revisionId": 109709,
   "revisionTimestamp": "2026-04-29T20:22:25Z",
   "route": "/wiki/egg-2058",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Egg",
   "title": "Egg",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Egg.png|200px|left|Egg]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 1\n |price = 1 to 18\n |time = 20 min\n |xp = 2\n |source = {{Infoicon|chicken|bigger|link=Chicken}}\n |base = 5\n |dia = 2\n }}\n'''Eggs''' are [[Animal Goods|animal goods]] unlocked at [[experience]] level 1.\n\nThey are the first type of goods unlocked in the game and, by far, the most widely used in other recipes.\n\nLike all goods, they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Collecting eggs'''===\n[[File:Chicken.gif|200px|left|Collecting eggs]]\nEggs are collected from [[chicken]]s which have been fed [[Chicken Feed|chicken feed]]. Once fed, each chicken needs 20 minutes to make an egg.\n\nCollecting an egg gives players 2 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling eggs'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Egg can be bought or sold for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n* A [[chicken]] costs between 10 and 270 {{Infoicon|coin}} and a [[Chicken Coop|chicken coop]] 5 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using eggs'''===\nEggs are used to make the following [[products]]:\n\n{{Item Usage|Egg\n|Corn Bread|2|7\n|Pancake|3|9\n|Cookie|2|10\n|Bacon and Eggs|4|11\n|Carrot Pie|1|14\n|Pumpkin Pie|1|15\n|Bacon Pie|1|18\n|Raspberry Muffin|1|19\n|Red Berry Cake|1|23\n|Blackberry Muffin|2|26\n|Apple Pie|1|28\n|Fish Pie|1|28\n|Blueberry Muffin|2|33\n|Feta Pie|1|34\n|Casserole|2|36\n|Potato Feta Cake|4|38\n|Potato Bread|3|39\n|Honey Apple Cake|2|42\n|Asparagus Quiche|2|49\n|Mayonnaise|4|62\n|Egg Sushi|4|63\n|Pineapple Cake|2|65\n|Chocolate Pie|1|65\n|Lemon Curd|2|66\n|Egg Sandwich|2|66\n|Lemon Pie|1|67\n|Fresh Pasta|1|67\n|Lemon Cake|2|68\n|Honey Toast|1|69\n|Fried Rice|5|69\n|Noodle Soup|2|73\n|Peach Tart|2|76\n|Big Sushi Roll|3|76\n|Plain Donut|1|76\n|Colourful Omelet|2|77\n|Spring Omelet|2|77\n|Cheese Omelet|3|79\n|Pasta Carbonara|1|83\n|Rice Omelet|3|83\n|Potato Omelet|3|87\n|Banana Bread|1|91\n|Hand Pies|2|91\n|Passion Fruit Pie|1|92\n|Mushroom Pot Pie|2|97\n|Honey Face Mask|2|99\n|Pomegranate Cake|2|108\n|Plain Cupcake|1|109\n|Plain Waffles|3|114\n|Breakfast Waffles|1|119\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 15 to 24 eggs per crate, up to a total of 92 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Most recipes require 1 to 4 eggs, with the exception of [[Fried Rice]] which requires 5.\n* Eggs are so common that selling them at high prices may result in fewer or slower sales.\n----\n{{Navigation}}\n{{Languages\n|de = Ei\n|es = Huevo\n|fr = Œuf\n|it = Uovo\n|no = Egg\n|ru = Яйцо\n|zh = 鸡蛋\n}}\n[[pt-br:Ovo]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "c29f016924608be809a23bd2e8ad2f25c2341969f21ebc0faa8f3572d2b0ef9c"
 }

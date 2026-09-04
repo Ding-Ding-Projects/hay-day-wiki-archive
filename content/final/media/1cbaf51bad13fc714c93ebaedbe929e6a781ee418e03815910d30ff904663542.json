@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Barrel_Horse.png",
+  "filePageId": 34871,
+  "filePageRevisionId": 99370,
+  "filePageRevisionSha1": "479a7239ef19bf61f390dc6a07219ca6598555f1",
+  "filePageRevisionTimestamp": "2021-11-10T21:20:46Z",
+  "filePageWikitext": "== Summary ==\nDerby Decoration from the Spring 2021 Update.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "b1c612d909886a197ca96017a80a14f6ad42cd8f2473b9783dd17ba97e13933e",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Barrel Horse.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-26T12:43:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABarrel%20Horse.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 500339,
   "sourceSha1": "fa769f343709308a9a098c490ff226194c4a01e3",

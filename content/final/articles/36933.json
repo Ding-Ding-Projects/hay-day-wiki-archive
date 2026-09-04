@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "historyUrl": "https://hayday.fandom.com/wiki/Hedgehog?action=history",
+    "importedAt": "2026-09-04T20:08:49.176Z",
+    "sourcePermalink": "https://hayday.fandom.com/wiki/Hedgehog?oldid=110967",
+    "sourceRevisionId": 110967,
+    "sourceTitle": "Hedgehog",
+    "textLicense": {
+      "label": "CC-BY-SA",
+      "url": "https://www.fandom.com/licensing",
+      "version": null
+    },
+    "transformation": "Sanitized rendered HTML with local route rewriting"
+  },
+  "categories": [
+    "Category:Hedgehogs",
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hedgehogs",
+      "Category:Pets"
+    ]
+  },
+  "externalVideos": [],
+  "headings": [],
+  "historyUrl": "https://hayday.fandom.com/wiki/Hedgehog?action=history",
+  "html": "<div class=\"mw-content-ltr mw-parser-output\"><p class=\"mw-empty-elt\">\n</p><section class=\"pi-item pi-group pi-border-color\">\n\t\n<div class=\"pi-item pi-data pi-item-spacing pi-border-color\">\n\t\n\t<div class=\"pi-data-value pi-font\"><span>xp</span><span title=\"Experience point(s)\"><span class=\"mw-default-size\"><span title=\"xp\"><img alt=\"xp\" src=\"https://static.wikia.nocookie.net/hayday/images/e/e1/Experience.png/revision/latest/scale-to-width-down/25?cb=20160312141717\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" loading=\"lazy\"></span></span></span> Exp. lvl(s) 84</div>\n</div>\n\n</section>\n\n\n<p class=\"mw-empty-elt\"></p>\n<!-- \nNewPP limit report\nCached time: 20260903230648\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.038 seconds\nReal time usage: 0.046 seconds\nPreprocessor visited node count: 77/1000000\nPost‐expand include size: 392/2097152 bytes\nTemplate argument size: 2/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\nExtLoops count: 0/200\nLua time usage: 0.005/7.000 seconds\nLua memory usage: 639531/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   42.746      1 Template:Infobox\n100.00%   42.746      1 -total\n 45.30%   19.366      1 Template:Infoicon\n-->\n\n<!-- Saved in parser cache with key 1.43.9_prod_hayday:pcache:idhash:36933-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20260903230648 and revision id 110967. Rendering was triggered because: page-view\n -->\n</div>",
+  "htmlHash": "64e194d472849a3340cd386453a5a1e39c307e31c1f0deb5d0b2b59ce713e372",
+  "internalLinks": [
+    {
+      "route": "/wiki/masteries-6459",
+      "title": "Masteries"
+    }
+  ],
+  "namespace": 0,
+  "pageId": 36933,
+  "redirectTarget": null,
+  "referencedMediaIds": [
+    "File:Experience.png"
+  ],
+  "revisionId": 110967,
+  "revisionTimestamp": "2026-09-02T19:35:45Z",
+  "route": "/wiki/hedgehog-36933",
+  "schemaVersion": 2,
+  "sourceUrl": "https://hayday.fandom.com/wiki/Hedgehog",
+  "title": "Hedgehog",
+  "transformationNotes": [
+    "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
+  ],
+  "wikitext": "{{Infobox|level=84}}\n[[Category:Pets]]\n[[Category:Hedgehogs]]",
+  "wikitextHash": "b88b81b5d2a5fb271d6e0fd18934ea9512d01d962c886754b667fc63907423c3"
+}

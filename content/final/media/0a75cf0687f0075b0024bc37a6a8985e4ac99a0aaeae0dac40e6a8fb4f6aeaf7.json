@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:FruitCakePerBoatCrate.png",
+  "filePageId": 32213,
+  "filePageRevisionId": 89947,
+  "filePageRevisionSha1": "1cf6e62d32093b82975d48329d374dc30007ff05",
+  "filePageRevisionTimestamp": "2019-12-22T21:09:17Z",
+  "filePageWikitext": "\n[[Category:Image Boat]]\n[[Category:Images]]",
+  "filePageWikitextHash": "bed29cf9e16655f98cd7cd8299aafb7f7920f6a13b2b75dd14ebabefe874068a",
+  "height": 610,
+  "immutableUrl": null,
+  "mediaId": "File:FruitCakePerBoatCrate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-12-02T17:33:19Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AFruitCakePerBoatCrate.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 586924,
+  "sourceSha1": "9566be70ed1c2428d3b4b4e59a4375bf32ebe2d8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/be/FruitCakePerBoatCrate.png/revision/latest?cb=20191202173319",
+  "title": "File:FruitCakePerBoatCrate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 934
+}

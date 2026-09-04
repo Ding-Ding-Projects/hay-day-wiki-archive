@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry_Tree_Revival.png",
+  "filePageId": 25976,
+  "filePageRevisionId": 89378,
+  "filePageRevisionSha1": "351ef95fa426183899692648f4df0be37558501d",
+  "filePageRevisionTimestamp": "2019-10-28T17:35:59Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "daa851210fbf5efe2ff7a4889f6b1f89d634faf3abf18dee06ed2c729cdf715a",
   "height": 258,
   "immutableUrl": null,
   "mediaId": "File:Cherry Tree Revival.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T17:35:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACherry%20Tree%20Revival.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 59209,
   "sourceSha1": "8c3734c356ab2787d4a925dbd680e92ca318a0dc",

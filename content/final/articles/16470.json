@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Beeswax Products",
+    "Category:Candle Maker Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Beeswax Products",
+      "Category:Candle Maker Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -120,11 +132,12 @@
   "revisionId": 107156,
   "revisionTimestamp": "2025-02-06T20:35:19Z",
   "route": "/wiki/strawberry-candle-16470",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strawberry_Candle",
   "title": "Strawberry Candle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Strawberry Candle.png|200px|left|Strawberry candle]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 48\n |price = 1 to 370\n |time = 2 h\n |source = {{Infoicon|candlem|bigger|link=Candle Maker}}\n |xp = 44\n |base = 103\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Strawberry candles''' are [[products]] unlocked at [[experience]] level 48.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making strawberry candles'''===\n[[File:Candle Maker.png|150px|left|Candle Maker]]\nStrawberry candles are made in the [[Candle Maker]].\n\nTo make a strawberry candle, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Beeswax.png|75px|Beeswax|link=Beeswax]]\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 2 hours to make one strawberry candle, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] maker. Each candle gives players 44 [[experience]] points.\n\n{{Clr}}----\n==='''Selling strawberry candles'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Strawberry candles can be bought or sold for a maximum price of 3,708 {{Infoicon|coin}} for 10 candles.\n* Buying the ingredients required to make a strawberry candle costs 334 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 strawberry candles per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Erdbeerkerze\n|es = Vela de fresa\n|fr = Bougie à la fraise\n|it = Candela alla fragola\n|nl = Aardbeienkaars\n|no = Jordbærlys\n|zh = Strawberry Candle\n}}\n[[pt-br:Vela de morango]]\n[[ru:Клубничная свеча]]\n[[Category:Candle Maker Products]]\n[[Category:Strawberry Products]]\n[[Category:Beeswax Products]]",
   "wikitextHash": "777b2e7e42ac7eccb3e34d3f96e391e966f5d0db08a4acd9d0cda28007c4a42d"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sweater_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 105460,
   "revisionTimestamp": "2024-06-26T21:47:06Z",
   "route": "/wiki/category%2Fcategory-sweater-products-36107",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sweater_Products",
   "title": "Category:Sweater Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sweater.png|thumb]]\nProducts of [[Sweater]].\n[[Category:Products]]",
   "wikitextHash": "1cd6491f534c1cd2a7b68517b3d3ae2a9f1aa118794282305b7022df3ae0ad28"
 }

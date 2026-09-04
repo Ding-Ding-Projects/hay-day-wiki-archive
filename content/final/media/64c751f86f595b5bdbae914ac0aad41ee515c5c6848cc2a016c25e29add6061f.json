@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_47.jpg",
+  "filePageId": 23572,
+  "filePageRevisionId": 75761,
+  "filePageRevisionSha1": "f575fd1a1140f055d2132e8dc19be7e62623c8a8",
+  "filePageRevisionTimestamp": "2017-11-26T17:31:58Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "833e9b4badd334d9bd362b878a217443a77200b68aced43ec82f6988b6ca39fb",
   "height": 538,
   "immutableUrl": null,
   "mediaId": "File:Level 47.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-02-14T20:17:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2047.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 136513,
   "sourceSha1": "d7d3c8e02c08f543fbd0f59c8926780ad62d4998",

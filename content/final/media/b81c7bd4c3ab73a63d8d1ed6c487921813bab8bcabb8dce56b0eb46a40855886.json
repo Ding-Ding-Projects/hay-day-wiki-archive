@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Large_Mystery_Package.png",
+  "filePageId": 17024,
+  "filePageRevisionId": 73821,
+  "filePageRevisionSha1": "df2a20bbc56d1706191c2ea4c297c54d697102c5",
+  "filePageRevisionTimestamp": "2017-10-21T10:21:00Z",
+  "filePageWikitext": "Picture a of Large Mystery Package.\n{{License SC}}\n[[Category:Image_Catalogue]]",
+  "filePageWikitextHash": "4c23fe5fe111da87cd85b33b4d9b60f7aab79fa2f2178d40cb40cf180fb9876b",
   "height": 1358,
   "immutableUrl": null,
   "mediaId": "File:Large Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:07:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALarge%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 641016,
   "sourceSha1": "62a90535948b788ef8b5514a25ae4bef9f277c1b",

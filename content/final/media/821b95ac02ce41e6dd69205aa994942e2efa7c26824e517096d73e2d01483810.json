@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Pen.png",
+  "filePageId": 2718,
+  "filePageRevisionId": 103480,
+  "filePageRevisionSha1": "bf45ff07b75b7c5fb1e22e758082fe70a368cf2d",
+  "filePageRevisionTimestamp": "2023-07-20T20:52:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "a6ce05a8fa962fc1beb7e671f18053119e28292f91a3a5a831e532d05409370d",
   "height": 786,
   "immutableUrl": null,
   "mediaId": "File:Pig Pen.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:14:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APig%20Pen.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 393537,
   "sourceSha1": "6121acdcf48fb9a4a8055b668390ebbb26a4b61b",

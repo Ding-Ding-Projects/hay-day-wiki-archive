@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_69.png",
+  "filePageId": 27490,
+  "filePageRevisionId": 91849,
+  "filePageRevisionSha1": "e6542a8340b523e87fdfc5b7fe1a91131172a11a",
+  "filePageRevisionTimestamp": "2020-03-31T13:58:19Z",
+  "filePageWikitext": "Level 69\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "ed50160a2dbbe5d87dba1773930e203937ccc7c682e112cc850bbc774125103d",
   "height": 1127,
   "immutableUrl": null,
   "mediaId": "File:Level 69.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-03-31T13:58:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2069.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2303159,
   "sourceSha1": "1dce2f2f9af0505a1ebe349223ed69566605a6a8",

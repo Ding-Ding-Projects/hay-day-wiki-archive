@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Lemon Products",
+    "Category:Lettuce Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Lemon Products",
+      "Category:Lettuce Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +166,12 @@
   "revisionId": 107273,
   "revisionTimestamp": "2025-02-16T14:17:18Z",
   "route": "/wiki/green-smoothie-11418",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Green_Smoothie",
   "title": "Green Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Green Smoothie.png|left|200px|Green smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 66\n |price = 1 to 320\n |time = 45 min\n |source = {{Infoicon|SmoothieM|bigger|link=Smoothie Mixer}}\n |xp = 38\n |base = 89\n |dia = 3\n |time3 = 38 min\n}}\n'''Green smoothies''' are [[products]] unlocked at [[experience]] level 66.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making green smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nGreen smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|[[File:Lemon.png|75px|link=Lemon|Lemon]]\n|[[File:Apple.png|75px|link=Apple|Apple]]\n|-\n|'''x5'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make one smoothie, and 38 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 38 [[experience]] points.\n----\n==='''Selling green smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Green smoothies can be bought or sold for a maximum price of 3,204 {{Infoicon|Coin}} for 10 smoothies.\n* Buying the ingredients required to make a smoothie costs 292 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 green smoothies per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Green Smoothie is the only product that requires Apple, that doesn't have \"Apple\" in the name.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Grünersmoothie\n|es = Batido verde\n|fr = Smoothie Vert\n|it = Centrifugato di verdure\n|nl = Groene Smoothie\n|no = Grønn smoothie\n|zh = Green Smoothie\n}}\n[[pt-br:Vitamina verde]]\n[[ru:Зелёный смузи]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Apple Products]]\n[[Category:Lettuce Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "bf9dcd58ecc51ac837b5480aabbb78e83176d6cab9538de5006b0495bc8c4881"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Perfumerie_Mastery.png",
+  "filePageId": 36250,
+  "filePageRevisionId": 106993,
+  "filePageRevisionSha1": "d2f45ef9f2c422d6703503313c2f92183c3154ac",
+  "filePageRevisionTimestamp": "2025-01-20T22:56:52Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "e67de001443b57c6dc6f7e331a364d80067f2f9805db338f0fde353406150abe",
   "height": 185,
   "immutableUrl": null,
   "mediaId": "File:Perfumerie Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-01-20T22:56:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APerfumerie%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 98518,
   "sourceSha1": "ac1d72f75fba842412751ae02788146cd8165463",

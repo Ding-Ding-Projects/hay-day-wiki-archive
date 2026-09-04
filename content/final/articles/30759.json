@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Expansion/Fishing_Lake?action=history",
@@ -44,11 +52,12 @@
   "revisionId": 110964,
   "revisionTimestamp": "2026-08-31T18:35:14Z",
   "route": "/wiki/expansion-fishing-lake-30759",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Expansion/Fishing_Lake",
   "title": "Expansion/Fishing Lake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\nExpansion unlocks as soon as the fishing lake is accessible. Unlocking a spot requires an equal number of [[Land Deed|land deeds]], [[mallet]]s and [[Marker Stake|marker stakes]].\n\nSee the map and table below for the exact number needed for each spot.\n\n[[File:FishingMap Names.png|center|500px]]\n\n{{Clr}}\n{| cellpadding=\"5\" cellspacing=\"1\" style=\"background: #eee; border: 1px solid #bbb; border-collapse: collapse; max-width: 65%; margin: 1em auto;\"\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #1'''\n| colspan=\"3\" |Free\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #2'''\n| colspan=\"3\" |Free\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #3'''\n|8{{Infoicon|landd}}\n|8{{Infoicon|mallet}}\n|8{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #4'''\n|14{{Infoicon|landd}}\n|14{{Infoicon|mallet}}\n|14{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #5'''\n|18{{Infoicon|landd}}\n|18{{Infoicon|mallet}}\n|18{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #6'''\n|16{{Infoicon|landd}}\n|16{{Infoicon|mallet}}\n|16{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #7'''\n|4{{Infoicon|landd}}\n|4{{Infoicon|mallet}}\n|4{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #8'''\n|12{{Infoicon|landd}}\n|12{{Infoicon|mallet}}\n|12{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #9'''\n|22{{Infoicon|landd}}\n|22{{Infoicon|mallet}}\n|22{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #10'''\n|26{{Infoicon|landd}}\n|26{{Infoicon|mallet}}\n|26{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #11'''\n|20{{Infoicon|landd}}\n|20{{Infoicon|mallet}}\n|20{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Spot #12'''\n|24{{Infoicon|landd}}\n|24{{Infoicon|mallet}}\n|24{{Infoicon|markers}}\n|-\n| style=\"border: 1px solid #ccc;\" |'''Spot #13'''\n|30{{Infoicon|landd}}\n|30{{Infoicon|mallet}}\n|30{{Infoicon|markers}}\n|-\n| style=\"border: 1px solid #ccc;\" |'''Spot #14'''\n|32{{Infoicon|landd}}\n|32{{Infoicon|mallet}}\n|32{{Infoicon|markers}}\n|-\n| style=\"border: 1px solid #ccc;\" |'''Spot #15'''\n|28{{Infoicon|landd}}\n|28{{Infoicon|mallet}}\n|28{{Infoicon|markers}}\n|- style=\"border: 1px solid #ccc;\"\n| style=\"border: 1px solid #ccc;\" |'''Total'''\n|254{{Infoicon|landd}}\n|254{{Infoicon|mallet}}\n|254{{Infoicon|markers}}\n|}\n\n{{Languages\n|es = Ampliación/Lago de pesca\n}}\n[[Category:Expansion]]",
   "wikitextHash": "2492adca348bae1593e80b2d51cdb0865964cdd9bc9914b5589dae61962f08f1"
 }

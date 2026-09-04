@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Admit_One.png",
+  "filePageId": 7237,
+  "filePageRevisionId": 79592,
+  "filePageRevisionSha1": "b9b1f353c2266affac1e7ca0eca132db9f6ea835",
+  "filePageRevisionTimestamp": "2018-04-27T16:23:01Z",
+  "filePageWikitext": "Picture of a Night at the Movies ticket.\n{{License SC}}\n[[Category:Image Daily Reward]]",
+  "filePageWikitextHash": "12e46f8c7fc198ae6a5b7db912afef13af47258bcb085403472ec6164a430c93",
   "height": 216,
   "immutableUrl": null,
   "mediaId": "File:Admit One.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-30T14:29:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAdmit%20One.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 54007,
   "sourceSha1": "2650ce0f44d6f471a6b9d43c77671984c3b0c71c",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -358,11 +366,12 @@
   "revisionId": 109971,
   "revisionTimestamp": "2026-05-10T14:13:39Z",
   "route": "/wiki/rice-8896",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rice",
   "title": "Rice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rice.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 56\n |price = 1 to 18\n |time = 45 min\n |xp = 3\n |base = 5\n |dia = 3\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Rice''' is a field [[crops|crop]] unlocked at [[experience]] level 56.\n\nIt is used to make many products and they mostly require large quantities of rice.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 270 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing rice'''===\nRice is grown in [[Farm|fields]] by planting another rice plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 45 minutes to mature.\n<gallery>\nRice Stage 1.png\nRice Stage 2.png\nRice Stage 3.png\nRice Stage 4.png\nRice Stage 5.png\n</gallery>\n----\n==='''Selling rice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Rice can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using rice''' ===\nRice is used to make the following [[products]]:\n\n{{Item Usage|Rice\n|Sushi Roll|15|56\n|Lobster Sushi|15|59\n|Egg Sushi|15|63\n|Fried Rice|5|69\n|Lamb Stir Fry|3|69\n|Rice Noodles|5|73\n|Big Sushi Roll|20|76\n|Stuffed Peppers|3|80\n|Rice Omelet|1|83\n|Rice Ball|20|110\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 19 to 32 units of rice per crate, up to a total of 128 per boat.\n* Each unit of rice gives players 7 coins and 5 experience points in boat orders.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n* Rice can very occasionally be found in the [[Daily Dirt]]. Selling it at a lower price is not recommended\n* Recipes ask for three to twenty units of rice. You may want to make sure you always have enough rice in your silo.\n----\n[[ru:Рис]]\n{{Navigation}}\n{{Languages\n|de = Reis\n|es = Arroz\n|fr = Riz\n|it = Riso\n|no = Ris\n|vi = Lúa\n|zh = Rice\n}}\n[[pt-br:Arroz]]\n[[ru:Рис]]\n[[Category:Field Crops]]",
   "wikitextHash": "dda8eaddd854e81cd5edb2bfd7778d99dd9a491025c994eefb3ff2d4447e2272"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candle_Maker_Mastered.png",
+  "filePageId": 17361,
+  "filePageRevisionId": 108601,
+  "filePageRevisionSha1": "c94f0f0e3b27d2cfda431449354cb32a13290b6a",
+  "filePageRevisionTimestamp": "2025-09-25T20:43:51Z",
+  "filePageWikitext": "Picture of a 3-star Candle Maker.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "2a39795d9ff0b0a9c48b406f0f2b5e12386be47e80303c162d18630eb39e9c1f",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Candle Maker Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T20:43:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACandle%20Maker%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 347858,
   "sourceSha1": "cb6cdd7ce6a257ebcf1b4d3f0ddbb3ae8a70127f",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Game_Soundtrack_Farm.ogg",
+  "filePageId": 30479,
+  "filePageRevisionId": 87919,
+  "filePageRevisionSha1": "7cac50cb99971d86aff550f48b6f3529042ea019",
+  "filePageRevisionTimestamp": "2019-09-21T10:06:24Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Audio]]",
+  "filePageWikitextHash": "8864fb23168b24bf1ab25bf9bd4742903a9155eb1e622e69a0f183b07a3d1516",
   "height": 0,
   "immutableUrl": null,
   "mediaId": "File:Game Soundtrack Farm.ogg",
   "mediaType": "AUDIO",
   "mime": "application/ogg",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-09-15T15:46:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGame%20Soundtrack%20Farm.ogg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 945505,
   "sourceSha1": "6f2462e5e387a5ce7240c8ec6cb366bfa6b6559c",

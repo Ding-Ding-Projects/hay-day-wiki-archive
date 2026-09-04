@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Cheese Products",
+    "Category:Fresh Pasta Products",
+    "Category:Pasta Kitchen Products",
+    "Category:Tomato Sauce Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Cheese Products",
+      "Category:Fresh Pasta Products",
+      "Category:Pasta Kitchen Products",
+      "Category:Tomato Sauce Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +167,12 @@
   "revisionId": 107304,
   "revisionTimestamp": "2025-02-19T22:54:15Z",
   "route": "/wiki/veggie-lasagna-20284",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Veggie_Lasagna",
   "title": "Veggie Lasagna",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Veggie Lasagna.png|left|200px|Veggie lasagna]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 74\n |price = 1 to 532\n |time = 1 h 40 min\n |source = {{Infoicon|pastak|bigger|link=Pasta Kitchen}}\n |xp = 63\n |base = 148\n |dia = 5\n |time3 = 1 h 25 min\n}}\n'''Veggie lasagna''' is a [[products|product]] unlocked at [[experience]] level 74.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making veggie lasagna'''===\n[[File:Pasta Kitchen.png|150px|left|Pasta kitchen]]\nVeggie lasagna is made in the [[Pasta Kitchen]].\n\nTo make veggie lasagna, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|Wheat|link=Carrot]]\n|[[File:Cheese.png|75px|Cream|link=Cheese]]\n|[[File:Tomato Sauce.png|75px|Tomato sauce|link=Tomato Sauce]]\n|[[File:Fresh Pasta.png|75px|Fresh pasta|link=Fresh Pasta]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour and 40 minutes to make a plate of veggie lasagna, and 1 hour and 25 minutes in a fully [[Masteries|mastered]] kitchen. Each plate gives players 63 [[experience]] points.\n\n{{Clr}}----\n==='''Selling veggie lasagna'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Veggie lasagna can be bought or sold for a maximum price of 5,328 {{Infoicon|Coin}} for 10 plates.\n* Buying the ingredients required to make veggie lasagna costs 488 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 veggie lasagna per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Veggie lasagna is very hard to find in the [[Daily Dirt]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Gemüselasagne\n|es = Lasaña vegetal\n|fr = Lasagnes Végétariennes\n|it = Lasagne vegetariane\n|nl = Vegetarische Lasagne\n|no = Vegetarlasagne\n|zh = Veggie Lasagna\n}}\n[[pt-br:Lasanha vegetariana]]\n[[ru:Овощная лазанья]]\n\n[[Category:Pasta Kitchen Products]]\n[[Category:Carrot Products]]\n[[Category:Cheese Products]]\n[[Category:Tomato Sauce Products]]\n[[Category:Fresh Pasta Products]]",
   "wikitextHash": "d716aadab4940af8261a43607f5299251f66c41eba154c527200c3d0f5d9132c"
 }

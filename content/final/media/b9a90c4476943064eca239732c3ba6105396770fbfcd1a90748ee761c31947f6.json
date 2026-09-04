@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:EGGspress_Train_Stage_1.png",
+  "filePageId": 29195,
+  "filePageRevisionId": 88913,
+  "filePageRevisionSha1": "793d6bb26bc4870dd1ef2be11837a986c1c477fc",
+  "filePageRevisionTimestamp": "2019-10-25T15:36:41Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "679d4c218b40029be1e6d38bd7d78ed661ce21a294291de744709a397b6a3fd4",
   "height": 1132,
   "immutableUrl": null,
   "mediaId": "File:EGGspress Train Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T18:33:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AEGGspress%20Train%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 759628,
   "sourceSha1": "04748fe54b2051ddad1fe75d42a16674cd3cefa1",

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Diamond Products",
+    "Category:Gold Bar Products",
+    "Category:Jeweler Products",
+    "Category:Platinum Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Diamond Products",
+      "Category:Gold Bar Products",
+      "Category:Jeweler Products",
+      "Category:Platinum Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -146,11 +160,12 @@
   "revisionId": 106087,
   "revisionTimestamp": "2024-10-24T23:44:35Z",
   "route": "/wiki/diamond-ring-2367",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Diamond_Ring",
   "title": "Diamond Ring",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Diamond Ring.png|200px|left|Diamond ring]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 40\n |price = 1 to 824\n |time = 4 h\n |source = {{Infoicon|jeweler|bigger|link=jeweler}}\n |xp = 98\n |base = 229\n |dia = 6\n |time3 = 3 h 24 min\n}}\n'''Diamond rings''' are [[products]] unlocked at [[experience]] level 40.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making diamond rings'''===\n[[File:jeweler.png|150px|left|jeweler]]\nDiamond rings are made in the [[jeweler]].\n\nTo make a diamond ring, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Gold Bar.png|75px|Gold bars|link=Gold Bar]]\n|[[File:Platinum Bar.png|75px|Platinum bars|link=Platinum Bar]]\n|[[File:Diamond.png|75px|Diamond|link=Diamond]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 4 hours to make one diamond ring, and 3 hours and 24 minutes in a fully [[Masteries|mastered]] jeweler. Each ring gives players 98 [[experience]] points.\n\n{{Clr}}----\n==='''Selling diamond rings'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Diamond rings can be bought or sold for a maximum price of 8,244 {{Infoicon|Coin}} for 10 rings.\n* Buying the ingredients required to make a ring costs 770 {{Infoicon|Coin}} and 1 {{Infoicon|dia}}.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* As is the case for all Jeweler products, completing a [[truck]] order requesting one or more diamond rings rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for diamond rings.\n----\n==='''Did you know?'''===\n* Diamond rings are one of the three items which require diamonds to be made. The others are the [[Gracious Bouquet|gracious bouquet]] and the [[Mystery Net|mystery net]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Diamantring\n|es = Anillo con diamante\n|fr = Bague de Diamant\n|it = Anello di diamanti\n|nl = Diamanten Ring\n|no = Diamantring\n|vi = Nhẫn kim cương\n|zh = Diamond Ring\n}}\n[[pt-br:Anel de diamantes]]\n[[ru:Кольцо с бриллиантом]]\n[[Category:Jeweler Products]]\n[[Category:Gold Bar Products]]\n[[Category:Platinum Bar Products]]\n[[Category:Diamond Products]]",
   "wikitextHash": "6e1270bf24a1964d398a8b3425174e2e69c4277ed0b8b281fe3489ffb42050f7"
 }

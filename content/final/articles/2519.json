@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Jam Products",
+    "Category:Candy Machine Products",
+    "Category:Raspberry Jam Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Jam Products",
+      "Category:Candy Machine Products",
+      "Category:Raspberry Jam Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -143,11 +157,12 @@
   "revisionId": 107191,
   "revisionTimestamp": "2025-02-08T19:07:09Z",
   "route": "/wiki/jelly-beans-2519",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Jelly_Beans",
   "title": "Jelly Beans",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Jelly Beans.png|200px|left|Jelly beans]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 60\n |price = 1 to 684\n |time = 1 d\n |source = {{Infoicon|candym|bigger|link=Candy Machine}}\n |xp = 81\n |base = 190\n |dia = 14\n |time3 = 20 h 24 min\n}}\n'''Jelly beans''' are a [[products|product]] unlocked at [[experience]] level 60.\n\n\n\nJelly beans are one of the most time consuming products to make at 1 day production time.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making jelly beans'''===\n[[File:Candy Machine.png|150px|left|Candy Machine]]\nJelly beans are made in the [[Candy Machine]].\n\nTo make jelly beans, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blackberry Jam.png|75px|Blackberry jam|link=Blackberry Jam]]\n|[[File:Raspberry Jam.png|75px|Raspberry jam|link=Raspberry Jam]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 24 hours to make jelly beans, and 20 hour and 24 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 81 [[experience]] points.\n\n{{Clr}}----\n==='''Selling jelly beans'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Jelly beans can be bought or sold for a maximum price of 6,840 {{Infoicon|coin}} for 10 beans.\n* Buying the ingredients required to make jelly beans costs 690 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* The total amount of money you get from selling the ingredients required to make jelly beans at the maximum price is 690: 388 (Blackberry Jam) + 252 (Raspberry Jam) + 50 (White Sugar). The amount that you get from selling jelly beans at maximum price is 684, 6 coins less than what you would earn if you sold the products needed to produce them. They should only be made to satisfy truck and town orders, '''never''' to sell.\n* Jelly beans are very hard to find in the [[Daily Dirt]]. See above.\n* [[Boat]] orders never ask for jelly beans.\n----\n\n{{Navigation}}\n{{Languages\n|de = Geleebohnen\n|es = Gominolas\n|fr = Bonbons\n|it = Gelatine\n|nl = Fruitsnoepjes\n|no = Gelégodteri\n|zh = Jelly Beans\n}}\n[[pt-br:Gominhas]]\n[[ru:Желейные конфеты]]\n\n[[Category:Candy Machine Products]]\n[[Category:White Sugar Products]]\n[[Category:Raspberry Jam Products]]\n[[Category:Blackberry Jam Products]]",
   "wikitextHash": "5e3711d755a5b830c13abe9d857f447abc34843e375724b28a4bf5dded253e32"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Production.png",
+  "filePageId": 21358,
+  "filePageRevisionId": 77744,
+  "filePageRevisionSha1": "156c4d40cee611869c33cac25b8a89723b52acd6",
+  "filePageRevisionTimestamp": "2018-02-21T21:40:30Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "dd4e82bd6fdb83aaff5e7d04e0caed7ea0b30b87fd4da0bbb68858827096813a",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Production.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-21T21:40:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Production.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 29558,
   "sourceSha1": "76e6ef50066b328a8758e9745e969b6d045bec4a",

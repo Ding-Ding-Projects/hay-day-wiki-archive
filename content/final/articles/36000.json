@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Gift Wrapping Station Products",
+    "Category:Honey Products",
+    "Category:Spicy Pizza Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Gift Wrapping Station Products",
+      "Category:Honey Products",
+      "Category:Spicy Pizza Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 104428,
   "revisionTimestamp": "2023-12-17T11:12:06Z",
   "route": "/wiki/yellow-gift-36000",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Yellow_Gift",
   "title": "Yellow Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Yellow Gift.png|200px|left|Yellow Gift|link=Special:FilePath/Yellow Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 25\n |level = 43\n |time = 1h\n |source = {{Infoicon|giftwrappings2023|bigger|link=Gift Wrapping Station}}\n |xp = 69\n |dia = 4\n |time3 = 51m\n}}\n'''Yellow Gift''' is a [[products|product]] unlocked at [[experience]] level 43. It's a special item used only for the Christmas 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Yellow Gifts'''===\n[[File:Gift Wrapping Station 2023.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station_2023.png]]\nYellow Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a yellow gift, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Spicy Pizza.png|75px|Spicy Pizza|link=Spicy Pizza]]\n|[[File:Strawberry.png|75px|Strawberry|link=Strawberry]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour to make one gift, and 51 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 69 [[experience]] points.\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 25 [[holly]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Regalo amarillo\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Honey Products]]\n[[Category:Spicy Pizza Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "0936af727aec7e51c6a2f7ab07bd25d32ce121cf429ca8132fa2bb0c2c4f5141"
 }

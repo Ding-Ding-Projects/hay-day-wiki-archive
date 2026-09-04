@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Coal_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98635,
   "revisionTimestamp": "2021-09-06T22:40:01Z",
   "route": "/wiki/category%2Fcategory-coal-products-35134",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Coal_Products",
   "title": "Category:Coal Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Coal.png|thumb]]\nProducts of [[Coal]].\n[[Category:Products]]",
   "wikitextHash": "a01f9c749b5ccacf0dcdc77afefb5ee520e70c198b629cfeeef02854385ce5fe"
 }

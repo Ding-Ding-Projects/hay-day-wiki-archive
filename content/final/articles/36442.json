@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Halloween Treats Maker Products",
+    "Category:Striped Candy Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Halloween Treats Maker Products",
+      "Category:Striped Candy Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -93,11 +105,12 @@
   "revisionId": 108794,
   "revisionTimestamp": "2025-10-23T20:40:47Z",
   "route": "/wiki/soft-candy-36442",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Soft_Candy",
   "title": "Soft Candy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Soft Candy.png|200px|left|Soft Candy]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 20\n |halloweenhat = 20\n |time = 10m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 54\n |dia = 3\n}}\n'''Soft Candy''' is a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Halloween 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Soft Candies'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nSoft Candy are made in the [[Halloween Treats Maker]].\n\nTo make a soft candy in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Striped Candy.png |75px|Striped Candy|link=Striped Candy]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a candy,and 5 minutes in a 1-star mastered station. Each balloon gives players 54 [[experience]] points.\n\nAdditionally, Soft Candy is used to make the following [[products]]:\n{{Item Usage|Soft Candy\n|Worm Treats|1|35\n}}\n\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 candies per crate, up to a total of 8 per boat. Each candy used on a boat will be rewarded with 20 [[Halloween Hat]]s, 30 halloween hats in a 2-star and 40 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Striped Candy Products]]\n[[Category:Cream Products]]\n\n\n{{Languages\n|es = Caramelos blanditos\n}}",
   "wikitextHash": "7433c56310636a2ace55a525a75725b9c809f98f094f2961ca5e03f07a19bf74"
 }

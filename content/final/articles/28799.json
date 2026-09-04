@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note",
+    "Category:Reputation"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note",
+      "Category:Reputation"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -74,11 +84,12 @@
   "revisionId": 103382,
   "revisionTimestamp": "2023-07-09T15:35:29Z",
   "route": "/wiki/reputation-levels-28799",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Reputation_Levels",
   "title": "Reputation Levels",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n\n{{Note|this page is about reputation levels, not to be confused with the [[Experience|experience levels]].}}\n[[File:Reputation Bar.png|200px|left|Reputation bar]]\n'''Reputation levels''' are levels obtained in the player's [[town]]. See [[reputation]] for more details.\n\nAfter level 15, no new items are given besides [[diamond]]s.\n\nCurrently it's not known where the reputation levels stop; it has been suggested that they may stop at level 500.\n\n{{Clr}}\n----\n==='''Table of levels'''===\nThe following is a table of 'level-up' pictures, rewards given or unlocked, and reputation points needed for the first 125 levels that can be achieved in the town.\n\n''Notes:''\n*''The new icon ({{Infoicon|new}}) denotes items which are not shown in the pictures as they have been added after the shots were taken.''\n*''The star icon(★) denotes unlocked items or features which are not shown in level-up images.''\n\n[[Reputation Levels/Levels 1-25|Levels 1-25]], \n[[Reputation Levels/Levels 26-50|Levels 26-50]],\n[[Reputation Levels/Levels 51-75|Levels 51-75]], \n[[Reputation Levels/Levels 76-100|Levels 76-100]],\n[[Reputation Levels/Levels 101-125|Levels 101-125]]\n\n{{Languages\n|es = Reputación\n}}\n[[Category:Reputation]]",
   "wikitextHash": "6f711d04291038b151e995c2a658cef66b0f0b6558a824b87beb87babc50d54c"
 }

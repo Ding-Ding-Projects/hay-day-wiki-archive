@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greg_Winter.PNG",
+  "filePageId": 22656,
+  "filePageRevisionId": 69730,
+  "filePageRevisionSha1": "5d176839560ce2234926d9074befb73e20098a29",
+  "filePageRevisionTimestamp": "2017-02-07T18:28:24Z",
+  "filePageWikitext": "NPC Greg in Winter Attire\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "464cc1080daaeee3a0af3b6bdbdcb11e3e3bfe6085d38dc8dd751abeb424634b",
   "height": 258,
   "immutableUrl": null,
   "mediaId": "File:Greg Winter.PNG",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-16T21:11:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreg%20Winter.PNG",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 117308,
   "sourceSha1": "827397019f0a1bb9f2330401233f8e6186e390f6",

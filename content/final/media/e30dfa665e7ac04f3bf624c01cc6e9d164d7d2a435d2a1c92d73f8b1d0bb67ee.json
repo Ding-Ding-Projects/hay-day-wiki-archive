@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grapes_Stage_5.png",
+  "filePageId": 26478,
+  "filePageRevisionId": 77186,
+  "filePageRevisionSha1": "4022651c0463883981b6ba3ef84f4e2967a6e9c4",
+  "filePageRevisionTimestamp": "2018-02-07T16:12:35Z",
+  "filePageWikitext": "Grapes Stage 5 Harvested\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "5f53643dd0e1f323c2e19450a87d7d76da843819b0287e31348ea24b5be693a7",
   "height": 195,
   "immutableUrl": null,
   "mediaId": "File:Grapes Stage 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T16:12:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrapes%20Stage%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 43747,
   "sourceSha1": "3ae4a3032458ee68b4f7f279afd0f1d693a4794b",

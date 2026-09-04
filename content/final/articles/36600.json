@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Taco_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 109259,
   "revisionTimestamp": "2026-01-26T21:31:52Z",
   "route": "/wiki/category%2Fcategory-taco-products-36600",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Taco_Products",
   "title": "Category:Taco Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Taco.png|thumb]]\nProducts of [[Taco]].\n[[Category:Products]]",
   "wikitextHash": "88e840bc02ed1f9ed9f022bb5a6184b68d2297993e00c92a5cb60bef27e3a831"
 }

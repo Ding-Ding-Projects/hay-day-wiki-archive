@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Currencies?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 74212,
   "revisionTimestamp": "2017-10-22T10:07:40Z",
   "route": "/wiki/category%2Fcategory-image-currencies-28593",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Currencies",
   "title": "Category:Image Currencies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pictures of [[Currencies]].\n[[Category:Images]]",
   "wikitextHash": "deb5dcc5f5c17bc390dd8d7f58e9543333eab911752030df85516d2361b43a32"
 }

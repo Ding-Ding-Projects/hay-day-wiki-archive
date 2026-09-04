@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -159,11 +167,12 @@
   "revisionId": 110595,
   "revisionTimestamp": "2026-06-21T14:48:40Z",
   "route": "/wiki/silver-ore-2556",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Silver_Ore",
   "title": "Silver Ore",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Silver Ore.png|200px|left|Silver ore]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 24\n |price = 1 to 18\n |time = Instant\n |source = {{Infoicon|mine|bigger|link=Mine}}\n |xp = 5\n |base = 5\n}}\n\n'''Silver ore''' is a [[Products|product]] unlocked at [[experience]] level 24.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Extracting silver ore'''===\n[[File:Mine.png|150px|left|Mine]]\nSilver ore is found in the [[Mine]].\n\nTo extract ore, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Dynamite.png|75px|link=Dynamite|Dynamite]]\n|[[File:TNT Barrel.png|75px|link=TNT Barrel|TNT barrel]]\n|[[File:Shovel.png|75px|link=Shovel|Shovel]]\n|[[File:Pickaxe.png|75px|link=Pickaxe|Pickaxe]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x4'''\n|'''x5'''\n|}\n\nIt takes no time to extract ore but the process is randomized: players might get any of the available Mine products when using mine supplies, as well as an extra [[diamond]]. Each extracted silver ore gives players 5 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling silver ore'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Silver ore can be bought or sold for a maximum price of 180 {{Infoicon|coin}} for 10 units.\n* Buying a supply tool costs between 25 and 126 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Used in'''===\n{{Item Usage|Silver Ore\n|Silver Bar|3|24\n}}\n----\n==='''Strategy tips'''===\n* Silver ore is uncommon enough that selling them at a lower price is not necessary.\n* Selling silver ore is not profitable at all. You should always transform it into bars, or even better, [[Jeweler|jewelry]] unless it takes valuable space in your [[barn]].\n* [[Boat]] orders never require silver ore.\n----\n==='''Did you know?'''===\n* Silver ore is much less valuable in [[Hay Day]] than it is in real life.\n----\n\n{{Navigation}}\n{{Languages\n|de = Silbererz\n|es = Mineral de plata\n|fr = Minerai d'Argent\n|it = Minerale d'argento\n|nl = Zilvererts\n|no = Sølvmalm\n}}\n[[Category:Mine Products]]",
   "wikitextHash": "098c0e19cde592cbbbc8c3a2687da3a9c38254f3581069b38758668d6c397554"
 }

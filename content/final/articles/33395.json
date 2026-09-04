@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Event_Board?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93065,
   "revisionTimestamp": "2020-04-11T06:26:11Z",
   "route": "/wiki/event-board-33395",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Event_Board",
   "title": "Event Board",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Events]]",
   "wikitextHash": "ad7becc4cb9fb51db3c5dd2438c8981363c11509bedd5dcfd7006b049736a1e0"
 }

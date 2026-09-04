@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Mango Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Mango Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +160,12 @@
   "revisionId": 107934,
   "revisionTimestamp": "2025-05-31T14:55:32Z",
   "route": "/wiki/mango-juice-35442",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mango_Juice",
   "title": "Mango Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mango Juice.png|200px|left|Mango juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 97\n |price = 1 to 230\n |time = 50 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 27\n |base = 64\n |dia = 3\n |time3 = 42 min\n}}\n'''Mango juice''' is a [[Products|product]] unlocked at [[experience]] level 97.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mango juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nMango juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mango.png|75px|link=Mango|Mango]]\n|-\n|'''x2'''\n|}\nMango juice takes 50 minutes to be produced, but only 42 minutes in a [[Masteries|mastered]] press. Each bottle gives players 27 [[experience]] points.\n----\n==='''Selling mango juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Juice can be bought or sold for a maximum price of 2,304 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make the juice costs 200 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 mango juice per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n\n{{navigation}}\n{{Languages\n|de = Mangosaft\n|es = Zumo de mango\n|fr = Jus de Mangue\n|it = Succo al mango\n|nl = Mangosap\n|no = Mangojuice\n|ru = Сок манго\n|zh = Mango Juice\n}}\n[[pt-br:Suco de manga]]\n[[Category:Juice Press Products]]\n[[Category:Mango Products]]",
   "wikitextHash": "cff48d88ede68caf907141fe88b831e3ac8f69110be1fd9494021de07e02ada8"
 }

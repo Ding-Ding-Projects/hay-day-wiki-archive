@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thank_You_Letter.png",
+  "filePageId": 17068,
+  "filePageRevisionId": 74218,
+  "filePageRevisionSha1": "886bde22efd082b233879d04d8d17cb62dbe58d4",
+  "filePageRevisionTimestamp": "2017-10-22T10:07:47Z",
+  "filePageWikitext": "Picture of a Gift Card (first one from Greg).\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "757755de76779bb8395eb35e65bbc5581946a3ca824b75632a63135e3371abbd",
   "height": 354,
   "immutableUrl": null,
   "mediaId": "File:Thank You Letter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-09T12:24:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThank%20You%20Letter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 105016,
   "sourceSha1": "c9f47016757942bf894c5b3de944ad35a1c97b8b",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Eggplant_Parmesan.png",
+  "filePageId": 30987,
+  "filePageRevisionId": 104618,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-07T14:59:53Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 2444,
   "immutableUrl": null,
   "mediaId": "File:Eggplant Parmesan.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-07T14:59:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AEggplant%20Parmesan.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 4400502,
   "sourceSha1": "b7be4277dc8f23c56a10ebd4994d154444520a78",

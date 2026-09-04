@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Task.png",
+  "filePageId": 28641,
+  "filePageRevisionId": 74602,
+  "filePageRevisionSha1": "6a7adebc374cff906764ad7c5388c76f41ffeb85",
+  "filePageRevisionTimestamp": "2017-10-24T16:51:05Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "421c7ff9ad79bdacc978a30f85227d63be228d9cc9541647a36876d11896bc75",
   "height": 200,
   "immutableUrl": null,
   "mediaId": "File:Derby Task.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-24T16:24:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADerby%20Task.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 61822,
   "sourceSha1": "c25ca2873f988174c6656b3b011dfe5e138287dd",

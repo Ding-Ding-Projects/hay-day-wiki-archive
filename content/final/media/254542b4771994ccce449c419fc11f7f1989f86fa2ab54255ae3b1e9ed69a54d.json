@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Local.png",
+  "filePageId": 17014,
+  "filePageRevisionId": 89323,
+  "filePageRevisionSha1": "3a7442b71cbd263892a20e1a9f7bc0f152d53691",
+  "filePageRevisionTimestamp": "2019-10-28T16:11:31Z",
+  "filePageWikitext": "Picture of the local.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "167073a3eedbdecfbd20a6d3c0d4ad99e762bd302aa8dc92474c10670c9f15fc",
   "height": 702,
   "immutableUrl": null,
   "mediaId": "File:Local.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:11:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALocal.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 166296,
   "sourceSha1": "5bb6b67146581388b94cee483772aa05859e50aa",

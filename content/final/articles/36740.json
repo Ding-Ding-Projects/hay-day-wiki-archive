@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -190,11 +198,12 @@
   "revisionId": 110859,
   "revisionTimestamp": "2026-08-10T15:00:26Z",
   "route": "/wiki/lamb-chop-36740",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_Chop",
   "title": "Lamb Chop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lamb Chop.png|left|200x200px|Lamb Chop]]\n{{Infobox\n|title=[[Animal Goods|Animal good]]\n|level=25\n|price=1 to 36\n|time=30 min\n|xp=4\n|source={{Infoicon|lamb|bigger|link=Lamb}}\n|base=10\n|dia=3\n}}\n'''Lamb Chop''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 25. It is added since May 2026 Update.\n\nIt is used to make [[Grilled Lamb Skewer|grilled lamb skewers]] and [[Tower Doner Supreme|tower doner supreme]], as well as feed [[:Category:Dogs|dogs]] and [[:Category:Puppies|puppies]]. It is, however, more convenient to use lamb chops to feed these animals as [[bacon]] is required for so many other [[products]].\n\nLike all goods, it is stored in the [[barn]].\n{{Clr}}\n----\n\n=== '''Collecting Lamb''' ===\n[[File:Ready Lamb Cube.png|left|150x150px|Ready Lamb Cube]]\nLamb chops are collected from [[Lamb|lambs]] which have been fed [[Lamb Feed|lamb feed]]. Once fed, [[Lamb|lambs]] need 30 minutes to make another lamb chop.\n\nCollecting one lamb chop gives players 4 {{Infoicon|xp}} points.\n{{Clr}}\n----\n\n=== '''Selling Lamb Chops''' ===\n[[File:Roadside_Shop.png|link=Roadside_Shop|left|150x150px|Roadside Shop]]\n\n* Lamb chops can be bought or sold for a maximum price of 360 {{Infoicon|coin}} for 10 units.\n* A [[lamb]] costs 800 {{Infoicon|coin}} at experience level 25 and 2,300 {{Infoicon|coin}} at experience level 30. Each [[Lamb Pasture|lamb pasture]] costs 500 {{Infoicon|coin}}.\n{{Clr}}\n----\n\n=== '''Using Lamb Chops''' ===\nLamb chops are used to make the following [[products]]:\n{{Item Usage|Lamb Chop\n|Grilled Lamb Skewer|2|25\n|Tower Doner Supreme|3|58\n}}\n----\n\n=== '''Boat orders''' ===\n[[File:Riverboat.png|link=Boat|left|150x150px|Riverboat]]\n\n* [[Boat]] orders ask for x to x pieces of lamb chop per crate, up to a total of xx per boat.\n{{Clr}}\n----\n\n=== '''Strategy tips''' ===\n\n* Lamb chop can occasionally be found in the [[Daily Dirt]]. Selling lamb chop at maximum price is recommended as it sells quickly.\n* Before you buy dogs take into consideration the fact that you'll have to feed them [[bacon]] or lamb chops. If you have reached [[experience]] level 25, it is more convenient to feed them lamb chops. Below experience level 25, if you don't have enough pigs or don't make enough pig feed, this might be a problem.\n\n----\n\n\n{{Navigation}}\n{{Languages\n|de = Lammkotelett\n|es = Chuleta de cordero\n|no = Lammekotelett\n|ru = Каре ягнёнка\n}}\n[[pt-br:Costela de cordeiro]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "7ca630ed213b7d486565926a34bdd1e774177a8c3f31548443cf501678349a8c"
 }

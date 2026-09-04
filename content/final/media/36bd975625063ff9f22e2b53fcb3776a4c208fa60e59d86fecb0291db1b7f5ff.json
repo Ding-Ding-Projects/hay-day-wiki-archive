@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grants_Graveyard.png",
+  "filePageId": 27450,
+  "filePageRevisionId": 71401,
+  "filePageRevisionSha1": "660e994e039ed3ac392d2411b9c6fca73f8fcd02",
+  "filePageRevisionTimestamp": "2017-04-23T10:32:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Truck]]",
+  "filePageWikitextHash": "1bae544d359446f18332456351634a35b9f6c761f9b06182e24143bde357cd38",
   "height": 152,
   "immutableUrl": null,
   "mediaId": "File:Grants Graveyard.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-15T13:48:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrants%20Graveyard.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 94589,
   "sourceSha1": "50b30d142fca6cac68908d9566e06bf015614d0d",

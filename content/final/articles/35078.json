@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Butter_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98555,
   "revisionTimestamp": "2021-08-31T20:58:17Z",
   "route": "/wiki/category%2Fcategory-butter-products-35078",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Butter_Products",
   "title": "Category:Butter Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Butter.png|thumb]]\nProducts of [[Butter]].\n[[Category:Products]]",
   "wikitextHash": "74b2fbce9a041c9785b6f37ab89609265270b10b59c67b3f9cf15447e1403688"
 }

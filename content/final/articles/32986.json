@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Bell Pepper Products",
+    "Category:Broccoli Products",
+    "Category:Fondue Pot Products",
+    "Category:Olive Oil Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Bell Pepper Products",
+      "Category:Broccoli Products",
+      "Category:Fondue Pot Products",
+      "Category:Olive Oil Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +141,12 @@
   "revisionId": 110185,
   "revisionTimestamp": "2026-05-23T20:51:17Z",
   "route": "/wiki/bacon-fondue-32986",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_Fondue",
   "title": "Bacon Fondue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon Fondue.png|200px|left|Bacon Fondue]]\n\n{{Infobox\n |level = 86|price = 1 to 507|time = 30 min|xp = 60|source = {{Infoicon|fonduep|bigger|link=Fondue Pot}}|base = 141|dia = 3|time3 = 25 min|title = [[Products|product]]}}\n'''Bacon fondue''' is a [[Products|product]] unlocked at [[experience]] level 86. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making bacon fondue'''===\n[[File:Fondue Pot.png|150px|left|Fondue Pot]]\nBacon fondue is made in the [[Fondue Pot]].\n\nTo make the fondue, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Broccoli.png|75px|Broccoli|link=Broccoli]]\n|[[File:Bell Pepper.png|75px|Bell peppers|link=Bell Pepper]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one bowl, and 25 minutes in a fully [[Masteries|mastered]] fondue. Each fondue gives players 60 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling bacon fondue'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bacon fondue can be bought or sold for a maximum price of 5076 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a fondue costs 484 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 bacon fondue per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Speckfondue\n|es = Fondue de beicon\n|fr = Fondue au Bacon\n|it = Fonduta di pancetta\n|nl = Spekfondue\n|no = Baconfondue\n|ru = Фондю с беконом\n|zh = Bacon Fondue\n}}\n[[pt-br:Fondue de bacon]]\n\n[[Category:Fondue Pot Products]]\n[[Category:Bacon Products]]\n[[Category:Olive Oil Products]]\n[[Category:Broccoli Products]]\n[[Category:Bell Pepper Products]]",
   "wikitextHash": "7ff84e5617911c91ab5937acd2590363ee747399fff8a8e979c96af280ed82fe"
 }

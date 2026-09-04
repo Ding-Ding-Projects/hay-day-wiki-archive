@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Cacao Products",
+    "Category:Fudge Shop Products",
+    "Category:Peanuts Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Cacao Products",
+      "Category:Fudge Shop Products",
+      "Category:Peanuts Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +153,12 @@
   "revisionId": 110246,
   "revisionTimestamp": "2026-05-26T22:26:56Z",
   "route": "/wiki/peanut-fudge-35383",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Fudge",
   "title": "Peanut Fudge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peanut Fudge.png|200px|left|Peanut Fudge|link=Special:FilePath/Peanut Fudge.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 111\n |price = 1 to 1,141\n |time = 1 h 30 m\n |source = {{Infoicon|fudges|bigger|link=Fudge Shop}}\n |xp = 136\n |base = 317\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Peanut Fudge''' is a [[products|product]] unlocked at [[experience]] level 111.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making peanut fudge'''===\n[[File:Fudge Shop.png|150px|left|Fudge Shop|link=Special:FilePath/Fudge_Shop.png]]\nPeanut Fudge is made in the [[Fudge Shop]].\n\nTo make the peanut fudge, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hours 30 minutes to make one serving, and 1 hours and 16 minutes in a fully [[Masteries|mastered]] shop. Each serving gives players 136 [[experience]] points.\n\n{{Clr}}----\n==='''Selling peanut fudge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Peanut fudge can be bought or sold for a maximum price of 11,412 {{Infoicon|coin}} for 10 servings.\n* Buying the ingredients required to make the peanut fudge costs 854 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 peanut fudge per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Peanut Fudge is the most expensive product in Hay Day.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Erdnusskaramelle\n|es = Fudge de cacahuete\n|fr = Caramel aux Cacahuètes\n|it = Fudge alle arachidi\n|nl = Pindatoffee\n|no = Peanøttfudge\n|ru = Арахисовый ирис\n|zh = Peanut Fudge\n}}\n[[pt-br:Trufa de amendoim]]\n\n[[Category:Fudge Shop Products]]\n[[Category:Butter Products]]\n[[Category:Cacao Products]]\n[[Category:White Sugar Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "ddfd33f05da870370fd42645650e482cd90dfb1a542423894a8717c521ce5dab"
 }

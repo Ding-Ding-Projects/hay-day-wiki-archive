@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Alpacas"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Alpacas"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -363,6 +371,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -388,6 +397,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -402,11 +412,12 @@
   "revisionId": 110541,
   "revisionTimestamp": "2026-06-15T21:14:22Z",
   "route": "/wiki/huacaya-alpaca-36822",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Huacaya_Alpaca",
   "title": "Huacaya Alpaca",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Huacaya Alpaca.png|200px|left|Huacaya Alpaca]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 34\n |needs = {{Infoicon|apple|big|link=Apple}}\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}25 {{Infoicon|bluev|link=Voucher}}15 {{Infoicon|purplev|link=Voucher}}15 {{Infoicon|goldv|link=Voucher}}5\n |xp = 60\n |dia = 210\n}}\n'''Huacaya Alpaca''' are pet [[animals]]. They are unlocked at [[experience]] level 34.\n\nThey give players [[experience]] points in exchange for [[apple]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n\n----\n==='''Buying'''===\n[[File:Alpaca House.png|150px|left|Alpaca house]]\nEach alpaca costs 25 green [[voucher]]s, 15 blue [[voucher]]s, 15 purple ones and 5 golden ones, or 210 [[diamond]]s. They must be placed near a [[Alpaca House|alpaca house]] to be bought. Players can have two Huacaya alpaca.\n\nAlpaca and alpaca houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[apple]]s alpaca eat then roam around their house for six hours and finally fall asleep. Players can immediately wake them up to receive 60 {{Infoicon|xp}} per animal. Alpaca stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking alpaca one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Huacaya-Alpaka\n|es = Alpaca huacaya\n|fr = \n|it = \n|no = Huacaya-alpakka\n|ru = Альпака хуакая\n}}\n\n[[Category:Alpacas]]",
   "wikitextHash": "e2f1a331d7dd179de7d09db80f087cac70fa6266eb9be1ab63c3f5563cd1f84a"
 }

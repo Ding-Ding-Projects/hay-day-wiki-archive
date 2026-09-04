@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Plain_Cupcake_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 101960,
   "revisionTimestamp": "2022-11-28T22:47:52Z",
   "route": "/wiki/category%2Fcategory-plain-cupcake-products-35660",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Plain_Cupcake_Products",
   "title": "Category:Plain Cupcake Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Plain Cupcake.png|thumb]]\nProducts of [[Plain Cupcake]].\n[[Category:Products]]",
   "wikitextHash": "65ba548f7307fc24aa722b09217ef0aea8c1235f4180148a72ce88a2bf916f6e"
 }

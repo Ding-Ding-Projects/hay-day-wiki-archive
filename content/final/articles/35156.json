@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Salsa_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98694,
   "revisionTimestamp": "2021-09-07T10:24:50Z",
   "route": "/wiki/category%2Fcategory-salsa-products-35156",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Salsa_Products",
   "title": "Category:Salsa Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Salsa.png|thumb]]\nProducts of [[Salsa]].\n[[Category:Products]]",
   "wikitextHash": "127557525768c0a0d152398b2f9330523889fca043900d31b82e0a093b8bfd59"
 }

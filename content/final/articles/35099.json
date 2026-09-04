@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Duck_Feather_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98576,
   "revisionTimestamp": "2021-08-31T21:23:19Z",
   "route": "/wiki/category%2Fcategory-duck-feather-products-35099",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Duck_Feather_Products",
   "title": "Category:Duck Feather Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Duck Feather.png|thumb]]\nProducts of [[Duck Feather]].\n[[Category:Products]]",
   "wikitextHash": "62d7ee7d2cbdf925a6edd8d9f74d8bc23f9e062fc75e04bfdddad8f28095a479"
 }

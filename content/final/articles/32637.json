@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Item Data Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Item Data Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Item_Data_templates_with_missing_data?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 91015,
   "revisionTimestamp": "2020-03-14T20:29:25Z",
   "route": "/wiki/category%2Fcategory-item-data-templates-with-missing-data-32637",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Item_Data_templates_with_missing_data",
   "title": "Category:Item Data templates with missing data",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category holds item data templates where not all the information is present.\n[[Category:Item Data Templates| Incomplete]]",
   "wikitextHash": "ffe6d065f59b013233313f2870660cd9469435f71fbf3788615ca2f5250daf65"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-_Save_your_Game_Progress_with_Game_Center_(iOS)",
+  "filePageId": 22780,
+  "filePageRevisionId": 56067,
+  "filePageRevisionSha1": "136fd98da1e0abbd11ddbb52d807d0b3087a925b",
+  "filePageRevisionTimestamp": "2015-11-21T15:44:35Z",
+  "filePageWikitext": "\n== Description ==\n\n[[Category:Videos]]",
+  "filePageWikitextHash": "4af0acb9c69de4000f2169e298e0f5145aecca76feb830174539ad196859e114",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day- Save your Game Progress with Game Center (iOS)",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-21T15:44:35Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day-%20Save%20your%20Game%20Progress%20with%20Game%20Center%20(iOS)",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 19519,
+  "sourceSha1": "b376ccce3555cf76c2e5386e72c9f157cf222a64",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Hay_Day-_Save_your_Game_Progress_with_Game_Center_%28iOS%29/revision/latest?cb=20151121154435",
+  "title": "File:Hay Day- Save your Game Progress with Game Center (iOS)",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

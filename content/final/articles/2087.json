@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Feed Mill Products",
+    "Category:Soybean Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Feed Mill Products",
+      "Category:Soybean Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -154,11 +166,12 @@
   "revisionId": 110006,
   "revisionTimestamp": "2026-05-11T20:58:42Z",
   "route": "/wiki/sheep-feed-2087",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sheep_Feed",
   "title": "Sheep Feed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sheep Feed.png|200px|left|Sheep feed]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 16\n |price = 1 to 14\n |time = 30 min\n |xp = 3\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |base = 4\n |dia = 3\n |time3 = 25 min\n}}\n'''Sheep feed''' is a [[Products|product]] unlocked at [[experience]] level 16. It is used to feed [[sheep]].\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making sheep feed'''===\n[[File:Feed Mill.png|150px|left|link=Feed Mill]]\nSheep feed is made in the [[Feed Mill]]. Sacks of feed are made three by three.\n\nTo make three units of sheep feed, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 30 minutes to make three sacks, and 25 minutes in a fully [[Masteries|mastered]] Feed Mill. Three sacks give players 3 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling sheep feed'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Sheep feed can be bought or sold for a maximum price of 144 {{Infoicon|Coin}} for 10 sacks.\n* Buying the ingredients required to make sheep feed costs 19 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* [[Greg]] sometimes sell 5 sacks for 20 coins.\n* [[Rose]] can make feed for you if you hire her. This costs [[diamond]]s.\n* [[Boat]]s never ask for any type of feed.\n----\n{{Navigation}}\n{{Languages\n|de = Schaffutter\n|es = Pienso de oveja\n|fr = Ration Mouton\n|it = Cibo per pecore\n|nl = Schapenvoer\n|no = Sauefôr\n|ru = Корм для овец\n|vi = Thức ăn cho cừu\n|zh = 绵羊饲料\n}}\n[[pt-br:Ração das ovelhas]]\n\n[[Category:Feed Mill Products]]\n[[Category:Wheat Products]]\n[[Category:Soybean Products]]",
   "wikitextHash": "31c99113d36ed5431dac400b909a0b370cd3aca13244d9524d0b0a0fdf181708"
 }

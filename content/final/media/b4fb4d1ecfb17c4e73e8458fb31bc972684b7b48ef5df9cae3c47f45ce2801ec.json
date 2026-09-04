@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Champions_League_Leaderboard.png",
+  "filePageId": 22908,
+  "filePageRevisionId": 74398,
+  "filePageRevisionSha1": "035480a7445ec53c7e39776a6047cda2270f3cdb",
+  "filePageRevisionTimestamp": "2017-10-22T15:49:56Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "d748309cb5a53ea1d3e659f6701f8926947b47684a36595f58acaa167e9194b9",
   "height": 685,
   "immutableUrl": null,
   "mediaId": "File:Champions League Leaderboard.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-30T09:47:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChampions%20League%20Leaderboard.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 572944,
   "sourceSha1": "6072bad4a16ca9530d9a24d79f110caa60a8000f",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Question_mark.svg",
+  "filePageId": 23242,
+  "filePageRevisionId": 69903,
+  "filePageRevisionSha1": "49f214d0cf4cd27e8f5f7273af4d89ba7fa7f979",
+  "filePageRevisionTimestamp": "2017-02-09T20:31:25Z",
+  "filePageWikitext": "{{CC-BY-SA}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "03cb19d8e34e43edd9b0d8bcad16c5692165280b6fb9c30f6899010d0a742327",
   "height": 663,
   "immutableUrl": null,
   "mediaId": "File:Question mark.svg",
   "mediaType": "DRAWING",
   "mime": "image/svg+xml",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-01-06T15:08:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3AQuestion%20mark.svg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1465,
   "sourceSha1": "86bc1fb497167324c6d8d2c427ede5291a1baa97",

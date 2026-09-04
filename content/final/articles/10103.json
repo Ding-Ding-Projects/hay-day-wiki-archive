@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -298,11 +306,12 @@
   "revisionId": 106937,
   "revisionTimestamp": "2025-01-18T23:15:49Z",
   "route": "/wiki/green-sunfish-10103",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Green_Sunfish",
   "title": "Green Sunfish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Green Sunfish.png|200px|left|Green sunfish]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|greenl|big|link=Lure}} {{Infoicon|goldl|big|link=Lure}}\n |spots = any\n |circle = large\n |xp = 14\n}}\n'''Green sunfish''' are a type of [[fish]].\n\nLike all types of fish, each green sunfish gives one [[Fish Fillet|fish fillet]] when caught.\n\nThe largest weight for this class of fish is 6.685.\n\n{{Clr}}\n----\n==='''Catching green sunfish'''===\nGreen sunfish can be caught with green and gold [[lure]]s in any fishing spot, but their favorite spot is #3 (the reedy area under the waterfall).\n\nGreen sunfish can be caught in large circles and therefore are easier to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Green sunfish in the fishing book'''===\n[[File:Green Sunfish Photo.png|150px|left|Fishing book photo]]\nThe green sunfish is on page 15 of the [[Fishing Book|fishing book]]:\n\n''A hardy fish that can thrive in any conditions. Calls your lake a \"luxury spa\"!''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Grüner Sonnenbarsch\n|es = Perca verde\n|no = Grønn solabbor\n}}\n[[Category:Fish]]",
   "wikitextHash": "507a48bc77525aee1cf343820b580a590d80bd4e26ab37cdb91bd97bc89c274e"
 }

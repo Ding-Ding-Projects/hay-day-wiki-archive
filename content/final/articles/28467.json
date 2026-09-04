@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Products",
+    "Category:Flower Shop Products",
+    "Category:Indigo Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Products",
+      "Category:Flower Shop Products",
+      "Category:Indigo Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -147,11 +161,12 @@
   "revisionId": 107178,
   "revisionTimestamp": "2025-02-07T22:00:06Z",
   "route": "/wiki/rustic-bouquet-28467",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rustic_Bouquet",
   "title": "Rustic Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rustic Bouquet.png|left|200px|Rustic bouquet]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 49\n |price = 1 to 208\n |time = 45 min\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |xp = 25\n |base = 58\n |dia = 3\n |time3 = 38 min\n}}\n'''Rustic bouquets''' are [[products]] unlocked at [[experience]] level 49.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making rustic bouquets'''===\n[[File:Flower Shop.png|150px|left|Flower Shop]]\nRustic bouquets are made in the [[Flower Shop]].\n\nTo make a bouquet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|-\n|'''x5'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 45 minutes to make a rustic bouquet, and 38 in a fully [[Masteries|mastered]] shop. Each bouquet gives players 25 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling rustic bouquets'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Rustic bouquets can be bought or sold for a maximum price of 2088{{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a rustic bouquet costs 168 {{Infoicon|Coin}} coins.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 rustic bouquets per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n[[File:Rustic Bouquet Daily Dirt.png|thumb|175px|right|Rustic Bouquet is commonly found in [[Daily Dirt]]]]\n* Rustic bouquets are extremely common to be found in [[Daily Dirt]], probably because this product can be easily produced in [[Flower Shop]]. Selling them at maximum price may result in slower sales. If you want to sell it faster, setting one unit's price at 168{{Infoicon|Coin}} to 207{{Infoicon|Coin}} is appropriate and will avoid suffering loss.\n* It is commonly found so you don't need to keep any of them at your barn to save up storage space.\n* Cotton is the most difficult crop in this product to find. So you should keep a steady amount of it, if you'd like to master the [[Flower Shop]], or continuously produce bouquets.\n----\n\n{{Navigation}}\n{{Languages\n|de = Rustikaler Strauß\n|es = Ramo rústico\n|fr = Bouquet Rustique\n|it = Bouquet rustico\n|nl = Rustiek Boeket\n|no = Rustikk bukett\n|zh = Rustic Bouquet\n}}\n[[pt-br:Buquê campestre]]\n[[ru:Букет полевых цветов]]\n[[Category:Flower Shop Products]]\n[[Category:Wheat Products]]\n[[Category:Indigo Products]]\n[[Category:Cotton Products]]",
   "wikitextHash": "bc273ce2d16a206e969f209d018332e1ae092f76469943ac405d2a10d7fb67f4"
 }

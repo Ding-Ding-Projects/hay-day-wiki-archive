@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -306,11 +314,12 @@
   "revisionId": 106945,
   "revisionTimestamp": "2025-01-18T23:39:23Z",
   "route": "/wiki/red-tailed-catfish-11453",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Red-Tailed_Catfish",
   "title": "Red-Tailed Catfish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Red-Tailed Catfish.png|200px|left|Red-tailed catfish]]\n\n{{Infobox\n |level = 27|lures = {{Infoicon|redl|big|link=Lure}} {{Infoicon|greenl|big|link=Lure}}|spots = 9, 13, 14|circle = medium & small|xp = 14|title = [[Animals|Animal]] ★★★}}\n'''Red-tailed catfish''' are a type of [[fish]].\n\nLike all types of fish, each red-tailed catfish gives one [[Fish Fillet|fish fillet]] when caught.\n\nThe largest weight for this class of fish is 14.528.\n\n{{Clr}}\n----\n==='''Catching red-tailed catfish'''===\nRed-tailed catfish can be caught with red and green [[lure]]s in swampy spots only - these are fishing spot #9 (the swampy area next to the [[Duck Salon]]), spot #13 (the swampy area in the bottom left corner), or in spot #14 (the swampy area at the bottom, below spot #11) - and can be caught only during fishing [[events]]. When fishing in those spots under those conditions, if an event circle appears when using a red lure it is guaranteed that it will be a Red-tailed catfish, as it is the only fish that can be caught by using a red lure with an event circle. \n\nIt should be noted that the probability of hooking a red-tailed catfish with a red lure seems to be smaller than when using a green lure - perhaps in the neighborhood of a 2% to 5% chance on any given cast. It often takes dozens of tries with a red lure before an event circle appears, indicating a red-tailed catfish. \n\nAs is the case with other trophy-sized fish, red-tailed catfish are active, often pull hard and unpredictably, and combined with the smaller fishing circle these traits make them harder to catch than most fish.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Red-tailed catfish in the fishing book'''===\n[[File:Red-Tailed Catfish Photo.jpg|150px|left|Fishing book photo]]\nThe red-tailed catfish is on page 19 of the [[Fishing Book|fishing book]]:\n\n''This big, beautiful fish has a massive appetite. You might lose a lure or two! It's the only seasonal fish which can be caught with a red lure.''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Rotflossen Antennenwels\n|es = Siluro de cola roja\n|no = Rødhalet malle\n}}\n[[Category:Fish]]",
   "wikitextHash": "f32cd254e67fb72939ba7b8915e1d1d3a428c36fbf50922f1679ef91fb8f4780"
 }

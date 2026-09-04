@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -247,11 +255,12 @@
   "revisionId": 106876,
   "revisionTimestamp": "2025-01-15T22:30:56Z",
   "route": "/wiki/duct-tape-2920",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Duct_Tape",
   "title": "Duct Tape",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Duct Tape.png|200px|left|Duct tape]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 1\n |price = 1 to 270\n |upgrades = {{Infoicon|barn|big|link=Barn}} {{Infoicon|grocerys|big|link=Grocery Store}}\n |base = 75\n |dia = 8\n}}\n'''Duct tape''' is [[supplies|supply item]] used to upgrade the [[barn]] and the [[Grocery Store|grocery store]].\n\nIt is unlocked at [[experience]] level 1.\n\nIt is stored in the [[barn]].\n\n{{Clr}}----\n==='''Getting duct tape'''===\nA sure way to get duct tape is to buy it with 8 {{Infoicon|dia}}.\n\nDuct tape can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 270 {{Infoicon|coin}} per roll.\n\nFinally, duct tape can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Klebeband\n|es = Cinta adhesiva\n|fr = Ruban adhésif\n|it = Nastro Isolante\n|no = Pakketeip\n}}\n[[Category:Supplies]]",
   "wikitextHash": "0c1d55561740588a691755652747a4c2cb3dfd259a9c3df53e7476724d0248aa"
 }

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Chill_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93482,
   "revisionTimestamp": "2020-04-16T19:44:02Z",
   "route": "/wiki/chill-derby-33584",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chill_Derby",
   "title": "Chill Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Chill derby]]",
   "wikitextHash": "a978d35ed80ab2c1232ad2294a364b278999a26f12d9b86146a1c7eacc5b9cd7"
 }

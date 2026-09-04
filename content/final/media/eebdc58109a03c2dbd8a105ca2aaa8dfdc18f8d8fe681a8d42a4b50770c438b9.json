@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yellow_Tree.png",
+  "filePageId": 27842,
+  "filePageRevisionId": 77363,
+  "filePageRevisionSha1": "cb2a08e12e87e9dcff03c2eccbf93d159228d840",
+  "filePageRevisionTimestamp": "2018-02-07T19:13:14Z",
+  "filePageWikitext": "== Summary ==\nOne of the NEW Trees (3 of 5)\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "675d0aa389f3a50305259d8efb23ab4581fe2a17d622dc3a411099d3fcfe0c56",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Yellow Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:13:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYellow%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 436191,
   "sourceSha1": "df823ec6993578e016d2e2f64d9ec44cd3dc26e3",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Send_Riverboat_Icon.png",
+  "filePageId": 17577,
+  "filePageRevisionId": 76337,
+  "filePageRevisionSha1": "eafc71738010254dbebe0cf114ccdd9a4de2f051",
+  "filePageRevisionTimestamp": "2017-12-27T19:26:31Z",
+  "filePageWikitext": "Picture of the sail off button (boat).\n{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "5135ae3e21d17623e5c407c37cf3dd61d9064d5a6b7536827d2a38a013073f99",
   "height": 128,
   "immutableUrl": null,
   "mediaId": "File:Send Riverboat Icon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-31T15:54:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASend%20Riverboat%20Icon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 53849,
   "sourceSha1": "3f0a1bed6d660b51cccc5302f5877cd5669979be",

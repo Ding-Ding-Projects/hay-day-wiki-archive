@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -307,11 +315,12 @@
   "revisionId": 109764,
   "revisionTimestamp": "2026-05-03T10:03:31Z",
   "route": "/wiki/beetroot-33002",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Beetroot",
   "title": "Beetroot",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Beetroot.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 72\n |price = 1 to 14\n |time = 40 min\n |xp = 3\n |base = 4\n |dia = 3\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Beetroot''' is a field [[crops|crop]] unlocked at [[experience]] level 72.\n\nLike all crops, it is stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 210 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing beetroot'''===\nBeetroot is grown in [[Farm|fields]] by planting another beetroot plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 40 minutes to mature.\n<gallery>\nBeetroot Stage 1.png\nBeetroot Stage 2.png\nBeetroot Stage 3.png\nBeetroot Stage 4.png\nBeetroot Stage 5.png\n</gallery>\n----\n==='''Selling beetroot'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Beetroot can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using beetroot''' ===\nBeetroot is used to make the following [[products]]:\n\n{{Item Usage|Beetroot\n|Winter Veggies|2|72\n|Beetroot Salad|3|76\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 20 to 34 beetroot per crate, up to a total of 102 per boat.\n\n{{Clr}}\n\n----\n{{Navigation}}\n{{Languages\n|de = Rote Bete\n|es = Remolacha\n|fr = Betterave\n|it = Barbabietola\n|no = Rødbete\n|ru = Свёкла\n}}\n\n[[Category:Field Crops]]",
   "wikitextHash": "0a644f14f54acfebcbce0fa6d5569418bdcceb796bdc6d1475564517f0a9a5e4"
 }

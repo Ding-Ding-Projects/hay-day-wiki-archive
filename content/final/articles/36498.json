@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Black Bean Products",
+    "Category:Corn Products",
+    "Category:Lettuce Products",
+    "Category:Salad Bar Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Black Bean Products",
+      "Category:Corn Products",
+      "Category:Lettuce Products",
+      "Category:Salad Bar Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 109972,
   "revisionTimestamp": "2026-05-10T19:37:46Z",
   "route": "/wiki/bean-salad-36498",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bean_Salad",
   "title": "Bean Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bean Salad.png|200px|left|Bean salad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 58\n |price = 1 to 169\n |time = 1 h\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 20\n |base = 47\n |dia = 4\n |time3 = 51 min\n}}\n'''Bean salad''' is a [[Products|product]] unlocked at [[experience]] level 58. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making bean salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nBean salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Black Bean.png|75px|link=Black Bean|Black Bean]]\n|[[File:Tomato.png|75px|link=Tomato|Tomato]]\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|[[File:Corn.png|75px|link=Corn|Corn]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make one bowl, and 51 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling bean salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bean salad can be bought or sold for a maximum price of 1,692 {{Infoicon|coin}} for 10 bowls.\n* Buying the ingredients required to make a salad costs 135 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 bean salad per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Bohnensalat\n|es = Ensalada de frijoles\n|fr = \n|it = Insalata di fagioli\n|nl = \n|no = Bønnesalat\n|ru = Салат с бобами\n|zh = \n}}\n[[pt-br:Salada de feijão]]\n\n[[Category:Salad Bar Products]]\n[[Category:Black Bean Products]]\n[[Category:Tomato Products]]\n[[Category:Lettuce Products]]\n[[Category:Corn Products]]",
   "wikitextHash": "40c043562610377154029ec6fc670c18c7a20ccd8eeefbc098ab3d5b14a3f412"
 }

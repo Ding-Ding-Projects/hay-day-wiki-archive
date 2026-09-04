@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Passion_Fruit_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98987,
   "revisionTimestamp": "2021-10-18T12:40:01Z",
   "route": "/wiki/category%2Fcategory-passion-fruit-products-35209",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Passion_Fruit_Products",
   "title": "Category:Passion Fruit Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Passion Fruit.png|thumb]]\nProducts of [[Passion Fruit]].\n[[Category:Products]]",
   "wikitextHash": "7c93c66b403e0da95ed17b324556ae702f289669f045185b816f8906dfc4cb28"
 }

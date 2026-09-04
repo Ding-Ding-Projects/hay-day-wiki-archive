@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plum_Tree_Dead.png",
+  "filePageId": 30082,
+  "filePageRevisionId": 82076,
+  "filePageRevisionSha1": "1dea26bb4a6b98ec3f5ef55be53508a749179146",
+  "filePageRevisionTimestamp": "2018-07-11T10:15:37Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "d14e287cddf242ab2efcf9c4ce10e1bd9a812d8c7be02f9c4ed7aa64531ae823",
   "height": 907,
   "immutableUrl": null,
   "mediaId": "File:Plum Tree Dead.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-07-11T10:14:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlum%20Tree%20Dead.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 444548,
   "sourceSha1": "5f5f7775647fd73abf2b4d4cacaf535b938811d4",

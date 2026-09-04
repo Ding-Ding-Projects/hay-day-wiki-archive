@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chill_Derby.png",
+  "filePageId": 33098,
+  "filePageRevisionId": 99557,
+  "filePageRevisionSha1": "db4c382cc6937fdafc3b6d2e95ace5494cec91b5",
+  "filePageRevisionTimestamp": "2021-12-06T22:32:03Z",
+  "filePageWikitext": "== Summary ==\nSample ad for the Chill Derby\n== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "0cda5a8f426c6b5784df4ab702a3867f90a362bf6e70004d50bcbe4c2e779573",
   "height": 558,
   "immutableUrl": null,
   "mediaId": "File:Chill Derby.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-03-31T21:16:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChill%20Derby.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 628273,
   "sourceSha1": "048664a99a6631e1747a475117bdc93e68df8bf3",

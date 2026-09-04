@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dalmatian_Pelican.png",
+  "filePageId": 35833,
+  "filePageRevisionId": 103197,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2023-06-24T18:39:30Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Dalmatian Pelican.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-06-24T18:39:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADalmatian%20Pelican.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 117920,
   "sourceSha1": "07feb9245e72bd0370454dc7284c70d20238c33b",

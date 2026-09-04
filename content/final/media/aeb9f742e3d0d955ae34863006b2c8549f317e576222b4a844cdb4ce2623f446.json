@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lumberjack_Offer.png",
+  "filePageId": 26186,
+  "filePageRevisionId": 66500,
+  "filePageRevisionSha1": "44d3c201aa3d094269387142343cea9240ebf20c",
+  "filePageRevisionTimestamp": "2016-11-13T15:35:27Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "445f77ebd5a71123225a52e493f2b3b060313e9e60c83391d61298290746a7f5",
   "height": 1024,
   "immutableUrl": null,
   "mediaId": "File:Lumberjack Offer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-11-02T13:29:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALumberjack%20Offer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 714401,
   "sourceSha1": "25ca5ad5146c08a8e5206f897bf2fd9eacaea970",

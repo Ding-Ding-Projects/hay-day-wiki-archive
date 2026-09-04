@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Onion Products",
+    "Category:Sauce Maker Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Onion Products",
+      "Category:Sauce Maker Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -172,11 +186,12 @@
   "revisionId": 107672,
   "revisionTimestamp": "2025-04-09T17:19:27Z",
   "route": "/wiki/salsa-24946",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Salsa",
   "title": "Salsa",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Salsa.png|200px|left|Salsa]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 77\n |price = 1 to 252\n |time = 20 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 30\n |base = 70\n |dia = 2\n |time3 = 17 min\n}}\n'''Salsa''' is a [[Products|product]] unlocked at [[experience]] level 77.\n\nIt is used to make [[Taco|tacos]], [[nachos]] and [[Grilled Eggplant|grilled eggplants]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making salsa'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nSalsa is made in the [[Sauce Maker]].\n\nTo make the sauce, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Pepper.png|75px|Chili peppers|link=Chili Pepper]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 20 minutes to make one bowl of salsa, and 17 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 30 [[experience]] points.\n\n{{Clr}}----\n==='''Selling salsa'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Salsa can be bought or sold for a maximum price of 2,520 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make salsa costs 236 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using salsa'''===\nSalsa is used to make the following [[products]]:\n\n{{Item Usage|Salsa\n|Taco|1|77\n|Nachos|1|87\n|Grilled Eggplant|1|90\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 salsa per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Salsa\n|es = Salsa picante\n|fr = Salsa\n|it = Salsa piccante\n|nl = Salsa\n|no = Salsa\n|zh = Salsa\n}}\n[[pt-br:Salsa]]\n[[ru:Сальса]]\n[[Category:Sauce Maker Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Tomato Products]]\n[[Category:Onion Products]]",
   "wikitextHash": "d33a3202e9bd46dad2289211cafa773328c9898b2023b185004ef540c6984e81"
 }

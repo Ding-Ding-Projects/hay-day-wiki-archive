@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Help"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Help"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -195,11 +203,12 @@
   "revisionId": 85528,
   "revisionTimestamp": "2019-04-24T13:02:06Z",
   "route": "/wiki/glossary-23055",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Glossary",
   "title": "Glossary",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Main screen'''===\nThis is the main screen [[Hay Day]]. Click on an icon to find out more:\n\n{{GUI}}​\n\n{{Clr}}----\n==='''Main screen icons'''===\n{| class=\"article-table\" style=\"border-collapse: collapse; border: 1px solid #bbb; background-color: #eee;\"\n|-\n|{{BigIcon|Settings Icon}}\n|\n* Access [[settings]]\n|-\n|{{BigIcon|Avatar Following Icon}}\n|\n* Your avatar\n* Avatar for farmers you follow (blue border)\n|-\n|{{BigIcon|Avatar Neighbor Icon}}\n|\n* Avatar for your [[Neighborhood|neighbors]] (green border)\n|-\n|{{BigIcon|Avatar Other Icon}}\n|\n* Avatar for other farmers (yellow border)\n|-\n|{{BigIcon|Experience Bar}}\n|\n* [[Experience]] bar for your current level\n|-\n|{{BigIcon|Reputation Bar}}\n|\n* [[Reputation]] bar for your current level\n|-\n|{{BigIcon|Follow Icon}}\n|\n* Follow or unfollow a farm. A maximum of 10 farms can be followed (not including social media friends).\n|-\n|{{BigIcon|Like Icon}}\n|\n* Like this farm on social media\n|-\n|{{BigIcon|Invite Icon}}\n|\n*Invite Facebook friends to your [[neighborhood]]\n|-\n|<span id=\"additional\">{{BigIcon|Buy Currency Icon}}</span>\n|\n* Buy [[Coin|additional coins]] or [[Diamond|diamonds]] with real money.\n*Invite farmer to your [[Neighborhood]]\n|-\n|<span id=\"search\">{{BigIcon|Buy Vouchers Icon}}</span>\n|\n* Buy [[voucher]]s using diamonds\n|-\n|{{BigIcon|Edit Mode Icon}}\n|\n*Access [[Edit Mode]]\n|-\n|{{BigIcon|Friends Icon}}\n|\n* Access the [[friends]] bar\n|-\n|{{BigIcon|Booster Icon}}\n|\n*Access [[booster]]s\n|-\n|{{BigIcon|Shop Icon}}\n|\n* Open the [[shop]]\n|-\n|{{BigIcon|Farm Icon}}\n|\n* Go back to your [[farm]]\n|-\n|{{BigIcon|Town Icon}}\n|\n* Go back to your [[town]]\n|-\n|{{BigIcon|Neighborhood Panel Icon}}\n|\n* Open the [[neighborhood]] panel\n|}\n\n==='''Other icons'''===\n{| class=\"article-table\" style=\"border-collapse: collapse; border: 1px solid #bbb; background-color: #eee;\"\n|-\n|{{BigIcon|Information Icon}}\n|\n*Tap for more information or to replay a tutorial\n|-\n|{{BigIcon|Close Icon}}\n|\n* Close window\n|-\n|{{BigIcon|Confirm Icon}}\n|\n* Confirm action\n|-\n|{{BigIcon|Trash Icon}}\n|\n* Remove the [[Truck|truck order]]\n* Remove the [[Derby|derby task]]\n* Remove an item from your [[Roadside Shop|roadside shop]]\n|-\n|{{BigIcon|Switch Icon}}\n|\n* Rotate the item\n* Display more [[crops]] or [[products]]\n* Send away [[Town Visitors|town visitors]]\n|-\n|{{BigIcon|Upgrade Icon}}\n|\n*Upgrade your [[Buildings|building]]\n|-\n|{{BigIcon|Speed Up Icon}}\n|\n*Speed things up using [[diamond]]s\n|-\n|{{BigIcon|Advertise Icon}}\n|\n* Advertise your products in the [[Roadside Shop]]\n|-\n|{{BigIcon|Send Truck Icon}}\n|\n* Send [[truck]] order\n|-\n|{{BigIcon|Send Riverboat Icon}}\n|\n* Send full [[boat]] or discard empty boat\n|-\n|{{BigIcon|Personal Train Icon}}\n|\n* Send [[Personal Train|personal train]] to your town\n|-\n|{{BigIcon|More Icon}}\n|\n* Tap to see information about your [[Buildings|building]]\n* Tap to edit your [[neighborhood]] settings\n|}\n----\n\n==='''Helping other players icons'''===\n{| class=\"article-table\" style=\"border-collapse: collapse; border: 1px solid #bbb; background-color: #eee;\"\n|-\n|{{BigIcon|Help Icon}}\n|\n*Revive [[Trees and Bushes|tree or bush]]\n* Fill [[boat]] crate\n|-\n|{{BigIcon|Megaphone}}\n|\n* Post a message on Facebook to let your friends know you need help\n|-\n|{{BigIcon|Message}}\n|\n* Send a [[Gift Card|thank-you note]] to players who have helped you\n* Invite friends to your [[neighborhood]] through social media\n|}\n----\n\n{{Languages\n|es = Glosario\n}}\n[[Category:Help]]",
   "wikitextHash": "b8309ec9e58c03a8d19440db6c349c9585d705e6a70cf0da2c16f06c011d38c6"
 }

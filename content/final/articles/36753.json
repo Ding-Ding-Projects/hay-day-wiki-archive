@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 110013,
   "revisionTimestamp": "2026-05-11T21:23:04Z",
   "route": "/wiki/category%2Fcategory-grilled-lamb-skewer-products-36753",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Grilled_Lamb_Skewer_Products",
   "title": "Category:Grilled Lamb Skewer Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Grilled Lamb Skewer.png|thumb]]\nProducts of [[Grilled Lamb Skewer]].\n[[Category:Products]]",
   "wikitextHash": "a64ee34238561e84dde5634222855b676526176c29c82745cfe2025f19ccc701"
 }

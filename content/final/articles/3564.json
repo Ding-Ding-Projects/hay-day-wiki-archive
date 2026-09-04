@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -363,11 +371,12 @@
   "revisionId": 108128,
   "revisionTimestamp": "2025-07-10T12:04:02Z",
   "route": "/wiki/coffee-kiosk-3564",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coffee_Kiosk",
   "title": "Coffee Kiosk",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coffee Kiosk.png|200px|left|Coffee Kiosk]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 42\n |price = 75,000\n |time = 1 d 12 h\n |slots = 2\n |dia = 57\n |size = 2×2\n}}\nThe '''Coffee Kiosk''' is a [[Production Buildings|production building]] unlocked at [[level]] 42.\n\nIt is used to make [[espresso|espressos]], [[Caffè Latte|caffè lattes]], [[Caffè Mocha|caffè mochas]], [[Caramel Latte|caramel lattes]], [[Hot Chocolate|hot chocolates]], [[Iced Banana Latte|iced banana lattes]] and [[Raspberry Mocha|raspberry mochas]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Coffee Kiosk is a small wooden hut with a coffee cup logo on its black roof, and white painted sides. Cups and coffee machines are placed inside it and on its counter. A chair and a table are placed in front of it.\n\nThe mastered version gets a star on its front, and a flowerbed on its side.\n----\n=== '''Building''' ===\nIt costs 75,000 {{Infoicon|coin}} and takes 1 day and 12 hours (or 57 {{Infoicon|dia}}) to build the Coffee Kiosk. It gives players 35 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Espresso|42|5m|248/29\n|Caffè Latte|43|10m|219\n|Caffè Mocha|45|15m|291\n|Raspberry Mocha|46|30m|259\n|Hot Chocolate|47|25m|316\n|Caramel Latte|62|15m|345\n|Iced Banana Latte|88|20m|277\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Coffee Kiosk originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,270 hours of production is required to [[Masteries|master]] the Coffee Kiosk:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Coffee Kiosk Mastered.png|150px|Mastered Coffee Kiosk]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />70 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />240 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />960 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Coffee Kiosk Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*The Coffee Kiosk is very hard to master as all its products take very little time to make. The only way to do it a little more quickly is to unlock more slots and to make it work as often as possible.\n*Most beverages made in the Coffee Kiosk require [[White Sugar|white sugar]] and/or [[cream]]. Make sure you have a steady supply of these if you want to be able to use it.\n*Only Iced banana latte (Unlocked at level 88) doesn't require any [[White Sugar|white sugar]] and/or [[cream]]. Make sure to keep producing it a lot if you want to master your machine quickly.\n*The Coffee Kiosk is one of the least profitable production building, with its highest maximum profit being 13 coins (raspberry mocha). That means that if you’re planning on saving up money, it is advisable to use your white sugar and cream for the production of more profitable products. \n----\n\n{{Navigation}}\n{{Languages\n|de = Kaffee-Kiosk\n|es = Cafetería\n|fr = Kiosque à Café\n|it = Chiosco del caffè\n|no = Kaffebod\n|vi = Quán cà phê\n|zh = Coffee Kiosk\n}}\n[[pt-br:Quiosque de café]]\n[[ru:Кофейный киоск]]\n[[Category:Production Buildings]]",
   "wikitextHash": "4a564a0ab4d833e73abe84fa678ab79020d8cd76fe7d64364ba4dcfbbfe90884"
 }

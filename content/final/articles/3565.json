@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -389,11 +397,12 @@
   "revisionId": 109770,
   "revisionTimestamp": "2026-05-03T12:27:48Z",
   "route": "/wiki/candy-machine-3565",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Candy_Machine",
   "title": "Candy Machine",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Candy Machine.png|200px|left|Candy Machine]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 51\n |price = 120,000\n |time = 1 d 8 h\n |slots = 2\n |dia = 71\n |size = 2×2\n}}\nThe '''Candy Machine''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 51.\n\nIt is used to make [[Caramel Apple|caramel apples]], [[toffee]], [[chocolate]], [[lollipop]]s, [[Jelly Beans|jelly beans]], [[Honey Peanuts|honey peanuts]], [[Cotton_Candy|cotton candy]] and [[Sesame Brittle|sesame brittle]] .\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 120,000 {{Infoicon|coin}} (or 71 {{Infoicon|dia}}) and takes 1 day to build the Candy Machine. It gives players 27 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThis machine is a small pink decorative candy cart, it has two spinners that makes the cotton candy, and a conveyor belt to push candies to the candy drawer.\n\nThe mastered version of the machine is the two spinners is now on a golden color, and a gold star on the side covering the lettering.\n----\n=== '''Products''' ===\n{{Building Products\n|Caramel Apple|51|2h|255/31\n|Toffee|52|1:30|176\n|Chocolate|54|20h|460\n|Lollipop|57|12h|342\n|Jelly Beans|60|24h|684\n|Honey Peanuts|63|40m|468/64\n|Cotton Candy|75|30m|226\n|Sesame Brittle|78|1h|270\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Candy Machine originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Candy Machine:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Candy Machine Mastered.png|150px|Mastered Candy Machine]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Candy Machine Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*The Candy Machine is easy to master once you have unlocked [[chocolate]].\n*All products require one or more items from other machines: [[syrup]], [[butter]], [[White Sugar|white sugar]] and [[Honey|honey]]. It may be hard to get the ingredients to produce candy machine's products, so most of its products are very hard to find in [[Daily Dirt|daily dirt]]. If you prefer filling truck or town orders, you need to build this machine to get the required products.\n*This machine does not always earn a profit. If you use this machine to produce [[Jelly Beans|jelly beans]] then sell it at [[Roadside Shop|roadside shop]], you will earn less comparing to the revenue from selling its ingredients and you also waste the time to produce it.\n* Nothing produced from the Candy Machine is requested by [[Boat]]s.\n----\n=== '''Did you know?''' ===\n* The Candy Machine is the only machine which is able to run for over a week with nine slots.\n* Both this machine and [[Flower Shop]] have the same building prices of 120,000 Coins.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Süßigkeitenautomat\n|es = Máquina de caramelos\n|fr = Confiserie\n|it = Macchina caramelle\n|no = Godterimaskin\n|vi = Máy làm kẹo\n|zh = Candy Machine\n}}\n[[pt-br:Máquina de doce]]\n[[ru:Конфетный автомат]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "9712d6aa6524a41636fc94f954134a1d39019192eb75e787082e60ab7b9b416b"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Banana_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98632,
   "revisionTimestamp": "2021-09-06T22:38:02Z",
   "route": "/wiki/category%2Fcategory-banana-products-35131",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Banana_Products",
   "title": "Category:Banana Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Banana.png|thumb]]\nProducts of [[Banana]].\n[[Category:Products]]",
   "wikitextHash": "5c49b893a82d51f023142dd98ad8cfcdd5fbcafb4e933a86d8f2b0ed435cb02c"
 }

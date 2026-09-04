@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:20221128Update.jpg",
+  "filePageId": 35666,
+  "filePageRevisionId": 102049,
+  "filePageRevisionSha1": "e6369d413fafbca807fdd22f9d7c5efe27f6f7ed",
+  "filePageRevisionTimestamp": "2022-11-30T22:07:44Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "16effc8182142a2a0e2376d14eb1ef269a806897342f6431e7069543d8176c44",
   "height": 526,
   "immutableUrl": null,
   "mediaId": "File:20221128Update.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-11-30T13:27:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3A20221128Update.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 137204,
   "sourceSha1": "88699cd22bc876e9d12e9002babdcabce08254a3",

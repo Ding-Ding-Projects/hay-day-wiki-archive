@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Friends.png",
+  "filePageId": 28600,
+  "filePageRevisionId": 77743,
+  "filePageRevisionSha1": "b6399a7e2cabe1e5469af0715f0110bc86d2e2bd",
+  "filePageRevisionTimestamp": "2018-02-21T21:40:18Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "8d4aa039e5ef3bdb4762a86bd8782f21d52ea94aaf093cd796776c773d911bb7",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Friends.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-21T21:40:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Friends.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 24220,
   "sourceSha1": "9127fe93446c14270d72fab1c014937dab4d0a2c",

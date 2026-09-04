@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mouse_Peering_Repaired.png",
+  "filePageId": 15105,
+  "filePageRevisionId": 96108,
+  "filePageRevisionSha1": "9526d68fc1cf3caa6268a05513fb81d554b454f5",
+  "filePageRevisionTimestamp": "2020-10-12T14:33:40Z",
+  "filePageWikitext": "Picture of the mouse peering out from the mouse hole in the Neighborhood House, when it has been repaired.\n{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "e6b9bcee7997025029f99b584cfd94ee66b7cb095ef6cfda16dde2ea29a0b699",
   "height": 100,
   "immutableUrl": null,
   "mediaId": "File:Mouse Peering Repaired.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-10-12T14:33:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMouse%20Peering%20Repaired.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 8462,
   "sourceSha1": "7fdd7411238b0451905220c5a703814d59a0bda7",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_110.png",
+  "filePageId": 26376,
+  "filePageRevisionId": 96593,
+  "filePageRevisionSha1": "db771ae864f32ee6864162e5118568baa6649dff",
+  "filePageRevisionTimestamp": "2020-12-26T18:32:26Z",
+  "filePageWikitext": "Level 110 Image\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "435dabe210e326fc208bdf38b9063b0623f84e0377b0b25795d13dbefaf94ed3",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Level 110.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-12-26T18:32:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20110.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 418430,
+  "sourceSha1": "3f3d2f98dc915b30f3116fdc8c585f7085dc7f1e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4c/Level_110.png/revision/latest?cb=20201226183226",
+  "title": "File:Level 110.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 854
+}

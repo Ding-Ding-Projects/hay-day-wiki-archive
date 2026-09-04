@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Skep.png",
+  "filePageId": 29194,
+  "filePageRevisionId": 88988,
+  "filePageRevisionSha1": "560f5e5fb9f652bab9fd8feae3934f989eefd4bd",
+  "filePageRevisionTimestamp": "2019-10-25T20:44:03Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "a8607461ceaeb6b89ca95737fa480cac68296c83180e7ff31825661fc3c1d443",
   "height": 265,
   "immutableUrl": null,
   "mediaId": "File:Skep.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:44:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASkep.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 84183,
   "sourceSha1": "8d9c4d1eca1403ee90e11187636d649fb1179c3b",

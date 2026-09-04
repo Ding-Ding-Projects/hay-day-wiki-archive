@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Events?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 74928,
   "revisionTimestamp": "2017-11-03T13:40:15Z",
   "route": "/wiki/category%2Fcategory-image-events-15104",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Events",
   "title": "Category:Image Events",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[events]].\n[[Category:Images]]",
   "wikitextHash": "514509beda3c0b49f26dccb48e3579c129d720381a7704cbc99f38eab2f2783d"
 }

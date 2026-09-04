@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Storage.png",
+  "filePageId": 21365,
+  "filePageRevisionId": 77746,
+  "filePageRevisionSha1": "156c4d40cee611869c33cac25b8a89723b52acd6",
+  "filePageRevisionTimestamp": "2018-02-21T21:40:51Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "dd4e82bd6fdb83aaff5e7d04e0caed7ea0b30b87fd4da0bbb68858827096813a",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Storage.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-21T21:40:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Storage.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 28402,
   "sourceSha1": "cfb0beacdde22a174ad24e97496699862024f465",

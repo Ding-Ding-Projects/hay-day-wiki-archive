@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hand_Drill.png",
+  "filePageId": 14402,
+  "filePageRevisionId": 89204,
+  "filePageRevisionSha1": "adcd96645593519210e9b662db9c6dc073452b25",
+  "filePageRevisionTimestamp": "2019-10-28T13:16:24Z",
+  "filePageWikitext": "Picture of a hand drill.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "9d367c1125cee0454a435762e8f53af613f9a048b1ec4da04417d749e34d83ac",
   "height": 175,
   "immutableUrl": null,
   "mediaId": "File:Hand Drill.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:16:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHand%20Drill.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 23019,
   "sourceSha1": "b5f074fad890b17808745c9cc9a7ffc1a9353445",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Manneken_Squirrel.png",
+  "filePageId": 35534,
+  "filePageRevisionId": 101443,
+  "filePageRevisionSha1": "ebf73af42a3e0741b62f0f042e17b4637241913b",
+  "filePageRevisionTimestamp": "2022-08-07T17:47:07Z",
+  "filePageWikitext": "== Summary ==\nValley deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "28001172f9b52e64279f7d7fc109c0d4e8ffc8de2c340fbeac744677902e7c8d",
   "height": 339,
   "immutableUrl": null,
   "mediaId": "File:Manneken Squirrel.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-02T18:05:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AManneken%20Squirrel.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 241102,
   "sourceSha1": "5ad36649a71647a4f5bdcc869779e2e300933313",

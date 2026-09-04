@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Riverboat_Bonus_XP.png",
+  "filePageId": 21780,
+  "filePageRevisionId": 89316,
+  "filePageRevisionSha1": "358a55ef805c1541082ed7352f4179a6d7f6d7ae",
+  "filePageRevisionTimestamp": "2019-10-28T16:03:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "7eda5ecce4b08ff846d2d37cab60b1f8c186f3e76063ed2f99406e585fbc875c",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Riverboat Bonus XP.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:03:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARiverboat%20Bonus%20XP.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 78586,
   "sourceSha1": "ad0a789e2d3b75350f5be6ceb57fba7e193ec6e5",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -39,11 +47,12 @@
   "revisionId": 107635,
   "revisionTimestamp": "2025-03-24T22:18:19Z",
   "route": "/wiki/decorations-pass-road-35190",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Pass_Road",
   "title": "Decorations/Pass Road",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Pass Road decorations'''===\n[[File:Shop Rewards.png|left|100px|Rewards tab]]\n'''Pass Road decorations''' are items which can only be earned along the Pass Road.\n\n{{Clr}}\n<gallery widths=\"185\">\nBubbling Caldron.png|Bubbling Caldron (season 11)\nHalloween Alter.png|Halloween Alter (season 11)\nPumpkin Chicks.png|Pumpkin Chicks (season 11)\n</gallery>\n[[ru:Украшения#Украшения_из Farm Pass]]----\n{{Languages\n|es = Decoraciones/Camino del pase\n}}\n\n[[Category:Decorations]]",
   "wikitextHash": "04d614956554931819e30735cc8ff69ace3d9095a05aca482f5f654efb39b362"
 }

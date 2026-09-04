@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lure_Workbench.png",
+  "filePageId": 5887,
+  "filePageRevisionId": 108587,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T18:56:02Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 528,
   "immutableUrl": null,
   "mediaId": "File:Lure Workbench.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T18:56:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALure%20Workbench.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 338389,
   "sourceSha1": "58ec07b50303df747d7707c137df0fd61101c2f0",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98628,
   "revisionTimestamp": "2021-09-06T22:36:41Z",
   "route": "/wiki/category%2Fcategory-refined-coal-products-35127",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Refined_Coal_Products",
   "title": "Category:Refined Coal Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Refined Coal.png|thumb]]\nProducts of [[Refined Coal]].\n[[Category:Products]]",
   "wikitextHash": "be0bd7451183f276bcdf3225fefe13a29a230c676c6959d739ea0f5847d4575e"
 }

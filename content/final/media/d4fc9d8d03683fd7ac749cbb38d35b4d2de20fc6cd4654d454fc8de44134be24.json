@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beige_Giraffe_Calf.png",
+  "filePageId": 28955,
+  "filePageRevisionId": 89223,
+  "filePageRevisionSha1": "9255e642f4d4574e5d151c876b6e4bd479ea1206",
+  "filePageRevisionTimestamp": "2019-10-28T14:06:01Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "4283c8459880dedb1e0a7479d1657dd34044346025d06c48a0814a37f95846c6",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Beige Giraffe Calf.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:06:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeige%20Giraffe%20Calf.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 139081,
   "sourceSha1": "d52d460b487b2da2832ca47f3641bb4f8ceeaeb3",

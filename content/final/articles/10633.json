@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_User?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 20391,
   "revisionTimestamp": "2014-02-19T16:58:47Z",
   "route": "/wiki/category%2Fcategory-image-user-10633",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_User",
   "title": "Category:Image User",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image User\n[[Category:Images]]",
   "wikitextHash": "98e56f64a6517d5b01ca9e46ed291a36d7e7ccbd4cbfc751296b6c388f98b690"
 }

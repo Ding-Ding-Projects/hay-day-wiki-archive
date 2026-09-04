@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Veggie_Bouquet.png",
+  "filePageId": 34693,
+  "filePageRevisionId": 105203,
+  "filePageRevisionSha1": "f3e4f20fbd475569d8501204004a75ad91f637e0",
+  "filePageRevisionTimestamp": "2024-04-11T15:15:26Z",
+  "filePageWikitext": "== Summary ==\ntemp image\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "9c09826a99f1992800eb1b5ed8385edfd458ed8a599f0cc86f27d9d2053165da",
   "height": 211,
   "immutableUrl": null,
   "mediaId": "File:Veggie Bouquet.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:15:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AVeggie%20Bouquet.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 60559,
   "sourceSha1": "b06e8c8ad7f09ead32a731f74b92a35646149ec0",

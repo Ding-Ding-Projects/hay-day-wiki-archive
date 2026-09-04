@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Termite_Mound.png",
+  "filePageId": 28038,
+  "filePageRevisionId": 74168,
+  "filePageRevisionSha1": "3d47bba0f49a975c45601e77ef43adfbddf214a8",
+  "filePageRevisionTimestamp": "2017-10-22T10:01:14Z",
+  "filePageWikitext": "== Summary ==\nTermite Mound\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "00c63061c3e08fbcb17044d0f2d6fba2487dd59c7b982383f9ae128758d23615",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Termite Mound.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:32:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATermite%20Mound.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 306368,
   "sourceSha1": "8179057b022a40e528bb7eb83e5f1c1167ab3d39",

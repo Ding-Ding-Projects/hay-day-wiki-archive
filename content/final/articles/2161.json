@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Indigo Products",
+    "Category:Loom Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Indigo Products",
+      "Category:Loom Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +148,12 @@
   "revisionId": 107799,
   "revisionTimestamp": "2025-04-13T21:29:09Z",
   "route": "/wiki/blue-sweater-2161",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blue_Sweater",
   "title": "Blue Sweater",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blue_Sweater.png|200px|left|Blue sweater]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 20\n |price = 1 to 208\n |time = 3 h\n |source = {{Infoicon|Loom|bigger|link=Loom}}\n |xp = 25\n |base = 58\n |dia = 6\n |time3 = 2 hr 33 min\n}}\n'''Blue sweaters''' are [[products]] unlocked at [[experience]] level 20. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making blue sweaters'''===\n[[File:Loom.png|150px|left|Loom]]\nBlue sweaters are made in the [[Loom]].\n\nTo make a sweater, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|[[File:indigo.png|75px|Indigo|link=indigo]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 3 hours to make one sweater, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] machine. Each sweater gives players 25 [[experience]] points.\n\n{{Clr}}----\n==='''Selling blue sweaters'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Blue sweaters can be bought or sold for a maximum price of 2,088 {{Infoicon|Coin}} for 10 sweaters.\n* Buying the ingredients required to make a sweater costs 158 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 sweaters per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Blue sweaters can hardly ever be found in the [[Daily Dirt]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Blauer Pullover\n|es = Jersey azul\n|fr = Pull Bleu\n|it = Maglione blu\n|nl = Blauwe Trui\n|no = Blå genser\n|ru = Синий свитер\n|vi = Áo len màu xanh\n|zh = Blue Sweater\n}}\n[[pt-br:Suéter azul]]\n\n[[Category:Loom Products]]\n[[Category:Indigo Products]]\n[[Category:Wool Products]]",
   "wikitextHash": "b936f27779593ba884b84cf8e028164d2051476ad5a4816989d49d68c248d22c"
 }

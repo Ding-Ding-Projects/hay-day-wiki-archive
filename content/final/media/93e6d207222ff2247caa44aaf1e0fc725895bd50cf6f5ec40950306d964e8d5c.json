@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Vouchers.png",
+  "filePageId": 2596,
+  "filePageRevisionId": 74208,
+  "filePageRevisionSha1": "b13d4816158b53c7a9dec01c89dea28c0c3701c9",
+  "filePageRevisionTimestamp": "2017-10-22T10:05:27Z",
+  "filePageWikitext": "Picture of voucher UI.\n{{License SC}}\n[[Category:Image Vouchers]]",
+  "filePageWikitextHash": "9b80251a9e26405f5cc7e7256104fc448e6c2e51eb9abd60d0f42fa009a2f595",
+  "height": 640,
+  "immutableUrl": null,
+  "mediaId": "File:Vouchers.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-10-17T10:27:05Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AVouchers.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 273123,
+  "sourceSha1": "eb443968d1f62d7d3432831286b2cd17cb264d5b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9d/Vouchers.png/revision/latest?cb=20151017102705",
+  "title": "File:Vouchers.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

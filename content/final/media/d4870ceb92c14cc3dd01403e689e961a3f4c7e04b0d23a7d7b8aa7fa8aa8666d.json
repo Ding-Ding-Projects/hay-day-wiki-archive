@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lucky_Sheep.png",
+  "filePageId": 35373,
+  "filePageRevisionId": 100472,
+  "filePageRevisionSha1": "8eaac4d4c9fde347da9dd07a10123d14ca5ddd3f",
+  "filePageRevisionTimestamp": "2022-03-31T19:04:22Z",
+  "filePageWikitext": "== Summary ==\nValley season 30 decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "6b289cc1adbbf760e61d58fae71b3911a1b41c77c8be04d9a595f58dc294b5e2",
   "height": 360,
   "immutableUrl": null,
   "mediaId": "File:Lucky Sheep.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-03-31T13:00:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALucky%20Sheep.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 266652,
   "sourceSha1": "48656a8bda6ec7b3edfa0a90d7866060ea9e72e5",

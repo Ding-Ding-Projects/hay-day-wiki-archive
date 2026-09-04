@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Update_October_2018.png",
+  "filePageId": 30574,
+  "filePageRevisionId": 98147,
+  "filePageRevisionSha1": "f19e2f3b37780aac0eadabf174c0185a42e8cc57",
+  "filePageRevisionTimestamp": "2021-07-15T21:23:48Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "c0482be4b9b64f34959d5dafa722200468de73d84227b0ed6857136e5eb75ebd",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:Update October 2018.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-10-15T17:52:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AUpdate%20October%202018.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 728346,
   "sourceSha1": "05d68a6926e0624c6865a8bebca3174fc84536b1",

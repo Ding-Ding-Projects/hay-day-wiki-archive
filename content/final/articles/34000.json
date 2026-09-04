@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +170,12 @@
   "revisionId": 106222,
   "revisionTimestamp": "2024-11-08T14:49:39Z",
   "route": "/wiki/squirrel-34000",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Squirrel",
   "title": "Squirrel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Squirrel.png|200px|left|Squirrel]]\n\n{{Infobox\n |level = 62|price = 4,000 to 7,000|time = 5 h|title = [[Animals|Animal]]|gives = {{Infoicon|peanu|big|link=Peanuts}}}}\n'''Squirrels''' are [[farm]] [[animals]] which produce [[peanuts]]. They are unlocked at [[experience]] level 62. They are the seventh type of farm animal unlocked in the game.\n\n{{Clr}}\n----\n==='''Appearance'''===\n<gallery>\nSquirrel.png\nSquirrel Idle.png\nSquirrel Storing Nuts.png\nSquirrel Summer.png\nSquirrel Storing Nuts Winter.png\n</gallery>\n----\n==='''Alternate appearance'''===\n{{Main|Themes}}\nSquirrels wear themed accessories during summer, Halloween and winter.\n----\n==='''Buying'''===\n[[File:Squirrel House Stage 4.png|150px|left|Squirrel house]]\nSquirrels must be placed in a [[Squirrel House|squirrel house]] to be purchased. The house costs 45,000 [[coin]]s. The house has room for two squirrels at first. At this point squirrels cost 4,000 {{Infoicon|coin}} each. The house has to grow to make room for more squirrels. Growth happen when enough peanut pods have been brought to the house by the squirrels:\n* When 5,500 peanut pods have been collected, a second pair of doors are added and two more squirrels can be purchased for 5,000 {{Infoicon|coin}} each.\n* At 80,000 peanut pods a third pair of doors is added and two more squirrels can be purchased for 6,000 {{Infoicon|coin}} each.\n* At 270,000 peanut pods, a fourth and last pair of doors is added and two more squirrels can be purchased for 7,000 {{Infoicon|coin}} each.\n\nSquirrels can be bought from the [[Shop]].\n\n{{Clr}}\n----\n==='''Harvesting'''===\n[[File:Skep.png|150px|left|Skep]]\nSquirrels make peanuts by scampering to [[Peanut Bush|peanut bushes]], collecting peanut pods (one per squirrel) then scampering back to the squirrel house. It takes approximately 5 hours for a pair of squirrels to collect 300 peanut pods, enough to produce one peanut, providing bushes are as close as possible to the squirrel house and there are enough bushes to get peanut pods from. Players can then collect it from the squirrel house.\n\nSquirrels collect peanut pods even when players are offline (distance does not matter then) but stop doing so when a peanut is produced.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|es = Ardilla\n}}\n[[Category:Farm Animals]]",
   "wikitextHash": "a0ecb2ad8f3161c205d7dd78685c200d6483b0b6925ddf96b88da468498a42b2"
 }

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Strongman?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 100247,
   "revisionTimestamp": "2022-01-23T06:54:29Z",
   "route": "/wiki/strongman-35344",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strongman",
   "title": "Strongman",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Town Visitors]]",
   "wikitextHash": "ab64f4a7d9b688152d80d71dccde0d6c62e72c37704f99a8a5a8df3129defff8"
 }

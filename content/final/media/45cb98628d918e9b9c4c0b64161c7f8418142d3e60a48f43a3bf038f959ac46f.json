@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_34.png",
+  "filePageId": 26371,
+  "filePageRevisionId": 69335,
+  "filePageRevisionSha1": "14ea573e3af8dfc84faefc28cca86334f9f902d5",
+  "filePageRevisionTimestamp": "2017-02-06T01:07:16Z",
+  "filePageWikitext": "Reputation Level 34 Image\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "beff35273d759eb51fbba1b8e3c4ecc47d13b67e3b08a4691009ae49cc1e7a8f",
+  "height": 640,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 34.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-12-06T20:05:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AReputation%20Level%2034.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 809148,
+  "sourceSha1": "c7fce500be9526c8658e00ed0e2c0b475a72e4f3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9f/Reputation_Level_34.png/revision/latest?cb=20161206200507",
+  "title": "File:Reputation Level 34.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

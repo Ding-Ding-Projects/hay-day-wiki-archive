@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pie_Oven_Mastery.png",
+  "filePageId": 10949,
+  "filePageRevisionId": 79934,
+  "filePageRevisionSha1": "484921ded994754e54512ada057e43be9d90bbd7",
+  "filePageRevisionTimestamp": "2018-05-01T17:45:04Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "aeb196532c317fe2efad74c9e65150199857036af6212cf0fcd18c2ef8fafa74",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Pie Oven Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:45:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APie%20Oven%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 46801,
   "sourceSha1": "a0e06d28a72c5f60d6c57b924d133fff0b961246",

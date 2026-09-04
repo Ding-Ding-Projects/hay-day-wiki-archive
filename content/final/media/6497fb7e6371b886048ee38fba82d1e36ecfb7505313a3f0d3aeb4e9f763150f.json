@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay-Day-Icon.png",
+  "filePageId": 28072,
+  "filePageRevisionId": 86228,
+  "filePageRevisionSha1": "0f289c820aa38f2e4196951b9f1312df71f7195e",
+  "filePageRevisionTimestamp": "2019-06-25T20:49:44Z",
+  "filePageWikitext": "== Summary ==\nNew Hay Day Icon\n== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "f30fe2fd8a02caf46498436be7de939a6a9f29b91e08a1501de3bf5f5744be58",
   "height": 1536,
   "immutableUrl": null,
   "mediaId": "File:Hay-Day-Icon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-25T20:49:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHay-Day-Icon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1744506,
   "sourceSha1": "86cf48018fccca869be0d676341795f4a9e77694",

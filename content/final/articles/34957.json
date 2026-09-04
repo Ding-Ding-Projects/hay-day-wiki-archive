@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Donut Maker Products",
+    "Category:Peanuts Products",
+    "Category:Plain Donut Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Donut Maker Products",
+      "Category:Peanuts Products",
+      "Category:Plain Donut Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -133,11 +147,12 @@
   "revisionId": 110121,
   "revisionTimestamp": "2026-05-19T14:11:04Z",
   "route": "/wiki/crunchy-donut-34957",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Crunchy_Donut",
   "title": "Crunchy Donut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Crunchy Donut.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 82\n |price = 1 to 594\n |time = 30 min\n |source = {{Infoicon|donutm|bigger|link=Donut Maker}}\n |xp = 71\n |base = 165\n |dia = 3\n |time3 = 25 min\n}}\n'''Crunchy donuts''' are [[products]] unlocked at [[experience]] level 82. It's not used to make any other product.\n\nIt is introduced at [[Update|28 June 2021]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making crunchy donuts'''===\n[[File:Donut Maker.png|thumb|150px|left|link=Donut Maker]]\nCrunchy donuts are made in the [[Donut Maker]].\n\nTo make crunchy donuts, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Donut.png|thumb|75px|Plain Donut|link=Plain Donut]]\n|[[File:Cacao.png|thumb|75px|Cacao|link=Cacao]]\n|[[File:Peanuts.png|thumb|75px|Peanut|link=Peanuts]]\n|-\n|'''×1'''\n|'''×1'''\n|'''×1'''\n|}\nIt takes 30 minutes to make one crunchy donut, and 25 minutes in a fully [[Masteries|mastered]] maker. Each crunchy donut gives players 71 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling crunchy donuts'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Crunchy donuts can be bought or sold for a maximum price of 5,940 {{Infoicon|Coin}} for 10 donuts.\n* Buying the ingredients required to make 1 crunchy donut costs 449 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 1 to 2 crunchy donuts per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Knuspriger Donut\n|es = Dónut crocanti\n|fr = Beignet Croustillant\n|it = Ciambella croccante\n|nl = Knapperige Donut\n|no = Sprø donut\n|ru = Хрустящий пончик\n|zh = Crunchy Donut\n}}\n[[pt-br:Donut crocante]]\n\n[[Category:Donut Maker Products]]\n[[Category:Plain Donut Products]]\n[[Category:Cacao Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "d13cdda08e7cf9a73081482a22be531b35c756b8670b2235acaee084cd07315c"
 }

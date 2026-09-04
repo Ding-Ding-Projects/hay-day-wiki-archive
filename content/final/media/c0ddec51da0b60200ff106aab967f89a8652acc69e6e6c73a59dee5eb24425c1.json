@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lvl136_image.jpeg",
+  "filePageId": 36696,
+  "filePageRevisionId": 109688,
+  "filePageRevisionSha1": "288c90bfb98818fabfd57a666d84427d5abe61c8",
+  "filePageRevisionTimestamp": "2026-04-19T07:09:11Z",
+  "filePageWikitext": "== Summary ==\nhay day lvl136 updated image\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "7cfd8368d98f587e38387cdf9574f6ce652079c0a4a019c6413032b99905b4a4",
   "height": 785,
   "immutableUrl": null,
   "mediaId": "File:Lvl136 image.jpeg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-04-19T07:09:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALvl136%20image.jpeg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 181129,
   "sourceSha1": "3c35e5e2f445cfd51e5dbc23d733de100740894f",

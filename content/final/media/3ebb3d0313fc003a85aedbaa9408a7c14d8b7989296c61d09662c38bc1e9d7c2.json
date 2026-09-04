@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_37.png",
+  "filePageId": 27069,
+  "filePageRevisionId": 71383,
+  "filePageRevisionSha1": "3c31cd13e3af0913c04237fb8be4063737322e82",
+  "filePageRevisionTimestamp": "2017-04-23T10:22:23Z",
+  "filePageWikitext": "== Summary ==\nTown Reputation Level 37 Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "d8e3489f7ed304f19419d3fab5c1e744f0cdf354add00984d098c365f7c1e251",
   "height": 534,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 37.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-03-25T17:44:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2037.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 764485,
   "sourceSha1": "1d2a17e25d129c4fcede0007e2da8e01e636ea8e",

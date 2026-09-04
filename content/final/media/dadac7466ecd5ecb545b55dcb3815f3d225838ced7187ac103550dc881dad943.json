@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Elephant.png",
+  "filePageId": 28024,
+  "filePageRevisionId": 89218,
+  "filePageRevisionSha1": "d8687a187d1a4251947f5b2dc7f99b713130af18",
+  "filePageRevisionTimestamp": "2019-10-28T14:02:52Z",
+  "filePageWikitext": "== Summary ==\nGrey Elephant\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "fd14105e21708a3eb1d6031c321ada7e762aa61370f2f65b42b0b449b7f49df3",
   "height": 462,
   "immutableUrl": null,
   "mediaId": "File:Grey Elephant.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:02:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrey%20Elephant.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 164461,
   "sourceSha1": "a50ba799206b23730156800e77ecd0fb91210cb3",

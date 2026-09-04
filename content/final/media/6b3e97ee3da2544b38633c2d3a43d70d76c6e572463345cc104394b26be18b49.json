@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sauce_Maker.png",
+  "filePageId": 8893,
+  "filePageRevisionId": 108606,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T20:49:49Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 642,
   "immutableUrl": null,
   "mediaId": "File:Sauce Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T20:49:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASauce%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 367210,
   "sourceSha1": "d771430e7ec585a8f6b0727e10015bd9ac7be4fd",

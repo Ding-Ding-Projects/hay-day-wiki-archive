@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_182.png",
+  "filePageId": 33928,
+  "filePageRevisionId": 100014,
+  "filePageRevisionSha1": "dce5af8f9612429296dbbefe7aa0991367213257",
+  "filePageRevisionTimestamp": "2022-01-09T22:01:52Z",
+  "filePageWikitext": "== Summary ==\nLevel 182 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "862bd325222e03691f4cd70dec4c2a25085d584e962c4d00009383d93a6374ee",
   "height": 354,
   "immutableUrl": null,
   "mediaId": "File:Level 182.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-06-19T12:10:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20182.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 602325,
   "sourceSha1": "55b029ea2b21f3caa2a540f27a62d0ee9ec57dbc",

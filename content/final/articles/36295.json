@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -79,11 +87,12 @@
   "revisionId": 108204,
   "revisionTimestamp": "2025-08-05T19:48:55Z",
   "route": "/wiki/garden-tent-36295",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Garden_Tent",
   "title": "Garden Tent",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:{{PAGENAME}}.png|200px|left|{{PAGENAME}}]]\n\n{{Infobox\n |title = [[Decorations|decoration]]\n |level = 1\n |dia = 999\n |size = 2×2\n}}\n'''{{PAGENAME}}''' is a [[decorations|decoration]] unlocked at [[experience]] level 1. You can place it on the [[farm]], in the [[town]] and [[sanctuary]].\n\nLike all [[decorations]], it is stored in the [[shop]].\n\n{{Clr}}----\n==='''How to get?'''===\nYou was able to get it:\n* in [[Farm Pass]], 4 season\n* for watching ads [[Movie Ticket|Night at the Movie]]\n* buy in [[Currency Shop]] for action in March 2020 (for real money)\n{{Clr}}\n----\n{{navigation}}\n{{Languages\n|ar = خيمة الحديقة\n|ch = 花园帐篷\n|cht = 花園帳篷\n|da = Havetelt\n|de = Gartenzelt\n|es = Carpa de jardín\n|fi = Puutarhapaviljonki\n|fr = Tente de jardin\n|id = Tenda Taman\n|it = Baldacchino\n|jp = 庭のテント\n|kr = 정원 텐트\n|ms = Khemah Taman\n|nl = Tuintent\n|no = Hagetelt\n|ru = Садовый шатёр\n|sv = Trädgårdspaviljong\n|th = กระโจมสวน\n|tr = Bahçe Çadırı\n|vi = Lều sân vườn\n}}\n[[pt-br:Tenda de jardim]]\n\n[[Category:Decorations]]",
   "wikitextHash": "53e242db9b1d93358b932e7b66bdca5f600b5d3d276f606d717fa6bfba03133f"
 }

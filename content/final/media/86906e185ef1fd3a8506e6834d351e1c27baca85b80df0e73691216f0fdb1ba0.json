@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hippo_House.png",
+  "filePageId": 28098,
+  "filePageRevisionId": 74856,
+  "filePageRevisionSha1": "252bfb882b8eee2dc9e347af5500d33de9477040",
+  "filePageRevisionTimestamp": "2017-10-31T12:24:10Z",
+  "filePageWikitext": "== Summary ==\nHippo House\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "4ff46c7e87b266728433dc60f328b567a79f36e78b4ad578e2f2891d24dd49d9",
   "height": 393,
   "immutableUrl": null,
   "mediaId": "File:Hippo House.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:35:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHippo%20House.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 124522,
   "sourceSha1": "82098c848b9bf4c499f341d73ff8e923e1b1999b",

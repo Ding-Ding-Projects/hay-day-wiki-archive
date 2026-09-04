@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gray_Ostrich.png",
+  "filePageId": 36042,
+  "filePageRevisionId": 105102,
+  "filePageRevisionSha1": "79c48a3e58fbb569d8c9637fa46f784d7c20f71c",
+  "filePageRevisionTimestamp": "2024-03-23T20:53:46Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6a260ec6d6cd3aabf727c1e825f0a552b9edcafbbfd4d848c3c23e8a3dd97019",
   "height": 625,
   "immutableUrl": null,
   "mediaId": "File:Gray Ostrich.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-03-23T20:53:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGray%20Ostrich.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 158004,
   "sourceSha1": "3cc03c04bc1cafff08e7af2b96d389a46deac3aa",

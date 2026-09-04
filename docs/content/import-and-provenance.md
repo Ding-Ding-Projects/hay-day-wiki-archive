@@ -2,9 +2,9 @@
 
 ## Required process
 
-The importer uses the source MediaWiki Action API. It first enumerates the complete included scope, then freezes an execution manifest. Pages are parsed by selected revision ID, not by a mutable title. The importer stores source wikitext, sanitized rendered HTML, content hashes, links, categories, and media references.
+The importer uses the source MediaWiki Action API. It first enumerates the complete included scope, then freezes an execution manifest. Pages are parsed by selected revision ID, not by a mutable title. The importer stores exact revision-bound source wikitext, sanitized rendered HTML, content hashes, links, versioned category membership, and media references. The namespace-6 catalog is built from both `allpages` and paginated `allimages` results, then joined with current File-page revisions.
 
-Template and Module dependencies are inventoried before rendering. If those dependencies change during a snapshot, affected pages are rerendered or the snapshot remains unpublished until a coherent result is available.
+The source MediaWiki parser resolves Template and Module dependencies for the selected page revision while producing rendered HTML. Exact offline Template and Module dependency freezing remains unimplemented and is listed separately on the roadmap; this snapshot does not claim it.
 
 ## Resumability and request safety
 
@@ -16,13 +16,14 @@ Rendered HTML is passed through an allowlist. Semantic headings, tables, lists, 
 
 ## Versioned records
 
-The importer will validate these public schemas:
+The importer validates these public schemas:
 
 | Schema | Required purpose | Current status |
 | --- | --- | --- |
-| `SnapshotManifestV1` | Source identity, timing, counts, hashes, completeness | Implemented and audited |
-| `ArticleRecordV1` | Revision-bound article content and relationships | Implemented and audited |
-| `MediaRecordV1` | Rights, provenance, bytes, dimensions, and storage | Implemented and audited |
+| `SnapshotManifestV2` | Source identity, timing, counts, hashes, category and media completeness | Implemented and audited |
+| `ArticleRecordV2` | Revision-bound article content, wikitext, category membership, and relationships | Implemented and audited |
+| `MediaRecordV2` | Rights evidence, File-page revision wikitext, provenance, bytes, dimensions, scope, and reference counts | Implemented and audited |
+| `CategoryIndexV1` | Category membership edges, retained scope, and local routes | Implemented and audited |
 | `SearchDocumentV1` | Sharded local retrieval index | Unimplemented |
 | `RedirectRecordV1` | Local redirect resolution and loop checks | Unimplemented |
 
@@ -32,7 +33,9 @@ Missing records, duplicate IDs or slugs, unsafe object keys, invalid schema vers
 
 ## Current snapshot
 
-The frozen snapshot contains 1,362 article records and 3,708 referenced media records. Its content-manifest SHA-256 is `05efa4bafc434ca566664ed1c07dfde80856f6d55b67fedd9d0a974ddd71b3c3`; its media-manifest SHA-256 is `9359ae3d389c0186e1234cc56640a221b2d72925a1ee0c513d7f474897505c61`. The audit found zero unreferenced media records and zero missing references.
+The refreshed snapshot contains 1,363 article records and 4,807 media records, including the complete current namespace-6 union. Its content-manifest SHA-256 is `44179799480410772ae2188853abbde101a3e7c22e71a710346f0221c65f670b`; its media-manifest SHA-256 is `087c744f4c45485b83f3d03f1bdf00480f6f8a1585661705caa613b06392414c`. The audit found zero missing references, zero File-page inventory omissions, zero wikitext hash mismatches, and 1,097 valid unreferenced catalog records.
+
+Refreshes re-enumerate the included namespaces and batch-query current revision IDs before fetching content. Only new, changed, or removed page IDs are invalidated. A full media refresh separately paginates namespace 6 `allimages` and reads current File-page revisions. This keeps the live delta small while ensuring the media catalog is complete.
 
 ## Suggested articles
 

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Supplies?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 39837,
   "revisionTimestamp": "2014-12-30T15:20:46Z",
   "route": "/wiki/category%2Fcategory-image-supplies-17544",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Supplies",
   "title": "Category:Image Supplies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[:Category:Supplies|supplies]]\n[[Category:Images]]",
   "wikitextHash": "1cef4d5ac77b47fe0eeb4bf499e5ab9a3d7283889aabb480acb3341da594aa87"
 }

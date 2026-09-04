@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 8631,
   "revisionTimestamp": "2013-04-28T18:31:59Z",
   "route": "/wiki/category%2Fcategory-image-trees-and-bushes-4204",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Trees_and_Bushes",
   "title": "Category:Image Trees and Bushes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image Trees and Bushes\n[[Category:Images]]",
   "wikitextHash": "c52f3c6542d4eceffd2d22dd1cc7628c7e24b98c8c3340dd39b3869008c1c36c"
 }

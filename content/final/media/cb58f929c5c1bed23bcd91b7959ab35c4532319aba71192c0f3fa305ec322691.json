@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Visitor_Request.png",
+  "filePageId": 17574,
+  "filePageRevisionId": 69746,
+  "filePageRevisionSha1": "5d62ba265e0f3ac07c2c11893eb026cdc11a911e",
+  "filePageRevisionTimestamp": "2017-02-07T18:34:16Z",
+  "filePageWikitext": "Picture of a request from a visiting customer (UI).\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "f655962b7e9066316286ce829d3ccb98950b027627b77d4eeae38fde6cc5ba90",
   "height": 465,
   "immutableUrl": null,
   "mediaId": "File:Visitor Request.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-31T12:51:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AVisitor%20Request.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 154314,
   "sourceSha1": "a7ad4554ae7d7a74e12b4536f19bc2cbf088fe68",

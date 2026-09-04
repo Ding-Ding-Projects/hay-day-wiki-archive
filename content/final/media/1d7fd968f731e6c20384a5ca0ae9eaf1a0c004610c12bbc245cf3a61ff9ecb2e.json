@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brown_Hippo.png",
+  "filePageId": 28025,
+  "filePageRevisionId": 98109,
+  "filePageRevisionSha1": "8e04517d946055d5c9b6f90af4641cca8ddb81c0",
+  "filePageRevisionTimestamp": "2021-07-15T20:19:50Z",
+  "filePageWikitext": "== Summary ==\nBrown Hippo\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "9d0acc80fd86bcbc5ec7f11c67acd88389b2a86c42d10d69a04ef34a20d23334",
   "height": 351,
   "immutableUrl": null,
   "mediaId": "File:Brown Hippo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:03:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrown%20Hippo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 77982,
   "sourceSha1": "e76064c42df41852998ef8147563d40995e827f7",

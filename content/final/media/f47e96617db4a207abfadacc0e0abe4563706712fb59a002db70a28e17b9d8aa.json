@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Token_Wallet.png",
+  "filePageId": 31477,
+  "filePageRevisionId": 87839,
+  "filePageRevisionSha1": "11b3b943489eb05c0f37f0ec08472e416a6e8e12",
+  "filePageRevisionTimestamp": "2019-09-21T09:31:38Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Valley]]",
+  "filePageWikitextHash": "ec18d34a5ef69320d099bbf9d35e5853973e97805b9666e9b2d145f53407459d",
   "height": 489,
   "immutableUrl": null,
   "mediaId": "File:Token Wallet.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-25T05:59:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AToken%20Wallet.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 118153,
   "sourceSha1": "9b083543e2eec59844695a8a6befc18ad3ab0536",

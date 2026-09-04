@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:5-star_fishing_booster.png",
+  "filePageId": 30824,
+  "filePageRevisionId": 99865,
+  "filePageRevisionSha1": "17b2b8c5e7defe548b6c51e966bdb915994639ef",
+  "filePageRevisionTimestamp": "2021-12-16T21:53:35Z",
+  "filePageWikitext": "\n[[Category:Image Boosters]]",
+  "filePageWikitextHash": "2cb9ce53b43e6b25b822c30b11eb9e34aed2c974d01d8c491538325652ab2e69",
+  "height": 312,
+  "immutableUrl": null,
+  "mediaId": "File:5-star fishing booster.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-12-22T14:45:16Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3A5-star%20fishing%20booster.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 94681,
+  "sourceSha1": "2f844cb73248ab89746e23d4fc3fb0dd59c9f28a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/83/5-star_fishing_booster.png/revision/latest?cb=20181222144516",
+  "title": "File:5-star fishing booster.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 242
+}

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:-_Bunny_Tasks_vs_-_Opt_In_2020.05.11_by_League_TABLE.jpg",
+  "filePageId": 33749,
+  "filePageRevisionId": 93878,
+  "filePageRevisionSha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "filePageRevisionTimestamp": "2020-05-12T00:15:58Z",
+  "filePageWikitext": "",
+  "filePageWikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "height": 863,
+  "immutableUrl": null,
+  "mediaId": "File:- Bunny Tasks vs - Opt In 2020.05.11 by League TABLE.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-05-12T00:15:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3A-%20Bunny%20Tasks%20vs%20-%20Opt%20In%202020.05.11%20by%20League%20TABLE.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 89543,
+  "sourceSha1": "38ec8b4f566b7ae996e19fac6ab65b28bc07d10c",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/bf/-_Bunny_Tasks_vs_-_Opt_In_2020.05.11_by_League_TABLE.jpg/revision/latest?cb=20200512001558",
+  "title": "File:- Bunny Tasks vs - Opt In 2020.05.11 by League TABLE.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 545
+}

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level86.jpg",
+  "filePageId": 34797,
+  "filePageRevisionId": 100033,
+  "filePageRevisionSha1": "03d7198fe92e9e693ba062b23ed5311326eaff40",
+  "filePageRevisionTimestamp": "2022-01-09T22:07:46Z",
+  "filePageWikitext": "level 86 image\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "f27ebe5380ceb8e52895aa08053acd6e49364d56c4163571391e27eb04b9bc11",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:Level86.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-03-11T14:49:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel86.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 113671,
+  "sourceSha1": "2746ad8c4637f52872dec780746172e4917b4c2f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1e/Level86.jpg/revision/latest?cb=20210311144915",
+  "title": "File:Level86.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1280
+}

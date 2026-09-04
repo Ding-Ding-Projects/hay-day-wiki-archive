@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Taco_Kitchen_Mastery.png",
+  "filePageId": 26347,
+  "filePageRevisionId": 80028,
+  "filePageRevisionSha1": "5b8a1749d0bc88e728af0ba8310d1f4c0a1e0e10",
+  "filePageRevisionTimestamp": "2018-05-04T13:09:01Z",
+  "filePageWikitext": "Taco Kitchen Masteries\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "cfb95f6470fda7b59b715eb18f8e3845ec8576eb2cff287a10a635c52aa64fa5",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Taco Kitchen Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-04T13:09:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATaco%20Kitchen%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 56393,
   "sourceSha1": "8115d07201a15c05e8a7d725f5ef77e1287be9a2",

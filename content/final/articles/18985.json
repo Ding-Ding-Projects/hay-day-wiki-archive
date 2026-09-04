@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Level?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 75626,
   "revisionTimestamp": "2017-11-26T16:14:01Z",
   "route": "/wiki/level-18985",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Level",
   "title": "Level",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Experience Levels]]",
   "wikitextHash": "7e7da92032f3c324bda8dff3e449f83302dbb796bc8ec176b575662d7ad5c0af"
 }

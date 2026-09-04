@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Elephant_House.png",
+  "filePageId": 28096,
+  "filePageRevisionId": 74855,
+  "filePageRevisionSha1": "98124825559096e398f2da619078123990871450",
+  "filePageRevisionTimestamp": "2017-10-31T12:23:47Z",
+  "filePageWikitext": "== Summary ==\nElephant House\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "e091b3603a80bdd9e2080bd66a1c63e0f498db46a594050b77f76c45c3ab1414",
   "height": 464,
   "immutableUrl": null,
   "mediaId": "File:Elephant House.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:35:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AElephant%20House.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 139649,
   "sourceSha1": "ec1353ab1a34850d095b718f70ca369c0f9883e5",

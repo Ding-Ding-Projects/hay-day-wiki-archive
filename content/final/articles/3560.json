@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -379,11 +387,12 @@
   "revisionId": 109781,
   "revisionTimestamp": "2026-05-04T13:29:39Z",
   "route": "/wiki/ice-cream-maker-3560",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ice_Cream_Maker",
   "title": "Ice Cream Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Ice Cream Maker.png|200px|left|Ice Cream Maker]]\n\n{{Infobox\n|level = 29\n|price = 38,000\n|time = 1 d 8 h\n|xp = 27\n|slots = 2\n|dia = 54\n|title = [[Production Buildings|Machine]]\n|size = 3×2\n}}\nThe '''Ice Cream Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 29.\n\nIt is used to make [[Affogato]], [[Banana Split]], [[Cherry Popsicle]], [[Chocolate Ice Cream]], [[Mint Ice Cream]], [[Orange Sorbet]], [[Peach Ice Cream]], [[Peanut Butter Milkshake]], [[Strawberry Ice Cream]], [[Vanilla Ice Cream]] and [[Sesame Ice Cream]] .\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe Ice Cream Maker looks like a white freezer with a bucket ice cream maker under a red and white umbrella. The maker is set on a blue stool, next to the freezer. All products that are ready are placed on top of the freezer.\n\nThe mastered version gains a star on the freezer, the cone holder turns golden, and the umbrella gains a golden and red shade.\n----\n=== '''Building''' ===\nIt costs 38,000 {{Infoicon|coin}} and takes 1 day and 7 hours (or 54 {{Infoicon|dia}}) to build the Ice Cream Maker. It gives players 27 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Vanilla Ice Cream|29|2h|172/20\n|Cherry Popsicle|33|3h|352\n|Strawberry Ice Cream|34|4h|331/40\n|Chocolate Ice Cream|39|2:30|342\n|Sesame Ice Cream|50|2h|176\n|Peanut Butter Milkshake|68|1:40|619/86\n|Orange Sorbet|78|3:30|399\n|Affogato|78|20m|435/52\n|Peach Ice Cream|83|3h|450\n|Mint Ice Cream|85|2:15|288\n|Banana Split|96|3:30|403\n|Coconut Ice Cream|102|15m|320/38\n|Fruit Sorbet|106|1h|518\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Ice Cream Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 660 hours of production is required to [[Masteries|master]] the Ice Cream Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Ice Cream Maker Mastered.png|150px|Mastered Ice Cream Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />60 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />240 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />360 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Ice Cream Maker Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n\n=== '''Did you know?''' ===\n\n*The ice cream maker is the only building which isn't a square; it's 3×2.\n----\n{{Navigation}}\n{{Languages\n|de = Eismaschine\n|es = Heladería\n|fr = Stand De Glaces\n|it = Gelatiera\n|no = Ismaskin\n|sv = Glassmaskin\n|vi = Máy làm kem\n|zh = Ice Cream Maker\n}}\n[[pt-br:Máquina de sorvete]]\n[[ru:Мороженица]]\n[[Category:Production Buildings]]",
   "wikitextHash": "f48f0f4a030ea22f6f447b8ec283e330bdcade4ae3fd1645eb8603d754fa754e"
 }

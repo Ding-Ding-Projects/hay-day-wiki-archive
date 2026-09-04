@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Playable Areas"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Playable Areas"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Valley?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 86195,
   "revisionTimestamp": "2019-06-24T21:37:06Z",
   "route": "/wiki/category%2Fcategory-valley-31481",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Valley",
   "title": "Category:Valley",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Playable Areas]]",
   "wikitextHash": "2c338223b0c4644aa0d889c9b980806c8c3f527db56d744740a9b7ca61d040e0"
 }

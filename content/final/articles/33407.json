@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/FAQ?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93091,
   "revisionTimestamp": "2020-04-11T17:38:16Z",
   "route": "/wiki/faq-33407",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/FAQ",
   "title": "FAQ",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[FAQs]]",
   "wikitextHash": "cff4f5f38161afad8184f80b9b194d55ae2e7febfbb52d3af4f5e566c2386a2f"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fish_and_Chips.png",
+  "filePageId": 14666,
+  "filePageRevisionId": 88557,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2019-10-23T23:32:20Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 344,
   "immutableUrl": null,
   "mediaId": "File:Fish and Chips.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T23:32:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFish%20and%20Chips.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 105472,
   "sourceSha1": "b0894d8fe63b7efea1893a8bb5fbc4f94f542f6a",

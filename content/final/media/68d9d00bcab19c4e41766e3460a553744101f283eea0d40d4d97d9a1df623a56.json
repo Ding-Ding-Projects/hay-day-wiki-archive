@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Treats_Maker_2025.png",
+  "filePageId": 36451,
+  "filePageRevisionId": 108803,
+  "filePageRevisionSha1": "7de4d91f7f3917a63d6b211e859dcdeb1a7a71dd",
+  "filePageRevisionTimestamp": "2025-10-23T20:49:06Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "3cab6ce95f1d16648b9899793f9f7a6e1682e2633270630862b8e17783e0ecc8",
   "height": 530,
   "immutableUrl": null,
   "mediaId": "File:Halloween Treats Maker 2025.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-10-23T20:48:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHalloween%20Treats%20Maker%202025.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 307670,
   "sourceSha1": "d9ed480844c6d870d7d63d14a5880351dc329d19",

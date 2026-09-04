@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_News?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 97993,
   "revisionTimestamp": "2021-06-28T12:05:47Z",
   "route": "/wiki/category%2Fcategory-image-news-29413",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_News",
   "title": "Category:Image News",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[updates]].\n[[Category:Images]]",
   "wikitextHash": "d8aca249150998649887f11dc6513a36d08300d2d6f82390367631a3e1f27f21"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Goat Cheese Products",
+    "Category:Lettuce Products",
+    "Category:Olive Products",
+    "Category:Roasted Tomatoes Products",
+    "Category:Salad Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Goat Cheese Products",
+      "Category:Lettuce Products",
+      "Category:Olive Products",
+      "Category:Roasted Tomatoes Products",
+      "Category:Salad Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -177,11 +193,12 @@
   "revisionId": 107233,
   "revisionTimestamp": "2025-02-10T18:37:56Z",
   "route": "/wiki/feta-salad-8919",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Feta_Salad",
   "title": "Feta Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Feta Salad.png|200px|left|Feta salad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 58\n |price = 1 to 745\n |time = 1 h 30 min\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 89\n |base = 207\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Feta salad''' is a [[Products|product]] unlocked at [[experience]] level 58. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making feta salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nFeta salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|[[File:Roasted Tomatoes.png|75px|Roasted tomatoes|link=Roasted Tomatoes]]\n|[[File:Goat Cheese.png|75px|Goat cheese|link=Goat Cheese]]\n|[[File:Olive.png|75px|Olives|link=Olive]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 1 hour and 30 minutes to make one bowl, and 1 hours and 16 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 89 [[experience]] points.\n\n{{Clr}}----\n==='''Selling feta salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Feta salad can be bought or sold for a maximum price of 7,452 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a salad costs 702 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 feta salad per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Feta Salad is the only product that requires Olive, that doesn't have \"Olive\" in the name.\n* It is also the only product that uses 2 goat cheese\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Fetasalat\n|es = Ensalada griega\n|fr = Salade à la Feta\n|it = Insalata di feta\n|nl = Fetasalade\n|no = Fetasalat\n|vi = Salad phô mai dê\n|zh = Feta Salad\n}}\n[[pt-br:Salada com queijo]]\n[[ru:Салат с фетой]]\n\n[[Category:Salad Bar Products]]\n[[Category:Roasted Tomatoes Products]]\n[[Category:Goat Cheese Products]]\n[[Category:Olive Products]]\n[[Category:Lettuce Products]]",
   "wikitextHash": "9df99094ad48fb8d50ad671b13f2bb64436b46986ac5dd18195e33917834a520"
 }

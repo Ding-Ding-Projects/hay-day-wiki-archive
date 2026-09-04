@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -183,11 +191,12 @@
   "revisionId": 110760,
   "revisionTimestamp": "2026-07-16T19:14:05Z",
   "route": "/wiki/town-13129",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Town",
   "title": "Town",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Town Hall.png|200px|left|The Town Hall]]\nThe '''town''' is a game feature which gives players a new area to play in and the opportunity to gain [[coin]]s, [[experience]] points, and [[reputation]] points by filling [[Town Visitors|town visitors]]' orders.\n\nIt can be unlocked at [[experience]] level 34 by repairing the [[Train Station|train station]] located on the [[farm]].\n\nFrom [[reputation]] level 3 and up, it lets players interact with the [[sanctuary]].\n\n[[File:Game Soundtrack Town.ogg]]\n\n{{Clr}}\n----\n==='''Going to the town'''===\n[[File:Farm Train Station Locked.png|150px|left|The broken train station]]\nRepairing the farm's train station costs 20,000 [[coin]]s, takes 5 minutes (or 10 [[diamond]]s) and awards 39 [[experience]] points. After taking the handcar to go to the town players must repair the town's [[Train Station|train station]] and the [[Town Hall]]. It is free to repair these.\n\n{{Clr}}\n----\n==='''Town buildings'''===\nThere are several buildings in the town (see the map below):\n* the Eggspress train which brings [[Town Visitors|visitors]] to the town\n* the [[Train Station|train station]] to allow more visitors in the town\n* the [[Town Hall]] to keep track of visitors\n* [[Service Buildings|service buildings]] to fill visitors' orders\n* the [[Personal Train|personal train]] to pick up visitors from your [[neighborhood]]\n* the book stand and the [[ sanctuary]] on the far right (not shown on the map)\n*[[:Category:Animal Shelters|animal shelters]] for [[:Category:Sanctuary Animals|sanctuary animals]]\n* the handcar to go back to the [[farm]]\n\n[[File:Town Map.png|500px|left|Town Map]]\n\n{{Clr}}----\n==='''Town characters'''===\n[[File:Scarecrow.png|150px|left|Mr Wicker]]\n{{Main|Hay Day}}\nMr. Wicker, a talking scarecrow, guides players through the first steps when they unlock the town and later when they unlock the sanctuary.\n\n{{Clr}}\n[[File:Lady.png|150px|left|A town visitor]]\n{{Main|Town Visitors}}\nTen different [[:Category:Characters|non-player characters]] come to visit towns and request orders in the different [[Service Buildings|service buildings]].\n\n{{Clr}}----\n==='''Decorations'''===\n{{Main|Decorations}}\n[[File:Sandcastle.png|150px|left|Sandcastle decoration]]\nMany items can be placed in the town to decorate it, and create paths and fences.\n\n{{Clr}}----\n==='''Expansion'''===\n{{Main|Expansion/Town}}\n[[File:Town-start-separeted-num.jpg|150px|left|Town area]]\nPlayers can expand the town using [[Map Piece]]s and another two of three types expansion materials (land deed, mallet, marker stake) in the farm which can be very occasionally found in the newspaper.\n\n{{Clr}}----\n==='''Layout Edit Mode'''===\n[[File:Edit Mode Icon.png|left|75px|Edit Mode button]]\n{{Main|Edit Mode}}\nFrom [[experience]] level 34 onwards, players can use the Layout Edit Mode to edit the current layout of their town and to create new ones.\n\n{{Clr}}----\n==='''Tutorial'''===\n[[File:Hay Day Town Introduction Tutorial|left|500px]]\n\n{{Clr}}----\n==='''Strategy tips'''===\n* There is much more room in the town than on the [[farm]] and [[Fishing Lake]] so expanding the land there is not as critical.\n* Town is the BEST way to level up and get [[supplies]] in the game by keep serving the visitors and playing regularly.\n* Start working on your town as soon as possible. Upgrade your town hall, train station and all the buildings so that you can get extra coins, xp, reputation and supplies. If you are active, upgrading the Slots and Time tab is recommended first to multiply your rewards.\n* Different service buildings require different goods. The information can be found by searching the service building names in this wiki, so that you can produce more of them.\n* You can find a floating chest in the beach occasionally which you can give you different rewards.\n* Upgrading the Personal Train requires a lot of refined coal and bars, however, upgrading the time tab is recommended first so that you can pick up townies from your neighborhood friends every 1 hour and 30 min.\n* The amount of tools keep increasing with each upgrade you make on the buildings.\n* It is really hard to Level Up the reputation in the town. Continuous and Non-Stop playing is preferred to increase your reputation level and upgrade the buildings.\n* Reputation level 38 is the last level on which you can finally max your all buildings 100%.\n----\n{{Navigation}}\n\n{{Languages\n|de = Stadt\n|es = Pueblo\n|fr = La_Ville\n|it = Città\n|no = Byen\n}}\n[[ru:Город]]\n\n[[Category:Town]]",
   "wikitextHash": "92eb5d34ccba1a5167f6d36b51cc066c20ede4f96cc1b03f6d337509888afce2"
 }

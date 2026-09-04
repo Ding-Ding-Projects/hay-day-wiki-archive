@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Desert_Dog.png",
+  "filePageId": 34812,
+  "filePageRevisionId": 99357,
+  "filePageRevisionSha1": "b4ae80251c7135af266903fc5124ff415065f9fe",
+  "filePageRevisionTimestamp": "2021-11-10T21:09:14Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "90bc4a81dd12fadd116a158e12ad8e8c2ca8bad607e8b1cf212bf56cb1bb5bfa",
   "height": 411,
   "immutableUrl": null,
   "mediaId": "File:Desert Dog.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-03-26T13:33:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADesert%20Dog.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 381307,
   "sourceSha1": "53313ba49481ded086516603bfc1833a55814087",

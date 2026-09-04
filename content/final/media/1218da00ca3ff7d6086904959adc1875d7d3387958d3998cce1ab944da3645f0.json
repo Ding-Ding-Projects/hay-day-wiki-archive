@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pan_Flute_Pig.jpg",
+  "filePageId": 35855,
+  "filePageRevisionId": 103354,
+  "filePageRevisionSha1": "3d91701b4abe06ce17125e9f4bd0318f0da43d1e",
+  "filePageRevisionTimestamp": "2023-07-04T12:51:21Z",
+  "filePageWikitext": "== Summary ==\nValley Deco\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5f22e9e0bfa82617d53bad4b1548a28440acecd2f2ac4971105f9db105b22118",
   "height": 278,
   "immutableUrl": null,
   "mediaId": "File:Pan Flute Pig.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-07-04T12:51:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APan%20Flute%20Pig.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 59159,
   "sourceSha1": "d6ea5c2f7ba15afbe3d6fef32ac7cf2d988a19a6",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Perfumerie_%E2%AD%90%E2%AD%90%E2%AD%90.jpg",
+  "filePageId": 36272,
+  "filePageRevisionId": 107260,
+  "filePageRevisionSha1": "f7815d78a6beb8f1e1449e89dbd1cc56d6b82a20",
+  "filePageRevisionTimestamp": "2025-02-16T09:00:09Z",
+  "filePageWikitext": "== Summary ==\n⭐⭐⭐\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "dddc53c54aabb2e564bad56f5c7ee8d23b86eb7072b67d85f4883efb77ee05ca",
+  "height": 643,
+  "immutableUrl": null,
+  "mediaId": "File:Perfumerie ⭐⭐⭐.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-02-16T09:00:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3APerfumerie%20%E2%AD%90%E2%AD%90%E2%AD%90.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 52082,
+  "sourceSha1": "952161a9ae5779fd5f91a3928975e51472acbccb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/11/Perfumerie_%E2%AD%90%E2%AD%90%E2%AD%90.jpg/revision/latest?cb=20250216090009",
+  "title": "File:Perfumerie ⭐⭐⭐.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 756
+}

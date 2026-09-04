@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fireworks_Cart.png",
+  "filePageId": 30908,
+  "filePageRevisionId": 84487,
+  "filePageRevisionSha1": "79a5ebe84fae4e887bebbd8ddd4d77ba43d0105d",
+  "filePageRevisionTimestamp": "2019-01-05T02:44:51Z",
+  "filePageWikitext": "== Summary ==\n[[Category:Image Decos]]\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "e24a65111ad09ee4d190401e08b4dd7880ef1dd3ce4b2c1d0174d5e85e18e027",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Fireworks Cart.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-01-05T02:44:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFireworks%20Cart.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 257595,
   "sourceSha1": "7b1fe236acacb7977fd55f48b7897b3d57c8240a",

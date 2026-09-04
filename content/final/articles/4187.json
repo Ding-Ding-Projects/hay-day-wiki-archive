@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Products?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 8441,
   "revisionTimestamp": "2013-04-28T15:49:06Z",
   "route": "/wiki/category%2Fcategory-image-products-4187",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Products",
   "title": "Category:Image Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Category:Image Products\n[[Category:Images]]",
   "wikitextHash": "e3fe0b7b5955b711a8b823ab2b6461df57b21f3cc9df8d447a15257b2eaf517c"
 }

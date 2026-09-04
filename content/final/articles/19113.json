@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Manual_of_Style?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 78025,
   "revisionTimestamp": "2018-03-24T12:39:21Z",
   "route": "/wiki/manual-of-style-19113",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Manual_of_Style",
   "title": "Manual of Style",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect [[Hay Day Wiki:Editing Guidelines]]",
   "wikitextHash": "1174df5aa1245a31677122b6a9e68f4d5ab4d0b2a38d36ebb38408b73fc6e66d"
 }

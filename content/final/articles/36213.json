@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chamomile Products",
+    "Category:Essential Oils Lab Products",
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chamomile Products",
+      "Category:Essential Oils Lab Products",
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -119,11 +131,12 @@
   "revisionId": 108544,
   "revisionTimestamp": "2025-09-23T14:33:23Z",
   "route": "/wiki/chamomile-essential-oil-36213",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chamomile_Essential_Oil",
   "title": "Chamomile Essential Oil",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Chamomile Essential Oil.png|left|184x184px|Chamomile Essential Oil]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 74\n |price = 1 to 72\n |time = 10 min\n |source = {{Infoicon|essentialoilslab|bigger|link=Essential Oils Lab}}\n |xp = 8\n |base = 20\n |dia = 2\n |time3 = 8 min\n}}\n'''Chamomile Essential Oil''' is a [[products|product]] unlocked at [[experience]] level 74. It was added in the December 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Chamomile Essential Oil'''===\n[[File:Essential Oils Lab.png|150px|left|Essential Oils Lab]]\nChamomile Essential Oil is made in the [[Essential Oils Lab]].\n\nTo make Chamomile Essential Oil, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chamomile.png|75x75px|Chamomile]]\n|-\n|'''x5'''\n|}\nIt takes 10 Minutes to make Chamomile Essential Oil, and 8 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 8 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Chamomile Essential Oil'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Chamomile Essential Oil can be bought or sold for a maximum price of 720 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make the oil costs 54 {{Infoicon|coin}}.\n{{Clr}}----\n==='''Using chamomile essential oil '''===\nChamomile essential oil is used to make the following [[products]]:\n{{Item Usage|Chamomile Essential Oil\n|Calming Diffuser|1|116\n}}\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 9 chamomile essential oil per crate, up to a total of 28 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Ätherisches Kamillenöl\n|es = Aceite esencial de manzanilla\n|it = Olio essenziale di camomilla\n|no = Eterisk kamilleolje\n}}\n[[pt-br:Óleo essencial de camomila]]\n[[ru:Ромашковое эфирное масло]]\n\n[[Category:Essential Oils Lab Products]]\n[[Category:Chamomile Products]]",
   "wikitextHash": "3943d13bf2762990a0e1477a490748ecf2854a30d79a9aa3c11fc85c51af0ae9"
 }

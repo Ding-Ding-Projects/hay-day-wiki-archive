@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_wrap_machine_2023_(1).png",
+  "filePageId": 35981,
+  "filePageRevisionId": 104211,
+  "filePageRevisionSha1": "abf3f69f6298495780c687c198a7766a9c83696c",
+  "filePageRevisionTimestamp": "2023-11-30T13:05:46Z",
+  "filePageWikitext": "== Summary ==\nGift Wrapping Machine 2023",
+  "filePageWikitextHash": "e43d0f8c366263ea32202bf5aaf454c358616a29601ebb35a0cb1b3fb22b01d3",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:Gift wrap machine 2023 (1).png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2023-11-30T13:05:46Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGift%20wrap%20machine%202023%20(1).png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 493400,
+  "sourceSha1": "69dbe726e4c7d1d506cb7f47028dd3eb40be01c0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e3/Gift_wrap_machine_2023_%281%29.png/revision/latest?cb=20231130130546",
+  "title": "File:Gift wrap machine 2023 (1).png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1280
+}

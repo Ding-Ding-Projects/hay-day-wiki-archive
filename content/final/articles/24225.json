@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_UI?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 60569,
   "revisionTimestamp": "2016-03-26T08:09:46Z",
   "route": "/wiki/category%2Fcategory-image-ui-24225",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_UI",
   "title": "Category:Image UI",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[Category:Images]]",
   "wikitextHash": "4ac4d82256948b7c7c22e8f2441dbe60e1ec4f42a97b1fa0a051eade286837f2"
 }

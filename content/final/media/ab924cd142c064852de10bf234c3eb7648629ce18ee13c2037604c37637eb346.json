@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rose_Heart.png",
+  "filePageId": 34766,
+  "filePageRevisionId": 99841,
+  "filePageRevisionSha1": "7c1453083e7a89394611e5bb80edb643449be9f4",
+  "filePageRevisionTimestamp": "2021-12-15T22:58:00Z",
+  "filePageWikitext": "== Summary ==\nValentine's Day 2021 Package Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "997bd361ea9a6230ee04706961df780b793576a3748ac5b02a69020e67b23579",
   "height": 320,
   "immutableUrl": null,
   "mediaId": "File:Rose Heart.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-02-03T13:28:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARose%20Heart.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 275881,
   "sourceSha1": "237dd15845d9abfdcac53c69988aaf0de2e5e4ea",

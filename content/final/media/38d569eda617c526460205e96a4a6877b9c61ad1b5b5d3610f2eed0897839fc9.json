@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wonder_Tree.png",
+  "filePageId": 35255,
+  "filePageRevisionId": 99853,
+  "filePageRevisionSha1": "edaa202da4434f153bcc3edc45438d8102a3583f",
+  "filePageRevisionTimestamp": "2021-12-15T23:01:29Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Fairuse}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "21385e2abffc6a583bcf88189857628a4bcb6fe3e14db95f7f7adfab16e03808",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:Wonder Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-24T12:29:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Fairuse"
+    ],
+    "verdict": "fair-use"
+  },
   "route": "/media/File%3AWonder%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 911950,
   "sourceSha1": "5d3faccdfddcc0c004f8a025a23c2b17f00e8839",

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Products",
+    "Category:Cream Products",
+    "Category:Raspberry Products",
+    "Category:Smoothie Mixer Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Products",
+      "Category:Cream Products",
+      "Category:Raspberry Products",
+      "Category:Smoothie Mixer Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +166,12 @@
   "revisionId": 107274,
   "revisionTimestamp": "2025-02-16T17:36:45Z",
   "route": "/wiki/yogurt-smoothie-11419",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Yogurt_Smoothie",
   "title": "Yogurt Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Yogurt Smoothie.png|left|200px|Yogurt smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 70\n |price = 1 to 349\n |time = 1 h\n |source = {{Infoicon|SmoothieM|bigger|link=Smoothie Mixer}}\n |xp = 42\n |base = 97\n |dia = 4\n |time3 = 51 min\n}}\n'''Yogurt smoothies''' are [[products]] unlocked at [[experience]] level 70.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making yogurt smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nYogurt smoothies are made in the [[Smoothie Mixer]].\n\nTo make a smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|[[File:Raspberry.png|75px|link=Raspberry|Raspberries]]\n|[[File:Cherry.png|75px|link=Cherry|Cherry]]\n|[[File:White Sugar.png|75px|link=White Sugar|White sugar]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour to make one smoothie, and 51 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 42 [[experience]] points.\n----\n==='''Selling yogurt smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Yogurt smoothies can be bought or sold for a maximum price of 3,492 {{Infoicon|Coin}} for 10 smoothies.\n* Buying the ingredients required to make a smoothie costs 260 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 yogurt smoothies per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Joghurtsmoothie\n|es = Batido de yogur\n|fr = Smoothie au Yaourt\n|it = Frullato allo yogurt\n|nl = Yoghurtsmoothie\n|no = Yoghurtsmoothie\n|zh = Yogurt Smoothie\n}}\n[[pt-br:Vitamina com iogurte]]\n[[ru:Йогуртовый смузи]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Raspberry Products]]\n[[Category:Cherry Products]]",
   "wikitextHash": "6c9b2cfd4cfe03671a28db7bfa361a54413d28af3c66cb4c5a80611ae34f9dd5"
 }

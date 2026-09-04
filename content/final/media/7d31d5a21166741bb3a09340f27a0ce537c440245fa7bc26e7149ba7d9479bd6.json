@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Trap.png",
+  "filePageId": 17074,
+  "filePageRevisionId": 103504,
+  "filePageRevisionSha1": "9ae1a5bd85638503f12c1b4736e97e6eca78a660",
+  "filePageRevisionTimestamp": "2023-07-20T20:57:19Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "692a111ca4938c044b7f0e77920f2fcc133f0fb837a62a43b6f42fa059f0cda7",
   "height": 250,
   "immutableUrl": null,
   "mediaId": "File:Duck Trap.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 7,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-25T03:56:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADuck%20Trap.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 72522,
   "sourceSha1": "c828eac6cd919a655567e89c717f139430835e63",

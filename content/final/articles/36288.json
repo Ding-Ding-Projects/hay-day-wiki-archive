@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -37,11 +41,12 @@
   "revisionId": 107529,
   "revisionTimestamp": "2025-03-10T12:18:19Z",
   "route": "/wiki/vacation-mode-36288",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Vacation_Mode",
   "title": "Vacation Mode",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "==== '''Vacation Mode''' is an event triggered when a player logs in on a farm that has not been active for over 31 days and if the player has not triggered this event in the last 365 days. ====\nThis mode gives you re-engagement rewards<ref>https://support.supercell.com/hay-day/en/articles/re-engagement-rewards.html</ref> which are as follows:\n\n* 2 days of Special Offers from Visitors\n* 1 free day of Tom’s services\n* 1 free day of tree, bush and rock removal\n* 1 free Silo upgrade:\n[[File:Free Silo upgrade.jpg|alt=An image of what it looks like to get a free Silo/Barn upgrade after vacation mode|frameless|300x300px]]\n\n* 1 free Barn upgrade:\n\n[[File:Free Barn Upgrade.jpg|alt=An image of what it looks like to get a free Barn upgrade after vacation mode|frameless|300x300px]]\n* All Animals will be fed on your return",
   "wikitextHash": "5dec0c2fbc9dd0159cadefdfb09e4c5ef2887a2b060be68a10e125932dfc23b9"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Generous_Neighbor_III_Reward.png",
+  "filePageId": 25232,
+  "filePageRevisionId": 75189,
+  "filePageRevisionSha1": "7726722083b14b6a4181ff623bbe69f7ced4d50d",
+  "filePageRevisionTimestamp": "2017-11-26T14:20:29Z",
+  "filePageWikitext": "Achievements Award for the 4,000 Donations\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "82a1cbb13e1509b80db468012f4a1482258af98d9a7dccba210f5482bc3526b9",
   "height": 333,
   "immutableUrl": null,
   "mediaId": "File:Generous Neighbor III Reward.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-08-24T13:15:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGenerous%20Neighbor%20III%20Reward.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 145842,
   "sourceSha1": "24412bf8af4fb22de23f00b453940ce75ec3639f",

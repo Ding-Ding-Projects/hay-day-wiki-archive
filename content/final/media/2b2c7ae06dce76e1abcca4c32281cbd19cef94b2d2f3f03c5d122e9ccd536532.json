@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_106.png",
+  "filePageId": 25854,
+  "filePageRevisionId": 96592,
+  "filePageRevisionSha1": "6702c88bdda14ef5c4d4d1405f779ee49c137182",
+  "filePageRevisionTimestamp": "2020-12-26T18:30:34Z",
+  "filePageWikitext": "Experience Level 106 Image\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "d763e168690873189f9664b9fcb68d1381266909db0c5d6e95329dbacb1c687a",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Level 106.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-12-26T18:30:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20106.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 410814,
+  "sourceSha1": "1a3e907e64fe06feb6828f8a9552254a0631b16d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/91/Level_106.png/revision/latest?cb=20201226183034",
+  "title": "File:Level 106.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 854
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -232,11 +240,12 @@
   "revisionId": 108310,
   "revisionTimestamp": "2025-08-17T11:08:48Z",
   "route": "/wiki/banana-26401",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Banana",
   "title": "Banana",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Banana.png|200px|left|Banana]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 88\n |price = 1 to 104\n |time = 1 d 4 h\n |xp = 20\n |base = 29\n |dia = 17\n |source = {{Infoicon|bananat|bigger|link=Banana Tree}}\n}}\n'''Bananas''' are fruit [[crops]] unlocked at [[experience]] level 88. They grow on [[Banana Tree|banana trees]] and can be harvested four times. They were the last crop unlocked in the game until [[Plum|Plums]] were introduced.\n\nThey were introduced on December 12th, 2016, along with [[Grapes]].\n\nThey are used as ingredients in [[Banana Bread|banana bread]], [[Banana Pancakes|banana pancakes]], [[Banana Split|banana splits]], [[Black Sesame Smoothie|black sesame smoothies]], [[Chocolate Waffles|chocolate waffles]], [[Iced Banana Latte|iced banana lattes]], [[Tropical Smoothie|tropical smoothies]] and [[Cocoa Smoothie|cocoa smoothies]].\n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}----\n==='''Harvesting bananas'''===\n[[File:Banana Tree.png|150px|left|Banana tree]]\nThe first harvest gives two bananas, the second one three, and the other two four. After the third harvest the tree wilts.\n\nTapping on the tree places a sign on it letting other players know the tree needs to be revived. Once it is, a last harvest can be done before the tree dies. A [[saw]] is then required to cut it.\n\n{{Clr}}----\n==='''Selling bananas'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bananas can be sold or bought for a maximum price of 1,044 {{Infoicon|coin}} for ten fruit.\n* Buying a banana tree costs 800 {{Infoicon|coin}}.\n* Given all 13 bananas are collected during the four harvests, the batch can be sold for 1,357 {{Infoicon|coin}}, thus giving a profit of 557 {{Infoicon|coin}} per tree.\n\n{{Clr}}----\n==='''Using bananas'''===\nBananas are used to make the following [[products]]:\n\n{{Ingredient usage|Banana\n|Iced Banana Latte|1|88\n|Banana Bread|3|91\n|Black Sesame Smoothie|1|93\n|Banana Pancakes|1|94\n|Banana Split|1|96\n|Cocoa Smoothie|2|100\n|Tropical Smoothie|1|104\n|Chocolate Waffles|1|117\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 4 to 6 bananas per crate, up to a total of 18 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Each tree gives a maximum of 13 bananas in about 4 days and a half minimum.\n* Bananas are so rare that selling them at maximum price is recommended.\n* Recipes ask for 1 to 3 bananas so you need to have several extra trees to cover your needs. Extras can also be useful if you have boats with banana crates as you won't have time to grow up some.\n----\n\n{{Navigation}}\n{{Languages\n|de = Banane\n|es = Plátano\n|fr = Banane\n|it = Banana\n|no = Banan\n}}\n\n[[Category:Tree Crops]]",
   "wikitextHash": "d7e2bac273c4e03bb9fa966c585e3c2de09352882c96b4e5486617a7355f7e3c"
 }

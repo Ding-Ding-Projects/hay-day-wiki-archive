@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Pasta Kitchen Products",
+    "Category:Potato Products",
+    "Category:Tomato Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Pasta Kitchen Products",
+      "Category:Potato Products",
+      "Category:Tomato Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +167,12 @@
   "revisionId": 107303,
   "revisionTimestamp": "2025-02-19T22:47:13Z",
   "route": "/wiki/gnocchi-20283",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gnocchi",
   "title": "Gnocchi",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gnocchi.png|left|200px|Gnocchi]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 72\n |price = 1 to 475\n |time = 1 h 20 min\n |source = {{Infoicon|pastak|bigger|link=Pasta Kitchen}}\n |xp = 57\n |base = 132\n |dia = 4\n |time3 = 1 h 8 min\n}}\n'''Gnocchi''' is a [[products|product]] unlocked at [[experience]] level 72.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making gnocchi'''===\n[[File:Pasta Kitchen.png|150px|left|Pasta kitchen]]\nGnocchi is made in the [[Pasta Kitchen]].\n\nTo make gnocchi, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|Potatoes|link=Potato]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|-\n|'''x4'''\n|'''x3'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 1 hour and 20 minutes to make a plate of gnocchi, and 1 hour and 8 minutes in a fully [[Masteries|mastered]] kitchen. Each plate gives players 57 [[experience]] points.\n\n{{Clr}}----\n==='''Selling gnocchi'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Gnocchi can be bought or sold for a maximum price of 4,752 {{Infoicon|Coin}} for 10 plates.\n* Buying the ingredients required to make gnocchi costs 400 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 gnocchi per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Gnocchi is very hard to find in the [[Daily Dirt]].\n* Each unit takes 2 butter. Take care not to run out.\n----\n\n{{Navigation}}\n{{Languages\n|de = Gnocchi\n|es = Ñoquis\n|fr = Gnocchi\n|it = Gnocchi\n|nl = Gnocchi\n|no = Gnocchi\n|zh = Gnocchi\n}}\n[[pt-br:Nhoque]]\n[[ru:Клёцки]]\n\n[[Category:Pasta Kitchen Products]]\n[[Category:Wheat Products]]\n[[Category:Butter Products]]\n[[Category:Tomato Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "d27836719dc678644c4a11cbaa3c5e59380b9ed6b3d711fd048c4269781d2770"
 }

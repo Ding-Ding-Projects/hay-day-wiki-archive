@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies",
+    "Category:Valley Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies",
+      "Category:Valley Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -193,11 +203,12 @@
   "revisionId": 110958,
   "revisionTimestamp": "2026-08-28T14:54:19Z",
   "route": "/wiki/fuel-spin-31467",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fuel_Spin",
   "title": "Fuel Spin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\nThe '''fuel spin''' is the place where players can get fuel for their [[valley]] [[truck]]s. It can be accessed by tapping the bottom-right fuel button. It has two tabs: one where players spin the fuel wheel, and one where players can see which activities they can do to get more fuel spins.\n----\n==='''Getting fuel'''===\nPlayers can get Jerricans of fuel for free by spinning the valley wheel once every 24 hours (two times if you have Free Valley Fuel Spin Perk from [[Farm Pass]]). The wheel lets you win between 6 and 9 Jerricans with an average chance.\n\nAfter that, players can pay 5 diamonds to spin the valley wheel one more time, or collect sun points from sun activities to spin the wheel for free additionally.\n\nYou can have up to 99 Jerricans of fuel.\n----\n==='''Sun activities'''===\n[[File:Sun.png|150px|Sun|left]]\nPlayers can also get extra spins for the wheel by completing sun activities. Each players get three activities per day they can fulfill on their [[farm]] multiple times. The activities available on current day and the next day can be seen in the sun tab inside fuel spin or in [[levels]].\n\nSun activities can be:\n*Planting [[crops]]\n*Feeding farm [[animals]]\n*Filling [[boat]] crates or [[truck]] orders\n*Catching [[fish]] and placing nets and traps\n*Doing [[derby]] tasks\n\n{{Clr}}\n\nSee detailed table below.\n----\n==='''Spin cost'''===\nEach activity gives the player between 1 and 20 suns. When a player has collected a certain number of suns, they can spin the wheel another time. The number of suns players need increase as they spin the wheel. The numbers are designated for Sanctuary Animals season.\n*2nd spin: 20 suns\n*3rd spin: 50 suns\n*4th spin: 100 suns\n*5th spin: 200 suns\n*6th spin: 550 suns\n*7th spin: 1,000 suns\n*8th spin: 1,500 suns\n*9th spin: 2,100 suns\n*10th spin: 2,800 suns\n*11th spin: 3,600 suns\n*12th spin: 4,500 suns\n*13th spin: 6,000 suns\n*14th spin: 8,000 suns\n*15th spin: 10,000 suns\n*16th spin: 15,000 suns\nSince October 2024, the number of suns players need increase as they spin the wheel was reduced by 25%. The numbers are designated for Chicken Valley season.\n\n* 2nd spin: 15 suns\n* 3rd spin: 35 suns\n* 4th spin: 75 suns\n* 5th spin: 150 suns\n* 6th spin: 410 suns\n* 7th spin: 750 suns\n* 8th spin: 1,125 suns\n* 9th spin: 1,575 suns\n* 10th spin: 2,100 suns\n* 11th spin: 2,700 suns\n* 12th spin: 3,375 suns\n* 13th spin: 4,500 suns\n* 14th spin: 6,000 suns\n* 15th spin: 7,500 suns\n* 16th spin: 11,250 suns\n----\n==='''Table of sun activities'''===\nIn Chicken Valley season, sun points are double.\n{| class=\"sortable\" cellpadding=\"5\" cellspacing=\"1\" style=\"border-collapse: collapse; border: 1px solid #bbb; margin: 1em 0; max-width: 100%;\"\n! scope=\"col\" |Task\n! scope=\"col\" |No. of times\n! scope=\"col\" |Suns\n|-\n|colspan=\"3\" style=\"text-align: center; background: #ddd;\"|[[Crops]]\n|-\n|Plant [[carrot]]s||x10||1{{Infoicon|Sun}}\n|-\n|Plant [[Chili Pepper|chili peppers]]||x1||2{{Infoicon|Sun}}\n|-\n|Plant [[Chili Pepper|chili peppers]]||x2||5{{Infoicon|Sun}}\n|-\n|Plant [[corn]]||x15||1{{Infoicon|Sun}}\n|-\n|Plant [[cotton]]||x1||1{{Infoicon|Sun}}\n|-\n|Plant [[cotton]]\n|x4\n|5{{Infoicon|Sun}}\n|-\n|Plant [[indigo]]||x1||1{{Infoicon|Sun}}\n|-\n|Plant [[indigo]]||x4||5{{Infoicon|Sun}}\n|-\n|Plant [[lettuce]]||x1||1{{Infoicon|Sun}}\n|-\n|Plant [[potato]]es||x1||1{{Infoicon|Sun}}\n|-\n|Plant [[pumpkin]]||x1||1{{Infoicon|Sun}}\n|-\n|Plant [[pumpkin]]s||x4||5{{Infoicon|Sun}}\n|-\n|Plant [[soybean]]s||x5||1{{Infoicon|Sun}}\n|-\n|Plant [[Strawberry|strawberries]]||x1||2{{Infoicon|Sun}}\n|-\n|Plant [[strawberry|strawberries]]||x2||5{{Infoicon|Sun}}\n|-\n|Plant [[sugarcane]]||x3||1{{Infoicon|Sun}}\n|-\n|Plant [[wheat]]||x25||1{{Infoicon|Sun}}\n|-\n|colspan=\"3\" style=\"text-align: center; background: #ddd;\"|[[Derby]]\n|-\n|Complete a derby task worth over 235 points||x1||20{{Infoicon|Sun}}\n|-\n|colspan=\"3\" style=\"text-align: center; background: #ddd;\"|Farm [[animals]]\n|-\n|Feed any farm animal||x5||1{{Infoicon|Sun}}\n|-\n|Feed any farm animal||x10||3{{Infoicon|Sun}}\n|-\n|Feed [[chicken]]s||x5||1{{Infoicon|Sun}}\n|-\n|Feed [[cow]]s||x2||1{{Infoicon|Sun}}\n|-\n|Feed [[cow]]s||x5||3{{Infoicon|Sun}}\n|-\n|Feed [[pig]]s||x1||2{{Infoicon|Sun}}\n|-\n|Feed [[goat]]s||x1||2{{Infoicon|Sun}}\n|-\n|Feed [[Goat|goats]]\n|x2\n|5{{Infoicon|Sun}}\n|-\n|Feed [[sheep]]\n|x1\n|2{{Infoicon|Sun}}\n|-\n|Feed [[sheep]]\n|x2\n|5{{Infoicon|Sun}}\n|-\n|colspan=\"3\" style=\"text-align: center; background: #ddd;\"|Fishing activities\n|-\n|Catch [[fish]]||x1||2{{Infoicon|Sun}}\n|-\n|Catch [[fish]]||x4||10{{Infoicon|Sun}}\n|-\n|Place [[Duck Trap|duck traps]] or [[Lobster Trap|lobster traps]]||x1||10{{Infoicon|Sun}}\n|-\n|Cast [[Fishing Net|fishing nets]] or [[Mystery Net|mystery nets]]||x1||15{{Infoicon|Sun}}\n|-\n|Produce fish [[lure]]||x1||8{{Infoicon|Sun}}\n|-\n|colspan=\"3\" style=\"text-align: center;  background: #ddd;\"|Orders\n|-\n|Fill [[boat]] crates||x1||2{{Infoicon|Sun}}\n|-\n|Fill [[boat]] crates||x4||10{{Infoicon|Sun}}\n|-\n|Fill [[truck]] orders||x1||2{{Infoicon|Sun}}\n|-\n|Fill [[truck]] orders||x4||10{{Infoicon|Sun}}\n|}\n\n----\n==='''Strategy tips'''===\n*You cannot store more than 99 fuel, so use them and have a maximum of 90 fuel before you spin again! Or else, excess fuel is discarded (94 + 6 = 99, 1 fuel discarded)\n----\n\n{{Languages\n|es = Estación de servicio\n}}\n[[Category:Supplies]]\n[[Category:Valley Buildings]]",
   "wikitextHash": "703f08086e49b10e188b40ef6734eabda5909defaab03ef25c0d668395232578"
 }

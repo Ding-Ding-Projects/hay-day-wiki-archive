@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brown_Baby_Reindeer.png",
+  "filePageId": 34993,
+  "filePageRevisionId": 109814,
+  "filePageRevisionSha1": "d9f3ac18d7dffa9ac51d772eb1331df2f529bc08",
+  "filePageRevisionTimestamp": "2026-05-07T19:57:42Z",
+  "filePageWikitext": "\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "fbd705882f698bec21e3e78072f62c58e604131ec7dd4a7db713a36d302cb8d5",
+  "height": 747,
+  "immutableUrl": null,
+  "mediaId": "File:Brown Baby Reindeer.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-07-03T09:54:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ABrown%20Baby%20Reindeer.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 231503,
+  "sourceSha1": "f8dc37d10081ebf9752b1f79ca312c884863c908",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Brown_Baby_Reindeer.png/revision/latest?cb=20210703095436",
+  "title": "File:Brown Baby Reindeer.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 606
+}

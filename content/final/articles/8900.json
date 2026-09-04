@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -400,11 +408,12 @@
   "revisionId": 109220,
   "revisionTimestamp": "2026-01-25T11:01:39Z",
   "route": "/wiki/salad-bar-8900",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Salad_Bar",
   "title": "Salad Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 58\n |price = 165,000\n |time = 2 d\n |slots = 2\n |dia = 65\n |size = 3×3\n}}[[File:Salad Bar.png|200px|left]]\nThe '''Salad Bar''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 58.\n\nIt is used to make [[Feta Salad|feta salad]], [[BLT Salad|BLT salad]], [[Seafood Salad|seafood salad]], [[Pasta Salad|pasta salad]], [[Veggie Platter|veggie platters]], [[Summer Rolls|summer rolls]], [[Fruit Salad|fruit salad]], [[Summer Salad|summer salad]] and[[Mushroom Salad| mushroom salad]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 165,000 {{Infoicon|coin}} and takes 2 days (or 65 {{Infoicon|dia}}) to build the Salad Bar. It gives players 32 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Feta Salad|58|1:30|745\n|Bean Salad|58|1h|169\n|BLT Salad|62|1:45|723\n|Seafood Salad|64|2h|763\n|Pasta Salad|67|2:30|759\n|Veggie Platter|74|2h|266\n|Coleslaw|75|1:15|468\n|Beetroot Salad|76|45m|234\n|Summer Rolls|78|1h|316\n|Fruit Salad|82|2h|597\n|Summer Salad|84|3h|554\n|Mushroom Salad|89|1h|216\n|Orange Salad|117|45m|558\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Salad Bar originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Salad Bar:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Salad Bar Mastered.png|150px|Mastered Salad Bar]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Salad Bar Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*All types of salad, other than the mushroom salad, require at least one manufactured product to be made: [[Fresh Pasta|fresh pasta]], [[Goat Cheese|goat cheese]], [[mayonnaise]], [[Olive Oil|olive oil]] or [[Roasted Tomatoes|roasted tomatoes]]. You need to time your production to make sure you have these in stock (or find them in the [[Daily Dirt]], which can happen for [[Fresh Pasta|fresh pasta]] and [[Roasted Tomatoes|roasted tomatoes]]).\n* You can speed up the production of the Salad Bar using a green [[booster]].\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Salattheke\n|es = Puesto de ensaladas\n|fr = Comptoir à Salades\n|it = Banco insalate\n|no = Salatbar\n|zh = Salad Bar\n}}\n[[pt-br:Balcão de saladas]]\n[[ru:Салатный бар]]\n[[Category:Production Buildings]]",
   "wikitextHash": "282ced0833a00172c71a8c74688dba5964b8153601416b40e3c4b460db500560"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ski_Jumper.png",
+  "filePageId": 35271,
+  "filePageRevisionId": 99381,
+  "filePageRevisionSha1": "8887475f59447003d18bcfdfbe9c697b672c74c5",
+  "filePageRevisionTimestamp": "2021-11-14T19:14:59Z",
+  "filePageWikitext": "== Summary ==\nWinter 2021 package decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3dd3135c7d34692de0c6c5de7965ce92b50d778c52e482675b6d7d291d7e095f",
   "height": 480,
   "immutableUrl": null,
   "mediaId": "File:Ski Jumper.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-11-14T13:45:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASki%20Jumper.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 452975,
   "sourceSha1": "c8f9ef418305491062e7eb92172aad9b266af167",

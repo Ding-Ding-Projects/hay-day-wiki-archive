@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Truck_Bonus_Upgrade.png",
+  "filePageId": 32076,
+  "filePageRevisionId": 89296,
+  "filePageRevisionSha1": "410dbaccf191d5dda2871442c563586e2c9e1806",
+  "filePageRevisionTimestamp": "2019-10-28T15:21:58Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "385787885ea02daef7d67fa99846171b3753bb0475464170f229beccc4bc7254",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Truck Bonus Upgrade.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T15:21:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATruck%20Bonus%20Upgrade.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 82213,
   "sourceSha1": "da87544ad59846d85f33c4931aa6b47abb91cbcf",

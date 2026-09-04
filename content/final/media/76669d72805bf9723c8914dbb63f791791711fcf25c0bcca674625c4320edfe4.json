@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_112.png",
+  "filePageId": 26773,
+  "filePageRevisionId": 107175,
+  "filePageRevisionSha1": "9dcea2658426e45d33b2d8559a97b97ca01fb21a",
+  "filePageRevisionTimestamp": "2025-02-07T18:05:28Z",
+  "filePageWikitext": "Experience Level 112 Image\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "eb3f30b69507e2d938b774812d28e07508aa769b51eb27bd6d426d61fcfd75c3",
+  "height": 570,
+  "immutableUrl": null,
+  "mediaId": "File:Level 112.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-02-07T18:05:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20112.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 361068,
+  "sourceSha1": "935df441c9436d94e8e67c13277a588e71103de0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/20/Level_112.png/revision/latest?cb=20250207180528",
+  "title": "File:Level 112.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 795
+}

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Caramel Apple Products",
+    "Category:Flower Shop Products",
+    "Category:Peony Products",
+    "Category:Toffee Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Caramel Apple Products",
+      "Category:Flower Shop Products",
+      "Category:Peony Products",
+      "Category:Toffee Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +149,12 @@
   "revisionId": 107920,
   "revisionTimestamp": "2025-05-27T13:04:30Z",
   "route": "/wiki/candy-bouquet-29356",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Candy_Bouquet",
   "title": "Candy Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Candy Bouquet.png|left|200px|Candy bouquet]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 90\n |price = 1 to 554\n |time = 20 min\n |xp = 66\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |base = 154\n |dia = 2\n |time3 = 17 min\n}}\n'''Candy bouquets''' are [[products]] unlocked at [[experience]] level 90.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making candy bouquets'''===\n[[File:Flower Shop.png|150px|left|Flower Shop]]\nCandy bouquets are made in the [[Flower Shop]].\n\nTo make a bouquet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peony.png|75px|Peonies|link=Peony]]\n|[[File:Caramel Apple.png|75px|Caramel apple|link=Caramel Apple]]\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 20 minutes to make a candy bouquet, and 17 minutes in a fully [[Masteries|mastered]] shop. Each bouquet gives players 66 [[experience]] points.\n\n{{Clr}}----\n==='''Selling candy bouquets'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Candy bouquets can be bought or sold for a maximum price of 5,544 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a candy bouquet costs 539 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 candy bouquets per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Süßer Strauß\n|es = Ramo de caramelos\n|fr = Bouquet de Bonbons\n|it = Bouquet di dolci\n|nl = Snoepboeket\n|no = Godteribukett\n|ru = Букет из конфет\n|zh = Candy Bouquet\n}}\n[[pt-br:Buquê de doces]]\n[[Category:Flower Shop Products]]\n[[Category:Caramel Apple Products]]\n[[Category:Toffee Products]]\n[[Category:Peony Products]]",
   "wikitextHash": "277646308ca2437c58bc0394cbf68981db917f7f8376beccc3670e650ea13f2e"
 }

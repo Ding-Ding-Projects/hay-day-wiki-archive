@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +179,12 @@
   "revisionId": 110480,
   "revisionTimestamp": "2026-06-08T20:01:19Z",
   "route": "/wiki/chicken-coop-2715",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chicken_Coop",
   "title": "Chicken Coop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chicken Coop.png|200px|left|Chicken coop]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 1 • 12 • 23\n |price = 5\n |houses = {{Infoicon|chicken|big|link=Chicken}} x6\n}}\n'''Chicken coop''' are shelters for [[chicken]]s. The first coop is unlocked at [[experience]] level 1. It is the first shelter to be unlocked in the game.\n{{Clr}}\n----\n\n==='''Appearance'''===\nThe coop is a fenced square, on plain ground, along with a manger and a red chicken house. However, chickens are fed individually with [[Chicken Feed|chicken feed]] and do not use the manger. They do not get into the house either.\n----\n==='''Building'''===\nEach coop costs 5 {{Infoicon|coin}} and can hold up to six chickens. The second coop is unlocked at level 12, and the last one at level 23. Building them takes no time.\n----\n==='''Strategy tips'''===\n* If you have some object obscuring your view of the chickens tap on the pen. If the harvest or feed icon are in color then you can harvest or feed at least one chicken.\n----\n{{Navigation}}\n{{Languages\n|de = Hühnergatter\n|es = Gallinero\n|fr = Poulailler\n|it = Pollaio\n|no = Hønsegård\n|ru = Курятник\n|zh = 鸡舍\n}}\n[[pt-br:Galinheiro]]\n\n[[Category:Animal Shelters]]",
   "wikitextHash": "fb35668aab44c77431c98ba50c82e7d68799190a955d925cb162a1e67cac7f54"
 }

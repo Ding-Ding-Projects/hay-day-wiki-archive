@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Global_Help_Event.png",
+  "filePageId": 31318,
+  "filePageRevisionId": 85681,
+  "filePageRevisionSha1": "410dbaccf191d5dda2871442c563586e2c9e1806",
+  "filePageRevisionTimestamp": "2019-05-12T21:16:42Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "385787885ea02daef7d67fa99846171b3753bb0475464170f229beccc4bc7254",
   "height": 222,
   "immutableUrl": null,
   "mediaId": "File:Global Help Event.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-05-12T21:16:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGlobal%20Help%20Event.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 75760,
   "sourceSha1": "cdefd29f75eedc793384ae9275ebd348b6853e42",

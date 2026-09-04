@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Honey Products",
+    "Category:Oats Products",
+    "Category:Plain Yogurt Products",
+    "Category:Yogurt Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Honey Products",
+      "Category:Oats Products",
+      "Category:Plain Yogurt Products",
+      "Category:Yogurt Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 110298,
   "revisionTimestamp": "2026-05-31T18:18:55Z",
   "route": "/wiki/breakfast-bowl-35897",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Breakfast_Bowl",
   "title": "Breakfast Bowl",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Breakfast Bowl.png|left|200x200px|Breakfast Bowl]]\n{{Infobox\n  |level = 119\n  |price = 1 to 604\n  |time = 50 min\n  |xp = 72\n  |source = {{Infoicon|yogurtm|bigger|link=Yogurt Maker}}\n  |base = 168\n  |dia = 3\n  |time3 = 42 min\n  |title = [[Products|product]]\n}}\n\n'''Breakfast Bowl''' is a [[Products|product]] unlocked at [[experience]] level 119. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Breakfast Bowls'''===\n[[File:Yogurt Maker.png|150px|left|Yogurt Maker]]\nBreakfast Bowls are made in the [[Yogurt Maker]].\n\nTo make the breakfast bowls, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Yogurt.png|75px|Plain yogurt|link=Plain Yogurt]]\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Blackberry.png|75px|Blackberries|link=Blackberry]]\n|-\n|'''x1'''\n|'''x4'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 50 minutes to make one bowl, and 42 minutes in a fully [[Masteries|mastered]] yogurt maker. Each yogurt gives players 72 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Breakfast Bowls'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Breakfast Bowls can be bought or sold for a maximum price of 6,048 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a Breakfast Bowl costs 580 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Breakfast Bowls per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n=== '''Did you know?''' ===\n*\n{{Navigation}}\n{{Languages\n|de = Frühstücksschüssel\n|es = Bol de desayuno\n|it = Colazione\n|nl = Ontbijtkom\n|no = Frokostbolle\n|ru = Ленивая овсянка\n}}\n[[pt-br:Café da manhã]]\n\n[[Category:Yogurt Maker Products]]\n[[Category:Plain Yogurt Products]]\n[[Category:Oats Products]]\n[[Category:Honey Products]]\n[[Category:Blackberry Products]]\n__INDEX__",
   "wikitextHash": "dcb83f2a6a75ee6053ef06f5a309ed779668197ddfb4aa8390450393ff3cf631"
 }

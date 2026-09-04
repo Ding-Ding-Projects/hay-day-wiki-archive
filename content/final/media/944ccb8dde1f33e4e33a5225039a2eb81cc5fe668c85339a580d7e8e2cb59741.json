@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Update_June_2016.png",
+  "filePageId": 29418,
+  "filePageRevisionId": 78491,
+  "filePageRevisionSha1": "f19e2f3b37780aac0eadabf174c0185a42e8cc57",
+  "filePageRevisionTimestamp": "2018-04-16T12:11:44Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "c0482be4b9b64f34959d5dafa722200468de73d84227b0ed6857136e5eb75ebd",
   "height": 549,
   "immutableUrl": null,
   "mediaId": "File:Update June 2016.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-16T12:09:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AUpdate%20June%202016.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 940770,
   "sourceSha1": "78f02d9ca6afe6cd8fb08d8ccd00b742746ec2da",

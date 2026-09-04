@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb.png",
+  "filePageId": 36749,
+  "filePageRevisionId": 109983,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2026-05-11T19:40:15Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 811,
   "immutableUrl": null,
   "mediaId": "File:Lamb.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-10T12:23:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALamb.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 407517,
   "sourceSha1": "fcff5c462a2324a90ada451008a9924a54f92f9c",

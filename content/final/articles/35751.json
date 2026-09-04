@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 102637,
   "revisionTimestamp": "2023-04-01T15:33:02Z",
   "route": "/wiki/category%2Fcategory-plain-waffles-products-35751",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Plain_Waffles_Products",
   "title": "Category:Plain Waffles Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Plain Waffles.png|thumb]]\nProducts of [[Plain Waffles]].\n[[Category:Products]]",
   "wikitextHash": "50d6faf279b4fe52773e597c82878cf213513c33962892da214553ffdad74a5c"
 }

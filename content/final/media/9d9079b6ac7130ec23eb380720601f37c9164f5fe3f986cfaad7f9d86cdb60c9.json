@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Aloe_Plant.png",
+  "filePageId": 28028,
+  "filePageRevisionId": 73954,
+  "filePageRevisionSha1": "fce2e8e83828b6a51cb31180b78566b192c1fe46",
+  "filePageRevisionTimestamp": "2017-10-22T09:57:33Z",
+  "filePageWikitext": "== Summary ==\nAloe Plant\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1fce5ab3e86e8ae580a807913391af7f0112b3dbbb50fde32251ee2b69a0ef74",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Aloe Plant.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:39:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAloe%20Plant.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 237271,
   "sourceSha1": "5beb7478d1f979fb70b436b1109a282e51dc0147",

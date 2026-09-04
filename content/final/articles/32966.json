@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Rice Products",
+    "Category:Wok Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Rice Products",
+      "Category:Wok Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -120,11 +132,12 @@
   "revisionId": 109066,
   "revisionTimestamp": "2026-01-06T23:07:53Z",
   "route": "/wiki/fried-rice-32966",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fried_Rice",
   "title": "Fried Rice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fried Rice.png|200px|left|Fried rice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 69\n |price = 1 to 205\n |time = 1 h\n |source = {{Infoicon|wokk|bigger|link=Wok Kitchen}}\n |xp = 24\n |base = 57\n |dia = 4\n |time3 = 51 min\n}}\n'''Fried rice''' is a [[Products|product]] unlocked at [[experience]] level 69. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making fried rice'''===\n[[File:Wok Kitchen.png|150px|left|Wok Kitchen]]\nFried rice is made in the [[Wok Kitchen]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Rice.png|75px|Rice|link=Rice]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x5'''\n|'''x5'''\n|}\nIt takes 1 hour to make one bowl, and 51 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 24 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fried rice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Fried rice can be bought or sold for a maximum price of 2052 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make fried rice costs 180 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 3 bowls per crate, up to a total of 9 per boat (for three crates).\n** 2 bowls per crate, up to a total of 8 per boat (for four crates).\n\n{{Clr}}----\n\n{{Navigation}}\n\n{{Languages\n|de = Gebratener Reis\n|es = Arroz frito\n|fr = Riz Frit\n|it = Riso fritto\n|nl = Gebakken Rijst\n|no = Stekt ris\n|zh = Fried Rice\n}}\n[[pt-br:Arroz frito]]\n[[ru:Жареный рис]]\n\n[[Category:Wok Kitchen Products]]\n[[Category:Egg Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "0d9a8eca6add59ab5bfec2abb233e7b8de911ca63904dea6f08089deb25773d4"
 }

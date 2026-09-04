@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -109,11 +119,12 @@
   "revisionId": 110759,
   "revisionTimestamp": "2026-07-16T19:12:22Z",
   "route": "/wiki/train-station-13239",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Train_Station",
   "title": "Train Station",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\nThe '''train stations''' are buildings in the player's [[farm]] and [[town]]. The '''farm station''' lets players go to the [[town]] while the '''town station''' lets [[Town Visitors|town visitors]] visit the player's town.\n\nThey are both unlocked at [[experience]] level 34.\n----\n==='''The farm station and the town order board'''===\n[[File:Farm Train Station.png|The farm station|left|150px]]\n[[File:Town Order Board.png|The order board|left|150px]]\nThe farm station lets players go to the [[town]] area.\n\nRepairing the station costs 20,000 [[coin]]s and takes 5 minutes (or 10 [[diamond]]s) after the initial repair players are given 39 [[experience]] points.\n\nNext to the station is an order board which let players know what [[Town Visitors|town visitors]] require for their orders when they tap on it. Otherwise it shows a smiley face when all visitors are satisfied, a green check mark when players have all the items required for waiting customers or an exclamation mark when they do not.\n{{Clr}}\n----\n==='''The town station'''===\n{{Main|Town Station}}\n[[File:Train Station.png|Town station|left|150px]]\nThe town station lets [[Town Visitors|town visitors]] get off the EGGspress train into the player's [[town]]. Repairing this station is free.\n\nThe town station lets players know when to expect the next train, and how many visitors will be on that train. Upgrading the station increases the capacity of the EGGspress train.\n{{Clr}}\n----\n==='''The EGGspress train'''===\n{{Main|EGGspress Train}}\n[[File:EGGspress Train.png|left|150px]]\nThe EGGspress train brings and takes back town visitors. It comes every six hours and initially bring 3 visitors.\n\nUpgrading the train station increases its capacity. Waiting time cannot be decreased, though.\n{{Clr}}\n----\n==='''The personal train'''===\n{{Main|Personal Train}}\n[[File:Personal Train.png|left|150px|The personal train]]\nThe personal train lets players pick up visitors from [[Neighborhood|neighboring towns]], including Greg's, to bring them to their town. \n\nThe personal train can be upgraded with refined coal and metal bars. With each upgrade players can choose whether to increase the number of visitors (to maximum of 10) who can be picked up or shorten the maintenance time of the train (to minimum of 1.5 hour). \n{{Clr}}\n----\n==='''References'''===\n*[https://supercell.helpshift.com/a/hay-day/?p=web&s=welcome-to-the-town&f=town-hall-train-station-and-personal-train-capacity Supercell Player Support: Town hall, Train station and Personal Train capacity]\n<references />\n----\n{{Navigation}}\n[[ru:Платформа]]\n{{Languages\n|de = Bahnhof\n|es = Estación de tren\n|fr = La Gare\n|it = Stazione\n}}\n[[Category:Town Buildings]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "d2e8677c73cc2e73134eeded71993cf073c861ebf7095571209cfbf283515c09"
 }

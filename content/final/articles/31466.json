@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Currencies",
+    "Category:Valley"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Currencies",
+      "Category:Valley"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -111,11 +121,12 @@
   "revisionId": 104167,
   "revisionTimestamp": "2023-11-07T11:05:24Z",
   "route": "/wiki/token-31466",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Token",
   "title": "Token",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n'''Tokens''' are the main currency of the [[valley]]. They allow players to buy items in the [[Valley Shop|valley shop]]. They are unlocked at [[experience]] level 25.\n----\n==='''Types of tokens'''===\nTokens come in three colors and three shapes. They are blue token, green token and pink token.\n<gallery>\nBlue Token.png\nGreen Token.png\nPink Token.png\n</gallery>\n----\n==='''Getting tokens'''===\nPlayers can get tokens by fulfilling various requests from [[valley]] buildings such as:\n*Complete delivery quest\n*Complete product request\n*Complete cooperative quest\n*Sanctuary animals theme season only: Pick up animals, drive to animals collection point, remove them. This action gives a lot of tokens.\n*Finding it randomly on the road\n*Fix other players' broken truck\n*End of season: From [[Piggy Bank]]\n\n----\n==='''Spending tokens'''===\n{{Main|Valley Shop}}\n\nPlayers can only spend tokens at [[Valley Shop]]. They can buy items in normal store at any time, or at seasonal store when the season ends. Players are not allowed to accumulate tokens across seasons.\n----\n\n{{Navigation}}\n[[ru:Жетоны]]\n{{Languages\n|es = Ficha\n}}\n[[Category:Currencies]]\n[[Category:Valley]]",
   "wikitextHash": "371b4a11b56fa7529720bd018329e39f2356427400e9fb54e938396f910575be"
 }

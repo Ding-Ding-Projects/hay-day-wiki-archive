@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -331,11 +339,12 @@
   "revisionId": 110938,
   "revisionTimestamp": "2026-08-24T16:24:22Z",
   "route": "/wiki/sugarcane-2080",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sugarcane",
   "title": "Sugarcane",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sugarcane.png|200px|left|Sugarcane]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 7\n |price = 1 to 14\n |time = 30 min\n |xp = 3\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 4\n |dia = 3\n}}\n'''Sugarcane''' is a field [[crops|crop]] unlocked at [[experience]] level 7.\n\nIt is exclusively used to make sugar and syrup in the [[Sugar Mill]], and cannot be combined with any other [[products|product]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 210 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing sugarcane'''===\nSugarcane are grown in [[Farm|fields]] by planting another sugarcane plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 {{Infoicon|xp}} points, and takes 30 minutes to mature.\n<gallery>\nSugarcane Stage 1.png\nSugarcane Stage 2.png\nSugarcane Stage 3.png\nSugarcane Stage 4.png\nSugarcane Stage 5.png\n</gallery>\n----\n==='''Selling sugarcane'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Sugarcane can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n==='''Using sugarcane'''===\nSugarcane is used to make the following [[products]]:\n\n{{Item Usage|Sugarcane\n|Brown Sugar|1|7\n|White Sugar|2|13\n|Syrup|4|18\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 14 to 31 sugarcane per crate, up to a total of 116 per boat.\n* Each unit of sugarcane gives players 6 coins and 4 experience points in boat orders.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Sugarcane is uncommon enough that selling it at a lower price is not necessary.\n* Sugarcane can often be found in the [[Daily Dirt]], but sells very quickly.\n* Sugar requires one or two units while syrup needs 4 units. You need to make a lot of sugar in the game so storing lots of sugarcane is recommended.\n* You can also earn coins by harvesting sugarcane and selling sugar and syrup at maximum price in your shop.\n----\n{{Navigation}}\n{{Languages\n|de = Zuckerrohr\n|es = Caña de azúcar\n|fi = Sokeriruoko\n|fr = Canne à Sucre\n|it = Canna da zucchero\n|nl = Suikerriet\n|no = Sukkerrør\n|ru = Сахарный тростник\n|sv = Sockerrör\n|vi = Sugarcane\n|zh = 甘蔗\n}}\n[[pt-br:Cana-de-açúcar]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "61ffad11f4d2a27072bae0500366e555ee9f7077dde39d9a11fce2d5f6332a1a"
 }

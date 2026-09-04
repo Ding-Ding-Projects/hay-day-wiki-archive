@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lure Workbench Products",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lure Workbench Products",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -201,11 +211,12 @@
   "revisionId": 108694,
   "revisionTimestamp": "2025-09-29T22:14:05Z",
   "route": "/wiki/blue-lure-30470",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blue_Lure",
   "title": "Blue Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blue Lure.png|200px|left|Blue lure]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 27\n |time = 1 hrs\n |source = [[File:Lure Workbench.png|45px|link=Lure Workbench]]\n |xp = 3\n |dia = ?\n |time3 = 51 mins\n}}\n'''Blue lures''' are [[products]] unlocked at [[experience]] level 27. They are used to lure [[fish]].\n\nThey are stored in the [[Tackle Box|tackle box]].\n\n{{Clr}}----\n==='''Making blue lures'''===\n[[File:Lure Workbench.png|150px|left|Lure Workbench]]\nBlue lures are made in the [[Lure Workbench]].\n\nTo make a blue lure, players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Voucher.png|75px|BLue Voucher]]\n|-\n|'''x1'''\n|}\nIt takes 1 hours to make one lure, and 51 minutes in a fully [[Masteries|mastered]] machine. Each lure gives players 3 [[experience]] points.\n\n{{Clr}}----\n==='''Using blue lures'''===\n{{Note|<nowiki>T=Tablet, MB=Mobile followed by the page number.</nowiki>}}\nBlue lures can fish the following [[fish]]:\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"text-align: center; margin: .5em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #ddd;\"\n|[[File:Fallfish.png|75px|link=Fallfish|Fallfish]]\n|[[File:Salmon.png|75px|link=Salmon|Salmon]]\n|[[File:Bluegill.png|75px|link=Bluegill|Bluegill]]\n|[[File:Bluespotted Sunfish.png|75px|link=Bluespotted Sunfish|Bluespotted Sunfish]]\n|- style=\"background: #ddd;\"\n|'''[[Fallfish]]'''\n|'''[[Salmon]]'''\n|'''[[Bluegill]]'''\n|'''[[Bluespotted Sunfish]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#4 - MB#6\n|T#4 - MB#7\n|T#5 - B#8\n|T#6 - B#10\n|- style=\"background: #ddd;\"\n|[[File:Rainbow Smelt.png|75px|link=Rainbow Smelt|Rainbow Smelt]]\n|[[File:Sauger.png|75px|link=Sauger|Sauger]]\n|[[File:Yellow Bass.png|75px|link=Yellow Bass|Yellow Bass]]\n|[[File:Brook Trout.png|75px|link=Brook Trout|Brook Trout]]\n|- style=\"background: #ddd;\"\n|'''[[Rainbow Smelt]]'''\n|'''[[Sauger]]'''\n|'''[[Yellow Bass]]'''\n|'''[[Brook Trout]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#9 - MB#17\n|T#10 - MB#19\n|T#12 - MB#22\n|T#14 - MB#26\n|- style=\"background: #ddd;\"\n|[[File:Northern Studfish.png|75px|link=Northern Studfish|Northern Studfish]]\n|[[File:Striped Bass.png|75px|link=Striped Bass|Striped Bass]]\n|[[File:Giant Barb.png|75px|link=Giant Barb|Giant Barb]]\n|[[File:Lake Sturgeon.png|75px|link=Lake Sturgeon|Lake Sturgeon]]\n|- style=\"background: #ddd;\"\n|'''[[Northern Studfish]]'''\n|'''[[Striped Bass]]'''\n|'''[[Giant Barb]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|'''[[Lake Sturgeon]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|- style=\"border: 1px solid #ccc;\"\n|T#15 - MB#29\n|T#16 - MB#30\n|T#17 - MB#33\n|T#18 - MB#34\n|- style=\"background: #ddd;\"\n|[[File:Nile Perch.png|75px|link=Nile Perch|Nile Perch]]\n|[[File:White Catfish.png|75px|link=White Catfish|White Catfish]]\n|[[File:Lake Whitefish.png|75px|link=Lake Whitefish|Lake Whitefish]]\n|[[File:Quillback.png|75px|link=Quillback|Quillback]]\n|- style=\"background: #ddd;\"\n|'''[[Nile Perch]]'''\n<span style=\"color: #FF4500;\">★★★</span><br />\n|'''[[White Catfish]]'''\n|'''[[Lake Whitefish]]'''\n|'''[[Quillback]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#19 - MB#36\n|T#20 - MB#38\n|T#22 - MB#42\n|T#22 - MB#43\n|- style=\"background: #ddd;\"\n|[[File:Perch.png|75px|link=Perch|Perch]]\n|\n|\n|\n|- style=\"background: #ddd;\"\n|'''[[Perch]]'''\n|\n|\n|\n|- style=\"border: 1px solid #ccc;\"\n|T#23 - MB#44\n|\n|\n|\n|}\n----\n==='''Tips'''===\n*Lures cannot be bought or sold in the roadside shop, but can be traded between [[Neighborhood|neighbors]].\n*[[Boat]]s never ask for lures.<big>\n'''Trivia'''</big>\n*The Blue Lure probably resembles a dragonfly.\n*Despite being called a ‘blue’ lure, the blue lure is cyan.\n*Using a glitch related to having multiple farms, it is actually possible to acquire blue lures before level 27 using Neighborhood Requests.\n----\n{{Navigation}}\n{{Languages\n|de = Blauer Köder\n|es = Cebo azul\n|fr = Appât bleu\n|it = Esca blu\n|nl = Blauw Kunstaas\n|no = Blå sluk\n|ru = Синяя приманка\n|zh = Blue Lure\n}}\n[[Category:Lure Workbench Products]]",
   "wikitextHash": "654d5b595df6561dee8dd15f5cfa42efa86539c45fa07fd85d7ba98f7556435c"
 }

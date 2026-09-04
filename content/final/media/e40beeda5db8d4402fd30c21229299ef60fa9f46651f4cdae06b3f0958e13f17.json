@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_150.png",
+  "filePageId": 27514,
+  "filePageRevisionId": 75726,
+  "filePageRevisionSha1": "85cd453f43485d1613a3d76e8af1832dbdd08bca",
+  "filePageRevisionTimestamp": "2017-11-26T17:31:20Z",
+  "filePageWikitext": "== Summary ==\nExperience Level 150 Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5017ac1db8c8b1323749413fa3cf586037e6a71c57a8c3f437140a5821668d03",
   "height": 532,
   "immutableUrl": null,
   "mediaId": "File:Level 150.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-26T13:11:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20150.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1113332,
   "sourceSha1": "efd2f93d6f9681fd25e92b7d6a98593dbb2dedb1",

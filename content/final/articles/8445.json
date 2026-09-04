@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Cream Products",
+    "Category:Lobster Tail Products",
+    "Category:Soup Kitchen Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Cream Products",
+      "Category:Lobster Tail Products",
+      "Category:Soup Kitchen Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 106206,
   "revisionTimestamp": "2024-11-04T23:36:50Z",
   "route": "/wiki/lobster-soup-8445",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster_Soup",
   "title": "Lobster Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster Soup.png|200px|left|Lobster soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 46\n |price = 1 to 612\n |time = 2 h 30 min\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 73\n |base = 170\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Lobster soup''' is a [[Products|product]] unlocked at [[experience]] level 46.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making lobster soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nLobster soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lobster Tail.png|75px|Lobster tails|link=Lobster Tail]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Chili Pepper.png|75px|Chili peppers|link=Chili Pepper]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours and 30 minutes to make one bowl of lobster soup, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 73 [[experience]] points.\n\n{{Clr}}----\n==='''Selling lobster soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lobster soup can be bought or sold for a maximum price of 6,120 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make lobster soup costs 567 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 lobster soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Hummersuppe\n|es = Sopa de langosta\n|fr = Bisque de Homard\n|it = Zuppa di aragosta\n|nl = Kreeftensoep\n|no = Hummersuppe\n|zh = Lobster Soup\n}}\n[[pt-br:Sopa de lagosta]]\n[[ru:Суп из раков]]\n[[Category:Soup Kitchen Products]]\n[[Category:Cream Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Tomato Products]]\n[[Category:Lobster Tail Products]]",
   "wikitextHash": "f7fbdabd827b86a56251c8ebbaef339a1d5509f2b2d017189a9009312f049dbf"
 }

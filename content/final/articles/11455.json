@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -298,11 +306,12 @@
   "revisionId": 106905,
   "revisionTimestamp": "2025-01-16T21:38:42Z",
   "route": "/wiki/black-bullhead-11455",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Black_Bullhead",
   "title": "Black Bullhead",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Black Bullhead.png|200px|left|Black bullhead]]\n\n{{Infobox\n |level = 27|lures = {{Infoicon|greenl|big|link=Lure}} {{Infoicon|goldl|big|link=Lure}}|spots = 9, 13, 14|circle = small|xp = 14|title = [[Animals|Animal]]}}\n'''Black bullheads''' are a type of [[fish]].\n\nLike all types of fish, each black bullhead gives one [[Fish Fillet|fish fillet]] when caught.\n\n{{Clr}}----\n==='''Catching black bullheads'''===\nBlack bullheads can only be caught with green or gold [[lure]]s in swampy fishing spots (fishing spots #9, #13, #14 in map).\n\nBlack bullheads is caught in small circles and therefore are harder to catch.\n\nSee [[Fishing List]] for more detailed information.\n\n[[File:FishingMap Names.png|350px|left]]\n{{Clr}}\n----\n==='''Black bullheads in the fishing book'''===\n[[File:Black Bullhead Photo.png|150px|left|Fishing book photo]]\nThe black bullhead is on page 20 (tablet) or 39 (mobile) of the [[Fishing Book|fishing book]]:\n\n''This night owl loves to sleep in - wake him up, he'll be sour!''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Schwarzer Zwergwels\n|es = Pez gato negro\n|no = Svart dvergmalle\n}}\n[[Category:Fish]]",
   "wikitextHash": "7e696e25a1a1b3b25917e5272c00f13d725b4a0b5db386c348cc4ab8f2035cb2"
 }

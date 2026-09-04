@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fierce_Tigers.png",
+  "filePageId": 36888,
+  "filePageRevisionId": 110788,
+  "filePageRevisionSha1": "bf5518e76f27103464c749b3b783b6723d04abc3",
+  "filePageRevisionTimestamp": "2026-07-25T18:31:03Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "562e4f93e9fdb66b3dce2a51217b95b425692af757ec417564e9ab7ccd6ae0dd",
   "height": 594,
   "immutableUrl": null,
   "mediaId": "File:Fierce Tigers.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-07-25T18:31:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFierce%20Tigers.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 329067,
   "sourceSha1": "d13480396c380508e39d04347bad6cfa81d1833b",

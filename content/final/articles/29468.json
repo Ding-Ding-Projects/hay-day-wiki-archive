@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Fishing Lake",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Fishing Lake",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Characters?action=history",
@@ -26,11 +40,12 @@
   "revisionId": 78892,
   "revisionTimestamp": "2018-04-17T19:53:04Z",
   "route": "/wiki/category%2Fcategory-characters-29468",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Characters",
   "title": "Category:Characters",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the '''Non-Player Characters''' that can be found in Hay Day. These do not include characters found in decorations.\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Town]]\n[[Category:Fishing Lake]]",
   "wikitextHash": "c4dbd33e867ce0c90d7adb40c24f4590f482fc831dd1c10adb4f0c13f6029575"
 }

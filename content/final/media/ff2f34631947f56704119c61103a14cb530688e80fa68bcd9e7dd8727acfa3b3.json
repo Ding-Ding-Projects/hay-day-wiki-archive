@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Game_Soundtrack_Town.ogg",
+  "filePageId": 31819,
+  "filePageRevisionId": 87931,
+  "filePageRevisionSha1": "b29e8332e6ddcba44e8243a9a7e4eaef4d6ee278",
+  "filePageRevisionTimestamp": "2019-09-21T10:17:43Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Audio]]",
+  "filePageWikitextHash": "8bbaa49c0b2bce73b72457946ad712f30f0f7b3e82cb595cac8f9a0f1698d851",
   "height": 0,
   "immutableUrl": null,
   "mediaId": "File:Game Soundtrack Town.ogg",
   "mediaType": "AUDIO",
   "mime": "application/ogg",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-09-21T10:17:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGame%20Soundtrack%20Town.ogg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1322314,
   "sourceSha1": "633db6a481a0fad998ff42b22b858d566dec8234",

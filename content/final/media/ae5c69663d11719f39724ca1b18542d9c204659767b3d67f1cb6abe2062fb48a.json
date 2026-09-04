@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chili_Stew.png",
+  "filePageId": 35558,
+  "filePageRevisionId": 105165,
+  "filePageRevisionSha1": "fc54a73a5664105efc72e7d8f2ece3acb0f4184a",
+  "filePageRevisionTimestamp": "2024-04-11T15:00:19Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Chili Stew]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "4266b2cdb2007ff12a4913b640917009e4a636fdac9745ced2723036b766d2c7",
   "height": 4324,
   "immutableUrl": null,
   "mediaId": "File:Chili Stew.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:00:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChili%20Stew.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 4326249,
   "sourceSha1": "dd305a3c8938515da8c74a379946e72b645ec844",

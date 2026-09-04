@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -128,11 +136,12 @@
   "revisionId": 101824,
   "revisionTimestamp": "2022-11-03T12:42:39Z",
   "route": "/wiki/puzzle-piece-28177",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Puzzle_Piece",
   "title": "Puzzle Piece",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Puzzle Piece.png|A puzzle piece|200px|left]]\n'''Puzzle pieces''' are a type of [[Currencies|currency]] used to unlock [[:Category:Sanctuary Animals|sanctuary animals]].\n\nThey are unlocked at [[reputation]] level 3.\n\n{{Clr}}----\n==='''Obtaining puzzle pieces'''===\nPlayers can obtain puzzle pieces by:\n* spinning the [[Wheel of Fortune]] (random)\n* completing special [[boat]] shipments\n* finding them in [[Mystery Box|mystery boxes]] and [[Mystery_Box|treasure chests]] (random)\n* winning horseshoe rewards in [[Derby|derbies]] (random) \n* redeem tokens in the [[Valley Shop|valley shop]]\n----\n==='''Using puzzle pieces'''===\n[[File:Book Stand.png|The book stand|150px|left]]\n[[File:Elephant Puzzles.png|Puzzles|150px|left]]\nPuzzle pieces are collected in the log book from the book stand. When players have completed the puzzle for an animal it becomes available. If players already have the right [[:Category:Animal Shelters|shelter]] they can place the animal in the [[sanctuary]]. Otherwise they first have to buy the shelter in the [[shop]].\n\nEach puzzle is composed of 36 pieces.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|es = Pieza de puzle\n|fr = Pièce_de_puzzle\n|de = Puzzleteil\n}}\n[[Category:Currencies]]",
   "wikitextHash": "abb665c7e1fb7d06c674276465323475fa69c537814c1c30236652b567faa09c"
 }

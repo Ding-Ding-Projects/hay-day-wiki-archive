@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Soothing_Pad.png",
+  "filePageId": 36220,
+  "filePageRevisionId": 108836,
+  "filePageRevisionSha1": "0d4ab957c91c43bb94791d73df140fcde0155e68",
+  "filePageRevisionTimestamp": "2025-10-23T21:19:36Z",
+  "filePageWikitext": "== Summary ==\nTaken from R3DKNIGHT's video \n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "243c6d6c1fe89fe72169868e8724101dffd25da05b9a0c356b38fbc627fbbf91",
   "height": 1044,
   "immutableUrl": null,
   "mediaId": "File:Soothing Pad.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T18:27:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASoothing%20Pad.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1527834,
   "sourceSha1": "cf12b862747fae5f96bfe3d6e8f547b79d01c96b",

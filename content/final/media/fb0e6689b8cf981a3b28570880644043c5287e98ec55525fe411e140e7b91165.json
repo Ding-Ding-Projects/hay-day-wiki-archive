@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Leaderboard_Top_10_points.png",
+  "filePageId": 29284,
+  "filePageRevisionId": 78007,
+  "filePageRevisionSha1": "30d08b8bcf9647ef3f79fa3d36d7fd5685a756de",
+  "filePageRevisionTimestamp": "2018-03-17T13:35:04Z",
+  "filePageWikitext": "{{Self}}",
+  "filePageWikitextHash": "8960c3f4b1e7ea76d5f3e10042a2876058651083aeac03e189daec33a0ad08db",
   "height": 1492,
   "immutableUrl": null,
   "mediaId": "File:Leaderboard Top 10 points.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-03-15T06:30:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3ALeaderboard%20Top%2010%20points.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1087336,
   "sourceSha1": "264989ca0a14d5a79e177faa1910045c6a924f65",

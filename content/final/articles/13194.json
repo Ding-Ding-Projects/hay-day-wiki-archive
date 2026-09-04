@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Service Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Service Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -208,11 +216,12 @@
   "revisionId": 95832,
   "revisionTimestamp": "2020-09-06T08:27:23Z",
   "route": "/wiki/bed-and-breakfast-13194",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bed_and_Breakfast",
   "title": "Bed and Breakfast",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bed and Breakfast.png|200px|left|Bed and breakfast]]\n\n{{Infobox\n |title = [[Service Buildings|Service Building]]\n |rlevel = 5\n |price = 31,000\n}}\nThe '''bed and breakfast''' (or '''B&B''') is a [[Service Buildings|service building]] unlocked at [[reputation]] level 5 in the player's [[town]].\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe appearance of the B&B changes as the player upgrades it:\n<gallery>\nBed and Breakfast Stage 1.png\nBed and Breakfast Inside 1.png\nBed and Breakfast Stage 2.png\nBed and Breakfast Inside 2.png\nBed and Breakfast.png\nBed and Breakfast Inside.png\n</gallery>\n----\n=== '''Building''' ===\nThe B&B costs 31,000 {{Infoicon|Coin}} and takes 1 day and 8 hours (or 83 [[diamond]]s) to build.\n----\n=== '''Serving''' ===\n* When the B&B is at level 1, it takes 8 hours (or ? [[diamond]]s) to serve a customer and 26 {{Infoicon|rep|link=Reputation}} are awarded.\n* Serving time can be reduced to 4 hours and 48 minutes at most.\n* Points can be increased to a maximum of 42 {{Infoicon|rep|link=Reputation}} per customer.\n----\n=== '''Upgrading''' ===\n{{Main|Service Buildings}}\nThe following materials are required to upgrade the B&B:\n<gallery>\nBrick.png|[[Brick]]\nHand Drill.png|[[Hand Drill|Hand drill]]\nPaint Bucket.png|[[Paint Bucket|Paint bucket]]\n</gallery>\n----\n=== '''Orders''' ===\nCustomers visiting the B&B usually require:\n*[[Crops]]\n*[[Animal Goods]]\n*[[Pillow]]s\n*[[Blanket]]s\n* And products from the:\n** [[Bakery]]\n** [[BBQ Grill]]\n** [[Cake Oven]]\n** [[Coffee Kiosk]]\n** [[Juice Press]]\n** [[Pie Oven]]\n** [[Sandwich Bar]]\n** [[Sugar Mill]]\n** [[Tea Stand]]\n----\n=== '''Strategy tips''' ===\n* [[Brick]]s are also used to upgrade the [[Spa]] and the [[Train Station]].\n* [[Hand Drill|Hand drills]] are also used to upgrade the [[Beach Café]] and the [[Train Station]].\n* [[Paint Bucket|Paint buckets]] are also used to upgrade [[Diner]] and the [[Town Hall]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Pension\n|es = Hostal\n|fr = Gîte rural\n|it = Bed & Breakfast\n}}\n[[Category:Service Buildings]]",
   "wikitextHash": "11827922cfdebea53ec6ba06a90c264ccee7b49c80f38a74e0f6948140556b70"
 }

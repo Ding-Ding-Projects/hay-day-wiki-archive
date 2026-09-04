@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -343,11 +353,12 @@
   "revisionId": 109712,
   "revisionTimestamp": "2026-04-29T21:26:56Z",
   "route": "/wiki/peony-28400",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peony",
   "title": "Peony",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peony.png|200px|left|Peony]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 82\n |price = 1 to 36\n |time = 4 h\n |xp = 7\n |base = 10\n |dia = 7\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Peonies''' are field [[crops]] unlocked at [[experience]] level 82.\n\nThey are used to make [[Flower Crown|flower crowns]], bouquets in the [[Flower Shop]], [[Floral Candle|floral candles]] and [[Flower Pendant|flower pendants]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing peonies'''===\nPeonies are grown in [[Farm|fields]] by planting another peony (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 7 [[experience]] points, and takes 4 hours to mature.\n<gallery>\nPeony Stage 1.png\nPeony Stage 2.png\nPeony Stage 3.png\nPeony Stage 4.png\nPeony Stage 5.png\n</gallery>\n----\n==='''Selling peonies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Peonies can be sold or bought for a maximum price of 360 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using peonies''' ===\nPeonies are used to make the following [[products]]:\n\n{{Item Usage|Peony\n|Flower Crown|5|86\n|Candy Bouquet|3|90\n|Birthday Bouquet|3|92\n|Soft Bouquet|4|93\n|Floral Candle|2|95\n|Flower Pendant|3|98\n|Clay Mug|1|99\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 9 to 14 peonies per crate, up to a total of 44 per boat.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n{{NoTips}}\n----\n{{FieldCropsMenu}}\n{{Languages\n|de = Pfingstrose\n|es = Peonías\n|fr = Pivoine\n|it = Peonia\n|no = Pion\n|ru = Пион\n}}\n[[pt-br:Peônia]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "c3e35645d38fa60562d6942def83f3f8508a806cb281d72f737ff3372f4c6ef1"
 }

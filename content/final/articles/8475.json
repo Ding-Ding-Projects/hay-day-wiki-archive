@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake Buildings",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake Buildings",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -341,11 +351,12 @@
   "revisionId": 106773,
   "revisionTimestamp": "2025-01-06T22:33:58Z",
   "route": "/wiki/net-maker-8475",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Net_Maker",
   "title": "Net Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Net Maker.png|200px|left|Net Maker]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 30\n |price = 28,000\n |time = 2 d\n |slots = 2\n}}\nThe '''Fishing''' '''Net Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 30.\n\nIt is used to make [[Fishing Net|fishing nets]], [[Mystery Net|mystery nets]], [[Lobster Trap|lobster traps]] and [[Duck Trap|duck traps]].\n\nIt can be found in the [[Fishing Lake]] area.\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe Net Maker looks like a wooden floor loom with a bench in front of it.\n\nThe mastered version gains various golden parts, as well as a star on its front.\n----\n=== '''Repairing''' ===\n[[File:Net Maker Broken.png|150px|left|Broken Net Maker]]\nIt costs 28,000 {{Infoicon|coin}} and takes 2 days (or 65 {{Infoicon|dia}}) to repair the Net Maker. It gives players 32 {{Infoicon|xp}} when repaired.\n\nUnlike other machines, the Net Maker cannot be moved or rotated.\n\n{{Clr}}----\n=== '''Products''' ===\n{{Building Products|noPrice=y\n|Fishing Net|30|4h|7\n|Mystery Net|30|3h|7\n|Lobster Trap|44|2h|5\n|Duck Trap|50|1h|3\n}}\nProducts from the Net Maker cannot be bought or sold. They are stored in the [[Tackle Box]].\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Net Maker originally has two slots available. Unlocking more slots costs [[diamond]]s:\n* 3rd slot: 10 diamonds\n* 4th slot: 20 diamonds\n* 5th slot: 45 diamonds\n* 6th slot: 90 diamonds\n* 7th slot: 130 diamonds\n* 8th slot: 260 diamonds\n* 9th slot: 415 diamonds\n----\n=== '''Mastering''' ===\nA total of 6,840 hours of production is required to [[Masteries|master]] the Net Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Net Maker Mastered.png|150px|Mastered Net Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />120 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />840 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />5,880 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:Net Maker Mastery I.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:Net Maker Mastery II.png|100px]]\n| style=\"border: 1px solid #bbb;\"|[[File:Net Maker Mastery III.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''5% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''10% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* Making as many fishing nets as you can is the easiest way to master the maker. However, this still takes a very long time if you do not unlock more slots.\n----\n\n{{Navigation}}\n{{Languages\n|de = Seilerei\n|es = Telar de redes\n|fr = Fabrique de filets\n|it = Retificio\n|no = Garnmaker\n}}\n[[Category:Production Buildings]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "51800cd79198fec4c772ec51c1762fac62f68071b35ea321ab83b007633fa4a8"
 }

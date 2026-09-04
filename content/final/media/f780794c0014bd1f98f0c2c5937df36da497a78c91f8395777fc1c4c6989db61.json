@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fp1.jpg",
+  "filePageId": 33861,
+  "filePageRevisionId": 99763,
+  "filePageRevisionSha1": "1ef42682e0fd20e0b2e46e6f2a0290aaa96d9c6a",
+  "filePageRevisionTimestamp": "2021-12-13T20:54:21Z",
+  "filePageWikitext": "\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "1ba13de8299284d7e5dbb90cb2a0dad96024765e3addd397e0a7ab8b7bbff146",
+  "height": 945,
+  "immutableUrl": null,
+  "mediaId": "File:Fp1.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-05-29T20:22:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AFp1.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 195253,
+  "sourceSha1": "1fadbb7783d09e881c8882916ce59b3c676745a9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/68/Fp1.jpg/revision/latest?cb=20200529202230",
+  "title": "File:Fp1.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2048
+}

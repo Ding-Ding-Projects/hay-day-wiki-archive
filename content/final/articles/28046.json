@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Feed Mill Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Feed Mill Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -185,11 +195,12 @@
   "revisionId": 110764,
   "revisionTimestamp": "2026-07-18T13:46:27Z",
   "route": "/wiki/wheat-bundle-28046",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wheat_Bundle",
   "title": "Wheat Bundle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Wheat Bundle.png|200px|left|Wheat bundle]]\n\n{{Infobox\n |title = [[Products|Product]]\n |rlevel = 3, requires<br>at least one [[sanctuary]] animal\n |price = 1 to 50\n |time = 1 h 30 min\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |xp = 10\n |base = 14\n |time3 = 1 h 16 min\n |dia = 6\n}}\n'''Wheat bundles''' are [[products]] unlocked when players reached [[reputation]] level 3, unlocked [[Sanctuary]] and have at least one sanctuary animal. They are used to feed almost all sanctuary animals.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making wheat bundles'''===\n[[File:Feed Mill.png|150px|left|Feed Mill]] \nWheat bundles are made in the [[Feed Mill]]. Like other feeds, wheat bundles are made in quantities of three.\n\nTo make a three unit bundle of wheat players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x75'''\n|}\nIt takes 1 hour 30 minutes to make one bundle, or 1 hour 16 minutes in a fully [[Masteries|mastered]] Feed mill. 1 bundle equals 3 units and awards players 10 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling wheat bundles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Wheat bundles can be bought or sold for a maximum price of 504 {{Infoicon|Coin}} for 10 bundles.\n* Buying the ingredients required to make 3 wheat bundles costs 225 {{Infoicon|Coin}}\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* While [[Rose]] can make other types of feed for you at the feed mill if you hire her (using [[diamond]]s or the ''Free Rose'' [[booster]]), Rose does not make nor store wheat bundles.\n* [[Truck]] orders, [[boat]]s and [[Town Visitors|town visitors]] never ask for any type of feed.\n* This product requires the most amount of [[crops]] of any single product in the game.\n* Making wheat bundles can also get rid of the high quantity of wheat in the silo when wheating.\n* Making wheat bundles can easily master [[Feed Mill]] because it requires the most amount of time to produce.\n* Wheat Bundle is quite rare to be found in [[Daily Dirt]] or in someone's [[Roadside Shop]]. Selling it at maximum price is recommended. As it's difficult to purchase, you should have a few in your barn to feed sanctuary animals.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Among the products that require wheat to produce, Wheat Bundle is the only product with \"Wheat\" in it's name.\n* This is the product with the most unlocking requirements. If it is available for sale at [[Roadside Shop]] but the buyer hasn't unlocked it the notice \"Requires sanctuary animals\" will be written, the final step required to unlock this product.\n* Almost all sanctuary animals, including hippos, giraffes, elephants, gorillas, zebras, reindeer and meerkats need Wheat Bundle for food. The only exceptions are the arctic foxes, walruses and cheetahs, which need [[Meat Bucket|meat buckets]].\n* The ingredients required to make the 3 wheat bundles costs 225 {{Infoicon|Coin}}, but the price of those 3 wheat bundles are only 150 {{Infoicon|Coin}}, making it one of the few products in the game where the ingredients cost more than the product, the other products that has this feature are [[Tower Doner Supreme]], [[Jelly Beans]] and [[Birthday Bouquet]].\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Weizenbündel\n|es = Haz de trigo\n|fr = Gerbe de Blé\n|it = Mazzo di grano\n|nl = Tarwebundel\n|no = Hvetepakke\n|vi = Bó lúa mỳ\n|zh = Wheat Bundle\n}}\n[[pt-br:Punhado de trigo]]\n[[ru:Охапка пшеницы]]\n[[Category:Feed Mill Products]]\n[[Category:Wheat Products]]",
   "wikitextHash": "08672f381cee62997652efefcb8615b18b84643aa2c4f2879c917894fd7ab1a2"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 102634,
   "revisionTimestamp": "2023-04-01T15:30:08Z",
   "route": "/wiki/category%2Fcategory-pomegranate-products-35750",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pomegranate_Products",
   "title": "Category:Pomegranate Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pomegranate.png|thumb]]\nProducts of [[Pomegranate]].\n[[Category:Products]]",
   "wikitextHash": "d1917e8352e3f2ededaad1dd4db399a841430d3912e17d0146a737bd2e28e3cb"
 }

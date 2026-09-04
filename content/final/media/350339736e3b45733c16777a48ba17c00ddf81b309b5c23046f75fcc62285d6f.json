@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hayday_Hamster_done_.png",
+  "filePageId": 28685,
+  "filePageRevisionId": 74846,
+  "filePageRevisionSha1": "88d06f05583ce1b44a78f3f6d08ccb799b775883",
+  "filePageRevisionTimestamp": "2017-10-31T12:13:39Z",
+  "filePageWikitext": "== Licensing ==\n{{Permission}}\n[[Category:Image User]]",
+  "filePageWikitextHash": "ebc5afeeb106da2ecc29bc1973c912c6b443ede0eb66701bd07f38bc86bd7710",
+  "height": 600,
+  "immutableUrl": null,
+  "mediaId": "File:Hayday Hamster done .png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-10-30T18:46:13Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
+  "route": "/media/File%3AHayday%20Hamster%20done%20.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 65615,
+  "sourceSha1": "ab463068044f61472e4b5d04c28d40907dc00c67",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/Hayday_Hamster_done_.png/revision/latest?cb=20171030184613",
+  "title": "File:Hayday Hamster done .png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

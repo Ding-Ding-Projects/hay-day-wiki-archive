@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Berries",
+    "Category:Bush Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Berries",
+      "Category:Bush Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -224,11 +234,12 @@
   "revisionId": 109411,
   "revisionTimestamp": "2026-02-13T18:52:44Z",
   "route": "/wiki/blueberries-36310",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blueberries",
   "title": "Blueberries",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blueberries.png|200px|left|Blueberries]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 30\n |price = 1 to 82\n |time = 1 d 11 h\n |xp = 16\n |source = {{Infoicon|blueb|bigger|link=Blueberry Bush}}\n |base = 23\n |dia = 19\n}}\n'''Blueberries''' are fruit [[crops]] unlocked at [[experience]] level 30. They grow on [[Blueberry Bush|blueberry bushes]] and can be harvested four times.\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n==='''Harvesting blueberries'''===\n[[File:Blueberry Bush.png|150px|left|link=Blueberry Bush|Blueberry bush]]\nThe first harvest gives two blueberries, the second one three, and the third one four. After the third harvest the bush wilts.\n\nTapping on the bush places a sign on it letting other players know the bush needs to be revived. Once it is, a last harvest can be done before the bush dies. An [[axe]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling blueberries'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Blueberries can be sold or bought for a maximum price of 828 {{Infoicon|coin}} for ten fruit.\n* Buying a blueberry bush costs 550 {{Infoicon|coin}}.\n* Given all 13 blueberries are collected during the four harvests, the batch can be sold for 1,074 {{Infoicon|coin}}, thus giving a profit of 524 {{Infoicon|coin}} per bush.\n{{Clr}}\n----\n==='''Using blueberries'''===\nBlueberries are used to make the following [[products]]:\n{{Item Usage|Blueberries\n|Blueberry Cheesecake|2|31\n|Blueberry Muffin|2|33\n|Blueberry Chutney|3|70 \n|Blueberry Waffles|3|118}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 5 blueberries per crate, up to a total of 20 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Saving revivable bushes and trees is an easy way to achieve help tasks during [[Derby|derbies]]. [[Neighborhood|Neighbors]] and [[friends]] can help by waiting until you have started your task to flag their dead plants.\n----\n\n{{Navigation}}\n{{Languages\n|de = Blaubeere\n|es = Arándano\n|fr =\n|it =\n|nl =\n|no = Blåbær\n|ru = Черника\n|sv =\n|vi =\n|zh =\n|br =\n}}\n[[Category:Bush Crops]]\n[[Category:Berries]]",
   "wikitextHash": "67a9b05a453fb0b3fc7cb47eec1f2d11137d1e5b84965d4b5e720cc42382408c"
 }

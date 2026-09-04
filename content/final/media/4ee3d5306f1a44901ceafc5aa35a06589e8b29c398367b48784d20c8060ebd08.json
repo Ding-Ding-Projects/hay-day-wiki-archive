@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Waving.png",
+  "filePageId": 32053,
+  "filePageRevisionId": 88965,
+  "filePageRevisionSha1": "560f5e5fb9f652bab9fd8feae3934f989eefd4bd",
+  "filePageRevisionTimestamp": "2019-10-25T20:14:33Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "a8607461ceaeb6b89ca95737fa480cac68296c83180e7ff31825661fc3c1d443",
   "height": 568,
   "immutableUrl": null,
   "mediaId": "File:Pig Waving.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:14:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APig%20Waving.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 134980,
   "sourceSha1": "76998ee075886f35c1382f3a0b92b827ab1375ae",

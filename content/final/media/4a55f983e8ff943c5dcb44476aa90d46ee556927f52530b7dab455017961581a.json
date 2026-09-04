@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duck_Salon_Broken.png",
+  "filePageId": 17021,
+  "filePageRevisionId": 77113,
+  "filePageRevisionSha1": "c8671b72e75d3c03dbe59cd464cf2eb74f40f315",
+  "filePageRevisionTimestamp": "2018-02-07T15:35:46Z",
+  "filePageWikitext": "Picture of a broken Duck Salon.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "9ad6eacc94fbdb73b69214c01d8fc909dd83a517ec20d94766192b51b30731f6",
   "height": 577,
   "immutableUrl": null,
   "mediaId": "File:Duck Salon Broken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:27:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADuck%20Salon%20Broken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 373000,
   "sourceSha1": "338f5c28c45a5c3e701725259f0b6d0f7ca0e006",

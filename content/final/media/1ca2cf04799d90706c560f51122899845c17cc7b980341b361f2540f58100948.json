@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_216.png",
+  "filePageId": 35549,
+  "filePageRevisionId": 101486,
+  "filePageRevisionSha1": "20837ae363dbd77876d76a5ddfad1a6da393a90c",
+  "filePageRevisionTimestamp": "2022-09-08T19:51:46Z",
+  "filePageWikitext": "== Summary ==\nLevel 216 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "f8788dc38ec685edcf83478d28d9e2a57eb0df50117a3dc0d64c7b33200d3a0e",
   "height": 287,
   "immutableUrl": null,
   "mediaId": "File:Level 216.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-09-08T18:03:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20216.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 404057,
   "sourceSha1": "e402d43564d4b1bf7eb3b5811786cdc19032b687",

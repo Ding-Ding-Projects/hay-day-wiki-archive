@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daily_Quests.png",
+  "filePageId": 31479,
+  "filePageRevisionId": 87826,
+  "filePageRevisionSha1": "11b3b943489eb05c0f37f0ec08472e416a6e8e12",
+  "filePageRevisionTimestamp": "2019-09-21T09:29:16Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Valley]]",
+  "filePageWikitextHash": "ec18d34a5ef69320d099bbf9d35e5853973e97805b9666e9b2d145f53407459d",
   "height": 569,
   "immutableUrl": null,
   "mediaId": "File:Daily Quests.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-25T06:00:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADaily%20Quests.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 102287,
   "sourceSha1": "3a8be0f1e8060aaa918a27ba29d545aa7e4cdeb9",

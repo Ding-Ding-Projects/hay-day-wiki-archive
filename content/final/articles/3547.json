@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -346,11 +354,12 @@
   "revisionId": 110669,
   "revisionTimestamp": "2026-07-03T06:32:43Z",
   "route": "/wiki/dairy-3547",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Dairy",
   "title": "Dairy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Dairy.png|200px|left|Dairy]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 6\n |price = 50\n |time = 30 s\n |slots = 2\n |dia = 1\n |size = 4×4}}\nThe '''Dairy''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 6.\n\nIt is used to make [[cream]], [[butter]], [[cheese]] and [[Goat Cheese|goat cheese]].\n\n{{Clr}}\n----\n=== '''Appearance''' ===\nThe Dairy looks like a mini red-roofed white house-like factory with a fence around it. A few jars of milk are stored behind it. The house also has a few metal chimney holes.\n\nThe mastered version gets a star on one wall of the factory and golden chimney holes.\n----\n=== '''Building''' ===\nIt costs 50 {{Infoicon|coin}} and takes 30 seconds (or 1 {{Infoicon|dia}}) to build the Dairy. It gives players 8 {{Infoicon|xp}} when completed. \n----\n=== '''Products''' ===\n{{Building Products\n|Cream|6|20m|50\n|Butter|9|30m|82\n|Cheese|12|1h|122\n|Goat Cheese|33|1:30|162\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Dairy originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 520 hours of production is required to [[Masteries|master]] the Dairy:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Dairy Mastered.png|150px|Mastered Dairy]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />40 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />120 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />360 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Dairy Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* Products from the Dairy are used to make many other products. Unlocking more slots is highly recommended so make sure to save some diamonds to do so.\n* Milk can be found in the [[Daily Dirt]] but sells extremely fast.\n*[[Ernest]] can run the Dairy for you if you hire him. You can hire him using [[diamond]]s, [[boosters]], or when he occasionally offers to be hired for free.\n----\n{{Navigation}}\n{{Languages\n|de = Molkerei\n|es = Lechería\n|fr = Laiterie\n|it = Caseificio\n|nl = Zuivelfabriek\n|no = Meieri\n|ru = Молокозавод\n|sv = Mejeri\n|vi = Máy chế biến sữa\n|zh = 乳品厂\n}}\n[[pt-br:Fábrica de laticínios]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "f2e65797fedff9e547b49b8d891f4ff0b68920040bae734bedb517ca8919cd60"
 }

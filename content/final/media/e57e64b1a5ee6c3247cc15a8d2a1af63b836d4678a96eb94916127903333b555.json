@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:TNT_Barrel.png",
+  "filePageId": 4199,
+  "filePageRevisionId": 89191,
+  "filePageRevisionSha1": "7061d2616ac52dbcdb9efe42b4e002369db1e998",
+  "filePageRevisionTimestamp": "2019-10-28T13:02:25Z",
+  "filePageWikitext": "Picture of TNT.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "ecc3eb2edb4f1f5806e0113ef4be432974ee0790c09f645aa6109b5e1b79bc41",
   "height": 173,
   "immutableUrl": null,
   "mediaId": "File:TNT Barrel.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 32,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:02:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATNT%20Barrel.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 33453,
   "sourceSha1": "6e1b88cb6d63b69d48c213bd70320ec917c411b1",

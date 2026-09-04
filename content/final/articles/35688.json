@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -66,11 +76,12 @@
   "revisionId": 106405,
   "revisionTimestamp": "2024-12-05T07:55:11Z",
   "route": "/wiki/holly-35688",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Holly",
   "title": "Holly",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Holly.png|left|200px|Holly]]\nHolly is a type of [[Currencies|currency]] used to buy special prizes from the [[catalogue]]. It's part of the Christmas 2022, 2023, and 2024 events.\n\nIt is unlocked at [[experience]] level 17.\n\n{{Clr}}\n----\n==='''Getting holly'''===\n[[File:Riverboat.jpg|left|150 px|Riverboat]]\nEach boat during the event requires one type of [[:Category:Gift Wrapping Station Products|gift]] from the [[Gift Wrapping Station|gift wrapping station]]. Filling any box with a gift gives you a certain amount of holly.\n{{Clr}}\n----\n==='''Using holly'''===\n{{Main|Catalogue}}\n[[File:Catalogue Front With Holly.png|150px|left|The catalogue]]\nHolly can be used to purchase items from the \"Fyne & Mysterious Gifts [[Catalogue]],\" found by clicking the blue post box at the end of the driveway. Different gifts have different prices. Each gift is available only once, and for only 1 week\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Currencies]]\n[[Category:Catalogue]]\n\n{{Languages\n|es = Acebo\n}}",
   "wikitextHash": "f69d997b877f4cc43b9f13039dd16f459fc6dd06f5ab918f44b22f30157ed7ca"
 }

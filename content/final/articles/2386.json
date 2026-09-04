@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Gold Bar Products",
+    "Category:Jeweler Products",
+    "Category:Silver Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Gold Bar Products",
+      "Category:Jeweler Products",
+      "Category:Silver Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +139,12 @@
   "revisionId": 107801,
   "revisionTimestamp": "2025-04-13T21:31:44Z",
   "route": "/wiki/bracelet-2386",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bracelet",
   "title": "Bracelet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bracelet.png|200px|left|Bracelet]]\n\n{{Infobox\n |level = 38\n |price = 1 to 514\n |time = 2 h\n |xp = 61\n |source = {{Infoicon|jeweler|bigger|link=jeweler}}\n |base = 143\n |dia = 5\n |time3 = 1 h 42 min\n |title = [[Products|Product]]\n}}\n'''Bracelets''' are [[products]] unlocked at [[experience]] level 38.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making bracelets'''===\n[[File:jeweler.png|150px|left|jeweler]]\nBracelets are made in the [[jeweler]].\n\nTo make a bracelet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Silver Bar.png|75px|Silver bars|link=Silver Bar]]\n|[[File:Gold Bar.png|75px|Gold bar|link=Gold Bar]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make one bracelet, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] jeweler. Each bracelet gives players 61 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling bracelets'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Bracelets can be bought or sold for a maximum price of 5,148 {{Infoicon|Coin}} for 10 bracelets.\n* Buying the ingredients required to make a bracelet costs 474 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* As is the case for all Jeweler products, completing a [[truck]] order requesting one or more bracelets rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for bracelets.\n----\n\n{{Navigation}}\n{{Languages\n|de = Armband\n|es = Pulsera\n|fr = Bracelet\n|it = Bracciale\n|nl = Armband\n|no = Armbånd\n|ru = Браслет\n|vi = Vòng tay\n|zh = Bracelet\n}}\n[[pt-br:Pulseira]]\n\n[[Category:Jeweler Products]]\n[[Category:Silver Bar Products]]\n[[Category:Gold Bar Products]]",
   "wikitextHash": "6947af2b40c8b1763041080c4ca768923b81d9dacdbaf015812953b2b75e7bd9"
 }

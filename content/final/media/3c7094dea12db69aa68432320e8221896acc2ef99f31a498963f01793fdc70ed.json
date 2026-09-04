@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Pack.png",
+  "filePageId": 27139,
+  "filePageRevisionId": 71402,
+  "filePageRevisionSha1": "c1e800466b424ff04f4d7b829906ee05e8b829ab",
+  "filePageRevisionTimestamp": "2017-04-23T10:32:29Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "d5d6f1f7e4deabbf5f21998dc0c7fdba44ed24c9d949275fe19af4a7a5da91e5",
   "height": 659,
   "immutableUrl": null,
   "mediaId": "File:Fishing Pack.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-03-28T16:42:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Pack.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1072795,
   "sourceSha1": "962acacd26f7ad148cbb4825258df35361261a48",

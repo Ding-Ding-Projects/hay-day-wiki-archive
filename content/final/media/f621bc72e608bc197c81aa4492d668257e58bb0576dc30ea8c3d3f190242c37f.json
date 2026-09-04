@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pinterest.png",
+  "filePageId": 25129,
+  "filePageRevisionId": 85750,
+  "filePageRevisionSha1": "c48e22b7f85169f107828e6fc4077b8605e32ac9",
+  "filePageRevisionTimestamp": "2019-05-18T09:31:44Z",
+  "filePageWikitext": "{{Permission}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "f751ab1b9925eda83a14b6c84b20a7913eb5368d240be879383eb082e498c37f",
   "height": 487,
   "immutableUrl": null,
   "mediaId": "File:Pinterest.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-05-18T09:31:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3APinterest.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 20171,
   "sourceSha1": "a53d5c50beea40d442831753b4ff8fc079ff4048",

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings",
+    "Category:Fishing",
+    "Category:Fishing Lake"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings",
+      "Category:Fishing",
+      "Category:Fishing Lake"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake_Buildings?action=history",
@@ -31,11 +43,12 @@
   "revisionId": 57865,
   "revisionTimestamp": "2016-01-21T19:17:37Z",
   "route": "/wiki/category%2Fcategory-fishing-lake-buildings-23358",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fishing_Lake_Buildings",
   "title": "Category:Fishing Lake Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Building found around the [[Fishing Lake]].\n[[Category:Fishing Lake]]\n[[Category:Buildings]]\n[[Category:Fishing]]",
   "wikitextHash": "b6a458d42cf76caaefe70e698e0f844c15f3a34452e103dc2a0855f28933c8e8"
 }

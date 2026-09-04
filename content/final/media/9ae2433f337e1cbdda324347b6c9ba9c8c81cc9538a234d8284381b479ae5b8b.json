@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Apple_Store_Button.png",
+  "filePageId": 31325,
+  "filePageRevisionId": 85757,
+  "filePageRevisionSha1": "60f02ff8c4ec549bdbd5db9fb2ccf585c4bab2a8",
+  "filePageRevisionTimestamp": "2019-05-18T09:58:31Z",
+  "filePageWikitext": "== Summary ==\nApple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.\n== Licensing ==\n{{Permission}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "4863390f76cabb1efa13b36ad3618485799c83b238afc6786fd1f674b5d802eb",
   "height": 160,
   "immutableUrl": null,
   "mediaId": "File:Apple Store Button.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-05-18T09:58:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AApple%20Store%20Button.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 10079,
   "sourceSha1": "1e7bbd0e074325e61dd4c631075c5d440ea98d60",

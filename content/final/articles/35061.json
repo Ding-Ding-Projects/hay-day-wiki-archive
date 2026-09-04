@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Production_Machines?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 98532,
   "revisionTimestamp": "2021-08-31T10:01:13Z",
   "route": "/wiki/production-machines-35061",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Production_Machines",
   "title": "Production Machines",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Production Buildings]]",
   "wikitextHash": "28148d3cb2961b3e7a2db8bee085d815cfa08f4a7ccf0d18b528eb4231c287db"
 }

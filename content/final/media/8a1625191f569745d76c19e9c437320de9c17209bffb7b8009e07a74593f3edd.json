@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:MarySunshine.jpg",
+  "filePageId": 19510,
+  "filePageRevisionId": 46838,
+  "filePageRevisionSha1": "1f3ead940d2acb6642c99c6bc375bc720515c036",
+  "filePageRevisionTimestamp": "2015-04-23T13:04:14Z",
+  "filePageWikitext": "== Licensing ==\n{{Self}}\n[[Category:Image User]]",
+  "filePageWikitextHash": "9da77a697a193bd2326703b205817ec091e367241251a63569040b38f11645fd",
+  "height": 700,
+  "immutableUrl": null,
+  "mediaId": "File:MarySunshine.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-04-23T08:36:41Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
+  "route": "/media/File%3AMarySunshine.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 203257,
+  "sourceSha1": "19c523fa3e7e122db882e2dfd2e693c556879b09",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/42/MarySunshine.jpg/revision/latest?cb=20150423083641",
+  "title": "File:MarySunshine.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 700
+}

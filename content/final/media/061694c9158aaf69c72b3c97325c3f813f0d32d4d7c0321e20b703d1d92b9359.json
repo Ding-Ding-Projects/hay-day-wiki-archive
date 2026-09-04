@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_popcorn_pot_snack_mix.png",
+  "filePageId": 34706,
+  "filePageRevisionId": 99593,
+  "filePageRevisionSha1": "d211484065d679d5c19b13cca2ce8bfaf667bc25",
+  "filePageRevisionTimestamp": "2021-12-06T23:04:03Z",
+  "filePageWikitext": "{{Delete}}",
+  "filePageWikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d",
+  "height": 120,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay popcorn pot snack mix.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-12-27T07:23:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHayDay%20popcorn%20pot%20snack%20mix.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 25936,
+  "sourceSha1": "59492664952fe39fea1453b46763a152f174bbce",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a5/HayDay_popcorn_pot_snack_mix.png/revision/latest?cb=20201227072337",
+  "title": "File:HayDay popcorn pot snack mix.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 100
+}

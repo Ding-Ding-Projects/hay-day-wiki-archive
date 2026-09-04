@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Zesty_Perfume.png",
+  "filePageId": 36221,
+  "filePageRevisionId": 108834,
+  "filePageRevisionSha1": "be02a54efd135e3b6d17f496c67a293d1c451ef2",
+  "filePageRevisionTimestamp": "2025-10-23T21:18:29Z",
+  "filePageWikitext": "== Summary ==\nScreenshot from game.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "e53fc609433d427b96e52ebb6d5c2c2e87212399317149744eb869062e49a662",
   "height": 1707,
   "immutableUrl": null,
   "mediaId": "File:Zesty Perfume.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T19:38:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AZesty%20Perfume.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 833281,
   "sourceSha1": "2967004743ae4fe73ad27039bb7eecfd0e951581",

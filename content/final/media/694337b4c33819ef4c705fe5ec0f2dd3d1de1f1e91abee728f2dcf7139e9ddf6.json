@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tropical_Yogurt.png",
+  "filePageId": 35451,
+  "filePageRevisionId": 104842,
+  "filePageRevisionSha1": "ec733605d9a686abb638dad9dc1970f5b9d95091",
+  "filePageRevisionTimestamp": "2024-02-15T04:55:47Z",
+  "filePageWikitext": "== Summary ==\n[[Tropical Yogurt]], a product of the [[Yogurt Maker]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "3b79333df9456a138417e62a9f08766d1945e494cebbba69085d116bee8517d3",
   "height": 2000,
   "immutableUrl": null,
   "mediaId": "File:Tropical Yogurt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-15T04:55:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATropical%20Yogurt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2433669,
   "sourceSha1": "59d8bc0e69dd1ab32fcb78915c884a04925d82ef",

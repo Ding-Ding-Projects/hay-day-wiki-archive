@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_13.png",
+  "filePageId": 14406,
+  "filePageRevisionId": 69422,
+  "filePageRevisionSha1": "29f56ecd4c40dfd01f0157e84395348c8610bab3",
+  "filePageRevisionTimestamp": "2017-02-06T12:22:46Z",
+  "filePageWikitext": "Picture of Reputation Level 13.\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "a19c5eefaa1e7e69ba25909fd1f9686397e57ed7bfc99511ddd9888e3e25373d",
   "height": 253,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 13.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-01-06T06:46:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2013.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 157454,
   "sourceSha1": "d668bf54efc4eca619266ea67e6a8f427821c994",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Diamond_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98584,
   "revisionTimestamp": "2021-08-31T21:25:24Z",
   "route": "/wiki/category%2Fcategory-diamond-products-35107",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Diamond_Products",
   "title": "Category:Diamond Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Diamond.png|thumb]]\nProducts of [[Diamond]].\n[[Category:Products]]",
   "wikitextHash": "f1a00f9d3db18864f6bdc2cd94d0e9c684c8554d2ad5146bc73e0747ff43e959"
 }

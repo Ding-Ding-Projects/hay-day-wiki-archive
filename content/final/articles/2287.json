@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Milk Products",
+    "Category:Strawberry Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Milk Products",
+      "Category:Strawberry Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -181,11 +197,12 @@
   "revisionId": 105906,
   "revisionTimestamp": "2024-10-05T00:57:12Z",
   "route": "/wiki/strawberry-ice-cream-2287",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strawberry_Ice_Cream",
   "title": "Strawberry Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Strawberry Ice Cream.png|left|200px|Strawberry ice cream]]\n\n{{Infobox\n|title = [[Products|Product]]\n|price = 1 to 331 \n|level = 34\n|time = 4 h \n|xp = 40\n|base= 92\n|dia = 6\n|source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n|time3=  3 h 24 min\n}}\n'''Strawberry ice cream''' is a [[products|product]] unlocked at [[experience]] level 34.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making strawberry ice cream'''===\n[[File:Ice Cream Maker.png|left|150px|Ice Cream Maker]]\nStrawberry ice cream is made in the [[Ice Cream Maker]].\n\nTo make strawberry ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|[[File:White Sugar.png|75px|link=White Sugar|White Sugar]]\n|[[File:Strawberry.png|75px|link=Strawberry|Strawberries]]\n|[[File:Milk.png|75px|link=Milk|Milk]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 4 hours to make one cone, or 3 hours and 24 minutes in a fully [[Masteries|mastered]] maker. Each cone gives players 40 [[experience]] points.\n\n{{Clr}}----\n==='''Selling strawberry ice cream'''===\n[[File:Roadside Shop.png|left|150px|Roadside shop]]\n* Strawberry ice cream can be bought or sold for a maximum price of 3,312 {{Infoicon|coin}} for 10 cones.\n* Buying the ingredients required to make a cone costs 282 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 strawberry ice cream per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Strawberry ice cream is an extremely sought-after item. You won't find it in the [[Daily Dirt]]. Make sure you always have some in stock or in production.\n----\n\n{{Navigation}}\n{{Languages\n|de = Erdbeereis\n|es = Helado de fresa\n|fr = Glace à la Fraise\n|it = Gelato alla fragola\n|nl = Aardbeienijs\n|no = Jordbæriskrem\n|zh = Strawberry Ice Cream\n}}\n[[pt-br:Sorvete de morango]]\n[[ru:Клубничное мороженое]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Milk Products]]\n[[Category:White Sugar Products]]\n[[Category:Strawberry Products]]\n[[Category:Cream Products]]",
   "wikitextHash": "fb49a589978b78dafc2375eb804978a4ac8f9fe05afeb41fa912602a4d4991ee"
 }

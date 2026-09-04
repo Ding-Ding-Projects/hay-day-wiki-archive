@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mystery Boxes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mystery Boxes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -142,11 +150,12 @@
   "revisionId": 105310,
   "revisionTimestamp": "2024-05-23T22:22:17Z",
   "route": "/wiki/mystery-box-6452",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mystery_Box",
   "title": "Mystery Box",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Загадочный ящик]]\n{{PageDisplay}}\n'''Mystery boxes''' appear randomly in [[Hay Day]] and contain various items. There are several different types of boxes.\n----\n==='''Mystery tool boxes'''===\nIn the [[farm]] area, mystery red toolboxes chained to the ground could appear. If the box is locked (which is often the case), players can unlock it by spending [[Diamond|diamonds]]. However, in rare instances (1 in 4), players might stumble upon a box that is already unlocked. Once the box has been opened or rejected, it trembles back into the ground.\n\n[[File:Probabilities Icon.png|left|75px|Probabilities icon]] \nPlayers can check the probabilities of the box containing certain items by tapping on the dice icon in the top left corner of the pop-up.  Prizes include [[diamond]]s, [[coin]]s, [[voucher]]s, [[supplies]], and [[booster]]s.\n\n{{Clr}}\n===='''Ordinary box'''====\n[[File:Mystery Box.png|left|150px|Mystery tool box]]\n\nOrdinary boxes can be with opened with 3 [[diamond]]s.  The top prize is 5 [[diamond]]s.\n\n{{Clr}}\n===='''Big box'''====\n[[File:Big_Mystery_Box.png|left|150px|Big mystery tool box]]\n\nBig boxes can be with opened with 10 [[diamond]]s.  The top prize is 13 [[diamond]]s.\n\n{{Clr}}\n===='''Huge box'''====\n[[File:Huge_Mystery_Box.png|left|150px|Huge mystery tool box]]\n\nHuge boxes can be with opened with 20 [[diamond]]s. The top prize is 25 [[diamond]]s. [[Expansion Permit|Expansion permits]] are found in huge boxes.\n\n{{Clr}}----\n==='''Treasure chests'''===\n[[File:Treasure Chest.png|left|200px|Treasure chest]]\n'''Treasure chests''' appear in the [[town]] lake. Locked chests can be opened by spending 5 [[diamond]]s. Once the chest has been opened or rejected, it sinks into the water.\n\nPlayers can check the probabilities of the chest containing certain items by tapping on the dice icon in the top left corner of the pop-up. Prizes include [[diamond]]s, [[voucher]]s, [[supplies]], [[Puzzle Piece|puzzle pieces]] and [[booster]]s. The top prize is 8 [[diamond]]s.\n\n{{Clr}}----\n==='''Seasonal mystery gifts '''===\nSeasonal mystery gifts appear in the [[fishing]] area when a seasonal [[themes|theme]] is on: '''a ghost''' appears around Halloween, '''present boxes''' appear around Christmas, '''firework barrels''' appear around New Year's and Chinese New Year's. These are never locked.\n<gallery hideaddbutton=\"true\" captionalign=\"center\">\nHalloween Ghost.png\nMystery Present.png\nMystery Fireworks.png\n</gallery>\n\nEach gift can contain a [[supplies|supply item]], a [[lure]], a [[voucher]], a [[decorations|seasonal decoration]], 1 to 3 [[diamond]]s or the Secret Coffin, a special [[Decorations|decoration]] given by the Halloween ghost.\n----\n==='''Strategy tips'''===\n*Don't forget to check for Treasure Chests. Many of us find Mystery Boxes on the farms of other players, but don't forget to look in their towns to find Treasure Chests floating off shore.\n*If a Mystery Tool Box is found on your own farm, it is very likely for one to be found on another farm at the same time.\n----\n\n{{Languages\n|de = Geheimkiste\n|es = Caja misteriosa\n|fr = Les coffres\n}}\n[[Category:Mystery Boxes]]",
   "wikitextHash": "27ffde87c797017afaea1ea3a0bcade90399507416190e1e76d501385545c528"
 }

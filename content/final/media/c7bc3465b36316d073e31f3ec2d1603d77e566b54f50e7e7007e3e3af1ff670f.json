@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Pillars.png",
+  "filePageId": 35361,
+  "filePageRevisionId": 100489,
+  "filePageRevisionSha1": "7119b8a423c1403004f924e7fa33c1c3a368b9fc",
+  "filePageRevisionTimestamp": "2022-04-06T17:26:15Z",
+  "filePageWikitext": "== Summary ==\nValley decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "4f88ae9df6fb122d422b0025c1c72463e382adceec5b49ac34b34dc46a736139",
   "height": 638,
   "immutableUrl": null,
   "mediaId": "File:Golden Pillars.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-06T17:26:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGolden%20Pillars.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 284694,
   "sourceSha1": "08722e22aa73f79d5078cc47584a9ab12e620b54",

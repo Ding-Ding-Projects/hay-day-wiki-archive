@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Honey Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Peach Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Honey Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Peach Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -177,11 +191,12 @@
   "revisionId": 110703,
   "revisionTimestamp": "2026-07-06T15:55:57Z",
   "route": "/wiki/peach-ice-cream-24924",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peach_Ice_Cream",
   "title": "Peach Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peach Ice Cream.png|200px|left|Peach ice cream]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 83\n |price = 1 to 450\n |time = 3 h\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 54\n |base = 125\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Peach ice cream''' is a [[Products|product]] unlocked at [[experience]] level 83. \n\nIt is used to make [[Fruity Milkshake|fruity milkshake]].\n\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making peach ice cream'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nPeach ice cream is made in the [[Ice Cream Maker]].\n\nTo make peach ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Peach.png|75px|Peaches|link=Peach]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 3 hours to make one cone, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] maker. Each cone gives players 54 [[experience]] points.\n\n{{Clr}}----\n==='''Selling peach ice cream'''===\n[[File:Roadside Shop.png|left|150px|Roadside shop]]\n* Peach ice cream can be bought or sold for a maximum price of 4,500 {{Infoicon|coin}} for 10 cones.\n* Buying the ingredients required to make peach ice cream costs 404 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using peach ice cream'''===\nPeach ice cream is used to make the following [[products|product]]:\n\n{{Item Usage|Peach Ice Cream\n|Fruity Milkshake|1|126\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 peach ice cream per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Pfirsicheis\n|es = Helado de melocotón\n|fr = Glace à la pêche\n|it = Gelato alla pesca\n|nl = Perzikijs\n|no = Ferskenis\n|ru = Персиковое мороженое\n|zh = Peach Ice Cream\n}}\n[[pt-br:Sorvete de pêssego]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Cream Products]]\n[[Category:Honey Products]]\n[[Category:Peach Products]]",
   "wikitextHash": "ba9c41816fdb129583c673473b4ed82e5d13464aaed9602eacd631fbc1b315ee"
 }

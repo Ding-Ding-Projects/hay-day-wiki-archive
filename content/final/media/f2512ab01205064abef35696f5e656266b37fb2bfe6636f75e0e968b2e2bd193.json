@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Asparagus.png",
+  "filePageId": 35802,
+  "filePageRevisionId": 104873,
+  "filePageRevisionSha1": "1e5afcda2e599449026cb10109d235521530418f",
+  "filePageRevisionTimestamp": "2024-02-18T15:02:29Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "6aea416f2ad88dfdf62ca5fe99fefc4f8bb32f14f28ec6b90fc2b24238d5740d",
   "height": 2140,
   "immutableUrl": null,
   "mediaId": "File:Asparagus.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 49,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T15:02:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAsparagus.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2540594,
   "sourceSha1": "f2f7b36f14b7d1d78409480456a64dbd7de56ad5",

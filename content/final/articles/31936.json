@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Lettuce Products",
+    "Category:Mushroom Products",
+    "Category:Potato Products",
+    "Category:Salad Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Lettuce Products",
+      "Category:Mushroom Products",
+      "Category:Potato Products",
+      "Category:Salad Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 109975,
   "revisionTimestamp": "2026-05-10T20:45:36Z",
   "route": "/wiki/mushroom-salad-31936",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushroom_Salad",
   "title": "Mushroom Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mushroom Salad.png|200px|left|Mushroom salad]]\n\n{{Infobox\n |level = 89|price = 1 to 216|time = 1 h|xp = 26|source = {{Infoicon|saladb|bigger|link=Salad Bar}}|base = 60|dia = 4|time3 = 51 min|title = [[Products|Product]]}}\n'''Mushroom salad''' is a [[products|product]] unlocked at [[experience]] level 89.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Making mushroom salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nMushroom salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mushroom.png|75px|Mushrooms|link=Mushroom]]\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|[[File:Potato.png|75px|Potatoes|link=Potato]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make one plate, and 51 minutes in a fully [[Masteries|mastered]] bar. Each plate gives players 26 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling mushroom salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Mushroom salad can be bought or sold for a maximum price of 2160 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make mushroom salad cost a total of 184 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 mushroom salad per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n\n{{Languages\n|de = Pilzsalat\n|es = Ensalada con setas\n|fr = Salade de Champignons\n|it = Insalata con funghi\n|nl = Paddenstoelensalade\n|no = Soppsalat\n|ru = Грибной салат\n|zh = Mushroom Salad\n}}\n[[pt-br:Salada com cogumelos]]\n\n[[Category:Salad Bar Products]]\n[[Category:Bacon Products]]\n[[Category:Potato Products]]\n[[Category:Lettuce Products]]\n[[Category:Mushroom Products]]",
   "wikitextHash": "a17d30fd8397755ca475ddf73bb660237683da3fc1d5ebf45287f084c3bd53ad"
 }

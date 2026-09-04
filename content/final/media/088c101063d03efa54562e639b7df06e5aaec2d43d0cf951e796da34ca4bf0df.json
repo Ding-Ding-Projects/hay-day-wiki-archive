@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Plain_Donut.png",
+  "filePageId": 34941,
+  "filePageRevisionId": 104785,
+  "filePageRevisionSha1": "06c269dc25bf81fb54a7716214a3824e609add69",
+  "filePageRevisionTimestamp": "2024-02-12T10:14:37Z",
+  "filePageWikitext": "== Summary ==\nPicture of [[Plain Donut|plain donut]] from original Dairy News video. Place holder until actual image with no background is uploaded.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "dd448c36e3f19b0e46b9bf681f0c2f2ec776044ec04baf3d0376bc6b84dcfd0f",
   "height": 2532,
   "immutableUrl": null,
   "mediaId": "File:Plain Donut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T10:14:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlain%20Donut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1731953,
   "sourceSha1": "c3187fa52d0a937355a5411c9a4b124e90e760cc",

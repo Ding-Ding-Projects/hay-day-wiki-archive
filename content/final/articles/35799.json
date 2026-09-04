@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -333,11 +341,12 @@
   "revisionId": 109763,
   "revisionTimestamp": "2026-05-03T10:00:08Z",
   "route": "/wiki/asparagus-35799",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Asparagus",
   "title": "Asparagus",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File: Asparagus.png|200px|left|Asparagus]]\n\n{{Infobox\n|level = 49\n|price = 1 to 43\n|time = 6 h\n|xp = 8\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 12\n|dia = 8\n|title = [[Crops|Crop]]}}\n'''Asparagus''' is field [[crops]] unlocked at [[experience]] level 49. It was added in Summer 2023 Update.\n\nIt's used to make [[Asparagus Quiche|asparagus quiche]], [[Asparagus Soup|asparagus soup]], [[Grilled Asparagus|grilled asparagus]], [[Spring Omelet|spring omelet]] and [[Breakfast Waffles|breakfast waffles]]. \n\nLike all crops, it is stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 650 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing asparagus'''===\nAsparagus is grown in [[Farm|fields]] by planting another asparagus (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 8 [[experience]] points, and takes 6 hours to mature.\n<gallery>\nFile:Asparagus Stage 1.png\nFile:Asparagus Stage 2.png\nFile:Asparagus Stage 3.png\nFile:Asparagus Stage 4.png\nFile:Asparagus Stage 5.png\n</gallery>\n\n----\n==='''Selling asparagus'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Asparagus can be sold or bought for a maximum price of 432 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using asparagus''' ===\nAsparagus is used to make the following [[products]]:\n\n{{Item Usage|Asparagus\n|Asparagus Quiche|2|49\n|Asparagus Soup|3|51\n|Grilled Asparagus|5|67\n|Spring Omelet|2|77\n|Breakfast Waffles|2|119\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 6 to 12 asparagus per crate, up to a total of 48 per boat.\n* Each unit of asparagus gives players 17 coins and 13 experience points in boat orders.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n* Asparagus, like tomatoes, are hard to find in the [[Daily Dirt]] and sells well at maximum price.\n** However, be mindful that asparagus will sell slightly slower than tomatoes due to there being less recipes that use it compared to tomatoes.\n* With the exception of grilled asparagus, most recipes only require two to three asparagus, while you won't need to keep that much on hand, be very careful about selling or using all of your asparagus without planting a few since you will have a very difficult time finding it in the [[Daily Dirt]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Spargel\n|es = Espárragos\n|fr = Asperge\n|it = Asparago\n|no = Asparges\n|ru = Спаржа\n}}\n[[pt-br:Aspargo]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "b4e3e551fd95245678bab16628479264307c8b9014f8b27c2d5bd3df0b74138e"
 }

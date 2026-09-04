@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Advance_Settings_Farm.png",
+  "filePageId": 22756,
+  "filePageRevisionId": 76282,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2017-12-27T17:32:12Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
+  "height": 1393,
+  "immutableUrl": null,
+  "mediaId": "File:Advance Settings Farm.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-11-21T07:05:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AAdvance%20Settings%20Farm.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 361914,
+  "sourceSha1": "38e29c2c809a079244aa7d4ca5b343f2d58e8688",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c4/Advance_Settings_Farm.png/revision/latest?cb=20151121070552",
+  "title": "File:Advance Settings Farm.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

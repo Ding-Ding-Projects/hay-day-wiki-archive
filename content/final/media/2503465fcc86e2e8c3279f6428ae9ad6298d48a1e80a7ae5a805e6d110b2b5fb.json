@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Harvest_Derby.png",
+  "filePageId": 28647,
+  "filePageRevisionId": 82480,
+  "filePageRevisionSha1": "6a7adebc374cff906764ad7c5388c76f41ffeb85",
+  "filePageRevisionTimestamp": "2018-08-09T13:17:42Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "421c7ff9ad79bdacc978a30f85227d63be228d9cc9541647a36876d11896bc75",
   "height": 518,
   "immutableUrl": null,
   "mediaId": "File:Harvest Derby.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-08-09T13:17:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHarvest%20Derby.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 388374,
   "sourceSha1": "3bc08ef6b1e4f0852dd15e4fce49cfaa3710057a",

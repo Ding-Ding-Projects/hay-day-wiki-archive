@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -111,11 +121,12 @@
   "revisionId": 106216,
   "revisionTimestamp": "2024-11-06T18:56:44Z",
   "route": "/wiki/gift-card-16941",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gift_Card",
   "title": "Gift Card",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gift Card.png|left|200px|Gift card]]\nGift cards are a type of [[Currencies|currency]] used to buy mystery packages from the [[catalogue]].\n\nThey are unlocked at [[experience]] level 15.\n\n{{Clr}}----\n==='''Getting gift cards'''===\n[[File:Thank You Letter.png|left|150px|Gift card]]\nWhen players help other players an envelope appears on the crate they filled or the plant they revived. Double tapping on this envelope sends a 'thank you' letter.\n\nGift cards are randomly attached to thank you letters from these players, and are delivered by [[Alfred]] once a day to the player's [[mailbox]]. Up to thirty thank you letters may be delivered a day, with a maximum of seven gift cards.\n\nA player may only have a maximum of 40 gift cards at a time, and the number of gift cards that the player currently has is displayed on the cover of the catalogue. If they have reached this limit, envelopes keep being received but the enclosed gift cards cannot be collected until players use the cards they already have.\n----\n==='''Using cards'''===\n{{Main|Catalogue}}\n[[File:Catalogue Front.png|150px|left|The catalogue]]\nGift cards can be used to purchase items from the \"Fyne & Mysterious Giftes [[Catalogue]],\" found by clicking the blue post box at the end of the driveway.\n\nMystery packages are sold for 5, 10, 20, 25, 30 or 35 cards.\n\n{{Clr}}----\n==='''Letter messages'''===\nThe thank-you letters may contain any one of the following messages. These are always followed by \"Regards, (farm name)\".\n*''Always look on the bright side of life!''\n*''Big thanks! You're the best!''\n*''Boat load of thanks for your generosity!''\n*''Don't worry, be happy! Thank you!''\n*''Hello friend! Thanks a lot!''\n*''Howdy! You really helped me out.''\n*''I couldn't have done it without you!''\n*''I live in the space of thankfulness.''\n*''Joy is the simplest form of gratitude.''\n*''Moo-chly appreciated!''\n*''Nothing is more honorable than a grateful heart.''\n*''Roses are red, violets are blue, sugar is sweet and so are you.''\n*''Super super sweet thank you!''\n*''Thanks for helping me out my friend.''\n*''Thank you!''\n*''Thank you friend! Have a nice day and come back again!''\n*''Thank you! How are you doing?''\n*''Thank you! I hope I can help you back soon.''\n*''Thank you! I hope my letter has a gift card in it.''\n*''Thank you! I'll buy you an ice-cream when we meet.''\n*''Thank you so much!''\n*''Thanx, have a moowy day!''\n*''The greatest gain is to give to others. I give you thanks.''\n*''The world just got brighter cuz of you, Thanks!''\n*''You're a good friend. Come visit anytime!''\n*''You're an angel - thanks for helping!''\n*''You've made my farming day!''\n*''You made my Hay Day! Thank You!''\n*''You Rock! Thanks a bunch!''\n*''You save me there, thanks!''\n*''Your help is always appreciated.''\n----\n\n{{Navigation}}\n{{Languages\n|de = Geschenkkarten\n|es = Vale de regalo\n|fr = Cartes Cadeaux\n}} \n[[ru:Подарочные карты]]\n[[Category:Currencies]]\n[[Category:Catalogue]]",
   "wikitextHash": "d28ba87047056a811f380d154e3f8d5ae73c078536df6bfe69ee85cc4f5998d3"
 }

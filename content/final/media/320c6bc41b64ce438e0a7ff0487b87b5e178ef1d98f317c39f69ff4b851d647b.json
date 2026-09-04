@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Calming_Diffuser.png",
+  "filePageId": 36222,
+  "filePageRevisionId": 108830,
+  "filePageRevisionSha1": "e23bd839441caeb13fe4e3c686f3133f16b9b498",
+  "filePageRevisionTimestamp": "2025-10-23T21:17:04Z",
+  "filePageWikitext": "== Summary ==\nScreenshot from game \n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0a51fd93cedd0ce63fd15b42436860ae13e17d64264fd78fa1a308af7c80fe16",
   "height": 1635,
   "immutableUrl": null,
   "mediaId": "File:Calming Diffuser.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T19:43:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACalming%20Diffuser.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 847736,
   "sourceSha1": "5e818094751f5b82824f9a615eb4811bfc0fc8c1",

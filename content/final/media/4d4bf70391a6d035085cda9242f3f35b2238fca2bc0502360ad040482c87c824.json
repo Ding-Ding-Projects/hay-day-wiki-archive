@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Apple_Daily_Dirt.png",
+  "filePageId": 35348,
+  "filePageRevisionId": 100293,
+  "filePageRevisionSha1": "0e8d94f605ad1280ed51f1e5d4e5eb0211a37fb5",
+  "filePageRevisionTimestamp": "2022-02-15T18:42:25Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}",
+  "filePageWikitextHash": "4e180c42f07d036301e173df959a6bcd49ffe28eaab2c7ab605ad2a6b15d044e",
+  "height": 690,
+  "immutableUrl": null,
+  "mediaId": "File:Apple Daily Dirt.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-02-15T18:42:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
+  "route": "/media/File%3AApple%20Daily%20Dirt.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 258917,
+  "sourceSha1": "edb0a2f761d16a9b5c8deabe473c67ff05816c88",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Apple_Daily_Dirt.png/revision/latest?cb=20220215184225",
+  "title": "File:Apple Daily Dirt.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1048
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 105518,
   "revisionTimestamp": "2024-06-28T22:05:55Z",
   "route": "/wiki/category%2Fcategory-popcorn-products-36128",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Products",
   "title": "Category:Popcorn Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Popcorn.png|thumb]]\nProducts of [[Popcorn]].\n[[Category:Products]]",
   "wikitextHash": "48aba01cfd021f33ff648bd2db6f0a4b9735cb4741e8c7fbce80cc8418659f3c"
 }

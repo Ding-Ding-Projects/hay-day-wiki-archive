@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candy_Cane_Bench.png",
+  "filePageId": 26548,
+  "filePageRevisionId": 77273,
+  "filePageRevisionSha1": "8de8542a7b2cb6568cedb02e4c7c98c0b61a4091",
+  "filePageRevisionTimestamp": "2018-02-07T17:47:16Z",
+  "filePageWikitext": "Candy Cane Bench\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "27e940d75c99ef9d5f4b9bd60528c01ab1d7a3b7d41fe733a016921be6087721",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Candy Cane Bench.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:47:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACandy%20Cane%20Bench.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 192542,
   "sourceSha1": "5573bc9e36b8fe3480d9bf5dce586c9fdf75c2a6",

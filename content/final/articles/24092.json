@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Events"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Events"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -76,11 +86,12 @@
   "revisionId": 107631,
   "revisionTimestamp": "2025-03-24T22:06:59Z",
   "route": "/wiki/decorations-events-24092",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Events",
   "title": "Decorations/Events",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Event decorations'''===\n[[File:Shop Rewards.png|left|100px|Rewards tab]]\n'''Event decorations''' can only be won by participating in seasonal global [[events]]. Some eventually end up in the [[shop]] or the [[Valley Shop|valley shop]]. These have not been included in this list.\n\n{{Clr}}\n<gallery expand=\"true\" widths=\"150px\">\nBarrel_Organ.png|Barrel Organ\nBirthday Bench.png|Birthday Bench\nBlue Cake.png|Blue Cake\nChocolate Fountain.png|Chocolate Fountain\nDesert Table.png|Desert Table\nDrum.png|Drum\nEaster_Gate.png|Easter Gate\nFestive Swing.png|Festive Swing\nFireworks Cart.png|Fireworks Cart\nFish_Floatie.png|Fish Floatie\nGingerbread_Train.png|Gingerbread Train\nHeart_Bench.png|Heart Bench\nHeart_Gate.png|Heart Gate\nLollipop Cake.png|Lollipop Cake\nLovely_Bench.png|Lovely Bench\nHug Statue.png|Hug Statue\nMausoleum.png|Mausoleum\nMidnight Clock.png|Midnight Clock\nRainbow Flag.png|Rainbow Flag\nRoundabout.png|Roundabout\nSpooky Scarecrow.png|Spooky Scarecrow\nValentines Wagon.png|Valentine's Wagon\nWitch_Cat.png|Witch Cat\nWonder Tree.png|Wonder Tree\nPumpkin Scarecrow.png|Pumpkin Scarecrow\nMovie Stars.png|Movie Stars\nBirthday Ferris Wheel.png|Birthday Ferris Wheel\n</gallery>\n[[ru:Украшения#Украшения_из событий]]\n{{Languages\n|es = Decoraciones/Eventos\n}}\n\n[[Category:Events]]\n[[Category:Decorations]]",
   "wikitextHash": "ae5f81b1f03eaeee0e2f810f56134ee76c0440c914b711c21520fcda6ce17edf"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dogs.png",
+  "filePageId": 19804,
+  "filePageRevisionId": 48387,
+  "filePageRevisionSha1": "b2ea23224c4a25dbf99929c46538aeeb8aa1d7f6",
+  "filePageRevisionTimestamp": "2015-06-12T22:20:47Z",
+  "filePageWikitext": "[[Category:Image User]]",
+  "filePageWikitextHash": "6f9adc204b7d7931ba69cdb6f07f622358498d9b24279c9afae3ef9210d36371",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Dogs.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-05-11T22:57:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ADogs.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 44878,
+  "sourceSha1": "743e46f58293197be08eb6ab9ba0c173ce83e0a9",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ac/Dogs.png/revision/latest?cb=20150511225702",
+  "title": "File:Dogs.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 507
+}

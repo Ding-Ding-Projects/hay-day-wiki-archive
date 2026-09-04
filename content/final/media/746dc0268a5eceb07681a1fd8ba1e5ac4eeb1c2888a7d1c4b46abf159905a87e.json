@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sesame_Stage_5.png",
+  "filePageId": 31944,
+  "filePageRevisionId": 88460,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2019-10-23T16:09:01Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 766,
   "immutableUrl": null,
   "mediaId": "File:Sesame Stage 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T16:09:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASesame%20Stage%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 431013,
   "sourceSha1": "0845833771f564e2339e902465ad2e53758a7c07",

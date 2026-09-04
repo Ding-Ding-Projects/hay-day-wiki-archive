@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orange_Tree_Deco.png",
+  "filePageId": 27844,
+  "filePageRevisionId": 77364,
+  "filePageRevisionSha1": "1803b572629cf268b99f0b2cf60e583d60891700",
+  "filePageRevisionTimestamp": "2018-02-07T19:13:28Z",
+  "filePageWikitext": "== Summary ==\nOne of the NEW Trees (5 of 5)\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "941dd5c17a449da6ad73c237c805eae20d39de03da30ea7486eb2dc9fb03ce0d",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Orange Tree Deco.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:12:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOrange%20Tree%20Deco.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 441889,
   "sourceSha1": "6f9055fa60311044b41ebf4a96775947e3669ebc",

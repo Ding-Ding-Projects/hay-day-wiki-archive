@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mixed_Smoothie.png",
+  "filePageId": 24882,
+  "filePageRevisionId": 104764,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-11T17:16:01Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 768,
   "immutableUrl": null,
   "mediaId": "File:Mixed Smoothie.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T17:16:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMixed%20Smoothie.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 593593,
   "sourceSha1": "65cd42558a3bdc4c695e870be1f514f02b8b7f72",

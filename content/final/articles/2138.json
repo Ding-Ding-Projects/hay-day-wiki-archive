@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89072,
   "revisionTimestamp": "2019-10-26T04:15:23Z",
   "route": "/wiki/category%2Fcategory-pages-with-broken-file-links-2138",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pages_with_broken_file_links",
   "title": "Category:Pages with broken file links",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Site Administration]]",
   "wikitextHash": "85f2eeba17370ac56f91d93fd6d0bf4b04e6c92ab680fb9b09078fee90c741bf"
 }

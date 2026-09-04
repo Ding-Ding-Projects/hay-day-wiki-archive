@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sugar_Mill.png",
+  "filePageId": 2368,
+  "filePageRevisionId": 110887,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2026-08-10T19:41:35Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 632,
   "immutableUrl": null,
   "mediaId": "File:Sugar Mill.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 7,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-08-10T19:41:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASugar%20Mill.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 298106,
   "sourceSha1": "6fa119cae29ba630c081256baaac640e84b60e90",

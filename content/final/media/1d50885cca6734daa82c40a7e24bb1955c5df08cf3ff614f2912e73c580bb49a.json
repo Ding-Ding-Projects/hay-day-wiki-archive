@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Wrapping_Station_Mastery_III.png",
+  "filePageId": 35994,
+  "filePageRevisionId": 104384,
+  "filePageRevisionSha1": "d2f45ef9f2c422d6703503313c2f92183c3154ac",
+  "filePageRevisionTimestamp": "2023-12-15T18:23:25Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "e67de001443b57c6dc6f7e331a364d80067f2f9805db338f0fde353406150abe",
   "height": 138,
   "immutableUrl": null,
   "mediaId": "File:Gift Wrapping Station Mastery III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-12-15T18:23:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Wrapping%20Station%20Mastery%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 71694,
   "sourceSha1": "d4c576d76271ba21bdd9a6624742059b9c72c7c4",

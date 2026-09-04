@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:POWER_DERBY_RESULTS!_ON_THE_HUNT_FOR_GNOMES!!_Rowdy_Ranch",
+  "filePageId": 30599,
+  "filePageRevisionId": 83359,
+  "filePageRevisionSha1": "6a905e05b9bf62d6b62bb2d883cf553e0ee52874",
+  "filePageRevisionTimestamp": "2018-10-22T23:37:29Z",
+  "filePageWikitext": "\n== Description ==\nHi all!  In this video I am going to go over the Power Derby results! How did your hood do?  Was it easy?  Come into my Live Stream TOMORROW at 9pm Eastern time to discuss the Power Derby!!\n\n\nSUBSCRIBE to my channel here: https://www.youtube.com/channel/UCLAv2sEbnE79vRgmFPtcP9Q?sub_confirmation=1\n\n\nI also now have a Twitter and a Facebook page!\n\n~Twitter: https://twitter.com/Rowdy_Ranch\n~Facebook: https://facebook.com/RowdyRanchHayDay\n\n~Link to the Rowdy Ranch Fan Base Server: https://discord.gg/X78kvfQ\n\n~Music: https://www.bensound.com/royalty-free-music\n\n~Link to the /r/HayDay server: https://discord.gg/3R7MmCW\n\n~Where I get all of my Hay Day images: http://hayday.wikia.com/wiki/Hay_Day_Wiki\n[[Category:Videos]]",
+  "filePageWikitextHash": "68f11a649b1be3617f51c0c85fb3e514ab1652e5cefaefbc5bfe98f32c2f3e5e",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:POWER DERBY RESULTS! ON THE HUNT FOR GNOMES!! Rowdy Ranch",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-22T23:37:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3APOWER%20DERBY%20RESULTS!%20ON%20THE%20HUNT%20FOR%20GNOMES!!%20Rowdy%20Ranch",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 20094,
+  "sourceSha1": "03de2e95f99623eed2c9421c05434720cc0d05ec",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/ce/POWER_DERBY_RESULTS%21_ON_THE_HUNT_FOR_GNOMES%21%21_Rowdy_Ranch/revision/latest?cb=20181022233728",
+  "title": "File:POWER DERBY RESULTS! ON THE HUNT FOR GNOMES!! Rowdy Ranch",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

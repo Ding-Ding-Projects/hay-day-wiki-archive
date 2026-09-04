@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/White_Lily?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 91653,
   "revisionTimestamp": "2020-03-30T13:56:09Z",
   "route": "/wiki/white-lily-33006",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/White_Lily",
   "title": "White Lily",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Lily]]",
   "wikitextHash": "81c6b7f4c3b29d1c79d723ea95ac75a10fc78f215137edfa6ac2cb4da678c701"
 }

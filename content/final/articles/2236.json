@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -431,11 +439,12 @@
   "revisionId": 110352,
   "revisionTimestamp": "2026-06-03T16:52:44Z",
   "route": "/wiki/tomato-2236",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tomato",
   "title": "Tomato",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tomato.png|200px|left|Tomato]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 30\n |price = 1 to 43\n |time = 6 h\n |xp = 8\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 12\n |dia = 8\n}}\n'''Tomatoes''' are field [[crops]] unlocked at [[experience]] level 30.\n\nThey are used to make many recipes, including juice and sauce which are then used to make other products.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 650 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing tomatoes'''===\nTomatoes are grown in [[Farm|fields]] by planting another tomato (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 8 {{Infoicon|xp}} points, and takes 6 hours to mature.\n<gallery>\nTomato Stage 1.png\nTomato Stage 2.png\nTomato Stage 3.png\nTomato Stage 4.png\nTomato Stage 5.png\n</gallery>\n----\n==='''Selling tomatoes'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Tomatoes can be sold or bought for a maximum price of 432 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using tomatoes'''===\nTomatoes are used to make the following [[products]]:\n\n{{Item Usage|Tomato\n|Roasted Tomatoes|2|30\n|Tomato Juice|3|31\n|Lamb Doner Wrap|1|32\n|Pizza|1|33\n|Spicy Pizza|1|37\n|Lobster Soup|1|46\n|Tomato Soup|2|47\n|Bean Dip|1|54\n|Bean Salad|1|58\n|Veggie Bagel|2|61\n|Pasta Salad|2|67\n|Tomato Sauce|2|69\n|Gnocchi|3|72\n|Veggie Platter|2|74\n|Tofu Dog|2|76\n|Salsa|2|77\n|Lobster Pasta|4|79\n|Cheese Omelet|2|79\n|Summer Salad|3|84\n|Cheese Fondue|1|91\n|Veggie Bouquet|3|106\n|Chickpea Stew|2|106\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 6 to 12 tomatoes per crate, up to a total of 48 per boat.\n* Each unit of tomato gives players 17 coins and 13 experience points in boat orders.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Tomatoes are rarely found in the [[Daily Dirt]]. They are rare enough that selling them at a lower price is not recommended.\n* Recipes ask for one to four tomatoes. You may want to make sure you always have enough of them in your [[silo]].\n* Tomatoes are the best way to make coins even if you are at low level. Plant them overnight and they will get sold real quick.\n\n{{Clr}}----\n==='''Other information'''===\n[[File:HayDayOfficialRoadsideShop.jpg|thumb|right|200px]]\n* In Hay Day's roadside shop promotion image, only tomato is not set at maximum price. (406 {{Infoicon|coin}} for 10 units)\n[[ru:Помидоры]]\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Tomate\n|es = Tomate\n|fr = Tomate\n|it = Pomodoro\n|nl = Tomaten\n|no = Tomat\n|vi = Tomato\n|zh = Tomato\n}}\n[[pt-br:Tomate]]\n[[ru:Помидоры]]\n[[Category:Field Crops]]",
   "wikitextHash": "ded52a11469cd3c0264c79a75b451309e5d22ba4b543198dba2d340c2136c634"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mushroom_Pasta.png",
+  "filePageId": 31919,
+  "filePageRevisionId": 104779,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-11T17:58:32Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 2060,
   "immutableUrl": null,
   "mediaId": "File:Mushroom Pasta.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T17:58:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMushroom%20Pasta.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3639824,
   "sourceSha1": "10703e3c542e2e5fcbafcd2624c50635f75b9e65",

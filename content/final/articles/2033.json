@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Videos?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95426,
   "revisionTimestamp": "2020-08-18T01:44:37Z",
   "route": "/wiki/category%2Fcategory-videos-2033",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Videos",
   "title": "Category:Videos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''Videos''' on {{SITENAME}}.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "99f6ae548cce6d7b989ffcbdbb4899231bcd70097b448dc4010f007eedcde81e"
 }

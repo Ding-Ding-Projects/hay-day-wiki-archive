@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Valentines_Wagon.png",
+  "filePageId": 23532,
+  "filePageRevisionId": 77313,
+  "filePageRevisionSha1": "eb49a050d09f2a162d34092c23f81c4b845fe41b",
+  "filePageRevisionTimestamp": "2018-02-07T18:34:53Z",
+  "filePageWikitext": "Valentine's Wagon 2016\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "712de64f03c72aa5c91f7284ac4a4dd5ebb7b04bf53659de17b5ff518c1d1cb6",
   "height": 308,
   "immutableUrl": null,
   "mediaId": "File:Valentines Wagon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:34:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AValentines%20Wagon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 72570,
   "sourceSha1": "a2f42e977bba40c83e2d01bf124c85ae7e87c761",

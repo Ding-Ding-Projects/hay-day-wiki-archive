@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Muffin_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 110543,
   "revisionTimestamp": "2026-06-15T21:15:39Z",
   "route": "/wiki/category%2Fcategory-raspberry-muffin-products-36831",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Muffin_Products",
   "title": "Category:Raspberry Muffin Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Raspberry Muffin.png|thumb]]\nProducts of [[Raspberry Muffin]].\n[[Category:Products]]",
   "wikitextHash": "578f5b16cc3dc777e7a5c4a4362ad27baaaeb3ae9dbfd564ce3c7d91b049d98b"
 }

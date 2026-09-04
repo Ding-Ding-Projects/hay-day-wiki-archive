@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bath Kiosk Products",
+    "Category:Cacao Products",
+    "Category:Coffee Bean Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bath Kiosk Products",
+      "Category:Cacao Products",
+      "Category:Coffee Bean Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110195,
   "revisionTimestamp": "2026-05-23T21:37:58Z",
   "route": "/wiki/exfoliating-soap-34845",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Exfoliating_Soap",
   "title": "Exfoliating Soap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Exfoliating Soap.png|200px|left|Exfoliating soap]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 93\n |price = 1 to 363\n |time = 1 hr\n |source = {{Infoicon|bathk|bigger|link=Bath Kiosk}}\n |xp = 43\n |base = 101\n |dia = 4\n |time3 = 51 min\n}}\n'''Exfoliating soap''' is a [[Products|product]] unlocked at [[experience]] level 93.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making exfoliating soap'''===\n[[File:Bath Kiosk.png|150px|left|Bath Kiosk]]\nExfoliating soap is made in the [[Bath Kiosk]].\n\nTo make exfoliating soap, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Coffee Bean.png|75px|Coffee bean|link=Coffee Bean]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make one bar of exfoliating soap, and 51 minutes in a fully [[Masteries|mastered]] kiosk. Each bar gives players 43 [[experience]] points.\n\n{{Clr}}----\n==='''Selling exfoliating soap'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Exfoliating soap can be bought or sold for a maximum price of 3,636 {{Infoicon|Coin}} for 10 bars.\n*Buying the ingredients required to make exfoliating soap costs 346 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 exfoliating soaps per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Probably the easiest to produce out of all 5 products. However, [[Cacao]] require substantial amount of time to grow and highly demand in many other products, they are not easy to find in the [[Daily Dirt]] as well. \n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Peeling-Seife\n|es = Jabón exfoliante\n|fr = Savon Exfoliant\n|it = Sapone esfoliante\n|nl = Exfolierende Zeep\n|no = Såpe\n|ru = Мыло-скраб\n|zh = Exfoliating Soap\n}}\n[[pt-br:Sabonete exfoliante]]\n\n[[Category:Bath Kiosk Products]]\n[[Category:Coffee Bean Products]]\n[[Category:Cacao Products]]\n[[Category:Raspberry Products]]",
   "wikitextHash": "0a33bb9f8c88a7268f2fc6b33959f54f5015493673200da936aa3c25d96eef9d"
 }

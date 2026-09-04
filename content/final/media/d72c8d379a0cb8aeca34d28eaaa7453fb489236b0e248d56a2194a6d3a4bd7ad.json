@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daily_Dirt_Cover.jpg",
+  "filePageId": 20228,
+  "filePageRevisionId": 65990,
+  "filePageRevisionSha1": "1dc68f1d498b0dfadbeb5fa4dec7501c7cbd4752",
+  "filePageRevisionTimestamp": "2016-10-28T13:28:55Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "06589bef8828d885c9f9af563a96e6ff3bed260ca94cc0053650f7ffed28bb69",
   "height": 681,
   "immutableUrl": null,
   "mediaId": "File:Daily Dirt Cover.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-06-17T15:04:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADaily%20Dirt%20Cover.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 52501,
   "sourceSha1": "7fa2bdf50341e6225fb78eca0d5bc8c6d5d2130b",

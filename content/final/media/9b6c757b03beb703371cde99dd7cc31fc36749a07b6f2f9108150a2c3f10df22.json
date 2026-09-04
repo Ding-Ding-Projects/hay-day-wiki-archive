@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Icon.png",
+  "filePageId": 23072,
+  "filePageRevisionId": 104546,
+  "filePageRevisionSha1": "594e7935e66cc6fd9e91dbe69bd6f518d2d11e91",
+  "filePageRevisionTimestamp": "2024-01-26T13:19:57Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "e593859934f481b7a7502cdd73c0bc1e8e53eec0e3a193f1e42e8dba26ec5fc3",
   "height": 232,
   "immutableUrl": null,
   "mediaId": "File:Shop Icon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 107,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-01-26T13:19:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Icon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 205450,
   "sourceSha1": "b5e787ba7d7924d3aae6f4730647a58d35fc29df",

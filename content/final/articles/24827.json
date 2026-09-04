@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Missing Images",
+    "Category:Trees and Bushes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Missing Images",
+      "Category:Trees and Bushes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -197,11 +207,12 @@
   "revisionId": 109634,
   "revisionTimestamp": "2026-04-05T21:28:04Z",
   "route": "/wiki/peach-tree-24827",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peach_Tree",
   "title": "Peach Tree",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{NeedPic}}\n[[File:Peach Tree.png|200px|left|Peach tree]]\n\n{{Infobox\n |title = [[Trees and Bushes|Trees & bushes]]\n |level = 76\n |price = 750\n |gives = {{Infoicon|peach|big|link=Peach}}\n |time = every 1 d 5 h\n |xp = 20\n |dia = 17\n}}\n'''Peach trees''' are a type of [[Trees and Bushes|tree]] unlocked at [[experience]] level 76.\n\nEach tree can give up to 13 [[peach]]es, which are collected over 4 harvests.\n\n{{Clr}}\n----\n==='''Stages'''===\n{| style=\"text-align: center;\"\n|-\n|[[File:PeachTree Stage1.png|100px]]\n|{{NoPic}}\n|[[File:Peach Tree.png|100px]]\n|{{NoPic}}\n|-\n|'''Stage 1'''\n|'''Stage 2'''\n|'''Ready'''\n|'''Dead'''\n|}\n----\n==='''Buying'''===\n{{Infoicon|shop|bigger|link=Shop}} Peach trees can be purchased in the [[shop]] for 750 [[coin]]s each.\n----\n==='''Harvesting'''===\nThe time between harvests is 1 day and 5 hours for each tree. Each harvest yields additional peaches:\n{| style=\"text-align: center;\"\n|-\n|{{NoPic}}\n|{{NoPic}}\n|[[File:Peach Tree.png|100px]]\n|-\n|'''2 peaches'''\n|'''3 peaches'''\n|'''4 peaches'''\n|}\n\n{{Clr}}\n----\n==='''Revival'''===\n{{NoPic}}\nAfter the third harvest the tree wilts. A player can ask for another player to revive it by tapping on it and placing a sign on the tree. When another player revives it a final harvest of four peaches can be collected before the tree dies.  The helper gets 20 {{Infoicon|xp}} points by reviving a peach tree.\n\n{{Clr}}\n----\n==='''Removing'''===\n[[File:Saw.png|left|150px]]\nA [[saw]] is needed to remove a dead tree from the farm. Note that players may also use a saw to remove the tree after the third harvest instead of placing it up for revival.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Pfirsichbaum\n|es = Melocotonero\n|fr = Pêcher\n|it = Pesco\n|no = Ferskentre\n|ru = Персик (дерево)\n}}\n[[Category:Trees and Bushes]]",
   "wikitextHash": "3d72d453c8a8ef6ac096a5211439ca27bac4281f69148ea3ca36bd0205b8bee3"
 }

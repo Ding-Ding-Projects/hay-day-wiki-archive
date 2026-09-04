@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cacao_Tree_Stage_2.png",
+  "filePageId": 26141,
+  "filePageRevisionId": 89394,
+  "filePageRevisionSha1": "351ef95fa426183899692648f4df0be37558501d",
+  "filePageRevisionTimestamp": "2019-10-28T18:08:46Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "daa851210fbf5efe2ff7a4889f6b1f89d634faf3abf18dee06ed2c729cdf715a",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Cacao Tree Stage 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T18:08:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACacao%20Tree%20Stage%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 58100,
   "sourceSha1": "ba816a63bb6cfd9d7d30e006e2641b95032aea3e",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Diamond.png",
+  "filePageId": 14416,
+  "filePageRevisionId": 74215,
+  "filePageRevisionSha1": "3dd210acab3ad04678d4572a8b0e3c91d9d21006",
+  "filePageRevisionTimestamp": "2017-10-22T10:07:44Z",
+  "filePageWikitext": "Picture of a diamond.\n\n==Credits==\n* Diamond vector image by Carla Romina Porciúncula Valls @thenounproject.com (CC BY 3.0 US).\n* Star brush from Azureluck @deviantart.com.\n{{CC-BY-SA-3.0}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "54bebd95f3a39418671a5e2b98d8453fbcb9aa65cafb399ced7226766a363eac",
   "height": 685,
   "immutableUrl": null,
   "mediaId": "File:Diamond.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 672,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-12T15:43:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA-3.0"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3ADiamond.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 177740,
   "sourceSha1": "19cdfe4c6431d556bac4eafdf5bc5ed21587efd9",

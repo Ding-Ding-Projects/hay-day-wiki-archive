@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Help?action=history",
@@ -35,11 +43,12 @@
   "revisionId": 78881,
   "revisionTimestamp": "2018-04-17T19:39:42Z",
   "route": "/wiki/category%2Fcategory-help-1463",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Help",
   "title": "Category:Help",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''For help with this wiki''' see [[Help:Contents]]. You can also ask questions in [http://hayday.wikia.com/d/f discussions]. To contact an [[Hay Day Wiki:Staff|staff member]] or any currently active contributor (the people whose names appear on [[Special:RecentChanges|the \"Recent changes\" page]]), use their talk pages.\n\n'''For help with the game''' see the following pages. You can also ask questions in [http://hayday.wikia.com/d/f discussions].\n[[Category:Game Features]]",
   "wikitextHash": "4f4852f6d2ab2a9e980eb30ea2d52d185299f9fe5b3fe2072d73bdfba0a9b884"
 }

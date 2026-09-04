@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -329,11 +337,12 @@
   "revisionId": 110417,
   "revisionTimestamp": "2026-06-06T13:40:32Z",
   "route": "/wiki/milkshake-bar-35971",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Milkshake_Bar",
   "title": "Milkshake Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Milkshake Bar.png|left|239x239px|Milkshake Bar]]\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 124\n |price = 1,350,000\n |time = 4 d\n |slots = 2\n |xp = 44\n |dia = 89\n |size = 2×2\n}}\nThe '''Milkshake Bar''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 124. It was added in the November 2023 update.\n\nIt is used to make [[Vanilla Milkshake]], [[Mocha Milkshake]] and [[Fruity Milkshake]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 1,350,000 {{Infoicon|coin}} and takes 4 days (or 89 {{Infoicon|dia}}) to build the Milkshake Bar. It gives players 44 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThis machine is composed of a cyan colored milkshake blender; surrounding some whipping cream, straws and cherries on the side, a red stool behind the bar, including a freezer and some glass cups drawer below.\n\nThe mastered version of this machine makes the color of the blender changed to gold, and some golden parts around the drawer with a gold star.{{Clr}}\n----\n=== '''Products''' ===\n{{Building Products\n|Vanilla Milkshake|124|45m|673\n|Mocha Milkshake|125|30m|856\n|Fruity Milkshake|126|35m|759\n}}\n{{Clr}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Milkshake Bar originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one.\n{{Clr}}\n----\n=== '''Mastering''' ===\nA total of 2,180 hours of production is required to [[Masteries|master]] the Milkshake Bar:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Milkshake Bar Mastered.png|150px|Mastered Milkshake Bar]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />140 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />410 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,630 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Milkshake Bar Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n* All of the bar's products require ice cream. Remember to keep enough. \n* The vanilla milkshake takes toffee, cookies and syrup. The mocha one requires 2 cups of expresso. Remember to keep enough of those items as well.  \n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Milchshake-Bar\n|es = Puesto de batidos\n|it = Banco dei milkshake\n|no = Milkshakebar\n|ru = Милкшейк-бар\n}}\n[[pt-br:Balcão de milk-shakes]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "4ac3b663c087e96d49abdaeef96fb46bf9fe086fef34556b338bf8061ccf0f17"
 }

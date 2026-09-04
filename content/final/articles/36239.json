@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [
     {
       "consentRequired": true,
@@ -34,11 +38,12 @@
   "revisionId": 106784,
   "revisionTimestamp": "2025-01-07T01:27:35Z",
   "route": "/wiki/category%2Fcategory-game-videos-36239",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Game_Videos",
   "title": "Category:Game Videos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[https://youtu.be/ZYsVJyeztiI?si=n7uorqZi4XWiXgvz FARM PASS LEVEL UPS]",
   "wikitextHash": "5228d21288a4a298aa8d9f33babaf516a13849405de3ce21ccd029d738df4e2c"
 }

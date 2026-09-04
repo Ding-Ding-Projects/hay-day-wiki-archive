@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candle_Maker.png",
+  "filePageId": 16478,
+  "filePageRevisionId": 108600,
+  "filePageRevisionSha1": "f723ecd75f6910b9e9cde35ae599021997779570",
+  "filePageRevisionTimestamp": "2025-09-25T20:43:04Z",
+  "filePageWikitext": "Picture of the Candle Maker.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "4277d835c36b7b5daba06317f277e172d9d81d2f737584f3408d014f439b5140",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Candle Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 10,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T20:43:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACandle%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 354559,
   "sourceSha1": "c01a6a9dea368acdc2dca68656c93fd5e98e6a6c",

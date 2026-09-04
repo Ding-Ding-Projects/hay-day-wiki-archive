@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Version_History?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 97961,
   "revisionTimestamp": "2021-06-28T12:04:10Z",
   "route": "/wiki/version-history-34971",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Version_History",
   "title": "Version History",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Update]]",
   "wikitextHash": "d8c7d832c1e895e57d3af25801ee815ed3073ce437484afc00b2996a4e5d97d3"
 }

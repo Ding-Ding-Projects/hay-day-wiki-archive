@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing",
+    "Category:Fishing Lake Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing",
+      "Category:Fishing Lake Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -259,11 +269,12 @@
   "revisionId": 103612,
   "revisionTimestamp": "2023-08-08T09:34:57Z",
   "route": "/wiki/fishing-book-17693",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fishing_Book",
   "title": "Fishing Book",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Fishing Hut.png|A fisherman's hut|left|200px]]\n'''Fishing books''' (also called \"scrapbooks\") are photo collections of each type of [[fish]] players have caught.\n\nPlayers can see their scrapbooks and other players' by tapping on the '''fisherman's hut'''.\n\n{{Clr}}----\n==='''Appearance'''===\n[[File:Fishing_book_cover.png|Fishing book cover|left|200px]]\nAll fishing books appear to have the same cover, with a faded brown cover and a photo of [[Angus]] with a mysterious character (assumed to be the player's uncle). When the book is opened, the player can see two pages of the book, each with two fish types. The player will not see photos for any fish they have not previously caught; however, they will be able to see both the photo and medals earned by catching the fish.\n\n{{Clr}}----\n==='''Adding a new photo to the book'''===\n[[File: Fishing book inside.png|A page of a fishing book|left|200px]]\nWhen [[fishing]] with [[lure]]s, every fish players catch is photographed and weighed:\n* If the fish they caught is from a new species, it is added to their uncle's fishing book\n* If it is in a new weight category, then a bronze, silver, gold, platinum fish medal shall appear next to the photo of the fish.\n\nIn addition to the photo of the fish, the book also notes the types of lures (2 types at most) the fish can be caught with, and the weight of the player's biggest catch.\n\n{{Clr}}----\n==='''Complete Fish List'''===\nThere are currently 43 different [[fish |fish]] to collect. They appear in this order in the book:\n# [[Copper Redhorse]]\n# [[Roach]]\n# [[Coho Salmon]]\n# [[Yellow Perch]]\n# [[Fallfish]]\n# ​​[[Salmon]]\n# [[Bluegill]]\n# [[Rainbowfish]]\n# [[Bluespotted Sunfish]]\n# [[Bitterling]]\n# [[Asp]]\n# [[Speckled Dace]]\n# [[Huchen]]\n# [[Shadow Bass]]\n# [[Northern Pike]]\n# [[Rainbow Smelt]]\n# [[Spotted Sunfish]]\n# [[Sauger]]\n# [[Arctic Charr]]\n# [[Rudd]]\n# [[Yellow Bass]]\n# [[Greater Redhorse]]\n# [[Golden Trout]]\n# [[Largemouth Bass]]\n# [[Brook Trout]]\n# [[Grass Carp]]\n# [[Green Sunfish]]\n# [[Northern Studfish]]\n# [[Striped Bass]]\n# [[Longear Sunfish]]\n# [[Zander]]\n# [[Giant Barb]]\n# [[Lake Sturgeon]]\n# [[Carp]]\n# [[Nile Perch]]\n# [[Red-Tailed_Catfish|Red-tailed Catfish]]\n# [[White Catfish]]\n# [[Black Bullhead]]\n# [[Goldfish]]\n# [[Sockeye Salmon]]\n# [[Lake Whitefish]]\n# [[Quillback]]\n# [[Perch]]\n\n{{Clr}}----\n==='''Rewards'''===\nCatching new fish gives players rewards:\n*one [[diamond]] for small fish (fish in the bronze category)\n*two [[diamond]]s for medium ones (fish in the silver category)\n*three [[diamond]]s for big catches (fish in the gold category).\n*four [[diamond]]s for extremely big catches (fish in the platinum category).\n\nPlayers will notice the picture of the fish in the scrapbook will be flashing if there is a reward to be collected.\n\n{{Clr}}----\n==='''Did you know?'''===\n*The \"hidden\" saying under the lures of the fish you haven't yet caught is by America's 31st president, Herbert Hoover: ''Fishing is much more than fish. It is the great occasion when we may return to the fine simplicity of our forefathers.''\n*While weight units may change depending on the language players have chosen, actual measures are not converted: for example, a 12-pound fish translates to a 12-kilo fish even though pounds do not weigh the same as kilos in real life .\n----\n{{Navigation}}\n{{Languages\n|es = Libro de pesca\n}}\n[[Category:Fishing]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "e2f335959e3f4b28a7d46f1cf2c64d0a3143f7b6025a91fbcc0dcb5df8fe05a3"
 }

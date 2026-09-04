@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:PlatinumFish.png",
+  "filePageId": 30607,
+  "filePageRevisionId": 83387,
+  "filePageRevisionSha1": "a305bda5d96df562cce54f3ad357435562c59811",
+  "filePageRevisionTimestamp": "2018-10-27T22:37:41Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5314134ec57bb60ce741d2d83184582b395c47f15612667e910319ec041ed407",
   "height": 92,
   "immutableUrl": null,
   "mediaId": "File:PlatinumFish.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-10-27T22:37:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APlatinumFish.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 7553,
   "sourceSha1": "23df65588cdcfb8c8d17f8a2bf2fbec601558761",

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Updates?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 97992,
   "revisionTimestamp": "2021-06-28T12:05:21Z",
   "route": "/wiki/updates-31879",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Updates",
   "title": "Updates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect [[Update]]",
   "wikitextHash": "799695b6db200f88b86f184a546a877f5554166c493a1f0af9b3a3c9e4a61c40"
 }

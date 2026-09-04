@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Major_Mitchell%27s_Cockatoo.png",
+  "filePageId": 35573,
+  "filePageRevisionId": 102079,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2022-12-02T21:53:21Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 620,
   "immutableUrl": null,
   "mediaId": "File:Major Mitchell's Cockatoo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-03T21:50:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMajor%20Mitchell's%20Cockatoo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 169003,
   "sourceSha1": "3c5a9e906174bdb03269e98709a7aa7416d270ba",

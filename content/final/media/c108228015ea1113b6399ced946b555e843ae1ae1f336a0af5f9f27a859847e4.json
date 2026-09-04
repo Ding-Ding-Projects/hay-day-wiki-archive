@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Spin_The_Wheel_Upgrade.png",
+  "filePageId": 32077,
+  "filePageRevisionId": 89313,
+  "filePageRevisionSha1": "410dbaccf191d5dda2871442c563586e2c9e1806",
+  "filePageRevisionTimestamp": "2019-10-28T16:00:03Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "385787885ea02daef7d67fa99846171b3753bb0475464170f229beccc4bc7254",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Spin The Wheel Upgrade.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T15:56:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASpin%20The%20Wheel%20Upgrade.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76871,
   "sourceSha1": "2abeb805949605557b224eb777c35d8d8aa19afd",

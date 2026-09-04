@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_206.png",
+  "filePageId": 35314,
+  "filePageRevisionId": 99998,
+  "filePageRevisionSha1": "a0a848f286d5d422df56211180fad74e1b1dfd48",
+  "filePageRevisionTimestamp": "2022-01-09T21:54:50Z",
+  "filePageWikitext": "== Summary ==\nbanner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "1f965cadbafa19766571522baefc074034528ff28968de84271dace8946ad710",
   "height": 356,
   "immutableUrl": null,
   "mediaId": "File:Level 206.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-02T14:15:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20206.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 601587,
   "sourceSha1": "3ac752580dd0fed2ffeac5819e3780dba2c79a9f",

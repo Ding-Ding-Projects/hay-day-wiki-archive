@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Passion Fruit Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Passion Fruit Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -164,11 +174,12 @@
   "revisionId": 107925,
   "revisionTimestamp": "2025-05-29T21:38:17Z",
   "route": "/wiki/passion-fruit-juice-35184",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Passion_Fruit_Juice",
   "title": "Passion Fruit Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Passion Fruit Juice.png|200px|left|Passion fruit juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 88\n |price = 1 to 64\n |time = 45 m\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 8\n |base = 18\n |dia = 3\n |time3 = 38 min\n}}\n'''Passion fruit juice''' is a [[Products|product]] unlocked at [[experience]] level 88.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making passion fruit juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nPassion fruit juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Passion Fruit.png|75px|link=Passion Fruit|Passion fruit]]\n|-\n|'''x2'''\n|}\nPassion fruit juice takes 45 minutes to be produced, but only 38 minutes in a [[Masteries|mastered]] press. Each bottle gives players 8 [[experience]] points.\n----\n==='''Selling passion fruit juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Juice can be bought or sold for a maximum price of 648 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make the juice costs 36 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 6 to 10 juice per crate, up to a total of 30 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n----\n==='''Did you know?'''===\n----\n\n{{Navigation}}\n{{Languages\n|de = Passionsfruchtsaft\n|es = Zumo de maracuyá\n|fr = Jus de la Passion\n|it = Succo al frutto della passione\n|nl = Passievruchtensap\n|no = Pasjonsfruktjuice\n|ru = Сок из маракуйи\n|zh = Passion Fruit Juice\n}}\n[[pt-br:Suco de maracujá]]\n[[Category:Juice Press Products]]\n[[Category:Passion Fruit Products]]",
   "wikitextHash": "6744246ccab2a08a29f14e16c97427e02a79de0b112a70e23ba4f0e31a6611e6"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -297,11 +305,12 @@
   "revisionId": 106849,
   "revisionTimestamp": "2025-01-14T20:57:26Z",
   "route": "/wiki/copper-redhorse-10101",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Copper_Redhorse",
   "title": "Copper Redhorse",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Copper Redhorse.png|200px|left|Copper redhorse]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|redl|big|link=Lure}}\n |spots = any\n |circle = large\n |xp = 4\n}}\n'''Copper redhorses''' are a type of [[fish]].\n\nLike all types of fish, each copper redhorse gives one [[Fish Fillet|fish fillet]] when caught.\n\n{{Clr}}\n----\n==='''Catching copper redhorses'''===\nCopper redhorses can be caught with red [[lure]]s in any fishing spot, but their favorite spot is #1 (the shallow area in front of the fisherman's hut).\n\nCopper redhorses can be caught in large circles and therefore are easier to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Copper redhorses in the fishing book'''===\n[[File:Copper Redhorse Photo.png|150px|left|Fishing book photo]]\nThe copper redhorse is on page 2 of the [[Fishing Book|fishing book]]:\n\n'''This friendly, relaxed and long-living fish has found a permanent home in your lake.' ''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Saugkarpfen\n|es = Matalote\n|no = Kobber-redhorse\n}}\n[[Category:Fish]]",
   "wikitextHash": "5dfa057b0b13f3e8c54bf5b65da97b50b0ad526a2f16f1da48446896657e33dc"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Products",
+    "Category:Peanuts Products",
+    "Category:Popcorn Pot Products",
+    "Category:Sesame Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Products",
+      "Category:Peanuts Products",
+      "Category:Popcorn Pot Products",
+      "Category:Sesame Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -141,11 +155,12 @@
   "revisionId": 106378,
   "revisionTimestamp": "2024-11-25T23:06:42Z",
   "route": "/wiki/snack-mix-34680",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Snack_Mix",
   "title": "Snack Mix",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Snack Mix.png|alt=|left|239x239px|Popcorn]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 64\n |price = 1 to 309\n |time = 45 min\n |xp = 50\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |base = 86\n |dia = 3\n |time3 = 38 min\n}}\n'''Snack Mix''' is a [[Products|product]] unlocked at [[experience]] level 64.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making snack mix'''===\n[[File:Popcorn Pot.png|150px|left|link=Popcorn Pot|Popcorn Pot]]\nSnack Mix is made in the [[Popcorn Pot]].\n\nTo make snack mix, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make one serving, and 38 minutes in a fully [[Masteries|mastered]] pot. Each serving gives players 50 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling snack mix'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n\n*Snack mix can be bought or sold for a maximum price of 3,096{{Infoicon|Coin}} for 10 servings.\n*Buying the ingredients required to make snack mix costs 259 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n\n*[[Boat]] orders ask for 4 to 7 servings of snack mix per crate, up to a total of 21 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n\n*Snack mix is quick and easy to produce with commonly found ingredients.\n\n----\n\n{{Navigation}}\n{{Languages\n|de = Snackmix\n|es = Aperitivo salado\n|fr = Mélange Apéritif\n|it = Snack salati\n|nl = Knabbelmix\n|vi = Snack trộn\n|zh = Snack Mix\n}}\n[[pt-br:Lanchinhos]]\n[[ru:Ассорти закусок]]\n\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]\n[[Category:Sesame Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "57a63d6e9902e1956c221d9b112ef241dd679712cf11d4b2d7be5eb6fc4e625f"
 }

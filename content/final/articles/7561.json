@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Jam_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57775,
   "revisionTimestamp": "2016-01-21T18:09:07Z",
   "route": "/wiki/category%2Fcategory-jam-maker-products-7561",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Jam_Maker_Products",
   "title": "Category:Jam Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Jam_Maker.png|thumb]]\nProducts of the [[Jam Maker]].\n[[Category:Products]]",
   "wikitextHash": "0db8baff42167f17810bd0a03d8b107642028dc1a41e69278be7aa51b3b0a8b1"
 }

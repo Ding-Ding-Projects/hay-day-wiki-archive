@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cabin_Birthday.png",
+  "filePageId": 35485,
+  "filePageRevisionId": 101504,
+  "filePageRevisionSha1": "8b18d02fcc2ccd0857f238e7717905b4fe0b0200",
+  "filePageRevisionTimestamp": "2022-09-20T20:26:26Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "3a1340c8079a63440618edbf48c89f81da4cb280c9db19cd080b669becba9045",
   "height": 160,
   "immutableUrl": null,
   "mediaId": "File:Cabin Birthday.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-06-15T15:52:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACabin%20Birthday.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 31014,
   "sourceSha1": "94d02432e8546d24423b0ca9dfd1c721804220cc",

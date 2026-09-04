@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:The_Black_Hole_LIVE_stream.jpg",
+  "filePageId": 36135,
+  "filePageRevisionId": 105578,
+  "filePageRevisionSha1": "0ed56e5e54689c296ca91789bd2cb8f00b798500",
+  "filePageRevisionTimestamp": "2024-07-11T16:22:26Z",
+  "filePageWikitext": "Is Greg dating? Is there a black hole in Hay Day? Join us July 12th, 2024 for giveaways, week's events and a glitch???",
+  "filePageWikitextHash": "c1b11bdf5fa05c0686c7b0b03442547f9001abb9f2d27ba4fc5148caefa21bef",
+  "height": 720,
+  "immutableUrl": null,
+  "mediaId": "File:The Black Hole LIVE stream.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-07-11T16:22:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AThe%20Black%20Hole%20LIVE%20stream.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 142234,
+  "sourceSha1": "d3e3fffc139715eeb6f694246334297d5ff64c4b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cc/The_Black_Hole_LIVE_stream.jpg/revision/latest?cb=20240711162226",
+  "title": "File:The Black Hole LIVE stream.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1280
+}

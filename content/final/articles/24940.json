@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Peach Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Peach Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +155,12 @@
   "revisionId": 109514,
   "revisionTimestamp": "2026-02-28T22:33:44Z",
   "route": "/wiki/peach-jam-24940",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peach_Jam",
   "title": "Peach Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peach Jam.png|200px|left|Peach jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 79\n |price = 1 to 464\n |time = 8 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 55\n |base = 129\n |dia = 9\n |time3 = 6 h 48 min\n}}\n'''Peach jam''' is a [[Products|product]] unlocked at [[experience]] level 79.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making peach jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nPeach jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peach.png|75px|Peaches|link=Peach]]\n|-\n|'''x3'''\n|}\nIt takes 8 hours to make one jar, and 6 hours and 48 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 55 [[experience]] points.\n\n{{Clr}}----\n==='''Selling peach jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Peach jam can be bought or sold for a maximum price of 4,644 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make a jar costs 302 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 peach jam per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Pfirsichmarmelade\n|es = Mermelada de melocotón\n|fr = Confiture de Pêche\n|it = Marmellata di pesca\n|nl = Perzikjam\n|no = Ferskensyltetøy\n|ru = Персиковое варенье\n|zh = Peach Jam\n}}\n[[pt-br:Geleia de pêssego]]\n\n[[Category:Jam Maker Products]]\n[[Category:Peach Products]]",
   "wikitextHash": "e78678e593425da22c73e1154bb762fe71a7a675efed89ad83503302ac02b7ba"
 }

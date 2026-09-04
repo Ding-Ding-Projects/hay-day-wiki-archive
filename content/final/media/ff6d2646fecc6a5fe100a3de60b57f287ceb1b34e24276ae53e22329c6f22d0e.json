@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wait.png",
+  "filePageId": 7600,
+  "filePageRevisionId": 79789,
+  "filePageRevisionSha1": "8e200bdbe5037a4c6f90d4ada566f68cf9f8bb14",
+  "filePageRevisionTimestamp": "2018-04-30T22:04:12Z",
+  "filePageWikitext": "Making a visiting customer wait.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "c94e18a2f4ba4c1f64195be452f6b26933ec7b0e16d933026f47a8b3b85a0386",
   "height": 86,
   "immutableUrl": null,
   "mediaId": "File:Wait.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T22:04:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWait.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 27148,
   "sourceSha1": "9686395fcc2d5d60bbb9b1ae15098dd4e9ef4c22",

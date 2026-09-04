@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Fainting.jpg",
+  "filePageId": 22972,
+  "filePageRevisionId": 57286,
+  "filePageRevisionSha1": "d9f3ac18d7dffa9ac51d772eb1331df2f529bc08",
+  "filePageRevisionTimestamp": "2015-12-31T16:32:00Z",
+  "filePageWikitext": "\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "fbd705882f698bec21e3e78072f62c58e604131ec7dd4a7db713a36d302cb8d5",
+  "height": 733,
+  "immutableUrl": null,
+  "mediaId": "File:Goat Fainting.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-12-05T14:53:38Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGoat%20Fainting.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 192975,
+  "sourceSha1": "033eb532be353031b7e84a80d9720893bbf89807",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cf/Goat_Fainting.jpg/revision/latest?cb=20151205145338",
+  "title": "File:Goat Fainting.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1182
+}

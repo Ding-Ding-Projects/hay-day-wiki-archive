@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dynamite.png",
+  "filePageId": 3465,
+  "filePageRevisionId": 89192,
+  "filePageRevisionSha1": "fda82512230ef3a291e8c6f4445311dbb1ab17e1",
+  "filePageRevisionTimestamp": "2019-10-28T13:03:01Z",
+  "filePageWikitext": "Picture of dynamite.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "7661ba765cb4dd4e36823f1c792d9a2ef629697fc4c0819d07a6e357b4b3dd68",
   "height": 167,
   "immutableUrl": null,
   "mediaId": "File:Dynamite.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 32,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:03:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADynamite.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 29217,
   "sourceSha1": "3c2c2d34bdef9297a07bb77a476173e95bc15190",

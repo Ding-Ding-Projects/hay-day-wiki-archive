@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_Woman.png",
+  "filePageId": 26563,
+  "filePageRevisionId": 77275,
+  "filePageRevisionSha1": "79383204bfd64ef91b3893ff2af2cb545cf05505",
+  "filePageRevisionTimestamp": "2018-02-07T17:48:18Z",
+  "filePageWikitext": "Gingerbread Woman Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "f37909d5fcecfea6d42755e15ba46a7f60c8569adbb338e24417ebe14b8c0110",
   "height": 311,
   "immutableUrl": null,
   "mediaId": "File:Gingerbread Woman.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:48:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGingerbread%20Woman.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 89561,
   "sourceSha1": "e248ed1de7f7f203b467e831fd0d72653c999b15",

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hot Dog Stand Products",
+    "Category:Lettuce Products",
+    "Category:Soybean Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hot Dog Stand Products",
+      "Category:Lettuce Products",
+      "Category:Soybean Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -131,11 +145,12 @@
   "revisionId": 107318,
   "revisionTimestamp": "2025-02-22T18:54:58Z",
   "route": "/wiki/tofu-dog-19462",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tofu_Dog",
   "title": "Tofu Dog",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tofu Dog.png|200px|left|Tofu dog]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 76\n |price = 1 to 367\n |time = 45 min\n |source = {{Infoicon|hotdogs|bigger|link=Hot Dog Stand}}\n |xp = 44\n |base = 102\n |dia = 3\n |time3 = 38 min\n}}\n'''Tofu dogs''' are [[products]] unlocked at [[experience]] level 76.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tofu dogs'''===\n[[File:Hot Dog Stand.png|150px|left|Hot dog stand]]\nTofu dogs are made in the [[Hot Dog Stand]].\n\nTo make a tofu dog, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|[[File:Soybean.png|75px|Soybeans|link=Soybean]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|-\n|'''x3'''\n|'''x6'''\n|'''x4'''\n|}\nIt takes 45 minutes to make one tofu dog, and 38 minutes in a fully [[Masteries|mastered]] stand. Each dog gives players 44 [[experience]] points.\n\n{{Clr}}----\n==='''Selling tofu dogs'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Tofu dogs can be bought or sold for a maximum price of 3,672 {{Infoicon|coin}} for 10 dogs.\n* Buying the ingredients required to make a tofu dog costs 328 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 tofu dogs per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Tofu dogs are commonly found in the [[Daily Dirt]]. Selling them at maximum price may result in slower sales.\n----\n\n{{Navigation}}\n{{Languages\n|de = Tofudog\n|es = Perrito vegetariano\n|fr = Tofu-Dog\n|it = Hot dog al tofu\n|nl = Vegetarische Hotdog\n|no = Tofupølse\n|zh = Tofu Dog\n}}\n[[pt-br:Cachorro-quente com tofu]]\n[[ru:Тофу-дог]]\n\n[[Category:Hot Dog Stand Products]]\n[[Category:Soybean Products]]\n[[Category:Tomato Products]]\n[[Category:Lettuce Products]]",
   "wikitextHash": "b6740c63d35101e0ef49badd6dfb4ce9e9dc1753c51a8857c79426fe81037925"
 }

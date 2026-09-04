@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Banana Products",
+    "Category:Egg Products",
+    "Category:Grapes Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Banana Products",
+      "Category:Egg Products",
+      "Category:Grapes Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +191,12 @@
   "revisionId": 109810,
   "revisionTimestamp": "2026-05-06T20:31:47Z",
   "route": "/wiki/banana-bread-26412",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Banana_Bread",
   "title": "Banana Bread",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Banana Bread.png|200px|left|Banana bread]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 91\n |price = 1 to 424\n |time = 30 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 50\n |dia = 3\n |base = 118\n |time3 = 25 min\n}}\n'''Banana bread''' is a [[Products|product]] unlocked at [[experience]] level 91.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making banana bread'''===\n[[File:Bakery.png|150px|left|Bakery]]\nBanana bread is made in the [[Bakery]].\n\nTo make banana bread, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Banana.png|75px|Bananas|link=Banana]]\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one loaf, and 25 minutes in a fully [[Masteries|mastered]] Bakery. Each loaf gives players 50 [[experience]] points.\n\n{{Clr}}----\n==='''Selling banana bread'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Banana bread can be bought or sold for a maximum price of 4,248 {{Infoicon|Coin}} for 10 loaves.\n* Buying the ingredients required to make banana bread costs 403 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask 1 to 2 banana bread per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Bananenbrot\n|es = Pan de plátano\n|fr = Pain à la Banane\n|it = Pane di banane\n|nl = Bananenbrood\n|no = Bananbrød\n|ru = Банановый хлеб\n|zh = Banana Bread\n}}\n[[pt-br:Pão de banana]]\n\n[[Category:Bakery Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Banana Products]]\n[[Category:Grapes Products]]",
   "wikitextHash": "2866bf9e7039de72bb4b55107ad7bab467edf5be5f529426526bc023743e72ec"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Bouquet.png",
+  "filePageId": 34948,
+  "filePageRevisionId": 105157,
+  "filePageRevisionSha1": "93b1f64e31448c420695d230b8f9d01bd5df8027",
+  "filePageRevisionTimestamp": "2024-04-11T14:55:36Z",
+  "filePageWikitext": "== Summary ==\nImage of [[Birthday Bouquet|birthday bouquet]] from official Dairy News video, place holder until official image with no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "b60e8570674d67195a1d3e9a9c1d280a64ae3934e722cc09120eaa100952cd22",
   "height": 2152,
   "immutableUrl": null,
   "mediaId": "File:Birthday Bouquet.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 14,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T14:55:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABirthday%20Bouquet.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3460395,
   "sourceSha1": "65ed1d8c8c08fd5060cfdd2d58f58d2d8e76270c",

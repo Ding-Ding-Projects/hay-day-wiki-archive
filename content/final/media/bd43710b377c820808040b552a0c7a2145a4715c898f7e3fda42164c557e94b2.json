@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Australian_Pelican.png",
+  "filePageId": 35832,
+  "filePageRevisionId": 103194,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2023-06-24T18:38:35Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Australian Pelican.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-06-24T18:38:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAustralian%20Pelican.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 148500,
   "sourceSha1": "fe06a0c33557190bfad9cbe7c806d8c3c7d9859e",

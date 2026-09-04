@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Milk Products",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Milk Products",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +171,12 @@
   "revisionId": 109585,
   "revisionTimestamp": "2026-03-25T21:05:18Z",
   "route": "/wiki/chocolate-sheep-36684",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Sheep",
   "title": "Chocolate Sheep",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Sheep.png|200px|left|Chocolate Sheep]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 10\n |level = 17\n |time = 10m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 67\n |dia = 3\n |time3 = 27m\n}}\n'''Chocolate Sheep''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Easter 2026 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Cow'''===\n[[File:Easter Egg Maker 2025.png|150px|left|Easter Egg Maker 2025|link=Easter Egg Maker]]\nChocolate cows are made in the [[Easter Egg Maker]].\n\nTo make a chocolate sheep, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pancake.png|75px|Pancake|link=Pancake]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a chocolate sheep. Each chocolate sheep gives players 67 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pancake.png|75px|Pancake|link=Pancake]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x1'''\n|}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 chocolate cows per crate, up to a total of 6 per boat. Each chocolate cow used on a boat will be rewarded with 20 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Milk Products]]\n[[Category:Sugarcane Products]]\n[[Category:Cream Products]]\n\n{{Languages\n|es = Oveja de chocolate 2025\n}}",
   "wikitextHash": "ff7c51429de81d088e028586323f40d8a63a6820eadc5595b7f244f44c93d5ce"
 }

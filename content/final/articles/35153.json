@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98681,
   "revisionTimestamp": "2021-09-07T10:16:58Z",
   "route": "/wiki/category%2Fcategory-rice-noodles-products-35153",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Rice_Noodles_Products",
   "title": "Category:Rice Noodles Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Rice Noodles.png|thumb]]\nProducts of [[Rice Noodles]].\n[[Category:Products]]",
   "wikitextHash": "64229f315df4f63900788dcdb50b1a8339111443cc5256563b0a5a020a3cc84b"
 }

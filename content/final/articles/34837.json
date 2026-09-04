@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bath Kiosk Products",
+    "Category:Cacao Products",
+    "Category:Goat Milk Products",
+    "Category:Honeycomb Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bath Kiosk Products",
+      "Category:Cacao Products",
+      "Category:Goat Milk Products",
+      "Category:Honeycomb Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110193,
   "revisionTimestamp": "2026-05-23T21:32:51Z",
   "route": "/wiki/honey-soap-34837",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Soap",
   "title": "Honey Soap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Soap.png|200px|left|Honey soap]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 84\n |price = 1 to 327\n |time = 1 hr\n |source = {{Infoicon|bathk|bigger|link=Bath Kiosk}}\n |xp = 39\n |base = 91\n |dia = 4\n |time3 = 51 min\n}}\n'''Honey soap''' is a [[Products|product]] unlocked at [[experience]] level 84.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making honey soap'''===\n[[File:Bath Kiosk.png|150px|left|Bath Kiosk]]\nHoney soap is made in the [[Bath Kiosk]].\n\nTo make honey soap, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Goat Milk.png|75px|Goat milk|link=Goat Milk]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Honeycomb.png|75px|Honeycomb|link=Honeycomb]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make one bar of honey soap, and 51 minutes in a fully [[Masteries|mastered]] kiosk. Each bar gives players 39 [[experience]] points.\n\n{{Clr}}----\n==='''Selling honey soap'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Honey soap can be bought or sold for a maximum price of 3,276 {{Infoicon|Coin}} for 10 bars.\n*Buying the ingredients required to make honey soap costs 304 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 2 honey soaps per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n\n* A bit odd as you would need [[Honeycomb]] to make this product, if possible, you would want to harvest 4 of those, use 3 to make [[Beeswax]] and the last for this one.\n{{navigation}}\n{{Languages\n|de = Honigseife\n|es = Jabón de miel\n|fr = Savon au Miel\n|it = Sapone al miele\n|nl = Honingzeep\n|no = Honningsåpe\n|ru = Медовое мыло\n|zh = Honey Soap\n}}\n[[pt-br:Sabonete de mel]]\n\n[[Category:Bath Kiosk Products]]\n[[Category:Goat Milk Products]]\n[[Category:Cacao Products]]\n[[Category:Honeycomb Products]]",
   "wikitextHash": "f22fae060bf179e8ddaa78bcd529f6f46ab8228330ac7484c24de3c59dd4b960"
 }

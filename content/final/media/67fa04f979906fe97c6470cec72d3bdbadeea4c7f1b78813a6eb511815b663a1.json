@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_72_March_2020.png",
+  "filePageId": 33642,
+  "filePageRevisionId": 98245,
+  "filePageRevisionSha1": "8c2d457ed2c4fce81f81e0bd9f4279f7eb912329",
+  "filePageRevisionTimestamp": "2021-07-15T22:08:20Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "d0702958ef793dee57504ba692f10f5c079a5009e70ca903e3d0031271090ddf",
   "height": 1019,
   "immutableUrl": null,
   "mediaId": "File:Level 72 March 2020.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-04-22T07:09:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2072%20March%202020.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3813798,
   "sourceSha1": "14218a1d992ff499594566bad211960620dbc650",

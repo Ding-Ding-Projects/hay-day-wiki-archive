@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_36.png",
+  "filePageId": 26810,
+  "filePageRevisionId": 69341,
+  "filePageRevisionSha1": "bb86cc4ef1ee72beaccb323ff00c6a46060bcbf3",
+  "filePageRevisionTimestamp": "2017-02-06T01:08:30Z",
+  "filePageWikitext": "Reputation Level 36 Image\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "7f89d7f17b633b620e7f673908974d1f2ca1f1f1317b392d3a286f316aa9a4aa",
   "height": 539,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 36.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-01-24T02:32:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2036.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 651719,
   "sourceSha1": "98eeecc44d7930e6e251eab575312624ff1e98fc",

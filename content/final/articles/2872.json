@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -249,11 +257,12 @@
   "revisionId": 106909,
   "revisionTimestamp": "2025-01-16T21:53:32Z",
   "route": "/wiki/wood-panel-2872",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wood_Panel",
   "title": "Wood Panel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n''Note: this page is about wood panels, not to be confused with [[plank]]s.''\n\n[[File:Wood Panel.png|200px|left|Wood panels]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 1\n |price = 1 to 270\n |upgrades = {{Infoicon|cinema|big|link=Cinema}} {{Infoicon|silo|big|link=Silo}} {{Infoicon|tackleb|big|link=Tackle Box}}\n |base = 75\n |dia = 8\n}}\n'''Wood panels''' are [[supplies]] used to upgrade the [[cinema]], the [[silo]] and the [[Tackle Box|tackle box]].\n\nThey are unlocked at [[experience]] level 1.\n\nThey are stored in the [[barn]].\n\n{{Clr}}----\n==='''Getting wood panels'''===\nA sure way to get a wood panel is to buy it with 8 {{Infoicon|dia}}.\n\nWood panels can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 270 {{Infoicon|coin}} per panel.\n\nFinally, wood panels can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\n----\n\n{{Navigation}}\n{{Languages\n|de = Holzschindel\n|es = Paneles de madera\n|fr = Panneau en bois\n|it = Pannello Di Legno \n|no = Trepanel\n}}\n[[Category:Supplies]]",
   "wikitextHash": "2201be8f8fd77af491b4ac8f7be33b5823e7aa02fc6723c20983990dfe0b425b"
 }

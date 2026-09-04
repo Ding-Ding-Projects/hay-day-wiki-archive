@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products?action=history",
@@ -34,11 +42,12 @@
   "revisionId": 110387,
   "revisionTimestamp": "2026-06-05T20:13:44Z",
   "route": "/wiki/category%2Fcategory-doner-kebab-stand-products-36807",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Doner_Kebab_Stand_Products",
   "title": "Category:Doner Kebab Stand Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Doner Kebab Stand.png|thumb]]\nProducts of the [[Doner Kebab Stand]].\n[[Category:Products]]",
   "wikitextHash": "e21f542595a6aadb4f2dbc7ac1ef1a13aa08e3762d1055b513df2bead11e4bbd"
 }

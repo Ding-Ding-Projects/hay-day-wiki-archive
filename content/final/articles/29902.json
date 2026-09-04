@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -314,11 +324,12 @@
   "revisionId": 109687,
   "revisionTimestamp": "2026-04-16T01:40:02Z",
   "route": "/wiki/watermelon-29902",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Watermelon",
   "title": "Watermelon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Watermelon.png|200px|left|Watermelon]]\n\n{{Infobox\n|level = 92\n|price = 1 to 39\n|time = 5 h\n|xp = 8\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 11\n|dia = 8\n|title = [[Crops|Crop]]}}\n'''Watermelons''' are field [[crops]] unlocked at [[experience]] level 92. \n\nThey are used to make [[Mint Tea|mint tea]] and [[Watermelon Juice|watermelon juice]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing watermelons'''===\nWatermelons are grown in [[Farm|fields]] by planting another watermelon (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 8 [[experience]] points, and takes 5 hours to mature.\n<gallery>\nFile:Watermelon Stage 1.png\nFile:Watermelon Stage 2.png\nFile:Watermelon Stage 3.png\nFile:Watermelon Stage 4.png\nFile:Watermelon Stage 5.png\n</gallery>\n----\n==='''Selling watermelons'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Watermelons can be sold or bought for a maximum price of 396 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using watermelons''' ===\nWatermelons are used to make the following [[products]]:\n\n{{Item Usage|Watermelon\n|Watermelon Juice|2|92\n|Mint Tea|1|97\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 8 to 12 watermelons per crate, up to a total of 36 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n{{NoTips}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Wassermelonen\n|es = Sandía\n|fr = Pastèque\n|it = Anguria\n|no = Vannmelon\n|ru = Арбуз\n}}\n[[pt-br:Melancia]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "bdb291a9ce41a1fae80273a743405e3c8bc45e9a0570ec38f2fb465555b93c15"
 }

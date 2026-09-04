@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Lamb Chop Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Lamb Chop Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -205,11 +215,12 @@
   "revisionId": 110551,
   "revisionTimestamp": "2026-06-16T21:29:19Z",
   "route": "/wiki/grilled-lamb-skewer-36746",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grilled_Lamb_Skewer",
   "title": "Grilled Lamb Skewer",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grilled Lamb Skewer.png|left|200x200px|Grilled lamb skewer]]\n{{Infobox\n|title=[[Products|Product]]\n|level=25\n|price=1 to 90\n|time=20 min\n|source={{Infoicon|bbqg|bigger|link=BBQ Grill}}\n|xp=11\n|base=25\n|dia=2\n|time3=17 min\n}}\n'''Grilled Lamb Skewer''' are a [[Products|product]] unlocked at [[experience]] level 25. It was added since May 2026 Update.\n\nThey are used in [[Lamb Soup|lamb soup]] and [[Lamb Stir Fry|lamb stir fry]].\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n\n=== '''Making Grilled Lamb Skewer''' ===\n[[File:BBQ_Grill.png|left|150x150px]]\nGrilled Lamb Skewers are made in the [[BBQ Grill]].\n\nTo make the grilled lamb skewer, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|[[File:Lamb Chop.png|link=Lamb Chop|75x75px]]\n|-\n|'''x2'''\n|}\nGrilled lamb skewer take 20 minutes to be produced, but only 17 minutes in a [[Masteries|3-star]] [[BBQ Grill]]. Each grilled lamb skewer gives players 11 [[experience]] points.\n{{Clr}}\n----\n\n=== '''Selling Grilled Lamb Skewer''' ===\n[[File:Roadside_Shop.png|left|150x150px|Roadside Shop]]\n\n* Grilled lamb skewer can be bought or sold for a maximum of 900 {{Infoicon|Coin}} coins for 10 grilled lamb skewer.\n* Buying the ingredients required to make the grilled lamb skewer costs 72 {{Infoicon|Coin}} coins.\n{{Clr}}\n----\n\n=== '''Using Grilled Lamb Skewer''' ===\nGrilled lamb skewers are used to make the following [[Products|product]]:\n{{Item Usage|Grilled Lamb Skewer\n|Lamb Doner Wrap|1|32\n|Lamb Soup|1|46\n|Lamb Stir Fry|1|69\n}}\n----\n\n=== '''Boat orders''' ===\n[[File:Riverboat.png|left|150x150px|Riverboat]]\n\n* [[Boat]] orders ask for x1 to x2 grilled lamb skewers per crate, up to a total of xx per boat.\n{{Clr}}\n----\n\n=== '''Did you know?''' ===\n\n* Before May 2026 Update, [[Roasted Tomatoes]] was the only BBQ product that requires only one type of product to make. and the only BBQ product that is used in another product. Now, it is the second product.\n\n----\n{{Navigation}}\n{{Languages\n|de = Gegrillter Lammspieß\n|es = Brocheta de cordero\n|no = Grillet lammespyd\n|ru = Шашлык из ягнятины\n}}\n[[pt-br:Espetinho de cordeiro]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Lamb Chop Products]]",
   "wikitextHash": "0240ed7181ae9a9065f3d0242354f3b45dfd3d13135b8ef7cde2dc177210dd86"
 }

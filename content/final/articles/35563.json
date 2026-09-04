@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Coconut_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 101540,
   "revisionTimestamp": "2022-09-25T18:42:58Z",
   "route": "/wiki/category%2Fcategory-coconut-products-35563",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Coconut_Products",
   "title": "Category:Coconut Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Coconut.png|thumb]]\nProducts of [[Coconut]].\n[[Category:Products]]",
   "wikitextHash": "99fa80d2a9ed4d85b14f6f2f4ff3a9786b06fd1a457fb3bb377825a468b11526"
 }

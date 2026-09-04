@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cream Products",
+    "Category:Strawberry Products",
+    "Category:Wheat Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cream Products",
+      "Category:Strawberry Products",
+      "Category:Wheat Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 105917,
   "revisionTimestamp": "2024-10-06T19:51:56Z",
   "route": "/wiki/strawberry-cake-2304",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strawberry_Cake",
   "title": "Strawberry Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Strawberry Cake.png|200px|left|Strawberry cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 35\n |price = 1 to 316\n |time = 3 h\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 38\n |base = 88\n |time3 = 2 h 33 min\n |dia = 6\n}}\n'''Strawberry cakes''' are [[products]] unlocked at [[experience]] level 35.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making strawberry cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nStrawberry cakes are made in the [[Cake Oven]].\n\nTo make a strawberry cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Strawberry.png|75px|Strawberry|link=Strawberry]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:White Sugar.png|75px|White Sugar|link=White Sugar]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours to make one cake, and 2 hours 33 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 38 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling strawberry cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Strawberry cakes can be bought or sold for a maximum price of 3,168 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 209 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 strawberry cakes per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Erdbeertorte\n|es = Pastel de fresa\n|fr = Gâteau aux Fraises\n|it = Torta di fragole\n|nl = Aardbeientaart\n|no = Jordbærkake\n|zh = Strawberry Cake\n}}\n[[pt-br:Bolo de morango]]\n[[ru:Клубничный торт]]\n[[Category:Cake Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "400c08324546a51916719ccf642acac561ab984e2f453b3f5d63b121e6ccaa71"
 }

@@ -12,7 +12,27 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Bacon and Eggs Products",
+    "Category:Carrot Products",
+    "Category:Chili Pepper Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Indigo Products",
+    "Category:Violet Dress Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Bacon and Eggs Products",
+      "Category:Carrot Products",
+      "Category:Chili Pepper Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Indigo Products",
+      "Category:Violet Dress Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +171,12 @@
   "revisionId": 107842,
   "revisionTimestamp": "2025-04-26T20:24:29Z",
   "route": "/wiki/green-gift-35678",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Green_Gift",
   "title": "Green Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Green Gift.png|200px|left|Green Gift|link=Special:FilePath/Green Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 25\n |level = 25\n |time = 45m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp = 68\n |dia = 3\n |time3 = 39m\n}}\n'''Green Gift''' is a [[products|product]] unlocked at [[experience]] level 25. It's a special item used only for the Christmas 2022 event.\n\nThe Green Gift returns as a special item for the Christmas 2024 event, but requires different items to create it in the Gift Wrapping Station.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Green Gifts'''===\n[[File:Gift Wrapping Station.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station.png]]\nGreen Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a green gift in the Christmas 2022 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Violet Dress.png|75px|Violet dress|link=Violet Dress]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 45 minutes to make one gift, and 39 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 68 [[experience]] points.\n\nTo make a green gift in the Christmas 2024 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bacon_and_Eggs.png|75px|Bacon and Eggs|link=Bacon and Eggs]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x5'''\n|}\nIt takes 10 minutes to make one gift, and 8 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 84 [[experience]] points.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 25 [[holly]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Grünes Geschenk\n|es = Regalo verde\n}}\n\n[[Category:Gift Wrapping Station Products]]\n[[Category:Violet Dress Products]]\n[[Category:Apple Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Bacon and Eggs Products]]\n[[Category:Indigo Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "aab8f3c94edef12f095fa3f19c89cf9f57cdeb3677835b9d5ce1752f771dc254"
 }

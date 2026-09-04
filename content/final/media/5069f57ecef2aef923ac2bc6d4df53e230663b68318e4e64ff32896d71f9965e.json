@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bee_in_Harmony.png",
+  "filePageId": 36182,
+  "filePageRevisionId": 106110,
+  "filePageRevisionSha1": "fb5610e48f97b8ed84bd406a3a8b9c66611d4e58",
+  "filePageRevisionTimestamp": "2024-10-27T17:49:51Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "12470d46e593a27898bc11043ae60d0b11325ad924e77889b6d3371fcbf7651d",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Bee in Harmony.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-27T17:49:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABee%20in%20Harmony.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 201242,
   "sourceSha1": "a14fe56e605f08b31a181c9717e7164a3ee10e19",

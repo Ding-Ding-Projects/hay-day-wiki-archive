@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -298,11 +306,12 @@
   "revisionId": 106929,
   "revisionTimestamp": "2025-01-18T22:30:10Z",
   "route": "/wiki/arctic-charr-11443",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Arctic_Charr",
   "title": "Arctic Charr",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Arctic Charr.png|200px|left|Arctic charr]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|purplel|big|link=Lure}} {{Infoicon|goldl|big|link=Lure}}\n |spots = any\n |circle = medium\n |xp = 18\n}}\n'''Arctic charr''' are a type of [[fish]].\n\nLike all types of fish, each arctic charr gives one [[Fish Fillet|fish fillet]] when caught.\n\nThe largest weight for this class of fish is 6.685.\n\n{{Clr}}\n----\n==='''Catching arctic charr'''===\nArctic charr can be caught with purple and gold [[lure]]s in any fishing spot, but their favorite spot is #3 (the reedy area under the waterfall).\n\nArctic charr can be caught in medium circles and therefore are a bit harder to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Arctic charr in the fishing book'''===\n[[File:Arctic Charr Photo.png|150px|left|Fishing book photo]]\nThe arctic charr is on page 11 of the [[Fishing Book|fishing book]]:\n\n''Wanderlust takes this fish on long ocean travels every year. Still loves to come home!''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Rotforelle\n|es = Trucha ártica\n|no = Røye\n}}\n[[Category:Fish]]",
   "wikitextHash": "b76bede9da78e4d3e6842f051b170a642fe3bc35143ee98726c28c8d285a9592"
 }

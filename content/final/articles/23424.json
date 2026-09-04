@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Navigation_Templates?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 58186,
   "revisionTimestamp": "2016-01-26T18:41:30Z",
   "route": "/wiki/category%2Fcategory-navigation-templates-23424",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Navigation_Templates",
   "title": "Category:Navigation Templates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Templates]]",
   "wikitextHash": "d17b0069075523cfd170889a8541cdbb01828c428201ba77d245030037d911a5"
 }

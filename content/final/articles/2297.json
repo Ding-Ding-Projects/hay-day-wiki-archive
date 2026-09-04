@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Dairy Products",
+    "Category:Goat Milk Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Dairy Products",
+      "Category:Goat Milk Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -169,11 +179,12 @@
   "revisionId": 110358,
   "revisionTimestamp": "2026-06-03T17:00:19Z",
   "route": "/wiki/goat-cheese-2297",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Goat_Cheese",
   "title": "Goat Cheese",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Goat Cheese.png|200px|left|Goat cheese]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 33\n |price = 1 to 162\n |time = 1 h 30 min\n |source = {{Infoicon|dairy|bigger|link=Dairy}}\n |xp = 19\n |base = 45\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Goat cheese''' is a [[Products|product]] unlocked at [[experience]] level 33.\n\nIt is used as an ingredient for several other products.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making goat cheese'''===\n[[File:Dairy.png|150px|left|Dairy]]\nGoat cheese is made in the [[Dairy]].\n\nTo make goat cheese, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Goat Milk.png|75px|Goat Milk|link=Goat Milk]]\n|-\n|'''x2'''\n|}\nIt takes 1 hour 30 minutes to make 1 cheese, and 1 hour 16 minutes in a fully [[Masteries|mastered]] Dairy. Each cheese gives players 19 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling goat cheese'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Goat cheese can be bought or sold for a maximum price of 1,620 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make goat cheese costs 128 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using goat cheese'''===\nGoat cheese is used to make the following [[products]]:\n\n{{Item Usage|Goat Cheese\n|Feta Pie|1|34\n|Potato Feta Cake|1|39\n|Tomato Soup|1|47\n|Feta Salad|2|58\n|Tower Doner Supreme|1|58\n|Beetroot Salad|1|76\n|Summer Salad|1|84\n|Goat Cheese Toast|1|92\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 4 goat cheese per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Goat cheese is very hard to find in the [[Daily Dirt]].\n* Recipes ask for one to two cheese so you need to make some regularly. Due to its longer production time you may want to make it when you're not playing.\n----\n\n{{Navigation}}\n{{Languages\n|de = Ziegenkäse\n|es = Queso de cabra\n|fr = Fromage de Chèvre\n|it = Formaggio di capra\n|nl = Geitenkaas\n|no = Geitost\n|zh = Goat Cheese\n}}\n[[pt-br:Queijo de cabra]]\n[[ru:Козий сыр]]\n[[Category:Dairy Products]]\n[[Category:Goat Milk Products]]",
   "wikitextHash": "626aa432d140707ec31a57e237a9005f7e266c275c35c0df37da03f2badd35ce"
 }

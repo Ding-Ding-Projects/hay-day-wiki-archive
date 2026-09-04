@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 39828,
   "revisionTimestamp": "2014-12-30T15:05:59Z",
   "route": "/wiki/category%2Fcategory-image-reputation-levels-17543",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Reputation_Levels",
   "title": "Category:Image Reputation Levels",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Reputation]] levels.\n[[Category:Images]]",
   "wikitextHash": "0bfdadbcd4afc34bb753ff47284c6cb5af653e3aea959b761b56a2367f356de1"
 }

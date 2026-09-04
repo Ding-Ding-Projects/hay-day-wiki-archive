@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -163,11 +171,12 @@
   "revisionId": 110597,
   "revisionTimestamp": "2026-06-21T14:50:15Z",
   "route": "/wiki/gold-ore-2561",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gold_Ore",
   "title": "Gold Ore",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gold Ore.png|200px|left|Gold ore]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 24\n |price = 1 to 21\n |time = Instant\n |source = {{Infoicon|mine|bigger|link=Mine}}\n |xp = 6\n |base = 6\n}}\n\n'''Gold ore''' is a [[Products|product]] unlocked at [[experience]] level 24.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Extracting gold ore'''===\n[[File:Mine.png|150px|left|Mine]]\nGold ore is found in the [[Mine]].\n\nTo extract ore, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Dynamite.png|75px|link=Dynamite|Dynamite]]\n|[[File:TNT Barrel.png|75px|link=TNT Barrel|TNT barrel]]\n|[[File:Shovel.png|75px|link=Shovel|Shovel]]\n|[[File:Pickaxe.png|75px|link=Pickaxe|Pickaxe]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x4'''\n|'''x5'''\n|}\n\nIt takes no time to extract ore but the process is randomized: players might get any of the available mine products when using mine supplies, as well as an extra [[diamond]]. Each extracted gold ore gives players 6 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling gold ore'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Gold ore can be bought or sold for a maximum price of 216 {{Infoicon|coin}} for 10 units.\n* Buying a supply tool costs between 25 and 126 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Used in'''===\n{{Item Usage|Gold Ore\n|Gold Bar|3|25\n|Fancy Cake|1|54\n|Gracious Bouquet|1|73\n|Tea Pot|1|94\n}}\n----\n==='''Strategy tips'''===\n* Gold ore is uncommon enough that selling them at a lower price is not necessary.\n* Selling gold ore is not profitable at all. You should always transform it into bars, or even better, [[Jeweler|jewelry]] unless it takes valuable space in your [[barn]].\n* [[Boat]] orders never require gold ore.\n----\n{{Navigation}}\n{{Languages\n|de = Golderz\n|es = Mineral de oro\n|fr = Minerai d'Or\n|it = Minerale d'oro\n|nl = Gouderts\n|no = Gullmalm\n}}\n[[Category:Mine Products]]",
   "wikitextHash": "d9008a9c5f10db64b55325dc7d5e26efe41ac4de54e78a366c47bceac1c7baea"
 }

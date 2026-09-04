@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Cuke_Smoothie?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 90859,
   "revisionTimestamp": "2020-03-10T22:27:14Z",
   "route": "/wiki/cuke-smoothie-32689",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cuke_Smoothie",
   "title": "Cuke Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect[[Cucumber Smoothie]]",
   "wikitextHash": "97f02266cc4a14c8310fd9b35fcca5e6a78c9895fe33d1a97256549047177831"
 }

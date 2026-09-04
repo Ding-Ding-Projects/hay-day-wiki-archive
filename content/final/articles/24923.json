@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Honey Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Orange Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Honey Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Orange Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -164,11 +176,12 @@
   "revisionId": 107520,
   "revisionTimestamp": "2025-03-09T11:58:32Z",
   "route": "/wiki/orange-sorbet-24923",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Orange_Sorbet",
   "title": "Orange Sorbet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Orange Sorbet.png|200px|left|Orange sorbet]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 78\n |price = 1 to 399\n |time = 3 h 30 min\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 48\n |base = 111\n |dia = 6\n |time3 = 2 h 58 min\n}}\n'''Orange sorbet''' is a [[Products|product]] unlocked at [[experience]] level 78.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making orange sorbet'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nOrange sorbet is made in the [[Ice Cream Maker]].\n\nTo make the sorbet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Orange.png|75px|Oranges|link=Orange]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 3 hours and 30 minutes to make one bowl of sorbet, and 2 hours and 58 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 48 [[experience]] points.\n\n{{Clr}}----\n==='''Selling orange sorbet'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Orange sorbet can be bought or sold for a maximum price of 3,996 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make orange sorbet costs 348 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 orange sorbet per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Orangensorbet\n|es = Sorbete de naranja\n|fr = Sorbet à l'Orange\n|it = Sorbetto all'arancia\n|nl = Sinaasappelsorbet\n|no = Appelsinsorbé\n|zh = Orange Sorbet\n}}\n[[pt-br:Sorbet de laranja]]\n[[ru:Апельсиновый щербет]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Honey Products]]\n[[Category:Orange Products]]",
   "wikitextHash": "932563a485192d5ad6347d2270f127161a50eb902623160f04aef37788ed726d"
 }

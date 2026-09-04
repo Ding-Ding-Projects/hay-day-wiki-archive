@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Peanuts.png",
+  "filePageId": 33979,
+  "filePageRevisionId": 105186,
+  "filePageRevisionSha1": "d854061f283b5e9caae29655c62c9296dce963a9",
+  "filePageRevisionTimestamp": "2024-04-11T15:09:46Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "14ac50d68a2ea6ea06ed6b51138a8e61f4a31633a2217eaf6e632cf749d88a17",
   "height": 1520,
   "immutableUrl": null,
   "mediaId": "File:Honey Peanuts.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:09:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney%20Peanuts.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2330506,
   "sourceSha1": "73a47e47b7a611e45cbf24ab55cd8c60b9890a15",

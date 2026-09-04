@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -66,11 +76,12 @@
   "revisionId": 105541,
   "revisionTimestamp": "2024-07-01T20:44:16Z",
   "route": "/wiki/musical-note-36133",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Musical_Note",
   "title": "Musical Note",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Musical Note.png|left|200px|Musical Note]]\nMusical Note is a type of [[Currencies|currency]] used to buy special prizes from the [[catalogue]]. It's part of the Birthday 2024 event.\n\nIt is unlocked at [[experience]] level 17.\n\n{{Clr}}\n----\n==='''Getting musical note'''===\n[[File:Riverboat.jpg|left|150 px|Riverboat]]\nEach boat during the event requires one type of [[:Category:Birthday Balloon Maker Products|balloon]] from the [[Birthday Balloon Maker|birthday balloon maker]]. Filling any box with a balloon gives you a certain amount of musical note.\n{{Clr}}\n----\n==='''Using musical note'''===\n{{Main|Catalogue}}\n[[File:Catalogue Front With Musical Note.png|150px|left|The catalogue]]\nMusical Note can be used to purchase items from the \"Fyne & Mysterious Gifts [[Catalogue]],\" found by clicking the blue post box at the end of the driveway. Different gifts have different prices.\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Currencies]]\n[[Category:Catalogue]]\n\n{{Languages\n|es = Nota musical\n}}",
   "wikitextHash": "885545be69d8ff89ede26b73c599c88e51b3799a5dea4157a48d0bf2365b8217"
 }

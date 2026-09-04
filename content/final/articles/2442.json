@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Coffee Bean Products",
+    "Category:Coffee Kiosk Products",
+    "Category:Milk Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Coffee Bean Products",
+      "Category:Coffee Kiosk Products",
+      "Category:Milk Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 108931,
   "revisionTimestamp": "2025-12-04T04:54:22Z",
   "route": "/wiki/caff%C3%A8-latte-2442",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Caff%C3%A8_Latte",
   "title": "Caffè Latte",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Caffe Latte.png|200px|left|Caffè latte]]\n\n{{Infobox\n |level = 43\n|price = 1 to 219\n|time = 10 min\n|xp = 26\n|source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n|base = 61\n|dia = 2\n|time3 = 8 min\n|title = [[Products|Product]]\n}}\n'''Caffè lattes''' are [[products]] unlocked at [[experience]] level 43.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making caffè lattes'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nCaffè lattes are made in the [[Coffee Kiosk]].\n\nTo make a latte, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coffee Bean.png|75px|Coffee beans|link=Coffee Bean]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make one latte, and 8 minutes in a fully [[Masteries|mastered]] kiosk. Each latte gives players 26 [[experience]] points.\n\n{{Clr}}----\n==='''Selling caffè lattes'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Caffè lattes can be bought or sold for a maximum price of 2,196 {{Infoicon|Coin}} for 10 lattes.\n* Buying the ingredients required to make a latte costs 210 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 3 caffè lattes per crate, for a total of 9 per boat (for three crates).\n** 2 caffè lattes per crate, for a total of 8 per boat (for four crates).\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Caffè Latte\n|es = Café con leche\n|fr = Café Crème\n|it = Caffellatte\n|nl = Caffè Latte\n|no = Caffè latte\n|zh = Caffè Latte\n}}\n[[pt-br:Latte]]\n[[ru:Латте]]\n[[Category:Coffee Kiosk Products]]\n[[Category:Milk Products]]\n[[Category:White Sugar Products]]\n[[Category:Coffee Bean Products]]",
   "wikitextHash": "85e32554c9fc5b071eb188781812a76131fe016be305b007d8dabf3957c27998"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 99463,
   "revisionTimestamp": "2021-11-29T20:37:49Z",
   "route": "/wiki/category%2Fcategory-pottery-studio-products-35291",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pottery_Studio_Products",
   "title": "Category:Pottery Studio Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pottery Studio.png|thumb]]\nProducts of the [[Pottery Studio]].\n[[Category:Products]]",
   "wikitextHash": "b91b7a3e0f720e62749f40ec01aa1f0b6e120f66a46091de54f2de940cf97d3a"
 }

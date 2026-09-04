@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Juice_Press_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 62724,
   "revisionTimestamp": "2016-06-21T23:07:10Z",
   "route": "/wiki/category%2Fcategory-juice-press-products-7558",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Juice_Press_Products",
   "title": "Category:Juice Press Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Juice_Press.png|thumb]]\nProducts of the [[Juice Press]].\n[[Category:Products]]",
   "wikitextHash": "054876daa1d79782bac1b9b685c10c5e43db4655c56e2afbe1a6114863076f7f"
 }

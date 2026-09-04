@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_77.png",
+  "filePageId": 27641,
+  "filePageRevisionId": 106722,
+  "filePageRevisionSha1": "f575fd1a1140f055d2132e8dc19be7e62623c8a8",
+  "filePageRevisionTimestamp": "2025-01-03T23:02:46Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "833e9b4badd334d9bd362b878a217443a77200b68aced43ec82f6988b6ca39fb",
   "height": 593,
   "immutableUrl": null,
   "mediaId": "File:Level 77.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-01-03T23:02:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2077.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 734074,
   "sourceSha1": "0fa4b59b2f3bf446a45f1689ee14a1130494ef3c",

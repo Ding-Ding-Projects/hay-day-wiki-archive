@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Production_buildings?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93059,
   "revisionTimestamp": "2020-04-11T06:11:31Z",
   "route": "/wiki/production-buildings-33391",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Production_buildings",
   "title": "Production buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Production Buildings]]",
   "wikitextHash": "28148d3cb2961b3e7a2db8bee085d815cfa08f4a7ccf0d18b528eb4231c287db"
 }

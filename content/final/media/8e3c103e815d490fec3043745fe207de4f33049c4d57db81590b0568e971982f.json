@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stacked_Gift.png",
+  "filePageId": 35685,
+  "filePageRevisionId": 104866,
+  "filePageRevisionSha1": "34d31f37f6b1bf188ed52f23afedd4918ecc6332",
+  "filePageRevisionTimestamp": "2024-02-18T02:48:55Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Stacked Gift]]\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "76fcdcbe9d0ac8bd3465c19650241fb9df42e8c686a2076f476f486ace2fa416",
   "height": 2160,
   "immutableUrl": null,
   "mediaId": "File:Stacked Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T02:48:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStacked%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3828267,
   "sourceSha1": "b8943f75f0029628170923fa2ee52aad295da17e",

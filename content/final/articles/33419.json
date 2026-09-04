@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Service_Building?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93138,
   "revisionTimestamp": "2020-04-12T01:14:51Z",
   "route": "/wiki/service-building-33419",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Service_Building",
   "title": "Service Building",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Service Buildings]]",
   "wikitextHash": "0420403ca53205890fefdeb1a94181117817d386abeb7914251c7c4a07632df0"
 }

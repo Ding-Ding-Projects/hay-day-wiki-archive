@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Chili Pepper Products",
+    "Category:Egg Products",
+    "Category:Rice Noodles Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Chili Pepper Products",
+      "Category:Egg Products",
+      "Category:Rice Noodles Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -177,11 +193,12 @@
   "revisionId": 109081,
   "revisionTimestamp": "2026-01-07T01:29:50Z",
   "route": "/wiki/noodle-soup-19466",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Noodle_Soup",
   "title": "Noodle Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Noodle Soup.png|200px|left|Noodle soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 73\n |price = 1 to 432\n |time = 2 h\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 52\n |base = 120\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Noodle soup''' is a [[Products|product]] unlocked at [[experience]] level 73.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making noodle soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nNoodle soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|Carrots|link=Carrot]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Egg.png|75px|Eggs|link=Egg]]\n|[[File:Rice Noodles.png|75px|Rice noodles|link=Rice Noodles]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 2 hours to make one bowl of noodle soup, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 52 [[experience]] points.\n\n{{Clr}}----\n==='''Selling noodle soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Noodle soup can be bought or sold for a maximum price of 4,320 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make noodle soup costs 422 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 bowls per crate, up to a total of 6 per boat (for three crates).\n** 1 bowl per crate, up to a total of 4 per boat (for four crates).\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Noodle soup is a good product to have in your shop if you need some money: it sells quickly and is easy to make. Rice noodles only take 20 to 17 minutes to do, and all the other products needed for this recipe are cheap and easy to come by.\n----\n\n{{Navigation}}\n{{Languages\n|de = Nudelsuppe\n|es = Sopa de fideos\n|fr = Soupe aux Nouilles\n|it = Zuppa di noodle\n|nl = Noedelsoep\n|no = Nudelsuppe\n|zh = Noodle Soup\n}}\n[[pt-br:Sopa de macarrão]]\n[[ru:Суп с лапшой]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Egg Products]]\n[[Category:Carrot Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Rice Noodles Products]]",
   "wikitextHash": "d1ec264ad9d92c4d2a9e2df82ad79f3c777720288b4ef4cbe5476e806619b062"
 }

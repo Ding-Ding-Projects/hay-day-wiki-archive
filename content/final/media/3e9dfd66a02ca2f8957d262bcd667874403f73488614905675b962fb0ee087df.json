@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Broccoli_Stage_5.png",
+  "filePageId": 36253,
+  "filePageRevisionId": 107019,
+  "filePageRevisionSha1": "1e5afcda2e599449026cb10109d235521530418f",
+  "filePageRevisionTimestamp": "2025-01-26T21:36:20Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "6aea416f2ad88dfdf62ca5fe99fefc4f8bb32f14f28ec6b90fc2b24238d5740d",
   "height": 400,
   "immutableUrl": null,
   "mediaId": "File:Broccoli Stage 5.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-01-26T21:36:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABroccoli%20Stage%205.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 97043,
   "sourceSha1": "4c71d612a8e6356aa518ca36d4a53da3f3a9428a",

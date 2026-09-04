@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Dried_Fruits?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 98977,
   "revisionTimestamp": "2021-10-18T12:06:16Z",
   "route": "/wiki/dried-fruits-35208",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Dried_Fruits",
   "title": "Dried Fruits",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Dried Fruit]]",
   "wikitextHash": "8cd61b29a6e910fe7c4e9c11001a29c3d51209efa6663f7f12cc41eacc1259af"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Pie Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Indigo Products",
+    "Category:Milk Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Pie Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Indigo Products",
+      "Category:Milk Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -98,11 +112,12 @@
   "revisionId": 108971,
   "revisionTimestamp": "2025-12-19T21:08:33Z",
   "route": "/wiki/starry-gift-36479",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Starry_Gift",
   "title": "Starry Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Starry Gift.png|200px|left|Starry Gift]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |holly = 10\n |time = 10m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp = 71\n |dia = 10\n}}\n'''Starry Gift''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Christmas 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Starry Gift'''===\n[[File:Gift Wrapping Station.png|150px|left|Gift Wrapping Station]]\nStarry gift are made in the [[Gift Wrapping Station]].\n\nTo make a starry gift in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Indigo.png |75px|Indigo|link=Indigo]]\n|[[File:Milk.png|75px|Mink|link=Milk]]\n|[[File:Carrot Pie.png|75px|Carrot pie|link=Carrot Pie]]\n|-\n|'''x5'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a gift. Each gift gives players 71 [[experience]] points.\n\nAdditionally, Starry gift is used to make the following [[products]]:\n{{Item Usage|Starry Gift\n|Polka Dot Gift|1|50\n}}\n\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 gifts per crate, up to a total of 8 per boat. Each candy used on a boat will be rewarded with 10 [[Holly]]s, 11 hollys in a 1-star, 14 hollys in a 2-star, and 20 hollys in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Regalo estrellado\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Indigo Products]]\n[[Category:Milk Products]]\n[[Category:Carrot Pie Products]]",
   "wikitextHash": "d75c7c6d122b03a2d5d8ac8447c0fe2b39b365aea3b00b3e8b5cb180de1b46bc"
 }

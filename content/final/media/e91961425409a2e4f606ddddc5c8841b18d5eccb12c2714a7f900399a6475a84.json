@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_Threshold_Reward.png",
+  "filePageId": 17289,
+  "filePageRevisionId": 76357,
+  "filePageRevisionSha1": "68889b94723356d2cff257aca74751e35c35ddbf",
+  "filePageRevisionTimestamp": "2017-12-27T19:38:51Z",
+  "filePageWikitext": "Picture of a level threshold reward.\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5de2a243c0a3085ff4257828c306ec9b1cd59d5b4a9d426a22e1670e5f333899",
   "height": 120,
   "immutableUrl": null,
   "mediaId": "File:Level Threshold Reward.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-20T21:39:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20Threshold%20Reward.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 183889,
   "sourceSha1": "11a36fccbb6a37e754fe9cc39b16fc988edb3867",

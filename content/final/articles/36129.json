@@ -12,7 +12,27 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Juice Products",
+    "Category:Apple Products",
+    "Category:Bacon Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Goat Milk Products",
+    "Category:Honey Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Juice Products",
+      "Category:Apple Products",
+      "Category:Bacon Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Goat Milk Products",
+      "Category:Honey Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +191,12 @@
   "revisionId": 109584,
   "revisionTimestamp": "2026-03-25T16:38:07Z",
   "route": "/wiki/chocolate-pig-36129",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Pig",
   "title": "Chocolate Pig",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Pig.png|200px|left|Chocolate Pig]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 25\n |level = 40\n |time = 1h\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 133\n |dia = 4\n |time3 = 54m\n}}\n'''Chocolate Pig''' is a [[products|product]] unlocked at [[experience]] level 40. It's a special item used only for the Easter 2024 event. This is a [[products|product]] unlocked at [[experience]] level 35 in Easter 2025 & 2026 Event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Pig'''===\n[[File:Easter Egg Maker 2024.png|150px|left|Easter Egg Maker 2024|link=Easter Egg Maker]]\nChocolate pigs are made in the [[Easter Egg Maker]].\n\nTo make a chocolate pig, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour to make a chocolate pig, and 54 minutes in a 2-star and fully [[Masteries|mastered]] station. Each chocolate pig gives players 133 [[experience]] points.\n\n'''In 2025 and 2026''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple Juice.png|75px|Apple Juice|link=Apple Juice]]\n|[[File:Goat Milk.png|75px|Goat Milk|link=Goat Milk]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x5'''\n|}\nt takes 10 minutes to make a chocolate pig. Each chocolate pig gives players 67 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1-2 chocolate pigs per crate, up to a total of 4 per boat. Each chocolate pig used on a boat will be rewarded with 50 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Bacon Products]]\n[[Category:Honey Products]]\n[[Category:Apple Products]]\n[[Category:Apple Juice Products]]\n[[Category:Goat Milk Products]]\n[[Category:Potato Products]]\n{{Languages\n|es = Cerdo de chocolate\n}}",
   "wikitextHash": "92edc22b6f166a61a93ddd5e8626d3875f2e202b510c21e92bb64e77c2116e4a"
 }

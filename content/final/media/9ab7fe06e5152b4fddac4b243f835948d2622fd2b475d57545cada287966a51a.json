@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_birdforest.png",
+  "filePageId": 35714,
+  "filePageRevisionId": 102321,
+  "filePageRevisionSha1": "dac79f858832a943e4f3dae790f81ca840b9ba5d",
+  "filePageRevisionTimestamp": "2022-12-19T14:09:02Z",
+  "filePageWikitext": "== Summary ==\nWinter Bird Forest\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "a789c8f0e7e35ad63ba228ef5d05d839973d56a001c1a541672a0d2997abeb80",
+  "height": 632,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay birdforest.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-19T14:09:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AHayDay%20birdforest.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 255073,
+  "sourceSha1": "71dc0aac94dba7a23f28488b6e8298f2dd96cd41",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1d/HayDay_birdforest.png/revision/latest?cb=20221219140902",
+  "title": "File:HayDay birdforest.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 568
+}

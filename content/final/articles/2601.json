@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bush Crops",
+    "Category:Crops",
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bush Crops",
+      "Category:Crops",
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes?action=history",
@@ -26,11 +38,12 @@
   "revisionId": 81890,
   "revisionTimestamp": "2018-07-07T12:38:40Z",
   "route": "/wiki/category%2Fcategory-trees-and-bushes-2601",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Trees_and_Bushes",
   "title": "Category:Trees and Bushes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Languages\n|de = Kategorie:Bäume_und_Büsche\n|es = Categoría:Árboles_y_arbustos\n|fr = Catégorie:Les_Arbres%26Buissons\n|it = Categoria:Alberi_e_cespugli\n}}\n[[Category:Tree Crops]]\n[[Category:Crops]]\n[[Category:Bush Crops]]",
   "wikitextHash": "a8b2295c815be3eccf5998afc0c38bba3548dc0ca0412c8af67237cc1c1549a8"
 }

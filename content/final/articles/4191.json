@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Crops?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 32687,
   "revisionTimestamp": "2014-08-11T21:30:41Z",
   "route": "/wiki/category%2Fcategory-image-crops-4191",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Crops",
   "title": "Category:Image Crops",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Crops]].\n[[Category:Images]]",
   "wikitextHash": "6a7931cda6981edc128dcfad4329da4d93bb0d118cd78e6e2471c3f2893777ce"
 }

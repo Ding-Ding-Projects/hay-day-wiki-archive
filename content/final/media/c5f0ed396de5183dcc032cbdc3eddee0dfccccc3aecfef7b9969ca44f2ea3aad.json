@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fondue_Pot_Mastery.png",
+  "filePageId": 33860,
+  "filePageRevisionId": 98198,
+  "filePageRevisionSha1": "d6a4759415b5b8e8622ff865626e38d1dc14c72b",
+  "filePageRevisionTimestamp": "2021-07-15T21:49:57Z",
+  "filePageWikitext": "== Summary ==\nFondue Pot Mastered\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "6c7e30845e64bddc5c854ddf23915038812c7e42b7ce7e6ce6d79d271769c23a",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Fondue Pot Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T18:00:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFondue%20Pot%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 88050,
   "sourceSha1": "86465c4b7e60e322620bb573b46d51e7a699345e",

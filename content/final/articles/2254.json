@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cherry Products",
+    "Category:Egg Products",
+    "Category:Milk Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cherry Products",
+      "Category:Egg Products",
+      "Category:Milk Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -188,11 +204,12 @@
   "revisionId": 105821,
   "revisionTimestamp": "2024-09-09T18:02:04Z",
   "route": "/wiki/red-berry-cake-2254",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Red_Berry_Cake",
   "title": "Red Berry Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Red Berry Cake.png|200px|left|Red berry cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 23\n |price = 1 to 255\n |time = 1 h\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 31\n |base = 71\n |time3 = 51 min\n |dia = 4\n}}\n'''Red berry cakes''' are [[products]] unlocked at [[experience]] level 23.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making red berry cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nRed berry cakes are made in the [[Cake Oven]].\n\nTo make a red berry cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour to make one cake, and 51 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 31 [[experience]] points.\n\n{{Clr}}----\n==='''Selling red berry cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Red berry cakes can be bought or sold for a maximum price of 2,556 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 232 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 red berry cakes per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n==='''Video'''===\n<gallery>\nThe Hay Day Kitchen The Red Berry Cake\n</gallery>\n----\n\n{{Navigation}}\n{{Languages\n|de = Beerentorte\n|es = Pastel de bayas\n|fr = Gâteau Fruits Rouges\n|it = Torta ai frutti rossi\n|nl = Rode Bessencake\n|no = Kake med røde bær\n|zh = Red Berry Cake\n}}\n[[pt-br:Bolo de cereja]]\n[[ru:Вишнёвый торт]]\n[[Category:Cake Oven Products|3]]\n[[Category:Milk Products]]\n[[Category:Raspberry Products]]\n[[Category:Cherry Products]]\n[[Category:Egg Products]]",
   "wikitextHash": "c1686b74bdea394aa754ba1567238d8e3fea0b7c318005ca791b5dc7bf63c91d"
 }

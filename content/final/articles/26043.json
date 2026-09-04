@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Edit_Mode?action=history",
@@ -26,11 +38,12 @@
   "revisionId": 78918,
   "revisionTimestamp": "2018-04-17T20:07:15Z",
   "route": "/wiki/category%2Fcategory-edit-mode-26043",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Edit_Mode",
   "title": "Category:Edit Mode",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Town]]",
   "wikitextHash": "4963ff3698dae2f27ba343153c81852e04176d445d92d0d8af577f5e3b4b71f0"
 }

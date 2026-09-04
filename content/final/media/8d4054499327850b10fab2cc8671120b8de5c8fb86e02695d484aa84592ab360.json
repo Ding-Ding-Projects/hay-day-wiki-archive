@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Doner_Kebab_Stand_Mastery_II.png",
+  "filePageId": 36803,
+  "filePageRevisionId": 110336,
+  "filePageRevisionSha1": "427529c02ac5184297787c329f3f2e2b061c0a3a",
+  "filePageRevisionTimestamp": "2026-06-03T00:14:22Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "5df496d3164f7b2ac68e70d20b52115451c530c5cb5934c700163712aab5bec6",
+  "height": 179,
+  "immutableUrl": null,
+  "mediaId": "File:Doner Kebab Stand Mastery II.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-06-03T00:14:22Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ADoner%20Kebab%20Stand%20Mastery%20II.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 110211,
+  "sourceSha1": "8cdcb8c21fd3f20f15fc5dce9e84ad149a289f4f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/63/Doner_Kebab_Stand_Mastery_II.png/revision/latest?cb=20260603001422",
+  "title": "File:Doner Kebab Stand Mastery II.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 291
+}

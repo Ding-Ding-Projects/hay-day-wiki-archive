@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fishing_Spot_Locked.png",
+  "filePageId": 15945,
+  "filePageRevisionId": 65716,
+  "filePageRevisionSha1": "53781b3cc0276f6a1a85f4faa33af5b6107b38b6",
+  "filePageRevisionTimestamp": "2016-10-24T16:23:30Z",
+  "filePageWikitext": "Picture of locked fishing spots.\n{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "642a37ef17daf10c5547206f24001aee7742e10c883a99af824161f4a33c6b52",
   "height": 929,
   "immutableUrl": null,
   "mediaId": "File:Fishing Spot Locked.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-25T10:39:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishing%20Spot%20Locked.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 912664,
   "sourceSha1": "f8b78ba59377a7f9ba52ae299c3cdba1fb7ba272",

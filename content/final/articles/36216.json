@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -319,11 +327,12 @@
   "revisionId": 109766,
   "revisionTimestamp": "2026-05-03T10:08:48Z",
   "route": "/wiki/chamomile-36216",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chamomile",
   "title": "Chamomile",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chamomile.png|200px|left|Chamomile]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 45\n |price = 1 to 10\n |time = 20 min\n |xp = 2\n |base = 3\n |dia = 2\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n\n'''Chamomile''' is a field [[crops|crop]] unlocked at [[experience]] level 45. This plant is added in Winter 2024 update.\n\nIt is used to make [[Soothing Pad|soothing pads]], [[Chamomile Tea|chamomile tea]] and [[Chamomile Essential Oil|chamomile essential oil]].\n\nLike all crops, it is stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 170 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing chamomile'''===\nChamomile is grown in [[Farm|fields]] by planting another chamomile (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 2 [[experience]] points, and takes twenty minutes to mature.\n<gallery>\nChamomile Stage 1.png\nChamomile Stage 2.png\nChamomile Stage 3.png\nChamomile Stage 4.png\nChamomile Stage 5.png\n</gallery>\n----\n==='''Selling chamomile'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Chamomile can be sold or bought for a maximum price of 108 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using chamomile''' ===\nChamomile is used to make the following [[products]]:\n\n{{Item Usage|Chamomile \n|Soothing Pad|5|45\n|Chamomile Essential Oil|5|74\n|Chamomile Tea|5|100\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 32 to 47 chamomile flowers per crate, up to a total of 144 per boat.\n* Each unit of chamomile gives players 5 coins and 3 experience points in boat orders.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n* Recipes ask for up to 5 chamomile flowers. Make sure you have enough in your [[silo]].\n\n----\n{{Navigation}}\n{{Languages\n|de = Kamille\n|es = Manzanilla\n|it = Camomilla\n|no = Kamille\n}}\n[[ru:Ромашка]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "4e30e8bfff33c4e919a31da406efc1c8dc530e98141de5938cc247b636c6a9fc"
 }

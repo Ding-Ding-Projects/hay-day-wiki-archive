@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Corn Products",
+    "Category:Popcorn Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Corn Products",
+      "Category:Popcorn Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +137,12 @@
   "revisionId": 106152,
   "revisionTimestamp": "2024-10-30T20:46:17Z",
   "route": "/wiki/chocolate-popcorn-7181",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Popcorn",
   "title": "Chocolate Popcorn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate_Popcorn.png|200px|left|Chocolate popcorn]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 44\n |price = 1 to 248\n |time = 2 h 30 min\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |xp = 29\n |base = 69\n |dia = 8\n |time3 = 2 h 7 min\n}}\n'''Chocolate popcorn''' is a [[Products|product]] unlocked at [[experience]] level 44.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making chocolate popcorn'''===\n[[File:Popcorn Pot.png|150px|left|Popcorn Pot]]\nChocolate popcorn is made in the [[Popcorn Pot]].\n\nTo make chocolate popcorn, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 2 hours and 30 minutes make one bag, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] pot. Each bag gives players 29 [[experience]] points.\n\n{{Clr}}----\n==='''Selling chocolate popcorn'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Chocolate popcorn can be bought or sold for a maximum price of 2,484 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make it costs 186 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 bags of chocolate popcorn per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Schoko-Popcorn\n|es = Palomitas de chocolate\n|fr = Pop-Corn au Chocolat\n|it = Popcorn al cioccolato\n|nl = Chocoladepopcorn\n|no = Sjokoladepopkorn\n|vi = Bỏng ngô sô cô la\n|zh = Chocolate Popcorn\n}}\n[[pt-br:Pipoca com chocolate]]\n[[ru:Попкорн в шоколаде]]\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "14e66eb5ea2f512648ba16900d12375706846b953d45d68b277aa2af02e5fc0f"
 }

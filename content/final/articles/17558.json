@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Daily_Dirt?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 40027,
   "revisionTimestamp": "2014-12-30T18:46:03Z",
   "route": "/wiki/category%2Fcategory-image-daily-dirt-17558",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Daily_Dirt",
   "title": "Category:Image Daily Dirt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to the [[Daily Dirt]].\n[[Category:Images]]",
   "wikitextHash": "b47c74f6ba9b316acc693eb6e57685aec7be2ed75b177f55a765945c96f02270"
 }

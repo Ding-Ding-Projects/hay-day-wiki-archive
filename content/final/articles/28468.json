@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Flower_Shop_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 73522,
   "revisionTimestamp": "2017-10-18T12:34:27Z",
   "route": "/wiki/category%2Fcategory-flower-shop-products-28468",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Flower_Shop_Products",
   "title": "Category:Flower Shop Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Flower Shop.png|thumb]]\nProducts of the [[Flower Shop]].\n[[Category:Products]]",
   "wikitextHash": "d95a6ef6db805fa27a4bd5fbeea8f58edd515049cdddb45db276cb382c495ea5"
 }

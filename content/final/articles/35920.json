@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -218,11 +226,12 @@
   "revisionId": 110855,
   "revisionTimestamp": "2026-08-08T12:42:04Z",
   "route": "/wiki/penguin-35920",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Penguin",
   "title": "Penguin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blue Penguin.png|200px|left|Penguin|link=Special:FilePath/Blue Penguin.png]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |rlevel = 3\n |needs = {{Infoicon|meatb|big|link=Meat Bucket}}\n |time = every 10 h\n |xp = 25\n |dia = ?\n}}\n\n'''Penguins''' are [[sanctuary]] and pet [[animals]]. They are unlocked at [[reputation]] level 3.\n\nLike all other sanctuary animals, players can only have four of them, one of each type.\n{{Clr}}\n----\n==='''Appearance'''===\nPenguins have two different appearances: blue and grey.\n\n<gallery>\nBlue Penguin.png|Blue\nBlue Penguin Chick.png|Blue chick\nGrey Penguin.png|Grey\nGrey Penguin Chick.png|Grey chick\n</gallery>\n{{Clr}}\n----\n==='''Unlocking penguins'''===\n[[File:Penguin Puzzles.png|150px|left|Completed Puzzles-Adult]][[File:Penguin Chick Puzzles.png|150px|left|Completed Puzzles-Chick]]\nUnlike other animals, penguins cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n\nOnce players have obtained a first penguin, the puzzle for the second penguin is unlocked. After both adult penguins have been added to the sanctuary, the puzzle for one of the chicks is unlocked.\n{{Clr}}\n----\n==='''Placing penguins'''===\nPlayers must have a penguin house to be able to place the animal in the sanctuary. The penguin house is free and can be obtained from the [[Shop]] {{Infoicon|shop|bigger|link=Shop}}.\n\nWhen a second penguin is added to the sanctuary, an upgraded penguin house is obtained from the Shop. Upgrading does not cost anything. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n\n<gallery hideaddbutton=\"true\">\nPenguin House Stage 1.png|Stage 1\nPenguin House Stage 2.png|Stage 2\nPenguin House Stage 3.png|Stage 3\nPenguin House Stage 4.png|Stage 4\n</gallery>\n{{Clr}}\n----\n==='''Feeding penguin'''===\n[[File:Meat Bucket.png|150px|left|Meat bucket]]\nPenguins are fed with [[Meat Bucket|meat buckets]]. Once penguins have eaten eat they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal and a chance to get [[supplies]]. Penguins stay asleep otherwise.\n\nPenguins which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n*Tip: Waking up sanctuary animals one by one instead of using a whistle may increase your chance of getting [[supplies]].\n{{Clr}}\n----\n==='''Decorations'''===\nEach penguint unlocks some [[decorations]] in the shop as specified below:\n<gallery>\nSand Plant.png|Sand Plant (Blue)\nRocky Shore.png|Rocky Shore (Blue chick)\nFloated Wood.png|Floated Wood (Grey)\nShore Flowers.png|Shore Flowers (Grey chick)\n</gallery>\nWith each animal players are given the first pair of decorations for free.\n----\n{{Navigation}}\n[[ru:Пингвины]]\n{{Languages\n|es = Pingüino\n}}\n\n[[Category:Sanctuary Animals]]",
   "wikitextHash": "9ad3e2d108f7764bbcfa888f5f1db1a815c815e322cabcf4d8ecf68ec0b8dc2b"
 }

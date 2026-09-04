@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Banana.png",
+  "filePageId": 26415,
+  "filePageRevisionId": 104910,
+  "filePageRevisionSha1": "87dab28f50b959eff53cdc3637b179387ef8c681",
+  "filePageRevisionTimestamp": "2024-02-19T03:25:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "09928baf13613e96a0930c28d1ffdfd6bbbc1625d4c7e612caae1d0af56adb9f",
   "height": 1976,
   "immutableUrl": null,
   "mediaId": "File:Banana.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 31,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T03:25:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABanana.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3351544,
   "sourceSha1": "ff3f23ec67c2666776f0c80de131ac72ef96cef9",

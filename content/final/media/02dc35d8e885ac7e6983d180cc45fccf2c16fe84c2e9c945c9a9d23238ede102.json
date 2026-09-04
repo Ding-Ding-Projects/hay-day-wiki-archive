@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Balloon_Maker_2025_Mastered.png",
+  "filePageId": 36454,
+  "filePageRevisionId": 108808,
+  "filePageRevisionSha1": "7de4d91f7f3917a63d6b211e859dcdeb1a7a71dd",
+  "filePageRevisionTimestamp": "2025-10-23T20:53:53Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "3cab6ce95f1d16648b9899793f9f7a6e1682e2633270630862b8e17783e0ecc8",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Birthday Balloon Maker 2025 Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-10-23T20:53:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABirthday%20Balloon%20Maker%202025%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 293204,
   "sourceSha1": "7e5be6445f4f367fd93a94cc908be7a5aac393bc",

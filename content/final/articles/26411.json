@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Grapes Products",
+    "Category:Juice Press Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Grapes Products",
+      "Category:Juice Press Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +160,12 @@
   "revisionId": 107236,
   "revisionTimestamp": "2025-02-11T17:30:33Z",
   "route": "/wiki/grape-juice-26411",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grape_Juice",
   "title": "Grape Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grape Juice.png|200px|left|Grape juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 84\n |price = 1 to 104\n |time = 2 h 30 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 13\n |base = 29\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Grape juice''' is a [[Products|product]] unlocked at [[experience]] level 84.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making grape juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nGrape juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|-\n|'''x2'''\n|}\nIt takes 2 hours and 30 minutes to make one bottle, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] press. Each bottle gives players 13 [[experience]] points.\n\n{{Clr}}----\n==='''Selling grape juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Grape juice can be bought or sold for a maximum price of 1,044 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 64 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 6 grape juice per crate, up to a total of 24 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Traubensaft\n|es = Zumo de uva\n|fr = Jus de raisin\n|it = Succo d'uva\n|nl = Druivensap\n|no = Druejus\n|zh = Grape Juice\n}}\n[[pt-br:Suco de uva]]\n[[ru:Виноградный сок]]\n[[Category:Juice Press Products]]\n[[Category:Grapes Products]]",
   "wikitextHash": "1cc58f13fdbec1fc0572221af29418f65f1958388955f592ec2e87d7eb1b475b"
 }

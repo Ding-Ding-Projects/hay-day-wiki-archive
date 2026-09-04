@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Broccoli Products",
+    "Category:Onion Products",
+    "Category:Potato Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Broccoli Products",
+      "Category:Onion Products",
+      "Category:Potato Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 109806,
   "revisionTimestamp": "2026-05-05T21:41:35Z",
   "route": "/wiki/broccoli-soup-30753",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Broccoli_Soup",
   "title": "Broccoli Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Broccoli Soup.png|200px|left|Broccoli soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 87\n |price = 1 to 237\n |time = 1 h 30 min\n |xp = 28\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |base = 66\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Broccoli soup''' is a [[products|product]] unlocked at [[experience]] level 87.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making broccoli soup'''===\n[[File:Soup Kitchen.png|150px|left|Soup Kitchen]]\nBroccoli soup is made in the [[Soup Kitchen]].\n\nTo make broccoli soup players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Broccoli.png|75px|link=Broccoli|Broccoli]]\n|[[File:Onion.png|75px|link=Onion|Onion]]\n|[[File:Potato.png|75px|link=Potato|Potatoes]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 h 30 min to make broccoli soup, and 1 h 16 min in a fully [[Masteries|mastered]] kitchen. Each soup gives players 28 [[experience]] points.\n\n{{Clr}}----\n==='''Selling broccoli soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Broccoli soup can be bought or sold for a maximum price of 2376 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make broccoli soup costs 189 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 to 3 broccoli soup per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n\n{{Languages\n|de = Brokkolisuppe\n|es = Sopa de brócoli\n|fr = Soupe au Brocoli\n|it = Zuppa di broccoli\n|nl = Broccolisoep\n|no = Brokkolisuppe\n|ru = Суп из брокколи\n|zh = Broccoli Soup\n}}\n[[pt-br:Sopa de brócolis]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Potato Products]]\n[[Category:Broccoli Products]]\n[[Category:Onion Products]]",
   "wikitextHash": "000fccb91b1b597d8ab7b8e8130057d554053c6a2122b77f77d62011fef6b3e4"
 }

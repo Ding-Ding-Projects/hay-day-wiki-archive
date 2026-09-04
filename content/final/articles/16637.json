@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Boat?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 36078,
   "revisionTimestamp": "2014-10-25T22:24:52Z",
   "route": "/wiki/category%2Fcategory-image-boat-16637",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Boat",
   "title": "Category:Image Boat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pictures of images related to the [[Boat]].\n[[Category:Images]]",
   "wikitextHash": "00dbace27cc3aaea32af8b878207e0de020a30c2936e847c2b5a86dfb763f24f"
 }

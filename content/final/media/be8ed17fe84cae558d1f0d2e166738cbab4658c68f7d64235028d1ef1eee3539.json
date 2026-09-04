@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mushroom_Stage_3.png",
+  "filePageId": 31954,
+  "filePageRevisionId": 88436,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2019-10-23T15:51:50Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 766,
   "immutableUrl": null,
   "mediaId": "File:Mushroom Stage 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T15:51:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMushroom%20Stage%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 238888,
   "sourceSha1": "4cca82c34fde3956f3d2ee0277d0e9eb040fc00b",

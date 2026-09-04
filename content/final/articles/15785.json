@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Cake Oven Products",
+    "Category:Egg Products",
+    "Category:Honey Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Cake Oven Products",
+      "Category:Egg Products",
+      "Category:Honey Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -191,11 +207,12 @@
   "revisionId": 106133,
   "revisionTimestamp": "2024-10-28T20:12:30Z",
   "route": "/wiki/honey-apple-cake-15785",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Apple_Cake",
   "title": "Honey Apple Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Apple Cake.png|200px|left|Honey apple cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 42\n |price = 1 to 482\n |time = 3 h 20 min\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 57\n |base = 134\n |time3 = 2 h 50 min\n |dia = 6\n}}\n'''Honey apple cakes''' are [[products]] unlocked at [[experience]] level 42.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making honey apple cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nHoney apple cakes are made in the [[Cake Oven]].\n\nTo make a honey apple cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 3 hours 20 minutes to make one cake, and 2 hours 50 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 57 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling honey apple cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Honey apple cakes can be bought or sold for a maximum price of 4,824 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 428 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 honey apple cakes per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Honey apple cake is the only product made in the Cake Oven that doesn't require a product from the [[Dairy]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Honig-Apfelkuchen\n|es = Tarta de manzana y miel\n|fr = Gâteau Pommes Miel\n|it = Torta di mele al miele\n|nl = Appeltaart met Honing\n|no = Eplekake med honning\n|zh = Honey Apple Cake\n}}\n[[pt-br:Bolo de maçã e mel]]\n[[ru:Яблочный пирог с мёдом]]\n[[Category:Cake Oven Products|8]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Apple Products]]\n[[Category:Honey Products]]",
   "wikitextHash": "2a1c34378f724defe5414d917c8b2bd14acf92878cba1b6112fd4d1a35ab82a0"
 }

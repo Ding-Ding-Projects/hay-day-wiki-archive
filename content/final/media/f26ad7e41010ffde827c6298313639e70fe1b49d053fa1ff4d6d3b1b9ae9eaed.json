@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town-start-separeted-num.jpg",
+  "filePageId": 13670,
+  "filePageRevisionId": 77492,
+  "filePageRevisionSha1": "6e9d611a549e27c11da445042c8ec2c8cf09405a",
+  "filePageRevisionTimestamp": "2018-02-11T18:37:14Z",
+  "filePageWikitext": "This image displays the starting town area separated by numbered plots.\n{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "cb08bdd9eeb81d01cbd2c46d2d5ad7507aa99551c2fe0556fe4ef7cbb87bad5b",
   "height": 401,
   "immutableUrl": null,
   "mediaId": "File:Town-start-separeted-num.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-06-09T03:50:07Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown-start-separeted-num.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 256522,
   "sourceSha1": "55404041abfc3d4001fceede5b8c61d30b3ea8bf",

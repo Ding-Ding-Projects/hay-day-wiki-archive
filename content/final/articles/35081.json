@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98558,
   "revisionTimestamp": "2021-08-31T20:58:57Z",
   "route": "/wiki/category%2Fcategory-brown-sugar-products-35081",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Brown_Sugar_Products",
   "title": "Category:Brown Sugar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Brown Sugar.png|thumb]]\nProducts of [[Brown Sugar]].\n[[Category:Products]]",
   "wikitextHash": "fd8c46f4cbd8cc1a0be4c49a35e8088086d18112c6a80d89b532d5fbdd721354"
 }

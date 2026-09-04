@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Developer%27s_Q%26A_Customization_Update",
+  "filePageId": 29659,
+  "filePageRevisionId": 80022,
+  "filePageRevisionSha1": "3403b23e979506c42c259be8bc0aec386446b256",
+  "filePageRevisionTimestamp": "2018-05-03T16:53:52Z",
+  "filePageWikitext": "\n== Description ==\nHear directly from members of the Hay Day team. Community Managers, Frisco and Nick, and Game Designer, Camilla, will talk about the latest Hay Day update - customizations!\n\nGet the latest Hay Day update now: http://supr.cl/GetHayDay \n\n© Supercell Oy 2018\n[[Category:Videos]]",
+  "filePageWikitextHash": "2d85988029a8bfce92b9c41f68e182259b21ea66e0db78516f73c88bac097963",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Developer's Q&A Customization Update",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-05-03T16:53:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Developer's%20Q%26A%20Customization%20Update",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 31245,
+  "sourceSha1": "a86b5b0bf25fc2a1d205d6913688fa63ca5fe013",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/Hay_Day_Developer%27s_Q%26A_Customization_Update/revision/latest?cb=20180503165351",
+  "title": "File:Hay Day Developer's Q&A Customization Update",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}
