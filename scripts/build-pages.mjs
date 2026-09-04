@@ -7,11 +7,27 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BASE_PATH = '/hay-day-wiki-archive/';
 const MAX_OUTPUT_BYTES = 1024 * 1024 * 1024 - 1;
 const outputArg = process.argv.find((value) => value.startsWith('--output='));
-const outputDir = resolve(ROOT, outputArg ? outputArg.slice('--output='.length) : 'dist/pages');
-const port = Number(process.env.PAGES_PRERENDER_PORT || 43000 + (process.pid % 10000));
+const outputDir = resolve(
+  ROOT,
+  outputArg ? outputArg.slice('--output='.length) : 'dist/pages',
+);
+const port = Number(
+  process.env.PAGES_PRERENDER_PORT || 43000 + (process.pid % 10000),
+);
 const host = '127.0.0.1';
 
-const textExtensions = new Set(['.html', '.htm', '.js', '.mjs', '.css', '.json', '.svg', '.map', '.txt', '.xml']);
+const textExtensions = new Set([
+  '.html',
+  '.htm',
+  '.js',
+  '.mjs',
+  '.css',
+  '.json',
+  '.svg',
+  '.map',
+  '.txt',
+  '.xml',
+]);
 
 function fail(message) {
   console.error(`Pages build failed: ${message}`);
@@ -46,10 +62,27 @@ function routeFromValue(value, key, parentKey) {
     if (!value.startsWith('/') || value.startsWith('//')) return null;
     return value.split('#')[0].split('?')[0] || '/';
   }
-  if (key === 'slug' && (parentKey === 'article' || parentKey === 'articles')) return `/wiki/${value}`;
-  if (key === 'slug' && (parentKey === 'category' || parentKey === 'categories')) return `/category/${value}`;
-  if (key === 'slug' && (parentKey === 'media' || parentKey === 'files')) return `/media/${value}`;
+  if (key === 'slug' && (parentKey === 'article' || parentKey === 'articles'))
+    return `/wiki/${value}`;
+  if (
+    key === 'slug' &&
+    (parentKey === 'category' || parentKey === 'categories')
+  )
+    return `/category/${value}`;
+  if (key === 'slug' && (parentKey === 'media' || parentKey === 'files'))
+    return `/media/${value}`;
   return null;
+}
+
+function publishedCategoryRoute(record) {
+  if (
+    !record ||
+    record.namespace !== 14 ||
+    typeof record.title !== 'string' ||
+    !Number.isInteger(record.pageId)
+  )
+    return null;
+  return `/category/${encodeURIComponent(record.title.replace(/^Category:/i, '').trim())}-${record.pageId}`;
 }
 
 function collectRoutes(value, routes, key = '') {
@@ -69,9 +102,29 @@ async function discoverRoutes() {
   const routes = new Set(['/']);
   const appFiles = await walk(join(ROOT, 'app'));
   for (const path of appFiles) {
-    if (!path.endsWith(`${sep}page.tsx`) && !path.endsWith(`${sep}page.ts`) && !path.endsWith(`${sep}page.jsx`) && !path.endsWith(`${sep}page.js`)) continue;
-    const relativeRoute = relative(join(ROOT, 'app'), dirname(path)).replaceAll(sep, '/');
-    if (!relativeRoute || relativeRoute.split('/').some((segment) => segment.startsWith('[') || segment.startsWith('(') || segment === 'api')) continue;
+    if (
+      !path.endsWith(`${sep}page.tsx`) &&
+      !path.endsWith(`${sep}page.ts`) &&
+      !path.endsWith(`${sep}page.jsx`) &&
+      !path.endsWith(`${sep}page.js`)
+    )
+      continue;
+    const relativeRoute = relative(join(ROOT, 'app'), dirname(path)).replaceAll(
+      sep,
+      '/',
+    );
+    if (
+      !relativeRoute ||
+      relativeRoute
+        .split('/')
+        .some(
+          (segment) =>
+            segment.startsWith('[') ||
+            segment.startsWith('(') ||
+            segment === 'api',
+        )
+    )
+      continue;
     routes.add(`/${relativeRoute}`);
   }
   const manifestCandidates = [
@@ -87,29 +140,68 @@ async function discoverRoutes() {
     try {
       collectRoutes(JSON.parse(await fs.readFile(path, 'utf8')), routes);
     } catch (error) {
-      fail(`cannot parse route manifest ${relative(ROOT, path)}: ${error.message}`);
+      fail(
+        `cannot parse route manifest ${relative(ROOT, path)}: ${error.message}`,
+      );
+    }
+  }
+
+  // Category detail pages are derived from the frozen article index. Keep these
+  // routes explicit so a dynamic route cannot disappear from the static bundle.
+  const articleIndex = join(ROOT, 'content', 'final', 'articles.json');
+  if (await exists(articleIndex)) {
+    try {
+      const records = Object.values(
+        JSON.parse(await fs.readFile(articleIndex, 'utf8')),
+      );
+      for (const record of records) {
+        const route = publishedCategoryRoute(record);
+        if (route) routes.add(route);
+      }
+    } catch (error) {
+      fail(`cannot parse article index for category routes: ${error.message}`);
     }
   }
 
   const contentFiles = await walk(join(ROOT, 'content'));
   for (const path of contentFiles) {
     const rel = relative(join(ROOT, 'content'), path).replaceAll(sep, '/');
-    if (!['.json', '.md', '.mdx', '.html'].some((extension) => rel.endsWith(extension))) continue;
+    if (
+      !['.json', '.md', '.mdx', '.html'].some((extension) =>
+        rel.endsWith(extension),
+      )
+    )
+      continue;
     const segments = rel.split('/');
     const collection = segments[0];
-    if (!['articles', 'categories', 'media', 'files'].includes(collection)) continue;
-    const slug = rel.slice(collection.length + 1).replace(/\.json$/, '').replaceAll('\\', '/');
-    if (slug && !slug.endsWith('manifest')) routes.add(`/${collection === 'articles' ? 'wiki' : collection === 'files' ? 'media' : collection}/${slug}`);
+    if (!['articles', 'categories', 'media', 'files'].includes(collection))
+      continue;
+    const slug = rel
+      .slice(collection.length + 1)
+      .replace(/\.json$/, '')
+      .replaceAll('\\', '/');
+    if (slug && !slug.endsWith('manifest'))
+      routes.add(
+        `/${collection === 'articles' ? 'wiki' : collection === 'files' ? 'media' : collection}/${slug}`,
+      );
   }
-  return [...routes].map((route) => route.replace(/\/+/g, '/').replaceAll('%', '~')).sort((a, b) => a.localeCompare(b));
+  return [...routes]
+    .map((route) => route.replace(/\/+/g, '/').replaceAll('%', '~'))
+    .sort((a, b) => a.localeCompare(b));
 }
 
 function rewriteAssetReferences(text) {
   let result = text;
   result = result.replace(/(["'=(])\/_next\//g, `$1${BASE_PATH}_next/`);
-  result = result.replace(/((?:href|src|action|poster|content)=['"])\/(?!\/|hay-day-wiki-archive\/)/g, (_, prefix) => `${prefix}${BASE_PATH.slice(0, -1)}/`);
+  result = result.replace(
+    /((?:href|src|action|poster|content)=['"])\/(?!\/|hay-day-wiki-archive\/)/g,
+    (_, prefix) => `${prefix}${BASE_PATH.slice(0, -1)}/`,
+  );
   result = result.replace(/url\(\s*\/(?!\/)/g, `url(${BASE_PATH}`);
-  result = result.replace(/(https?:\/\/[^"'<>\s]+)\/hay-day-wiki-archive\/hay-day-wiki-archive\//g, '$1/hay-day-wiki-archive/');
+  result = result.replace(
+    /(https?:\/\/[^"'<>\s]+)\/hay-day-wiki-archive\/hay-day-wiki-archive\//g,
+    '$1/hay-day-wiki-archive/',
+  );
   return result;
 }
 
@@ -129,7 +221,10 @@ async function fetchText(url, timeoutMs = 30000) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
-    const response = await fetch(url, { signal: controller.signal, redirect: 'manual' });
+    const response = await fetch(url, {
+      signal: controller.signal,
+      redirect: 'manual',
+    });
     const body = await response.text();
     return { response, body };
   } finally {
@@ -140,7 +235,8 @@ async function fetchText(url, timeoutMs = 30000) {
 async function waitForServer(url, child) {
   const deadline = Date.now() + 60000;
   while (Date.now() < deadline) {
-    if (child.exitCode !== null) fail(`vinext production server exited with code ${child.exitCode}`);
+    if (child.exitCode !== null)
+      fail(`vinext production server exited with code ${child.exitCode}`);
     try {
       const result = await fetchText(url, 2000);
       if (result.response.status >= 200 && result.response.status < 500) return;
@@ -154,13 +250,20 @@ async function waitForServer(url, child) {
 
 async function renderRoutes(routes) {
   const cli = join(ROOT, 'node_modules', 'vinext', 'dist', 'cli.js');
-  if (!(await exists(cli))) fail('the Vinext CLI is missing from node_modules after dependency installation');
-  const child = spawn(process.execPath, [cli, 'start', '--hostname', host, '--port', String(port)], {
-    cwd: ROOT,
-    stdio: ['ignore', 'inherit', 'inherit'],
-    env: { ...process.env, NODE_ENV: 'production' },
-    windowsHide: true,
-  });
+  if (!(await exists(cli)))
+    fail(
+      'the Vinext CLI is missing from node_modules after dependency installation',
+    );
+  const child = spawn(
+    process.execPath,
+    [cli, 'start', '--hostname', host, '--port', String(port)],
+    {
+      cwd: ROOT,
+      stdio: ['ignore', 'inherit', 'inherit'],
+      env: { ...process.env, NODE_ENV: 'production' },
+      windowsHide: true,
+    },
+  );
   child.exitCode = null;
   const stop = () => {
     if (child.exitCode === null) child.kill('SIGTERM');
@@ -179,17 +282,28 @@ async function renderRoutes(routes) {
     const templates = new Map();
     for (const route of routes) {
       const url = `http://${host}:${port}${route}`;
-      const templateKey = route.startsWith('/wiki/') ? 'wiki' : route.startsWith('/media/') && route !== '/media' ? 'media' : route;
+      const templateKey = route.startsWith('/wiki/')
+        ? 'wiki'
+        : route.startsWith('/media/') && route !== '/media'
+          ? 'media'
+          : route.startsWith('/category/')
+            ? 'category'
+            : route;
       let body = templates.get(templateKey);
       if (!body) {
         const result = await fetchText(url);
-        if (result.response.status < 200 || result.response.status >= 300) fail(`route ${route} returned HTTP ${result.response.status}`);
+        if (result.response.status < 200 || result.response.status >= 300)
+          fail(`route ${route} returned HTTP ${result.response.status}`);
         const contentType = result.response.headers.get('content-type') || '';
-        if (!contentType.includes('text/html')) fail(`route ${route} returned ${contentType}, not HTML`);
+        if (!contentType.includes('text/html'))
+          fail(`route ${route} returned ${contentType}, not HTML`);
         body = result.body;
         templates.set(templateKey, body);
       }
-      const target = route === '/' ? join(outputDir, 'index.html') : join(outputDir, route.replace(/^\/+/, ''), 'index.html');
+      const target =
+        route === '/'
+          ? join(outputDir, 'index.html')
+          : join(outputDir, route.replace(/^\/+/, ''), 'index.html');
       await fs.mkdir(dirname(target), { recursive: true });
       await fs.writeFile(target, rewriteAssetReferences(body), 'utf8');
     }
@@ -222,29 +336,66 @@ async function rewriteTextAssets() {
   }
 }
 
+async function extend404Recovery() {
+  const notFoundPath = join(outputDir, '404.html');
+  if (!(await exists(notFoundPath))) return;
+  const html = await fs.readFile(notFoundPath, 'utf8');
+  const script = `<script>\n(function recoverArchiveCandidates(){\n  var base = '${BASE_PATH}';\n  var candidate = window.location.pathname.startsWith(base) ? window.location.pathname.slice(base.length).replace(/^\\/+|\\/+$/g, '') : '';\n  if (!candidate || candidate === '404.html') return;\n  function decode(value){ try { return decodeURIComponent(value); } catch { return null; } }\n  function published(value){ return String(value).replaceAll('%','~').replace(/^\\/+|\\/+$/g,'').toLowerCase(); }\n  function localTarget(route){ return base + published(route) + '/index.html' + window.location.search + window.location.hash; }\n  function visit(route){ if (typeof route !== 'string' || !route.startsWith('/')) return; fetch(localTarget(route), {method:'HEAD', cache:'no-store'}).then(function(response){ if(response.ok) window.location.replace(localTarget(route)); }); }\n  Promise.all([fetch(base + 'archive/articles.json', {cache:'no-store'}).then(function(response){return response.ok ? response.json() : {};}).catch(function(){return {}; }), fetch(base + 'archive/media-manifest.json', {cache:'no-store'}).then(function(response){return response.ok ? response.json() : [];}).catch(function(){return [];})]).then(function(values){\n    var articles = Object.values(values[0] || {}); var media = Array.isArray(values[1]) ? values[1] : Object.values(values[1] || {}); var decoded = decode(candidate); var wanted = decoded ? decoded.replace(/[_]+/g,' ').replace(/\\s+/g,' ').trim().toLowerCase() : '';\n    var article = articles.find(function(item){ if(!item || typeof item !== 'object') return false; var route=published(item.route||''); var title=String(item.title||'').toLowerCase(); return route===candidate.toLowerCase() || route.endsWith('/'+candidate.toLowerCase()) || title===wanted; });\n    if(article && article.route){ visit(article.route); return; }\n    var mediaRecord = media.find(function(item){ return item && (published(item.route||'')===candidate.toLowerCase() || String(item.title||'').toLowerCase()===wanted); });\n    if(mediaRecord && mediaRecord.route){ visit(mediaRecord.route); return; }\n    var category = articles.find(function(item){ return item && item.namespace===14 && published('/category/'+encodeURIComponent(String(item.title||'').replace(/^Category:/i,'').trim())+'-'+item.pageId)===candidate.toLowerCase(); });\n    if(category) visit('/category/'+encodeURIComponent(String(category.title).replace(/^Category:/i,'').trim())+'-'+category.pageId);\n    else { var direct = base + candidate + '/index.html' + window.location.search + window.location.hash; fetch(direct,{method:'HEAD',cache:'no-store'}).then(function(response){if(response.ok) window.location.replace(direct);}); }\n  });\n}());\n</script>`;
+  if (!html.includes('archive-candidate-recovery-v2')) {
+    await fs.writeFile(
+      notFoundPath,
+      html
+        .replace('<body>', '<body>\n<!-- archive-candidate-recovery-v2 -->')
+        .replace('</body>', `${script}</body>`),
+      'utf8',
+    );
+  }
+}
+
 async function main() {
-  if (!(await exists(join(ROOT, 'dist', 'server')))) fail('dist/server is missing. Run npm run build first.');
+  if (!(await exists(join(ROOT, 'dist', 'server'))))
+    fail('dist/server is missing. Run npm run build first.');
   await fs.rm(outputDir, { recursive: true, force: true });
   await fs.mkdir(outputDir, { recursive: true });
   const routes = await discoverRoutes();
-  console.log(`Prerendering ${routes.length} route${routes.length === 1 ? '' : 's'} through the Vinext production server`);
+  console.log(
+    `Prerendering ${routes.length} route${routes.length === 1 ? '' : 's'} through the Vinext production server`,
+  );
   await renderRoutes(routes);
   await copyStaticFiles();
   await rewriteTextAssets();
-  const commit = process.env.GITHUB_SHA || (spawnSync('git', ['rev-parse', 'HEAD'], { cwd: ROOT, encoding: 'utf8' }).stdout || '').trim() || null;
-  const epoch = process.env.SOURCE_DATE_EPOCH ? Number(process.env.SOURCE_DATE_EPOCH) : null;
+  await extend404Recovery();
+  const commit =
+    process.env.GITHUB_SHA ||
+    (
+      spawnSync('git', ['rev-parse', 'HEAD'], { cwd: ROOT, encoding: 'utf8' })
+        .stdout || ''
+    ).trim() ||
+    null;
+  const epoch = process.env.SOURCE_DATE_EPOCH
+    ? Number(process.env.SOURCE_DATE_EPOCH)
+    : null;
   const manifest = {
     schemaVersion: 1,
     basePath: BASE_PATH,
     sourceCommit: commit,
-    generatedAt: Number.isFinite(epoch) ? new Date(epoch * 1000).toISOString() : null,
+    generatedAt: Number.isFinite(epoch)
+      ? new Date(epoch * 1000).toISOString()
+      : null,
     routes,
     outputLimitBytes: MAX_OUTPUT_BYTES,
   };
-  await fs.writeFile(join(outputDir, 'pages-manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+  await fs.writeFile(
+    join(outputDir, 'pages-manifest.json'),
+    `${JSON.stringify(manifest, null, 2)}\n`,
+    'utf8',
+  );
   const size = await byteSize(outputDir);
-  if (size > MAX_OUTPUT_BYTES) fail(`output is ${size} bytes, above the ${MAX_OUTPUT_BYTES}-byte limit`);
-  console.log(`Pages output ready at ${relative(ROOT, outputDir)} (${size} bytes)`);
+  if (size > MAX_OUTPUT_BYTES)
+    fail(`output is ${size} bytes, above the ${MAX_OUTPUT_BYTES}-byte limit`);
+  console.log(
+    `Pages output ready at ${relative(ROOT, outputDir)} (${size} bytes)`,
+  );
 }
 
 main().catch((error) => {
