@@ -1,16 +1,17 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useSyncExternalStore } from 'react';
 import { ArchiveNav } from '@/components/archive-nav';
 import { currentArchiveSegments, fetchArchiveValues, publishedRoute, type MediaRecord } from '@/lib/archive';
 
 export default function MediaRecordPage() {
-  const slug = currentArchiveSegments('media');
+  const pathname = useSyncExternalStore((notify) => { window.addEventListener('popstate', notify); return () => window.removeEventListener('popstate', notify); }, () => window.location.pathname, () => '');
+  const slug = pathname ? currentArchiveSegments('media') : [];
   const route = `/media/${slug.join('/')}`;
   const [record, setRecord] = useState<MediaRecord | null>(null);
   const [loaded, setLoaded] = useState(false);
   useEffect(() => { void fetchArchiveValues<MediaRecord>('media-manifest.json').then((items) => setRecord(items.find((item) => publishedRoute(item.route) === route) ?? null)).catch(() => setRecord(null)).finally(() => setLoaded(true)); }, [route]);
-  if (!record) return <main className="reader-shell"><ArchiveNav back="/media" /><section className="loading-state" aria-live="polite">{loaded ? 'Media record not found.' : 'Loading the media record…'}</section></main>;
+  if (!record) return <main className="reader-shell"><ArchiveNav back="/media" /><section className="loading-state" aria-live="polite">{loaded && pathname ? 'Media record not found.' : 'Loading the media record…'}</section></main>;
   return <main className="simple-page reader-page">
     <ArchiveNav back="/media" />
     <section className="simple-hero"><p className="eyebrow">Media record</p><h1>{record.title}</h1><p>{record.reason}</p></section>

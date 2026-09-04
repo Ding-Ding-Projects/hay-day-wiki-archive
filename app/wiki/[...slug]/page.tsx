@@ -1,12 +1,13 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useSyncExternalStore } from 'react';
 import Link from 'next/link';
 import { ArchiveNav } from '@/components/archive-nav';
 import { currentArchiveSegments, fetchArchiveJson, pageIdFromSegments, publicRoute, rewriteArchiveHtml, type ArticleRecord } from '@/lib/archive';
 
 export default function ArticlePage() {
-  const slug = currentArchiveSegments('wiki');
+  const pathname = useSyncExternalStore((notify) => { window.addEventListener('popstate', notify); return () => window.removeEventListener('popstate', notify); }, () => window.location.pathname, () => '');
+  const slug = pathname ? currentArchiveSegments('wiki') : [];
   const pageId = pageIdFromSegments(slug);
   const [article, setArticle] = useState<ArticleRecord | null>(null);
   const [error, setError] = useState('');
@@ -14,7 +15,7 @@ export default function ArticlePage() {
     if (!pageId) return;
     void fetchArchiveJson<ArticleRecord>(`articles/${pageId}.json`).then(setArticle).catch((reason) => setError(String(reason)));
   }, [pageId]);
-  if (!article) return <main className="reader-shell"><ArchiveNav back="/all-pages" /><section className="loading-state" aria-live="polite">{!pageId ? 'This route has no source page identifier.' : error || 'Loading the frozen article…'}</section></main>;
+  if (!article) return <main className="reader-shell"><ArchiveNav back="/all-pages" /><section className="loading-state" aria-live="polite">{pathname && !pageId ? 'This route has no source page identifier.' : error || 'Loading the frozen article…'}</section></main>;
   return <main className="reader-shell">
     <ArchiveNav back="/all-pages" />
     <article className="reader-article">
