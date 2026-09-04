@@ -30,6 +30,8 @@ Planning identified 1,362 reader-facing records: 994 main-namespace articles and
 - Published setup: 166,193,664 bytes, SHA-256 `a0c4b90f06adc716151c800a6a0beb1891e91d5e5269bb6b8d42deb499777f1c`, anonymously downloadable with HTTP 200
 - Published full package: 165,621,027 bytes, SHA-256 `c8f2f9048618365f606e946d19ddf7f70a1c981e22d04d76b786303bd40e348f`
 - Published release index: 91 bytes, SHA-256 `d88f8bab7ab4a666dca1ff8574757586af29349dab2520a52ca2031d28ab71f7`
+- Published-home capture: `docs/captures/pages-home-download-6d35d36.png`, 1,440 × 1,000 pixels, 467,657 bytes, SHA-256 `f0cb0567d1e52605759a4962c39dfcbc3a0dec037973cbff2d89505f255aea90`
+- Published download interaction: control visible and keyboard-addressable at 390 × 844 with no horizontal overflow; exact release URL returned HTTP 200 and 166,193,664 bytes
 
 ## Documentation lane
 

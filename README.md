@@ -18,6 +18,15 @@ An unofficial, read-only archive and reader for the reader-facing knowledge base
 
 The public reader is <https://ding-ding-projects.github.io/hay-day-wiki-archive/>. It is a read-only documentation surface, not a replacement community site, not a game client, and not a place for accounts, editing, comments, or discussion records.
 
+<details>
+<summary>Published reader home and Windows download</summary>
+
+![The published Hay Day Wiki Archive home page with Search the archive, Browse categories, and Download 0.1.0 for Windows controls](docs/captures/pages-home-download-6d35d36.png)
+
+This real capture came from the deployed reader at commit `6d35d3657ca129f98f53677803218e99ccc0b7e9` through an isolated hidden desktop. It is 1,440 × 1,000 pixels, 467,657 bytes, and has SHA-256 `f0cb0567d1e52605759a4962c39dfcbc3a0dec037973cbff2d89505f255aea90`. The download control was exercised separately at a 390 × 844 touch viewport and returned the exact 166,193,664-byte setup executable with HTTP 200.
+
+</details>
+
 ## Verified snapshot
 
 The execution manifest records these published figures:
