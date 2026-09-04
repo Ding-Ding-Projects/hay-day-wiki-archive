@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -199,11 +207,12 @@
   "revisionId": 110753,
   "revisionTimestamp": "2026-07-16T00:10:54Z",
   "route": "/wiki/fishing-lake-23340",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fishing_Lake",
   "title": "Fishing Lake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Fishing Boat.png|200px|left|The fishing boat]]\nThe '''fishing lake''' is a game feature which gives players a new area to play in, and gain [[experience]] points and [[diamond]]s as well as collect new [[Animal Goods|animal goods]].\n\nIt can be unlocked at [[experience]] level 27 by repairing the fishing boat, located on the [[farm]].\n\n{{Clr}}----\n=== '''Music Soundtrack On The Fishing Lake'''===\n    [[File:Game Soundtrack Fishing Lake.ogg]]\n\n\n{{Clr}}----\n=== '''Going to the lake'''===\n[[File:Fishing Boat Broken.png|150px|left|The broken fishing boat]]\nRepairing the fishing boat costs 10,000 {{Infoicon|coin}} and takes 5 minutes  (or 10{{Infoicon|diamond}}), giving player 47 {{Infoicon|xp}} when finished. After taking the fishing boat to go to the lake, players can immediately use the [[Lure Workbench]] to make lures.\n\n{{Clr}}----\n==='''Catching fish'''===\n{{Main|Fishing}}\nIn this area, players can catch [[fish]] using [[lure]]s or [[Net Maker|nets]], and catch [[lobster]]s and [[duck]]s using [[Net Maker|traps]].\n\n{{Clr}}----\n==='''Fishing lake buildings'''===\nThere are several buildings around the fishing lake (see the map below):\n*the [[Lure Workbench]] to make [[lure]]s.\n*the [[Net Maker]] to make [[Fishing Net|fishing nets]], [[Lobster Trap|lobster traps]], and [[Duck Trap|duck traps]].\n*the [[Tackle Box|tackle box]] to store lures, nets, and traps.\n*[[Fishing|fishing spots]] to catch [[fish]], [[lobster]]s, and [[duck]]s.\n*the fisherman's hut to open the [[Fishing Book|fishing book]].\n*the [[Lobster Pool]] to extract [[Lobster Tail|lobster tails]] from [[lobster]]s.\n*the [[Duck Salon]] to extract [[Duck Feather|feathers]] from [[duck]]s.\n*the fishing boat to go back to the [[farm]].\n[[File:Fishing Lake.png|500px|left|Town Map]]\n\n{{Clr}}----\n==='''Fishing lake character'''===\n[[File:Angus.png|150px|left|Angus]]\n{{Main|Angus}}\n\n[[Angus]] is a [[:Category:Characters|non-playable character]] who, like Mr. Wicker, explains how various mechanics work as they are unlocked. Angus never leaves the lake, so players can watch the tutorials again by tapping on him.\n\n{{Clr}}----\n==='''Expansion'''===\n[[File:Fishing Spot Locked.png|150px|left|A fishing spot]]\n{{Main|Expansion}}\n\nPlayers can unlock new fishing spots using [[Supplies|expansion supplies]].\n\n{{Clr}}----\n==='''Tutorial'''===\n[[File:Hay Day - The Fishing Area Guide|left|500px]]\nVideo by [[User:R3DKNIGHT aka Ranger|R3DKNIGHT aka Ranger]]\n\n{{Clr}}----\n==='''Strategy tips'''===\n*Catching new fish is a nice and easy way to get [[diamond]]s.\n*Upgrading the [[Tackle Box|tackle box]] requires the same supplies as upgrading the [[silo]] does.\n*Opening all the spots in the fishing lake (there's fifteen total) can help out greatly with fishing derby tasks.\n----\n{{Navigation}}\n\n{{Languages\n|es = Lago de pesca\n}}\n[[ru:Рыболовное озеро]]\n\n[[Category:Fishing Lake]]",
   "wikitextHash": "1ba1cbd4cc9d104fdfb294a833f2aa85b248d30b95ec077dbcfd76fb9bd687a7"
 }

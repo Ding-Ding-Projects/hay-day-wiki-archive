@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Beeswax Products",
+    "Category:Candle Maker Products",
+    "Category:Indigo Products",
+    "Category:Peony Products",
+    "Category:Sunflower Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Beeswax Products",
+      "Category:Candle Maker Products",
+      "Category:Indigo Products",
+      "Category:Peony Products",
+      "Category:Sunflower Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 109790,
   "revisionTimestamp": "2026-05-04T17:23:48Z",
   "route": "/wiki/floral-candle-29359",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Floral_Candle",
   "title": "Floral Candle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Floral Candle.png|200px|left|Floral candle]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 95\n |price = 1 to 442\n |time = 2 h\n |xp = 53\n |source = {{Infoicon|candlem|bigger|link=Candle Maker}}\n |base = 123\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Floral candles''' are [[products]] unlocked at [[experience]] level 95.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making floral candles'''===\n[[File:Candle Maker.png|150px|left|Candle Maker]]\nFloral candles are made in the [[Candle Maker]].\n\nTo make a floral candle, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Beeswax.png|75px|Beeswax|link=Beeswax]]\n|[[File:Peony.png|75px|Peonies|link=Peony]]\n|[[File:Sunflower.png|75px|Sunflowers|link=Sunflower]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 2 hours to make one candle, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] maker. Each candle gives players 53 [[experience]] points.\n\n{{Clr}}----\n==='''Selling floral candles'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Floral candles can be bought or sold for a maximum price of 4,428 {{Infoicon|coin}} for 10 candles.\n* Buying the ingredients required to make a floral candle costs 398 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 floral candles per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Blumenkerze\n|es = Vela floral\n|fr = Bougie Fleurie\n|it = Candela fiorita\n|nl = Bloemenkaars\n|no = Blomsterlys\n|ru = Свеча в виде цветка\n|zh = Floral Candle\n}}\n[[pt-br:Vela de flores]]\n\n[[Category:Candle Maker Products]]\n[[Category:Indigo Products]]\n[[Category:Beeswax Products]]\n[[Category:Peony Products]]\n[[Category:Sunflower Products]]",
   "wikitextHash": "8092edd1f54b014056c5097b9c5eac023542d9c242c9d0a20c570733f7b91b49"
 }

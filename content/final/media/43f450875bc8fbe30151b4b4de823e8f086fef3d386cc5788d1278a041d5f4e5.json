@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Explorer_Chicken.png",
+  "filePageId": 34655,
+  "filePageRevisionId": 99359,
+  "filePageRevisionSha1": "048287047164733207438d3d88b3aae345e20a47",
+  "filePageRevisionTimestamp": "2021-11-10T21:10:08Z",
+  "filePageWikitext": "== Summary ==\nSeason 14 Valley Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "6b35d75d1dbcf3ef911c482fdc2932c5fa330f5f46575835de6a327d07948939",
   "height": 300,
   "immutableUrl": null,
   "mediaId": "File:Explorer Chicken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-12-06T13:47:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExplorer%20Chicken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 175096,
   "sourceSha1": "50556401a9bf44f4fca67de1e99ba9823db777f9",

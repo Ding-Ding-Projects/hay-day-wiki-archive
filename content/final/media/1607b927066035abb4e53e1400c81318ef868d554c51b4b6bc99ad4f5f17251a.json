@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:ChickVoucherIcon.webp",
+  "filePageId": 35504,
+  "filePageRevisionId": 101283,
+  "filePageRevisionSha1": "60fef810d0af45e0bf3b0f2d90353e8400d15760",
+  "filePageRevisionTimestamp": "2022-07-08T09:44:08Z",
+  "filePageWikitext": "The ingame image of chick voucher",
+  "filePageWikitextHash": "cea0f39718db1b6227db808c0301b11b9b32a65ad958a3911e17063919f4e9d9",
+  "height": 687,
+  "immutableUrl": null,
+  "mediaId": "File:ChickVoucherIcon.webp",
+  "mediaType": "BITMAP",
+  "mime": "image/webp",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-07-08T09:44:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AChickVoucherIcon.webp",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 12980,
+  "sourceSha1": "1cf22fb80ea7b4ba49f6f7b44843a54e3ae16cb7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/08/ChickVoucherIcon.webp/revision/latest?cb=20220708094408",
+  "title": "File:ChickVoucherIcon.webp",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 458
+}

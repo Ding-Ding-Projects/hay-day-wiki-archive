@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sauce Maker Products",
+    "Category:Soybean Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sauce Maker Products",
+      "Category:Soybean Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +191,12 @@
   "revisionId": 106885,
   "revisionTimestamp": "2025-01-16T13:53:33Z",
   "route": "/wiki/soy-sauce-8909",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Soy_Sauce",
   "title": "Soy Sauce",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Soy Sauce.png|200px|left|Soy sauce]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 54\n |price = 1 to 154\n |time = 3 h\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 19\n |base = 43\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Soy sauce''' is a [[Products|product]] unlocked at [[experience]] level 54.\n\nIt is used to make [[Sushi_Roll|sushi roll]], [[Lobster_Sushi|lobster sushi]], [[Egg_Sushi|egg sushi]] and [[Peanut Noodles|peanut noodles]] .\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making soy sauce'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nSoy sauce is made in the [[Sauce Maker]].\n\nTo make the sauce, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Soybean.png|75px|Soybeans|link=Soybean]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x9'''\n|'''x1'''\n|}\nIt takes 3 hours to make one bottle of soy sauce, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] maker. Each bottle gives players 19 [[experience]] points.\n\n{{Clr}}----\n==='''Selling soy sauce'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Soy sauce can be bought or sold for a maximum price of 1,548 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make soy sauce costs 100 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using soy sauce'''===\nSoy sauce is used to make the following [[products]]:\n\n{{Item Usage|Soy Sauce\n|Sushi Roll|1|56\n|Lobster Sushi|1|59\n|Egg Sushi|1|63\n|Peanut Noodles|1|86\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 soy sauce per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Traditional soy sauce also requires salt and various microorganisms (i.e. mold) to help with fermentation. It takes months to make.\n----\n\n{{Navigation}}\n{{Languages\n|de = Sojasoße\n|es = Salsa de soja\n|fr = Sauce Soja\n|it = Salsa di soia\n|nl = Sojasaus\n|no = Soyasaus\n|zh = Soy Sauce\n}}\n[[pt-br:Molho de soja]]\n[[ru:Соевый соус]]\n[[Category:Sauce Maker Products]]\n[[Category:Wheat Products]]\n[[Category:Soybean Products]]",
   "wikitextHash": "e6515a7e0a552e666cdd5e3657f28900881695cb2528e08a6c55b6f054caa931"
 }

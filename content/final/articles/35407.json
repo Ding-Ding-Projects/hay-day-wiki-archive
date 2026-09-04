@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pages with broken file links",
+    "Category:Toucans"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pages with broken file links",
+      "Category:Toucans"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -407,6 +417,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -440,6 +451,7 @@
     "File:Sulphur Crested Cockatoo.png",
     "File:Sunflower.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -455,11 +467,12 @@
   "revisionId": 110715,
   "revisionTimestamp": "2026-07-10T22:24:58Z",
   "route": "/wiki/keel-billed-toucan-35407",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Keel-billed_Toucan",
   "title": "Keel-billed Toucan",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Keel-billed Toucan.png|200px|left|Keel-billed Toucan]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 20\n |needs = any one:<br>[[File:Bell Pepper.png|35px|link=Bell Pepper]][[File:Blueberries.png|35px|link=Blueberries]][[File:Broccoli.png|35px|link=Broccoli]]<br/>\n[[File:Cabbage.png|35px|link=Cabbage]][[File:Carrot.png|35px|link=Carrot]][[File:Rice.png|35px|link=Rice]]<br/>\n[[File:Sesame.png|35px|link=Sesame]][[File:Soybean.png|35px|link=Soybean]][[File:Strawberry.png|35px|link=Strawberry]]<br/>\n[[File:Sunflower.png|35px|link=Sunflower]][[File:Watermelon.png|35px|link=Watermelon]]\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}10 {{Infoicon|chickv|link=Chick Voucher}}9\n |xp = 40\n |dia = N/A\n}}\n'''Keel-billed Toucans''' are pet [[animals]]. They are unlocked at [[experience]] level 20.\n\nThey give players [[experience]] points in exchange for any available feed.\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Keel-billed Toucan Tail}}{{BigIcon|Keel-billed Toucan Sleeping}}{{BigIcon|Keel-billed Toucan Walking}}{{BigIcon|Keel-billed Toucan Sitting}}\n----\n==='''Buying'''===\n[[File:Bird House.png|150px|left|thumb|Bird house]]\nEach keel-billed toucan costs 10 green [[voucher]]s and 9 chick [[voucher]]s. They must be placed near a [[Bird House|bird house]] to be bought. Players can have one keel-billed toucan.\n\nToucans and bird houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\n[[File:Bird House 2.png|230x230px|left|thumb|Giving feed]]\nWhen given certain quantity of [[Soybean]], [[Carrot]], [[Strawberry]], [[Sesame]], [[Rice]], [[Cabbage]], [[Sunflower]], [[Bell Pepper]], [[Broccoli]] or [[Watermelon]], toucans eat then roam the [[farm]] for 6 hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Toucans stay asleep otherwise.\n\nToucans which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Fischertukan\n|es = Tucán piquiverde\n|fr = Toucan Bec Vert\n|no = Regnbuetukan\n|zh = 彩虹巨嘴鸟\n}}\n[[ru:Радужный тукан]]\n\n[[Category:Toucans]]",
   "wikitextHash": "1c07df3a226ae04b54feaa4b72b9b8709872496daf87e3d9e60d1cef17abe069"
 }

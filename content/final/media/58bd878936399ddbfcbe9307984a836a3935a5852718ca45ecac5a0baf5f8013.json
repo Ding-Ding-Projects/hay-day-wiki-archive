@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Roadside_Shop_Daily_Limit.png",
+  "filePageId": 32120,
+  "filePageRevisionId": 89952,
+  "filePageRevisionSha1": "153d85462ba30704cbe9c394c6f7a7f4f521d7fb",
+  "filePageRevisionTimestamp": "2019-12-22T21:11:35Z",
+  "filePageWikitext": "== Summary ==\nRoadside Ship purchasing limit as part of the October 2019 update.\n== Licensing ==\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "e072426dd962f5e1b55bd7bb2e9c402fa6c1617d33b645eff847d36b67576cda",
   "height": 432,
   "immutableUrl": null,
   "mediaId": "File:Roadside Shop Daily Limit.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-11-15T19:26:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARoadside%20Shop%20Daily%20Limit.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 152325,
   "sourceSha1": "dde750e61e579a29879e9b9596db15e686b9816d",

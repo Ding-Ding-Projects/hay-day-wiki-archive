@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -322,11 +330,12 @@
   "revisionId": 109668,
   "revisionTimestamp": "2026-04-14T17:03:39Z",
   "route": "/wiki/cabbage-34832",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cabbage",
   "title": "Cabbage",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cabbage.png|200px|left|Cabbage]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 65\n |price = 1 to 18\n |time = 45 min\n |xp = 3\n |base = 5\n |dia = 3\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Cabbage''' is a field [[crops|crop]] unlocked at [[experience]] level 65.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 270 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing cabbage'''===\nCabbage is grown in [[Farm|fields]] by planting another cabbage (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 45 minutes to mature. \n<gallery>\nCabbage Stage 1.png\nCabbage Stage 2.png\nCabbage Stage 3.png\nCabbage Stage 4.png\nCabbage Stage 5.png\n</gallery>\n----\n==='''Selling cabbage'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n\n*Cabbage can be sold or bought for a maximum price of 180 {{Infoicon|coin}} for 10 heads.\n\n{{Clr}}\n----\n==='''Using cabbage'''===\nCabbage is used to make the following [[products]]:\n\n{{Item Usage|Cabbage\n|Cabbage Soup|3|65\n|Coleslaw|3|75\n|Colourful Omelet|1|77\n|Mushroom Pot Pie|3|97\n|Kimchi|5|98\n}}\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 12 to 34 heads of cabbage per crate, up to a total of 102 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Rotkohl\n|es = Col\n|fr = Chou\n|it = Cavolo\n|no = Kål\n|zh = Cabbage\n}}\n[[pt-br:Repolho]]\n[[ru:Капуста]]\n[[Category:Field Crops]]",
   "wikitextHash": "5aca7f2d68ba86dd7b34af10269c39196f7bd02d79affdda97c3f0723089b2a9"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_189.png",
+  "filePageId": 34656,
+  "filePageRevisionId": 98234,
+  "filePageRevisionSha1": "525eda435d5f5a01b67ded2445b134bcd153bd0e",
+  "filePageRevisionTimestamp": "2021-07-15T22:06:48Z",
+  "filePageWikitext": "== Summary ==\nLevel 189 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "fe415bda333d3e82504562d8548d90b5f846a59fa3b4ce289d3914fcdd997f04",
   "height": 354,
   "immutableUrl": null,
   "mediaId": "File:Level 189.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-12-06T13:55:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20189.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 608636,
   "sourceSha1": "96157b1c868c31958cc1db18815e046bc7445e68",

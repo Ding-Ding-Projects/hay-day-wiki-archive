@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Rottweiler?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 99957,
   "revisionTimestamp": "2022-01-07T20:59:40Z",
   "route": "/wiki/rottweiler-35316",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rottweiler",
   "title": "Rottweiler",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Delete}}",
   "wikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d"
 }

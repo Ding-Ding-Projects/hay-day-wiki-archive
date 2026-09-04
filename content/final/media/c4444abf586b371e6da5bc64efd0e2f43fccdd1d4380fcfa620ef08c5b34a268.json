@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Generosity_Title.png",
+  "filePageId": 25445,
+  "filePageRevisionId": 69370,
+  "filePageRevisionSha1": "d2c6516e635c965a421030567bdd9acb89e19193",
+  "filePageRevisionTimestamp": "2017-02-06T01:16:48Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "a80df22d99cb1c88f152caf0917bc2122fff7627669a7dda7a4e7439bbac6b29",
   "height": 720,
   "immutableUrl": null,
   "mediaId": "File:Generosity Title.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-08-20T22:40:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGenerosity%20Title.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 579276,
   "sourceSha1": "5d0de7c54043023a023287d1e4b547a1c520983f",

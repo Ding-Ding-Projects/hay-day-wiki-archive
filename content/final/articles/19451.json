@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pasta Maker Products",
+    "Category:Rice Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pasta Maker Products",
+      "Category:Rice Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -140,11 +150,12 @@
   "revisionId": 107284,
   "revisionTimestamp": "2025-02-16T21:19:20Z",
   "route": "/wiki/rice-noodles-19451",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rice_Noodles",
   "title": "Rice Noodles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rice Noodles.png|200px|left|Rice noodles]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 73\n |price = 1 to 100\n |time = 20 min\n |source = {{Infoicon|pastam|bigger|link=Pasta Maker}}\n |xp = 12\n |base = 28\n |dia = 2\n |time3 = 17 min\n}}\n'''Rice noodles''' are [[products]] unlocked at [[experience]] level 73.\n\nThey are used to make [[Noodle Soup|noodle soup]] and [[Summer Rolls|summer rolls]].\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making rice noodles'''===\n[[File:Pasta Maker.png|150px|left|Pasta Maker]]\nRice noodles are made in the [[Pasta Maker]].\n\nTo make rice noodles, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Rice.png|75px|Rice|link=Rice]]\n|-\n|'''x5'''\n|}\nIt takes 20 minutes to make one unit, and only 17 minutes in a fully [[Masteries|mastered]] maker. Each unit gives players 12 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling rice noodles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Rice noodles can be bought or sold for a maximum price of 1,008 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make rice noodles costs 90 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using rice noodles'''===\nRice noodles are used to make the following [[products]]:\n\n{{Item Usage|Rice Noodles\n|Noodle Soup|3|73\n|Summer Rolls|2|78\n|Peanut Noodles|1|86\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 4 to 6 units of rice noodles per crate, up to a total of 20 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Although rice noodles and rice can occasionally be found in the [[Daily Dirt]] you shouldn't expect to be able to get either there.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Rice Noodles is the first product that requires Rice, to have \"Rice\" in the name.\n**  Others include Fried Rice, and Rice Ball.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Reisnudeln\n|es = Fideos de arroz\n|fr = Nouilles de Riz\n|it = Noodle di riso\n|nl = Rijstnoedels\n|no = Risnudler\n|zh = Rice Noodles\n}}\n[[pt-br:Macarrão de arroz]]\n[[ru:Рисовая лапша]]\n\n[[Category:Pasta Maker Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "4eb5855bb1596e73cebb7a526670a7943d59b39452536c64d06f5a43ca35ab81"
 }

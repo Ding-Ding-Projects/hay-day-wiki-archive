@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cabbage Products",
+    "Category:Egg Products",
+    "Category:Mushroom Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cabbage Products",
+      "Category:Egg Products",
+      "Category:Mushroom Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +203,12 @@
   "revisionId": 107683,
   "revisionTimestamp": "2025-04-10T03:24:05Z",
   "route": "/wiki/mushroom-pot-pie-34835",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushroom_Pot_Pie",
   "title": "Mushroom Pot Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mushroom Pot Pie.png|200px|left|Mushroom pot pie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 97\n |price = 1 to 162\n |time = 1 h\n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 19\n |base = 45\n |time3 = 51 min\n |dia= 4\n}}\n'''Mushroom pot pie''' are [[products]] unlocked at [[experience]] level 97.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making mushroom pot pie'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nMushroom pot pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mushroom.png|75px|link=Mushroom|Mushroom]]\n|[[File:Cabbage.png|75px|link=Cabbage|Cabbage]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x3'''\n|'''x2'''\n|}\nIt takes 1 hour to make a pie, and 51 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 19 [[experience]] points.\n{{Clr}}\n----\n==='''Selling mushroom pot pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Mushroom pot pies can be bought or sold for a maximum price of 1,620 {{Infoicon|coin}} for 10 pies.\n* Buying the ingredients required to make a mushroom pot pie costs 129 {{Infoicon|coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 4 mushroom pot pies per crate, up to a total of 12 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Pilzpastete\n|es = Pastel de setas\n|fr = Soufflé aux Champignons\n|it = Pasticcio di funghi\n|nl = Paddenstoelenpastei\n|no = Sopp-pai\n|zh = Mushroom Pot Pie\n}}\n[[pt-br:Torta de cogumelos]]\n[[ru:Пирог с грибами]]\n\n[[Category:Pie Oven Products]]\n[[Category:Cabbage Products]]\n[[Category:Mushroom Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]",
   "wikitextHash": "9dc2c6c49a66b86edd8912102e8cdbfbce598b6a31792c6e6c9a9cfc5ea4eac1"
 }

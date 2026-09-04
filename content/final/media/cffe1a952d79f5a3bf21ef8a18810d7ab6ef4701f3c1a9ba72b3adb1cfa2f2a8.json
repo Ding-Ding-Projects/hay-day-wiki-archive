@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HDAnimals.png",
+  "filePageId": 7601,
+  "filePageRevisionId": 46307,
+  "filePageRevisionSha1": "b2ea23224c4a25dbf99929c46538aeeb8aa1d7f6",
+  "filePageRevisionTimestamp": "2015-04-19T10:04:27Z",
+  "filePageWikitext": "[[Category:Image User]]",
+  "filePageWikitextHash": "6f9adc204b7d7931ba69cdb6f07f622358498d9b24279c9afae3ef9210d36371",
+  "height": 403,
+  "immutableUrl": null,
+  "mediaId": "File:HDAnimals.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-07-21T12:39:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHDAnimals.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 219398,
+  "sourceSha1": "28a9e60b643fbdbc95ec24717b26f6fb02acd3eb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0e/HDAnimals.png/revision/latest?cb=20130721123952",
+  "title": "File:HDAnimals.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 403
+}

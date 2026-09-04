@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Citation_%26_Reference_Templates?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 58197,
   "revisionTimestamp": "2016-01-26T19:08:06Z",
   "route": "/wiki/category%2Fcategory-citation-reference-templates-23425",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Citation_%26_Reference_Templates",
   "title": "Category:Citation & Reference Templates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Templates]]",
   "wikitextHash": "d17b0069075523cfd170889a8541cdbb01828c428201ba77d245030037d911a5"
 }

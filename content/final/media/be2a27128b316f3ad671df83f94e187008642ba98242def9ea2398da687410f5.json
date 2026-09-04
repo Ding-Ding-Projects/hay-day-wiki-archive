@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Polka_Dot_Gift.png",
+  "filePageId": 36261,
+  "filePageRevisionId": 107844,
+  "filePageRevisionSha1": "e17c537c06a294d39e5de1041a2a3aa3adf9f2e3",
+  "filePageRevisionTimestamp": "2025-04-26T20:28:04Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for the [[Polka Dot Gift]]\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "6c203d33e258db46a0f9b4be279fbd8b7df2e29f6d957052ebec1dc82ace2388",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Polka Dot Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-04-26T20:28:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APolka%20Dot%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 218954,
   "sourceSha1": "bef3ace8445288499bc859075b0366060a731537",

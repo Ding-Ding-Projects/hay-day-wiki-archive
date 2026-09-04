@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Gold Ore Products",
+    "Category:Smelter Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Gold Ore Products",
+      "Category:Smelter Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +172,12 @@
   "revisionId": 108224,
   "revisionTimestamp": "2025-08-05T20:07:45Z",
   "route": "/wiki/gold-bar-2401",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gold_Bar",
   "title": "Gold Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gold Bar.png|200px|left|Gold bar]]\n\n{{Infobox\n |level = 25\n |price = 1 to 180\n |time = 12 h\n |xp = 21\n |upgrades = {{Infoicon|ptrain|big|link=Personal Train}}\n |source = {{Infoicon|smelter|bigger|link=Smelter}}\n |base = 50\n |dia = 11\n |time3 = 10 h 12 min\n |title = [[Products|Product]]\n}}\n'''Gold bars''' are [[products]] unlocked at [[experience]] level 25.\n\nGold bars are used to make [[Jeweler|jewelry]], and to upgrade the [[Personal Train|personal train]] in the player's [[town]].\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making gold bars'''===\n[[File:Smelter.png|150px|left|Smelter]]\nGold bars are made in the [[Smelter]].\n\nTo make a gold bar, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Gold Ore.png|75px|Gold ore|link=Gold Ore]]\n|-\n|'''x3'''\n|}\nIt takes 12 hours to make one bar, and 10 hours 12 minutes in a fully [[Masteries|mastered]] smelter. Each bar gives players 21 [[experience]] points.\n\n{{Clr}}----\n==='''Selling gold bars'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Gold bars can be bought or sold for a maximum price of 1,800 {{Infoicon|Coin}} for 10 bars.\n* Buying the ingredients required to make a bar costs 63 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using gold bars'''===\nGold bars are used to make the following [[products]]:\n\n{{Item Usage|Gold Bar\n|Bracelet|1|38\n|Necklace|1|39\n|Diamond Ring|2|40\n|Flower Pendant|2|98\n}}\n{{Clr}}----\n==='''Strategy tips'''===\n* As is the case for all Smelter products, completing a [[truck]] order requesting one or more bars rewards players with a random [[voucher]].\n* [[Boat]] orders never ask for gold bars\n----\n\n{{Navigation}}\n{{Languages\n|de = Goldbarren\n|es = Lingote de oro\n|fr = Lingot d'Or\n|it = Lingotto d'oro\n|nl = Goudstaaf\n|no = Gullbarre\n|ru = Слиток золота\n|zh = Gold Bar\n}}\n[[pt-br:Barra de ouro]]\n\n[[Category:Smelter Products]]\n[[Category:Gold Ore Products]]",
   "wikitextHash": "6d7f4d10bb085a17749a57fc7f3547837949e447f3f043c70c13e7ee1f10529a"
 }

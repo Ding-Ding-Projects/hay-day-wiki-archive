@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Hippo.png",
+  "filePageId": 28026,
+  "filePageRevisionId": 98111,
+  "filePageRevisionSha1": "865fb4939384cca25239fe594776befe550c29b3",
+  "filePageRevisionTimestamp": "2021-07-15T20:20:25Z",
+  "filePageWikitext": "== Summary ==\nGrey Hippo\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "2a949539f917bc6b2c5b14b46ade44b9864e1eaffe5920dde517b14c070193fc",
   "height": 323,
   "immutableUrl": null,
   "mediaId": "File:Grey Hippo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:44:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrey%20Hippo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 106102,
   "sourceSha1": "3280fc5d353afd93fe8e45a81c60971709fe3b12",

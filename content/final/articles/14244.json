@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -245,11 +253,12 @@
   "revisionId": 106787,
   "revisionTimestamp": "2025-01-07T20:55:45Z",
   "route": "/wiki/pickaxe-14244",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pickaxe",
   "title": "Pickaxe",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pickaxe.png|200px|left|A pickaxe]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 126\n |base = 35\n |dia = 12\n}}\n'''Pickaxes''' are [[supplies]] used to extract 5 ores from the [[mine]]. As other mining tools they can also randomly extract a [[diamond]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting pickaxes'''===\nA sure way to get a pickaxe is to buy it with 12 {{Infoicon|dia}} or to hire [[Tom]] and have him find some.\n\nPickaxes can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 126 {{Infoicon|coin}} per pickaxe.\n\nFinally, pickaxes can be randomly obtained when players:\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Spitzhacke\n|es = Pico\n|fr = Pioche\n|it = Piccozza\n|no = Hakke\n}}\n[[Category:Supplies]]",
   "wikitextHash": "e34c6f2bd76c04847f1f2c94b31d1ecf70c74d7831b12ddc532d4bc6833c96e2"
 }

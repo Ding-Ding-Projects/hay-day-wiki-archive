@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Juice Press Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Juice Press Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -164,11 +174,12 @@
   "revisionId": 110108,
   "revisionTimestamp": "2026-05-17T15:34:06Z",
   "route": "/wiki/carrot-juice-2329",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Carrot_Juice",
   "title": "Carrot Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Carrot Juice.png|left|200px|Carrot juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 26\n |price = 1 to 46\n |time = 30 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 6\n |base = 13\n |dia = 3\n |time3 = 25 min\n}}\n'''Carrot juice''' is a [[Products|product]] unlocked at [[experience]] level 26.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making carrot juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nCarrot juice is made in the [[Juice Press]].\n\nTo make juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|link=Carrot|Carrots]]\n|-\n|'''x3'''\n|}\nCarrot juice takes 30 minutes to be produced, but only 25 minutes in a fully [[masteries|mastered]] press. Each bottle gives players 6 [[experience]] points.\n----\n==='''Selling carrot juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Carrot juice can be bought or sold for a maximum of 468 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 21 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 6 to 11 carrot juice per crate, up to a total of 44 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n==='''Did you know?'''===\n* Carrot Juice is the only product in the Juice Press that requires a vegetable to make.\n----\n\n{{Navigation}}\n{{Languages\n|de = Karottensaft\n|es = Zumo de zanahoria\n|fr = Jus de Carotte\n|it = Succo di carota\n|nl = Wortelsap\n|no = Gulrotjus\n|vi = Nước ép cà rốt\n|zh = Carrot Juice\n}}\n[[pt-br:Suco de cenoura]]\n[[ru:Морковный сок]]\n[[Category:Juice Press Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "7d1a8dabd4b5daf700c51e8f21309b91e88d4ef9129e66048dac5615853e2554"
 }

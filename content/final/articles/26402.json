@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -343,11 +351,12 @@
   "revisionId": 109789,
   "revisionTimestamp": "2026-05-04T17:13:36Z",
   "route": "/wiki/grapes-26402",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grapes",
   "title": "Grapes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grapes.png|200px|left|Grapes]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 84\n |price = 1 to 32\n |time = 3 h\n |xp = 6\n |base = 9\n |dia = 6\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Grapes''' are field [[crops]] unlocked at [[experience]] level 84.\n\nThey were introduced on December 12th, 2016, along with [[Banana|Bananas]]\n\nThey are used to make [[Banana Bread|banana bread]], [[Dried Fruit|dried fruits]], [[Fruit Cake|fruit cakes]], [[Goat Cheese Toast|goat cheese toasts]], [[Grape Jam|grape jam]], [[Grape Juice|grape juice]] and [[Plum Smoothie|plum smoothies]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 480 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing grapes'''===\nGrapes are grown in [[Farm|fields]] by planting another grape (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 [[experience]] points, and takes 3 hours to mature.\n<gallery>\nGrapes Stage 1.png\nGrapes Stage 2.png\nGrapes Stage 3.png\nGrapes Stage 4.png\nGrapes Stage 5.png\n</gallery>\n----\n=== '''Selling grapes''' ===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Grapes can be bought or sold for a maximum price of 324 {{Infoicon|coin}} for 10 bunches.\n\n{{Clr}}----\n=== '''Using grapes''' ===\nGrapes are used to make the following [[products]]:\n\n{{Item Usage|Grapes\n|Grape Juice|2|84\n|Grape Jam|3|85\n|Fruit Cake|2|89\n|Banana Bread|2|91\n|Goat Cheese Toast|3|92\n|Plum Smoothie|2|102\n|Dried Fruit|1|102\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 11 to 16 grapes per crate, up to a total of 52 per boat.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n* Grapes are rare enough that selling them at maximum price is recommended.\n* Recipes ask for 2 to 3 bunches of grapes so you need to have several extra bushes to cover your needs. Extras can also be useful if you have boats with grape crates although you have time to harvest some.\n----\n{{Navigation}}\n{{Languages\n|de = Traube\n|es = Uvas\n|fr = Raisin\n|it = Uva\n|no = Druer\n|ru = Виноград]]\n}}\n[[pt-br:Uva]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "65ab463ec8d711b8f6a9b1d69747eef6d0d8894e3964fc61d19c56203aab6298"
 }

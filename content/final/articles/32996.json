@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Bread Products",
+    "Category:Butter Products",
+    "Category:Garlic Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Bread Products",
+      "Category:Butter Products",
+      "Category:Garlic Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -185,11 +199,12 @@
   "revisionId": 107071,
   "revisionTimestamp": "2025-01-28T19:29:18Z",
   "route": "/wiki/garlic-bread-32996",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Garlic_Bread",
   "title": "Garlic Bread",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Garlic Bread.png|200px|left|Garlic Bread]]\n\n{{Infobox\n |title = [[Products|product]]\n |level = 60\n |price = 1 to 198\n |time = 15 min\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 24\n |base = 55\n |dia = 2\n |time3 = 12 min\n}}\n'''Garlic bread''' is a [[Products|product]] unlocked at [[experience]] level 60. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making garlic bread'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nGarlic bread is made in the [[BBQ Grill]].\n\nTo make the garlic bread, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x4'''\n|}\nIt takes 15 minutes to make one garlic bread, and 12 minutes in a fully [[Masteries|mastered]] grill. Each garlic bread gives players 24 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling garlic bread'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Garlic bread can be bought or sold for a maximum price of 1980 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make a garlic bread costs 180 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 garlic bread per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n\n{{Clr}}----\n\n{{Navigation}}\n\n{{Languages\n|de = Knoblauchbrot\n|es = Pan de ajo\n|fr = Pain Grillé à L'Ail\n|it = Pane all'aglio\n|nl = Knoflookbrood\n|no = Hvitløksbrød\n|zh = Garlic Bread\n}}\n[[pt-br:Pão de alho]]\n[[ru:Чесночный хлеб]]\n\n\n\n[[Category:BBQ Grill Products]]\n[[Category:Bread Products]]\n[[Category:Butter Products]]\n[[Category:Garlic Products]]",
   "wikitextHash": "e37084a36814fafb117a42c147bf04e799988416e1ca6747b7492a5e0ba2f9f5"
 }

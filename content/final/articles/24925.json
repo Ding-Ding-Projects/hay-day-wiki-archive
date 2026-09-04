@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Goat Cheese Products",
+    "Category:Onion Products",
+    "Category:Peach Products",
+    "Category:Salad Bar Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Goat Cheese Products",
+      "Category:Onion Products",
+      "Category:Peach Products",
+      "Category:Salad Bar Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 109974,
   "revisionTimestamp": "2026-05-10T20:29:01Z",
   "route": "/wiki/summer-salad-24925",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Summer_Salad",
   "title": "Summer Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Summer Salad.png|200px|left|Summer salad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 84\n |price = 1 to 554\n |time = 3 h\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 66\n |base = 154\n |dia = 6\n |time3 = 2 h 33 min\n}}\n'''Summer salad''' is a [[Products|product]] unlocked at [[experience]] level 84. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making summer salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nSummer salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Goat Cheese.png|75px|Goat cheese|link=Goat Cheese]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|[[File:Peach.png|75px|Peach|link=Peach]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 3 hours to make one bowl, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 66 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling summer salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Summer salad can be bought or sold for a maximum price of 5,544 {{Infoicon|Coin}} for 10 items.\n* Buying the ingredients required to make a salad costs 508 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 summer salad per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Sommersalat\n|es = Ensalada veraniega\n|fr = Salade Estivale\n|it = Insalata estiva\n|nl = Zomersalade\n|no = Sommersalat\n|ru = Летний салат\n|zh = Summer Salad\n}}\n[[pt-br:Salada de verão]]\n\n[[Category:Salad Bar Products]]\n[[Category:Tomato Products]]\n[[Category:Peach Products]]\n[[Category:Onion Products]]\n[[Category:Goat Cheese Products]]",
   "wikitextHash": "1fcdd667487c4b56d0b1e755ed3c5134efe44d9f2472a14ba7c2c3e0cf121504"
 }

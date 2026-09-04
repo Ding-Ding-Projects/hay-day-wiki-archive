@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Cherry Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Cherry Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -156,11 +170,12 @@
   "revisionId": 103432,
   "revisionTimestamp": "2023-07-20T20:21:15Z",
   "route": "/wiki/cherry-egg-35766",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cherry_Egg",
   "title": "Cherry Egg",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cherry Egg.png|200px|left|Cherry Egg|link=Special:FilePath/Cherry Egg.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 25\n |level = 25\n |time = 45m\n |source = {{Infoicon|eastereggmaker|bigger|link=Easter Egg Maker}}\n |xp =48\n |dia = 3\n |time3 = 40 m\n}}\n'''Cherry Egg''' is a [[products|product]] unlocked at [[experience]] level 25. It's a special item used only for the Easter 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Cherry Egg'''===\n[[File:Easter Egg Maker.png|150px|left|Easter Egg Maker|link=Special:FilePath/Easter Egg Maker.png]]\nCherry eggs are made in the [[Easter Egg Maker]].\n\nTo make a cherry egg, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 45 minutes to make an egg, and 40 minutes in a 2-star and fully [[Masteries|mastered]] station. Each egg gives players 48 [[experience]] points.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 eggs per crate, up to a total of 8 per boat. Each egg used on a boat will be rewarded with 25 [[Chocolate Bunny]].\n\n{{Clr}}----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Syrup Products]]\n[[Category:Butter Products]]\n[[Category:Cherry Products]]\n\n{{Languages\n|es = Huevo de cereza\n|de = Kirschei\n}}",
   "wikitextHash": "52c0f1e32af3ddf04baba2113c55f9cc7c2b994d1f87733bf68628ac75846f3a"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Products?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78955,
   "revisionTimestamp": "2018-04-18T13:05:44Z",
   "route": "/wiki/category%2Fcategory-products-23354",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Products",
   "title": "Category:Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Article related to [[products]].\n[[Category:Goods]]",
   "wikitextHash": "011bfa1627f96647f1e56a73457a3d30e3f19fd91f6b5ca8b45cb8bc4c5e5fee"
 }

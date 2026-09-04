@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Omelet Station Products",
+    "Category:Rice Products",
+    "Category:Tomato Sauce Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Omelet Station Products",
+      "Category:Rice Products",
+      "Category:Tomato Sauce Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110150,
   "revisionTimestamp": "2026-05-20T21:13:59Z",
   "route": "/wiki/rice-omelet-35869",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rice_Omelet",
   "title": "Rice Omelet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rice Omelet.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 83\n |price = 1 to 572\n |time = 2 h \n |xp = 68\n |source = {{Infoicon|omelets|bigger|link=Omelet Station}}\n |base = 159\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Rice Omelet''' are [[products]] unlocked at [[experience]] level 83. It was added in the July 2023 update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making rice omelet'''===\n[[File:Omelet Station.png|150px|left|link=Omelet Station|Omelet Station]]\nRice omelet are made in the [[Omelet Station]].\n\nTo make a pan of cheese omelet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Rice.png|75px|Rice|link=Rice]]\n|[[File:Tomato Sauce.png|75px|Tomato Sauce|link=Tomato Sauce]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 2 hour to make one pan of rice omelet, and 1 hour 42 minutes in a fully [[Masteries|mastered]] station. Each rice omelet gives players 68 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling rice omelet'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Rice omelet can be bought or sold for a maximum price of 5724 {{Infoicon|Coin}} for 10 rice omelets.\n* Buying the ingredients required to make a rice omelet costs 532 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 1 rice omelet per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Reisomelett\n|es = Tortilla de arroz\n|fr = Omelette au Riz\n|it = Omelette di riso\n|nl = Rijstomelet\n|no = Risomelett\n|ru = Омлет с рисом\n}}\n[[pt-br:Omelete de arroz]]\n\n[[Category:Omelet Station Products|1]]\n[[Category:Egg Products]]\n[[Category:Tomato Sauce Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "9ea6e0c2e7121a82d73f6a6d9daf26ee8b549526baa946bbc153b47be613066c"
 }

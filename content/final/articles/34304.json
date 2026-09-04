@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki?action=history",
@@ -41,11 +45,12 @@
   "revisionId": 95415,
   "revisionTimestamp": "2020-08-18T01:44:23Z",
   "route": "/wiki/category%2Fcategory-hay-day-wiki-34304",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hay_Day_Wiki",
   "title": "Category:Hay Day Wiki",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Next Stop Wiki.png|300px|left]]\n'''Hello and welcome to our Wiki!'''\n\nThis page lists all the main parts of our Wiki. If you want to know more about the game, we suggest you have a look at the [[Hay Day]] page and [[:Category:Game Features|Game Features]] category. To know more about the creators of Hay Day, head over to [[Supercell]].\n\nIf you're interested in contributing, our [[Special:Community|Community Page]] is a good place to start.\n\nWanna talk or ask questions? Check out [https://hayday.fandom.com/f Discussions].\n{{Clr}}",
   "wikitextHash": "999ab134dfbc20e06cb3566f6bc95abc663199b3fddce9bec9c5872b033ee867"
 }

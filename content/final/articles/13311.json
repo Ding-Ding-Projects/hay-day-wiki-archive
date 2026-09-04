@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Service Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Service Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -216,11 +224,12 @@
   "revisionId": 102560,
   "revisionTimestamp": "2023-03-19T17:19:09Z",
   "route": "/wiki/beach-caf%C3%A9-13311",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Beach_Caf%C3%A9",
   "title": "Beach Café",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Beach Café.png|200px|left|Beach café]]\n\n{{Infobox\n |title = [[Service Buildings|Service Building]]\n |rlevel = 13\n |price = 71,000\n}}\nThe '''beach café''' is a [[Service Buildings|service building]] unlocked at [[reputation]] level 13 in the player's [[town]].\n\nIt is the last building to be unlocked in the town.\n\n{{Clr}}\n----\n=== '''Appearance''' ===\nThe appearance of the beach café changes as the player upgrades it:\n<gallery>\nBeach Café Stage 1.png\nBeach Café Inside 1.png\nBeach Café Stage 2.png\nBeach Café Inside 2.png\nBeach Café.png\nBeach Café Inside.png\n</gallery>\n----\n=== '''Building''' ===\nThe beach café costs 71,000 {{Infoicon|coin}} and takes 2 days (or 99 [[diamond]]s) to build.\n----\n=== '''Serving''' ===\n* When the beach café is at level 1, it takes 2 hours (or 5 [[diamond]]s) to serve a customer and 7 {{Infoicon|rep|link=Reputation}} are awarded.\n* Serving time can be reduced to 1 hour and 12 minutes at most.\n* Points can be increased to a maximum of 12 {{Infoicon|rep|link=Reputation}} per customer.\n----\n=== '''Upgrading''' ===\n{{Main|Service Buildings}}\nThe following materials are required to upgrade the beach café:\n<gallery>\nHammer.png|[[Hammer]]\nHand Drill.png|[[Hand Drill|Hand drill]]\nTar Bucket.png|[[Tar Bucket|Tar bucket]]\n</gallery>\n----\n=== '''Orders''' ===\nCustomers visiting the beach café usually require:\n*[[Animal Goods]] ([[Fish Fillet|fish fillets]] and [[Lobster Tail|lobster tails]])\n*products from the [[Bakery]]\n*products from the [[BBQ Grill]]\n*products from the [[Deep Fryer]]\n*products from the [[Coffee Kiosk]]\n*products from the [[Hat Maker]]\n*products from the [[Ice Cream Maker]]\n*products from the [[Juice Press]]\n*products from the [[Salad Bar]]\n*products from the [[Sandwich Bar]]\n*products from the [[Smoothie Mixer]]\n*products from the [[Soup Kitchen]]\n*products from the [[Sushi Bar]]\n----\n=== '''Strategy tips''' ===\n* [[Hammer]]s are also used to upgrade the [[Cinema]], the [[Gift Shop]] and the [[Town Hall]].\n* [[Hand Drill|Hand drills]] are also used to upgrade the [[Bed and Breakfast]] and the [[Train Station]].\n* [[Tar Bucket|Tar buckets]] are also used to upgrade the [[Gift Shop]], the [[Spa]] and the [[Train Station]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Strandcafé\n|es = Chiringuito\n|fr = Buvette de plage\n|it = Bar Sulla Spiaggia\n}}\n[[Category:Service Buildings]]",
   "wikitextHash": "2904827cff605d75ada3b588245f04c95d4c903ac6258269c1376c3d677308db"
 }

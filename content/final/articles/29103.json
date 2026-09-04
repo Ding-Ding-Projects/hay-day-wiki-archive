@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -53,11 +61,12 @@
   "revisionId": 97500,
   "revisionTimestamp": "2021-04-28T21:41:12Z",
   "route": "/wiki/decorations-secrets-29103",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Secrets",
   "title": "Decorations/Secrets",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Secret Decorations'''===\n[[File:Secret Coffin.png|150px|left]] The '''Secret Coffin''' can only be won by tapping the ghost which occasionally appears in the [[fishing]] area during Halloween. This decoration is animated. It is unlocked at [[experience]] level 27.\n{{Clr}}\nFour decorations can only be caught in the [[fishing]] lake with a [[Net Maker|Mystery Net]] and a hefty dose of luck. Mystery nets are unlocked at [[experience]] level 30.\n<gallery hideaddbutton=\"true\">\nAnchor.png\nCannon.png\nPearl of the Sea.png\nShip Wheel.png\n</gallery>\n{{Clr}}\n\n{{Languages\n|es = Decoraciones/Secretas\n}}\n\n[[Category:Decorations]]",
   "wikitextHash": "81284f55650924bd4047a40c217d2f1a0a1562d7e570090956b118199b9e375e"
 }

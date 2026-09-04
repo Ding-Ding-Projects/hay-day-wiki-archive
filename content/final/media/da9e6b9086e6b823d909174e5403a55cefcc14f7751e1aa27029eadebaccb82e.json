@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chickpea_Stew.png",
+  "filePageId": 35557,
+  "filePageRevisionId": 105248,
+  "filePageRevisionSha1": "988627ab97316c452af75a235dd74c8f04d8c5d0",
+  "filePageRevisionTimestamp": "2024-04-26T12:22:33Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder image for [[Chickpea Stew]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "c0a973f03b13b8aa2599e0b2e350979e121bbca8a860fcc350dcfbd73e17e1aa",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Chickpea Stew.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-26T12:22:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChickpea%20Stew.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 212327,
   "sourceSha1": "657d3c8c78762e57444586886604b19bee3bd437",

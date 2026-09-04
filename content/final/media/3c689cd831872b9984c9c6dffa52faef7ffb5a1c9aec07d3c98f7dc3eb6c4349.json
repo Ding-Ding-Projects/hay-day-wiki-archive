@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hot_Dog.png",
+  "filePageId": 19551,
+  "filePageRevisionId": 104782,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-11T18:07:55Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 1948,
   "immutableUrl": null,
   "mediaId": "File:Hot Dog.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-11T18:07:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHot%20Dog.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2127875,
   "sourceSha1": "46f5a11246638f0d2cb1abdb00f63198a7942924",

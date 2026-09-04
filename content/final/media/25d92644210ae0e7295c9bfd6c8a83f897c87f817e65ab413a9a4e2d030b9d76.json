@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orange.png",
+  "filePageId": 24915,
+  "filePageRevisionId": 104919,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2024-02-19T03:35:22Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 1468,
   "immutableUrl": null,
   "mediaId": "File:Orange.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 33,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T03:35:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOrange.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1678746,
   "sourceSha1": "cd2735049aa22e81146607b251b0879935e9d1f2",

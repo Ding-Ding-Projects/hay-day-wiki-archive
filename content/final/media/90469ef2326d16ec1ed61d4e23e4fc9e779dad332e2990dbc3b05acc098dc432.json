@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_226.jpg",
+  "filePageId": 35857,
+  "filePageRevisionId": 103358,
+  "filePageRevisionSha1": "45418df637e4364ca62c499fd38654257e46791f",
+  "filePageRevisionTimestamp": "2023-07-04T12:57:33Z",
+  "filePageWikitext": "== Summary ==\nLevel 226\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "dc4e3f9759b0179b27a71f8330979b2cb3d10258326a32d7e2cbdbe80e0c6c8f",
   "height": 739,
   "immutableUrl": null,
   "mediaId": "File:Level 226.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-07-04T12:57:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20226.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 586865,
   "sourceSha1": "5a2b3fc4c26477e14c00029f9d1f41c89e93e70c",

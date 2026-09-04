@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Storage Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Storage Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -122,11 +132,12 @@
   "revisionId": 109822,
   "revisionTimestamp": "2026-05-08T09:57:37Z",
   "route": "/wiki/barn-2652",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Barn",
   "title": "Barn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Barn.png|left|200px|Barn]]\nThe '''barn''' is the main [[Storage Buildings|storage building]] for [[products]], [[Animal Goods|animal goods]] and [[Supplies|supplies]]. It is already standing at the start of the game, but must be repaired during the tutorial to become usable.\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe appearance of the barn changes as the player upgrades it. Its final appearance is displayed when the barn can store at least 300 items.\n\n{| border=\"1\" cellpadding=\"5\" cellspacing=\"1\" style=\"border-collapse: collapse; text-align: center; border: 1px solid #bbb; margin: 1em 0; max-width: 80%;\"\n!scope=\"col\" style=\"background: #eee;\" |Appearance\n!scope=\"col\" style=\"background: #eee;\" |Barn Level\n!scope=\"col\" style=\"background: #eee;\" |Capacity\n|-\n|1st stage||1||50\n|-\n|2nd stage||2 - 4||75 - 125\n|-\n|3rd stage||5 - 10||150 - 275\n|-\n|Final stage||11+||300+\n|}\n\nThe number of crates shown in the barn indicates how full the storage is. Up to five crates can appear in the barn; the fifth crate shows up when the player has at least 79% of barn capacity occupied.\n<gallery>\nBarn Broken.png\nBarn Stage 1.png\nBarn Stage 2.png\nBarn Stage 3.png\nBarn.png\n</gallery>\n----\n==='''Upgrading'''===\nThe barn can initially hold 50 items. Upgrading the barn will increase its capacity:\n* by 25 spaces from 50 to 1,000.\n\n* by 50 spaces from 1,000 upwards.\n\n* maximum barn capacity is 25000.\n\nEach upgrade requires the same number of bolts, planks and rolls of duct tape but the number of items requires increases by 1 with each upgrade (see the table below).\n<gallery>\nBolt.png|[[Bolt]]\nDuct Tape.png|[[Duct Tape|Duct tape]]\nPlank.png|[[Plank]]\n</gallery>\n----\n==='''Upgrading table'''===\n{| cellpadding=\"2\" cellspacing=\"1\" style=\"max-width: 80%; margin: 1em auto; border-collapse: collapse; text-align: center; border: 1px solid #ccc;\"\n|- style=\"background: #ddd; border: 1px solid #ccc;\"\n! scope=\"col\" |Capacity from-to\n! scope=\"col\" |[[File:Bolt.png|50px]]+[[File:Duct Tape.png|50px]]+[[File:Plank.png|50px]]\n|-\n|'''50-75'''||x1\n|-\n|'''75-100'''||x2\n|-\n|'''100-125'''||x3\n|-\n|'''125-150'''||x4\n|-\n|'''150-175'''||x5\n|-\n|'''175-200'''||x6\n|-\n|'''200-225'''||x7\n|-\n|'''225-250'''||x8\n|-\n|'''250-275'''||x9\n|-\n|'''275-300'''||x10\n|-\n|'''etc.'''||'''etc.'''\n|-\n|'''1000-1050'''||x39\n|-\n|'''1050-1100'''||x40\n|-\n|'''1100-1150'''||x41\n|-\n|'''1150-1200'''||x42\n|-\n|'''1200-1250'''||x43\n|-\n|'''1250-1300'''||x44\n|-\n|'''1300-1350'''||x45\n|-\n|'''1350-1400'''||x46\n|-\n|'''1400-1450'''||x47\n|-\n|'''1450-1500'''||x48\n|-\n|'''etc.'''||'''etc.'''\n|}\n----\n==='''Strategy tips'''===\n* You need to store everything but crops in the barn, including supplies. This means more than 200 different items. If you want to keep at least ten of each item you need a barn with a capacity of at least 2,000 items. However, keep some room for more, as boat orders can ask for even greater quantities of one product.\n* Once your barn is full, you will no longer be rewarded with [[Supplies|supply items]] once you reach your magic number from either harvesting [[Crops|crops]] (fields, bushes, or trees) or feeding [[Animals|animals]] (farm animals or pets). Always make sure that your barn has available capacity, before collecting from these sources, to ensure that you will receive your reward.\n* If you need additional capacity without selling or trading, a good option is using ingredients for production, to act as a storage buffer. prioritizing high ingredient, long duration ones.\n----\n==='''Did you know?'''===\n* Your barn level is noted by the number of tools needed for the next upgrade. A level 1 barn has a capacity of 50, while a level 39 barn has a capacity of 1,000. This goes on without limit.\n* A greater and greater percentage (upwards of 11.7% at level 39) of your barn space will be taken up by the planks, duct tape, and bolts needed for the next upgrade when the game starts. This means as you upgrade your barn from a level 1 barn (capacity of 50) to a level 39 barn (capacity 1,000) you will have a smaller and smaller percentage of room in your barn to store other items. Once you attain a capacity of 1,000 (where each future upgrade increases capacity by 50) you'll reverse that trend. From then on every upgrade means that a smaller and small percentage of your barn is needed to store tools needed for the next upgrade. In summary, barn space gets tighter until you reach level 39, at which point it begins to ease.\n----\n\n{{Navigation}}\n{{Languages\n|de = Scheune\n|es = Granero\n|fr = La Grange\n|it = Granaio\n|no = Låve\n|sv = Lada\n|vi = Danh sách công trình dự trữ\n|zh = 货仓\n|ru = Амбар\n}}\n[[Category:Storage Buildings]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "45203f7c8617941d5ec869b83977401b82bfffbf4beb403afecbb5273e8e7109"
 }

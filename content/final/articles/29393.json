@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Playable_Areas?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78404,
   "revisionTimestamp": "2018-04-14T12:40:57Z",
   "route": "/wiki/category%2Fcategory-playable-areas-29393",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Playable_Areas",
   "title": "Category:Playable Areas",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[Hay Day]] has three playable areas.\n[[Category:Game Features]]",
   "wikitextHash": "efef0109b49f26146859de40a2ce8792c2b2d8097831b3db476aa0fd0c9549f5"
 }

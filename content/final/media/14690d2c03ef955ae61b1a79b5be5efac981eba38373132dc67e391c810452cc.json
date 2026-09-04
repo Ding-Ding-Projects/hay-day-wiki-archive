@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lvl49hayday.jpg",
+  "filePageId": 34899,
+  "filePageRevisionId": 100037,
+  "filePageRevisionSha1": "3f73f787391be2f149e8d400f44a8ee6a3421092",
+  "filePageRevisionTimestamp": "2022-01-09T22:08:52Z",
+  "filePageWikitext": "\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "de271e3b6be32ac17e530ee1b1b7c4cf661aba81e62922838a602ec8ce889801",
+  "height": 686,
+  "immutableUrl": null,
+  "mediaId": "File:Lvl49hayday.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-05-25T00:58:09Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALvl49hayday.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 344416,
+  "sourceSha1": "81b1ebc7b9f9cb6a0768398da13c483f23f9bfc4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/2b/Lvl49hayday.jpg/revision/latest?cb=20210525005809",
+  "title": "File:Lvl49hayday.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 914
+}

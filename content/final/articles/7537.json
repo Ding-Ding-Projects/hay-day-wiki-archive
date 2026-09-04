@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_NPC?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 61863,
   "revisionTimestamp": "2016-04-26T13:09:57Z",
   "route": "/wiki/category%2Fcategory-image-npc-7537",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_NPC",
   "title": "Category:Image NPC",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''Images''' of Non-Player Characters (NPCs).\n[[Category:Images]]",
   "wikitextHash": "7aefe0fbf98d36ff01a72cadcc38e173c2b8bbe32dc51a1e111f1e601ac506a9"
 }

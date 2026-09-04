@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Caramel_Latte_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 104415,
   "revisionTimestamp": "2023-12-17T10:55:58Z",
   "route": "/wiki/category%2Fcategory-caramel-latte-products-36007",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Caramel_Latte_Products",
   "title": "Category:Caramel Latte Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Caramel Latte.png|thumb]]\nProducts of [[Caramel Latte]].\n[[Category:Products]]",
   "wikitextHash": "2acbb19ce86e309a2bcf45beae6a12868bb3ee270e2fb1d6dfeca4ec7f75e93a"
 }

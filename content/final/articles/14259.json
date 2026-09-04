@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Note",
+    "Category:Sewing Machine Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Note",
+      "Category:Sewing Machine Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110537,
   "revisionTimestamp": "2026-06-15T21:11:28Z",
   "route": "/wiki/wooly-chaps-14259",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wooly_Chaps",
   "title": "Wooly Chaps",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|the game uses two different spellings: 'wooly' for chaps and 'woolly' for [[Blue Woolly Hat|blue hats]].}}\n[[File:Wooly Chaps.png|200px|left|Wooly Chaps]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 21\n |price = 1 to 309\n |time = 1h 30 min\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 37\n |base = 86\n |dia = 5\n |time3 = 1h 16 min\n}}\n'''Wooly chaps''' are [[products]] unlocked at [[experience]] level 21.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making wooly chaps'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nWooly chaps are made in the [[Sewing Machine]].\n\nTo make wooly chaps, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|[[File:Wool.png|75px|link=Wool|Wool]]\n|-\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour and 30 minutes to make a pair, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] machine. Each pair gives players 29 [[experience]] points.\n\n{{Clr}}----\n==='''Selling wooly chaps'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Wooly chaps can be bought or sold for a maximum price of 3,096 {{Infoicon|coin}} for 10 pairs.\n* Buying the ingredients required to make 1 pair of chaps costs 270 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 wooly chaps per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Wooly Chaps are pretty common in the Daily Dirt, but are sold for a very high price\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Cowboy-Chaps aus Wolle\n|es = Chaparreras de lana\n|fr = Jambière en laine\n|it = Gambali da cowboy\n|nl = Wollen Chaps\n|no = Ullbukser\n|zh = Wooly Chaps\n}}\n[[pt-br:Perneiras de lã]]\n[[ru:Шерстяные чапсы]]\n[[Category:Sewing Machine Products]]\n[[Category:Wool Products]]\n[[Category:Cotton Fabric Products]]",
   "wikitextHash": "b78b7be1bfb934e53e25d35cd6094d21cc177e32a204fda22c0f37d89100e845"
 }

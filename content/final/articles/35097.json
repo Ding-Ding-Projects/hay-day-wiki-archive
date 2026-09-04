@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Plain_Donut_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98574,
   "revisionTimestamp": "2021-08-31T21:22:53Z",
   "route": "/wiki/category%2Fcategory-plain-donut-products-35097",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Plain_Donut_Products",
   "title": "Category:Plain Donut Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Plain Donut.png|thumb]]\nProducts of [[Plain Donut]].\n[[Category:Products]]",
   "wikitextHash": "179607baf667d0bb362fe066adbd2b7485d34311a0360dab7d6d845eac050aca"
 }

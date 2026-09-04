@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Help"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Help"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -41,11 +49,12 @@
   "revisionId": 101571,
   "revisionTimestamp": "2022-10-01T10:44:40Z",
   "route": "/wiki/hay-day-problems-27887",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Problems",
   "title": "Hay Day Problems",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n==='''Are you experiencing problems with Hay Day and you wish to contact Supercell?''' ===\n\n* You can access the Supercell Support window directly within the game by going to [[Settings]] > Help and Support.\n[[File:Help Message.png|150px|center]]\n\n* You can click on this link to go to their Help Form: https://supercell.helpshift.com/a/hay-day/?p=web&contact=1\n\n* You can email them about fraud issues: http://supercell.com/en/fraud-issues/\n\n{{Languages\n|es = Problemas en Hay Day\n}}\n[[Category:Help]]\n[[zh:卡通农场问题]]",
   "wikitextHash": "ec22e971f4f12abdb93e3bec0bed85e2dc72a5c21dfafffb00688f9528ad3b1a"
 }

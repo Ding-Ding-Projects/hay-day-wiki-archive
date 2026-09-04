@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Google_Play_Button.png",
+  "filePageId": 21101,
+  "filePageRevisionId": 85751,
+  "filePageRevisionSha1": "c8ef92c0d09fbd0b54c94f95843e854df413d6cf",
+  "filePageRevisionTimestamp": "2019-05-18T09:42:17Z",
+  "filePageWikitext": "Google Play and the Google Play logo are trademarks of Google LLC.\n\n{{Permission}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "4f381b1a02fe7162225b5368c58daea02b2f67f37b2be54df6315797aaa40276",
   "height": 250,
   "immutableUrl": null,
   "mediaId": "File:Google Play Button.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-05-18T09:42:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AGoogle%20Play%20Button.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 13957,
   "sourceSha1": "42c89d9b3363322d6d1fa4ed871d80b63dca1b99",

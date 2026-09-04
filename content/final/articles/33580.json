@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Bingo_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93480,
   "revisionTimestamp": "2020-04-16T19:41:56Z",
   "route": "/wiki/bingo-derby-33580",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bingo_Derby",
   "title": "Bingo Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Bingo derby]]",
   "wikitextHash": "9da75f7db43137f0dba76e17818a29d533c228aa456cb7347142dd9d81b8c49c"
 }

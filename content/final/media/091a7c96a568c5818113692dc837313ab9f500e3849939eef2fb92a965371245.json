@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rugby_Fans.jpg",
+  "filePageId": 36059,
+  "filePageRevisionId": 105275,
+  "filePageRevisionSha1": "bf5518e76f27103464c749b3b783b6723d04abc3",
+  "filePageRevisionTimestamp": "2024-05-08T13:20:41Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "562e4f93e9fdb66b3dce2a51217b95b425692af757ec417564e9ab7ccd6ae0dd",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Rugby Fans.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-05-08T13:20:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARugby%20Fans.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 15069,
   "sourceSha1": "d54084db5d969f994339ca8657687a76334404ab",

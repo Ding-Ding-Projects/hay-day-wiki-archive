@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Ginger Products",
+    "Category:Peanuts Products",
+    "Category:Rice Noodles Products",
+    "Category:Soy Sauce Products",
+    "Category:Wok Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Ginger Products",
+      "Category:Peanuts Products",
+      "Category:Rice Noodles Products",
+      "Category:Soy Sauce Products",
+      "Category:Wok Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -144,11 +160,12 @@
   "revisionId": 110807,
   "revisionTimestamp": "2026-07-29T16:58:56Z",
   "route": "/wiki/peanut-noodles-33954",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Noodles",
   "title": "Peanut Noodles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Peanut Noodles.png|200px|left|Peanut noodles]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 86\n |price = 1 to 597\n |time = 45 min\n |source = {{Infoicon|wokk|bigger|link=Wok Kitchen}}\n |xp = 80\n |base = 166\n |dia = 3\n |time3 = 38 min\n}}\n'''Peanut noodles''' are a [[Products|product]] unlocked at [[experience]] level 86.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making peanut noodles'''===\n[[File:Wok Kitchen.png|150px|left|Wok Kitchen]]\nPeanut noodles are made in the [[Wok Kitchen]].\n\nTo make peanut noodles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|[[File:Rice Noodles.png|75px|Rice Noodles|link=Rice Noodles]]\n|[[File:Soy Sauce.png|75px|Soy Sauce|link=Soy Sauce]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make one bowl, and 38 minutes in a fully [[Masteries|mastered]] machine. Each bowl gives players 80 [[experience]] points.\n\n{{Clr}}----\n==='''Selling peanut noodles'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Peanut noodles can be bought or sold for a maximum price of 5976 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make peanut noodles costs 516 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 bowls of peanut noodles per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Keep your squirrels busy producing peanuts.\n\n{{Clr}}----\n==='''Did you know?'''===\n*Peanut Noodles is the first product, not in the Sushi Bar, to use [[Soy Sauce|soy sauce]].\n*Originally the price of peanut noodles was 669. In the December 2020 upgrade, the price of peanuts was reduced, and the prices of the extant peanut products were reduced by a smaller amount.\n----\n\n{{Navigation}}\n{{Languages\n|de = Erdnussnudeln\n|es = Fideos con salsa de cacahuete\n|fr = Nouilles à la Cacahuète\n|it = Noodle alle arachidi\n|nl = Noedels met Pinda's\n|no = Peanøttnudler\n|ru = Лапша с арахисом\n}}\n[[pt-br:Macarrão com amendoim]]\n\n[[Category:Wok Kitchen Products]]\n[[Category:Soy Sauce Products]]\n[[Category:Ginger Products]]\n[[Category:Rice Noodles Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "22730801ac35a8d62e4888fb2071cbfe58e63d7ecad6e346401ab37b0f3a0064"
 }

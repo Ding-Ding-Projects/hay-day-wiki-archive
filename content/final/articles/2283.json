@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Egg Products",
+    "Category:Raspberry Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Egg Products",
+      "Category:Raspberry Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -178,11 +192,12 @@
   "revisionId": 108535,
   "revisionTimestamp": "2025-09-22T18:31:23Z",
   "route": "/wiki/raspberry-muffin-2283",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Raspberry_Muffin",
   "title": "Raspberry Muffin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Raspberry_Muffin.png|200px|left|Raspberry muffin]] \n{{Infobox\n |title = [[Products|Product]]\n |level = 19\n |price = 1 to 140\n |time = 45 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 17\n |base = 39\n |dia = 3\n |time3 = 38 min\n}}\n'''Raspberry muffins''' are [[products]] unlocked at [[experience]] level 19.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making raspberry muffins'''===\n[[File:Bakery.png|150px|left|Bakery]]\nRaspberry muffins are made in the [[Bakery]].\n\nTo make a muffin, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Raspberry.png|75px|link=Raspberry|Raspberries]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 45 minutes to make one muffin, and 38 minutes in a fully [[Masteries|mastered]] Bakery. Each muffin gives players 17 [[experience]] points.\n{{Clr}}\n----\n==='''Selling raspberry muffins'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Raspberry muffins can be bought or sold for a maximum price of 1,404 {{Infoicon|Coin}} for 10 muffins.\n* Buying the ingredients required to make a muffin costs 114 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 4 raspberry muffins per crate, up to a total of 12 per boat.\n{{Clr}}\n----\n==='''Video'''===\n<gallery>\nThe Hay Day Kitchen The Raspberry Muffin\n</gallery>\n----\n\n{{Navigation}}\n[[ru:Кекс с малиной]]\n{{Languages\n|de = Himbeer-Muffin\n|es = Magdalena de frambuesa\n|fr = Muffin à la Framboise\n|it = Muffin ai lamponi\n|nl = Frambozenmuffin\n|no = Bringebærmuffins\n|vi = Bánh muffin mâm xôi đỏ\n|zh = 树莓松饼\n}}\n[[pt-br:Bolinho de framboesa]]\n[[ru:Кекс с малиной]]\n[[Category:Bakery Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Raspberry Products]]",
   "wikitextHash": "1097042945626b2e66f34f81b9835ea5b8e8784ffb7e9a70ed67b490cdd25172"
 }

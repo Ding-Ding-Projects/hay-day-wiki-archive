@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -217,11 +225,12 @@
   "revisionId": 109534,
   "revisionTimestamp": "2026-03-05T21:34:03Z",
   "route": "/wiki/wool-2270",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wool",
   "title": "Wool",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Wool.png|200px|left|Wool]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 16\n |price = 1 to 54\n |time = 6 h\n |xp = 5\n |source = {{Infoicon|sheep|bigger|link=Sheep}}\n |base = 15\n |dia = 8 \n}}\n'''Wool''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 16.\n\nIt is used to make clothes and hats.\n\nLike all goods, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Collecting wool'''===\n[[File:Sheep.png|150px|left|Sheep]]\nWool is collected from [[sheep]] which have been fed [[Sheep Feed|sheep feed]]. Once fed, sheep need 6 hours to make wool.\n\nCollecting one piece of fleece gives players 5 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling wool'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Wool can be bought or sold for a maximum price of 540 {{Infoicon|coin}} for 10 units.\n* A [[sheep]] costs between 800 and 3,800 {{Infoicon|coin}} and a [[Sheep Pasture|sheep pasture]] costs 300 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using wool'''===\nWool is used to make the following [[products]]:\n\n{{Item Usage|Wool\n|Sweater|2|17\n|Blue Woolly Hat|1|19\n|Blue Sweater|2|20\n|Wooly Chaps|3|21\n|Red Scarf|2|48\n|Cloche Hat|6|70\n|Flower Shawl|2|71\n|Sun Hat|3|74\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 5 to 9 pieces of wool per crate, up to a total of 28 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Recipes ask between 1 and 6 pieces of wool.\n* Wool can be regularly found in the [[Daily Dirt]]. Selling wool at maximum price is recommended as it sells quickly.\n----\n==='''Did you know?'''===\n* In real life, wool directly sheared from sheep (called ''fleece'') is usually cleaned (or ''scoured'') and worked into ''yarn'' before it is used.\n----\n{{Navigation}}\n{{Languages\n|de = Wolle\n|es = Lana\n|fr = Laine\n|it = Lana\n|no = Ull\n|ru = Шерсть\n|zh = 羊毛\n}}\n[[pt-br:Lã]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "eccc691744aeec647f8d151d100615af9dd20a0169421aaa0f91cdeffea638c3"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cherry Products",
+    "Category:Grapes Products",
+    "Category:Orange Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cherry Products",
+      "Category:Grapes Products",
+      "Category:Orange Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 109863,
   "revisionTimestamp": "2026-05-09T17:31:15Z",
   "route": "/wiki/fruit-cake-26430",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fruit_Cake",
   "title": "Fruit Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fruit Cake.png|200px|left|Fruit cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 89\n |price = 1 to 450\n |time = 3 h\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 54\n |base = 125\n |time3 = 2 h 33 min\n |dia = 6\n}}\n'''Fruit cakes''' are [[products]] unlocked at [[experience]] level 89.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making fruit cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nFruit cakes are made in the [[Cake Oven]].\n\nTo make a fruit cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grapes.png|75px|Grapes|link=Grapes]]\n|[[File:Orange.png|75px|Orange|link=Orange]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 3 hours to make one cake, and 2 hours 33 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 54 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fruit cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fruit cakes can be bought or sold for a maximum price of 4,500 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 403 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 fruit cakes per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Früchtebrot\n|es = Pastel de frutas\n|fr = Gâteau aux Fruits\n|it = Torta alla frutta\n|nl = Vruchtencake\n|no = Fruktkake\n|ru = Фруктовый торт\n|zh = Fruit Cake\n}}\n[[pt-br:Bolo de frutas]]\n\n[[Category:Cake Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Cherry Products]]\n[[Category:Orange Products]]\n[[Category:Grapes Products]]",
   "wikitextHash": "003ce909b27b7a048d8406b0fed26a12e17e3202c70a16db591dab0656d0faaf"
 }

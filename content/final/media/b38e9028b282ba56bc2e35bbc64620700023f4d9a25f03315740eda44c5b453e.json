@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Star_Fence.png",
+  "filePageId": 30896,
+  "filePageRevisionId": 84459,
+  "filePageRevisionSha1": "79a5ebe84fae4e887bebbd8ddd4d77ba43d0105d",
+  "filePageRevisionTimestamp": "2019-01-02T22:47:18Z",
+  "filePageWikitext": "== Summary ==\n[[Category:Image Decos]]\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "e24a65111ad09ee4d190401e08b4dd7880ef1dd3ce4b2c1d0174d5e85e18e027",
   "height": 134,
   "immutableUrl": null,
   "mediaId": "File:Star Fence.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-01-02T22:47:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStar%20Fence.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 27671,
   "sourceSha1": "7d79b3b390c78bf3ac9e43f209826121f529a3e2",

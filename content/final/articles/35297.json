@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Clay Products",
+    "Category:Pottery Studio Products",
+    "Category:Sunflower Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Clay Products",
+      "Category:Pottery Studio Products",
+      "Category:Sunflower Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -110,11 +122,12 @@
   "revisionId": 110217,
   "revisionTimestamp": "2026-05-24T18:18:41Z",
   "route": "/wiki/potted-plant-35297",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potted_Plant",
   "title": "Potted Plant",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potted Plant.png|200px|left|Potted Plant]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 96\n |price = 1 to 151\n |time = 3h 40m\n |source = {{Infoicon|potteryst|bigger|link=Pottery Studio}}\n |xp = 26\n |base = 42\n |dia = 1\n |time3 = 3h 7m\n}}'''Potted Plant''' is a [[products|product]] unlocked at [[experience]] level 96.\n\nLike all [[products]], it is stored in the [[barn]].{{Clr}}----\n==='''Making Potted Plant'''===\n[[File:Pottery Studio.png|150px|left|Pottery Studio]]Potted Plant is made in the [[Pottery Studio]].\n\nTo make a pot, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Clay.png|75px|Clay|link=Clay]]\n|[[File:Sunflower.png|75px|Sunflower|link=Sunflower]]\n|-\n|'''x3'''\n|'''x1'''\n|}It takes 3 hours and 40 minutes to make one pot, and 3 hours and 7 minutes in a fully [[Masteries|mastered]] studio. Each pot gives players 26 [[experience]] points.{{Clr}}----\n==='''Selling Potted Plant'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Potted Plants can be bought or sold for a maximum price of 1,512 {{Infoicon|Coin}} for 10 pots.\n*Buying the ingredients required to make a Potted Plant costs 75 {{Infoicon|Coin}}.\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 3 to 4 potted plants per crate, up to a total of 12 per boat.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Topfpflanze\n|es = Maceta con flor\n|fr = Plante en Pot\n|it = Vaso da fiori\n|nl = Potplant\n|no = Potteplante\n|ru = Растение в горшке\n|zh = Potted Plant\n}}\n[[pt-br:Vaso de planta]]\n\n[[Category:Pottery Studio Products]]\n[[Category:Clay Products]]\n[[Category:Sunflower Products]]",
   "wikitextHash": "99010a6834bc1722bd82b238ededfca0e8a0893f5062a10b95443ce6006c4ca4"
 }

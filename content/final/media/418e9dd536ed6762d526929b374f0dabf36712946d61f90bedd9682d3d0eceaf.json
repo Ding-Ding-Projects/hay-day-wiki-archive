@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_Needs_Help.jpg",
+  "filePageId": 20347,
+  "filePageRevisionId": 74416,
+  "filePageRevisionSha1": "e45e949a9adc9f840e5b7efa5086fe8531485e87",
+  "filePageRevisionTimestamp": "2017-10-22T16:10:57Z",
+  "filePageWikitext": "To illustrate how a neighborhood chat functions to show players needing help\n{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "08415a2cfea60fd759e75a4bf280bf4665ac56295621104a0c53e1de6c4ff1c9",
   "height": 403,
   "immutableUrl": null,
   "mediaId": "File:Farm Needs Help.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-06-19T15:04:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarm%20Needs%20Help.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 24536,
   "sourceSha1": "60df41ffaa8ae5848416662b91fb13f99e50f072",

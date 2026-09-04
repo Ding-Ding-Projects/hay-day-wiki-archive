@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Woolly_Chaps?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 67972,
   "revisionTimestamp": "2016-12-24T01:11:54Z",
   "route": "/wiki/woolly-chaps-26655",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Woolly_Chaps",
   "title": "Woolly Chaps",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Wooly Chaps]]",
   "wikitextHash": "4667ad9614941ee1104b5611bb23f9ea246400e960aa35e64c5f44b9103d100f"
 }

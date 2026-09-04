@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snowman_Gift.png",
+  "filePageId": 36484,
+  "filePageRevisionId": 108976,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2025-12-19T21:39:08Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Snowman Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-12-19T21:39:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASnowman%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 235317,
   "sourceSha1": "b6ba49ac4e2521c4b1c282ff8fd2ebcb72c4ff15",

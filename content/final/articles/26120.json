@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -59,11 +67,12 @@
   "revisionId": 105274,
   "revisionTimestamp": "2024-05-08T12:10:48Z",
   "route": "/wiki/decorations-rewards-26120",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Rewards",
   "title": "Decorations/Rewards",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Rewards decorations'''===\n[[File:Shop Rewards.png|left|100px|Rewards tab]]\n'''Reward decorations''' are gifts from [[Supercell]] to players. They are unique and are all delivered by [[Alfred]] with a special thank-you note.\n\n{{Clr}}\n'''[[Experience]] Level Rewards'''\n<gallery>\nGolden Greg Statue.png|Golden Greg Statue(lvl 50)\nGolden Tree.png|Golden Tree (lvl 100)\nGolden Duck Fountain.png|Golden Duck Fountain (lvl 150)\nPrized Pig Painting Statue.png|Prized Pig Painting Statue (lvl 200)\nFarm Theater Statue.png|Farm Theater Statue (lvl 250)\nGolden Farm Statue.png|Golden Farm Statue (lvl 300)\n</gallery>\n----\n'''Other Rewards'''\n<gallery>\nAnimals Statue.png|Animals Statue (2+ years players)\nPig Rider Statue.png|Pig Rider Statue (players w/ a Supercell ID)\nFarm Squad.png|Farm Squad (10th anniversary of Supercell)\nBirthday Topiary.png|Birthday Toipary (10th birthday of Hay Day)\n</gallery>\n----\n{{Languages\n|es = Decoraciones/Recompensas\n}}\n\n[[Category:Decorations]]",
   "wikitextHash": "569434bf85d7acbe5bca59933b5959411664ec9f9d01c947c33ba6f847290916"
 }

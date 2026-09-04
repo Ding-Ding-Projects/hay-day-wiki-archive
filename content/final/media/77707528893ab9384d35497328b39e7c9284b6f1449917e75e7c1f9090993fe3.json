@@ -1,0 +1,39 @@
+{
+  "attribution": {},
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File%3AJanuary_2024_Update.jpeg",
+  "filePageId": 36016,
+  "filePageRevisionId": 104487,
+  "filePageRevisionSha1": "d211484065d679d5c19b13cca2ce8bfaf667bc25",
+  "filePageRevisionTimestamp": "2024-01-13T17:50:46Z",
+  "filePageWikitext": "{{Delete}}",
+  "filePageWikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d",
+  "height": null,
+  "immutableUrl": null,
+  "mediaId": "File:January 2024 Update.jpeg",
+  "mediaType": null,
+  "mime": null,
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": null,
+  "rights": {},
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AJanuary%202024%20Update.jpeg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": null,
+  "sourceSha1": null,
+  "sourceUrl": null,
+  "title": "File:January 2024 Update.jpeg",
+  "transformation": "The upstream record was referenced but did not provide downloadable image information.",
+  "verdict": "missing-upstream",
+  "width": null
+}

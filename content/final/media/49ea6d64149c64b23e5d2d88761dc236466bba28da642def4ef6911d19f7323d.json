@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Birthday_Balloon_Maker.png",
+  "filePageId": 36085,
+  "filePageRevisionId": 110625,
+  "filePageRevisionSha1": "7de4d91f7f3917a63d6b211e859dcdeb1a7a71dd",
+  "filePageRevisionTimestamp": "2026-06-22T10:21:52Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "3cab6ce95f1d16648b9899793f9f7a6e1682e2633270630862b8e17783e0ecc8",
   "height": 713,
   "immutableUrl": null,
   "mediaId": "File:Birthday Balloon Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-06-22T10:21:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABirthday%20Balloon%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 576626,
   "sourceSha1": "5a811d0efbcc042bfb2db150163de55cc44ed55d",

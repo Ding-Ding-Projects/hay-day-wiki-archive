@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -351,11 +359,12 @@
   "revisionId": 107155,
   "revisionTimestamp": "2025-02-06T19:33:16Z",
   "route": "/wiki/candle-maker-16469",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Candle_Maker",
   "title": "Candle Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Candle Maker.png|200px|left|Candle Maker]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 48\n |price = 118,000\n |time = 1 d 14 h\n |slots = 2\n |dia = 58\n |size = 2×2\n}}\nThe '''Candle Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 48.\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Candle Maker is a large mixing vat with a colorful mechanism dipping the candle in and out of the wax. In front of the vat there is a wooden table with candle molds. Next to the vat sits a purple chest with three drawers and a roll of white wick on top of it.\n\nThe mastered version gets a few golden parts and a star on the side.\n----\n=== '''Building''' ===\nIt costs 118,000 {{Infoicon|coin}} and takes 1 day and 14 hours (or 58 {{Infoicon|dia}}) to build the Candle Maker. It gives players 24 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Strawberry Candle|48|2h|370\n|Raspberry Candle|52|1:45|360\n|Lemon Candle|72|2:15|457/55\n|Colorful Candles|84|1:50|324\n|Floral Candle|95|2h|442\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Candle Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Candle Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Candle Maker Mastered.png|150px|Mastered Candle Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Candle Maker Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* All candles, except the Floral Candle, require one can of [[beeswax]] and two fruit, so you can pick which one(s) to make to master the maker.\n** It is suggested either the Strawberry, or the Lemon Candle, as they both take at least 2 hours, but it mainly depends on how much of either fruit you have excess of.\n*Candles are often products required in the Town's [[Gift Shop]].\n* You can speed up the production of the Candle Maker using a green [[booster]].\n----\n{{Navigation}}\n{{Languages\n|de = Kerzenmacher\n|es = Máquina de velas\n|fr = Atelier à Bougies\n|it = Candelificio\n|no = Lysmaskin\n|zh = Candle Maker\n}}\n[[pt-br:Fazedor de velas]]\n[[ru:Свечник]]\n[[Category:Production Buildings]]",
   "wikitextHash": "f8c0a7a41220bafcd675314e99193ba89a2063d3da9bf2c6b839b74d04fa9659"
 }

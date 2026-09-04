@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -368,11 +376,12 @@
   "revisionId": 109645,
   "revisionTimestamp": "2026-04-12T18:14:23Z",
   "route": "/wiki/mine-7452",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mine",
   "title": "Mine",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mine.png|200px|left|Mine]]\n{{Infobox\n |title = [[Production Buildings|Production]]\n |level = 24\n |price = 21,000\n |time = 1 d 11 h\n}}\nThe '''Mine''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 24.\n\nIt is used extract [[Silver Ore|silver ore]], [[Gold Ore|gold ore]], [[Platinum Ore|platinum ore]], [[coal]] and [[Iron Ore|iron ore]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe appearance of the mine changes during Halloween and Winter:\n{| style=\"text-align: center;\n|-\n|[[File:Mine Halloween.png|150px]]\n|[[File:Mine Winter.png|150px]]\n|-\n|'''Halloween'''\n|'''Winter'''\n|}\n\n{{Clr}}\n----\n=== '''Repairing''' ===\n[[File:Mine-Locked.png|150px|left|Closed mine]]\nIt costs 21,000{{Infoicon|coin}} and takes 1 day and 11 hours (or 71 {{Infoicon|dia}}) to repair the Mine. It gives players 28 {{Infoicon|xp}} when repaired.\n\nThe Mine cannot be moved or rotated.\n\n{{Clr}}\n----\n=== '''Mining''' ===\nExtracting ore does not take any time but requires [[supplies]]: sticks of [[dynamite]], [[TNT Barrel|TNT barrels]], [[shovel]]s or [[pickaxe]]s. In addition to ore, you will occasionally find a [[diamond]] among your excavation. There is a daily limit of 10 diamonds per day. The use of different supplies gives different quantity of ores and different chances of getting a diamond.\n{| cellpadding=\"5\" cellspacing=\"1\" style=\"background: #cccccc; text-align: center; max-width: 85%; margin: 1em auto; border: 1px solid #ccc;\"\n|Image\n|[[File:Dynamite.png|75px]]\n|[[File:TNT Barrel.png|75px]]\n|[[File:Shovel.png|75px]]\n|[[File:Pickaxe.png|75px]]\n|-\n|Name\n|'''[[Dynamite]]'''\n|'''[[TNT Barrel]]'''\n|'''[[Shovel]]'''\n|'''[[Pickaxe]]'''\n|-\n|Unlocks at\n| colspan=\"3\" style=\"background: #fff;\"|Level 5\n| style=\"background: #fff;\"|Level 34\n|-\n|Ores given\n| style=\"background: #fff;\"|2 ores\n| style=\"background: #fff;\"|3 ores\n| style=\"background: #fff;\"|4 ores\n| style=\"background: #fff;\"|5 ores\n|-\n|Alternative uses\n| style=\"background: #fff;\"|Clear lone rocks\n| style=\"background: #fff;\"|Clear groups of rocks\n| style=\"background: #fff;\"|Clear bogs (farm) and ponds (town)\n| style=\"background: #fff;\"|Use in mine only\n|-\n|Maximum Price\n| style=\"background: #fff;\"|25 {{Infoicon|coin}}\n| style=\"background: #fff;\"|72 {{Infoicon|coin}}\n| style=\"background: #fff;\"|108 {{Infoicon|coin}}\n| style=\"background: #fff;\"|126 {{Infoicon|coin}}\n|}\n{{Clr}}\n----\n=== '''Products''' ===\nUsing different supplies above to mine gives different quantity of products, which is ore. The chance of getting gold ore and platinum ore is lower than other ores, no matter which supplies you use.\n{| cellpadding=\"6\" cellspacing=\"1\" style=\"background: #cccccc; text-align: center; max-width: 90%; margin: 1em auto;border: 1px solid #ccc;\"\n|-\n|Image\n|[[File:Silver Ore.png|75px]]\n|[[File:Gold Ore.png|75px]]\n|[[File:Platinum Ore.png|75px]]\n|[[File:Coal.png|75px]]\n|[[File:Iron Ore.png|75px]]\n|-\n|Name\n|'''[[Silver Ore|Silver ore]]'''\n|'''[[Gold Ore|Gold ore]]'''\n|'''[[Platinum Ore|Platinum ore]]'''\n|'''[[Coal]]'''\n|'''[[Iron Ore|Iron ore]]'''\n|-\n|Unlocks at\n| style=\"background: #fff;\"|Level 24\n| style=\"background: #fff;\"|Level 24\n| style=\"background: #fff;\"|Level 24\n| style=\"background: #fff;\"|Level 33\n| style=\"background: #fff;\"|Level 34\n|-\n|Maximum Price\n| style=\"background: #fff;\"|18{{Infoicon|coin}}\n| style=\"background: #fff;\"|21{{Infoicon|coin}}\n| style=\"background: #fff;\"|32{{Infoicon|coin}}\n| style=\"background: #fff;\"|10{{Infoicon|coin}}\n| style=\"background: #fff;\"|14{{Infoicon|coin}}\n|-\n|XP\n| style=\"background: #fff;\"|5{{Infoicon|xp}}\n| style=\"background: #fff;\"|6{{Infoicon|xp}}\n| style=\"background: #fff;\"|7{{Infoicon|xp}}\n| style=\"background: #fff;\"|3{{Infoicon|xp}}\n| style=\"background: #fff;\"|4{{Infoicon|xp}}\n|}\n----\n==='''Upgrading and Mastering'''===\nUnlike other buildings, the Mine cannot be upgraded or mastered.\n----\n==='''Tutorial'''===\n[[File:Hay Day mine area|left|350px|Mine tutorial]]\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n*Mining is a nice way to get diamonds.\n*When taking Mining Task, it is very advisable that you calculate your mining capacity, and compare it to the task you are about to take. To see if your total capacity exceeds the requirement or not.\n**To further optimize the plan, calculate the number of each tool's use so that the output equates the mining task's requirement.\n**If successful, this can result in a near-instant of task completion.\n\n----\n{{Navigation}}\n{{Languages\n|de = Mine\n|es = Mina\n|fr = Mine\n|it = Miniera\n|sv = Gruva\n}}\n[[pt-br:Mina]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "b0bf1de4ea7ae9a07223da462f8feb1a6cca1df5ed0ee6800c0e5fbad669db0f"
 }

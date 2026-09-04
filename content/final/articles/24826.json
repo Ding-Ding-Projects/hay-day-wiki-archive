@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Missing Images",
+    "Category:Trees and Bushes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Missing Images",
+      "Category:Trees and Bushes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -202,11 +212,12 @@
   "revisionId": 110269,
   "revisionTimestamp": "2026-05-29T00:33:02Z",
   "route": "/wiki/orange-tree-24826",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Orange_Tree",
   "title": "Orange Tree",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{NeedPic}}\n[[File:Orange Tree.png|200px|left|Orange tree]]\n\n{{Infobox\n |title = [[Trees and Bushes|Trees & bushes]]\n |level = 71\n |price = 720\n |gives = {{Infoicon|orange|big|link=Orange}}\n |time = every 1 d 7 h\n |xp = 19\n |dia = 18\n}}\n'''Orange trees''' are a type of [[Trees and Bushes|tree]] unlocked at [[experience]] level 71.\n\nEach tree can give up to 13 [[orange]]s, which are collected over 4 harvests.\n\n{{Clr}}\n----\n==='''Stages'''===\n{| style=\"text-align: center;\"\n|-\n|[[File:Orange_tree_stage_1.png |thumb|120px]]\n|[[File:Orange Tree Stage 2.png |thumb|120px]]\n|[[File:Orange Tree.png |thumb|120px]] \n|[[File:Orange Dead.png |thumb|120px]]\n|[[File:Orange Tree Dead.mov|thumb|185px]]\n|-\n|'''Stage 1'''\n|'''Stage 2'''\n|'''Ready'''\n|'''Dead'''\n|'''Dead'''\n|}\n----\n==='''Buying'''===\n{{Infoicon|shop|bigger|link=Shop}} Orange trees can be purchased in the [[shop]] for 720 [[coin]]s each.\n----\n==='''Harvesting'''===\nThe time between harvests is 1 day and 7 hours for each tree. Each harvest yields additional oranges:\n{| style=\"text-align: center;\"\n|-\n|[[File:Orange_Tree Harvest 2.png|150px]] \n|[[File:Orange_Tree Harvest 3.png|150px]] \n|[[File:Orange_Tree.png|150px]]\n|-\n|'''2 oranges'''\n|'''3 oranges'''\n|'''4 oranges'''\n|}\n\n{{Clr}}\n----\n==='''Revival'''===\n[[File:Orange tree up for revival.png|thumb|left|120px]]\nAfter the third harvest the tree wilts. A player can ask for another player to revive it by tapping on it and placing a sign on the tree. When another player revives it a final harvest of four oranges can be collected before the tree dies.  The helper gets 19 {{Infoicon|xp}} points by reviving an orange tree.\n\n{{Clr}}\n----\n==='''Removing'''===\n[[File:Saw.png|left|150px]]\nA [[saw]] is needed to remove a dead tree from the farm. Note that players may also use a saw to remove the tree after the third harvest instead of placing it up for revival.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Orangenbaum\n|es = Naranjo\n|fr = Oranger\n|it = Arancio\n|no = Appelsintre\n|ru = Апельсиновое дерево\n}}\n[[Category:Trees and Bushes]]",
   "wikitextHash": "f5d89b0db854bccf084888cee69c221d56c498d5055d5aef5ea6582da5bf01c9"
 }

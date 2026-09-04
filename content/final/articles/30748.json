@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -338,11 +346,12 @@
   "revisionId": 110260,
   "revisionTimestamp": "2026-05-28T16:07:56Z",
   "route": "/wiki/pineapple-30748",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pineapple",
   "title": "Pineapple",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pineapple.png|200px|left]]\n\n{{Infobox\n |level = 52|price = 1 to 14|time = 30 min|xp = 3|source = {{Infoicon|field|bigger|link=Farm}}|base = 4|dia = 3|title = [[Crops|Crop]]}}\n'''Pineapples''' are field [[crops]] unlocked at [[experience]] level 52.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 210 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing pineapples'''===\nPineapples are grown in [[Farm|fields]] by planting another pineapple (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] point, and takes 30 minutes to mature.\n<gallery>\nFile:Pineapple Stage 1.png\nFile:Pineapple Stage 2.png\nFile:Pineapple Stage 3.png\nFile:Pineapple Stage 4.png\nFile:Pineapple Stage 5.png\n</gallery>\n----\n==='''Selling'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pineapples can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using''' ===\nPineapples are used to make the following [[products]]:\n\n{{Item Usage|Pineapple\n|Pineapple Juice|3|52\n|Pineapple Cake|3|65\n|Cucumber Smoothie|3|70\n|Tropical Fondue|3|100\n|Tropical Cupcake|3|112\n|Pineapple Coconut Bars|2|120\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 10 to 31 pineapples per crate, up to a total of 108 per boat.\n* Each unit of pineapple gives players 6 coins and 4 experience points in boat orders.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n*Pineapples can sometimes be found in the [[Daily Dirt]].\n*It is not recommended to sell them at a lower price since they are not a common item in the Daily Dirt.\n*Recipes ask for 3 pineapples. You may want to make sure you always have enough of them in your [[silo]]. However, since they grow quickly it is not recommended to store too many pineapples because it can clog up room in your silo. When storing pineapples, consider your current level and how many pineapple related dishes you can make. Another consideration is do you do truck, boat, or townie orders because each order type will ask for a different number of the pineapple related dishes. Ensure that you do not use your last pineapple because there is no guarantee you will be able to find some in the Daily Dirt when you need them.\n----\n{{Navigation}}\n{{Languages\n|de=Ananas\n|es=Piña\n|fr=Ananas\n|it=Ananas\n|no=Ananas\n|zh=Pineapple\n}}\n[[pt-br:Abacaxi]]\n[[ru:Ананас]]\n[[Category:Field Crops]]",
   "wikitextHash": "38859cc21d454cb9cb5ba49bfdf1301f50ff15ed56da3a6d7b8541eda09b3984"
 }

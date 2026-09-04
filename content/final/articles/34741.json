@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Daily_Quests?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 96776,
   "revisionTimestamp": "2021-01-13T01:00:33Z",
   "route": "/wiki/daily-quests-34741",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Quests",
   "title": "Daily Quests",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Daily Quest]]",
   "wikitextHash": "e900856a1fe155f1ce985b47767b7889f1f112bbbdeab236f0ea612a430c381f"
 }

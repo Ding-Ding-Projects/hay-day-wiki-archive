@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Animals?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 12974,
   "revisionTimestamp": "2013-07-12T07:46:56Z",
   "route": "/wiki/category%2Fcategory-image-animals-4189",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Animals",
   "title": "Category:Image Animals",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains images of animals. Do not delete or modify the current photos as they are permanent representations of the [[Animals|animal]]s in Hay Day.\n[[Category:Images]]",
   "wikitextHash": "1e5b475485507c47b28c85a8e36e967998adfb7bcd636553cd1dc05a54a04780"
 }

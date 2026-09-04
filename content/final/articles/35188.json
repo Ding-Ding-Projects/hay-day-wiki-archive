@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Carrot Products",
+    "Category:Feed Mill Products",
+    "Category:Fish Fillet Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Carrot Products",
+      "Category:Feed Mill Products",
+      "Category:Fish Fillet Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -142,11 +154,12 @@
   "revisionId": 105915,
   "revisionTimestamp": "2024-10-05T15:40:05Z",
   "route": "/wiki/meat-bucket-35188",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Meat_Bucket",
   "title": "Meat Bucket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Meat Bucket.png|200px|left|Meat bucket]]\n\n{{Infobox\n |title = [[Products|Product]]\n |rlevel = 3\n |price = 1 to 72\n |time = 45 min\n |source = {{Infoicon|FeedM|bigger|link=Feed Mill}}\n |xp = 15\n |base = 20\n |time3 = 38 min\n |dia = ?\n}}\n'''Meat buckets''' are [[products]] unlocked when players have reached [[reputation]] level 3, unlocked [[Sanctuary]], and have at least a carnivore (arctic fox, cheetah, walrus, meerkat or penguin) in sanctuary. They are used to feed wildlife in the [[Sanctuary]].\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making meat buckets'''===\n[[File:Feed Mill.png|150px|left|Feed Mill]] \nMeat buckets are made in the [[Feed Mill]].\n\nTo make 3 meat buckets players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|Fish Fillet|link=Fish Fillet]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x3'''\n|'''x5'''\n|}\nIt takes 45 minutes to make a bucket, or 38 minutes in a fully [[Masteries|mastered]] Feed mill.   1 bucket equals 3 units and awards players 15 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling meat buckets'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Meat buckets can be bought or sold for a maximum price of 720 {{Infoicon|Coin}} for 10 buckets.\n* Buying the ingredients required to make 3 meat buckets cost 197 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n{{Clr}}\n----\n==='''Did you know?'''===\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|es = Cubo de pescado\n|vi = Thùng thịt\n}}\n[[Category:Feed Mill Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "ad88dcf7cc0100f758120a6ad1358a5e71d945c13b5e2d2e4b7fd6b8201e5695"
 }

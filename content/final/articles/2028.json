@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:BlogListingPage?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95427,
   "revisionTimestamp": "2020-08-18T01:49:28Z",
   "route": "/wiki/category%2Fcategory-bloglistingpage-2028",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:BlogListingPage",
   "title": "Category:BlogListingPage",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is an automatically created category to keep all blog listing pages up to date.  Please do not delete.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "077808fa77caa9c63c82473cdc304fd59d4f593c30f8a54608ec0a0117807129"
 }

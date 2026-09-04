@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Perfumerie_Mastered.png",
+  "filePageId": 36423,
+  "filePageRevisionId": 108652,
+  "filePageRevisionSha1": "0e8d94f605ad1280ed51f1e5d4e5eb0211a37fb5",
+  "filePageRevisionTimestamp": "2025-09-26T02:08:21Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}",
+  "filePageWikitextHash": "4e180c42f07d036301e173df959a6bcd49ffe28eaab2c7ab605ad2a6b15d044e",
   "height": 505,
   "immutableUrl": null,
   "mediaId": "File:Perfumerie Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T02:08:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3APerfumerie%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 327268,
   "sourceSha1": "407d28f17cc4f9eeef24b62f5bbd24c3e9b17406",

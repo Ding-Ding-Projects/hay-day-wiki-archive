@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pumpkin_Scarecrow.png",
+  "filePageId": 35252,
+  "filePageRevisionId": 99719,
+  "filePageRevisionSha1": "25188344546e17f01f3ecb9ab441f7f159b1068f",
+  "filePageRevisionTimestamp": "2021-12-12T22:51:29Z",
+  "filePageWikitext": "== Summary ==\nHalloween 2021 Global Event\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1f3ce8b42d17340d07af9da40602fbd648fedccc8c405e9e3cfca58aa0fca9a2",
   "height": 270,
   "immutableUrl": null,
   "mediaId": "File:Pumpkin Scarecrow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-24T11:08:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APumpkin%20Scarecrow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 149179,
   "sourceSha1": "cb5bf643968d569fff3576bfd82ed3cfbee3c9de",

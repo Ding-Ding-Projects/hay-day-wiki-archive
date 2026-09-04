@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sugar_Skull_Paths.png",
+  "filePageId": 35232,
+  "filePageRevisionId": 105670,
+  "filePageRevisionSha1": "992f3db4d99c252d15b6dc884cc4cac390408927",
+  "filePageRevisionTimestamp": "2024-08-16T16:58:10Z",
+  "filePageWikitext": "== Summary ==\nHalloween 2021 package decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "7ff754664cc40794a06fd3303f9a8b6fbb04a43101775806e315045e2ee79b2a",
   "height": 267,
   "immutableUrl": null,
   "mediaId": "File:Sugar Skull Paths.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-08-16T16:58:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASugar%20Skull%20Paths.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 444544,
   "sourceSha1": "da6c0ba85430a3971b8999cb81c7a07bf1681349",

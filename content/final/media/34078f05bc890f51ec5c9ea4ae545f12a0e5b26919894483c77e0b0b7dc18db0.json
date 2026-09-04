@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Marker_Stake.png",
+  "filePageId": 14385,
+  "filePageRevisionId": 105246,
+  "filePageRevisionSha1": "6d3ab2dc1f021e5f7aa78e02f68226877e828fb9",
+  "filePageRevisionTimestamp": "2024-04-25T12:54:53Z",
+  "filePageWikitext": "Picture of a marker stake.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "882eaf8d95db9cf814722aea77b26211c987b0417d013751140c5aba21212452",
   "height": 175,
   "immutableUrl": null,
   "mediaId": "File:Marker Stake.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-25T12:54:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMarker%20Stake.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 17965,
   "sourceSha1": "47745d348660981e98dfc835e63d94d38b45d744",

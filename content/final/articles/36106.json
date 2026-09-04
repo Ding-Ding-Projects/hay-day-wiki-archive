@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Bacon Products",
+    "Category:Birthday Balloon Maker Products",
+    "Category:Sweater Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Bacon Products",
+      "Category:Birthday Balloon Maker Products",
+      "Category:Sweater Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +165,12 @@
   "revisionId": 110601,
   "revisionTimestamp": "2026-06-21T15:52:29Z",
   "route": "/wiki/guitar-balloon-36106",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Guitar_Balloon",
   "title": "Guitar Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Guitar Balloon.png|200px|left|Guitar Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |musicalnote = 20\n |time = 15m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 67\n |dia = 5\n}}\n'''Guitar Balloon''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Aniversary 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Guitar Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nGuitar balloons are made in the [[Birthday Balloon Maker]].\n\nTo make an guitar balloon in 2024, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sweater.png|75px|Sweater|link=Sweater]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 15 minutes to make an balloon. Each balloon gives players 67 [[experience]] points.\n\n'''In 2025''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn Bread.png|75px|Corn Bread|link=Corn Bread]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 67 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Sweater.png|75px|Blue Sweater|link=Blue Sweater]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 80 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 balloons per crate, up to a total of 8 per boat. Each balloon used on a boat will be rewarded with 20 [[Musical Note]]s, 22 musical note in a 1-star and mastered maker, 28 musical note in a 2-star and 40 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Sweater Products]]\n[[Category:Apple Products]]\n[[Category:Bacon Products]]\n\n{{Languages\n|de =  Gitarrenballon \n|es = Globo de guitarra\n}}",
   "wikitextHash": "cf0d347e622ca1ecbd38ed21ea8c1ebdca53d1253ff35e9af9487c9990ca6e04"
 }

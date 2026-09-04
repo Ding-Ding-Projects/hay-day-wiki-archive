@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Corn Products",
+    "Category:Popcorn Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Corn Products",
+      "Category:Popcorn Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -140,11 +152,12 @@
   "revisionId": 105724,
   "revisionTimestamp": "2024-08-26T20:35:35Z",
   "route": "/wiki/buttered-popcorn-2093",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Buttered_Popcorn",
   "title": "Buttered Popcorn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Buttered_Popcorn.png|200px|left|Buttered popcorn]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 16\n |price = 1 to 126\n |time = 1 h\n |xp = 15\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |base = 35\n |dia = 4\n |time3 = 51 min\n}}\n'''Buttered popcorn''' is a [[Products|product]] unlocked at [[experience]] level 16.\n\nButtered popcorn is the second product unlocked in the [[Popcorn Pot]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making buttered popcorn'''===\n[[File:Popcorn Pot.png|150px|left|link=Popcorn Pot|Popcorn Pot]]\nButtered popcorn is made in the [[Popcorn Pot]].\n\nTo make buttered popcorn, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour to make one bag, and 51 minutes in a fully [[Masteries|mastered]] pot. Each bag gives players 15 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling buttered popcorn'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Buttered popcorn can be bought or sold for a maximum price of 1,260 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make it costs 96 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 5 bags of buttered popcorn per crate, up to a total of 20 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Buttered popcorn can't easily be found in the [[Daily Dirt]].\n----\n[[ru:Попкорн с маслом]]\n{{Navigation}}\n{{Languages\n|de = Butter-Popcorn\n|es = Palomitas de mantequilla\n|fr = Pop-Corn au Beurre\n|it = Popcorn al burro\n|nl = Boterpopcorn\n|no = Popkorn med smør\n|vi = Bắp rang bơ\n|zh = 奶油爆米花\n}}\n[[pt-br:Pipoca amanteigada]]\n[[ru:Попкорн с маслом]]\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]\n[[Category:Butter Products]]",
   "wikitextHash": "0bd6434700ae6c7601790f45d0814e929dbc0bf78e9336b7b5aa5c2da455bf52"
 }

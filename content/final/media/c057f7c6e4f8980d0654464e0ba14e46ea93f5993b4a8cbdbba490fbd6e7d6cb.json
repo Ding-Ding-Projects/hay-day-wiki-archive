@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Front_With_Chocolate_Bunny.png",
+  "filePageId": 36131,
+  "filePageRevisionId": 105524,
+  "filePageRevisionSha1": "60a7699ae5b1768c681bc94075d9934841e5874d",
+  "filePageRevisionTimestamp": "2024-06-28T22:27:10Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "4df17076a53dc71f46e430f6b50c292110c22b58cbe1bc7c0451b91840b9f0ae",
   "height": 1022,
   "immutableUrl": null,
   "mediaId": "File:Catalogue Front With Chocolate Bunny.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-06-28T22:27:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACatalogue%20Front%20With%20Chocolate%20Bunny.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 383374,
   "sourceSha1": "a007da6a2e4c8c501e250a246269006de792ef57",

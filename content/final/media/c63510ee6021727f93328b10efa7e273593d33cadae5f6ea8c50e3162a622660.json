@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_87.png",
+  "filePageId": 27501,
+  "filePageRevisionId": 80765,
+  "filePageRevisionSha1": "7263caf02afcdd3454dee4ffd0dc78e4bf107b24",
+  "filePageRevisionTimestamp": "2018-06-06T04:01:15Z",
+  "filePageWikitext": "Level 87 with Nachos and 10 Diamonds\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "f780111b4ce78abb4951a119fe860d04ef45985d21ef1676dd5be3c4ab4c0e5f",
+  "height": 1424,
+  "immutableUrl": null,
+  "mediaId": "File:Level 87.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-06T04:01:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%2087.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 2228254,
+  "sourceSha1": "b6394c88f30de224522c3cbbc0af9064f3aeb593",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cb/Level_87.png/revision/latest?cb=20180606040115",
+  "title": "File:Level 87.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 2100
+}

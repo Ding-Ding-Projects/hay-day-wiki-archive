@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 110831,
   "revisionTimestamp": "2026-08-05T09:02:35Z",
   "route": "/wiki/spicy-bean-doner-36897",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Doner",
   "title": "Spicy Bean Doner",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Spicy Bean Döner]]",
   "wikitextHash": "ed5ff056de74a8f89052a3de738f2fd5a0d02f93a7f5041508c916cc30b86ced"
 }

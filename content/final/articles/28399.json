@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -332,11 +340,12 @@
   "revisionId": 109767,
   "revisionTimestamp": "2026-05-03T10:13:07Z",
   "route": "/wiki/sunflower-28399",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sunflower",
   "title": "Sunflower",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sunflower.png|200px|left|Sunflower]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 63\n |price = 1 to 21\n |time = 1 h 30 min\n |xp = 5\n |base = 6\n |dia = 5\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Sunflowers''' are field [[crops]] unlocked at [[experience]] level 63.\n\nThey are used to make bouquets in the [[Flower Shop]], [[Flower Shawl|flower shawls]] on the [[Loom]], and [[Floral Candle|floral candles]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 330 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing sunflowers'''===\nSunflowers are grown in [[Farm|fields]] by planting another sunflower (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 5 [[experience]] points, and takes one and half an hours to mature.\n<gallery>\nSunflower Stage 1.png\nSunflower Stage 2.png\nSunflower Stage 3.png\nSunflower Stage 4.png\nSunflower Stage 5.png\n</gallery>\n----\n==='''Selling sunflowers'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Sunflowers can be sold or bought for a maximum price of 216 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using sunflowers''' ===\nSunflowers are used to make the following [[products]]:\n\n{{Item Usage|Sunflower\n|Bright Bouquet|5|65\n|Long Gift|3|70|temp=Long Gift|tempend=20230102\n|Flower Shawl|3|71\n|Floral Candle|2|95\n|Potted Plant|1|96\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 12 to 19 sunflowers per crate, up to a total of 64 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\nAlways have enough sunflowers in your [[silo]], because products demand a lot, such as [[Bright Bouquet]], they ask for 5!!\n----\n[[ru:Подсолнух]]\n{{Navigation}}\n{{Languages\n|de = Sonnenblume\n|es = Girasoles\n|fr = Tournesol\n|it = Girasole\n|no = Solsikke\n|zh = Sunflower\n}}\n[[pt-br:Girassol]]\n[[ru:Подсолнух]]\n[[Category:Field Crops]]",
   "wikitextHash": "ad95c5bc9ea4fa2b745064bd36d5e927760a3be4bb94630211eadd8fe8a6736c"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reindeer.png",
+  "filePageId": 22953,
+  "filePageRevisionId": 77285,
+  "filePageRevisionSha1": "81bd275b80523c5931ca37d0325fb9aa899192e8",
+  "filePageRevisionTimestamp": "2018-02-07T17:57:23Z",
+  "filePageWikitext": "NEW Reindeer Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "7c90accbbca029d27bed1b874cb1ac7e248b584756f289c593f4529f81d41912",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Reindeer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:57:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReindeer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 171057,
   "sourceSha1": "b01d7cd9a5431c4c8f33b47e34acd296994512e4",

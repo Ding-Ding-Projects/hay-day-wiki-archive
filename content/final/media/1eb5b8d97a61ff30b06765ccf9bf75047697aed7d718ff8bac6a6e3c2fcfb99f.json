@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daily_dirt_ads.png",
+  "filePageId": 17576,
+  "filePageRevisionId": 65988,
+  "filePageRevisionSha1": "8fa0b293e2f846e8a4b692f08e658bce01e98b5b",
+  "filePageRevisionTimestamp": "2016-10-28T13:28:37Z",
+  "filePageWikitext": "Picture of the Daily Dirt ads.\n{{License SC}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "7d68e821330dcf0cb4d977392bf272e6a5c4d00fbde4187e79b48a7256f7b3ac",
   "height": 534,
   "immutableUrl": null,
   "mediaId": "File:Daily dirt ads.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-31T15:40:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADaily%20dirt%20ads.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 115525,
   "sourceSha1": "ed41a86317e1190ad339d0983c745f8f9706435a",

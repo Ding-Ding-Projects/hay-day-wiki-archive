@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Goat_Milk_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98578,
   "revisionTimestamp": "2021-08-31T21:23:45Z",
   "route": "/wiki/category%2Fcategory-goat-milk-products-35101",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Goat_Milk_Products",
   "title": "Category:Goat Milk Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Goat Milk.png|thumb]]\nProducts of [[Goat Milk]].\n[[Category:Products]]",
   "wikitextHash": "3bb66b5bef731684a3a0014f0f68502b332252173656d2342a8ed8251ff81994"
 }

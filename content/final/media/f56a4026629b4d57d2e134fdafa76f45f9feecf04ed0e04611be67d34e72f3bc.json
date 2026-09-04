@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lighthouse.png",
+  "filePageId": 35543,
+  "filePageRevisionId": 101496,
+  "filePageRevisionSha1": "801bdddfd97557b05ae8d661b2de8f93e4cffbac",
+  "filePageRevisionTimestamp": "2022-09-20T20:11:02Z",
+  "filePageWikitext": "== Summary ==\nPackage Decoration 570 diamonds or $19.99 USD.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "235f7dae84e7cbc824dd0a624d62fe960dff1ff970b25e9e660756984a637c93",
   "height": 421,
   "immutableUrl": null,
   "mediaId": "File:Lighthouse.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-09T18:14:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALighthouse.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 387497,
   "sourceSha1": "d3a4f0a5371ddd3b50bae70b3c43e55fbf8bb68e",

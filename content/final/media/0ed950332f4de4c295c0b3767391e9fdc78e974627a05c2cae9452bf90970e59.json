@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Squirrel_Summer.png",
+  "filePageId": 33973,
+  "filePageRevisionId": 98280,
+  "filePageRevisionSha1": "a619fb334a8a41261488e01f718cd7bd70e10bc9",
+  "filePageRevisionTimestamp": "2021-07-15T22:29:32Z",
+  "filePageWikitext": "== Summary ==\nTemporary image until a proper .png file can be supplied from Supercell.\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "6134accda52512a5b7b88f3744ee623148094e017a335bce883ca6ed2c2a86a9",
   "height": 568,
   "immutableUrl": null,
   "mediaId": "File:Squirrel Summer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T05:12:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASquirrel%20Summer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 266567,
   "sourceSha1": "0619d8a766e7e661ba8289f58619e2a8ec62124a",

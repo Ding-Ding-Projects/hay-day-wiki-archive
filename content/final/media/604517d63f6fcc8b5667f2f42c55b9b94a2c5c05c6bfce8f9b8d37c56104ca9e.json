@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Thumb_Service.png",
+  "filePageId": 29461,
+  "filePageRevisionId": 78774,
+  "filePageRevisionSha1": "b6399a7e2cabe1e5469af0715f0110bc86d2e2bd",
+  "filePageRevisionTimestamp": "2018-04-17T16:48:47Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "8d4aa039e5ef3bdb4762a86bd8782f21d52ea94aaf093cd796776c773d911bb7",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Thumb Service.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-17T16:48:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AThumb%20Service.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 39800,
   "sourceSha1": "d6863ff8922263e627253bd436376ada34c7665f",

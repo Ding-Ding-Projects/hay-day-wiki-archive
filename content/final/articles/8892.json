@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -348,11 +356,12 @@
   "revisionId": 107219,
   "revisionTimestamp": "2025-02-09T18:30:51Z",
   "route": "/wiki/sushi-bar-8892",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sushi_Bar",
   "title": "Sushi Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sushi Bar.png|200px|left|Sushi Bar]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 56\n |price = 150,000\n |time = 1 d 20 h\n |slots = 2\n |dia = 61\n |size = 2×2\n}}\nThe '''Sushi Bar''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 56.\n\nIt is used to make [[Big Sushi Roll|big sushi rolls]], [[Sushi Roll|sushi rolls]], [[Lobster Sushi|lobster sushi]], [[Egg Sushi|egg sushi]], and [[Rice Ball|rice balls]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 150,000 {{Infoicon|coin}} and takes 1 day and 20 hours (or 61 {{Infoicon|dia}}) to build the Sushi Bar. It gives players 38 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Sushi Roll|56|1h|489\n|Lobster Sushi|59|1h|637\n|Egg Sushi|63|2h|550\n|Big Sushi Roll|76|1:30|648\n|Rice Ball|110|45m|464\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Sushi Bar originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Sushi Bar:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Sushi Bar Mastered.png|150px|Mastered Sushi Bar]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Sushi Bar Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*All sushi require 15 units of [[rice]] and one bottle of [[Soy Sauce|soy sauce]] (which requires [[soybean]]s), except the Big Sushi Roll and the Rice Ball which require 20 units of rice, and no soy sauce. [[Rice]] can occasionally be found in the [[Daily Dirt]] but soy sauce is hard to come by.\n*[[Big Sushi Roll|Big sushi rolls]] are the best type of sushi to make to master the sushi bar. They're not unlocked as late as [[Rice Ball|rice balls]] and they don't take any soy sauce. They only take field crops, eggs and fish fillets.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Sushibar\n|es = Puesto de sushi\n|fr = Bar à Sushis\n|it = Sushi bar\n|no = Sushibar\n|zh = Sushi Bar\n}}\n[[pt-br:Balcão de sushi]]\n[[ru:Суши-бар]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "f847ed34ff8fc5257999e486ac6b81a686eaec828e323565c521e2db21f96f85"
 }

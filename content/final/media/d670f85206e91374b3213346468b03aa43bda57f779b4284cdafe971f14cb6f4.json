@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Farming.png",
+  "filePageId": 28581,
+  "filePageRevisionId": 73868,
+  "filePageRevisionSha1": "57b6fd7bb5aa2ca2e827c6801b7c5944bacbc624",
+  "filePageRevisionTimestamp": "2017-10-21T18:21:59Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "abd7f6f06044d3d4b91c6b37329ae7454346464d5daf91137584d344b6634ab9",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Farming.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:21:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Farming.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 71999,
   "sourceSha1": "9456f64f0bc13d35f265c78cbdbff1a2d1eb0a73",

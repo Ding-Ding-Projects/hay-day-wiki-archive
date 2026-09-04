@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 106001,
   "revisionTimestamp": "2024-10-21T18:12:02Z",
   "route": "/wiki/category%2Fcategory-halloween-treats-maker-products-36166",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Halloween_Treats_Maker_Products",
   "title": "Category:Halloween Treats Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Halloween Treats Maker.png|thumb]]\nProducts of the [[Halloween Treats Maker]].\n[[Category:Products]]",
   "wikitextHash": "19c2d0b9c426c8d9cba87bd049a10dd8f678ffb1b71a99f23f4a255e85f7428c"
 }

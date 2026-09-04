@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Personal_Train.png",
+  "filePageId": 13481,
+  "filePageRevisionId": 88780,
+  "filePageRevisionSha1": "a77ed811b1ebcf0fc91036327a42e0e86d3cb24f",
+  "filePageRevisionTimestamp": "2019-10-25T12:41:35Z",
+  "filePageWikitext": "Picture of a repaired personal train.\n{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "474754f60b11974b08b6a76d3e11b64c6f3b0be7eb8a94a11f10b2ff1828eeba",
   "height": 974,
   "immutableUrl": null,
   "mediaId": "File:Personal Train.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T18:07:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APersonal%20Train.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 612860,
   "sourceSha1": "545e2b80961dcf88f84ad9e02f5ee67a445efd37",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_79.jpg",
+  "filePageId": 33822,
+  "filePageRevisionId": 98153,
+  "filePageRevisionSha1": "034be547cd754dd73ac5b6048d9a5933ad52542c",
+  "filePageRevisionTimestamp": "2021-07-15T21:27:57Z",
+  "filePageWikitext": "== Summary ==\nLevel 79 banner from 2020 Update\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "9265e67b7602d8852bcc07b0fcbc200ca8ff47b373f6a4c1d319da054b23f704",
   "height": 1218,
   "immutableUrl": null,
   "mediaId": "File:Level 79.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-05-23T13:22:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2079.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 433673,
   "sourceSha1": "52d843b8900e132686889607b4f5e5d71f7251a2",

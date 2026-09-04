@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level123.jpg",
+  "filePageId": 31867,
+  "filePageRevisionId": 100030,
+  "filePageRevisionSha1": "3f73f787391be2f149e8d400f44a8ee6a3421092",
+  "filePageRevisionTimestamp": "2022-01-09T22:07:19Z",
+  "filePageWikitext": "\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "de271e3b6be32ac17e530ee1b1b7c4cf661aba81e62922838a602ec8ce889801",
+  "height": 134,
+  "immutableUrl": null,
+  "mediaId": "File:Level123.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-11T15:35:29Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel123.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 19774,
+  "sourceSha1": "85f41f3e92d64176f27b49edd5689452a86fe386",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7a/Level123.jpg/revision/latest?cb=20191011153529",
+  "title": "File:Level123.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 505
+}

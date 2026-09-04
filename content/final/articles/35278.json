@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Espresso Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Vanilla Ice Cream Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Espresso Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Vanilla Ice Cream Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -173,11 +185,12 @@
   "revisionId": 109797,
   "revisionTimestamp": "2026-05-04T20:51:08Z",
   "route": "/wiki/affogato-35278",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Affogato",
   "title": "Affogato",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Affogato.png|left|200px|Affogato|link=Special:FilePath/Affogato.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 78\n |price = 1 to 435\n |time = 20 min\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 56\n |base = 121\n |dia = 2\n |time3 = 17 min\n}}\n'''Affogato''' is a [[Products|product]] unlocked at [[experience]] level 78.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Affogato'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nAffogato is made in the [[Ice Cream Maker]].\n\nTo make affogato, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Vanilla Ice Cream.png|75px|link=Vanilla Ice Cream|Vanilla ice cream]]\n|[[File:Espresso.png|75px|link=Espresso|Espresso]]\n|-\n|'''x1'''\n|'''x1'''\n|}\n\nIt takes 20 minutes to make one, or 17 minutes in a fully [[Masteries|mastered]] machine. Each product gives players 56 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Affogato'''===\n[[File:Roadside Shop.png|left|150px|Roadside shop]]\n* Affogato can be bought or sold for a maximum price of 4,356 {{Infoicon|coin}} for 10 dishes.\n* Buying the ingredients required to make affogato costs 420 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 affogato per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Affogato is an extremely sought-after item. You rarely find it in the [[Daily Dirt]]. You may want to make sure you always have some in stock or in production.\n* Espresso is made quickly but vanilla ice cream isn't. You can keep extra vanilla ice cream to be able to make extra affogato easily. Both products require white sugar, make sure your sugar mills keep making it.\n\n{{Clr}}\n\n=== '''Did You Know''' ===\n* Affogato is the only product in the Ice Cream Maker that requires a product ([[Vanilla Ice Cream]]) used in the same machine?\n* It originally took 3 hours to produce and could be sold for a maximum of 468 coins?  This was adjusted on 2 Dec 2021.\n----\n\n{{Navigation}}\n{{Languages\n|de = Affogato\n|es = Affogato\n|fr = Affogato\n|it = Affogato\n|nl = Affogato\n|no = Affogato\n|ru = Аффогато\n|zh = Affogato\n}}\n[[pt-br:Affogato]]\n\n[[Category:Ice Cream Maker Products]]\n[[Category:Vanilla Ice Cream Products]]\n[[Category:Espresso Products]]",
   "wikitextHash": "0c6e50bf501e0a58a7cd008ce0f43f61d29125c04ff06cf7680def0f44190ac9"
 }

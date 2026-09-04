@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Clay Products",
+    "Category:Indigo Products",
+    "Category:Peony Products",
+    "Category:Pottery Studio Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Clay Products",
+      "Category:Indigo Products",
+      "Category:Peony Products",
+      "Category:Pottery Studio Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +129,12 @@
   "revisionId": 110218,
   "revisionTimestamp": "2026-05-24T18:27:36Z",
   "route": "/wiki/clay-mug-35281",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Clay_Mug",
   "title": "Clay Mug",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Clay Mug.png|200px|left|Clay Mug|link=Special:FilePath/Clay Mug.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 99\n |price = 1 to 212\n |time = 3 h 20 m\n |source = {{Infoicon|potteryst|bigger|link=Pottery Studio}}\n |xp = 25\n |base = 59\n |dia = 1\n |time3 = 2 h 50 m\n}}\n'''Clay Mug''' is a [[products|product]] unlocked at [[experience]] level 99.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Clay Mugs'''===\n[[File:Pottery Studio.png|150px|left|Pottery Studio|link=Special:FilePath/Pottery_Studio.png]]\nClay Mugs are made in the [[Pottery Studio]].\n\nTo make a Clay Mug, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Clay.png|75px|Clay|link=Clay]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|[[File:Peony.png|75px|Peony|link=Peony]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 3 hours 20 minutes to make one Mug, and 2 hours 50 minutes in a fully [[Masteries|mastered]] studio. Each mug gives players 25 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Mugs'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Clay mugs can be bought or sold for a maximum price of 2,124 {{Infoicon|Coin}} for 10 mugs.\n* Buying the ingredients required to make a mug costs 140 {{Infoicon|Coin}}.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 mugs per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Tontasse\n|es = Taza de arcilla\n|fr = Mug en Céramique\n|it = Tazza di creta\n|nl = Mok Van Klei\n|no = Leirkrukke\n|ru = Глиняная кружка\n|zh = Clay Mug\n}}\n[[pt-br:Caneca de argila]]\n\n[[Category:Pottery Studio Products]]\n[[Category:Clay Products]]\n[[Category:Indigo Products]]\n[[Category:Peony Products]]",
   "wikitextHash": "6ace37a97c558feb1ae24f475c8f144b47eff48b5080b3ce49f89e2e49a00ffd"
 }

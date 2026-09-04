@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Fall_Update_2021_-_Lions_and_Lion_Cubs!_%F0%9F%A6%81?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 97129,
   "revisionTimestamp": "2021-03-17T17:46:12Z",
   "route": "/wiki/hay-day-fall-update-2021-lions-and-lion-cubs-34799",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Fall_Update_2021_-_Lions_and_Lion_Cubs!_%F0%9F%A6%81",
   "title": "Hay Day Fall Update 2021 - Lions and Lion Cubs! 🦁",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Delete}}",
   "wikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d"
 }

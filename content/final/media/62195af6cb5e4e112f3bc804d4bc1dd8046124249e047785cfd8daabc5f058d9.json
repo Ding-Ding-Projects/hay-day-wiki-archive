@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:EggplantsPerBoatCrate.png",
+  "filePageId": 32189,
+  "filePageRevisionId": 89949,
+  "filePageRevisionSha1": "2a81303f31c200eaa699a023de2aa1cd0faa7598",
+  "filePageRevisionTimestamp": "2019-12-22T21:09:59Z",
+  "filePageWikitext": "\n[[Category:Image Boat]]",
+  "filePageWikitextHash": "571888c6befb75e36680146eab92e0b8fd79ced02ec1a35a64a77e8b4517615b",
+  "height": 632,
+  "immutableUrl": null,
+  "mediaId": "File:EggplantsPerBoatCrate.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-11-30T20:23:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AEggplantsPerBoatCrate.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 559993,
+  "sourceSha1": "8047b35de88efab63dd57b419b53a3ef8eb57995",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/19/EggplantsPerBoatCrate.png/revision/latest?cb=20191130202358",
+  "title": "File:EggplantsPerBoatCrate.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 957
+}

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hawaii5.jpg",
+  "filePageId": 17733,
+  "filePageRevisionId": 40722,
+  "filePageRevisionSha1": "b2ea23224c4a25dbf99929c46538aeeb8aa1d7f6",
+  "filePageRevisionTimestamp": "2015-01-12T16:29:27Z",
+  "filePageWikitext": "[[Category:Image User]]",
+  "filePageWikitextHash": "6f9adc204b7d7931ba69cdb6f07f622358498d9b24279c9afae3ef9210d36371",
+  "height": 194,
+  "immutableUrl": null,
+  "mediaId": "File:Hawaii5.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-01-11T05:34:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHawaii5.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 11824,
+  "sourceSha1": "77f9729a7e0c02a3a78f13a2f090411943134f5a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b6/Hawaii5.jpg/revision/latest?cb=20150111053434",
+  "title": "File:Hawaii5.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 259
+}

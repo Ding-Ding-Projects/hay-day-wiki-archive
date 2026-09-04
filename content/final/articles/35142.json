@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98643,
   "revisionTimestamp": "2021-09-06T22:43:23Z",
   "route": "/wiki/category%2Fcategory-platinum-ore-products-35142",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Ore_Products",
   "title": "Category:Platinum Ore Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Platinum Ore.png|thumb]]\nProducts of [[Platinum Ore]].\n[[Category:Products]]",
   "wikitextHash": "41cbee93fbefabec8800370e7d014eef88707e913a78987cfe7fa3cf9c72f526"
 }

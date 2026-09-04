@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 94394,
   "revisionTimestamp": "2020-06-29T11:07:24Z",
   "route": "/wiki/peanut-butter-jelly-sandwich-33963",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_%26_Jelly_Sandwich",
   "title": "Peanut Butter & Jelly Sandwich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Peanut Butter and Jelly Sandwich]]",
   "wikitextHash": "2ae4fce4dd7aa785d80159bf5b8346a55cd31eba0518d49f64f9ed3c6f46def2"
 }

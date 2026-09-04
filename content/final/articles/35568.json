@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Coconut Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Coconut Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -160,11 +172,12 @@
   "revisionId": 109795,
   "revisionTimestamp": "2026-05-04T20:02:00Z",
   "route": "/wiki/coconut-ice-cream-35568",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coconut_Ice_Cream",
   "title": "Coconut Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coconut Ice Cream.png|200px|left|Coconut ice cream]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 102\n |price = 1 to 320\n |time = 15 min\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 38\n |base = 89\n |dia = 2\n |time3 = 12 min\n}}\n'''Coconut ice cream''' is a [[Products|product]] unlocked at [[experience]] level 102.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Coconut ice cream'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nCoconut ice cream is made in the [[Ice Cream Maker]].\n\nTo make Coconut ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coconut.png|75px|Coconut|link=Coconut]]\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|-\n|'''x2'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one serving, and 12 minutes in a fully [[Masteries|mastered]] maker. Each serving gives players 38 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Coconut ice cream'''===\n[[File:Roadside Shop.png|left|150px|Roadside shop]]\n* Coconut ice cream can be bought or sold for a maximum price of 3,204 {{Infoicon|coin}} for 10 servings.\n* Buying the ingredients required to make Coconut ice cream costs 306 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Coconut  ice cream per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Kokoseis\n|es = Helado de coco\n|fr = Glace à la Noix de Coco\n|it = Gelato al cocco\n|nl = Kokosijs\n|no = Kokosis\n|ru = Кокосовое мороженое\n}}\n[[pt-br:Sorvete de coco]]\n\n[[Category:Ice Cream Maker Products]]\n[[Category:Coconut Products]]\n[[Category:Syrup Products]]",
   "wikitextHash": "1ca49700b1d01e37e1c673c5eea8d360eb1e9b114567215f5c80a4f12618d372"
 }

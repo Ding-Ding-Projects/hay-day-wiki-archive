@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Egg Products",
+    "Category:Goat Cheese Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Egg Products",
+      "Category:Goat Cheese Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +189,12 @@
   "revisionId": 105945,
   "revisionTimestamp": "2024-10-15T20:30:05Z",
   "route": "/wiki/potato-feta-cake-2700",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potato_Feta_Cake",
   "title": "Potato Feta Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potato_Feta_Cake.png|200px|left|Potato Feta Cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 38\n |price = 1 to 309\n |time = 2 h\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 37\n |base = 86\n |time3 = 1 h 42 min\n |dia = 5\n}}\n'''Potato feta cakes''' are [[products]] unlocked at [[experience]] level 38.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making potato feta cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nPotato feta cakes are made in the [[Cake Oven]].\n\nTo make a potato feta cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Goat Cheese.png|75px|Goat Cheese|link=Goat Cheese]]\n|-\n|'''x1'''\n|'''x4'''\n|'''x1'''\n|}\nIt takes 2 hours to make one cake, and 1 hours 42 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 37 [[experience]] points.\n\n{{Clr}}----\n==='''Selling potato feta cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Potato feta cakes can be bought or sold for a maximum price of 3,096 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 270 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 potato feta cakes per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Feta-Kartoffel-Törtchen\n|es = Pastelitos de patata\n|fr = Galettes Patate Feta\n|it = Sformato con feta\n|nl = Aardappeltaartje\n|no = Potet-fetakake\n|zh = Potato Feta Cake\n}}\n[[pt-br:Bolo de batata]]\n[[ru:Картофельный пирог с фетой]]\n[[Category:Cake Oven Products|7]]\n[[Category:Egg Products]]\n[[Category:Goat Cheese Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "34415784f4fadc3fb07aa799e3421ba24c345e18c44aa698a69c696144da249b"
 }

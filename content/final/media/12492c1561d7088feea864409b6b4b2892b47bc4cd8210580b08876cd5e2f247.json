@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Nature.png",
+  "filePageId": 14429,
+  "filePageRevisionId": 73870,
+  "filePageRevisionSha1": "2c9cdf3910b83df299bfc890b2678bfd48e7e93e",
+  "filePageRevisionTimestamp": "2017-10-21T18:23:59Z",
+  "filePageWikitext": "Picture of the Plants tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "261f60123243998536f363f409b426a13572a6e61ca73caaea215c4c532516eb",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Nature.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:23:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Nature.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76709,
   "sourceSha1": "3eae3446ff08e7e03347bcf77fbb798bf367a529",

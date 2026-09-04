@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Catalogue?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 32460,
   "revisionTimestamp": "2014-08-08T14:37:46Z",
   "route": "/wiki/category%2Fcategory-image-catalogue-15101",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Catalogue",
   "title": "Category:Image Catalogue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to the [[Catalogue]].\n[[Category:Images]]",
   "wikitextHash": "5eb5135dd2c328eaf80d4e8bde61bf48d7b9533130efe44c29be4a92850bb0a7"
 }

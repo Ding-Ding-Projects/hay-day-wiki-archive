@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:BBQ Grill Products",
+    "Category:Bread Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:BBQ Grill Products",
+      "Category:Bread Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +192,12 @@
   "revisionId": 105748,
   "revisionTimestamp": "2024-09-01T20:07:28Z",
   "route": "/wiki/hamburger-2277",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hamburger",
   "title": "Hamburger",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Гамбургер]]{{PageDisplay}}\n[[File:Hamburger.png|200px|left|Hamburger]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 18\n |price = 1 to 180\n |time = 2 h\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 22\n |base = 50\n |dia = 5\n |time3 = 1 h 42 m\n}}\n'''Hamburgers''' are [[products|product]] unlocked at [[experience]] level 18.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making hamburger'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nHamburgers are made in the [[BBQ Grill]].\n\nTo make the hamburger, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 2 h to make one hamburger, and 1 h 42 minutes in a fully [[Masteries|mastered]] grill. Each hamburger gives players 22 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling hamburger'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Hamburger can be bought or sold for a maximum price of 1,800 {{Infoicon|Coin}} for 10 hamburgers.\n* Buying the ingredients required to make the hamburger costs 143 {{Infoicon|Coin}} coins.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 hamburgers per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Hamburger\n|es = Hamburguesa\n|fr = Hamburger\n|it = Hamburger\n|nl = Hamburger\n|no = Hamburger\n|vi = Hamburger\n|zh = 汉堡包\n}}\n[[pt-br:Hambúrguer]]\n[[ru:Гамбургер]]\n[[Category:BBQ Grill Products|3]]\n[[Category:Bread Products]]\n[[Category:Bacon Products]]",
   "wikitextHash": "f4e0d79ebafde688c7524642ee5dfec03d555c290f28b66f58e268cb14a480c8"
 }

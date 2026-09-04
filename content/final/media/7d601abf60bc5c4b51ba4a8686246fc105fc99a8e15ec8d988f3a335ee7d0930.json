@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yellow_Flower.png",
+  "filePageId": 36865,
+  "filePageRevisionId": 110637,
+  "filePageRevisionSha1": "6d8d27912f7e2ee91461e18c39f06c3b3eea5103",
+  "filePageRevisionTimestamp": "2026-06-22T20:21:42Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "96b6a8fd9143d2ffe5685e205443f3386b42a057315f7268ffac1c2f81efa7ae",
   "height": 95,
   "immutableUrl": null,
   "mediaId": "File:Yellow Flower.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 5,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-06-22T20:21:28Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYellow%20Flower.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 13564,
   "sourceSha1": "d31348a5c32a0ee50c61e5347ea54e69cc6f1eef",

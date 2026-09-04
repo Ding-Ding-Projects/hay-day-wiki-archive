@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +170,12 @@
   "revisionId": 97770,
   "revisionTimestamp": "2021-06-17T01:21:23Z",
   "route": "/wiki/expansion-23339",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Expansion",
   "title": "Expansion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Plot Locked.png|left|250px]]\nPlayers can '''expand''' their land on the [[farm]] and in the [[town]] using several types of supplies. They can also unlock more fishing spots in the [[Fishing Lake|fishing lake]].\n\nExpansion in the farm is available from [[experience]] level 22 and up. Expansion in the fishing area is unlocked when players repair their fishing boat. Expansion in the town is available from [[reputation]] level 3.\n\n{{Clr}}----\n\n==='''Expansion supplies'''===\n{{Main|Supplies}}\nThere are five types of expansion supplies:\n{| class=\"expansion-table\" cellpadding=\"5\" cellspacing=\"1\" \n|-\n![[File:Land Deed.png|100px]]\n![[File:Mallet.png|100px]]\n![[File:Map Piece.png|100px]]\n![[File:Marker Stake.png|100px]]\n![[File:Expansion Permit.png|100px]]\n|-\n!'''[[Land Deed|Land deed]]'''\n!'''[[Mallet]]'''\n!'''[[Map Piece|Map piece]]'''\n!'''[[Marker Stake|Marker stake]]'''\n!'''[[Expansion Permit|Expansion permit]]'''\n|-\n|403 {{Infoicon|coin}}\n|403 {{Infoicon|coin}}\n|450 {{Infoicon|coin}}\n|403 {{Infoicon|coin}}\n|N/A\n|-\n|12 {{Infoicon|dia}}\n|12 {{Infoicon|dia}}\n|14 {{Infoicon|dia}}\n|12 {{Infoicon|dia}}\n|N/A\n|}\n\n[[Land Deed|Land deeds]], [[mallet]]s and [[Marker Stake|marker stakes]] are required to expand all locations but [[Map Piece|map pieces]] are only used in the [[town]].\n\nAs with all other supplies, they can be found in [[Mystery Box|mystery boxes]], in the [[Daily Dirt]], in [[Roadside Shop|roadside shops]], by [[Crops|harvesting goods]], [[Products|producing items]], town visitors, feeding [[:Category:Pets|pets]], etc.\n\n[[Expansion Permit|Expansion permits]] are required to expand a special section in the farm. They cannot be bought or sold, but can only be won on the [[Wheel of Fortune]], as [[Derby]] rewards, purchased through the valley shop, and earned as rewards for reaching an [[experience]] level threshold.\n----\n==='''Expanding'''===\n\n[[Expansion/Farm|Farm]], \n[[Expansion/Fishing Lake|Fishing Lake]], \n[[Expansion/Town|Town]]\n\n----\n==='''Expansion packs'''===\n[[File:Town Expansion Pack.png|left|200px|An expansion pack]]\nExpansion packs are one-time limited offers for a bundle of expansion items, [[diamond]]s and [[coin]]s. The packs offer the same amount of each of expansion items but this amount can vary. The offer lasts for 24 hours.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* All types of supplies are extremely sought-after items. While you can occasionally find them in the [[Daily Dirt]], you have to be very quick to buy them before another player does. Make sure to open the newspaper as soon as it changes then browse it as quickly as possible. Playing at less crowded time also increases your chances.\n* As supplies sell extremely quickly, they may not be advertised in the Daily Dirt. Some players prefer advertising more common items to maximize their presence in the paper. You may find supplies by luck if you check ads which appear 'uninteresting'.\n* You usually miss one type of item more than another at some point in the game. Try and do trades with friends or neighborhood members who miss a different item.\n* The official forum has a [http://forum.supercell.net/forumdisplay.php/26-General trading thread] you can use to find missing items. Read the rules before you post!\n----\n\n{{Languages\n|es = Ampliación\n}}\n[[Category:Expansion]]",
   "wikitextHash": "1dde2cad3c3e257b61496318ec4e1d5f2848f8bc9a19dd5dda5760a58418f79e"
 }

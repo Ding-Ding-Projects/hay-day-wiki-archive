@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Elephant.png",
+  "filePageId": 34753,
+  "filePageRevisionId": 99361,
+  "filePageRevisionSha1": "b4ae80251c7135af266903fc5124ff415065f9fe",
+  "filePageRevisionTimestamp": "2021-11-10T21:11:26Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "90bc4a81dd12fadd116a158e12ad8e8c2ca8bad607e8b1cf212bf56cb1bb5bfa",
   "height": 424,
   "immutableUrl": null,
   "mediaId": "File:Golden Elephant.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-01-29T12:50:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGolden%20Elephant.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 426688,
   "sourceSha1": "87ce1e7016680c13146544af19b5e998e3491829",

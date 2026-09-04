@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Fish Pie Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Fish Pie Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +171,12 @@
   "revisionId": 109591,
   "revisionTimestamp": "2026-03-25T21:12:19Z",
   "route": "/wiki/chocolate-duck-36686",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Duck",
   "title": "Chocolate Duck",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Duck.png|200px|left|Chocolate Duck]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 25\n |level = 30\n |time = 10m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 67\n |dia = 3\n |time3 = 8m\n}}\n'''Chocolate Duck''' is a [[products|product]] unlocked at [[experience]] level 30. It's a special item used only for the Easter event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Duck'''===\n[[File:Easter Egg Maker 2025.png|150px|left|Easter Egg Maker 2025|link=Easter Egg Maker]]\nChocolate cows are made in the [[Easter Egg Maker]].\n\nTo make a chocolate duck, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Pie.png|75px|Fish Pie|link=Fish Pie]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\nIt takes 10 minutes to make a chocolate bee. Each chocolate cow gives players 67 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Pie.png|75px|Fish Pie|link=Fish Pie]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 chocolate duck per crate, up to a total of 6 per boat. Each chocolate cow used on a boat will be rewarded with 50 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Fish Pie Products]]\n[[Category:Tomato Products]]\n[[Category:Blackberry Products]]\n\n{{Languages\n|es = Pato de chocolate 2025\n}}",
   "wikitextHash": "154ff99d3c2970e260ba8b6707a79269b7d2fd2274fa8d79887090ee78e58735"
 }

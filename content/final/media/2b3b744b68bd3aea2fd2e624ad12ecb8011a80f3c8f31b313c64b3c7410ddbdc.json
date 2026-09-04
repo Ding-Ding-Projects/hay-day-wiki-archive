@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Bee_Flying_Down.png",
+  "filePageId": 15840,
+  "filePageRevisionId": 103467,
+  "filePageRevisionSha1": "cd3295f8d1e880c8508993d97e8986a7d890138b",
+  "filePageRevisionTimestamp": "2023-07-20T20:49:32Z",
+  "filePageWikitext": "{{License SC}}\nPicture of a honey bee collecting nectar.\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "2ed5b17bd5800d2ae8bc73429fbcafd40e4df1e4087bb1b1db9fcd25e157ddac",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Honey Bee Flying Down.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T20:45:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney%20Bee%20Flying%20Down.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 176710,
   "sourceSha1": "71e1cc2191f08809fbc86f1867186b93bfb1779f",

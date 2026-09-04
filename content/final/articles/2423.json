@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bush Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bush Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -254,11 +262,12 @@
   "revisionId": 107143,
   "revisionTimestamp": "2025-02-05T14:39:11Z",
   "route": "/wiki/coffee-bean-2423",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coffee_Bean",
   "title": "Coffee Bean",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coffee Bean.png|200px|left|Coffee bean]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 42\n |price = 1 to 64\n |time = 1 d 1 h\n |xp = 12\n |source = {{Infoicon|coffeeb|bigger|link=Coffee Bush}}\n |base = 18\n |dia = 16\n}}\n'''Coffee beans''' are fruit [[crops]] unlocked at [[experience]] level 42. They grow on [[Coffee Bush|coffee bushes]] and can be harvested four times.\n\nThey are used to make drinks in the [[Coffee Kiosk]] and [[Exfoliating Soap]].\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n==='''Harvesting coffee beans'''===\n[[File:Coffee Bush.png|150px|left|link=Coffee Bush|Coffee bush]]\nThe first harvest gives two coffee beans, the second one three, and the other two four. After the third harvest the bush wilts.\n\nTapping on the bush places a sign on it letting other players know the bush needs to be revived. Once it is, a last harvest can be done before the bush dies. An [[axe]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling coffee beans'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Coffee beans can be sold or bought for a maximum price of 648 {{Infoicon|coin}} for 10 fruit.\n* Buying a coffee bush costs 375 {{Infoicon|coin}}.\n* Given all 13 coffee beans are collected during the four harvests, the batch can be sold for 842 {{Infoicon|coin}}, thus giving a profit of 467 {{Infoicon|coin}} per bush.\n{{Clr}}\n----\n==='''Using coffee beans'''===\nCoffee beans are used to make the following [[products]]:\n{{Item Usage|Coffee Bean\n|Espresso|3|42\n|Caffè Latte|2|43\n|Caffè Mocha|1|45\n|Raspberry Mocha|1|46\n|Caramel Latte|2|62\n|Iced Banana Latte|2|88\n|Exfoliating Soap|2|93\n|Tea Pot|1|94\n}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 8 coffee beans per crate, up to a total of 28 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Each bush gives a maximum of 13 coffee beans in at least 4d4h. \n* Coffee beans are so rare that selling them at maximum price is recommended.\n* Recipes ask for one to three beans so you need to have several extra bushes to cover your needs. Extras can also be useful if you have [[boat]]s with coffee bean crates. However, make sure you have enough [[axe]]s when you harvest some if you don't want to have dead bushes on your farm.\n* Tight ranks of bushes attract [[Animals|foxes]]. If it's an issue space them out a bit.\n* Saving revivable bushes and trees is an easy way to achieve help tasks during [[Derby|derbies]]. [[Neighborhood|Neighbors]] and [[friends]] can help by waiting until you have started your task to flag their dead plants.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kaffeebohne\n|es = Granos de café\n|fr = Grain de Café\n|it = Chicchi Di Caffè\n|no = Kaffebønne\n|vi = Coffee Beans\n|zh = Coffee Bean\n}}\n[[pt-br:Grão de café]]\n[[ru:Кофейные зёрна]]\n[[Category:Bush Crops]]",
   "wikitextHash": "46f42b06cdc92392933b7eba1c540b735a2234c8919d69413bed37d11143631d"
 }

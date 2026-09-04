@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grapes_Stage_2.png",
+  "filePageId": 26475,
+  "filePageRevisionId": 77181,
+  "filePageRevisionSha1": "c8178a429973f56f4d654406f8d5d7717eefcc73",
+  "filePageRevisionTimestamp": "2018-02-07T16:05:15Z",
+  "filePageWikitext": "Grapes Stage 2\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "e31477de5e284945e802b60eedf451bbca76178c32e82a79ff91cf2098ad08d8",
   "height": 148,
   "immutableUrl": null,
   "mediaId": "File:Grapes Stage 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T16:05:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrapes%20Stage%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 31953,
   "sourceSha1": "edf7980f19d09d5a3aedb3985f580bd47ada274d",

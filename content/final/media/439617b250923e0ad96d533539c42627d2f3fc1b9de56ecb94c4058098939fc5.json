@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Brown_Walrus.png",
+  "filePageId": 35571,
+  "filePageRevisionId": 101591,
+  "filePageRevisionSha1": "79c48a3e58fbb569d8c9637fa46f784d7c20f71c",
+  "filePageRevisionTimestamp": "2022-10-03T21:48:20Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6a260ec6d6cd3aabf727c1e825f0a552b9edcafbbfd4d848c3c23e8a3dd97019",
   "height": 570,
   "immutableUrl": null,
   "mediaId": "File:Brown Walrus.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-03T21:47:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABrown%20Walrus.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 141566,
   "sourceSha1": "74c29b669892854a3180aa075d7bc842c39107f3",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wisteria_Tree.png",
+  "filePageId": 25866,
+  "filePageRevisionId": 84095,
+  "filePageRevisionSha1": "abe55fab970b880d9cad25dcc647820463a2501d",
+  "filePageRevisionTimestamp": "2018-12-11T07:14:29Z",
+  "filePageWikitext": "Wisteria Tree part of the fall Deco Package 2\nFeel free to edit further...\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "0e8e8e1bfee5027cfff58a024fefd32652d6c360c83966f9c47fbf66f881d8b7",
   "height": 715,
   "immutableUrl": null,
   "mediaId": "File:Wisteria Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-11T07:14:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWisteria%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 624650,
   "sourceSha1": "b61345d580304ca27e66db6f9bf5091639bc516d",

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish Fillet Products",
+    "Category:Lettuce Products",
+    "Category:Lobster Tail Products",
+    "Category:Mayonnaise Products",
+    "Category:Salad Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish Fillet Products",
+      "Category:Lettuce Products",
+      "Category:Lobster Tail Products",
+      "Category:Mayonnaise Products",
+      "Category:Salad Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 107246,
   "revisionTimestamp": "2025-02-12T21:55:08Z",
   "route": "/wiki/seafood-salad-8948",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Seafood_Salad",
   "title": "Seafood Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Seafood_Salad.png|200px|left|Seafood salad]]\n\n{{Infobox\n|title = [[Products|Product]]\n|price = 1 to 763\n|dia = 5\n|level = 64\n|time = 2 h\n|time3= 1 h 42 min\n|base= 212\n|xp = 91\n|source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n}}\n'''Seafood salad''' is a [[products|product]] unlocked at [[experience]] level 64. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making seafood salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nSeafood salad can be made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|[[File:Fish Fillet.png|75px|link=Fish Fillet|Fish fillet]]\n|[[File:Lobster Tail.png|75px|link=Lobster Tail|Lobster tail]]\n|[[File:Mayonnaise.png|75px|link=Mayonnaise|Mayonnaise]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 2 hours to make a salad, and 1 hour 42 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 91 [[experience]] points.\n\n{{Clr}}----\n==='''Selling seafood salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Salad can be bought or sold for a maximum price of 7,632 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make the salad costs 718 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 seafood salad per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Meeresfrüchte-Salat\n|es = Cóctel de marisco\n|fr = Salade Fruits de Mer\n|it = Insalata di mare\n|nl = Zeevruchtensalade\n|no = Salat med fisk og skalldyr\n|vi = Salad hải sản\n|zh = Seafood Salad\n}}\n[[pt-br:Salada de frutos do mar]]\n[[ru:Салат из морепродуктов]]\n\n[[Category:Salad Bar Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Lobster Tail Products]]\n[[Category:Lettuce Products]]\n[[Category:Mayonnaise Products]]",
   "wikitextHash": "5dda342a20a5de608c52ea5636dcd073bd2a3c132d184bfe24b47351b4fe701a"
 }

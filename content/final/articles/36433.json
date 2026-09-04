@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Blackberry Products",
+    "Category:Chili Pepper Products",
+    "Category:Vanilla Ice Cream Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Blackberry Products",
+      "Category:Chili Pepper Products",
+      "Category:Vanilla Ice Cream Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110606,
   "revisionTimestamp": "2026-06-21T16:03:33Z",
   "route": "/wiki/flower-balloon-36433",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Flower_Balloon",
   "title": "Flower Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Flower Balloon.png|200px|left|Flower Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 30\n |musicalnote = 25\n |time = 10m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 127\n |dia = 5\n}}\n'''Flower Balloon''' is a [[products|product]] unlocked at [[experience]] level 30. It's a special item used only for the Anniversary 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Guitar Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nFlower balloons are made in the [[Birthday Balloon Maker]].\n\nTo make a flower balloon in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Vanilla Ice Cream.png |75px|Vanilla Ice Cream|link=Vanilla Ice Cream]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|[[File:Chili Pepper.png|75px|Chili Pepper|link=Chili Pepper]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 127 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 4 per boat. Each balloon used on a boat will be rewarded with 25 [[Musical Note]]s, 28 musical note in a 1-star and mastered maker, 35 musical note in a 2-star and 50 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Vanilla Ice Cream Products]]\n[[Category:Blackberry Products]]\n[[Category:Chili Pepper Products]]\n\n{{Languages\n|de = Blumenballon \n|es = Globo floral\n}}",
   "wikitextHash": "09e6488956793fe2005644f5740fa3d80984ddcc638f8a040721dd4d49e4bf60"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -236,11 +244,12 @@
   "revisionId": 108307,
   "revisionTimestamp": "2025-08-17T11:06:36Z",
   "route": "/wiki/cherry-2245",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cherry",
   "title": "Cherry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cherry.png|200px|left|Cherry]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 22\n |price = 1 to 68\n |time = 1 d 4 h\n |xp = 13\n |source = {{Infoicon|cherryt|bigger|link=Cherry Tree}}\n |base = 19\n |dia = 13\n}}\n'''Cherries''' are fruit [[crops]] unlocked at [[experience]] level 22. They grow on [[Cherry Tree|cherry trees]] and can be harvested four times.\n\nThey are used as ingredients in several food [[products]].\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n==='''Harvesting cherries'''===\n[[File:Cherry Tree.png|150px|left|link=Cherry Tree|Cherry tree]]\nThe first harvest gives two cherries, the second one three, and the other two four. After the third harvest the tree wilts.\n\nTapping on the tree places a sign on it letting other players know the tree needs to be revived. Once it is, a last harvest can be done before the tree dies. A [[saw]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling cherries'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Cherries can be sold or bought for a maximum price of 684 {{Infoicon|coin}} for 10 fruit.\n* Buying a cherry tree costs 410 {{Infoicon|coin}}.\n* Given all 13 cherries are collected during the four harvests, the batch can be sold for 889 {{Infoicon|coin}}, thus giving a profit of 479 {{Infoicon|coin}} per tree.\n{{Clr}}\n----\n==='''Using cherries'''===\nCherries are used to make the following [[products]]:\n{{Item Usage|Cherry\n|Red Berry Cake|2|23\n|Cherry Juice|2|30\n|Cherry Jam|3|38\n|Lollipop|1|57\n|Pineapple Cake|2|65\n|Yogurt Smoothie|1|70\n|Fruit Cake|2|89\n|Banana Split|3|96\n}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 8 cherries per crate, up to a total of 28 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Each tree gives a maximum of 13 cherries in about 14 days minimum.\n* They are rare enough that selling them at a lower price is not recommended.\n* Cherries are very hard to find in the [[Daily Dirt]] so selling them at maximum price is recommended.\n* Recipes ask for one to three cherries so you need to have several extra trees to cover your needs. Extras can also be useful if you have boats with cherry crates.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kirsche\n|es = Cereza\n|fr = Cerise\n|it = Ciliegia\n|nl = Kersen\n|no = Kirsebær\n|vi = Cherry\n|zh = Cherry\n}}\n[[pt-br:Cereja]]\n[[ru:Вишни]]\n[[Category:Tree Crops]]",
   "wikitextHash": "d176b231390fb7cdb8deb231a0d861a849b9e725690dad860d2a9d0a56849d41"
 }

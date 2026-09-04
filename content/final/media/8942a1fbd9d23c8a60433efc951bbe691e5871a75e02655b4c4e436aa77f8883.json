@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Screw.png",
+  "filePageId": 2635,
+  "filePageRevisionId": 89196,
+  "filePageRevisionSha1": "180abfb79091d5ab96208023856b732c45b9238e",
+  "filePageRevisionTimestamp": "2019-10-28T13:09:37Z",
+  "filePageWikitext": "Picture of a screw.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "262ff9261fdb6c7939e05f2fd9293b5d6f163121b77a2fea417dda70c6119fe2",
   "height": 99,
   "immutableUrl": null,
   "mediaId": "File:Screw.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:09:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AScrew.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 14618,
   "sourceSha1": "1af15d52393a2c2c845986482401ce0b81569fb9",

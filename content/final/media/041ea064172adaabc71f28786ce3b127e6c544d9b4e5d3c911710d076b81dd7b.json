@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ms_Snow.png",
+  "filePageId": 17490,
+  "filePageRevisionId": 77289,
+  "filePageRevisionSha1": "9f79ecba178cb93f1b78a2b596e5def6394f84e0",
+  "filePageRevisionTimestamp": "2018-02-07T18:00:57Z",
+  "filePageWikitext": "Picture of Ms. Snow deco.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "10b0602e524e61cd3967ae2c1bcf74d7530d8a759210bfe2c39e9a1df352e7aa",
   "height": 1000,
   "immutableUrl": null,
   "mediaId": "File:Ms Snow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:00:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMs%20Snow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 465724,
   "sourceSha1": "d0ce8f61bd5e5144a09359cb675d6cc14c0591fd",

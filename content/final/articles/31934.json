@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Fish Fillet Products",
+    "Category:Ginger Products",
+    "Category:Mushroom Products",
+    "Category:Sesame Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Fish Fillet Products",
+      "Category:Ginger Products",
+      "Category:Mushroom Products",
+      "Category:Sesame Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -190,11 +206,12 @@
   "revisionId": 109818,
   "revisionTimestamp": "2026-05-07T21:24:12Z",
   "route": "/wiki/fish-skewer-31934",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Skewer",
   "title": "Fish Skewer",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Fish Skewer.png|200px|left|Fish skewer]]\n\n{{Infobox\n |level = 96|price = 1 to 176|time = 30 min|xp = 21|source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}|base = 49|dia = 3|time3 = 25 min|title = [[Products|Product]]}}\n'''Fish skewers''' are [[products]] unlocked at [[experience]] level 96.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Making fish skewers'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nFish skewers are made in the [[BBQ Grill]].\n\nTo make the skewer, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|Fish Fillet|link=Fish Fillet]]\n|[[File:Mushroom.png|75px|Mushrooms|link=Mushroom]]\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 30 minutes to make one skewer, and 25 minutes in a fully [[Masteries|mastered]] grill. Each skewer gives players 21 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fish skewers'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Fish skewers can be bought or sold for a maximum price of 1764 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make a fish skewer cost a total of 148 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 8 fish skewers per crate, up to a total of 32 per boat.\n\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Fischspieß\n|es = Brocheta de pescado\n|fr = Brochette de Poisson\n|it = Spiedino di pesce\n|nl = Visspies\n|no = Grillspyd med fisk\n|ru = Рыба на шпажках\n|zh = Fish Skewer\n}}\n[[pt-br:Espetinho de peixe]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Sesame Products]]\n[[Category:Mushroom Products]]\n[[Category:Ginger Products]]",
   "wikitextHash": "1521108ff0e5d72496e68206e6c1308014e39e6bb193eda374a48bdc6e177445"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pages with broken file links",
+    "Category:Puppies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pages with broken file links",
+      "Category:Puppies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -371,6 +381,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -399,6 +410,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -413,11 +425,12 @@
   "revisionId": 110875,
   "revisionTimestamp": "2026-08-10T15:40:42Z",
   "route": "/wiki/malamute-puppy-36623",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Malamute_Puppy",
   "title": "Malamute Puppy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n[[File:Malamute Puppy.png|200px|left|Malamute puppy]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 50 • ??\n |needs = Any one: {{Infoicon|bacon|big|link=Bacon}}{{Infoicon|lambchop|big|link=Lamb Chop}}\n |time = every 6 h\n |cost= {{Infoicon|goldv|link=Voucher}}5 {{Infoicon|purplev|link=Voucher}}15 {{Infoicon|bluev|link=Voucher}}15 {{Infoicon|greenv|link=Voucher}}25\n |xp = 60\n |dia = 220\n}}\n'''Malamute puppies''' are pet [[animals]]. They are unlocked at [[experience]] level 50 and ?? for the second.\n\nThey give players [[experience]] points in exchange for [[bacon]] or [[Lamb Chop|lamb chops]].\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Malamute Puppy Walking}}{{BigIcon|Malamute Puppy Sitting}}\n----\n==='''Buying'''===\n[[File:Dog House.png|150px|left|Dog house]]\nEach dog costs 5 gold, 15 purple, 15 blue, and 25 green vouchers, or ???[[diamond]]s. They must be placed near a [[Puppy House|puppy house]] to be bought. Players can have two malamute puppies.\n\nPuppies and puppy houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[bacon]] or [[Lamb Chop|lamb chops]], the puppies will eat it and then roam the [[farm]] for six hours before finally falling asleep. Players can immediately wake them up to receive 60 {{Infoicon|xp}} per animal. Puppies stay asleep otherwise.\n\nPuppies which have been woken up but are not fed for a long while cannot fall asleep. Instead they wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking puppies one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|es = Cachorro de Malamute\n|no = Malamutevalp\n}}\n\n[[Category:Puppies]]",
   "wikitextHash": "28b4d255f006fbbc6b4de47feae886f3cdf0adb5f0e785d0d6d75a78923610fa"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Lemon Curd Products",
+    "Category:Pie Oven Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Lemon Curd Products",
+      "Category:Pie Oven Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +189,12 @@
   "revisionId": 106384,
   "revisionTimestamp": "2024-11-28T20:59:21Z",
   "route": "/wiki/lemon-pie-10559",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lemon_Pie",
   "title": "Lemon Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lemon Pie.png|200px|left|Lemon pie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 67\n |price = 1 to 446\n |time = 2 h 15 m \n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 53\n |base = 124\n |time3 = 1 h 54 min\n |dia= 6\n}}\n'''Lemon pies''' are [[products]] unlocked at [[experience]] level 67.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making lemon pies'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nLemon pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon Curd.png|75px|link=Lemon Curd|Lemon curd]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours and 15 minutes to make a pie, and 1 hour and 54 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 53 [[experience]] points.\n{{Clr}}\n----\n==='''Selling lemon pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lemon pie can be bought or sold for a maximum price of 4,464 {{Infoicon|coin}} for 10 pies.\n* Buying the ingredients required to make a lemon pie costs 399 {{Infoicon|coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 lemon pies per crate, up to a total of 6 per boat.\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Zitronenkuchen\n|es = Tarta de limón\n|fr = Tarte au Citron\n|it = Crostata al limone\n|nl = Citroenvlaai\n|no = Sitronpai\n|zh = Lemon Pie\n}}\n[[pt-br:Torta de limão]]\n[[ru:Лимонный пирог]]\n[[Category:Pie Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Lemon Curd Products]]",
   "wikitextHash": "bb570cc3a7c6a226a0955608dbdae5e77a918336d69cfe79f0502649de4811a3"
 }

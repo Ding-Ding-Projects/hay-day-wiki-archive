@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sewing_Machine.png",
+  "filePageId": 17020,
+  "filePageRevisionId": 108581,
+  "filePageRevisionSha1": "fc9809f2064df332766be9cf85eef007e48d7612",
+  "filePageRevisionTimestamp": "2025-09-25T18:45:35Z",
+  "filePageWikitext": "Picture of the Sewing Machine.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "57c845ff9591dda29ccad6370711ac3fc3b7bcfd0a445b5faa22561f2e4fabda",
   "height": 516,
   "immutableUrl": null,
   "mediaId": "File:Sewing Machine.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T18:45:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASewing%20Machine.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 272478,
   "sourceSha1": "880840172b5227e913f69d173839e0bef5b339f5",

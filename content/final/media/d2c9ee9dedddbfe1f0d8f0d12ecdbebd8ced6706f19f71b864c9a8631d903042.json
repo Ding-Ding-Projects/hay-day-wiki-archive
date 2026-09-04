@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Cow_Topiary.png",
+  "filePageId": 35286,
+  "filePageRevisionId": 99554,
+  "filePageRevisionSha1": "f31cb60a3ee4a37affbb60f99b6d9d029c2c2368",
+  "filePageRevisionTimestamp": "2021-12-06T22:13:37Z",
+  "filePageWikitext": "== Summary ==\nWinter 2021 Package Deco.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3956e75e1ff5f10ae460e06610112859ec9687fb20d9a4fe0a4455ecd3607cdc",
   "height": 350,
   "immutableUrl": null,
   "mediaId": "File:Winter Cow Topiary.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-11-29T20:02:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWinter%20Cow%20Topiary.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 249421,
   "sourceSha1": "8a2816c0dc8614917107c4c627ce2a54fafeacd6",

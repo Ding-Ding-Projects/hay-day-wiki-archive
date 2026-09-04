@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Easter_Egg_Maker.png",
+  "filePageId": 35785,
+  "filePageRevisionId": 108659,
+  "filePageRevisionSha1": "6b27634cf8865371a78b3402f476c0c9f17b0c6d",
+  "filePageRevisionTimestamp": "2025-09-26T02:44:08Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "305d10cf26307a606aa7e2cd1c9b8c92285b32e665d826e27ef832f8ec80c4e8",
   "height": 908,
   "immutableUrl": null,
   "mediaId": "File:Easter Egg Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 7,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-26T02:44:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3AEaster%20Egg%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 692204,
   "sourceSha1": "649cefdbfff7e5526d258213ed72a19587f14486",

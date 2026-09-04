@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Night_at_the_Movies-other_trailer.png",
+  "filePageId": 17541,
+  "filePageRevisionId": 79594,
+  "filePageRevisionSha1": "39b7cc5fcd269855ab9c44398e2d2b92d7a84160",
+  "filePageRevisionTimestamp": "2018-04-27T16:23:03Z",
+  "filePageWikitext": "Picture of a Night at the Movies trailer.\n{{License SC}}\n[[Category:Image Daily Reward]]",
+  "filePageWikitextHash": "689e4c8f18f8a586573ab42166c9c6ff771300b1ecdd15631867896d285007c6",
   "height": 474,
   "immutableUrl": null,
   "mediaId": "File:Night at the Movies-other trailer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-30T14:21:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANight%20at%20the%20Movies-other%20trailer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 116741,
   "sourceSha1": "4eb80114624cc87cf623e765013fa2581a34e889",

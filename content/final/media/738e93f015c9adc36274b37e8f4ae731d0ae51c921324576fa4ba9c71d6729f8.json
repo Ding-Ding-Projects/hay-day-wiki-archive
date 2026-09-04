@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-_Beginners_Guide_to_XP_and_Levelling_Up!",
+  "filePageId": 9085,
+  "filePageRevisionId": 40484,
+  "filePageRevisionSha1": "e36b4957eb406730c396f413d7773a65e0d94d15",
+  "filePageRevisionTimestamp": "2015-01-07T01:17:44Z",
+  "filePageWikitext": "\n== Description ==\nThis video specifically looks a beginners guide to xp and leveling up showing various methods to get xp and grow your farm more quickly.\n[[Category:Videos]]",
+  "filePageWikitextHash": "0a475f2a01f16f10dee4ad8930b2a9ca88533f4461e38acd46c6c6abf617e864",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day- Beginners Guide to XP and Levelling Up!",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-11-24T03:58:23Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day-%20Beginners%20Guide%20to%20XP%20and%20Levelling%20Up!",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 26421,
+  "sourceSha1": "7c9447f7aba9ec436ed215e03eaf8662c6a94209",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/00/Hay_Day-_Beginners_Guide_to_XP_and_Levelling_Up%21/revision/latest?cb=20131124035823",
+  "title": "File:Hay Day- Beginners Guide to XP and Levelling Up!",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

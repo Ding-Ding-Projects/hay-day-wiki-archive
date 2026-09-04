@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Kindergarten.png",
+  "filePageId": 18960,
+  "filePageRevisionId": 65971,
+  "filePageRevisionSha1": "46f551b7655622ca28e35baa3d8e19ddbd806d88",
+  "filePageRevisionTimestamp": "2016-10-28T13:20:41Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Truck]]",
+  "filePageWikitextHash": "557c8c83bcfd7db6851818d33a4071c456b753577f8eafc55e78a5918b14f190",
   "height": 155,
   "immutableUrl": null,
   "mediaId": "File:Kindergarten.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-11T14:34:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AKindergarten.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 102455,
   "sourceSha1": "7657498de0111055a66c0f40d8cb875dcb101093",

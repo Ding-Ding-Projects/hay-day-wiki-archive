@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Animal_Shelters?action=history",
@@ -39,11 +47,12 @@
   "revisionId": 75683,
   "revisionTimestamp": "2017-11-26T17:25:41Z",
   "route": "/wiki/category%2Fcategory-animal-shelters-6565",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Animal_Shelters",
   "title": "Category:Animal Shelters",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''Animal shelters '''are buildings bought through the [[shop]] that house a limited number of [[animals]]. Animal shelters are first unlocked at various [[experience]] levels and are additionally unlocked at later levels to house more of that animal.\n[[Category:Buildings]]",
   "wikitextHash": "26123182b2c243822e748ae8e4a8140dd2b357b47ab4c9e1978ea7b891d514aa"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Green_Voucher.png",
+  "filePageId": 7394,
+  "filePageRevisionId": 74206,
+  "filePageRevisionSha1": "aaa59d3950b8235242ad606fff955fd4bb056dcf",
+  "filePageRevisionTimestamp": "2017-10-22T10:05:25Z",
+  "filePageWikitext": "==Credit==\n*Receipt by misirlou from the Noun Project.\n{{CC-BY-SA-3.0}}\n[[Category:Image Vouchers]]",
+  "filePageWikitextHash": "b623d106f04d274fe101dc0187a3eea7db2dd870a2dd849b938e0675d427b055",
   "height": 661,
   "immutableUrl": null,
   "mediaId": "File:Green Voucher.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 50,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-12T14:06:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA-3.0"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3AGreen%20Voucher.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 143156,
   "sourceSha1": "7f07c2b9ff4773f8dbb077b09d976d53a83625c9",

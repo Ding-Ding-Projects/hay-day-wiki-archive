@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion",
+    "Category:Farm Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion",
+      "Category:Farm Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Pekin_Duck?action=history",
@@ -33,11 +43,12 @@
   "revisionId": 100365,
   "revisionTimestamp": "2022-02-27T15:20:29Z",
   "route": "/wiki/pekin-duck-35353",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pekin_Duck",
   "title": "Pekin Duck",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Delete}}\n[[Category:Farm Animals]]",
   "wikitextHash": "0b5889ff76e99cea22da541c6bfd49063730e2e4779111c31f3fb57b500ded27"
 }

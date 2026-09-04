@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E7_Ruud_from_Arnhem,_Netherlands",
+  "filePageId": 30688,
+  "filePageRevisionId": 83610,
+  "filePageRevisionSha1": "4cfa1cdc9f44442b1e52bd367e0f355b5a7e6f03",
+  "filePageRevisionTimestamp": "2018-11-15T15:58:04Z",
+  "filePageWikitext": "\n== Description ==\nMeet the farmers in Hay Day from all around the world! \n\nIn this 7th episode of the series you'll get to meet Ruud, from Arnhem, Netherlands\n\nGet to see how this Hay Day YouTuber lives his day to day along his cute dog Bailey, riding his bike through the streets of Arnhem and enjoying being part of the Hay Day community.\n\nSubscribe to his YouTube Channel: https://www.youtube.com/channel/UCqwRQt4TU5__p75dsQPS4hg/\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/HayDay/\nInstagram ► https://www.instagram.com/hayday \nFacebook ► https://www.facebook.com/haydayofficial \nSupercell Shop ► https://shop.supercell.com/\n\n© Supercell Oy 2018\n[[Category:Videos]]",
+  "filePageWikitextHash": "ff64eff811463a0037cc1a30b28fc97fb8b7626ca71db6186f13d835f939ca2f",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E7 Ruud from Arnhem, Netherlands",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-11-15T15:58:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E7%20Ruud%20from%20Arnhem%2C%20Netherlands",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 22779,
+  "sourceSha1": "6f281740bce904cae5851fb5f5ef54a0febfd6ac",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/5f/Hay_Day_Meet_the_Farmer%21_E7_Ruud_from_Arnhem%2C_Netherlands/revision/latest?cb=20181115155804",
+  "title": "File:Hay Day Meet the Farmer! E7 Ruud from Arnhem, Netherlands",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

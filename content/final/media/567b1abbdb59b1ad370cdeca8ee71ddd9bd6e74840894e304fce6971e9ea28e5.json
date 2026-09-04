@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Play_For_Trees_Event.png",
+  "filePageId": 35254,
+  "filePageRevisionId": 99813,
+  "filePageRevisionSha1": "edaa202da4434f153bcc3edc45438d8102a3583f",
+  "filePageRevisionTimestamp": "2021-12-13T21:18:27Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Fairuse}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "21385e2abffc6a583bcf88189857628a4bcb6fe3e14db95f7f7adfab16e03808",
   "height": 360,
   "immutableUrl": null,
   "mediaId": "File:Play For Trees Event.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-24T12:28:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Fairuse"
+    ],
+    "verdict": "fair-use"
+  },
   "route": "/media/File%3APlay%20For%20Trees%20Event.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 135699,
   "sourceSha1": "d657d8ab073a108a6d7f5f3cf3a0d90b32f6edec",

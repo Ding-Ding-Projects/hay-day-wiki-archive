@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 103438,
   "revisionTimestamp": "2023-07-20T20:32:13Z",
   "route": "/wiki/category%2Fcategory-omelet-station-products-35865",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Omelet_Station_Products",
   "title": "Category:Omelet Station Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Omelet Station.png|thumb]]\nProducts of the [[Omelet Station]].\n[[Category:Products]]",
   "wikitextHash": "098d98d48aace0037fa49bc76118a973577c09ed643925520d168fbe5b4da7f2"
 }

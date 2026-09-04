@@ -2,7 +2,7 @@
 
 ## Per-file decision table
 
-The execution importer writes one `MediaRecordV1` for every distinct media record referenced by included content. The `rightsDecision` field must be exactly one of these values:
+The execution importer writes one `MediaRecordV2` for every distinct title in the union of referenced media, namespace-6 File pages, and paginated allimages records. The `verdict` field remains a terminal handling decision, while `rightsEvidence.verdict` records only what the current File-page revision explicitly supports.
 
 | Decision | Bytes copied? | Public display | Required evidence |
 | --- | --- | --- | --- |
@@ -13,11 +13,13 @@ The execution importer writes one `MediaRecordV1` for every distinct media recor
 
 ## Planning inventory
 
-The planning audit identified 3,699 distinct referenced media records, 452 external video records, 4,682 file-namespace records, 4,634 all-images inventory records, and about 1.898 GiB of original media. The file namespace and all-images inventory are different source views. These values are not frozen release counts. The execution manifest must account for every selected media title exactly once, including records that move from one decision to another after rights review.
+The current execution manifest identifies 3,710 referenced media records, 452 external-provider records, 4,697 File-page records, 4,649 allimages records, and 4,807 union records. The file-page and allimages inventories are different source views. The manifest accounts for every selected title exactly once, including 39 File pages without an allimages byte record and 107 referenced titles without a current downloadable record.
 
 ## Required metadata
 
-Each record includes stable media title, original source URL, file-description URL, revision identity, MIME type, media type, byte size, dimensions, source SHA-1 where available, local SHA-256, immutable storage URL, rights classification, attribution, copy or link-only verdict, and transformation notes. The importer must not silently mutate bytes or metadata.
+Each record includes a stable media title, original source URL, File-description URL, File-page revision ID, timestamp, SHA-1, exact File-page wikitext, wikitext hash, MIME type, media type, byte size, dimensions, source SHA-1 where available, local SHA-256 when bytes are deliberately stored, immutable storage URL, rights evidence, attribution, reference count, catalog scope, handling verdict, and transformation notes. The importer must not silently mutate bytes or metadata.
+
+Rights evidence is fail-closed. Recognized File-page templates are mapped to `conditional-supercell-policy`, `fair-use`, `permission-unverified`, `self-authored-unlicensed`, or `standard-license-pending-provenance`. A File page with no recognized rights signal is `no-file-page-evidence`; an external video/provider classification is derived from the actual media provider or MIME, not incidental words in wikitext. Every current handling verdict remains `source-link-only`, `external-embed`, or `missing-upstream`; no media bytes were copied.
 
 ## Video handling
 

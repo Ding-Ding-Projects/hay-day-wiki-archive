@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108216,
   "revisionTimestamp": "2025-08-05T20:02:13Z",
   "route": "/wiki/category%2Fcategory-blue-woolly-hat-products-36357",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Blue_Woolly_Hat_Products",
   "title": "Category:Blue Woolly Hat Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Blue Woolly Hat.png|thumb]]\nProducts of [[Blue Woolly Hat]].\n[[Category:Products]]",
   "wikitextHash": "de20f3008055963e133311d55971e4a3d43dddd31aa746d9c3e08de535bbc4b0"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Juice Press Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Juice Press Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -164,11 +174,12 @@
   "revisionId": 110109,
   "revisionTimestamp": "2026-05-17T15:34:35Z",
   "route": "/wiki/apple-juice-2143",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple_Juice",
   "title": "Apple Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple Juice.png|200px|left|Apple juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 28\n |price = 1 to 111\n |time = 2h\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 15\n |base = 31\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Apple juice''' is a [[Products|product]] unlocked at [[experience]] level 28.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making apple juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nApple juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple.png|75px|link=Apple|Apples]]\n|-\n|'''x2'''\n|}\nApple juice takes 2 hours to be produced, but only 1 hour and 42 minutes in a [[Masteries|mastered]] press. Each bottle gives players 15 [[experience]] points.\n----\n==='''Selling apple juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Juice can be bought or sold for a maximum price of 1,116 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make the juice costs 78 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 7 apple juice per crate, up to a total of 28 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n----\n==='''Did you know?'''===\n* The apple on the juice bottle has three leaves, while apples in the game only have one.\n----\n{{Navigation}}\n{{Languages\n|de = Apfelsaft\n|es = Zumo de manzana\n|fr = Jus de Pomme\n|it = Succo di mela\n|nl = Appelsap\n|no = Eplejus\n|ru = Яблочный сок\n|vi = Nước ép táo\n|zh = Apple Juice\n}}\n[[pt-br:Suco de maçã]]\n\n[[Category:Juice Press Products]]\n[[Category:Apple Products]]",
   "wikitextHash": "299fe23557133bfc928e3d5b7464aff08b78a652485155c22214b534b7b16d8f"
 }

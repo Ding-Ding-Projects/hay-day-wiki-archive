@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cream Products",
+    "Category:Egg Products",
+    "Category:Lemon Curd Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cream Products",
+      "Category:Egg Products",
+      "Category:Lemon Curd Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 106387,
   "revisionTimestamp": "2024-11-30T02:08:12Z",
   "route": "/wiki/lemon-cake-10560",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lemon_Cake",
   "title": "Lemon Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lemon Cake.png|200px|left|Honey apple cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 68\n |price = 1 to 896\n |time = 2 h 30 min\n |xp = 107\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |base = 249\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Lemon cakes''' are [[products]] unlocked at [[experience]] level 68.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making lemon cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nLemon cakes are made in the [[Cake Oven]].\n\nTo make a lemon cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon Curd.png|75px|Lemon Curd|link=Lemon Curd]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 2 hours 30 minutes to make one cake, and 2 hours 7 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 107 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling lemon cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lemon cake can be bought or sold for a maximum price of 8,964 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 851 {{Infoicon|Coin}} .\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 lemon cakes per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Zitronentorte\n|es = Pastel de limón\n|fr = Gâteau au Citron\n|it = Torta al limone\n|nl = Citroentaart\n|no = Sitronkake\n|zh = Lemon Cake\n}}\n[[pt-br:Bolo de limão]]\n[[ru:Лимонный торт]]\n[[Category:Cake Oven Products|9]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Cream Products]]\n[[Category:Lemon Curd Products]]",
   "wikitextHash": "cb94cee13fc4b769d0ee27d58288a41beb713d4dad9c9e783a513ad4f7158b7e"
 }

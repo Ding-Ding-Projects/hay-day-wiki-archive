@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Walrus_Calf_Puzzles.png",
+  "filePageId": 35694,
+  "filePageRevisionId": 102253,
+  "filePageRevisionSha1": "79c48a3e58fbb569d8c9637fa46f784d7c20f71c",
+  "filePageRevisionTimestamp": "2022-12-10T21:38:39Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "6a260ec6d6cd3aabf727c1e825f0a552b9edcafbbfd4d848c3c23e8a3dd97019",
   "height": 846,
   "immutableUrl": null,
   "mediaId": "File:Walrus Calf Puzzles.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-10T21:37:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWalrus%20Calf%20Puzzles.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1332520,
   "sourceSha1": "a306e13695ced48436df857aa2339d3ed30b0906",

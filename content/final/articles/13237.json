@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -226,11 +234,12 @@
   "revisionId": 106907,
   "revisionTimestamp": "2025-01-16T21:46:52Z",
   "route": "/wiki/tar-bucket-13237",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tar_Bucket",
   "title": "Tar Bucket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tar Bucket.png|200px|left|A tar bucket]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 342\n |upgrades = {{Infoicon|beachc|big|link=Beach Café}} {{Infoicon|gifts|big|link=Gift Shop}} {{Infoicon|spa|big|link=Spa}} {{Infoicon|trains|big|link=Train Station}}\n |base = 95\n |dia = 10\n}}\n'''Tar buckets''' are [[supplies]] used to upgrade the [[Beach Café|beach café]], the [[Gift Shop|gift shop]], the [[spa]] and the [[Train Station|train station]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting tar buckets'''===\nA sure way to get a tar bucket is to buy it with 10 {{Infoicon|dia}}.\n\nTar buckets can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 342 {{Infoicon|coin}} per bucket.\n\nFinally, tar buckets can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n{{Navigation}}\n{{Languages\n|de = Teereimer\n|es = Alquitrán\n|fr = Pot de goudron\n|it = Secchio Di Catrame\n|no = Tjærespann\n}}\n[[Category:Supplies]]",
   "wikitextHash": "331425b10e78b80fd97daf69e54055cb8224236fc1e9ac3500bb11e932bde1af"
 }

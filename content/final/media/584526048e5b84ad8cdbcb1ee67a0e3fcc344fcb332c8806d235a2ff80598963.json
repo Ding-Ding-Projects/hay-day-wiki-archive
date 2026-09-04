@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grand_Master.png",
+  "filePageId": 16028,
+  "filePageRevisionId": 89327,
+  "filePageRevisionSha1": "dcf6ae97b3b1f374d7e87623338997884f34e7fd",
+  "filePageRevisionTimestamp": "2019-10-28T16:14:47Z",
+  "filePageWikitext": "Picture of the Grand Master.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "ba4a547f699b69df8f4a5f622f8d0bce931b82a1e240b4555871afac4fef54b7",
   "height": 693,
   "immutableUrl": null,
   "mediaId": "File:Grand Master.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:14:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrand%20Master.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 257658,
   "sourceSha1": "10d98db614aca753713d6387ae260471eac9739c",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pages with broken file links",
+    "Category:Trees and Bushes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pages with broken file links",
+      "Category:Trees and Bushes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -200,11 +210,12 @@
   "revisionId": 109574,
   "revisionTimestamp": "2026-03-25T01:14:19Z",
   "route": "/wiki/blackberry-bush-2611",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blackberry_Bush",
   "title": "Blackberry Bush",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blackberry Bush.png|200px|left|Blackberry bush]]\n\n{{Infobox\n |title = [[Trees and Bushes|Trees & bushes]]\n |level = 26\n |price = 530\n |gives = {{Infoicon|black|big|link=Blackberry}}\n |time = every 1 d 7 h\n |xp = 16\n |dia = 18\n}}\n'''Blackberry bushes''' are a type of [[Trees and Bushes|bush]] unlocked at [[experience]] level 26.\n\nEach bush can give up to 13 [[blackberry|blackberries]], which are collected over 4 harvests.\n\n{{Clr}}\n----\n==='''Stages'''===\n{| style=\"text-align: center;\"\n|-\n|[[File:Blackberry Bush Stage 1.png|100px|link=Special:FilePath/Blackberry_Bush_Stage_1.png]]\n|[[File:Blackberry Bush Stage 2.png|100px]]\n|[[File:Blackberry Bush.png|100px]]\n|[[File:Blackberry Bush Dead.png|100px]]\n|-\n|'''Stage 1'''\n|'''Stage 2'''\n|'''Ready'''\n|'''Dead'''\n|}\n----\n==='''Buying'''===\n{{Infoicon|shop|bigger|link=Shop}} Blackberry bushes can be purchased in the [[shop]] for 530 [[coin]]s each.\n----\n==='''Harvesting'''===\nThe time between harvests is 1 day and 7 hours for each bush. Each harvest yields additional blackberries:\n{| style=\"text-align: center;\"\n|-\n|[[File:Blackberry Bush Harvest 2.png|100px]]\n|[[File:Blackberry Bush Harvest 3.png|100px]]\n|[[File:Blackberry Bush.png|100px]]\n|-\n|'''2 blackberries'''\n|'''3 blackberries'''\n|'''4 blackberries'''\n|}\n----\n==='''Revival'''===\n[[File:Blackberry Bush Revival.png|left|150px]]\nAfter the third harvest the bush wilts. A player can ask for another player to revive it by tapping on it and placing a sign on the bush. When another player revives it a final harvest of four blackberries can be collected before the bush dies. The helper gets 16 {{Infoicon|xp}} points by reviving a blackberry bush.\n\n{{Clr}}\n----\n==='''Removing'''===\n[[File:Axe.png|left|150px]]\nAn [[axe]] is needed to remove a dead bush from the farm. Note that players may also use an axe to remove the bush after the third harvest instead of placing it up for revival.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Brombeerstrauch\n|es = Morera\n|fr = Mûrier\n|it = Cespuglio Di More\n|no = Bjørnebærbusk\n|ru = Куст ежевики\n}}\n[[Category:Trees and Bushes]]",
   "wikitextHash": "cca5bbba9bbd89845f822878be9d97133e48c4ed28805279ef6830f8cc6c9170"
 }

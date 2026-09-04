@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Lily_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98588,
   "revisionTimestamp": "2021-08-31T21:26:54Z",
   "route": "/wiki/category%2Fcategory-lily-products-35111",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lily_Products",
   "title": "Category:Lily Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Lily.png|thumb]]\nProducts of [[Lily]].\n[[Category:Products]]",
   "wikitextHash": "f39d8910dfd31f1fe1d48a59f63e92aaf556374d7c5edb805f66f2dab85b6687"
 }

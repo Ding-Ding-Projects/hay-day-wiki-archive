@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Helpers"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Helpers"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -204,11 +214,12 @@
   "revisionId": 95859,
   "revisionTimestamp": "2020-09-07T10:30:23Z",
   "route": "/wiki/ernest-26082",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ernest",
   "title": "Ernest",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Ernest.png|left|200px|Ernest]]\nErnest is a [[:Category:Characters|non-playable character]] (NPC) who can keep the [[Dairy]] and [[Sugar Mill]] running.\n\nErnest is unlocked at [[experience]] level 33, along with [[Rose]], another farmer helper.\n\n{{Clr}}\n----\n==='''Hiring Ernest'''===\n[[File:Hiring_Ernest.jpg|left|200px]]\n[[File:Hiring_Ernest_With_Diamonds.jpg|left|200px]]\nErnest is free for 7 days when you hire him for the first time. After that, hiring him costs:\n* 15 [[diamond]]s for 3 days\n* 30 diamonds for 7 days\n* 55 diamonds for 14 days\n\nErnest can also be hired for free using a red [[booster]].\n\n{{Clr}}\n----\n==='''Discounts'''===\n[[File:Discount_Flag.png|left|85px|Discount available]]\nWhen a discount is available, a yellow flag is seen flying over the helpers' cottage.\n\nHiring him then costs:\n* 27 diamonds for 7 days (10% discount)\n* 49 diamonds for 14 days (10% discount)\n\n[[File:Ernest_Discount_10_Percent_Off.jpg|300px|Discount|center]]\n\n{{Clr}}\n----\n==='''Items Ernest can make'''===\nErnest can make:\n*[[Cream]]\n*[[Butter]]\n*[[Cheese]]\n*[[Goat Cheese]]\n*[[Brown Sugar]]\n*[[White Sugar]]\n*[[Syrup]]\n----\n==='''Assigning tasks to Ernest'''===\nWhen tapping on Ernest, it opens his task window. Players can select what they want Ernest to make and collect, and in which quantities. This adds items to Ernest's queue.\n\n*A green check mark indicates that all items have been made and collected as per the player's instructions.\n*A blue background and a spinning cog indicates that items are being made and collected.\n*An exclamation mark indicates that the player is running low on items Ernest needs to make the product.\n*A red background indicates Ernest cannot make the desired product as the player does not have the items required to make it.\n\nErnest's queue increases as the player levels up, from 30 at the lowest level to 200 at the highest level (see the table below).\n\nIf Ernest is asked to make items from either the [[Sugar Mill]] or the [[Dairy]] and the slots are empty, Ernest will occupy only the first slot of the machine no matter how many products players have asked him to make. This leaves the other slots free for players to place other items in them. However the machines are tied up until Ernest has finished making that one item beforethe machines will start making what players place in the slot themselves. If Ernest still has more on order to make, he will then occupy the last slot. This means players and Ernest cannot be making items on the same machine at the same time.\n\n[[Supplies]] Ernest has won while making and collecting items are shown next to his house. They do not show up in the barn until players collect them from Ernest's stash.\n----\n==='''Storing and selling Ernest's items'''===\nThe products Ernest has made are stored in his own storage space. When Ernest's time expires, they remain in his storage space and are available as needed. Ernest's storage space is as big as his queue is and, therefore, also increases as the player levels up (see the table below).\n[[File:Helpers_Storage.JPG|200px|left|Ernest's items in the shop]]\nProducts Ernest has made can be used or sold at any time. When a player uses an item Ernest has in stock, Ernest's stock is used up first and the player's stock second.\n\nItems Ernest has stored can be seen either by tapping Ernest then the storage tab in Ernest or by tapping on the [[Roadside Shop]] where Rose and Ernest also have their own special tab.\n\n{{Clr}}\n----\n==='''Tutorial'''===\n[[File:Hay Day Introducing the New Farm Helpers|350px|left]]\n\n{{Clr}}\n----\n==='''Table of queue and storage capacities'''===\nThe queue and storage capacities increase as the player levels up:\n{| cellpadding=\"2\" cellspacing=\"1\" style=\"max-width: 80%; margin: 1em auto; border-collapse: collapse; text-align: center; border: 1px solid #ccc;\"\n|- style=\"background: #ddd; border: 1px solid #ccc;\"\n! scope=\"col\" |Levels\n! scope=\"col\" |Capacity\n|-\n|33-39||30\n|-\n|40-49||40\n|-\n|50-59||50\n|-\n|60-69||60\n|-\n|70-79||70\n|-\n|80-89||80\n|-\n|90-99||90\n|-\n|100-119||100\n|-\n|120-139||120\n|-\n|140-159||140\n|-\n|160-179||160\n|-\n|180-199||180\n|-\n|200+||200\n|}\n----\n==='''Tips'''===\n* When visiting a farm if you can see Ernest standing in front of the [[farmhouse]] and waving at you it means there is a discount in hiring him. Otherwise, he would be sitting in front of his own house up the cliff, unless he is working.\n* If you ask Ernest to make items that you had already made yourself but had not yet collected but they are hanging on the machine, Ernest will take them first and put them in his storage before he starts making more. For example, if you had stacked 4 goat cheese outside the dairy and you ask Ernest to make 10 goat cheese, he will take the 4 goat cheese and make only 6 more.\n----\n\n{{Navigation}}\n{{Languages\n|fr = Ernest\n|es = Ernest\n}}\n[[Category:Characters]]\n[[Category:Helpers]]",
   "wikitextHash": "40d5cb0a2d7db4dd5425e3fe85bad5807cb4f4100596ab8924acbf1fcd982a4c"
 }

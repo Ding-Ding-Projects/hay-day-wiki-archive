@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Ginger Products",
+    "Category:Tea Leaf Products",
+    "Category:Tea Stand Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Ginger Products",
+      "Category:Tea Leaf Products",
+      "Category:Tea Stand Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +164,12 @@
   "revisionId": 110158,
   "revisionTimestamp": "2026-05-21T21:08:47Z",
   "route": "/wiki/apple-ginger-tea-31935",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple_Ginger_Tea",
   "title": "Apple Ginger Tea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple Ginger Tea.png|200px|left|Apple Ginger Tea]]\n\n{{Infobox\n |level = 88|price = 1 to 169|time = 30 min|xp = 20|source = {{Infoicon|teas|bigger|link=Tea Stand}}|base = 47|dia = 3|time3 = 25 min|title = [[Products|Product]]}}\n'''Apple ginger tea''' is a [[products|product]] unlocked at [[experience]] level 88.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n\n==='''Making apple ginger tea'''===\n[[File:Tea Stand.png|150px|left|Tea Stand]]\nApple ginger tea is made in the [[Tea Stand]].\n\nTo make the tea, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|[[File:Apple.png|75px|Apples|link=Apple]]\n|[[File:Tea Leaf.png|75px|Tea Leaf|link=Tea Leaf]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one cup, and 25 minutes in a fully [[Masteries|mastered]] stand. Each cup gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling apple ginger tea'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Apple ginger tea can be bought or sold for a maximum price of 1692 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make apple ginger tea cost a total of 149 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 apple ginger tea per crate, up to a total of 16 per boat.\n{{clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Apfel-Ingwer-Tee\n|es = Té de manzana y jengibre\n|fr = Thé Pomme-Gingembre\n|it = Tè allo zenzero e mela\n|nl = Appel-Gemberthee\n|no = Te med eple og ingefær\n|ru = Яблочно-имбирный чай\n|zh = Apple Ginger Tea\n}}\n[[pt-br:Chá de maçã com gengibre]]\n\n[[Category:Tea Stand Products]]\n[[Category:Apple Products]]\n[[Category:Ginger Products]]\n[[Category:Tea Leaf Products]]",
   "wikitextHash": "9e7afbdf46521fd18c249dd400995677df7af720f253695a324fbd6b744f28d5"
 }

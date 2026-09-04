@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Item_Data_Templates?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 90759,
   "revisionTimestamp": "2020-03-09T09:42:28Z",
   "route": "/wiki/category%2Fcategory-item-data-templates-32636",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Item_Data_Templates",
   "title": "Category:Item Data Templates",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains the templates used in the item data system.\n\n[[Category:Templates]]",
   "wikitextHash": "4ce7dea010dcb6717bef783ede8f3a6532a734ddf9172a0b3ca66bb648ca8d7c"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Poolside_Fence.png",
+  "filePageId": 36662,
+  "filePageRevisionId": 109491,
+  "filePageRevisionSha1": "124536dd87646534003d8e52a0032a440d9736e5",
+  "filePageRevisionTimestamp": "2026-02-25T10:43:04Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Decorations]]",
+  "filePageWikitextHash": "700c40dc3e64e12c5f3e3fc15e54168ee7ae9670664f8d89d1a76202c8d6b068",
   "height": 614,
   "immutableUrl": null,
   "mediaId": "File:Poolside Fence.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-02-25T10:37:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APoolside%20Fence.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 167510,
   "sourceSha1": "bbdb0ecde69090be9aa5c012069b97b00803487d",

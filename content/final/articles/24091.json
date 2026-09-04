@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -55,11 +65,12 @@
   "revisionId": 107637,
   "revisionTimestamp": "2025-03-24T22:27:13Z",
   "route": "/wiki/decorations-catalogue-24091",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Catalogue",
   "title": "Decorations/Catalogue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Catalogue decorations'''===\n[[File:Shop Rewards.png|100px|left|Rewards tab]]\n'''Catalogue decorations''' can be won through the [[catalogue]] or [[Wheel of Fortune]]. Items which can also be purchased in the shop have been omitted here.\n\nCatalogue decorations are unlocked at [[experience]] level 15. They change as the game is updated.\n<gallery expand=\"true\">\nBlue Flower Path.png|Blue Flower Path\nFlower Path.png|Flower Path\nFlower Log Path.png|Flower Log Path\nLog Path.png|Log Path\nTrellis Fence.png|Trellis Fence\nWheel Fence.png|Wheel Fence\n</gallery>\n[[ru:Украшения#Украшения_из каталога]]\n{{Languages\n|es = Decoraciones/Catálogo\n}}\n\n[[Category:Decorations]]\n[[Category:Catalogue]]",
   "wikitextHash": "5073bbce1a9cebbe97c80a5e4c137b38620466086c0415cfd53dc55eb9ca528b"
 }

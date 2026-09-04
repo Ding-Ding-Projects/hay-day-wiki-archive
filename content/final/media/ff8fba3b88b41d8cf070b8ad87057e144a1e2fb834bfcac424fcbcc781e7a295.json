@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_46.jpg",
+  "filePageId": 12279,
+  "filePageRevisionId": 108150,
+  "filePageRevisionSha1": "f575fd1a1140f055d2132e8dc19be7e62623c8a8",
+  "filePageRevisionTimestamp": "2025-07-17T00:18:31Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "833e9b4badd334d9bd362b878a217443a77200b68aced43ec82f6988b6ca39fb",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Level 46.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-07-17T00:18:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2046.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 204599,
   "sourceSha1": "830a8ce611e01aeb205890f010b6fcdc97cd59d6",

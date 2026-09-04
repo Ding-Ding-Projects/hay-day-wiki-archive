@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Dairy_News_Update_Information!",
+  "filePageId": 31151,
+  "filePageRevisionId": 85157,
+  "filePageRevisionSha1": "c7d9f89ead03c09e373051402c8a2d9a505a626e",
+  "filePageRevisionTimestamp": "2019-03-19T14:50:30Z",
+  "filePageWikitext": "\n== Description ==\nTune in to the new Dairy News video where Hay Day’s game designer, Camilla, will talk about some EGGstremely important news about the next update!\n\nNew episodes of Dairy News will be posted as often as possible. Keeping you up to date with the latest in Hay Day!\n\nSubscribe for more videos ►► https://supr.cl/SubHayDay\n\nFollow us on our Socials!\n\nTwitter ►► https://twitter.com/HayDay/\nInstagram ►► https://www.instagram.com/hayday \nFacebook ►► https://www.facebook.com/haydayofficial\n\nHay Day Forums ►► https://supr.cl/HayDayForums\nHay Day Discord Chat ►► https://discord.gg/F7Bmubq\nHay Day Reddit ►► https://www.reddit.com/r/HayDay/\nHay Day Plushies and more ►► https://shop.supercell.com/collections/hay-day\n\nGet Hay Day ►► https://supr.cl/GetHayDay\n\n© Supercell Oy 2019\n[[Category:Videos]]",
+  "filePageWikitextHash": "ba4f2f63562984eb70cc330dd29e604b125045618b5f777b23c4f26c3ec34634",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Dairy News Update Information!",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-03-19T14:50:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Dairy%20News%20Update%20Information!",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 30330,
+  "sourceSha1": "6ecba62202ab726a9e6173e6219cd8cf3523f401",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/36/Hay_Day_Dairy_News_Update_Information%21/revision/latest?cb=20190319145030",
+  "title": "File:Hay Day Dairy News Update Information!",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

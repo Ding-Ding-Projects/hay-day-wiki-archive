@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Fishing_Spot?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93177,
   "revisionTimestamp": "2020-04-12T16:20:44Z",
   "route": "/wiki/fishing-spot-33434",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fishing_Spot",
   "title": "Fishing Spot",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Fishing]]",
   "wikitextHash": "7496d97ddd2f6880823fe156fe0a40a5ddb8d9a427f9aa0e3687a02c6feef962"
 }

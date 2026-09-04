@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueberries.png",
+  "filePageId": 36314,
+  "filePageRevisionId": 108839,
+  "filePageRevisionSha1": "1e5afcda2e599449026cb10109d235521530418f",
+  "filePageRevisionTimestamp": "2025-10-25T17:59:28Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "6aea416f2ad88dfdf62ca5fe99fefc4f8bb32f14f28ec6b90fc2b24238d5740d",
   "height": 485,
   "immutableUrl": null,
   "mediaId": "File:Blueberries.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 51,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-06-22T15:28:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlueberries.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 153793,
   "sourceSha1": "c6596acb221134269e21cbd4873b00060a5b55a7",

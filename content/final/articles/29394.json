@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Customization?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78413,
   "revisionTimestamp": "2018-04-14T12:57:52Z",
   "route": "/wiki/category%2Fcategory-customization-29394",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Customization",
   "title": "Category:Customization",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to [[customization]].\n[[Category:Game Features]]",
   "wikitextHash": "4b655f48bf6952c0dc80666c499a92a4108a92d04bce41d15e5ae8e58faec645"
 }

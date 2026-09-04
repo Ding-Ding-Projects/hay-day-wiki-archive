@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mike.png",
+  "filePageId": 17029,
+  "filePageRevisionId": 89338,
+  "filePageRevisionSha1": "d081c7f44342f83de18b1a4855bd6e1273e6c409",
+  "filePageRevisionTimestamp": "2019-10-28T16:25:09Z",
+  "filePageWikitext": "Picture of Mike.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "54828a172028a3e340bc7238d3104e9d9b92a2573353059ecf656b7b2597815d",
   "height": 762,
   "immutableUrl": null,
   "mediaId": "File:Mike.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 19,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:25:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMike.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 314158,
   "sourceSha1": "fed95fd7aa6a54198ba0042f141ff8022710a10a",

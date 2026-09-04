@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Helpers",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Helpers",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -213,11 +225,12 @@
   "revisionId": 108945,
   "revisionTimestamp": "2025-12-07T09:36:50Z",
   "route": "/wiki/tom-2981",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tom",
   "title": "Tom",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tom.png|200px|left|Tom]]\n'''Tom''' is a [[:Category:Characters|non-player character]] (NPC) who helps players find items. He is unlocked at [[experience]] level 14.\n\n<blockquote>''Hi, I'm Tom and I can run errands for you. I'll wait by your roadside shop!'' — <cite>Tom</cite></blockquote>\n\n{{Clr}}\n----\n==='''Hiring Tom'''===\n[[File:Tom Spot.png|left|150px|Tom's spot]]\n[[File:Tom Cost.png|left|150px|Cost]]\nOnce Tom is unlocked at level 14, Players can hire Tom by tapping his spot. Once tapped, he works for free for three days (time is counted even if players do not buy anything from him).\n\nAfter that period, his services can be purchased with [[diamond]]s. He charges 15 diamonds for one day, 60 for five days and 100 for ten days.\n\nTom can also be hired for free using a red [[booster]].\n\nTom reminds you that he is available for work every day at 12:00 AM UTC.\n\n{{Clr}}\n----\n==='''Buying items'''===\n[[File:Tom_Info.png|left|150px]]\nTom can find any item the player has unlocked except [[Supplies|building supplies]] and [[Expansion|expansion supplies]].\n\n{{Clr}}\n[[File:Tom interface.png|left|150px|Items found by Tom]]\nTom always looks for the cheapest price and offers three options:\n::<nowiki>✦</nowiki>1 to 3 of the item\n::<nowiki>✦</nowiki>4 to 6 of the item\n::<nowiki>✦</nowiki>7 to 9 of the item\n\n{{Clr}}\n[[File:Tom Sleeping.png|left|150px|Tom sleeping]]\nIf the player accepts any of the offers, Tom fetches the items in a few seconds. When he comes back he grows tired and falls asleep for two hours. If the player declines all offers, Tom only has to rest for two minutes before being able to search again.\n\nPlayers can make Tom's naps shorter by using a green [[booster]].\n----\n==='''Discounts'''===\n[[File:Tom Balloon.png|left|150px|Tom offering a discount]]\nOccasionally Tom is seen holding a balloon with a percent sign written on it. While holding this balloon he offers a ten percent discount for the five- and ten-day fees.[[File:Tom_Discount.png|thumb|left|150px]]\n\nTom releases the balloon after 10 minutes or so, at which point he no longer offers the discount. However, as the balloon floats away, players can tap it to receive [[coin]]s, [[diamond]]s, [[experience]] points or [[supplies]].\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Standing at the very bottom of the screen, it might be hard to notice when Tom is ready for another job. You can solve this by sowing one field with indigo when you have accepted one of Tom's offers. Indigo takes two hours to get ready to be harvested; If the indigo is ready, so is Tom.\n*When Tom is unlocked you can use him to buy [[Supplies|land-clearing supplies]] as these are hard to find and you need the room at this point. Alternatively, you can send him to fetch the most expensive item you have unlocked in order to get coins more easily.\n*See [[User blog:MindoPod/Buy Low - Sell High. Using Tom for profit|this profit table]] by [[User blog:MindoPod|MindoPod]] for more examples.\n----\n==='''Did you know?'''===\n*Items that Tom has bought get a special icon on their box.\n[[File:Tom RoadsideShop.jpg|left|100px|Items bought by Tom]]\n\n{{Clr}}\n*Tom's appearance was changed and extensive new animations were added in the June 17, 2015 update.\n[[File:Tom Comparison.png|200px|Old vs. New Comparison|left]]\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Tom\n|es = Tom\n|fr = Tom\n|no = Tom\n|ru = Том\n}}\n\n[[Category:Characters]]\n[[Category:Trade]]\n[[Category:Helpers]]",
   "wikitextHash": "bf61bd1a40d99c33eb2fd8c2b0b35fda0c116e5e05f35fc6fd8019c9dabf12da"
 }

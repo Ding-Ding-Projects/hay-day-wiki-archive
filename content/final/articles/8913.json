@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish Fillet Products",
+    "Category:Rice Products",
+    "Category:Soy Sauce Products",
+    "Category:Sushi Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish Fillet Products",
+      "Category:Rice Products",
+      "Category:Soy Sauce Products",
+      "Category:Sushi Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -139,11 +153,12 @@
   "revisionId": 108212,
   "revisionTimestamp": "2025-08-05T19:55:02Z",
   "route": "/wiki/sushi-roll-8913",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sushi_Roll",
   "title": "Sushi Roll",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sushi Roll.png|200px|left|Sushi roll]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 56\n |price = 1 to 489\n |time = 1 h\n |source = {{Infoicon|sushib|bigger|link=Sushi Bar}}\n |xp = 58\n |base = 136\n |dia = 4\n |time3 = 51 min\n}}\n'''Sushi rolls''' are [[products]] unlocked at [[experience]] level 56.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making sushi rolls'''===\n[[File:Sushi Bar.png|150px|left|Sushi Bar]]\nSushi rolls are made in the [[Sushi Bar]].\n\nTo make a roll, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|link=Fish Fillet|Fish fillet]]\n|[[File:Rice.png|75px|link=Rice|Rice]]\n|[[File:Soy Sauce.png|75px|link=Soy Sauce|Soy sauce]]\n|-\n|'''x1'''\n|'''x15'''\n|'''x1'''\n|}\nIt takes 1 hour to make a roll, and 51 minutes in a fully [[Masteries|mastered]] bar. Each roll gives players 58 [[experience]] points.\n\n{{Clr}}----\n==='''Selling sushi rolls'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Sushi rolls can be bought or sold for a maximum price of 4,896 {{Infoicon|coin}} for ten rolls.\n* Buying the ingredients required to make a roll costs 478 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 rolls per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Making [[Soy Sauce|soy sauce]] takes much longer than making sushi does: 3 hours or 2 hours and 33 minutes in a mastered saucer.\n----\n==='''Did you know?'''===\n* This type of sushi is called makizushi. It is usually wrapped in seaweed as shown in the game.\n----\n\n{{Navigation}}\n{{Languages\n|de = Sushirolle\n|fr = Sushi Nature\n|it = Involtino di sushi\n|nl = Sushirol\n|no = Sushirull\n|ru = Суши\n|vi = Sushi cuộn\n|zh = Sushi Roll\n}}\n[[pt-br:Sushi]]\n\n[[Category:Sushi Bar Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Soy Sauce Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "c5962fe35b445e66ed819d72616791272dfb7ad53498cc34b62bb17448d2553c"
 }

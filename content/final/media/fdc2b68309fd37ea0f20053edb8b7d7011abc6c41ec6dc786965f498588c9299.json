@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Goat_Winter.png",
+  "filePageId": 36763,
+  "filePageRevisionId": 110100,
+  "filePageRevisionSha1": "6bb1d179a0d0007d851c5675fb8e284ce1bbd04e",
+  "filePageRevisionTimestamp": "2026-05-16T22:57:00Z",
+  "filePageWikitext": "== Summary ==\nfebruary 2026\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "606656e5640def3c814c5c55c12d9ebe653918d07b6beed4b5b3b56787cc8668",
   "height": 824,
   "immutableUrl": null,
   "mediaId": "File:Goat Winter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-16T22:57:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGoat%20Winter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 480974,
   "sourceSha1": "14fd4f9d513e86df998bea73c3c25aa8ab5d0850",

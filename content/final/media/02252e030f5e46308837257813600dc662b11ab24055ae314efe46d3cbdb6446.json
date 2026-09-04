@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mango_Tree_Dead.png",
+  "filePageId": 35471,
+  "filePageRevisionId": 101100,
+  "filePageRevisionSha1": "6860aaa5145c26524f8e0f12556dab78a85e4b1c",
+  "filePageRevisionTimestamp": "2022-06-02T20:19:07Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "3305b7f74c6b7aa21de73aa6e5391d0f40ef49fea8af5d1a77d3f42c955d60ed",
   "height": 460,
   "immutableUrl": null,
   "mediaId": "File:Mango Tree Dead.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-06-02T20:18:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMango%20Tree%20Dead.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 153595,
   "sourceSha1": "4aa72cad1074edf47dfbe7d058e11faf0c93e91f",

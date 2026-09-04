@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Experience",
+    "Category:Missing Images",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Experience",
+      "Category:Missing Images",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -103,11 +115,12 @@
   "revisionId": 107403,
   "revisionTimestamp": "2025-02-27T18:23:56Z",
   "route": "/wiki/experience-levels-2057",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Experience_Levels",
   "title": "Experience Levels",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{NeedPic}}\n{{Note|this page is about experience levels, not to be confused with [[Reputation|reputation levels]].}}\n[[File:Experience Bar.png|alt=|left|163x163px|Experience bar]]\n'''Experience levels''' are levels obtained in the player's game. See [[experience]] for more details.\n\nAfter level 126, no new items are given besides [[diamond]]s and [[field]]s.\n\n{{Clr}}----\n\n==='''Table of levels'''===\nThe following is a table of 'level-up' pictures, rewards given or unlocked, and experience points needed for the first 300 levels that can be achieved in Hay Day.\n\n''Notes:''\n*''The new icon ({{Infoicon|New}}) denotes items that are not shown in the pictures as they have been added after the shots were taken.''\n*''The star icon(★) denotes unlocked items or features that Hay Day does not show in level-up images.''\n\n[[Experience Levels/Levels 1-25|Levels 1-25]], \n[[Experience Levels/Levels 26-50|Levels 26-50]], \n[[Experience Levels/Levels 51-75|Levels 51-75]], \n[[Experience Levels/Levels 76-100|Levels 76-100]], \n[[Experience Levels/Levels 101-125|Levels 101-125]], \n[[Experience Levels/Levels 126-150|Levels 126-150]], \n[[Experience Levels/Levels 151-175|Levels 151-175]], \n[[Experience Levels/Levels 176-200|Levels 176-200]], \n[[Experience Levels/Levels 201-225|Levels 201-225]],\n[[Experience Levels/Levels 226-250|Levels 226-250]],\n[[Experience Levels/Levels 251-275|Levels 251-275]],\n[[Experience Levels/Levels 276-300|Levels 276-300]]\n----\n{{Languages\n|de = Level\n|es = Experiencia\n|fr = Les Niveaux\n|it = Livelli\n|no = Nivåer\n}}\n[[ru:Уровни]]\n\n[[Category:Experience]]",
   "wikitextHash": "ca3f32807b32415b6da5cf4b822457d5ddbad82e98edc9bea9b895a51c1a5629"
 }

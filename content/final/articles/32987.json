@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cheese Products",
+    "Category:Fondue Pot Products",
+    "Category:Mushroom Products",
+    "Category:Potato Bread Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cheese Products",
+      "Category:Fondue Pot Products",
+      "Category:Mushroom Products",
+      "Category:Potato Bread Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +141,12 @@
   "revisionId": 110186,
   "revisionTimestamp": "2026-05-23T20:56:23Z",
   "route": "/wiki/cheese-fondue-32987",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cheese_Fondue",
   "title": "Cheese Fondue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cheese Fondue.png|200px|left|Cheese Fondue]]\n\n{{Infobox\n |level = 91|price = 1 to 493|time = 20 min|xp = 59|source = {{Infoicon|fonduep|bigger|link=Fondue Pot}}|base = 137|dia = 2|time3 = 17 min|title = [[Products|product]]}}\n'''Cheese fondue''' is a [[Products|product]] unlocked at [[experience]] level 91. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cheese fondue'''===\n[[File:Fondue Pot.png|150px|left|Fondue Pot]]\nCheese fondue is made in the [[Fondue Pot]].\n\nTo make the fondue, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato Bread.png|75px|Potato bread|link=Potato Bread]]\n|[[File:Cheese.png|75px|Cheese|link=Cheese]]\n|[[File:Mushroom.png|75px|mushrooms|link=Mushroom]]\n|[[File:Tomato.png|75px|tomato|link=Tomato]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 20 minutes to make one bowl, and 17 minutes in a fully [[Masteries|mastered]] fondue. Each fondue gives players 59 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling cheese fondue'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Cheese fondue can be bought or sold for a maximum price of 4932 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a fondue costs 469 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 cheese fondue per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Käsefondue\n|es = Fondue de queso\n|fr = Fondue au Fromage\n|it = Fonduta di formaggio\n|nl = Kaasfondue\n|no = Ostefondue\n|ru = Сырное фондю\n|zh = Cheese Fondue\n}}\n[[pt-br:Fondue de queijo]]\n\n[[Category:Fondue Pot Products]]\n[[Category:Cheese Products]]\n[[Category:Tomato Products]]\n[[Category:Potato Bread Products]]\n[[Category:Mushroom Products]]",
   "wikitextHash": "044b15eb3c357fa481c4d35033d7e624c69c7d90ac4f6cc5096a72484688df3e"
 }

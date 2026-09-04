@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -343,11 +351,12 @@
   "revisionId": 110219,
   "revisionTimestamp": "2026-05-24T18:36:19Z",
   "route": "/wiki/fudge-shop-35377",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fudge_Shop",
   "title": "Fudge Shop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Fudge Shop.png|200px|left|Fudge Shop]]\n\n{{Infobox\n |level = 99|price = 1,050,000|time = 4 d|xp = 44|slots = 2|size = 2×2|dia = 89|title = [[Production Buildings|Machine]]}}\nThe '''Fudge Shop''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 99.\n\nIt is used to make [[Rich Fudge|rich fudge]], [[Mint Fudge|mint fudge]], [[Chili Fudge|chili fudge]], [[Lemon Fudge|lemon fudge]] and [[Peanut Fudge|peanut fudge]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 1,050,000 {{Infoicon|coin}} and takes 4 days or 89 {{Infoicon|dia}} to build the Fudge Shop. It gives players 44 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThis machine is a minty-white pink shop with wooden stand support with a huge fudge on top of it. It has a vacuum cooker and a conveyor belt to move the fudge into the opening middle mint-colored drawer. There are pink tongs, and some Chili and Mint Fudge displayed on the counter. Below the counter is a yellow cabinet with mint-colored drawers alongside some mint & white pennant strings surrounded the kitchen.\n\nThe mastered version of this machine has the golden star on top of the shop cloth, and the vacuum cooker turns golden.\n----\n=== '''Products''' ===\n{{Building Products\n|Rich Fudge|99|2:00|644\n|Mint Fudge|102|2:30|522\n|Chili Fudge|104|2:50|540\n|Lemon Fudge|108|1:50|590\n|Peanut Fudge|111|1:30|1141\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Fudge Shop originally has 2 slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 2,180 hours of production is required to [[Masteries|master]] the Fudge Shop:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Fudge Shop Mastered.png|150px|Mastered Fudge Shop|link=Special:FilePath/Fudge_Shop_Mastered.png]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />140 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />410 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,630 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Fudge Shop Mastery.png|100x100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"?% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n\n* Keep a steady supply of butter and white sugar for all fudge products and cacaos for all but one.\n* [[Chili Fudge|Chili fudge]] takes the longest to make, so load up on it to master the shop quickly.\n* This machine is one of the most annoying to master because of all the necessary butter and sugar.\n* [[Peanut Fudge]] is officially the most expensive product in the game with 1,141 Coins, dethroning [[Blanket|Blankets]] for only 1,098 Coins.\n\n----\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Karamellenshop\n|es = Puesto de fudge\n|fr = Fabrique de Caramels\n|it = Negozio di fudge\n|no = Fudgebutikk\n|ru = Магазин ириса\n}}\n[[pt-br:Loja de trufas]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "c5d45a70647e0fdc8ee43c7c373586dca01c1eb58932cb049b1dcb485afdeb26"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_174.png",
+  "filePageId": 32340,
+  "filePageRevisionId": 98224,
+  "filePageRevisionSha1": "574a29de2c498641a3e2e9ade66f3b2ddd3ad9bb",
+  "filePageRevisionTimestamp": "2021-07-15T22:05:30Z",
+  "filePageWikitext": "== Summary ==\nLevel 174 banner.\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "46b18c5d7148c11f63a773668cd314b75526b5bc8d669450ba1b38333b4992fc",
   "height": 356,
   "immutableUrl": null,
   "mediaId": "File:Level 174.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-01-07T15:40:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20174.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 609498,
   "sourceSha1": "badd9d3f87f1a832912eead680f7b6f0b7a816de",

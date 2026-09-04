@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Bacon_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98545,
   "revisionTimestamp": "2021-08-31T20:55:56Z",
   "route": "/wiki/category%2Fcategory-bacon-products-35068",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bacon_Products",
   "title": "Category:Bacon Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Bacon.png|thumb]]\nProducts of [[Bacon]].\n[[Category:Products]]",
   "wikitextHash": "d9c7bd1584adb4b2073617ee6a0918568e9cc7a282eea517ee14fc2d79ca40b4"
 }

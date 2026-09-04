@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mine_Winter.png",
+  "filePageId": 17039,
+  "filePageRevisionId": 77148,
+  "filePageRevisionSha1": "c6056f22bd4880b500be4b88a50a161c9d7e7d18",
+  "filePageRevisionTimestamp": "2018-02-07T15:45:12Z",
+  "filePageWikitext": "Mine during Winter.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "43ff3042b4a8fc508abcb0213d44ca247ea1115bb01d9ca3e1a0d13805ab29d6",
   "height": 542,
   "immutableUrl": null,
   "mediaId": "File:Mine Winter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T14:04:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMine%20Winter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 130031,
   "sourceSha1": "2f2e6696a24285e1eb286bcb97d32aae0050e2c7",

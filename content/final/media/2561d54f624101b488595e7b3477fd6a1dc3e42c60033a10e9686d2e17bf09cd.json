@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Movie_Stars.png",
+  "filePageId": 35313,
+  "filePageRevisionId": 99944,
+  "filePageRevisionSha1": "b462e43b6a0558f5da54e0c0beb8fe4dfabac1f2",
+  "filePageRevisionTimestamp": "2022-01-04T21:33:37Z",
+  "filePageWikitext": "== Summary ==\nDecember 2021 Global Truck Event decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "2c2575e3a046e7cb625423207f11d33b5329337940cc4053d80fd2729b69adbb",
   "height": 980,
   "immutableUrl": null,
   "mediaId": "File:Movie Stars.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-31T13:14:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMovie%20Stars.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1925510,
   "sourceSha1": "4819841fab28072bfef1ab1989d9e9673a513a50",

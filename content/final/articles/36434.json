@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Garlic Products",
+    "Category:Pineapple Products",
+    "Category:Tomato Soup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Garlic Products",
+      "Category:Pineapple Products",
+      "Category:Tomato Soup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110598,
   "revisionTimestamp": "2026-06-21T15:47:31Z",
   "route": "/wiki/rainbow-balloon-36434",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rainbow_Balloon",
   "title": "Rainbow Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rainbow Balloon.png|200px|left|Rainbow Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 60\n |musicalnote = 35\n |time = 10m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 133\n |dia = 5\n}}\n'''Rainbow Balloon''' is a [[products|product]] unlocked at [[experience]] level 60. It's a special item used only for the Anniversary 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Guitar Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nFlower balloons are made in the [[Birthday Balloon Maker]].\n\nTo make a rainbow balloon in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Tomato Soup.png |75px|Tomato Soup|link=Tomato Soup]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|[[File:Pineapple.png|75px|Pineapple|link=Pineapple]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x5'''\n|}\nIt takes 10 minutes to make a balloon. Each balloon gives players 133 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 4 per boat. Each balloon used on a boat will be rewarded with 35 [[Musical Note]]s, 39 musical note in a 1-star and mastered maker, 49 musical note in a 2-star and 70 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Tomato Soup Products]]\n[[Category:Garlic Products]]\n[[Category:Pineapple Products]]\n\n{{Languages\n|de =  Regenbogenballon \n|es = Globo de arcoíris\n}}",
   "wikitextHash": "25513693f435e854bea4e7857bdc3a411f3a9fda90eb25af0283bafd9d58adb9"
 }

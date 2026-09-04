@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Newspaper_Excerpt.jpg",
+  "filePageId": 20346,
+  "filePageRevisionId": 65991,
+  "filePageRevisionSha1": "a9c516f160ce7281391db6d3de7d67066e1f795d",
+  "filePageRevisionTimestamp": "2016-10-28T13:29:13Z",
+  "filePageWikitext": "To illustrate what a help request looks like in the Daily Dirt newspaper.\n{{License SC}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "003b4ad198110f9d8b00b1ae17293db6f7089320451382972b85d8e3e7d390bf",
   "height": 336,
   "immutableUrl": null,
   "mediaId": "File:Newspaper Excerpt.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-06-19T14:50:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANewspaper%20Excerpt.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 22014,
   "sourceSha1": "bd2201ace1264f6c57c4caef2ef48ac7954ad456",

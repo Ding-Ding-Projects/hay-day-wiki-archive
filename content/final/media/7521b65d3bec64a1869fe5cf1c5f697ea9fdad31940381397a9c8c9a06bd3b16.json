@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_101.png",
+  "filePageId": 25226,
+  "filePageRevisionId": 101231,
+  "filePageRevisionSha1": "607a4a8fad852ef47b4ff2d46490fcaf42df5d71",
+  "filePageRevisionTimestamp": "2022-06-21T16:32:37Z",
+  "filePageWikitext": "Level 101 Image\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "8817a91fae81029c146eee90840e0e2bdcf16a84af43a3f6864ed776e9324ad6",
+  "height": 582,
+  "immutableUrl": null,
+  "mediaId": "File:Level 101.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-06-21T16:32:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20101.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 999245,
+  "sourceSha1": "e234f38e1ac4faee7af8b8cda635292d3d382dbf",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/67/Level_101.png/revision/latest?cb=20220621163237",
+  "title": "File:Level 101.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 883
+}

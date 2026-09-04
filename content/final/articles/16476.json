@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Beeswax Products",
+    "Category:Candle Maker Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Beeswax Products",
+      "Category:Candle Maker Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -120,11 +132,12 @@
   "revisionId": 107157,
   "revisionTimestamp": "2025-02-06T20:39:05Z",
   "route": "/wiki/raspberry-candle-16476",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Raspberry_Candle",
   "title": "Raspberry Candle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Raspberry Candle.png|200px|left|Raspberry candle]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 52\n |price = 1 to 360\n |time = 1 h 45 min\n |source = {{Infoicon|candlem|bigger|link=Candle Maker}}\n |xp = 43\n |base = 100\n |dia = 5\n |time3 = 1 h 29 min\n}}\n'''Raspberry candles''' are [[products]] unlocked at [[experience]] level 52.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making raspberry candles'''===\n[[File:Candle Maker.png|150px|left|Candle Maker]]\nRaspberry candles are made in the [[Candle Maker]].\n\nTo make a raspberry candle, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Beeswax.png|75px|Beeswax|link=Beeswax]]\n|[[File:Raspberry.png|75px|Raspberries|link=Raspberry]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hour and 45 minutes to make one raspberry candle, and 1 hour and 29 minutes in a fully [[Masteries|mastered]] maker. Each candle gives players 43 [[experience]] points.\n\n{{Clr}}----\n==='''Selling raspberry candles'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Raspberry candles can be bought or sold for a maximum price of 3,600 {{Infoicon|coin}} for 10 candles.\n* Buying the ingredients required to make a raspberry candle costs 326 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 raspberry candles per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Himbeerkerze\n|es = Vela de frambuesa\n|fr = Bougie à la Framboise\n|it = Candela al lampone\n|nl = Frambozenkaars\n|no = Bringebærlys\n|zh = Raspberry Candle\n}}\n[[pt-br:Vela de framboesa]]\n[[ru:Малиновая свеча]]\n\n[[Category:Candle Maker Products]]\n[[Category:Raspberry Products]]\n[[Category:Beeswax Products]]",
   "wikitextHash": "0030a0915cc33bd43c69b99481ef63335cd3ed72f1cde32ee1e62f7ea3f93f08"
 }

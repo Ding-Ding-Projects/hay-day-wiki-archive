@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Broccoli_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98629,
   "revisionTimestamp": "2021-09-06T22:37:10Z",
   "route": "/wiki/category%2Fcategory-broccoli-products-35128",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Broccoli_Products",
   "title": "Category:Broccoli Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Broccoli.png|thumb]]\nProducts of [[Broccoli]].\n[[Category:Products]]",
   "wikitextHash": "aab553be7c5828135b312d54d247feb1b98b403df97c7e08266875d4a1ff576b"
 }

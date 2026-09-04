@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Indigo_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98560,
   "revisionTimestamp": "2021-08-31T21:18:53Z",
   "route": "/wiki/category%2Fcategory-indigo-products-35083",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Indigo_Products",
   "title": "Category:Indigo Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Indigo.png|thumb]]\nProducts of [[Indigo]].\n[[Category:Products]]",
   "wikitextHash": "5a4349af3edc2b88a1941215c068d2a0cab838a3900a7442eea745fdca0ccd45"
 }

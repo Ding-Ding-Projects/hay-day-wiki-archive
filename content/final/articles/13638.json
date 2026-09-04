@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings",
+    "Category:Town",
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings",
+      "Category:Town",
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Service_Buildings?action=history",
@@ -26,11 +38,12 @@
   "revisionId": 32609,
   "revisionTimestamp": "2014-08-10T23:17:12Z",
   "route": "/wiki/category%2Fcategory-service-buildings-13638",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Service_Buildings",
   "title": "Category:Service Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages that talk about the different '''Service Buildings''' that can be constructed in a town.\n[[Category:Buildings]]\n[[Category:Town Buildings]]\n[[Category:Town]]",
   "wikitextHash": "e3d105704c39f271f6fdfcf3477aebbc478e43736ee3222071e2f47c170a5646"
 }

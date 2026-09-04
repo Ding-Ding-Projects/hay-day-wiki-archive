@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mystery_Box.png",
+  "filePageId": 20391,
+  "filePageRevisionId": 89250,
+  "filePageRevisionSha1": "d4b4da3a8debcddfaa99e62b545d648395d84452",
+  "filePageRevisionTimestamp": "2019-10-28T14:26:52Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Mystery Boxes]]",
+  "filePageWikitextHash": "342b6867870780b4ae528ac75527b3d70a58fdb134471005dad6b595190e2a1e",
   "height": 584,
   "immutableUrl": null,
   "mediaId": "File:Mystery Box.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:26:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMystery%20Box.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 158638,
   "sourceSha1": "c173e36dbac853edb4134d69a7bbfddaf7d1e193",

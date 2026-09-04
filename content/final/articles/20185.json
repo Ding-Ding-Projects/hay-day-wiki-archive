@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note",
+    "Category:Puppies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note",
+      "Category:Puppies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -375,6 +385,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -402,6 +413,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -416,11 +428,12 @@
   "revisionId": 110879,
   "revisionTimestamp": "2026-08-10T15:41:28Z",
   "route": "/wiki/hound-puppy-20185",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hound_Puppy",
   "title": "Hound Puppy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{note|this page is about the hound puppy, not to be confused with the [[Hound|hound dog]].}}\n[[File:Hound Puppy.png|200px|left|Hound puppy]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 54\n |needs = Any one: {{Infoicon|bacon|big|link=Bacon}}{{Infoicon|lambchop|big|link=Lamb Chop}}\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}15 {{Infoicon|bluev|link=Voucher}}15 {{Infoicon|purplev|link=Voucher}}15 {{Infoicon|goldv|link=Voucher}}5\n |xp = 35\n |dia = 1,825\n}}\n'''Hound puppies''' are pet [[animals]]. They are unlocked at [[experience]] level 54.\n\nThey give players [[experience]] points in exchange for [[bacon]]  or [[Lamb Chop|lamb chops]].\n\n{{Clr}}----\n==='''Appearance'''===\n{{BigIcon|Hound Puppy Sleeping}}\n----\n==='''Buying'''===\n[[File:Puppy House.png|150px|left|Puppy house]]\nEach puppy costs 15 green [[voucher]]s, 15 blue ones, 15 purple ones and 5 golden ones, or 1,825 [[diamond]]s. They must be placed near a [[Puppy House|puppy house]] to be bought. Players can have two hound puppies.\n\nPuppies and puppy houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n\n{{Clr}}----\n==='''Feeding'''===\nWhen given [[bacon]] or [[Lamb Chop|lamb chops]], the puppies will eat it and then roam the [[farm]] for six hours before finally falling asleep. Players can immediately wake them up to receive 35 {{Infoicon|xp}} per animal. Puppies stay asleep otherwise.\n\nPuppies which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Waking puppies one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n* It is more convenient to feed puppies [[Lamb Chop|lamb chops]] over [[bacon]], as lamb chops are produced every 30 minutes as opposed to bacon, which takes 4 hours. Also, bacon is required for dozens of [[products]], while lamb chops are required for only a few.\n----\n{{Navigation}}\n{{Languages\n|de = Jagdhund-Welpe\n|es = Perrito de caza\n|fr = Petit chien de chasse\n|it = Cucciolo di bracco\n|no = Jakthundvalp}}\n[[ru:Щенок гончей]]\n\n[[Category:Puppies]]",
   "wikitextHash": "afafe4a6d33f303d8e9a47c1fa6b5ebba7d27f428e21d6cdd798fbc1194c3759"
 }

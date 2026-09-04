@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Service Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Service Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -193,11 +201,12 @@
   "revisionId": 96277,
   "revisionTimestamp": "2020-11-22T15:48:12Z",
   "route": "/wiki/gift-shop-15760",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gift_Shop",
   "title": "Gift Shop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gift Shop.png|200px|left]]\n{{Infobox\n |title = [[Service Buildings|Service Building]]\n |rlevel = 11\n |price = 67,000\n}}\nThe '''gift shop''' is a [[Service Buildings|service building]] unlocked at [[reputation]] level 11 in the player's [[town]].\n{{Clr}}\n----\n=== '''Appearance''' ===\nThe appearance of the gift shop changes as the player upgrades it:\n<gallery>\nGift Shop Stage 1.png\nGift Shop Inside 1.png\nGift Shop Stage 2.png\nGift Shop Inside 2.png\nGift Shop.png\nGift Shop Inside.png\n</gallery>\n----\n=== '''Building''' ===\nThe gift shop costs 67,000 {{Infoicon|coin}} and takes 1 day and 15 hours (or 91 [[diamond]]s) to build. It gives 30 {{Infoicon|xp}} when completed.\n----\n=== '''Serving''' ===\n* When the gift shop is at level 1, it takes 1 hour and 40 minutes (or 5 [[diamond]]s) to serve a customer and 6 {{Infoicon|rep|link=Reputation}} are awarded.\n* Serving time can be reduced to 1 hour at most.\n* Points can be increased to a maximum of 10 {{Infoicon|rep|link=Reputation}} per customer.\n----\n=== '''Upgrading''' ===\n{{Main|Service Buildings}}\nThe following materials are required to upgrade the gift shop:\n<gallery>\nHammer.png|[[Hammer]]\nStone Block.png|[[Stone Block|Stone block]]\nTar Bucket.png|[[Tar Bucket|Tar bucket]]\n</gallery>\n----\n=== '''Orders''' ===\nCustomers visiting the gift shop usually require:\n*[[Cotton]]\n*[[Wool]]\n*[[Beeswax]]\n* And products from the:\n** [[Candle Maker]]\n** [[Flower Shop]]\n** [[Jeweler]]\n** [[Hat Maker]]\n** [[Loom]]\n** [[Sewing Machine]]\n----\n=== '''Strategy tips''' ===\n* [[Hammer]]s are also used to upgrade the [[Beach Café]], the [[Cinema]] and the [[Town Hall]].\n* [[Stone Block|Stone blocks]] are also used to upgrade the [[Grocery Store]], the [[Spa]] and the [[Town Hall]].\n* [[Tar Bucket|Tar buckets]] are also used to upgrade the [[Beach Café]], the [[Spa]] and the [[Train Station]].\n----\n{{Navigation}}\n{{Languages\n|de = Souvenirladen\n|es = Tienda de regalos\n|fr = Boutique de souvenirs\n|it = Negozio Di Souvenir\n}}\n[[Category:Service Buildings]]",
   "wikitextHash": "ac69563968501808ea55956bc2b6a35ba156c5fe49c9f5c888a7d9a55c0a2aa4"
 }

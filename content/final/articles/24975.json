@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Milk Products",
+    "Category:Tea Leaf Products",
+    "Category:Tea Stand Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Milk Products",
+      "Category:Tea Leaf Products",
+      "Category:Tea Stand Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +164,12 @@
   "revisionId": 110154,
   "revisionTimestamp": "2026-05-20T22:08:48Z",
   "route": "/wiki/milk-tea-24975",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Milk_Tea",
   "title": "Milk Tea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Milk Tea.png|200px|left|Milk tea]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 81\n |price = 1 to 190\n |time = 45 min\n |source = {{Infoicon|teas|bigger|link=Tea Stand}}\n |xp = 23\n |base = 53\n |dia = 3\n |time3 = 38 min\n}}\n'''Milk tea''' is a [[Products|product]] unlocked at [[experience]] level 81. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making milk tea'''===\n[[File:Tea Stand.png|150px|left|Tea Stand]]\nMilk tea is made in the [[Tea Stand]].\n\nTo make the tea, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|link=Milk|Milk]]\n|[[File:Tea Leaf.png|75px|link=Tea Leaf|Tea leaves]]\n|-\n|'''x1'''\n|'''x3'''\n|}\nIt takes 45 minutes to make one cup of tea, and 38 minutes in a fully [[Masteries|mastered]] stand. Each cup gives players 23 [[experience]] points.\n\n{{Clr}}----\n==='''Selling milk tea'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Milk tea can be bought or sold for a maximum price of 1,908 {{Infoicon|coin}} for 10 cups.\n* Buying the ingredients required to make the tea costs 161 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 milk tea per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Milk tea is the way to go if you want to master your Tea Stand. Unlock more slots and do non stop production to master it.\n----\n{{Navigation}}\n{{Languages\n|de = Milchtee\n|es = Té con leche\n|fr = Thé au lait\n|it = Tè con latte\n|nl = Melkthee\n|no = Te med melk\n|ru = Чай с молоком\n|zh = Milk Tea\n}}\n[[pt-br:Chá com leite]]\n\n[[Category:Tea Stand Products]]\n[[Category:Milk Products]]\n[[Category:Tea Leaf Products]]",
   "wikitextHash": "d2a5a7ebb2896feb2fa46f317edc76389892b9f5013e75938357c2839f916b87"
 }

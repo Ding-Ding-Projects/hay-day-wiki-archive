@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cotton.png",
+  "filePageId": 14291,
+  "filePageRevisionId": 104882,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2024-02-18T15:17:21Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 720,
   "immutableUrl": null,
   "mediaId": "File:Cotton.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 52,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T15:17:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACotton.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 435810,
   "sourceSha1": "6bed8cc38b3765c3af0d627543b3d31e7f85edf9",

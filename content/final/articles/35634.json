@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -212,11 +220,12 @@
   "revisionId": 109529,
   "revisionTimestamp": "2026-03-03T16:28:42Z",
   "route": "/wiki/guava-35634",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Guava",
   "title": "Guava",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Guava.png|left|261x261px|Guava]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 104\n |price = 1 to 111\n |time = 1 d 10 h\n |xp = 22\n |source = {{Infoicon|guavat|bigger|link=Guava Tree}}\n |base = 31\n |dia = 19\n }}\n'''Guava''' are fruit [[crops]] unlocked at [[experience]] level 104. They grow on [[Guava Tree|guava trees]] and can be harvested four times, with each harvest giving varying numbers of guavas. They were introduced on 28th November 2022. \n\nThey are used as ingredients in several food [[products]].\n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}\n----\n==='''Harvesting guavas'''===\n[[File:Guava Tree.png|150px|left|link=Guava Tree|Guava tree]]\nThe first harvest gives two guavas, the second one three, the third and the fourth harvests give four. After the third harvest the tree wilts.\n\nAfter the first time the tree wilts, tapping on it will show a pop-out menu consisting of two options, a [[saw]] , and a sign with an exclamation mark. If you place the sign, another player can tap on it, and revive the tree for one more harvest. After that, the tree wilts, and the only way to get rid of it is by using a saw.\n\n{{Clr}}\n----\n==='''Selling Guavas'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Guava can be sold or bought for a maximum price of 1,116 {{Infoicon|coin}} for 10 fruit.\n* Buying an guava tree costs 860 {{Infoicon|coin}}.\n* Given all 13 guavas are collected during the four harvests, the batch can be sold for 1,450 {{Infoicon|coin}}, thus giving a profit of 590 {{Infoicon|coin}} per tree.\n\n{{Clr}}\n----\n==='''Using Guavas'''===\nGuavas are used to make the following [[products]]:\n\n{{Item Usage|Guava\n|Guava Compote|2|104\n|Guava Juice|2|104\n|Fruit Sorbet|1|106\n|Guava Cupcake|2|109\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 guavas per crate, up to a total of 16 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* As with all trees, plant in groves of 30 so the third harvest will yield 30 trees to revive; just enough to complete a derby Help task.\n----\n\n{{Navigation}}\n{{Languages\n|de = Guave\n|es = Guayaba\n|no = Guava\n|ru= Гуава\n}}\n[[pt-br:Goiaba]]\n\n[[Category:Tree Crops]]",
   "wikitextHash": "1696d5537fbcce80ce2f23300d9a14c0973a707bda8fbf3f0147b5185db0f3bb"
 }

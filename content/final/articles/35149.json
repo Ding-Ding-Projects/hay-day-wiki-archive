@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98665,
   "revisionTimestamp": "2021-09-07T10:08:13Z",
   "route": "/wiki/category%2Fcategory-lemon-curd-products-35149",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lemon_Curd_Products",
   "title": "Category:Lemon Curd Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Lemon Curd.png|thumb]]\nProducts of [[Lemon Curd]].\n[[Category:Products]]",
   "wikitextHash": "22e6287fcaf796ea0bf57284eceb4404f41ae1834c32bff16c19a9c9585ef603"
 }

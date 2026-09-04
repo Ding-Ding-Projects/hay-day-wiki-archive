@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -215,11 +223,12 @@
   "revisionId": 109109,
   "revisionTimestamp": "2026-01-11T16:24:53Z",
   "route": "/wiki/decorations-6168",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations",
   "title": "Decorations",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Kegs.png|200px|left]]\n'''Decorations''' are items which players can place on their [[farm]]s or [[town]]s for purely decorative purposes. They have no other function in the game. Decorations are unlocked as the player [[experience|levels up]], and first appear at [[experience]] level 1.\n\n{{Clr}}----\n==='''Buying decorations'''===\n[[File:Hay Day Shop.jpg|left|150x150px|The shop]]\nMost decorations can be bought from the [[shop]], under its flower icon, for [[coin]]s, [[diamond]]s, or [[voucher]]s. Caution must be exercised as no confirmation box will pop up before buying. Moreover, most decorations cost at least 2 coins more after each purchase.\n\n{{Clr}}\nHowever, some decorations only come as rewards for doing certain activities:\n* participating in seasonal [[events]]\n* winning [[derby]] horseshoes\n* unlocking [[sanctuary]] animals\n* unlocking certain [[expansion]] plots\n* buying [[catalogue]] packages/spinning the [[Wheel of Fortune]]\n* buying [[diamond]] packages\n* being a long-time player\n\nThese are immediately stored in the shop.\n----\n==='''Moving and storing decorations'''===\n[[File:Shop Storage.png|100px|Storage tab|left]]\nAs with most [[buildings|buildings and animal shelters]], decorations can be moved, stored, and/or rotated by holding a finger over the item and waiting until the \"arrow meter\" fills fully. Storing a decoration puts it back in the shop, and additional items of that type cannot be bought while the item is stored. Stored decos are found in the storage tab.\n\nUnlike other items decorations do no count towards [[barn]] storage.\n\n{{Clr}}----\n==='''Special effects'''===\nFlowers attract [[animals|butterflies]], bird houses attract birds, and ponds attract frogs.\n\nSome decorations get animated when tapped while others are always animated (see the lists below).\n\nUnlike 'natural' trees, trees bought in the shop sway in the breeze but do not change with seasons.\n----\n==='''Categories'''===\n\n[[Decorations/Catalogue|Catalogue]], \n[[Decorations/Custom|Custom]], \n[[Decorations/Derby|Derby]], \n[[Decorations/Events|Events]], \n[[Decorations/Expansion|Expansion]], \n[[Decorations/Farming|Farming]], \n[[Decorations/Fences & Paths|Fences &amp; paths]], \n[[Decorations/Calendar|Holiday Calendar]], \n[[Decorations/Nature|Nature]], \n[[Decorations/Ornaments|Ornaments]], \n[[Decorations/Packages|Packages]], \n[[Decorations/Pass Road|Pass Road]], \n[[Decorations/Rewards|Rewards]], \n[[Decorations/Sanctuary|Sanctuary]], \n[[Decorations/Seasonal|Seasonal]], \n[[Decorations/Secrets|Secrets]], \n[[Decorations/Valley|Valley]],\n[[Decoration Collections|Decoration Collections]]\n\n----\n==='''Videos ''' ===\n[[File:The_making_of_Hay_Day_Cello_Decoration|left|350px]]\n\n{{Clr}}----\n==='''Did you know?'''===\n*Some decorations pay homage to famous movies and cartoons: see [[User blog:DarrenPaul/Decoration's Easter Eggs|DarrenPaul's blog post about it]] for side-by-side comparisons.\n**''Singing at the Farm'' is a reference to ''[[wikipedia:Singin' in the Rain|Singin' in the Rain]]''.\n**The ''Stallion'' is a reference to Rocky from the [[wikipedia:Rocky|Rocky]] movies.\n**The ''Mad Chicken'' is a reference to the [[wikipedia:Hatter_(Alice's_Adventures_in_Wonderland)|Hatter]] and [[wikipedia:Humpty Dumpty|Humpty Dumpty]] from [[wikipedia:Lewis Carroll|Lewis Carroll]]'s ''Alice in Wonderland'' and its sequel ''Through the Looking Glass''.\n**The ''Mushroom House'' looks like the houses of ''[[wikipedia:The Smurfs|The Smurfs]]''.\n----\n[[ru:Украшения]]\n\n{{Languages\n|de = Dekoration\n|es = Decoraciones\n|fr = Éléments de Décor\n|it = Decorazioni\n|no = Dekorasjoner\n|zh = 装饰物\n}}\n[[Category:Decorations]]",
   "wikitextHash": "c67ce6128c480c5124e4c1024c9155f096892b72f4a65d0a2a72823f0800a1c6"
 }

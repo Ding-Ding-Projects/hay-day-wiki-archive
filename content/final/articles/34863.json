@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Honey_Mask?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 97328,
   "revisionTimestamp": "2021-04-19T16:54:52Z",
   "route": "/wiki/honey-mask-34863",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Mask",
   "title": "Honey Mask",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Honey Face Mask]]",
   "wikitextHash": "08faf938aa24616a763ae11f575985ad31f82adbe94fcb17651b98a9ff836c98"
 }

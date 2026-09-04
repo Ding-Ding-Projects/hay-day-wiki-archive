@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Woodpile.png",
+  "filePageId": 35622,
+  "filePageRevisionId": 101815,
+  "filePageRevisionSha1": "9fde283c9ca49084c3c19d826da89023fd353b5e",
+  "filePageRevisionTimestamp": "2022-10-28T12:08:10Z",
+  "filePageWikitext": "== Summary ==\n2022 Night At The Movies deco\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "be37909c99fc0daae4352be427c111bc67aa8601ba9b75c6c18ea61c8fc615c4",
+  "height": 160,
+  "immutableUrl": null,
+  "mediaId": "File:Woodpile.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-10-28T12:08:10Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AWoodpile.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 55568,
+  "sourceSha1": "cb3c69b18c77fa6cb65f643a114361fcde5a156e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/03/Woodpile.png/revision/latest?cb=20221028120810",
+  "title": "File:Woodpile.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 160
+}

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Lettuce Products",
+    "Category:Olive Oil Products",
+    "Category:Sandwich Bar Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Lettuce Products",
+      "Category:Olive Oil Products",
+      "Category:Sandwich Bar Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +166,12 @@
   "revisionId": 107261,
   "revisionTimestamp": "2025-02-16T11:47:34Z",
   "route": "/wiki/veggie-bagel-9427",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Veggie_Bagel",
   "title": "Veggie Bagel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Veggie Bagel.png|200px|left|Veggie bagel]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 61\n |price = 1 to 532\n |time = 40 min\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |xp = 63\n |dia = 3\n |base = 148\n |time3 = 34 min\n}}\n'''Veggie bagels''' are [[products]] unlocked at [[experience]] level 61. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making veggie bagels'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nVeggie bagels are made in the [[Sandwich Bar]].\n\nTo make a bagel, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 40 minutes to make one bagel, and 34 minutes in a fully [[Masteries|mastered]] Bar. Each bagel gives players 63 [[experience]] points.\n\n{{Clr}}----\n==='''Selling veggie bagels'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Veggie bagels can be bought or sold for a maximum price of 5,328 {{Infoicon|Coin}} for 10 bagels.\n* Buying the ingredients required to make a bagel costs 501 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 veggie bagel per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Vegetarischer Bagel\n|es = Sándwich vegetal\n|fr = Bagel végétarien\n|it = Bagel vegetariano\n|nl = Vegetarische Bagel\n|no = Vegetarbagel\n|zh = Veggie Bagel\n}}\n[[pt-br:Bagel vegetariano]]\n[[ru:Бублик с овощами]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Tomato Products]]\n[[Category:Lettuce Products]]\n[[Category:Olive Oil Products]]",
   "wikitextHash": "9d7f906ba56137a63ab01ffa6ff2b04fa64371265b407e98dd611feaf11b7ce3"
 }

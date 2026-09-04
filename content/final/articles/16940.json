@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Diamond Products",
+    "Category:Net Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Diamond Products",
+      "Category:Net Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -141,11 +151,12 @@
   "revisionId": 107446,
   "revisionTimestamp": "2025-02-28T09:15:46Z",
   "route": "/wiki/mystery-net-16940",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mystery_Net",
   "title": "Mystery Net",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mystery Net.png|200px|left|Mystery net]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 30\n |time = 3 h\n |source = {{Infoicon|netm|bigger|link=Net Maker}}\n |xp = 7\n |dia = 5\n |time3 = 2 h 33 min\n}}\n'''Mystery nets''' are [[products]] unlocked at [[experience]] level 30.\n\nThey are used to catch [[fish]] that can otherwise be caught with red [[lure]]s as well as special prizes.\n\nLike all fishing gear, they are stored in the [[Tackle Box|tackle box]] and cannot be bought or sold.\n\n{{Clr}}\n----\n==='''Making mystery nets'''===\n[[File:Net Maker.png|150px|left|Net Maker]]\nMystery nets are made in the [[Net Maker]].\n\nTo make the net, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Diamond.png|75px|Wheat|link=Diamond]]\n|-\n|'''x5'''\n|}\n\nIt takes 3 hours to make a net, and 2 hours and 33 minutes in a fully [[Masteries|mastered]] machine. Each net gives players 7 [[experience]] points.\n\n{{Clr}}\n----\n==='''Using mystery nets'''===\n[[File:Fish Fillet.png|150px|left|Fish fillet]]\nThe net must stay in the water for 21 hours. It can catch a total of 6 items, including [[Fish Fillet|fish fillets]], [[decorations]] - including [[:Decorations/Secrets|secret ones]] that can only be obtained with mystery nets, [[diamond]]s, [[lure]]s, [[products]], [[supplies]] and [[voucher]]s.\n\nThe fishing spot can be reused right away - there's no cooldown time after using a net. However, the fish caught do not count for [[Fishing Book|fishing book]] rewards since players directly get the fillets.\n\n{{Clr}}\n<gallery>\nMystery Net Loot.png\n</gallery>\n{{Clr}}\n----\n\n==='''Strategy'''===\n[[File:FishingMap Names.png|150px|right]]\n*Use nets in fishing spots which require a longer cooldown period (e.g. 4h) because there's no cooldown time after using a net. For fishing spots with shorter cooldown period, use [[lure]]s.\n*Nets are good for inactive users. If you are active, you could catch 10 fish (by using lures) instead of 3 (by using nets) within same period of time.\n*Using mystery nets is not recommended for low level players because they should use diamonds for better uses (e.g. add production slots). If they only need [[Fish Fillet]], they can produce and use [[Fishing Net]] for free. Also, the items can be obtained from other places, such as [[Roadside Shop]].\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Überraschungsnetz\n|es = Red misteriosa\n|fr = Filet Mystère\n|it = Rete misteriosa\n|nl = Mysterienet\n|no = Mystisk garn\n}}\n[[Category:Net Maker Products]]\n[[Category:Diamond Products]]",
   "wikitextHash": "634cc7a45ccd1925c74cc98d91b0aa5edfa494c88979e22193139542a0685a35"
 }

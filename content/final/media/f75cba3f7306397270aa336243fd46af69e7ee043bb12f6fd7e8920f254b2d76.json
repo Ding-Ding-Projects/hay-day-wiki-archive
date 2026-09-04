@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Catalogue_Front.png",
+  "filePageId": 14774,
+  "filePageRevisionId": 73829,
+  "filePageRevisionSha1": "cf7b996326d15bceef04905e64f8f9831a9c91f6",
+  "filePageRevisionTimestamp": "2017-10-21T10:26:57Z",
+  "filePageWikitext": "Picture of the front page of the Catalogue (12 gift cards out of 40).\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "8504b06d4c85be342fb108adb5f86199f76d158b6ac12709bcdf38830947ab9c",
   "height": 519,
   "immutableUrl": null,
   "mediaId": "File:Catalogue Front.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-07-20T17:28:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACatalogue%20Front.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 115002,
   "sourceSha1": "ae02b8e1ff6cc11b1dec2a95441284622cf6c36b",

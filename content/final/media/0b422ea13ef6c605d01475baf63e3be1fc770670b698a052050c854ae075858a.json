@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueberry_Bush_Revival.png",
+  "filePageId": 36353,
+  "filePageRevisionId": 108192,
+  "filePageRevisionSha1": "6860aaa5145c26524f8e0f12556dab78a85e4b1c",
+  "filePageRevisionTimestamp": "2025-08-05T17:25:00Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "3305b7f74c6b7aa21de73aa6e5391d0f40ef49fea8af5d1a77d3f42c955d60ed",
   "height": 417,
   "immutableUrl": null,
   "mediaId": "File:Blueberry Bush Revival.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-08-05T17:24:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlueberry%20Bush%20Revival.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 196560,
   "sourceSha1": "6ce56afbb593ed5f84177ae96728e1c852922027",

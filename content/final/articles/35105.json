@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cabbage_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98582,
   "revisionTimestamp": "2021-08-31T21:24:51Z",
   "route": "/wiki/category%2Fcategory-cabbage-products-35105",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cabbage_Products",
   "title": "Category:Cabbage Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Cabbage.png|thumb]]\nProducts of [[Cabbage]].\n[[Category:Products]]",
   "wikitextHash": "70f2036236e94f332bf46d1d923f2fedf55141e3c3bf067d65db92622afec9af"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sled_Dog_(season_46).jpg",
+  "filePageId": 36025,
+  "filePageRevisionId": 104975,
+  "filePageRevisionSha1": "06ca89297e0bfa0befdddbf29bdf6175d1263cd8",
+  "filePageRevisionTimestamp": "2024-02-27T19:25:37Z",
+  "filePageWikitext": "Valley reward for season 46",
+  "filePageWikitextHash": "2708676ce52f563b9b13946f97eb1e437fa84bc0bc604c997b24c8f0c1f7438f",
+  "height": 733,
+  "immutableUrl": null,
+  "mediaId": "File:Sled Dog (season 46).jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-02-27T19:25:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ASled%20Dog%20(season%2046).jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 530282,
+  "sourceSha1": "6ab04733e6b4740b08e9d5e26272600eddde1579",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/82/Sled_Dog_%28season_46%29.jpg/revision/latest?cb=20240227192537",
+  "title": "File:Sled Dog (season 46).jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 687
+}

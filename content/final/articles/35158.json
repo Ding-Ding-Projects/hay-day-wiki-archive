@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Grapes_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98749,
   "revisionTimestamp": "2021-09-07T14:28:07Z",
   "route": "/wiki/category%2Fcategory-grapes-products-35158",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Grapes_Products",
   "title": "Category:Grapes Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Grapes.png|thumb]]\nProducts of [[Grapes]].\n[[Category:Products]]",
   "wikitextHash": "dc2aa6fa8d30ac333c0feacef91136050088ec2f244ccae20e9dfea21adfb5bd"
 }

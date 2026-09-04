@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Mango_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 100986,
   "revisionTimestamp": "2022-05-31T14:52:27Z",
   "route": "/wiki/category%2Fcategory-mango-products-35458",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Mango_Products",
   "title": "Category:Mango Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Mango.png|thumb]]\nProducts of [[Mango]].\n[[Category:Products]]",
   "wikitextHash": "b9caaddbe169dfa56712642e4f9f6daf96a62464842ce7fe4dcb5413d3f7cfc7"
 }

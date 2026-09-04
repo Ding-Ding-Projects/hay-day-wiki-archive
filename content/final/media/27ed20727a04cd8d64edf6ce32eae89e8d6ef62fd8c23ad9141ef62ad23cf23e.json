@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Decoration.png",
+  "filePageId": 34194,
+  "filePageRevisionId": 99709,
+  "filePageRevisionSha1": "30bdf750ecaea86af02a7d7568b2e670c57732b6",
+  "filePageRevisionTimestamp": "2021-12-12T22:47:29Z",
+  "filePageWikitext": "== Summary ==\n5th level of the Pedestal custom decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "37cbe5146fe75eb52a1e35d1d71d466e69618f1221360e5fbdeb012a33f264c1",
   "height": 489,
   "immutableUrl": null,
   "mediaId": "File:Pedestal Decoration.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-27T13:42:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APedestal%20Decoration.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 449703,
   "sourceSha1": "7b53002036871715c22b9128bd2e7fc40f2f09c5",

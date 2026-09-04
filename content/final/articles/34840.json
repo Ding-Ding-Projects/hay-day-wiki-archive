@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -339,11 +347,12 @@
   "revisionId": 110188,
   "revisionTimestamp": "2026-05-23T21:12:01Z",
   "route": "/wiki/bath-kiosk-34840",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bath_Kiosk",
   "title": "Bath Kiosk",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n[[File:Bath Kiosk.png|200px|left|Bath Kiosk|link=Special:FilePath/Bath_Kiosk.png]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 84\n |price = 850,000\n |time = 4 d\n |slots = 2\n |dia = 88\n |size = 2×2\n}}\nThe '''Bath Kiosk''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 84.\n\n{{Clr}}\n----\n==='''Building'''===\nIt costs 850,000 {{Infoicon|coin}} and takes 4 days (or 88 {{Infoicon|dia}}) to build the Bath Kiosk. It gives players 44 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThe machine is built by pastel green walls above and white bricks below, with a huge cloth hanging above. It it composed of a faucet and a clay tub full of water, and its side is a barrel filled with powder; the sides surrounding with a cabinet of soap molds, along with some magenta-colored soap molds in the side with gel, and one with the mortar and pestle.\n\nThe mastery of this machine is the magenta-colored molds will turn into a yellowish golden color and a golden star is placed on the barrel.\n----\n==='''Products'''===\n{{Building Products\n|Honey Soap|84|1h|327\n|Lemon Lotion|84|1:15|403\n|Exfoliating Soap|93|1h|363\n|Honey Face Mask|99|1:30|320\n|Rich Soap|121|1:10|266\n}}\n----\n==='''Upgrading'''===\n{{Main|Production Buildings}}\nThe Bath Kiosk originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n==='''Mastering'''===\nA total of 2,180 hours of production is required to [[Masteries|master]] the Bath Kiosk:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n| rowspan=\"3\" |[[File:Bath Kiosk Mastered.png|150px|Mastered Bath Kiosk|link=Special:FilePath/Bath_Kiosk_Mastered.png]]\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★<br />140 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★<br />410 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★★<br />1630 hrs'''\n|-\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM10Coins.png|100px]]\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\" |[[File:Bath Kiosk Mastery.png|100px|link=Special:FilePath/Bath_Kiosk_Mastery.png]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n==='''Strategy tips'''===\n\n* This machine is quite easy to master as all products take at least 1 hour to finish.\n* The product with the longest time is [[Honey Face Mask]] with 1h and 30 minutes of time production.\n\n----\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Badkiosk\n|es = Puesto de cosméticos\n|fr = Salon de Beauté\n|it = Chiosco dei cosmetici\n|no = Badekiosk\n|ru = Мыловарня\n}}\n[[pt-br:Quiosque de cosméticos]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "825c88cf06bd8a33ebad7c3cffb6d210ecd2b8b57968e2babdf548c41202d2a1"
 }

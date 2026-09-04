@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Sar%C4%B1_biraz_sevimli_z%C3%BCrafa?action=history",
@@ -26,11 +30,12 @@
   "revisionId": 109395,
   "revisionTimestamp": "2026-02-09T22:56:36Z",
   "route": "/wiki/sar%C4%B1-biraz-sevimli-z%C3%BCrafa-36625",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sar%C4%B1_biraz_sevimli_z%C3%BCrafa",
   "title": "Sarı biraz sevimli zürafa",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "",
   "wikitextHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 }

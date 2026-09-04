@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Eggplant_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98770,
   "revisionTimestamp": "2021-09-07T14:38:25Z",
   "route": "/wiki/category%2Fcategory-eggplant-products-35159",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Eggplant_Products",
   "title": "Category:Eggplant Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Eggplant.png|thumb]]\nProducts of [[Eggplant]].\n[[Category:Products]]",
   "wikitextHash": "60b64f637051f9845692beee913adc3bea0dec10a6d83954abc100fc584f2712"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -408,11 +416,12 @@
   "revisionId": 109669,
   "revisionTimestamp": "2026-04-14T17:04:00Z",
   "route": "/wiki/onion-24832",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Onion",
   "title": "Onion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Onion.png|left|Onion|200px]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 68\n |price = 1 to 39\n |time = 5 h\n |xp = 8\n |base = 11\n |dia = 8\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Onions''' are field [[crops]] unlocked at [[experience]] level 68.\n\nThey are used to make [[Broccoli Soup|broccoli soup]], [[Grilled Onion|grilled onions]], [[Onion Dog|onion dogs]], [[Onion Soup|onion soup]], [[Potato Soup|potato soup]], [[salsa]], [[Spicy Pasta|spicy pasta]] and [[Summer Salad|summer salad]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 600 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing onions '''===\nOnions are grown in [[Farm|fields]] by planting another onion (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 8 [[experience]] points, and takes 5 hours to mature.\n<gallery>\nOnion Stage 1.png\nOnion Stage 2.png\nOnion Stage 3.png\nOnion Stage 4.png\nOnion Stage 5.png\n</gallery>\n----\n==='''Selling onions'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Onions can be sold or bought for a maximum price of 396 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using onions''' ===\nOnions are used to make the following [[products]]:\n\n{{Item Usage|Onion\n|Grilled Onion|2|68\n|Long Gift|3|70|temp=Long Gift|tempend=20230102\n|Blueberry Chutney|1|70\n|Onion Soup|3|72\n|Salsa|2|77\n|Potato Soup|2|78\n|Cheese Omelet|1|79\n|Onion Dog|3|80\n|Summer Salad|3|84\n|Onion Melt|3|84\n|Spicy Pasta|2|87\n|Broccoli Soup|1|87\n|Tofu Stir Fry|3|89\n|Pickles|2|91\n|Falafel|2|98\n|Mushroom Soup|2|104\n|Chili Stew|2|109\n|Winter Stew|2|112\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 8 to 12 onions per crate, up to a total of 36 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n* Onions can seldom be found in the [[Daily Dirt]]. Selling them at a lower price is not recommended.\n* Recipes ask for two to three onions, so you need to make sure you always have enough in your [[silo]].\n* You need [[salsa]] to make [[taco]]s and [[quesadilla]]s.\n----\n==='''Did you know?'''===\n* In the Middle Ages, onions were an acceptable form of currency, and were used to pay for rent, goods and services or were even given as gifts.\n----\n\n{{Navigation}}\n{{Languages\n|de = Zwiebel\n|es = Cebolla\n|fr = Oignon\n|it = Cipolla\n|no = Løk\n|zh = Onion\n}}\n[[pt-br:Cebola]]\n[[ru:Лук]]\n[[Category:Field Crops]]",
   "wikitextHash": "105c7ff254ba0a8218e211d5a961a70b10070b4fec0e67216e91ab92605d8510"
 }

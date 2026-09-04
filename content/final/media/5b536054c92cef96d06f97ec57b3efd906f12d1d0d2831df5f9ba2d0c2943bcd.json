@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Hall_Tabs.jpg",
+  "filePageId": 29740,
+  "filePageRevisionId": 88766,
+  "filePageRevisionSha1": "bd29b3d3b2515d85b384a9674e2abdb6437965eb",
+  "filePageRevisionTimestamp": "2019-10-25T11:43:11Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Town]]\n[[Category:Needs Update]]",
+  "filePageWikitextHash": "dd9fb7d62d8084f833fda07bfc1703c84ece373138585da2f76e1f8ea67cf774",
   "height": 326,
   "immutableUrl": null,
   "mediaId": "File:Town Hall Tabs.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-15T13:23:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Hall%20Tabs.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 143597,
   "sourceSha1": "c6dd9411984cf7053ad66a3564b637cde3759a90",

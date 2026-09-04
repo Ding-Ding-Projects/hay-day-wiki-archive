@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Beeswax Products",
+    "Category:Candle Maker Products",
+    "Category:Carrot Products",
+    "Category:Note",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Beeswax Products",
+      "Category:Candle Maker Products",
+      "Category:Carrot Products",
+      "Category:Note",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +153,12 @@
   "revisionId": 107232,
   "revisionTimestamp": "2025-02-10T17:16:37Z",
   "route": "/wiki/colorful-candles-34964",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Colorful_Candles",
   "title": "Colorful Candles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|the game uses two different spellings: ''colorful'' for candles and ''colourful'' for [[Colourful Omelet|omelet]].}}\n[[File:Colorful Candles.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 84\n |price = 1 to 324\n |time = 1 h 50 min\n |source = [[File:Candle Maker.png|50px]]\n |xp = 39\n |base = 90\n |dia = 5\n |time3 = 1 h 33 min\n}}\n'''Colorful Candles''' are [[products]] unlocked at [[experience]] level 84. It's not used to make any other product.\n\nIt is introduced in [[Version History|28 June 2021 Update]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making colorful candles'''===\n[[File:Candle Maker.png|thumb|150px|left|Candle Maker|link=Candle Maker]]\nColorful candles are made in [[Candle Maker]].\n\nTo make colorful candles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Beeswax.png|thumb|75px|Beeswax|link=Beeswax]]\n|[[File:Raspberry.png|thumb|75px|Raspberry|link=Raspberry]]\n|[[File:Carrot.png|thumb|75px|Carrot|link=Carrot]]\n|-\n|'''×1'''\n|'''×1'''\n|'''×1'''\n|}\nIt takes 1 hour 50 minutes to make one colorful candles, and 1 hour 33 minutes in a fully [[Masteries|mastered]] candle maker. Each colorful candle gives players 39 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling colorful candles'''===\n[[File:Roadside Shop.png|thumb|150px|left|Roadside shop|link=Roadside Shop]]\n* Colorful candles can be bought or sold for a maximum price of 3240 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make 1 colorful candle costs 287 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|Boat|link=Boat]]\n* [[Boat]] orders ask for 3 to 4 colorful candles per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n\n{{Languages\n|de = Bunte Kerzen\n|es = Velas coloridas\n|fr = Bougies Colorées\n|it = Candele colorate\n|nl = Kleurrijke Kaarsen\n|no = Fargerike talglys\n|zh = Colorful Candles\n}}\n[[pt-br:Velas coloridas]]\n[[ru:Разноцветные свечи]]\n\n[[Category:Candle Maker Products]]\n[[Category:Beeswax Products]]\n[[Category:Raspberry Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "798f8c0e1eebc55bfa46e7d263430ede199d453b600e54efc3f6a0be1583ace6"
 }

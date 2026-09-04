@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Stonemason%27s_Decoration.png",
+  "filePageId": 34217,
+  "filePageRevisionId": 99859,
+  "filePageRevisionSha1": "671c651f609f0d6e453c9187010d6ca242820d7b",
+  "filePageRevisionTimestamp": "2021-12-16T21:46:16Z",
+  "filePageWikitext": "== Summary ==\nCustom Decoration level 1\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "c031433c953fda9d60cbbd8236acc78d2c0c0b407e548cf5014a5a047d376c3e",
+  "height": 452,
+  "immutableUrl": null,
+  "mediaId": "File:Stonemason's Decoration.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-07-28T12:56:45Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AStonemason's%20Decoration.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 430432,
+  "sourceSha1": "4cabe790e0435dd308c9db8fd9fb2ed0ff4476f4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Stonemason%27s_Decoration.png/revision/latest?cb=20200728125645",
+  "title": "File:Stonemason's Decoration.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 450
+}

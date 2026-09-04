@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Dragonfly.png",
+  "filePageId": 17502,
+  "filePageRevisionId": 39582,
+  "filePageRevisionSha1": "ddc1ef797e8122c6e5bddbdf8b9ea9bdd0a1f631",
+  "filePageRevisionTimestamp": "2014-12-29T00:58:00Z",
+  "filePageWikitext": "Picture of a dragonfly.\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "80475cf30b01fe0e8b84d68661fd063723237ee758bbd05d52a2d9e6991ad194",
+  "height": 37,
+  "immutableUrl": null,
+  "mediaId": "File:Dragonfly.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2014-12-29T00:57:52Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ADragonfly.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 19428,
+  "sourceSha1": "faf7f7fdccc3b11636de38c8037ab90c69617234",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/84/Dragonfly.png/revision/latest?cb=20141229005752",
+  "title": "File:Dragonfly.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 70
+}

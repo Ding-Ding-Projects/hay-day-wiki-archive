@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Themes"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Themes"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -118,11 +126,12 @@
   "revisionId": 106785,
   "revisionTimestamp": "2025-01-07T14:26:49Z",
   "route": "/wiki/themes-25920",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Themes",
   "title": "Themes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\nAll along the year, the game changes with seasons or certain holidays. It can affect the game's loading screen, the appearance of several items in the game, the background music, the occurrence of special [[events]] and Easter eggs.\n\nSeasons in the game may start or end at different times over the years. The Hay Day team sometimes follows Finnish seasons, the country where Supercell is located <ref>https://forum.supercell.com/showthread.php/1329980-Christmas-update-is-here-%28-%29</ref>.\n----\n==='''Standard theme'''===\n[[File:Loading_Screen_Standard.jpg|center|500px|Standard loading screen]]\n{{Clr}}\nFarm soundtrack: [[File:Game Soundtrack Farm.ogg]]\n\nFishing Lake soundtrack: [[File:Game Soundtrack Fishing Lake.ogg]]\n\nTown soundtrack: [[File:Game Soundtrack Town.ogg]]\n\nHaloween Farm Soundtrack: [[File:Halloween Farm.mp3]]\n\nHalloween Lake Soundtrack: [[File:Halloween Lake.mp3]]\n\nHalloween Town Soundtrack :  [[File:Halloween Town.mp3]]\n----\n\n[[File:Loading_Screen_Birthday.jpg|left|250px|Birthday loading screen]]\nThe ''Hay Day Birthday'' theme comes with a different loading screen and special [[events]].\n{{Clr}}\n----\n==='''Summer (June-September)'''===\nThe ''Summer'' theme comes with a different loading screen, sunny weather, farm animals wearing themed clothes and accessories, and time-limited [[decorations]].\n<gallery hideaddbutton=\"true\">\nChicken Summer.jpg\nPig Summer.png\nCow Summer.png\nSheep Summer.jpg\nGoat Summer.png\nHoney Bee Summer.png\n</gallery>\n----\n==='''Fall (September-November)'''===\nThe ''Fall'' theme comes with foggy weather, fall grass, mushrooms, and decorative trees with fall colors.\n----\n==='''Halloween (October)'''===\n[[File:Loading Screen Halloween.png|250px|Halloween loading screen|left]]\nThe ''Halloween'' theme is a variation on the Fall there. It comes with a different loading screen, jack o' lanterns, farm animals wearing themed clothes and accessories, bats, three-eye river fish, a ghost in the [[Fishing Lake]], time-limited [[decorations]] and special [[events]].\n{{Clr}}\n<gallery hideaddbutton=\"true\">\nHalloween Tree.png\nBat.png\nChicken Halloween.png\nPig Halloween Full.png\nCow Halloween.png\nSheep Halloween.png\nGoat Halloween.png\nHalloween Ghost.png\nFile:Hay Day Greg's Halloween Holiday Calendar 2020 - Day 4| Halloween calendar\n</gallery>\n----\n==='''Winter (December-February)'''===\n[[File:Loading_Screen_Winter.jpg|left|250px|Winter loading screen]]\nThe ''Winter'' theme comes with a different loading screen, new background music, winter weather, frozen grass and ponds, farm animals and visitors wearing themed clothes and accessories, special [[Mystery Box |mystery boxes]] in the [[Fishing Lake]], time-limited [[decorations]] and special [[events]].\n{{Clr}}\n<gallery hideaddbutton=\"true\">\nFarmhouse Christmas.png\nChickens Winter.png\nPigs Winter.png\nCows Winter.png\nGoats Winter.png\nSheep Winter.png\nBees Winter.png\nGreg Winter.PNG\nMary Winter.PNG\nMike Winter.PNG\nJoan Winter.PNG\nMystery Present.png\nMystery Fireworks.png\n</gallery>\n----\n<references />\n[[Category:Themes]]\n\n{{Languages\n|es = Temas\n}}",
   "wikitextHash": "15ab94735e0176a3b9dbf4285d04a2a4b5369dc30db05e72319436b6fe87bb09"
 }

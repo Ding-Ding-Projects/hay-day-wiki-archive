@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Candle_Maker_Mastery.png",
+  "filePageId": 22867,
+  "filePageRevisionId": 79907,
+  "filePageRevisionSha1": "b6ccd3995abaeb308159dcf0a547f495801ee197",
+  "filePageRevisionTimestamp": "2018-05-01T17:31:40Z",
+  "filePageWikitext": "Candle Maker Mastery Image\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "20632749f41c84357747ed559df23aedcd453d58d8447edd6395cadb38173059",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Candle Maker Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:31:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACandle%20Maker%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 50141,
   "sourceSha1": "7eb3eda5bc203e421e74a5a52b142736665c835d",

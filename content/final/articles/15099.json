@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Service_Buildings?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 61752,
   "revisionTimestamp": "2016-04-24T15:12:41Z",
   "route": "/wiki/category%2Fcategory-image-service-buildings-15099",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Service_Buildings",
   "title": "Category:Image Service Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images of [[Service Buildings]].\n[[Category:Images]]",
   "wikitextHash": "cf84acb3e49f4c54c119c272ef65bf07d215f0c1fea9404a3a1532e822dee46e"
 }

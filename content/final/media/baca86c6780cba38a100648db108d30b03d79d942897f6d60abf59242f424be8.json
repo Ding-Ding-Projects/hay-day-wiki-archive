@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Cake.png",
+  "filePageId": 28121,
+  "filePageRevisionId": 73972,
+  "filePageRevisionSha1": "3c9c04f934d21d9287dcf84bb69fb335378d4221",
+  "filePageRevisionTimestamp": "2017-10-22T09:57:52Z",
+  "filePageWikitext": "== Summary ==\nHay Day's 5th Birthday Cake\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "60208b2c596e8e5fb703044fa0cda2bc255d36f141ef8a98b14bb07c9057acbd",
   "height": 424,
   "immutableUrl": null,
   "mediaId": "File:Blue Cake.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:33:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlue%20Cake.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 128842,
   "sourceSha1": "6b7dcea0c8c6db2001ea5a2a4d71092e37cd615a",

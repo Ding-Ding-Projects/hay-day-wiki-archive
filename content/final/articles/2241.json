@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -232,11 +240,12 @@
   "revisionId": 107748,
   "revisionTimestamp": "2025-04-13T20:59:37Z",
   "route": "/wiki/apple-2241",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple",
   "title": "Apple",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple.png|200px|left|Apple]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 15\n |price = 1 to 39\n |time = 16 h\n |xp = 7\n |source = {{Infoicon|applet|bigger|link=Apple Tree}}\n |base = 11\n |dia = 7\n }}\n'''Apples''' are fruit [[crops]] unlocked at [[experience]] level 15. They grow on [[Apple Tree|apple trees]] and can be harvested four times, with each harvest giving varying numbers of apples. They are the first tree crop unlocked in the game.\n\nThey were added on July 12, 2012, along with [[Apple Juice]], [[Apple Pie]] and [[Apple Jam]] in Update 0.5.\n\n\nThey are used as ingredients in several food [[products]].\n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}\n----\n==='''Harvesting apples'''===\n[[File:Apple Tree.png|150px|left|link=Apple Tree|Apple tree]]\nThe first harvest gives two apples, the second one three, and the other two four. After the third harvest the tree wilts.\n\nAfter the first time the tree wilts, tapping on it will show a pop-out menu consisting of two options, a [[saw]] , and a sign with an exclamition mark. If you place the sign, another player can tap on it, and revive the tree for one more harvest. After that, the tree wilts, and the only way to get rid of it is by using a saw.\n\n{{Clr}}\n----\n==='''Selling apples'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Apples can be sold or bought for a maximum price of 396 {{Infoicon|coin}} for 10 fruit.\n* Buying an apple tree costs 160 {{Infoicon|coin}}.\n* Given all 13 apples are collected during the four harvests, the batch can be sold for 514 {{Infoicon|coin}}, thus giving a profit of 354 {{Infoicon|coin}} per tree.\n\n{{Clr}}\n----\n==='''Using apples'''===\nApples are used to make the following [[products]]:\n\n{{Item Usage|Apple\n|Green Gift|3|25|temp=Green Gift|tempend=20230102\n|Apple Pie|3|28\n|Apple Juice|2|28\n|Apple Jam|3|35\n|Honey Apple Cake|2|42\n|Caramel Apple|1|51\n|Green Smoothie|1|66\n|Apple Ginger Tea|2|88\n|Apple Porridge|1|119\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 8 to 14 apples per crate, up to a total of 52 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Recipes ask for one to three apples so you need to have several extra trees to cover your needs. \n----\n\n{{Navigation}}\n{{Languages\n|de = Apfel\n|es = Manzana\n|fr = Pomme\n|it = Mela\n|nl = Appel\n|no = Eple\n|ru = Яблоко\n|sv = Äpple\n|vi = Táo\n|zh = 苹果\n}}\n[[pt-br:Maçã]]\n\n[[Category:Tree Crops]]",
   "wikitextHash": "f3b082ee875847518ebf37261c4157b71f5cf2e0e32f2dd5ff6556b7457d9b9d"
 }

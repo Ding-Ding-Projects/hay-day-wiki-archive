@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_38.png",
+  "filePageId": 27707,
+  "filePageRevisionId": 74484,
+  "filePageRevisionSha1": "ea6fa2b2a54803d264e68ee6ef79e4484456f2a7",
+  "filePageRevisionTimestamp": "2017-10-22T17:49:10Z",
+  "filePageWikitext": "== Summary ==\nCurrent Image for Reputation Level 38\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "16585ae0c7f0cb2f124fe2602716d763dbb17d612674c8f238e89c423945689d",
   "height": 540,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 38.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-05-14T15:50:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2038.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 409225,
   "sourceSha1": "ad16a0a48e286317bda6008830d2144c47109196",

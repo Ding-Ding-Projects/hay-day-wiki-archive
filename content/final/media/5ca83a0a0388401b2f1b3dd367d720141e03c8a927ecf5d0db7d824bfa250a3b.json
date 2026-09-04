@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Flower_Bucket.png",
+  "filePageId": 27054,
+  "filePageRevisionId": 84093,
+  "filePageRevisionSha1": "9b58b3283f0cbc588930b2918f42bd5aec35d6b2",
+  "filePageRevisionTimestamp": "2018-12-11T07:10:29Z",
+  "filePageWikitext": "== Summary ==\nNew Decoration - Blue Flower Bucket\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "f9567771a343517575a43fd6577c0d8ea192b7c5f98301183df59e8375e97dcd",
   "height": 627,
   "immutableUrl": null,
   "mediaId": "File:Blue Flower Bucket.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-11T07:10:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlue%20Flower%20Bucket.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 330240,
   "sourceSha1": "0a1ee6e9492e546995f0394995328c7b32e6d37a",

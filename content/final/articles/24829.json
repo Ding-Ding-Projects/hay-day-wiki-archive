@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -357,11 +365,12 @@
   "revisionId": 110152,
   "revisionTimestamp": "2026-05-20T21:43:30Z",
   "route": "/wiki/tea-stand-24829",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tea_Stand",
   "title": "Tea Stand",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tea Stand.png|left|200px|Tea Stand]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 80\n |price = 750,000\n |time = 3 d 23 h\n |slots = 2\n |dia = 88\n |size = 2×2\n}}\nThe '''Tea Stand''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 80.\n\nIt is used to make [[Green Tea|green tea]], [[Milk Tea|milk tea]], [[Honey Tea|honey tea]], [[Lemon Tea|lemon tea]], [[Apple Ginger Tea|apple ginger tea]] , [[Orange Tea|orange tea]], [[Iced Tea|iced tea]], [[Mint Tea|mint tea]], [[Chamomile Tea|chamomile tea]], and [[Pomegranate Tea|pomegranate tea]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 750,000 {{Infoicon|coin}} and takes 3 days and 23 hours or 88 {{Infoicon|dia}} to build the Tea Stand. It gives players 44 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Green Tea|80|30m|241\n|Milk Tea|81|45m|190\n|Honey Tea|83|40m|313\n|Lemon Tea|86|20m|241\n|Apple Ginger Tea|88|30m|169\n|Orange Tea|89|40m|255\n|Iced Tea|92|30m|252\n|Mint Tea|97|35m|255/31\n|Chamomile Tea|100|20m|144\n|Pomegranate Tea|107|34m|313\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Tea Stand originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Tea Stand:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Tea Stand Mastered.png|150px|Mastered Tea Stand]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Tea_Stand_Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*All tea products require tea leaves which are hard to find in the Daily Dirt. Make sure you have a good amount of tea leaves if you want to make some tea.\n*Milk teas are the best way to master the Tea Stand as they take the longest time, 45 minutes. Milk can be found in the Daily Dirt but sells very quickly. On the other hand, for mastering it with the least amount of tea leaves, apple ginger tea is better; it uses only 1 tea leaf and takes half an hour (2 tea leaves per hour), while everything else requires at least 3 tea leaves and takes at most 45 minutes (at least 4 tea leaves per hour).\n----\n{{Navigation}}\n{{Languages\n|de = Teestand\n|es = Tetería\n|fr = Stand de thé\n|it = Bancarella del tè\n|no = Tebod\n|ru = Чайная\n}}\n[[pt-br:Banca de chá]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "715384162ca03c44df822b7aa712c29a0b908127c3b96ebf9d452f204ecb6302"
 }

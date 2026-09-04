@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Duct_Tape.png",
+  "filePageId": 2633,
+  "filePageRevisionId": 89193,
+  "filePageRevisionSha1": "23cad4c32fdf899ef7b063ce895643675f39baa9",
+  "filePageRevisionTimestamp": "2019-10-28T13:08:55Z",
+  "filePageWikitext": "Picture of duct tape.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "e30253b8b748980b31d855c3901303efa40eb46ae4055421a566e1cbc7616309",
   "height": 208,
   "immutableUrl": null,
   "mediaId": "File:Duct Tape.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:08:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADuct%20Tape.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 49977,
   "sourceSha1": "5ce3c0e56ca43740570ca999721a3820c83e5138",

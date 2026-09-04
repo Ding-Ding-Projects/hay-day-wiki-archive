@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Carrot Products",
+    "Category:Pie Oven Products",
+    "Category:Potato Products",
+    "Category:Pumpkin Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Carrot Products",
+      "Category:Pie Oven Products",
+      "Category:Potato Products",
+      "Category:Pumpkin Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +203,12 @@
   "revisionId": 108683,
   "revisionTimestamp": "2025-09-28T18:25:41Z",
   "route": "/wiki/shepherd-s-pie-2703",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Shepherd%27s_Pie",
   "title": "Shepherd's Pie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Shepherd's Pie.png|200px|left|Shepherd's pie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 39\n |price = 1 to 280\n |time = 1 h 40 m \n |source = {{Infoicon|pieo|bigger|link=Pie Oven}}\n |xp = 34\n |base = 78\n |time3 = 1 h 25 min\n |dia= 6\n}}\n'''Shepherd's pies''' are [[products]] unlocked at [[experience]] level 39.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making shepherd's pies'''===\n[[File:Pie Oven.png|150px|left|Pie Oven]]\nShepherd's pies are made in the [[Pie Oven]].\n\nTo make a pie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|link=Potato|Potatoes]]\n|[[File:Bacon.png|75px|link=Bacon|Bacon]]\n|[[File:Carrot.png|75px|link=Carrot|Carrots]]\n|[[File:Pumpkin.png|75px|link=Pumpkin|Pumpkins]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 1 hour and 40 minutes to make a pie, and 1 hours and 25 minutes in a fully [[Masteries|mastered]] oven. Each pie gives players 34 [[experience]] points.\n{{Clr}}\n----\n==='''Selling shepherd's pies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Shepherd's pies can be bought or sold for a maximum price of 2,808 {{Infoicon|coin}} for 10 pies.\n* Buying the ingredients required to make a shepherd's pie costs 250 {{Infoicon|coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 shepherd's pies per crate, up to a total of 8 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* It used to be the only Pie Oven product not require eggs, until the introduction of the [[Eggplant Parmesan]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Shepherds Pie\n|es = Gratinado de carne\n|fr = Hachis Parmentier\n|it = Pasticcio di carne\n|nl = Hutspotschotel\n|no = Shepherds pai\n|zh = Shepherd's Pie\n}}\n[[pt-br:Escondidinho]]\n[[ru:Пастуший пирог]]\n[[Category:Pie Oven Products]]\n[[Category:Carrot Products]]\n[[Category:Bacon Products]]\n[[Category:Pumpkin Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "041d85b9188894cfb4539dc57ca0212fe6bfe2d6f28a6b50cb700c7a79ea4a5f"
 }

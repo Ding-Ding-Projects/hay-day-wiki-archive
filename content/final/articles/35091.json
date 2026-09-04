@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sesame_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98568,
   "revisionTimestamp": "2021-08-31T21:21:00Z",
   "route": "/wiki/category%2Fcategory-sesame-products-35091",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sesame_Products",
   "title": "Category:Sesame Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sesame.png|thumb]]\nProducts of [[Sesame]].\n[[Category:Products]]",
   "wikitextHash": "061434511e52c937b75cb344c9ad081205d42b2ffe345b32ef22af03a0808d64"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Daily_Dirt_Cover_Old.jpg",
+  "filePageId": 7062,
+  "filePageRevisionId": 65989,
+  "filePageRevisionSha1": "0b3d3b43e7a06864b60856d516f06de4e763bd51",
+  "filePageRevisionTimestamp": "2016-10-28T13:28:47Z",
+  "filePageWikitext": "The old cover of the Daily Dirt.\n{{License SC}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "e92b5aa74f98ba7b54b48a394693930596e9f07cc60d14e46d81988124358983",
   "height": 547,
   "immutableUrl": null,
   "mediaId": "File:Daily Dirt Cover Old.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2013-07-04T03:27:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADaily%20Dirt%20Cover%20Old.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76280,
   "sourceSha1": "cae17b823a56a66543aeb53f713c251f9fb8a08a",

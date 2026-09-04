@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -307,11 +315,12 @@
   "revisionId": 109681,
   "revisionTimestamp": "2026-04-14T17:08:26Z",
   "route": "/wiki/eggplant-30745",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Eggplant",
   "title": "Eggplant",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Eggplant.png|200px|left]]\n\n{{Infobox\n|level = 90\n|price = 1 to 14\n|time = 40 min\n|xp = 3\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 4\n|dia = 3\n|title = [[Crops|Crop]]}}\n'''Eggplant''' is a field [[crops|crop]] unlocked at [[experience]] level 90.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing eggplant'''===\nEggplant is grown in [[Farm|fields]] by planting another eggplant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 40 minutes to mature.\n<gallery>\nFile:Eggplant Stage 1.png\nFile:Eggplant Stage 2.png\nFile:Eggplant Stage 3.png\nFile:Eggplant Stage 4.png\nFile:Eggplant Stage 5.png\n</gallery>\n----\n==='''Selling eggplant'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Eggplant can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using eggplant''' ===\nEggplant is used to make the following [[products]]:\n\n{{Item Usage|Eggplant\n|Grilled Eggplant|3|90\n|Eggplant Parmesan|4|99\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 22 to 32 eggplant per crate, up to a total of 120 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Aubergine\n|es = Berenjena\n|fr = Aubergine\n|it = Melanzana\n|no = Aubergine\n}}\n[[Category:Field Crops]]",
   "wikitextHash": "1a938eebb95a775cd7a66b17e4fbdfa38e6a61d7d6c7979bcc666f017cade04c"
 }

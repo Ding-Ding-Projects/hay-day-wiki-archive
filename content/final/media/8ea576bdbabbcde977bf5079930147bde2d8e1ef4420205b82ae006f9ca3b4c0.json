@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey.png",
+  "filePageId": 15812,
+  "filePageRevisionId": 104690,
+  "filePageRevisionSha1": "e10058c4040f4f451c04069c4a39431ca9919324",
+  "filePageRevisionTimestamp": "2024-02-09T01:25:57Z",
+  "filePageWikitext": "Picture of Honey (honey jar).\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "6789d0e226bf5f235ba9b2da76e83e86217645ee5f4afcf56eee2a1609eaa438",
   "height": 1304,
   "immutableUrl": null,
   "mediaId": "File:Honey.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 31,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-09T01:25:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1352324,
   "sourceSha1": "5f9066f6254e476923025b758ebb95426d13c1d0",

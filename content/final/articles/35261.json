@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Peacocks?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 99238,
   "revisionTimestamp": "2021-10-24T20:05:33Z",
   "route": "/wiki/category%2Fcategory-peacocks-35261",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Peacocks",
   "title": "Category:Peacocks",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of peacocks available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "be3c4bcab3d7ac37ec5fc8fa58541afd101b4742a1476725cd1f59b08ae7a5b5"
 }

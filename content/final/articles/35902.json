@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Breakfast_Yogurt?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 103769,
   "revisionTimestamp": "2023-09-19T22:01:02Z",
   "route": "/wiki/breakfast-yogurt-35902",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Breakfast_Yogurt",
   "title": "Breakfast Yogurt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Breakfast Bowl]]",
   "wikitextHash": "e65b6d278254cbd4c04b40c1618cdf240d051bc0fe1752343f21b9e8f10b7687"
 }

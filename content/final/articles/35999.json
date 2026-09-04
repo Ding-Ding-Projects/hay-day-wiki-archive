@@ -12,7 +12,27 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Chamomile Products",
+    "Category:Chocolate Cake Products",
+    "Category:Coffee Bean Products",
+    "Category:Cotton Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Wooly Chaps Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Chamomile Products",
+      "Category:Chocolate Cake Products",
+      "Category:Coffee Bean Products",
+      "Category:Cotton Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Wooly Chaps Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -183,11 +203,12 @@
   "revisionId": 108959,
   "revisionTimestamp": "2025-12-17T14:06:02Z",
   "route": "/wiki/red-gift-35999",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Red_Gift",
   "title": "Red Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Red Gift.png|200px|left|Red Gift|link=Special:FilePath/Red Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 25\n |level = 25\n |time = 45m\n |source = {{Infoicon|giftwrappings2023|bigger|link=Gift Wrapping Station}}\n |xp = \n |dia = 3\n |time3 = 39m\n}}\n'''Red Gift''' is a [[products|product]] unlocked at [[experience]] level 25. It's a special item used only for the Christmas 2023 event.\n\nThe Red Gift returns as a special item for the Christmas 2024 event, but with a different appearance and requires different items to create it in the Gift Wrapping Station.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n\n== '''Appearance''' ==\n\n=== 2023 ===\n<gallery>\nFile:Red Gift.png|Red Gift in 2023\n</gallery>\n\n=== 2024 ===\n<gallery>\nFile:Red Gift 2024.png|Red Gift in 2024\n</gallery>\n\n{{Clr}}\n----\n\n==='''Making Red Gifts'''===\n[[File:Gift Wrapping Station 2023.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station_2023.png]]\nRed Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a red gift in the Christmas 2023 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wooly Chaps.png|75px|Wooly Chaps|link=Wooly Chaps]]\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 45 minutes to make one gift, and 39 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 68 [[experience]] points.\n\nTo make a red gift in the Christmas 2024 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chocolate_Cake.png|75px|Chocolate Cake|link=Chocolate Cake]]\n|[[File:Coffee_Bean.png|75px|Coffee Bean|link=Coffee Bean]]\n|[[File:Chamomile.png|75px|Chamomile|link=Chamomile]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\nIt takes 10 minutes to make one gift, and 8 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 122 [[experience]] points.\n\nTo make a red gift in the '''Christmas 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Icy Gift.png|75px|Icy Gift|link=Icy Gift]]\n|[[File:Violet Dress.png|75px|Violet Dress|link=Violet Dress]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make a gift. Each treat gives players 173 experience points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 25 [[holly]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Regalo rojo\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Wooly Chaps Products]]\n[[Category:Apple Products]]\n[[Category:Cotton Products]]\n[[Category:Chocolate Cake Products]]\n[[Category:Coffee Bean Products]]\n[[Category:Chamomile Products]]",
   "wikitextHash": "afc2a591c1e7c5adc1e88fd2a58d383616cfb7faf6c8610f5a1b7dc9581e3bd0"
 }

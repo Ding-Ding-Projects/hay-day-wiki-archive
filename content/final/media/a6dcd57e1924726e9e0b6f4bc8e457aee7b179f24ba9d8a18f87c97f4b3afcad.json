@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bacon.png",
+  "filePageId": 2173,
+  "filePageRevisionId": 88932,
+  "filePageRevisionSha1": "8056e0fc13a3cc0a631c50fec5c547cf4533ac64",
+  "filePageRevisionTimestamp": "2019-10-25T19:34:33Z",
+  "filePageWikitext": "Picture of bacon.\n{{License SC}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "3f9b435c9c58fc8752b8579cd369028db4f15433c0ecd4c7a82a00efe3445331",
   "height": 195,
   "immutableUrl": null,
   "mediaId": "File:Bacon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 55,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T19:34:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABacon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 35980,
   "sourceSha1": "ae14b91b6a1182a0322f529b258604704cfce874",

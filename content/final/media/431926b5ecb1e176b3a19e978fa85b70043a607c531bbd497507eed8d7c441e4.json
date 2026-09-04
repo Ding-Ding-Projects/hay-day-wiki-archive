@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bacon_Donut.png",
+  "filePageId": 34942,
+  "filePageRevisionId": 104786,
+  "filePageRevisionSha1": "ff1e7787a160ff8c22fcdf893f3749fec502b9cc",
+  "filePageRevisionTimestamp": "2024-02-12T10:15:25Z",
+  "filePageWikitext": "== Summary ==\n[[Bacon Donut|Bacon donut]] from official Dairy News video, until actual image with no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "79dab80de1b6523051b2410a417fbe4ac5effb937a1e618194ba802232f76d85",
   "height": 2284,
   "immutableUrl": null,
   "mediaId": "File:Bacon Donut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T10:15:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABacon%20Donut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2076450,
   "sourceSha1": "e4eb475f3a2b6b4c9594dc01af99fda6d8717e99",

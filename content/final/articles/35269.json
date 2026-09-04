@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 99312,
   "revisionTimestamp": "2021-11-06T14:50:00Z",
   "route": "/wiki/category%2Fcategory-preservation-station-products-35269",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Preservation_Station_Products",
   "title": "Category:Preservation Station Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Preservation Station.png|thumb]]\nProducts of the [[Preservation Station]].\n[[Category:Products]]",
   "wikitextHash": "4fa5162ab8b3b6c6c72f3888e4733b7bbddd4eec5014883b66d834e1ae7e26dd"
 }

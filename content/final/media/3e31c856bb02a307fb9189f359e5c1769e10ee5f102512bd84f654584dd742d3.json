@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_FAQ_cover.png",
+  "filePageId": 7365,
+  "filePageRevisionId": 65965,
+  "filePageRevisionSha1": "29de14c90c7d67953bea1c4188387ae0a404e971",
+  "filePageRevisionTimestamp": "2016-10-28T13:18:07Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image FAQ]]",
+  "filePageWikitextHash": "58e8acea4020cd0c088736ec1e06fc8b9b7a99b3c7b263defda48c1fefd1b006",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:HayDay FAQ cover.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2013-07-15T23:50:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHayDay%20FAQ%20cover.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 56249,
   "sourceSha1": "10f60beae64f46cb912a25067cccbfb9a42c0379",

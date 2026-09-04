@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +187,12 @@
   "revisionId": 110483,
   "revisionTimestamp": "2026-06-08T20:01:31Z",
   "route": "/wiki/donkey-stable-9426",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Donkey_Stable",
   "title": "Donkey Stable",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n''Note: this page is about donkey stables, not to be confused with [[Horse Stable|horse stable]]s.''\n\n[[File:Donkey Stable.png|200px|left|Donkey stable]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 43 • 55\n |price = 25,000\n |houses = {{Infoicon|provd|big|link=Provence Donkey}}{{Infoicon|andalud|big|link=Andalusian Donkey}}{{Infoicon|anatold|big|link=Anatolian Donkey}} x3\n}}\n'''Donkey stables''' are shelters for [[:Category:Donkeys|donkeys]]. The first house is unlocked at [[experience]] level 43.\n{{Clr}}\n----\n\n==='''Appearance'''===\n[[File:Provence Donkey Hungry.png|150px|left]]\nThe stable is an old blue stall with hay inside it. However, donkeys never go into the stall or eat the hay. They eat [[carrot]]s and sleep in front of the stable.\n{{Clr}}\n----\n==='''Building'''===\nEach stable costs 25,000 {{Infoicon|coin}} and can hold up to three donkeys. The second stable is unlocked at level 55. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Eselstall\n|es = Establo de burros\n|fr = Écurie pour ânes\n|it = Stalla per asini\n|no = Eselstall\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "bfd9e538b48dc0c3aa0070c9b38948dbbda6d8a752be398749ee2e599126e25c"
 }

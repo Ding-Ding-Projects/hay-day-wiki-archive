@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cupcake_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 102047,
   "revisionTimestamp": "2022-11-30T21:17:54Z",
   "route": "/wiki/category%2Fcategory-cupcake-maker-products-35668",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cupcake_Maker_Products",
   "title": "Category:Cupcake Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Cupcake Maker.png|thumb]]\nProducts of the [[Cupcake Maker]].\n[[Category:Products]]",
   "wikitextHash": "0e27cbb626aaf4dbb76c37db7eaaab3a4d6bb063cbea399f8209af25fc86bbeb"
 }

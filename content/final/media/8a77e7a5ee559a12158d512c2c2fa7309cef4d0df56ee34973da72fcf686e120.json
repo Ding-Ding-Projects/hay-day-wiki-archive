@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Train_Station.png",
+  "filePageId": 20945,
+  "filePageRevisionId": 89184,
+  "filePageRevisionSha1": "6afe5ec339bf68f366f0d5e2cdf53db2996adfa2",
+  "filePageRevisionTimestamp": "2019-10-28T12:52:41Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "269e312e7502cc8a09b74a33cd91cc3de9ee677fb59a23687a58deb31f3dfce0",
   "height": 1008,
   "immutableUrl": null,
   "mediaId": "File:Train Station.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 6,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T12:52:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATrain%20Station.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 859243,
   "sourceSha1": "579aea1bfa0b58788f5bd726f22304560d2207c3",

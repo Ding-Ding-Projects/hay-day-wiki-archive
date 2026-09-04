@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:FishingMap_Names.png",
+  "filePageId": 15966,
+  "filePageRevisionId": 82358,
+  "filePageRevisionSha1": "e3eb76be7dd48d46e522171f4697a50f1da0f3c2",
+  "filePageRevisionTimestamp": "2018-07-25T20:06:02Z",
+  "filePageWikitext": "A fishing map with the names of all the fishing spots. Based on [[User:Havavu|Havavu]]'s version of this map.\n\nWith added times thanks to almosta.\n\n{{License SC}}\n[[Category:Image Fishing]]",
+  "filePageWikitextHash": "edf1d9deb70c41d5f75a2afb933d4eb335e64f9ac6679a11395631e73827b9bf",
   "height": 661,
   "immutableUrl": null,
   "mediaId": "File:FishingMap Names.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 50,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-07-25T20:06:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFishingMap%20Names.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 974553,
   "sourceSha1": "e6837d0b0d8b8e082b2476843f1340239b1645e5",

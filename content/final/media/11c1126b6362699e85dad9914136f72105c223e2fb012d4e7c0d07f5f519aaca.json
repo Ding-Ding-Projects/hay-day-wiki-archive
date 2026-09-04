@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cream_Donut.png",
+  "filePageId": 34944,
+  "filePageRevisionId": 104787,
+  "filePageRevisionSha1": "d5de0eb02930ca4c86212fdf7334a77a44ca0a49",
+  "filePageRevisionTimestamp": "2024-02-12T10:16:25Z",
+  "filePageWikitext": "== Summary ==\nImage of [[Cream Donut|cream donut]], place holder until actual image with no background is uploaded\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "c695cc42ac818f7e6f46590155783df59db004ff35663676c1895eb99ca783b8",
   "height": 2340,
   "immutableUrl": null,
   "mediaId": "File:Cream Donut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T10:16:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACream%20Donut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1772570,
   "sourceSha1": "28828d322bde6a480d2fb44c568e90418f2baa69",

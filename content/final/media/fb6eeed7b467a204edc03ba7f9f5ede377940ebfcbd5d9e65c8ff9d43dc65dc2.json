@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_208.png",
+  "filePageId": 35349,
+  "filePageRevisionId": 100302,
+  "filePageRevisionSha1": "964bc357860a4b5b437ce08c186608f053e9040a",
+  "filePageRevisionTimestamp": "2022-02-16T20:47:06Z",
+  "filePageWikitext": "== Summary ==\nLevel 208 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "c1d0295c2eb7b0237eeb40453541b59a3b952181490bcc2f7bc651b51544f043",
   "height": 367,
   "immutableUrl": null,
   "mediaId": "File:Level 208.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-02-16T13:53:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20208.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 618039,
   "sourceSha1": "0ecbaacb7cc51fc6e1ace2a02cc74e6e0e8ff22a",

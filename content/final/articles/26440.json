@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Cherry Products",
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Cherry Products",
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 107773,
   "revisionTimestamp": "2025-04-13T21:12:18Z",
   "route": "/wiki/banana-split-26440",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Banana_Split",
   "title": "Banana Split",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Banana Split.png|200px|left|Banana split]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 96\n |price = 1 to 403\n |time = 3 h 30 min\n |source = {{Infoicon|IceCreamM|bigger|link=Ice Cream Maker}}\n |xp = 48\n |base = 112\n |dia = 6\n |time3 = 2 h 58 min\n}}\n'''Banana split''' is a [[Products|product]] unlocked at [[experience]] level 96.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making banana split'''===\n[[File:Ice Cream Maker.png|150px|left|Ice cream maker]]\nBanana split is made in the [[Ice Cream Maker]].\n\nTo make the split, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Banana.png|75px|Banana|link=Banana]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Cherry.png|75px|Cherries|link=Cherry]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 3 hours 30 minutes to make one unit, and 2 hours 58 minutes in a fully [[Masteries|mastered]] maker. Each unit gives players 48 [[experience]] points.\n\n{{Clr}}----\n==='''Selling banana split'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Banana split can be bought or sold for a maximum price of 4,032 {{Infoicon|Coin}} for 10 desserts.\n* Buying the ingredients required to make a split costs 358 {{Infoicon|Coin}} .\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 banana splits per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Bananensplit\n|es = Banana split\n|fr = Banana Split\n|it = Banana split\n|nl = Bananasplit\n|no = Bananasplitt\n|ru = Банановое мороженое\n|zh = Banana Split\n}}\n[[pt-br:Banana split]]\n\n[[Category:Ice Cream Maker Products]]\n[[Category:Cream Products]]\n[[Category:Cherry Products]]\n[[Category:Banana Products]]",
   "wikitextHash": "132b600dc9f4676972cb04dbe7ee1e9293a84f6d72a5a35f1d948b54e97987e2"
 }

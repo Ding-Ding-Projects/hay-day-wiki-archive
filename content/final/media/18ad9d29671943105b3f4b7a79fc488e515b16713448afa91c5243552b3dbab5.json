@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Honey_Extractor.png",
+  "filePageId": 15810,
+  "filePageRevisionId": 108594,
+  "filePageRevisionSha1": "994cebf977655d907f26de557054e83c698a2e3a",
+  "filePageRevisionTimestamp": "2025-09-25T20:09:45Z",
+  "filePageWikitext": "Picture of the Honey Extractor (when in use)\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "bc3ea68f9f3c92cb3a9cd9a76beab6f5fc4fd3a2c5647f541a2ee0362d46db6c",
   "height": 517,
   "immutableUrl": null,
   "mediaId": "File:Honey Extractor.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 6,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T20:09:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoney%20Extractor.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 258460,
   "sourceSha1": "a20d478c6ad2b3f22fcd91deca29a9992e50a596",

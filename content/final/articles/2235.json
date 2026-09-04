@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -453,11 +461,12 @@
   "revisionId": 110355,
   "revisionTimestamp": "2026-06-03T16:56:17Z",
   "route": "/wiki/chili-pepper-2235",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chili_Pepper",
   "title": "Chili Pepper",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chili Pepper.png|200px|left|Chili Pepper]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 25\n |price = 1 to 36\n |time = 4 h\n |xp = 7\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 10\n |dia = 7\n}}\n'''Chili peppers''' are field [[crops]] unlocked at [[experience]] level 25.\n\nThey are used to make many recipes, including [[salsa]], which is used to make other [[products]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 540 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing chili peppers'''===\nChili peppers are grown in [[Farm|fields]] by planting another pepper (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 7 {{Infoicon|xp}} points, and takes 4 hours to mature. \n<gallery>\nChili Pepper Stage 1.png\nChili Pepper Stage 2.png\nChili Pepper Stage 3.png\nChili Pepper Stage 4.png\nChili Pepper Stage 5.png\n</gallery>\n----\n==='''Selling chili peppers'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Chili peppers can be sold or bought for a maximum price of 360 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using chili peppers'''===\nChili peppers are used to make the following [[products]]:\n\n{{Item Usage|Chili Pepper\n|Chili Popcorn|2|25\n|Green Gift|3|25|temp=Green Gift|tempend=20230102\n|Fish Burger|1|27\n|Spicy Bean Doner|3|32\n|Baked Potato|1|35\n|Spicy Pizza|1|37\n|Lobster Soup|2|46\n|Tomato Soup|1|47\n|Lobster Skewer|1|48\n|Bean Dip|1|54\n|Lamb Stir Fry|2|69\n|Noodle Soup|1|73\n|Salsa|2|77\n|Summer Rolls|1|78\n|Fish Taco|2|79\n|Spicy Fish|3|79\n|Onion Dog|1|80\n|Bell Pepper Soup|1|81\n|Quesadilla|2|82\n|Spicy Pasta|3|87\n|Bacon Fries|1|87\n|Canned Fish|1|95\n|Chili Poppers|3|98\n|Kimchi|1|98\n|Falafel|1|98\n|Tart Dressing|2|100\n|Samosa|1|103\n|Chili Fudge|3|104\n|Chili Stew|3|109\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 13 chili per crate, up to a total of 52 per boat.\n* Each unit of chili pepper gives players 14 coins and 11 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Chili are uncommon enough that selling them at a lower price is not necessary.\n* Chili can very often be found in the [[Daily Dirt]], and sells very quickly.\n* No recipe asks for more than three chili peppers so they are not a crop you need to keep very large quantities of.\n** Despite being used in low quantities, it is used in a variety of dishes, some of which don't show clear signs of it being required such as [[Tomato Soup]], [[Lobster Skewer]], and [[Summer Rolls]], so your supplies may diminish if not monitored.\n----\n{{Navigation}}\n{{Languages\n|de = Chili\n|es = Chile\n|fr = Piment\n|it = Peperoncino\n|no = Chilipepper\n|vi = Chili Pepper\n|zh = Chili Pepper\n}}\n[[pt-br:Pimenta]]\n[[ru:Перец чили]]\n[[Category:Field Crops]]",
   "wikitextHash": "ca6bdd794b51dbe97c59b91eaf330b62e3358b845ed50b002450360bf6f3d27b"
 }

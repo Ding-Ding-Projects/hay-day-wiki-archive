@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Egg Products",
+    "Category:Rice Products",
+    "Category:Soy Sauce Products",
+    "Category:Sushi Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Egg Products",
+      "Category:Rice Products",
+      "Category:Soy Sauce Products",
+      "Category:Sushi Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -144,11 +160,12 @@
   "revisionId": 107222,
   "revisionTimestamp": "2025-02-09T18:50:25Z",
   "route": "/wiki/egg-sushi-8970",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Egg_Sushi",
   "title": "Egg Sushi",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Egg Sushi.png|200px|left|Egg sushi]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 63\n |price = 1 to 550\n |time = 2 h\n |source = {{Infoicon|sushib|bigger|link=Sushi Bar}}\n |xp = 66\n |base = 153\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Egg sushi''' are [[products]] unlocked at [[experience]] level 63.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making egg sushi'''===\n[[File:Sushi Bar.png|150px|left|Sushi Bar]]\nEgg sushi is made in the [[Sushi Bar]].\n\nTo make a sushi, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Brown Sugar.png|75px|link=Brown Sugar|Brown sugar]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Rice.png|75px|link=Rice|Rice]]\n|[[File:Soy Sauce.png|75px|link=Soy Sauce|Soy sauce]]\n|-\n|'''x1'''\n|'''x4'''\n|'''x15'''\n|'''x1'''\n|}\nIt takes 2 hours to make a sushi, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] bar. Each sushi gives players 66 [[experience]] points.\n\n{{Clr}}----\n==='''Selling egg sushi'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* They can be bought or sold for a maximum price of 5,508 {{Infoicon|coin}} for 10 pieces.\n* Buying the ingredients required to make a sushi costs 528 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 sushi per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Making [[Soy Sauce|soy sauce]] takes much longer than making sushi does: 3 hours or 2 hours and 33 minutes in a mastered saucer.\n----\n==='''Did you know?'''===\n* Egg sushi is called ''tamagoyaki'' in Japan.\n* Egg Sushi is the only product from the Sushi Bar that requires Soy Sauce, to not have any visible.\n----\n\n{{Navigation}}\n{{Languages\n|de = Eiersushi\n|es = Sushi de huevo\n|fr = Sushi aux Œufs\n|it = Sushi di uova\n|nl = Sushi met Ei\n|no = Eggsushi\n|zh = Egg Sushi\n}}\n[[pt-br:Sushi de ovo]]\n[[ru:Суши с омлетом]]\n\n[[Category:Sushi Bar Products]]\n[[Category:Egg Products]]\n[[Category:Brown Sugar Products]]\n[[Category:Soy Sauce Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "e80b5328bce4683ab4536b323ad9d9b248052c3e850c685462fdc1dbec4a0906"
 }

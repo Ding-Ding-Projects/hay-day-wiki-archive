@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Milk Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Milk Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -193,11 +209,12 @@
   "revisionId": 105976,
   "revisionTimestamp": "2024-10-20T16:57:30Z",
   "route": "/wiki/chocolate-ice-cream-2327",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Ice_Cream",
   "title": "Chocolate Ice Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Ice Cream.png|left|200px|Chocolate ice cream]]\n\n{{Infobox\n|title = [[Products|Product]]\n|level = 39\n|price = 1 to 342\n|time = 2 h 30 min\n|xp = 41\n|source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n|dia = 6\n|base = 95\n|time3 = 2 h 7 min\n}}\n'''Chocolate ice cream''' is a [[Products|product]] unlocked at [[experience]] level 39. \n\nIt is used to make [[Mocha Milkshake|mocha milkshake]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making chocolate ice cream''' ===\n[[File:Ice Cream Maker.png|left|150px|link= Ice Cream Maker]]\nChocolate ice cream is made in the [[Ice Cream Maker]].\n\nTo make chocolate ice cream, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|link=Cream|Cream x1]]\n|[[File:White Sugar.png|75px|link=White Sugar|White sugar x1]]\n|[[File:Cacao.png|75px|link=Cacao|Cacao x2]]\n|[[File:Milk.png|75px|link=Milk|Milk x2]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours and 30 minutes to make a cone, and 2 hours 7 minutes in a fully [[Masteries|mastered]] machine. Each cone gives players 41 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling chocolate ice cream'''===\n[[File:Roadside Shop.png|left|150px|Roadside Shop]]\n* Chocolate ice cream can be bought or sold for a maximum price of 3,420 {{Infoicon|coin}} for 10 cones.\n* Buying the ingredients required to make chocolate ice cream costs 304 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using chocolate ice cream'''===\nChocolate ice cream is used to make the following [[products|product]]:\n\n{{Item Usage|Chocolate Ice Cream\n|Mocha Milkshake|1|125\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 chocolate ice cream per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Ice cream is an extremely sought-after item. You won't find it in the [[Daily Dirt]]. You may want to make sure you always have some in stock or in production.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Schokoladeneis\n|es = Helado de chocolate\n|fr = Glace au Chocolat\n|it = Gelato al cioccolato\n|nl = Chocolade-ijs\n|no = Sjokoladeis\n|zh = Chocolate Ice Cream\n}}\n[[pt-br:Sorvete de chocolate]]\n[[ru:Шоколадное мороженое]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Milk Products]]\n[[Category:Cream Products]]\n[[Category:White Sugar Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "a40348f2189a0762bfaf1b70574a6083f61a96bf6956fa14115944824ce5ac1e"
 }

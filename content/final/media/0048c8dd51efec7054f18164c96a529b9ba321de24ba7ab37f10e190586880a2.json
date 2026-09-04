@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chinese_Money_Plant.png",
+  "filePageId": 36905,
+  "filePageRevisionId": 110847,
+  "filePageRevisionSha1": "90794b7d01c8d5f22cc1f602f2af7dbdfe066d82",
+  "filePageRevisionTimestamp": "2026-08-06T10:49:34Z",
+  "filePageWikitext": "== Summary ==\nBrown panda\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "8635b7e9a48de9a41b905399f2e5e166eb3213b0cc8055937415bf9ec788e684",
+  "height": 628,
+  "immutableUrl": null,
+  "mediaId": "File:Chinese Money Plant.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-08-06T10:49:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AChinese%20Money%20Plant.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 272919,
+  "sourceSha1": "f6b2cc8f8dcc385e3faba9b790aeb8ebabef8a0e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/47/Chinese_Money_Plant.png/revision/latest?cb=20260806104934",
+  "title": "File:Chinese Money Plant.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 454
+}

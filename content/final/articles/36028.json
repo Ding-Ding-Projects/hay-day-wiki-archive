@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Essential Oils Lab Products",
+    "Category:Lemon Products",
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Essential Oils Lab Products",
+      "Category:Lemon Products",
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -123,11 +135,12 @@
   "revisionId": 107680,
   "revisionTimestamp": "2025-04-10T02:56:52Z",
   "route": "/wiki/lemon-essential-oil-36028",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lemon_Essential_Oil",
   "title": "Lemon Essential Oil",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Lemon Essential Oil.png|left|184x184px|Lemon Essential Oil]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 68\n |price = 1 to 288\n |time = 10 min\n |source = {{Infoicon|essentialoilslab|bigger|link=Essential Oils Lab}}\n |xp = 34\n |base = 80\n |dia = 2\n |time3 = 8 min\n}}\n'''Lemon Essential Oil''' is a [[products|product]] unlocked at [[experience]] level 68. It was added in the March 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Lemon Essential Oil'''===\n[[File:Essential Oils Lab.png|150px|left|Essential Oils Lab]]\nLemon Essential Oil is made in the [[Essential Oils Lab]].\n\nTo make Lemon Essential Oil, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x3'''\n|}\nIt takes 10 Minutes to make Lemon Essential Oil, and 8 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Lemon Essential Oil'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lemon Essential Oil can be bought or sold for a maximum price of 2,880 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Lemon Essential Oil costs 279 {{Infoicon|coin}}.\n{{Clr}}----\n==='''Using lemon essential oil '''===\nLemon essential oil is used to make the following [[products]]:\n{{Item Usage|Lemon Essential Oil\n|Zesty Perfume|1|113\n}}\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 lemon essential oil per crate, up to a total of 6 per boat.\n\n{{Navigation}}\n\n{{Languages\n|de = Ätherisches Zitronenöl\n|es = Aceite esencial de limón\n|it = Olio essenziale di limone\n|no = Eterisk sitronolje\n}}\n[[pt-br:Óleo essencial de limão]]\n[[ru:Лимонное эфирное масло]]\n\n[[Category:Essential Oils Lab Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "61275283f9412a40a486242bc054c08041b617e13f5d67b2fc60bb5f94a6b622"
 }

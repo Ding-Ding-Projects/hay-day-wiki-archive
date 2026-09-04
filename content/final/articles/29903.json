@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -339,11 +349,12 @@
   "revisionId": 109791,
   "revisionTimestamp": "2026-05-04T17:38:02Z",
   "route": "/wiki/mint-29903",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mint",
   "title": "Mint",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mint.png|200px|left|Mint]]\n\n{{Infobox\n|level = 85\n|price = 1 to 32\n|time = 3 h\n|xp = 6\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 9\n|dia = 6\n|title = [[Crops|Crop]]}}\n'''Mint''' is a field [[crops|crop]] unlocked at [[experience]] level 85.\n\nThey are used to make  [[Mint Ice Cream|mint ice cream]], [[Mint Tea|mint tea]], and [[Plum Smoothie|plum smoothie]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for ??? {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing mint'''===\nMint is grown in [[Farm|fields]] by planting another mint (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 [[experience]] points, and takes 3 hours to mature.\n<gallery>\nFile:Mint Stage 1.png\nFile:Mint Stage 2.png\nFile:Mint Stage 3.png\nFile:Mint Stage 4.png\nFile:Mint Stage 5.png\n</gallery>\n----\n==='''Selling mint'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Mint can be sold or bought for a maximum price of 324 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using mint''' ===\nMint is used to make the following [[products]]:\n\n{{Item Usage|Mint\n|Mint Ice Cream|2|85\n|Mint Essential Oil|5|85\n|Chocolate Roll|3|95\n|Mint Tea|2|97\n|Plum Smoothie|1|102\n|Mint Fudge|3|102\n|Fresh Porridge|2|122\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 11 to 16 mint per crate, up to a total of 60 per boat.\n\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n{{NoTips}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Minze\n|es = Menta\n|fr = Menthe\n|it = Menta\n|no = Mynte\n}}\n[[pt-br:Hortelã]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "e86df5084a617230d5c505d7a019a1c91f580b237c85674178ed744c099eb741"
 }

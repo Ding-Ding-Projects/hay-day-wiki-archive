@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -167,11 +175,12 @@
   "revisionId": 110485,
   "revisionTimestamp": "2026-06-08T20:01:58Z",
   "route": "/wiki/goat-yard-2723",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Goat_Yard",
   "title": "Goat Yard",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Goat Yard.png|200px|left|Goat yard]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 32 • 37 • 50\n |price = 1,000\n |houses = {{Infoicon|goat|big|link=Goat}} x4\n}}\n'''Goat yards''' are shelters for [[goat]]s. The first yard is unlocked at [[experience]] level 32.\n{{Clr}}\n----\n==='''Appearance'''===\nThe yard is a fenced square, on plain ground.\n----\n==='''Building'''===\nEach yard costs 1,000 {{Infoicon|coin}} and can hold up to four goats. The second yard is unlocked at level 37, and the last one at level 50. Building them takes no time.\n----\n==='''Strategy tips'''===\n* If you have some object obscuring your view of the goats tap on the pen. If the harvest or feed icon are in color then you can harvest or feed at least one goat.\n----\n{{Navigation}}\n{{Languages\n|de = Ziegengehege\n|es = Corral de cabras\n|fr = Enclos à chèvres\n|it = Recinto per capre\n|no = Geitegård\n}}\n[[pt-br:Curral de cabras]]\n\n[[Category:Animal Shelters]]",
   "wikitextHash": "9a238825cdd0b4b7d941a64547ea0011cbfdc9836536d991812e0770ab8d7901"
 }

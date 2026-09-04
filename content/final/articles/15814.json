@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +179,12 @@
   "revisionId": 110101,
   "revisionTimestamp": "2026-05-16T22:58:14Z",
   "route": "/wiki/honey-bee-15814",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Bee",
   "title": "Honey Bee",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Bee.png|200px|left|Honey bee]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 39\n |price = 1,500 to 3,000\n |gives = {{Infoicon|honeyc|big|link=Honeycomb}}\n |time = every ≈35 min\n}}\n'''Honey bees''' are [[farm]] [[animals]] which produce [[honeycomb]]. They are unlocked at [[experience]] level 39. They are the sixth type of farm animal unlocked in the game.\n{{Clr}}\n----\n==='''Appearance'''===\n<gallery>\nHoney Bee.png\nHoney Bee Flying Down.png\nHoney Bee Flying Up.png\nHoney Bee Full.png\nFile:Honey Bee Summer.png|Honey Bee Summer\nFile:Honey Bee Winter.png|Honey Bee Winter\n</gallery>\n----\n==='''Alternate appearance'''===\n{{Main|Themes}}\nHoney bees wear themed accessories during summer, Halloween and winter.\n----\n==='''Buying'''===\n[[File:Beehive Tree Stage 4.png|150px|left|Beehive tree]]\nHoney bees must be placed in a [[Beehive Tree|beehive tree]] to be purchased. The tree costs 4,000 [[coin]]s. The tree has room for one beehive and three bees at first. At this point bees cost 1,500 {{Infoicon|coin}} each. The tree has to grow to make room for more beehives. Growth happen when enough drops of nectar have been brought to the tree by the bees:\n* When 4,000 drops of nectar have been brought, a second beehive is added and three more bees can be purchased for 2,000 {{Infoicon|coin}} each.\n* At 40,000 drops a third beehive is added and three more bees can be purchased for 2,500 {{Infoicon|coin}} each.\n* At 400,000 drops, a fourth and last beehive is added and three more bees can be purchased for 3,000 {{Infoicon|coin}} each.\n\nHoney bees can be bought from the [[Shop]].\n{{Clr}}\n----\n==='''Harvesting'''===\n[[File:Skep.png|150px|left|Skep]]\nHoney bees make honeycomb by flying to [[Nectar Bush|nectar bushes]], collecting drops of nectar -one per bee- then flying them back to the beehive. It takes approximately 35 minutes to get enough nectar to make honeycomb, providing bushes are as close as possible to the beehive tree and there are enough bushes to get nectar from. Players can then collect it from the tree.\n\nBees collect nectar even players are offline -distance does not matter then- but stop doing so when all beehives are full.\n{{Clr}}\n----\n==='''Tutorial'''===\n[[File:Hay Day Introducing the Bees|350px|left|Hay Day tutorial about bees.]]\n{{Clr}}\n----\n[[ru:Пчела]]\n{{Navigation}}\n{{Languages\n|de = Honigbiene\n|es = Abeja\n|fr = Abeille\n|it = Ape domestica\n}}\n[[Category:Farm Animals]]",
   "wikitextHash": "d6f03671abab2cbd98bf132d8b3aa6d2b45683b463b07abb914e21dc1ac9a098"
 }

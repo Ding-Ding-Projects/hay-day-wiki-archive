@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 110534,
   "revisionTimestamp": "2026-06-15T21:08:35Z",
   "route": "/wiki/category%2Fcategory-teeth-treats-products-36827",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Teeth_Treats_Products",
   "title": "Category:Teeth Treats Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Teeth Treats.png|thumb]]\nProducts of [[Teeth Treats]].\n[[Category:Products]]",
   "wikitextHash": "6e6d6180cdcbcaf5fc50d1ba6b51af7c7dd79b89ecda4f0c411860cacfe1b1eb"
 }

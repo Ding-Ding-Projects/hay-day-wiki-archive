@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Bar.png",
+  "filePageId": 17290,
+  "filePageRevisionId": 104544,
+  "filePageRevisionSha1": "1840f982c49e38fc6f9d9b07d44e8c900347dff3",
+  "filePageRevisionTimestamp": "2024-01-26T13:17:43Z",
+  "filePageWikitext": "Picture of an experience bar.\n{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "f4b9c1ca2309567eec645a63085c56fe64dea81a374ea1262a8da61acdafd036",
   "height": 249,
   "immutableUrl": null,
   "mediaId": "File:Experience Bar.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-01-26T13:17:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Bar.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 210567,
   "sourceSha1": "a493d904beadf5a205ad51de34df134113936cc4",

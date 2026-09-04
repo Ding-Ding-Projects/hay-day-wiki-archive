@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Olive Oil Products",
+    "Category:Sauce Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Olive Oil Products",
+      "Category:Sauce Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -223,11 +235,12 @@
   "revisionId": 106598,
   "revisionTimestamp": "2024-12-10T20:49:10Z",
   "route": "/wiki/mayonnaise-8931",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mayonnaise",
   "title": "Mayonnaise",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Хлеб]]\n{{PageDisplay}}\n[[File:Mayonnaise.png|200px|left|Mayonnaise]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 62\n |price = 1 to 367\n |time = 15 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 44\n |base = 102\n |dia = 2\n |time3 = 12 min\n}}\n'''Mayonnaise''' is a [[Products|product]] unlocked at [[experience]] level 62.\n\nIt is used to make [[BLT Salad|BLT salad]], [[Seafood Salad|seafood salad]], [[Bacon Toast|bacon toasts]], [[Egg Sandwich|egg sandwiches]],  [[Coleslaw|coleslaw]], [[Cucumber Sandwich|cucumber sandwiches]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mayonnaise'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nMayonnaise is made in the [[Sauce Maker]].\n\nTo make mayonnaise, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Eggs|link=Egg]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|-\n|'''x4'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one jar of mayonnaise, and 12 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 44 [[experience]] points.\n\n{{Clr}}----\n==='''Selling mayonnaise'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Mayonnaise can be bought or sold for a maximum price of 3,672 {{Infoicon|Coin}} for 10 jars.\n* Buying the ingredients required to make mayonnaise costs 349 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using mayonnaise'''===\nMayonnaise is used to make the following [[products]]:\n\n{{Item Usage|Mayonnaise\n|BLT Salad|1|62\n|Seafood Salad|1|64\n|Bacon Toast|1|65\n|Egg Sandwich|1|66\n|Long Gift|1|70|temp=Long Gift|tempend=20230102\n|Coleslaw|1|75\n|Cucumber Sandwich|1|79\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 mayonnaise per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Olive oil is also made in the Sauce Maker and takes three times longer to make. It might be best to make lots of olive oil when you're not playing and to make mayonnaise when you are.\n----\n==='''Did you know?'''===\n* Mayonnaise has the sixth shortest production time (15 minutes) of all of the products along with [[pizza]] and [[Fresh Pasta]]\n** Behind [[Bread]] , [[Chicken Feed]] , [[Espresso]], [[Caffè Latte]] and [[Cow Feed]].\n* It needs to be made with another product ([[Olive Oil]]) made in the very same machine.\n* Even though there's an image of [[Cream]] on the front, it doesn't require it in its recipe.\n----\n\n{{Navigation}}\n{{Languages\n|de = Mayonnaise\n|es = Mayonesa\n|fr = Mayonnaise\n|it = Maionese\n|nl = Mayonaise\n|no = Majones\n|zh = Mayonnaise\n}}\n[[pt-br:Maionese]]\n[[ru:Майонез]]\n[[Category:Sauce Maker Products]]\n[[Category:Egg Products]]\n[[Category:Olive Oil Products]]",
   "wikitextHash": "4b27fb1704af6b84dbe0ef976891e6c968903bbabb6d4913496b4716bdd8b68c"
 }

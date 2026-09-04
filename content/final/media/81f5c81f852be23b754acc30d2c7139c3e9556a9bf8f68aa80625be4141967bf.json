@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Riverboat_Bonus_Coins.png",
+  "filePageId": 19166,
+  "filePageRevisionId": 89315,
+  "filePageRevisionSha1": "358a55ef805c1541082ed7352f4179a6d7f6d7ae",
+  "filePageRevisionTimestamp": "2019-10-28T16:03:31Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "7eda5ecce4b08ff846d2d37cab60b1f8c186f3e76063ed2f99406e585fbc875c",
   "height": 301,
   "immutableUrl": null,
   "mediaId": "File:Riverboat Bonus Coins.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:03:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARiverboat%20Bonus%20Coins.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 79811,
   "sourceSha1": "c01b9051e1ca8d6046f774e5c65b28f7452f9fda",

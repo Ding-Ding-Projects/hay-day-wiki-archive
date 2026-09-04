@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_207.png",
+  "filePageId": 35339,
+  "filePageRevisionId": 100112,
+  "filePageRevisionSha1": "a3e2441f3f9bade8956428da5536647e6cefcd15",
+  "filePageRevisionTimestamp": "2022-01-19T20:36:44Z",
+  "filePageWikitext": "== Summary ==\nLevel 207 banner\n== Licensing ==\n{{Self}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "37f0fb3091a65d956255bc9d068e009cd739a1957cfffdeb965aa7c1137fc35a",
   "height": 374,
   "immutableUrl": null,
   "mediaId": "File:Level 207.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-01-19T12:39:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3ALevel%20207.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 627521,
   "sourceSha1": "823de9ce31b13896ac9a12010c2824c51a376940",

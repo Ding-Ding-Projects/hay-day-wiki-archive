@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Chili Pepper Products",
+    "Category:Deep Fryer Products",
+    "Category:Garlic Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Chili Pepper Products",
+      "Category:Deep Fryer Products",
+      "Category:Garlic Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -142,11 +158,12 @@
   "revisionId": 110205,
   "revisionTimestamp": "2026-05-23T22:22:58Z",
   "route": "/wiki/bacon-fries-33967",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_Fries",
   "title": "Bacon Fries",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon Fries.png|200px|left|Bacon fries]]\n\n{{Infobox\n |level = 87|price = 1 to 302|time = 25 min|xp = 36|source = {{Infoicon|deepfr|bigger|link=Deep Fryer}}|base = 84|dia = 3|time3 = 21 min|title = [[Products|Product]]}}\n'''Bacon fries''' are a [[Products|product]] unlocked at [[experience]] level 87.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making bacon fries'''===\n[[File:Deep_Fryer.png|150px|left|Deep Fryer]]\nBacon fries are made in the [[Deep Fryer]].\n\nTo make bacon fries, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Pepper.png|75px|Chili Pepper|link=Chili Pepper]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x4'''\n|'''x1'''\n|}\nIt takes 25 minutes to make one serving, and 21 minutes in a fully [[Masteries|mastered]] machine. Each serving gives players 36 [[experience]] points.\n\n{{Clr}}----\n==='''Selling bacon fries'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Bacon fries can be bought or sold for a maximum price of 3,024 {{Infoicon|Coin}} for 10 servings.\n* Buying the ingredients required to make bacon fries costs 294 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 servings of bacon fries per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Keep plenty of bacon in stock to produce bacon fries.\n----\n{{Navigation}}\n{{Languages\n|de = Pommes mit Speck\n|es = Patatas con beicon\n|fr = Frites au Bacon\n|it = Patatine con pancetta\n|nl = Friet met Spek\n|no = Bacon med pommes frites\n|ru = Картофель фри с беконом\n|zh = Bacon Fries\n}}\n[[pt-br:Batatinha com bacon]]\n\n[[Category:Deep Fryer Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Bacon Products]]\n[[Category:Potato Products]]\n[[Category:Garlic Products]]",
   "wikitextHash": "110a4bf4f1999f4da69fdd8b0284719d1dc0c553fa9d64302641271a4c5a4991"
 }

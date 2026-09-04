@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_175.png",
+  "filePageId": 32389,
+  "filePageRevisionId": 98225,
+  "filePageRevisionSha1": "0cd7d8656e3283dc25b7f66510e7111a35d46e8b",
+  "filePageRevisionTimestamp": "2021-07-15T22:05:36Z",
+  "filePageWikitext": "== Summary ==\nLevel 175 congratulations screen\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "3ce70d2ba3810df39a20843bc6df757b00b655ae0becf37daa271498424f3793",
   "height": 369,
   "immutableUrl": null,
   "mediaId": "File:Level 175.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-01-23T15:27:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20175.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 619680,
   "sourceSha1": "741bdcdaba4ca673cebe470d45922fbb4083d8e7",

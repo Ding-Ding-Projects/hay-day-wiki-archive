@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Bread Products",
+    "Category:Chili Pepper Products",
+    "Category:Fish Fillet Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Bread Products",
+      "Category:Chili Pepper Products",
+      "Category:Fish Fillet Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -192,11 +206,12 @@
   "revisionId": 105853,
   "revisionTimestamp": "2024-09-18T23:27:47Z",
   "route": "/wiki/fish-burger-5873",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Burger",
   "title": "Fish Burger",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fish Burger.png|200px|left|Fish Burger]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 27\n |price = 1 to 226\n |time = 2 h\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 27\n |base = 63\n |dia = 5\n |time3 = 1 h 42 minutes\n}}\n'''Fish burger''' is a [[Products|product]] unlocked at [[experience]] level 27.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making the fish burger'''===\n[[File:BBQ Grill.png|150px|left]]\n'''Fish burger''' is made in the [[BBQ Grill]].\n\nTo make the fish burger, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"3\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|link=Fish Fillet]]\n|[[File:Chili Pepper.png|75px|link=Chili Pepper]]\n|[[File:Bread.png|75px|link=Bread]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|\n|}\nIt takes 2 hour to make one fish burger, and 1 h 42 minutes in a fully [[Masteries|mastered]] grill. Each fish burger gives players 27 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling the fish burger'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Fish burger can be bought or sold for a maximum price of 2,268 {{Infoicon|Coin}} coins for 10 fish burgers.\n* Buying the ingredients required to make the fish burger costs 186 {{Infoicon|Coin}} coins.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 Fish burger per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Trivia'''===\n* Although it contains a chili pepper, the fish burger does not appear to have any on the finished product.\n----\n\n{{Navigation}}\n\n\n{{Languages\n|de = Fischburger\n|es = Hamburguesa de pescado\n|fr = Fishburger\n|it = Hamburger di pesce\n|nl = Visburger\n|no = Fiskeburger\n|vi = Burger cá\n|zh = Fish Burger\n}}\n[[pt-br:Hambúrguer de peixe]]\n[[ru:Рыбный бургер]]\n'''Strategy Tips'''\n\n* The Fish Burger isn't easily found in the Daily Dirt, so selling it at a low price, is not recommended.\n\n[[Category:BBQ Grill Products|4]]\n[[Category:Bread Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Fish Fillet Products]]",
   "wikitextHash": "7c1c72a5bdbb77a88a50f91a074ce1e7876f3d74e4e6f79a1598220bf2c69746"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cream Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Milk Products",
+    "Category:Peanuts Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cream Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Milk Products",
+      "Category:Peanuts Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -177,11 +193,12 @@
   "revisionId": 107111,
   "revisionTimestamp": "2025-01-31T22:45:14Z",
   "route": "/wiki/peanut-butter-milkshake-34689",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peanut_Butter_Milkshake",
   "title": "Peanut Butter Milkshake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peanut Butter Milkshake.png|left|344x344px]]\n{{Infobox\n|title = [[Products|Product]]\n|level = 68\n|price = 1 to 619\n|time = 1 h 40 min\n|xp = 86\n|source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n|dia = 5\n|base = 172\n|time3 = 1 h 25 min\n}}\n'''Peanut butter milkshake''' is a [[Products|product]] unlocked at [[experience]] level 68.\n\n\n\nIt is not used to make other products.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making peanut butter milkshakes'''===\n[[File:Ice Cream Maker.png|left|150px|link= Ice Cream Maker]]\nPeanut butter milkshakes are made in the [[Ice Cream Maker]].\n\nTo make peanut butter milkshakes, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peanuts.png|75px|link=Peanuts|Peanuts]]\n|[[File:Milk.png|75px|link=Milk|Milk]]\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|[[File:Cacao.png|75px|link=Cacao|Cacao]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour and 40 minutes to make a cone, and 1 hour 25 minutes in a fully [[Masteries|mastered]] machine. Each shake gives players 86 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling peanut butter milkshakes'''===\n[[File:Roadside Shop.png|left|150px|Roadside Shop]]\n\n*Peanut butter milkshakes can be bought or sold for a maximum price of 6,192 {{Infoicon|coin}} for 10 shakes.\n*Buying the ingredients required to make peanut butter milkshakes costs 574 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 peanut butter milkshakes per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Erdnussbutter-Milchshake\n|es = Batido de cacahuete\n|fr = Sundae à la Cacahuète\n|it = Frappè al burro di arachidi\n|nl = Milkshake met Pindakaas\n|no = Milkshake med peanøttsmør\n|zh = Peanut Butter Milkshake\n}}\n[[pt-br:Milkshake de amendoim]]\n[[ru:Арахисовый милкшейк]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Peanuts Products]]\n[[Category:Milk Products]]\n[[Category:Cream Products]]\n[[Category:Cacao Products]]",
   "wikitextHash": "cd4edb1b9ad3203d0309c5e5717c44093df322aa498bb6320159c0ce31355503"
 }

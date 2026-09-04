@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_22.jpg",
+  "filePageId": 18815,
+  "filePageRevisionId": 69433,
+  "filePageRevisionSha1": "dbf2dcaf8a32024ba96d577d958871fb25ca9615",
+  "filePageRevisionTimestamp": "2017-02-06T12:25:25Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "8b8481666abeae08b1e72224dc1b21350c92b5fab42e12416770373cfa950dfd",
+  "height": 743,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 22.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-03-28T10:10:40Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AReputation%20Level%2022.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 173082,
+  "sourceSha1": "96a52845aa28b7b3fbd367aefacc64ef965b4fed",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b1/Reputation_Level_22.jpg/revision/latest?cb=20150328101040",
+  "title": "File:Reputation Level 22.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 942
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Wok_Kitchen_Products?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 91843,
   "revisionTimestamp": "2020-03-31T12:54:54Z",
   "route": "/wiki/category%2Fcategory-wok-kitchen-products-33088",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Wok_Kitchen_Products",
   "title": "Category:Wok Kitchen Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Products of the [[Wok Kitchen]].\n\n[[Category:Products]]",
   "wikitextHash": "c8098c2e12c27bd6a2f3b1f879af3a9da70b97c5a66970a3e70969dbf84e98b8"
 }

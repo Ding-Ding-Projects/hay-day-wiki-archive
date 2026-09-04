@@ -12,7 +12,27 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Popsicle Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Goat Milk Products",
+    "Category:Mayonnaise Products",
+    "Category:Onion Products",
+    "Category:Strawberry Products",
+    "Category:Sunflower Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Popsicle Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Goat Milk Products",
+      "Category:Mayonnaise Products",
+      "Category:Onion Products",
+      "Category:Strawberry Products",
+      "Category:Sunflower Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +171,12 @@
   "revisionId": 107833,
   "revisionTimestamp": "2025-04-22T06:03:23Z",
   "route": "/wiki/long-gift-35680",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Long_Gift",
   "title": "Long Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Long Gift.png|200px|left|Long Gift|link=Special:FilePath/Long Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 30\n |level = 70\n |time = 1h 30m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp =70\n |dia = 4\n |time3 = 1h 16m\n}}\n'''Long Gift''' is a [[products|product]] unlocked at [[experience]] level 70. It's a special item used only for the Christmas 2022 event.\n\nThe Long Gift returns as a special item for the Christmas 2024 event, but requires different items to create it in the Gift Wrapping Station.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Long Gifts'''===\n[[File:Gift Wrapping Station.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station.png]]\nLong Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a long gift in the Christmas 2022 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mayonnaise.png|75px|Mayonnaise|link=Mayonnaise]]\n|[[File:Onion.png|75px|Onion|link=Onion]]\n|[[File:Sunflower.png|75px|Sunflower|link=Sunflower]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 1 hour and 30 minutes to make one gift, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 70 [[experience]] points.\n\nTo make a long gift in the Christmas 2024 event, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cherry_Popsicle.png|75px|Cherry Popsicle|link=Cherry Popsicle]]\n|[[File:Strawberry.png|75px|Strawberry|link=Strawberry]]\n|[[File:Goat_Milk.png|75px|Goat Milk|link=Goat Milk]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x1'''\n|}\n\nIt takes 10 minutes to make one gift, and 8 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 133 [[experience]] points.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 30 [[holly]].\n\n{{Clr}}----\n\n{{Navigation}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Mayonnaise Products]]\n[[Category:Onion Products]]\n[[Category:Sunflower Products]]\n[[Category:Cherry Popsicle Products]]\n[[Category:Strawberry Products]]\n[[Category:Goat Milk Products]]\n{{Languages\n|de = Langes Geschenk\n|es = Regalo largo\n}}",
   "wikitextHash": "5e2d8d63a6defbe182d90728e050c97225f8d4b8d198e752fed1c2a417f51bf0"
 }

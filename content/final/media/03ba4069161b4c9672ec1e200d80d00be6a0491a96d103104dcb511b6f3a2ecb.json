@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Skewer.png",
+  "filePageId": 16378,
+  "filePageRevisionId": 104964,
+  "filePageRevisionSha1": "9f0a0380434aa1bd1a5ae3d4ac94bac8ae649caa",
+  "filePageRevisionTimestamp": "2024-02-23T07:58:12Z",
+  "filePageWikitext": "Picture of the lobster skewer.\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "2c3300f581574e5a4278a5fbf1381bd91fa9f203badb13534321be75a6550e42",
   "height": 405,
   "immutableUrl": null,
   "mediaId": "File:Lobster Skewer.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 22,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-23T07:58:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALobster%20Skewer.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 128797,
   "sourceSha1": "4f045528b3bbe0b13671644521041905b8734ce0",

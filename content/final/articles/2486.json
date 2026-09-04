@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Coffee Bean Products",
+    "Category:Coffee Kiosk Products",
+    "Category:Cream Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Coffee Bean Products",
+      "Category:Coffee Kiosk Products",
+      "Category:Cream Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 106193,
   "revisionTimestamp": "2024-11-02T22:46:22Z",
   "route": "/wiki/caff%C3%A8-mocha-2486",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Caff%C3%A8_Mocha",
   "title": "Caffè Mocha",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Caffe Mocha.png|200px|left|Caffè mocha]]\n\n{{Infobox\n|level = 45\n|price = 1 to 291\n|time = 15 min\n|xp = 35\n|source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n|base = 81\n|dia = 2\n|time3 = 12 min\n|title = [[Products|Product]]\n}}\n'''Caffè mocha''' is a [[products|product]] unlocked at [[experience]] level 45.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making caffè mocha'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nCaffè mocha is made in the [[Coffee Kiosk]].\n\nTo make caffè mocha, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coffee Bean.png|75px|Coffee bean|link=Coffee Bean]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 15 minutes to make caffè mocha, and 12 minutes in a fully [[Masteries|mastered]] kiosk. Each caffè mocha gives players 35 [[experience]] points.\n\n{{Clr}}----\n==='''Selling caffè mocha'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Caffè mocha can be bought or sold for a maximum price of 2,916 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make caffè mocha costs 286 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 caffè mocha per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Mokka\n|es = Café moca\n|fr = Café Moka\n|it = Mocaccino\n|nl = Caffè Mocha\n|no = Caffè mocca\n|zh = Caffè Mocha\n}}\n[[pt-br:Mocha]]\n[[ru:Мокко]]\n[[Category:Coffee Kiosk Products]]\n[[Category:Cream Products]]\n[[Category:Cacao Products]]\n[[Category:Coffee Bean Products]]",
   "wikitextHash": "3ee37112179d633efda10470db181c81aacc037cd2f5d817378ddf4e7d4bc3b2"
 }

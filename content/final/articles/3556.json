@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -397,11 +405,12 @@
   "revisionId": 108562,
   "revisionTimestamp": "2025-09-25T13:00:18Z",
   "route": "/wiki/cake-oven-3556",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cake_Oven",
   "title": "Cake Oven",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cake Oven.png|left|200px|Cake Oven]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 21\n |price = 12,100\n |time = 1 d\n |slots = 2\n |dia = 47\n |size = 3×3\n}}\nThe '''Cake Oven''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 21.\n\nIt is used to make [[Blueberry Cheesecake|blueberry cheesecakes]], [[Carrot Cake|carrot cakes]], [[cheesecake]]s, [[Chocolate Cake|chocolate cakes]], [[Chocolate Roll|chocolate rolls]], [[Cream Cake|cream cakes]], [[Fancy Cake|fancy cakes]], [[Fruit Cake|fruit cakes]], [[Honey Apple Cake|honey apple cakes]], [[Lemon Cake|lemon cakes]], [[Potato Feta Cake|potato feta cakes]], [[Red Berry Cake|red berry cakes]] and [[Strawberry Cake|strawberry cakes]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Cake Oven is a gray oven with a whisk and a spoon hung on its side. There is a small table and a workbench in front of it. Dough and a rolling pin are on the workbench. The floor is tiled. It matches the look of the [[Bakery]], the [[Popcorn Pot]] and the [[Pie Oven]].\n\nThe mastered version gets a few golden parts, and a star-decorated purple tablecloth.\n----\n=== '''Building''' ===\nIt costs 12,100 {{Infoicon|coin}} and takes 1 day (or 47 {{Infoicon|dia}}) to build the Cake Oven. It gives players 24 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Carrot Cake|21|1:30|165\n|Cream Cake|23|3h|219\n|Red Berry Cake|23|1h|255/31\n|Cheesecake|24|4h|284\n|Blueberry Cheesecake|31|4h/6|500\n|Strawberry Cake|35|3h|316\n|Chocolate Cake|36|2h|320\n|Potato Feta Cake|38|2h|309\n|Honey Apple Cake|42|3:20|482\n|Fancy Cake|54|15m|450/49\n|Pineapple Cake|65|1:15|259\n|Lemon Cake|68|2:30|896\n|Fruit Cake|89|3h|450\n|Chocolate Roll|95|1:30|604\n|Pomegranate Cake|108|2:40|316\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Cake Oven originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,365 hours of production is required to [[Masteries|master]] the Cake Oven:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Cake Oven Mastered.png|150px|Mastered Cake Oven]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />65 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />260 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,040 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Cake Oven Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* Many products from the Bakery require [[egg]]s, [[Sugar Mill|sugar]], [[wheat]] and products from the [[Dairy]].\n* All products sell well at max. price.\n----\n{{Navigation}}\n{{Languages\n|de = Tortenofen\n|es = Horno de pasteles\n|fr = Four à Gâteaux\n|it = Forno torte\n|no = Kakeovn\n|ru = Печь для тортов\n|sv = Tartugn\n|vi = Lò nướng bánh kem\n|zh = Cake Oven\n}}\n[[pt-br:Forno de bolos]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "a548fb64c7d96b0caa74edf4d15f1ed062f4fe26ee8a97cc1ccaf732e6df5fce"
 }

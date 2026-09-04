@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Caramel Latte Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Lemon Products",
+    "Category:Lily Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Caramel Latte Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Lemon Products",
+      "Category:Lily Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 104427,
   "revisionTimestamp": "2023-12-17T11:11:42Z",
   "route": "/wiki/choo-choo-gift-36001",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Choo_Choo_Gift",
   "title": "Choo Choo Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Choo Choo Gift.png|200px|left|Choo Choo Gift|link=Special:FilePath/Choo Choo Gift.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |holly = 30\n |level = 70\n |time = 1h 30m\n |source = {{Infoicon|giftwrappings2023|bigger|link=Gift Wrapping Station}}\n |xp =\n |dia = 4\n |time3 = 1h 16m\n}}\n'''Choo Choo Gift''' is a [[products|product]] unlocked at [[experience]] level 70. It's a special item used only for the Christmas 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Choo Choo Gifts'''===\n[[File:Gift Wrapping Station 2023.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station_2023.png]]\nChoo Choo Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a choo choo gift, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Caramel Latte.png|75px|Caramel Latte|link=Caramel Latte]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Lily.png|75px|Lily|link=Lily]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour and 30 minutes to make one gift, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] station. Each gift gives players 70 [[experience]] points.\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 gift per crate, up to a total of 4 per boat. Each gift used on a boat will be rewarded with 30 [[holly]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Regalo chucu, chucu\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Caramel Latte Products]]\n[[Category:Lemon Products]]\n[[Category:Lily Products]]",
   "wikitextHash": "6ccf2a6712b7c9d3c36ce3849469957afe0428a953fd5d8b3d778d505fe1fce3"
 }

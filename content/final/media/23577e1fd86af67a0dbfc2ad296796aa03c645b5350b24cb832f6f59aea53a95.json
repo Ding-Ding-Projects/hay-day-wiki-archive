@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beach_Towels.png",
+  "filePageId": 35538,
+  "filePageRevisionId": 101498,
+  "filePageRevisionSha1": "8fcde9589c5029b2c3dd05d1f4f541eff0252110",
+  "filePageRevisionTimestamp": "2022-09-20T20:12:26Z",
+  "filePageWikitext": "== Summary ==\nDiamond Package Deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "5170b0850052816bece2494faafd5e1342e5b8d1b9ac9dc1796295dd42fecb13",
   "height": 358,
   "immutableUrl": null,
   "mediaId": "File:Beach Towels.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-02T18:12:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeach%20Towels.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 254148,
   "sourceSha1": "d9d83845f6eb291497be584026bd3ce263f60161",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Land_Deed.png",
+  "filePageId": 14384,
+  "filePageRevisionId": 89197,
+  "filePageRevisionSha1": "2600ffc3b21cc4f44670add0ebd7dd0a34c126f6",
+  "filePageRevisionTimestamp": "2019-10-28T13:09:45Z",
+  "filePageWikitext": "Picture of a land deed.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "e4f77d2bda3d8d29516b537b665ec5a78b623ba4afc666a28003b02108517640",
   "height": 117,
   "immutableUrl": null,
   "mediaId": "File:Land Deed.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:09:45Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALand%20Deed.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 17908,
   "sourceSha1": "bace77c09087054a51fe17209348f4df9e6154f3",

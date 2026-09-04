@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level126c.jpg",
+  "filePageId": 36153,
+  "filePageRevisionId": 105938,
+  "filePageRevisionSha1": "8c15cc972259c44d51e4bdc6f3ebb7403a416184",
+  "filePageRevisionTimestamp": "2024-10-14T13:39:28Z",
+  "filePageWikitext": "Level126",
+  "filePageWikitextHash": "c73afd638f88dbc62f5026f85c41e10dac530412f5690db036f80467c4978dda",
+  "height": 1187,
+  "immutableUrl": null,
+  "mediaId": "File:Level126c.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2024-10-14T13:39:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel126c.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 350339,
+  "sourceSha1": "daece57a730db0d4ffd2f79416584b2038dcdffe",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a2/Level126c.jpg/revision/latest?cb=20241014133928",
+  "title": "File:Level126c.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1580
+}

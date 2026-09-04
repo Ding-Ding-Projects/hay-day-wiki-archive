@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Farm_Animals?action=history",
@@ -39,11 +47,12 @@
   "revisionId": 68835,
   "revisionTimestamp": "2017-01-19T19:03:37Z",
   "route": "/wiki/category%2Fcategory-farm-animals-26042",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Farm_Animals",
   "title": "Category:Farm Animals",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles detailing [[animals]] which produce [[Animal Goods|animal goods]], not to be confused with [[:Category:Pets|pets]].\n[[Category:Animals]]",
   "wikitextHash": "8b708633ff367b0b36c37b81133ee264fa20f031025bb498dde22faee039b6c3"
 }

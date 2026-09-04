@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Valley"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Valley"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -75,11 +83,12 @@
   "revisionId": 104283,
   "revisionTimestamp": "2023-12-06T01:50:10Z",
   "route": "/wiki/daily-quest-31469",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Quest",
   "title": "Daily Quest",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Daily Quests.png|200px|Daily quests|left]]\n'''Daily quests''' are [[Valley]] activities that players can do to get rewards other than [[Valley Shop]]. It can be found through the button above [[Fuel Spin]]. Unlike sun activities, they can only be done in the valley. They reset every 24 hours at 08:00 UTC. Players get 4 quests every day.\n\n{{Clr}}\n----\n==='''Daily Quest Example'''===\n4 different daily quests are given to players every day.\n*Visit one diner/fish shop\n*Drive to buildings or road stops a certain number of times\n*Complete a certain of number of requests\n*Help with a cooperative quest a certain number of quests\n*Do delivery task a certain number of times\n*Use the fuel spin a certain number of times\n*Collect 30/45 [[token]]s of a specific color\n\n{{Clr}}\n----\n==='''Rewards'''===\nEach completed daily quest turn one tile blue at the horizontal rewards road. You get rewards when you complete enough daily quests.\n*[[Mystery Box]]es including ordinary box, big box and huge box. Huge box spawns only once per valley season.\n*Lucky Bonus: it is achieved by completing Daily Quests.  You play by uncovering tiles which contain prizes or bombs. The prizes you find are accumulated. You can quit the game at any time and collect your prizes, or press your luck to win more prizes.  Finding a bomb will end the game and you will lose all of your prizes. You will be offered the option to retain your prizes and continue by spending [[Diamond|diamonds]].  The number of diamonds required begins at 10 and increased to 30, 60, and 90 as you hit more bombs. It’s a freeroll, so best of luck!\n\n{{Clr}}\n----\n==='''Strategy'''===\n*Stop your truck at a fish shop or diner until the next day to hope that you can complete a quest immediately.\n*Use the [[Fuel Spin]] twice to get enough fuel. You can do so by collecting sun points.\n*In lucky bonus, uncover at most 4 tiles before entering next round. Otherwise you have a high chance to uncover a bomb and lose all rewards.\n\n{{Languages\n|es = Misiones diarias\n}}\n[[Category:Valley]]",
   "wikitextHash": "9aef69a7a8941ca7a206d09bbccf287065ecc34d7e487d8885f5e855e43200ca"
 }

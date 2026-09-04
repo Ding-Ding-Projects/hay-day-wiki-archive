@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Neighborhood_Emblem.png",
+  "filePageId": 23070,
+  "filePageRevisionId": 74424,
+  "filePageRevisionSha1": "d2c6516e635c965a421030567bdd9acb89e19193",
+  "filePageRevisionTimestamp": "2017-10-22T16:13:11Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Neighborhood]]",
+  "filePageWikitextHash": "a80df22d99cb1c88f152caf0917bc2122fff7627669a7dda7a4e7439bbac6b29",
   "height": 150,
   "immutableUrl": null,
   "mediaId": "File:Neighborhood Emblem.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-04-27T13:14:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANeighborhood%20Emblem.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 26688,
   "sourceSha1": "4b65efdbf678856e9e61ab4498890f83ac90693c",

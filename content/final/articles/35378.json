@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Cacao Products",
+    "Category:Fudge Shop Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Cacao Products",
+      "Category:Fudge Shop Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 110222,
   "revisionTimestamp": "2026-05-25T20:12:10Z",
   "route": "/wiki/rich-fudge-35378",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rich_Fudge",
   "title": "Rich Fudge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rich Fudge.png|200px|left|Rich Fudge|link=Special:FilePath/Rich Fudge.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 99\n |price = 1 to 644\n |time = 2 h\n |source = {{Infoicon|fudges|bigger|link=Fudge Shop}}\n |xp = 77\n |base = 179\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Rich Fudge''' is a [[products|product]] unlocked at [[experience]] level 99.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making rich fudge'''===\n[[File:Fudge Shop.png|150px|left|Fudge Shop|link=Special:FilePath/Fudge_Shop.png]]\nRich Fudge is made in the [[Fudge Shop]].\n\nTo make the rich fudge, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x2'''\n|}\nIt takes 2 hours to make one serving, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] shop. Each serving gives players 77 [[experience]] points.\n\n{{Clr}}----\n==='''Selling rich fudge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Rich fudge can be bought or sold for a maximum price of 6,444 {{Infoicon|coin}} for 10 servings.\n* Buying the ingredients required to make the rich fudge costs 604 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 rich fudge per crate, up to a total of 4 per boat.\n\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Vollrahmkaramelle \n|es = Fudge de chocolate\n|fr = Caramel Riche\n|it = Fudge al cacao\n|nl = Smaakvolle Toffee\n|no = Mektig fudge\n|ru = Шоколадный ирис\n|zh = Rich Fudge\n}}\n[[pt-br:Trufa de chocolate]]\n\n[[Category:Fudge Shop Products]]\n[[Category:Butter Products]]\n[[Category:Cacao Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "2c927cb05e9c0d778a36fd4cedbf844b61590c3a5f4d3083feac9bca4427db01"
 }

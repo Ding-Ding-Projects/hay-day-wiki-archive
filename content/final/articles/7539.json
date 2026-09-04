@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -220,11 +230,12 @@
   "revisionId": 110705,
   "revisionTimestamp": "2026-07-08T06:49:23Z",
   "route": "/wiki/visitors-7539",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Visitors",
   "title": "Visitors",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n''Note: this page is about farm visitors, not to be confused with [[Town Visitors|town visitors]].''\n\n[[File:Mike.png|left|200px|The first visitor]]\n'''Visitors''' are [[:Category:Characters|non-player characters]] (NPCs) who visit the player's farm to ask for [[products]] in exchange for [[coin]]s and [[experience]] points.\n\nThey are unlocked at [[experience]] level 2.\n\n{{Clr}}\n----\n==='''Visitors'''===\n[[File:Mike First Visit.jpg|200px|left|First visitor]]\nThere are five different visitors (townsfolk in the game story): Greg, Joan, Betty, Mike and Tilly <ref>Previously unnamed, the little girl was officially given a name on October 10, 2013 on Hay Day Facebook page. [https://www.facebook.com/HayDayOfficial/photos/a.315469888537585.72749.297050457046195/532045800213325/]</ref>.\n\nThe first one who visits the farm is Mike, who owns a mill and also request orders through the [[truck|farm order board]]. [[Greg]] is also a special customer as he is the player's first [[Friends|friend]], and at level 25, he offers his services as a lumberjack.\n\nEach visitor always says either of the following sentences when requesting an item:\n\n<gallery hideaddbutton=\"true\" captionalign=\"center\">\nGreg.png|[[Greg]]<br />\"Hey there! Got some stuff for sale?\"<br />\"Greetings! Let's do business.\"\nJoan.png|Joan<br />\"Could you sell me this?\"<br />\"Good afternoon! Looking to buy.\"\nMary.png|Betty<br />\"Nice weather! Open for business?\"<br />\"May I purchase these items?\"\nMike.png|Mike<br />\"Howdy! Can you spare this?\"<br />\"Hello! Got this in stock?\"\nTilly.png|Tilly<br />\"Hi! My Mom sent me to buy these items.\"<br />\"Hi! I'm shopping for My Grandma.\"\n</gallery>\n\n{{Clr}}\n----\n==='''Requests and rewards'''===\nVisitors always ask for a single type of [[Crops|crop]] or [[Products|product]] the player can grow or craft at their level. They will never ask for expansion or upgrade items (although they may ask for land-clearing or mining tools), ore, metal bars, jewelry or animal feed. If the player has the item in stock they will ask for about a third or half of what the player has. For example, at level 2, they may ask for 25 units of [[wheat]] if a player has 50 units in stock.\n\nSelling them what they asked for always gives the player five experience points, no matter the item. The number of [[coin]]s they give is typically 1.7 to 2.2 times the base sale price, which is less than the 3.6 times the base price that a player would earn by selling the items at their maximum value in their [[Roadside Shop|roadside shop]]. During a \"visitor bonus\" [[Events| event]], visitors pay double their usual prices, and for most items it will even exceed the highest sale price possible through the roadside shop.\n\nThere can never be more than two visitors at the same time.\n----\n==='''Accepting or denying requests'''===\n[[File:Visitor Request.png|left|200px|A visitor request]]\nWhen the player taps on an NPC, this triggers a dialog box where the character introduces themselves than ask for an item.\n\nThe player has 3 answers to choose from:\n\n[[File:Yes.png|200px|left|Accepting the request]]\n'''Yes, here you go '''- The player gives the goods to the visitor, who then gives the player money and 5 experience points and leaves after a short happy animation.\n\n[[File:No.png|200px|left|Declining the request]]\n'''No, sorry''' - The visitor leaves without playing an animation. This does not have any effect on how often they come or the price they pay.\n\n[[File:Wait.png|200px|left|Delaying the request]]\n'''Wait a moment''' - The dialog disappears and the visitor waits at the farm until the player chooses one of the 2 previous answers. The visitor can wait forever, however, only two can be on the farm at any one time.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n*Visitors will usually ask for things you don't have at all, or things you have a lot of. That holds true for items in barn and items in your silo. So if you want them to come for your tons of easily produced wheat, make sure you have at least one raspberry, one blackberry, one milk, one bread and so on. Then they are more likely to come for your wheat. If you have 16 bread in your barn, they are likely to ask for it. Sell 10 of those through your roadside shop and they will most likely stop asking for it.\n*If you have 700 wheat in your silo, they can easily come for 350 of it and pay 980 coin for it. Sold in a single tap. That's a lot more coin and a lot less work than selling 35 stacks of 10 wheat for 350 coins in your roadside shop.\n* The visitors will consistently pay 28 coins for each 10 units of wheat.\n* The visitors will consistently pay 28 coins for each 10 units of corn as well.\n----\n==='''Did you know?'''===\n* During Winter, Mike and Tilly wear Santa hats, Greg a scarf, Joan a hood, and Betty a bow on her usual hat and a heavy winter coat.\n<gallery hideaddbutton=\"true\" captionalign=\"center\">\nGreg Winter.PNG|[[Greg]]\nJoan Winter.PNG|Joan\nMary Winter.PNG|Betty\nMike Winter.PNG|Mike\nTilly Winter.png|Tilly\n</gallery>\n* Betty resembles Disney's Mary Poppins as she carries a black bag and an umbrella.\n* If you send 2 visitors away at just the correct time, it may look as though they are walking on top of each other.\n\n{{Clr}}\n----\n==='''References'''===\n<references />----\n\n{{Navigation}}\n{{Languages\n|es = Visitantes\n}}\n[[Category:Characters]]\n[[Category:Trade]]",
   "wikitextHash": "635a5c089a61bcf26db52020ce2181c2b2c09d58516c0e9e0b7242c074c72374"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gingerbread_Man.png",
+  "filePageId": 26562,
+  "filePageRevisionId": 77274,
+  "filePageRevisionSha1": "4869dfac5510bce63eb35376545951543fe1826b",
+  "filePageRevisionTimestamp": "2018-02-07T17:47:21Z",
+  "filePageWikitext": "Gingerbread Man Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "51bbb5ed9797049054cb64c7438bcd061ad13689c27297fad95dad213a226a36",
   "height": 311,
   "immutableUrl": null,
   "mediaId": "File:Gingerbread Man.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:47:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGingerbread%20Man.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 89771,
   "sourceSha1": "e6dc471f8a7eda39f56caeecfe9bd528b5407c3d",

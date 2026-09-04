@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mine_Halloween.png",
+  "filePageId": 16644,
+  "filePageRevisionId": 77149,
+  "filePageRevisionSha1": "6236940cb8c2a09eb45951803be904ed3a306cb0",
+  "filePageRevisionTimestamp": "2018-02-07T15:45:17Z",
+  "filePageWikitext": "Picture of the Mine during Halloween (yellow eyes visible).\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "713b9a49b8e7ae4b5552b26567adc11241354532846629e7dd97c0192df7f1e0",
   "height": 256,
   "immutableUrl": null,
   "mediaId": "File:Mine Halloween.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-10-26T02:56:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMine%20Halloween.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 62356,
   "sourceSha1": "ac69b791ad2a408feeb9a3853a45f56c191f2dc0",

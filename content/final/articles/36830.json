@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Alpacas?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 110542,
   "revisionTimestamp": "2026-06-15T21:14:37Z",
   "route": "/wiki/category%2Fcategory-alpacas-36830",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Alpacas",
   "title": "Category:Alpacas",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of alpacas available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "b3eeaf6e6018b9b0e196b279bf147f8cd8b0f9c06059f3056970cc241f344ae8"
 }

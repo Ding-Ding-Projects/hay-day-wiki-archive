@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_birdfeeder.png",
+  "filePageId": 35715,
+  "filePageRevisionId": 102322,
+  "filePageRevisionSha1": "c60d0c81ae92893487db6cbeb543cc85cde0c641",
+  "filePageRevisionTimestamp": "2022-12-19T14:09:30Z",
+  "filePageWikitext": "== Summary ==\nWinter Bird Feeder\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "cb4301cc0813123deff21e40e5676b0d04a56ac39009b07d596240861a799865",
+  "height": 597,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay birdfeeder.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-12-19T14:09:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AHayDay%20birdfeeder.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 180391,
+  "sourceSha1": "085000bd7f2fadfa15da667696cf01776afcbcb5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e2/HayDay_birdfeeder.png/revision/latest?cb=20221219140930",
+  "title": "File:HayDay birdfeeder.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 402
+}

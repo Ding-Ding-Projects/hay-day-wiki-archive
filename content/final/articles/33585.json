@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Mystery_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93483,
   "revisionTimestamp": "2020-04-16T19:45:47Z",
   "route": "/wiki/mystery-derby-33585",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mystery_Derby",
   "title": "Mystery Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Mystery derby]]",
   "wikitextHash": "cb04d8e50302545e5a2fb682ca7cdf182ee756114c113964a5e3b99d0dc7f445"
 }

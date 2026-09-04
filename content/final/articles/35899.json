@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bath Kiosk Products",
+    "Category:Coconut Products",
+    "Category:Oats Products",
+    "Category:Pomegranate Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bath Kiosk Products",
+      "Category:Coconut Products",
+      "Category:Oats Products",
+      "Category:Pomegranate Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +146,12 @@
   "revisionId": 110196,
   "revisionTimestamp": "2026-05-23T21:43:33Z",
   "route": "/wiki/rich-soap-35899",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rich_Soap",
   "title": "Rich Soap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rich Soap.png|left|200x200px|Rich Soap]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 121\n |price = 1 to 266\n |time = 1 hr 10 min\n |source = {{Infoicon|bathk|bigger|link=Bath Kiosk}}\n |xp = 32\n |base = 101\n |dia = 4\n |time3 = 59 min\n}}\n'''Rich Soap''' is a [[Products|product]] unlocked at [[experience]] level 121.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making rich soap'''===\n[[File:Bath Kiosk.png|150px|left|Bath Kiosk]]\nRich soap is made in the [[Bath Kiosk]].\n\nTo make Rich Soap, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|[[File:Pomegranate.png|75px|Pomegranate|link=Pomegranate]] \n|[[File:Coconut.png|75px|Coconut|link=Coconut]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 70 minutes to make one bar of Rich Soap, and 59 minutes in a fully [[Masteries|mastered]] kiosk. Each bar gives players 32 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Rich Soap'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Rich Soap can be bought or sold for a maximum price of 2,664 {{Infoicon|Coin}} for 10 bars.\n*Buying the ingredients required to make Rich Soap costs 233 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 3 Rich Soap per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n*\n----\n{{Navigation}}\n{{Languages\n|de = Reichhaltige Seife\n|es = Jabón lujoso\n|it = Sapone di lusso\n|nl = Rijke Zeep\n|no = Fyldig såpe\n|ru = Увлажняющее мыло\n}}\n[[pt-br:Sabonete de luxo]]\n\n[[Category:Bath Kiosk Products]]\n[[Category:Oats Products]]\n[[Category:Pomegranate Products]]\n[[Category:Coconut Products]]",
   "wikitextHash": "5fbadb5375d96ce9fb353463d1a362e995b0ddaa986c50007d08ffb80856d757"
 }

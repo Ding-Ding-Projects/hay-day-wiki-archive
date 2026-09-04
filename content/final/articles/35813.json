@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Asparagus Products",
+    "Category:Cream Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Asparagus Products",
+      "Category:Cream Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -160,11 +172,12 @@
   "revisionId": 107757,
   "revisionTimestamp": "2025-04-13T21:04:16Z",
   "route": "/wiki/asparagus-soup-35813",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Asparagus_Soup",
   "title": "Asparagus Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Asparagus Soup.png|200px|left|Asparagus soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 51\n |price = 1 to 255\n |time = 1 h \n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 30\n |dia = 4\n |base = 71\n |time3 = 51 min\n}}\n'''Asparagus soup''' is a [[Products|product]] unlocked at [[experience]] level 51. It was added in Summer 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Asparagus soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nAsparagus soup is made in the [[Soup Kitchen]].\n\nTo make soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Asparagus.png|75px|Asparagus|link=Asparagus]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|-\n|'''x3'''\n|'''x2'''\n|}\nIt takes 1 hour to make one bowl of soup, and 51 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 30 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling asparagus soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Asparagus soup can be bought or sold for a maximum price of 2556 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a bowl costs 229 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 asparagus soup per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Spargelsuppe\n|es = Sopa de espárragos\n|fr = Soupe d'Asperges\n|it = Vellutata di asparagi\n|nl = Aspergesoep\n|no = Aspargessuppe\n|ru = Спаржевый суп\n}}\n[[pt-br:Sopa de aspargo]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Asparagus Products]]\n[[Category:Cream Products]]\n[[ru:Спаржевый суп]]",
   "wikitextHash": "7652b4af324f16ab99852c7af257dfd847cc4a8be72beffa067dcb3a2e578af6"
 }

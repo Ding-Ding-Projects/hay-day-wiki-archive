@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Cream Products",
+    "Category:Donut Maker Products",
+    "Category:Plain Donut Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Cream Products",
+      "Category:Donut Maker Products",
+      "Category:Plain Donut Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -133,11 +147,12 @@
   "revisionId": 110122,
   "revisionTimestamp": "2026-05-19T20:49:39Z",
   "route": "/wiki/cream-donut-34956",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cream_Donut",
   "title": "Cream Donut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cream Donut.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 86\n |price = 1 to 230\n |time = 25 min\n |source = {{Infoicon|donutm|bigger|link=Donut Maker}}\n |xp = 27\n |base = 64\n |dia = 3\n |time3 = 21 min\n}}\n'''Cream donuts''' are [[products]] unlocked at [[experience]] level 86. It's not used to make any other product.\n\nIt is introduced at [[Update|28 June 2021]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Cream Donuts'''===\n[[File:Donut Maker.png|thumb|150px|left|link=Donut Maker]]\nCream donuts are made in the [[Donut Maker]].\n\nTo make cream donuts, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Donut.png|thumb|75px|link=Plain Donut]]\n|[[File:Cream.png|thumb|75px|link=Cream]]\n|[[File:Brown Sugar.png|thumb|75px|link=Brown Sugar]]\n|-\n|'''×1'''\n|'''×1'''\n|'''×1'''\n|}\nIt takes 25 minutes to make one Cream donut, and 21 minutes in a fully [[Masteries|mastered]] maker. Each cream donut gives players 27 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Cream Donuts'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Cream donuts can be bought or sold for a maximum price of 2,304 {{Infoicon|Coin}} for 10 donuts.\n* Buying the ingredients required to make 1 cream donut costs 211 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat Orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 2 cream donuts per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Sahnedonut\n|es = Dónut de crema\n|fr = Beignet à la Crème\n|it = Ciambella alla panna\n|nl = Donut met Slagroom\n|no = Kremdonut\n|ru = Пончик с кремом\n|zh = Cream Donut\n}}\n[[pt-br:Donut cremoso]]\n\n[[Category:Donut Maker Products]]\n[[Category:Plain Donut Products]]\n[[Category:Cream Products]]\n[[Category:Brown Sugar Products]]",
   "wikitextHash": "ca6707b454d85448827a11cd2b69abe679dd52772f4172f4832803e21407817f"
 }

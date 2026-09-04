@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Vibrant_Tree.png",
+  "filePageId": 27840,
+  "filePageRevisionId": 77359,
+  "filePageRevisionSha1": "af99a39af243b64bfdc325dbd003e8139722c2cd",
+  "filePageRevisionTimestamp": "2018-02-07T19:12:06Z",
+  "filePageWikitext": "== Summary ==\nOne of the NEW Trees (1 of 5)\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "db9049535965cd183fe9d6e747b2d695e789d0cf45dea5baf7873de6f470fc47",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Vibrant Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:12:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AVibrant%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 478160,
   "sourceSha1": "0d871641915941c240366a08ee4c37200b71a782",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -392,11 +400,12 @@
   "revisionId": 109963,
   "revisionTimestamp": "2026-05-10T13:31:09Z",
   "route": "/wiki/soup-kitchen-8444",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Soup_Kitchen",
   "title": "Soup Kitchen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 46\n |price = 115,000\n |time = 1 d 12 h\n |slots = 2\n |dia = 57\n |size = 2×2\n}}[[File:Soup Kitchen.png|200px|left]]\n'''Soup Kitchen''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 46.\n\nIt is used to make [[Bell Pepper Soup|bell pepper soup]], [[Fish Soup|fish soup]], [[Lobster Soup|lobster soup]], [[Noodle Soup|noodle soup]], [[Onion Soup|onion soup]], [[Potato Soup|potato soup]], [[Mushroom Soup|mushroom soup]], [[Pumpkin Soup|pumpkin soup]], and [[Tomato Soup|tomato soup]].\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe Soup Kitchen is a cyan stove with a blue pot and a vegetable cutter placed on it. Pots and pans are placed or hung near it.\nThere are a couple of utensils hanging beside the stove.\n\nThe mastered version gains a golden tint on the stove and the rims of the pot. Steam comes out of the star-decorated pot on the stove.\n\n----\n=== '''Building''' ===\nIt costs 115,000 {{Infoicon|coin}} and takes 1 day and 12 hours (or 57 {{Infoicon|dia}}) to build the Soup Kitchen. It gives players 28 {{Infoicon|xp}} when completed.\n\n----\n=== '''Products''' ===\n{{Building Products\n|Lobster Soup|46|2:30|612\n|Lamb Soup|46|2h|180\n|Tomato Soup|47|1:30|478\n|Pumpkin Soup|49|2h|392\n|Asparagus Soup|51|1h|255\n|Fish Soup|53|3h|298/35\n|Cabbage Soup|65|1:30|270\n|Onion Soup|72|2:30|327/39\n|Noodle Soup|73|2h|432/52\n|Potato Soup|78|2:30|255/31\n|Bell Pepper Soup|81|1h|439\n|Broccoli Soup|87|1:30|237\n|Mushroom Soup|104|1:20|176\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Soup Kitchen originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Soup Kitchen:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Soup Kitchen Mastered.png|150px|Mastered Soup Kitchen]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Soup Kitchen Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n\n----\n=== '''Strategy tips''' ===\n* After the lobster soup is unlocked, make as much as you can as it is requested often and it is profitable. After level 50, focus on tomato soup as it too is widely requested.\n* You can speed up the production of the Soup Kitchen using a green [[booster]].\n* [[Fish Soup]] has the longest time of production in this machine, 3 hours of cooking time. Use this product if you want to master the machine.\n\n----\n==='''Did you know?'''===\nThe appearance of the Soup Kitchen changed in September 2015.\n\n[[File:Soup_Kitchen Old.png|Old kitchen|150px]]\n[[File:Soup Kitchen Mastered Old.png|Old mastered kitchen|150px]]\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Suppenküche\n|es = Cocina para sopas\n|fr = Soupière\n|it = Zupperia\n|no = Suppekjøkken\n|sv = Soppkok\n|zh = Soup Kitchen\n}}\n[[pt-br:Balcão de sopas]]\n[[ru:Суповая кухня]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "084f6be001d8a3fbbd1380cf3a980980d051d7f6fd307e45c0f9920eb7f53185"
 }

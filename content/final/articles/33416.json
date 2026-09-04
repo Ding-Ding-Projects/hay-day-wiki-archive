@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Golden_Voucher?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93131,
   "revisionTimestamp": "2020-04-12T00:53:36Z",
   "route": "/wiki/golden-voucher-33416",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Golden_Voucher",
   "title": "Golden Voucher",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Voucher]]",
   "wikitextHash": "fb2cff79e795b378710f97d0b7cdff1c8f61cafbfffda6286c58674ae93ac054"
 }

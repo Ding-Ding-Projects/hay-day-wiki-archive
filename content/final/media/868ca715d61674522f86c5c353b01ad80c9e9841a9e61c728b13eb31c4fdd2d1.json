@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chamomile_Tea.png",
+  "filePageId": 36219,
+  "filePageRevisionId": 108833,
+  "filePageRevisionSha1": "84b9e1cb5d2be1aeed7bb5a6a1f2980ced579dd8",
+  "filePageRevisionTimestamp": "2025-10-23T21:17:35Z",
+  "filePageWikitext": "== Summary ==\nTaken from R3DKNIGHT's video\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "26ff974d3d02a0b2ba8dce555ba69f1fa71f2b22ec127c2149d3156d876ae9b5",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Chamomile Tea.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 15,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-12-09T18:19:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChamomile%20Tea.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1023386,
   "sourceSha1": "682341220e2c393b85349ddb2d2c0f4542211671",

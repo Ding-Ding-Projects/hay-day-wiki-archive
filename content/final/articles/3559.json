@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -381,11 +389,12 @@
   "revisionId": 109733,
   "revisionTimestamp": "2026-05-01T13:36:46Z",
   "route": "/wiki/juice-press-3559",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Juice_Press",
   "title": "Juice Press",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Juice Press.png|200px|left|Juice Press]]\n\n{{Infobox\n|level = 26\n|price = 31,000\n|time = 1 d 8 h\n|xp = 27\n|slots = 2\n|dia = 54\n|title = [[Production Buildings|Machine]]\n|size = 2×2\n}}\nThe '''Juice Press''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 26.\n\n<br />\n\n{{Clr}}\n----\n\n=== '''Appearance''' ===\nThe Juice Press is a mixing machine with a silver-brimmed barrel on top and a dispenser with a golden tap. It has kegs filled with fruit as well as a pressure sensor next to it.\n\nThe mastered version gets a few golden parts and a golden star on its brim.\n----\n=== '''Building''' ===\nIt costs 31,000 {{Infoicon|coin}} and takes 1 day and 7 hours (or 54 {{Infoicon|dia}}) to build the Juice Press. It gives players 27 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Carrot Juice|26|30m|46\n|Apple Juice|28|2h|111\n|Cherry Juice|30|2:30|216\n|Tomato Juice|31|1:30|162\n|Berry Juice|31|3h|205\n|Pineapple Juice|52|45m|68\n|Orange Juice|71|2h|234\n|Grape Juice|84|2:30|104/13\n|Passion Fruit Juice|88|45m|64\n|Watermelon Juice|92|1h|108\n|Mango Juice|97|50m|230/27\n|Guava Juice|104|55m|252\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Juice Press originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,550 hours of production is required to [[Masteries|master]] the Juice Press:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Juice Press Mastered.png|150px|Mastered Juice Press]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />50 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />250 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,250 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Juice Press Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* [[Juice Press]] is very easy to master thanks to the long production times of [[Berry Juice]] and [[Cherry Juice]].\n\n=== '''Did you know?''' ===\n•The Juice Press (Both Unmastered and Mastered) when inactive, has an animation of the faucet, an orange liquid is dripping into the board.\n\n\n\n\n----\n[[ru:Соковыжималка]]\n{{Navigation}}\n{{Languages\n|de = Saftpresse\n|es = Exprimidor\n|fr = Presse-Fruits\n|it = Spremitrice\n|nl = Fruitpers\n|no = Juspresse\n|sv = Juicepress\n|vi = Máy ép nước quả\n|zh = Juice Press\n}}\n[[pt-br:Prensa de suco]]\n[[ru:Соковыжималка]]\n[[Category:Production Buildings]]",
   "wikitextHash": "c28a8c6b29bb9e447eeaee69a2a8e7ffc59f84fbd3592e928ea29385d47cca45"
 }

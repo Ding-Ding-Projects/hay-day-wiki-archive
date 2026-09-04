@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:De.png",
+  "filePageId": 24106,
+  "filePageRevisionId": 62082,
+  "filePageRevisionSha1": "1f4eb411db5b73c351bb68153cb697af10f5dce1",
+  "filePageRevisionTimestamp": "2016-05-13T22:23:55Z",
+  "filePageWikitext": "Use this image when linking the same article on another lang wiki\n[[Category:Image User]]",
+  "filePageWikitextHash": "32e0c1b273c978e16851f03b4ae5da86d12cfa54b5778445a9dd8c60acb1534b",
+  "height": 493,
+  "immutableUrl": null,
+  "mediaId": "File:De.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-19T16:46:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ADe.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 3813,
+  "sourceSha1": "3cf67fd1854abe9ca0cf251a700313282f3d8691",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/8f/De.png/revision/latest?cb=20160319164643",
+  "title": "File:De.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 739
+}

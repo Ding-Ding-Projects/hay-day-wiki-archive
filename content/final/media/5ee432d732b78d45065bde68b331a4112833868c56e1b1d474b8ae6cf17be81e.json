@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_85.jpg",
+  "filePageId": 36347,
+  "filePageRevisionId": 108163,
+  "filePageRevisionSha1": "619169ad01d72fff3fed50e4a6521d268cb5446c",
+  "filePageRevisionTimestamp": "2025-07-17T12:43:15Z",
+  "filePageWikitext": "== Summary ==\nReputation Level Up Banner\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "0051e67c3ddfb2cde76c6b82f067ac60552fa167cb15423509aea10fe58f610f",
   "height": 1280,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 85.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-07-17T12:43:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2085.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 107178,
   "sourceSha1": "5d6a2e680ca18ab69ffe6dc12017b470fd13e859",

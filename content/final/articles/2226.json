@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Juice Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Juice Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +187,12 @@
   "revisionId": 107870,
   "revisionTimestamp": "2025-05-06T02:11:54Z",
   "route": "/wiki/cherry-popsicle-2226",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cherry_Popsicle",
   "title": "Cherry Popsicle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cherry Popsicle.png|200px|left|Cherry popsicle]]\n\n{{Infobox\n|title = [[Products|Product]]\n|price = 1 to 352\n|time = 3 h\n|level = 33\n|xp = 42\n|source =  {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n|base = 98\n|dia = 6\n|time3= 2 h 33 m\n}}\n'''Cherry popsicles''' are [[products]] unlocked at [[experience]] level 33.\n\nLike all products, they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cherry popsicles'''===\n[[File:Ice Cream Maker.png|150px|left|Ice cream maker]]\nCherry popsicles are made in the [[Ice Cream Maker]].\n\nTo make cherry popsicles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Syrup.png|75px|link= Syrup|Syrup x1]]\n|[[File:Cherry Juice.png|75px|link= Cherry Juice|Cherry juice x1]]\n|-\n|'''x1'''\n|'''x1'''\n|}\n\nIt takes 3 hours to make one popsicle, and 2 hours 33 minutes in a fully [[Masteries|mastered]] maker. Each popsicle gives players 42 experience points.\n\n{{Clr}}\n----\n==='''Selling cherry popsicles'''===\n[[File:Roadside Shop.png|left|150px|link= Roadside Shop]]\n* Cherry popsicles can be bought or sold for a maximum price of 3,528 {{Infoicon|Coin}} for 10 popsicles.\n* Buying the ingredients required to make it costs 306 {{Infoicon|Coin}}\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 cherry popsicles per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Cherry popsicles are an extremely sought-after item. You will rarely find it in the [[Daily Dirt]]. You may want to make sure you always have some in stock or in production.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kirscheis am Stiel\n|es = Polo de cereza\n|fr = Bâtonnet Cerise\n|it = Ghiacciolo alla ciliegia\n|nl = Kersenijsje\n|no = Kirsebærsaftis\n|zh = Cherry Popsicle\n}}\n[[pt-br:Picolé de cereja]]\n[[ru:Вишнёвое мороженое]]\n[[Category:Ice Cream Maker Products]]\n[[Category:Syrup Products]]\n[[Category:Cherry Juice Products]]",
   "wikitextHash": "1884cd9dde2ee984cfe3aa6031a9c7af846f9d785585d5d163bc02553a58407c"
 }

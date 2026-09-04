@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tool_Mystery_Package.png",
+  "filePageId": 15108,
+  "filePageRevisionId": 73824,
+  "filePageRevisionSha1": "1b1c45506c80306db28239c83d33ac282018f694",
+  "filePageRevisionTimestamp": "2017-10-21T10:21:37Z",
+  "filePageWikitext": "Picture of the Mystery Tool Package when you order it.\n{{License SC}}\n[[Category:Image Catalogue]]",
+  "filePageWikitextHash": "924415fcbf22a9e8913089ab268dae5c9063b2fc809ff598af2dba9d99b090ee",
   "height": 1297,
   "immutableUrl": null,
   "mediaId": "File:Tool Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:07:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATool%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 428456,
   "sourceSha1": "f6088c8cf4956b777a086b7cb7169e3df6197afb",

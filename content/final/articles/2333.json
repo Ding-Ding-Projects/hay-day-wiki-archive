@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Products",
+    "Category:Jam Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Products",
+      "Category:Jam Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +155,12 @@
   "revisionId": 105952,
   "revisionTimestamp": "2024-10-16T21:00:30Z",
   "route": "/wiki/cherry-jam-2333",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cherry_Jam",
   "title": "Cherry Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cherry Jam.png|200px|left|Cherry jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 38\n |price = 1 to 334\n |time = 7 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 40\n |base = 93\n |dia = 8\n |time3 = 5 h 57 min\n}}\n'''Cherry jam''' is a [[Products|product]] unlocked at [[experience]] level 38.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cherry jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nCherry jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cherry.png|75px|Cherries|link=Cherry]]\n|-\n|'''x3'''\n|}\nIt takes 7 hours to make one jar, and 5 hours and 57 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 40 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling cherry jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Cherry jam can be bought or sold for a maximum price of 3,348 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make a jar costs 204 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 cherry jam per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Kirschmarmelade\n|es = Mermelada de cereza\n|fr = Confiture de Cerise\n|it = Marmellata di ciliegie\n|nl = Kersenjam\n|no = Kirsebærsyltetøy\n|zh = Cherry Jam\n}}\n[[pt-br:Geleia de cereja]]\n[[ru:Вишнёвое варенье]]\n[[Category:Jam Maker Products]]\n[[Category:Cherry Products]]",
   "wikitextHash": "ce6ac5e6b256160c1f627301c0dadbd08e2d6d51ab8efd97e01ca8b402c9741d"
 }

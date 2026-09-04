@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Net Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Net Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -119,11 +127,12 @@
   "revisionId": 107447,
   "revisionTimestamp": "2025-02-28T09:17:52Z",
   "route": "/wiki/lobster-trap-17084",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster_Trap",
   "title": "Lobster Trap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster Trap.png|200px|left|Lobster trap]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 44\n |time = 2 h\n |source = {{Infoicon|netm|bigger|link=Net Maker}}\n |xp = 5\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Lobster traps''' are [[products]] unlocked at [[experience]] level 44.\n\nThey are used to catch [[lobster]]s.\n\nLike all fishing gear, they are stored in the [[Tackle Box|tackle box]] and cannot be bought or sold.\n\n{{Clr}}----\n==='''Making lobster traps'''===\n[[File:Net Maker.png|150px|left|Net Maker]]\nLobster traps are made in the [[Net Maker]]. Players do not need anything to make them.\n\nIt takes 2 hours to make a trap, and 1 hours and 42 minutes in a fully [[Masteries|mastered]] machine. Each trap gives players 5 [[experience]] points.\n\n{{Clr}}----\n==='''Using lobster traps'''===\n[[File:Lobster.png|150px|left|Lobster]]\nTraps must remain in the water for six hours (or 8 [[diamond]]s) before players can pull them. No experience points are awarded at this time. Traps cannot be pulled if the [[Lobster Pool]] is being repaired or upgraded, or if there is no room in the pool.\n\nWhen the trap is pulled the [[lobster]] is placed immediately into the Lobster Pool but it will take another 6 hours (or 8 [[diamond]]s) until players can collect its tail. The lobster goes back into the water after that.\n\nEach trap catches 1 lobster, and the fishing spot can be reused right away - there's no cooldown time after using a trap. There are no [[Fishing Book]] rewards for catching lobsters.\n\n{{Clr}}----\n==='''Achievements'''===\n{{Main|Achievements}}\nCatching lobsters allows players to complete the 'Lobster Gourmand' and 'Pool Party' achievements.\n----\n\n{{Navigation}}\n{{Languages\n|de = Hummerfalle\n|es = Trampa de langostas\n|fr = Piège à Homard\n|it = Trappola per aragoste\n|nl = Kreeftenval\n|no = Hummerteine\n}}\n[[Category:Net Maker Products]]",
   "wikitextHash": "4ca2f8c86d3fa44461cb9e9d304612f93790e459ea73de7437cd7d3c583f656f"
 }

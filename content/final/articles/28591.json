@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Decos?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 73950,
   "revisionTimestamp": "2017-10-22T09:57:28Z",
   "route": "/wiki/category%2Fcategory-image-decos-28591",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Decos",
   "title": "Category:Image Decos",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Decorations]].\n[[Category:Images]]",
   "wikitextHash": "a9ab3d73bd0431ba93259b01bd1d08ab0e228091cbc3e51cf023557940969add"
 }

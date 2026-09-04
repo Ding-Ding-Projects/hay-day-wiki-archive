@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Cabbage Products",
+    "Category:Carrot Products",
+    "Category:Potato Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Cabbage Products",
+      "Category:Carrot Products",
+      "Category:Potato Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 107139,
   "revisionTimestamp": "2025-02-04T22:19:00Z",
   "route": "/wiki/cabbage-soup-34833",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cabbage_Soup",
   "title": "Cabbage Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cabbage Soup.png|200px|left|Cabbage soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 65\n |price = 1 to 270\n |time = 1 h 30 m\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 32\n |dia = 5\n |base = 75\n |time3 = 1 h 16 min\n}}\n'''Cabbage soup''' is a [[Products|product]] unlocked at [[experience]] level 65.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Cabbage soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nCabbage soup is made in the [[Soup Kitchen]].\n\nTo make soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cabbage.png|75px|Cabbage|link=Cabbage]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 1 hour 30 minutes to make one bowl of soup, and 1 hour 16 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 32 [[experience]] points.\n\n{{Clr}}----\n==='''Selling cabbage soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cabbage soup can be bought or sold for a maximum price of 2,700 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a bowl costs 240 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 cabbage soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Kohlsuppe\n|es = Sopa de col\n|fr = Soupe au Chou\n|it = Zuppa di cavolo\n|nl = Koolsoep\n|no = Kålsuppe\n|zh = Cabbage Soup\n}}\n[[pt-br:Sopa de repolho]]\n[[ru:Капустный суп]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Cabbage Products]]\n[[Category:Potato Products]]\n[[Category:Bacon Products]]\n[[Category:Carrot Products]]",
   "wikitextHash": "77bf23a169214c62c44d7318fd56d1b10f1f7b676a673db18c716dceca77d92c"
 }

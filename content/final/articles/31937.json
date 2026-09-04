@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Banana Products",
+    "Category:Goat Milk Products",
+    "Category:Sesame Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Banana Products",
+      "Category:Goat Milk Products",
+      "Category:Sesame Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +159,12 @@
   "revisionId": 110058,
   "revisionTimestamp": "2026-05-14T20:43:25Z",
   "route": "/wiki/black-sesame-smoothie-31937",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Black_Sesame_Smoothie",
   "title": "Black Sesame Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Black Sesame Smoothie.png|200px|left|Black sesame smoothie]]\n\n{{Infobox\n |level = 93|price = 1 to 313|time = 45 min|xp = 37|source = {{Infoicon|smoothiem|bigger|link=Smoothie Mixer}}|base = 87|dia = 3|time3 = 38 min|title = [[Products|Product]]}}\n'''Black sesame smoothies''' are [[products]] unlocked at [[experience]] level 93.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Making black sesame smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nBlack sesame smoothies are made in the [[Smoothie Mixer]].\n\nTo make the smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|[[File:Banana.png|75px|Banana|link=Banana]]\n|[[File:Goat Milk.png|75px|Goat milk|link=Goat Milk]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 45 minutes to make one glass, and 38 minutes in a fully [[Masteries|mastered]] smoothie mixer.. Each glass gives players 37 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling black sesame smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Black sesame smoothies can be bought or sold for a maximum price of 3,132 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make a black sesame smoothie cost a total of 286 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 black sesame smoothies per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Schwarzer-Sesam-Smoothie\n|es = Batido de sésamo negro\n|fr = Smoothie au Sésame Noir\n|it = Frappè al sesamo nero\n|nl = Zwarte Sesam Smoothie\n|no = Svart sesam-smoothie\n|ru = Смузи с чёрным кунжутом\n|zh = Black Sesame Smoothie\n}}\n[[pt-br:Vitamina de gergelim preto]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Goat Milk Products]]\n[[Category:Sesame Products]]\n[[Category:Banana Products]]",
   "wikitextHash": "6042a61f959a84537bb431f47057d616c66588b2b2c5ba94cd2aa0954371b081"
 }

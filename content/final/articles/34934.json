@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Wicket?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 97823,
   "revisionTimestamp": "2021-06-24T22:52:21Z",
   "route": "/wiki/wicket-34934",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wicket",
   "title": "Wicket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect [[Farm]]",
   "wikitextHash": "ff7e6c84173b4854a48a6298907c27b170a2df8716c4496eeca3e18b646ff794"
 }

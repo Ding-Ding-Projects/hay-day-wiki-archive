@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sunflower_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98657,
   "revisionTimestamp": "2021-09-07T10:03:33Z",
   "route": "/wiki/category%2Fcategory-sunflower-products-35147",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sunflower_Products",
   "title": "Category:Sunflower Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sunflower.png|thumb]]\nProducts of [[Sunflower]].\n[[Category:Products]]",
   "wikitextHash": "c2f2358218c7805ab35e7274d57dd3ac8db5902596850b075bdc929559ed719c"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tea.jpg",
+  "filePageId": 2196,
+  "filePageRevisionId": 46320,
+  "filePageRevisionSha1": "b2ea23224c4a25dbf99929c46538aeeb8aa1d7f6",
+  "filePageRevisionTimestamp": "2015-04-19T10:07:41Z",
+  "filePageWikitext": "[[Category:Image User]]",
+  "filePageWikitextHash": "6f9adc204b7d7931ba69cdb6f07f622358498d9b24279c9afae3ef9210d36371",
+  "height": 210,
+  "immutableUrl": null,
+  "mediaId": "File:Tea.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2012-11-11T01:59:25Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ATea.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 90753,
+  "sourceSha1": "0edbd61485b579e9ff44f41bc0392f17ef47249a",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/61/Tea.jpg/revision/latest?cb=20121111015925",
+  "title": "File:Tea.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 372
+}

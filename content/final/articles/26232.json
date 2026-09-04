@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -240,11 +250,12 @@
   "revisionId": 95972,
   "revisionTimestamp": "2020-09-22T21:11:46Z",
   "route": "/wiki/helpers-house-26232",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Helpers%27_House",
   "title": "Helpers' House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Helpers House.png|left|200px|Helpers' house]]\nThe '''helpers' house''' is a [[Buildings|building]] where two farmer helpers, [[Rose]] and [[Ernest]], live.\n\nThe house is located above the [[mine]], up on the cliff.\n\nIt is unlocked at [[experience]] level 33.\n\n{{clr}}\n----\n==='''Hiring helpers'''===\n[[File:Ernest & Rose.png|left|150px]]\nPlayers can hire [[Rose]] or [[Ernest]] by tapping the house. Otherwise both are seen sitting at a table knitting and reading the paper.\n\nWhen there is a discount a yellow flag is seen next to their house.\n\n{{Clr}}\n----\n==='''Rose'''===\n[[File:Rose.png|left|150px|Rose]]\n{{Main|Rose}}\n[[Rose]] can run the [[Feed Mill]] using the player's [[crops]], feed the player's farm [[animals]], and collect [[Animal Goods|goods]] when ready.\n\n{{Clr}}\n----\n==='''Ernest'''===\n[[File:Ernest.png|left|150px|Ernest]]\n{{Main|Ernest}}\n[[Ernest]] can run the [[Dairy]] and [[Sugar Mill]].\n\n{{Clr}}\n----\n==='''See also'''===\n{{FarmBuildingsMenu}}\n{{TradeMenu}}\n{{Languages\n|fr = Le Chalet des Ouvriers Agricoles\n|it = Casa Degli Aiutanti\n|es = Casa de los jornaleros\n}}\n[[Category:Farm Buildings]]\n[[Category:Trade]]",
   "wikitextHash": "785e11f826ca84e59ab3c1f94e0df22f6d36ac9095192fdc25d68dacec98f8d0"
 }

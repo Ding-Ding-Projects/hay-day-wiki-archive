@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Main_Page?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93083,
   "revisionTimestamp": "2020-04-11T16:57:08Z",
   "route": "/wiki/main-page-33403",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Main_Page",
   "title": "Main Page",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Hay Day Wiki]]",
   "wikitextHash": "57fc7db56d4c51bb935ccd4c108c220a076145ade9204b70ef32c39f23527141"
 }

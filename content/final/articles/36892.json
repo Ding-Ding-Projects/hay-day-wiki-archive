@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 110820,
   "revisionTimestamp": "2026-08-05T08:47:23Z",
   "route": "/wiki/tower-doner-supreme-36892",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tower_Doner_Supreme",
   "title": "Tower Doner Supreme",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Tower Döner Supreme]]",
   "wikitextHash": "b5dce1ba1843ddfa79285d654035580806bbc384b57165eabc88bf5f3f45573c"
 }

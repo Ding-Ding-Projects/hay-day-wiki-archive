@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mallet.png",
+  "filePageId": 14383,
+  "filePageRevisionId": 105245,
+  "filePageRevisionSha1": "462703c0d45b72ff52bef946f0fb3f3aedbc894f",
+  "filePageRevisionTimestamp": "2024-04-25T12:52:51Z",
+  "filePageWikitext": "Picture of a mallet.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "576976c750060b7fd344742914688242996d0cb938357d931f601b42ad59b12c",
   "height": 193,
   "immutableUrl": null,
   "mediaId": "File:Mallet.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-25T12:52:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMallet.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 21768,
   "sourceSha1": "f715bcfd771799d473a254edf591dfdf06d21cc8",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Tower.png",
+  "filePageId": 34862,
+  "filePageRevisionId": 105973,
+  "filePageRevisionSha1": "74de2b1f9c76b50134d29c4b3bd16e087039bc36",
+  "filePageRevisionTimestamp": "2024-10-19T22:03:36Z",
+  "filePageWikitext": "== Summary ==\nValley Deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "a44801d7fd4a1204b14978dd52aa4c566412c08cec4dc0e06d12e6cb7f95fba5",
   "height": 310,
   "immutableUrl": null,
   "mediaId": "File:Pig Tower.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-19T22:03:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APig%20Tower.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 90785,
   "sourceSha1": "c42c03e279e71ad9cbd3e115f191c0ae93cc1d2d",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Vouchers.png",
+  "filePageId": 14430,
+  "filePageRevisionId": 73854,
+  "filePageRevisionSha1": "bcf65311b6785da954043278b9dcb3b9d432e46e",
+  "filePageRevisionTimestamp": "2017-10-21T18:07:09Z",
+  "filePageWikitext": "Picture of the Vouchers tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image_Shop]]",
+  "filePageWikitextHash": "8864802172d9a419ac3fca8b4444cb21a76174e3f1ad66d9f854edb7b1c2ac16",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Vouchers.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:06:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Vouchers.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 73434,
   "sourceSha1": "5fe3c2d824a2bf6c050aa43405ea0a15dff1a922",

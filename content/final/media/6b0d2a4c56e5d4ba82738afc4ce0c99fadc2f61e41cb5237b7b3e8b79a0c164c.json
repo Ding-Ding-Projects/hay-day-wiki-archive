@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Giraffe_House.png",
+  "filePageId": 28097,
+  "filePageRevisionId": 74857,
+  "filePageRevisionSha1": "1d030693e3fdf4f60bb134a1f6b76423f0f1acf0",
+  "filePageRevisionTimestamp": "2017-10-31T12:24:34Z",
+  "filePageWikitext": "== Summary ==\nGiraffe House\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "1a98dc9d4c17cbab4b769211813a1ff9d4b2a44a5211f9a2944e39171877054a",
   "height": 459,
   "immutableUrl": null,
   "mediaId": "File:Giraffe House.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:33:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGiraffe%20House.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 93567,
   "sourceSha1": "87234ad5c29630eff94f0fc04d03ede0dc4ad661",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Reputation"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Reputation"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Reputation_Levels/Levels_51-75?action=history",
@@ -47,11 +55,12 @@
   "revisionId": 102861,
   "revisionTimestamp": "2023-05-03T16:30:48Z",
   "route": "/wiki/reputation-levels-levels-51-75-32713",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Reputation_Levels/Levels_51-75",
   "title": "Reputation Levels/Levels 51-75",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''[[Reputation Levels|Reputation Levels 51-75:]]'''\n{| cellspacing=\"0\" cellpadding=\"4\" style=\"background: #eee; border: 1px solid #bbb; vertical-align: top; text-align: center; border-collapse: collapse;\" valign=\"top\"\n|-style =\"border: 1px solid #bbb;\"\n!scope=\"col\"|Level\n!scope=\"col\"|Items\n!scope=\"col\"|To next level\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 51'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|66,966{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 52'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|67,495{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 53'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|67,985{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 54'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|68,438{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 55'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*10 [[diamond]]s\n|68,858{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 56'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|69,246{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 57'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[diamond]]s\n\n*\n|69,605{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 58'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[diamond]]s\n\n*\n|69,936{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 59'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[Diamond|diamonds]]\n\n*\n|70,242{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 60'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 15 [[Diamond|diamonds]]\n\n*\n|70,525{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 61'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[Diamond|diamonds]]\n\n*\n|70,786{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 62'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[Diamond|diamonds]]\n\n*\n|71,027{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 63'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n* 5 [[Diamond|diamonds]]\n\n*\n|71,249{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 64'''<br />[[File:Reputation Level 64.png|250px]]\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|71,454{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 65'''<br />[[File:Reputation Level 65.png|250px]]\n|style=\"text-align: left;\"|\n*10 [[diamond]]s\n|71,642{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 66'''<br />[[File:Reputation Level 66.png|250px]]\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|71,816{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 67'''<br />[[File:Reputation Level 67.png|250px]]\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|71,976{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 68'''<br />{{NoPic}}\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|72,124{{Infoicon|rep}}\n|-style =\"border: 1px solid #bbb;\"\n|'''Level 69'''<br />[[File:Reputation Level 69.png|250px]]\n|style=\"text-align: left;\"|\n*5 [[diamond]]s\n|72,260{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 70'''<br />[[File:Reputation Level 70.png|250px]]\n| style=\"text-align: left;\" |\n*15 [[diamond]]s\n|72,385{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 71'''<br />[[File:Reputation 71.png|250px]]\n| style=\"text-align: left;\" |\n*5 [[diamond]]s\n|72,500{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 72'''<br />[[File:Reputation Level 72.png|250px]]\n| style=\"text-align: left;\" |\n*5 [[diamond]]s\n|72,606{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 73'''<br />{{NoPic}}\n| style=\"text-align: left;\" |\n*5 [[diamond]]s\n|72,704{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 74'''<br />[[File:Reputation Level 74.png|250px]]\n| style=\"text-align: left;\" |\n*5 [[diamond]]s\n|72,794{{Infoicon|rep}}\n|- style=\"border: 1px solid #bbb;\"\n|'''Level 75'''<br />{{NoPic}}\n| style=\"text-align: left;\" |\n*10 [[diamond]]s\n|72,877{{Infoicon|rep}}\n|}\n\n{{Languages\n|es = Reputación/Niveles 51-75\n}}\n[[Category:Reputation]]",
   "wikitextHash": "bca2a47f523ad93e6d610d9cfcd4cfb1f4a785d97fde655db4b14363798854d5"
 }

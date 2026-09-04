@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:2_oranges.jpeg",
+  "filePageId": 35431,
+  "filePageRevisionId": 100781,
+  "filePageRevisionSha1": "bd5120712a6980e3beba102c8eff95c0bd060599",
+  "filePageRevisionTimestamp": "2022-05-02T17:59:47Z",
+  "filePageWikitext": "== Summary ==\norange tree with 2 oranges\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "4bb8bdf6f874635d30a01fc3da7f05961418a68c895d11bb8b0cb7fa2e442335",
+  "height": 333,
+  "immutableUrl": null,
+  "mediaId": "File:2 oranges.jpeg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-29T06:35:56Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3A2%20oranges.jpeg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 139495,
+  "sourceSha1": "57a657a5c109d156cc16c26793ac757d14a0ea14",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/cd/2_oranges.jpeg/revision/latest?cb=20220429063556",
+  "title": "File:2 oranges.jpeg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 327
+}

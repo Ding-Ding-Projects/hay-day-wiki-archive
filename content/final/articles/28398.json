@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -349,11 +357,12 @@
   "revisionId": 109753,
   "revisionTimestamp": "2026-05-02T03:20:58Z",
   "route": "/wiki/flower-shop-28398",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Flower_Shop",
   "title": "Flower Shop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Flower Shop.png|left|200px|Flower Shop]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 49\n |price = 120,000\n |time = 1 d 16 h\n |slots = 2\n |dia = 60\n |size = 2×2\n}}\nThe '''Flower Shop''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 49.\n\nIt is used to make [[Rustic Bouquet|rustic bouquets]], [[Bright Bouquet|bright bouquets]], [[Gracious Bouquet|gracious bouquets]] [[Candy Bouquet|candy bouquets]], [[Birthday Bouquet|birthday bouquets]], [[Soft Bouquet|soft bouquets]] and [[Veggie Bouquet|veggie bouquets]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe machine is a wooden flower stand that has a wooden beige roof with a decorative flower sign in the front and behind. Inside of it, there are some decorative wrappers above the wooden stool, and an area with a robotic machine using the thread to wrap up the bouquet with thread. There is a metallic stand that has 6 buckets of flowers displayed on the side:\n*<small>Top left bucket: Empty</small>\n*<small>Top right bucket: Rustic Bouquet</small>\n*<small>Middle left bucket: Pink Rose Bouquet</small>\n*<small>Middle right bucket: Gazania Bouquet</small>\n*<small>Bottom left bucket: Pink Flower Bouquet</small>\n*<small>Bottom right bucket: Rose Bouquet</small>\nThe mastered version of this machine has the roof color changed to maroon, and a golden star on the side of it. The metal stand was replaced by gold, and the threads color changed to purple.\n----\n=== '''Building''' ===\nIt costs 120,000 {{Infoicon|coin}} and takes 1 day 16 hours (or 60{{Infoicon|dia}}) to build the Flower Shop. It gives players 30 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Rustic Bouquet|49|45m|208\n|Bright Bouquet|65|20m|338\n|Gracious Bouquet|73|40m|500\n|Candy Bouquet|90|20m|554\n|Birthday Bouquet|92|20m|349\n|Soft Bouquet|93|30m|298\n|Veggie Bouquet|106|15m|352\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Flower Shop originally has 2 slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Flower Shop:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n| rowspan=\"3\" |[[File:Flower Shop Mastered.png|150px]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style=\"border: 1px solid #bbb;\"|[[File:Flower Shop Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\nRustic Bouquets are the best way of mastering Flower Shop, since they take the longest time to prepare (45 minutes) and only require wheat, cotton and indigo, which can easily be found in newspaper. Unlike Bright Bouquets and Soft Bouquets, Rustic Bouquets are very common and can be easily found in newspaper. They won't sell very quickly, so think twice before putting them in your roadside shop.\n----\n\n{{Navigation}}\n{{Languages\n|de = Blumenladen\n|es = Floristería\n|fr = Echoppe de Fleuriste\n|it = Negozio di fiori\n|no = Blomsterbutikk\n|vi = Cửa hàng hoa\n|zh = Flower Shop\n}}\n[[pt-br:Floricultura]]\n[[ru:Цветочный магазин]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "b129079d54fd221293964aa605061699ba02f327dd8b67ca89c6f4a98db855cc"
 }

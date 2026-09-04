@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lure Workbench Products",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lure Workbench Products",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -128,11 +138,12 @@
   "revisionId": 108037,
   "revisionTimestamp": "2025-06-18T21:03:29Z",
   "route": "/wiki/red-lure-30467",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Red_Lure",
   "title": "Red Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Red Lure.png|200px|left|Red lure]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 27\n |time = 1 hrs 30 min\n |source = [[File:Lure Workbench.png|45px|link=Lure Workbench]]\n |xp = 1\n |dia = 5\n |time3 = 1 hrs 16 mins\n}}\n'''Red lures''' are [[products]] unlocked at [[experience]] level 27. They are used to lure [[fish]].\n\nUnlike other lures, no ingredients are required to make them.\n\nThey are stored in the [[Tackle Box|tackle box]].\n\n{{Clr}}----\n==='''Using red lures'''===\n{{Note|<nowiki>T=Tablet, MB=Mobile followed by the page number.</nowiki>}}\nRed Lures can fish the following [[fish]]:\n{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"text-align: center; margin: .5em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #ddd;\"\n|[[File:Copper Redhorse.png|75px|link=Copper Redhorse|Copper Redhorse]]\n|[[File:Huchen.png|75px|link=Huchen|Huchen]]\n|[[File:Red-Tailed Catfish.png|75px|link=Red-Tailed Catfish|Red-Tailed Catfish]]\n|[[File:Sockeye Salmon.png|75px|link=Sockeye Salmon|Sockeye Salmon]]\n|- style=\"background: #ddd;\"\n|'''[[Copper Redhorse]]'''\n|'''[[Huchen]]'''\n|'''[[Red-Tailed Catfish]]'''<br /><span style=\"color: #FF4500;\">★★★</span>\n|'''[[Sockeye Salmon]]'''\n|- style=\"border: 1px solid #ccc;\"\n|T#2 - MB#2\n|T#8 - MB#14\n|T#19 - MB#37\n|T#21 - MB#41\n|}\n----\n==='''Tips'''===\n*Lures cannot be bought or sold in the roadside shop, but can be traded between [[Neighborhood|neighbors]].\n*[[Boat]]s never ask for lures.\n<big>'''Trivia'''</big>\n*The Red Lure probably resembles a worm.\n*The Red Lure is the first item that does not require any materials to make.\n*Using a glitch related to having multiple farms, it is actually possible to acquire red lures before level 27 using Neighborhood Requests.\n----\n{{Navigation}}\n{{Languages\n|de = Roter Köder\n|es = Cebo rojo\n|fr = Appât rouge\n|it = Esca rossa\n|nl = Rood Kunstaas\n|no = Rød sluk\n|ru = Красная приманка\n|zh = Red Lure\n}}\n[[Category:Lure Workbench Products]]",
   "wikitextHash": "eab9cf57c4e3b27cbb99f62761f3b59215e5d309d26721903d2364d378e52273"
 }

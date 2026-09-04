@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Honey Products",
+    "Category:Orange Products",
+    "Category:Salad Bar Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Honey Products",
+      "Category:Orange Products",
+      "Category:Salad Bar Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 109973,
   "revisionTimestamp": "2026-05-10T19:52:01Z",
   "route": "/wiki/fruit-salad-24926",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fruit_Salad",
   "title": "Fruit Salad",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fruit Salad.png|200px|left|Fruit salad]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 82\n |price = 1 to 597\n |time = 2 h\n |source = {{Infoicon|saladb|bigger|link=Salad Bar}}\n |xp = 71\n |base = 166\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Fruit salad''' is a [[Products|product]] unlocked at [[experience]] level 82. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fruit salad'''===\n[[File:Salad Bar.png|150px|left|Salad Bar]]\nFruit salad is made in the [[Salad Bar]].\n\nTo make the salad, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blackberry.png|75px|link=Blackberry|Blackberries]]\n|[[File:Honey.png|75px|link=Honey|Honey]]\n|[[File:Orange.png|75px|link=Orange|Orange]]\n|[[File:Strawberry.png|75px|link=Strawberry|Strawberries]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 2 hours to make one bowl, and 1 hours and 42 minutes in a fully [[Masteries|mastered]] bar. Each salad gives players 71 [[experience]] points.\n\n{{Clr}}----\n==='''Selling fruit salad'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Fruit salad can be bought or sold for a maximum price of 5,976 {{Infoicon|coin}} for 10 bowls.\n* Buying the ingredients required to make a salad costs 565 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 fruit salad per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Fruchtsalat\n|es = Ensalada de frutas\n|fr = Salade de Fruits\n|it = Macedonia di frutta\n|nl = Fruitsalade\n|no = Fruktsalat\n|ru = Фруктовый салат\n|zh = Fruit Salad\n}}\n[[pt-br:Salada de frutas]]\n\n[[Category:Salad Bar Products]]\n[[Category:Blackberry Products]]\n[[Category:Strawberry Products]]\n[[Category:Honey Products]]\n[[Category:Orange Products]]",
   "wikitextHash": "7d0547b5e684adb0dcb440d9c35e906ba0bc121345f10568f93820ade042d3ca"
 }

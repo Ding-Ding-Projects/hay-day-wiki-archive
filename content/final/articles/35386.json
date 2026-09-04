@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chickpea Products",
+    "Category:Chili Pepper Products",
+    "Category:Deep Fryer Products",
+    "Category:Garlic Products",
+    "Category:Onion Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chickpea Products",
+      "Category:Chili Pepper Products",
+      "Category:Deep Fryer Products",
+      "Category:Garlic Products",
+      "Category:Onion Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -142,11 +158,12 @@
   "revisionId": 110204,
   "revisionTimestamp": "2026-05-23T22:15:50Z",
   "route": "/wiki/falafel-35386",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Falafel",
   "title": "Falafel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n{{PageDisplay}}\n[[File:Falafel.png|200px|left|Falafel|link=Special:FilePath/Falafel.png]]\n\n{{Infobox\n |level = 98\n |price = 1 to 226\n |time = 55 min\n |xp = 27\n |source = {{Infoicon|deepfr|bigger|link=Deep Fryer}}\n |base = 63\n |dia = 4\n |time3 = 46 min\n |title = [[Products|Product]]}}\n\n'''Falafel''' are a [[Products|product]] unlocked at [[experience]] level 98.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making falafel'''===\n[[File:Deep_Fryer.png|150px|left|Deep Fryer]]\nFalafel are made in the [[Deep Fryer]].\n\nTo make falafel, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chickpea.png|75px|Chickpea|link=Chickpea]]\n|[[File:Onion.png|75px|Onion|link=Onion]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|[[File:Chili Pepper.png|75px|Chili Pepper|link=Chili Pepper]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 55 minutes to make one serving, and 46 minutes in a fully [[Masteries|mastered]] machine. Each serving gives players 27 [[experience]] points.\n\n{{Clr}}----\n==='''Selling falafel'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Falafel can be bought or sold for a maximum price of 2,268 {{Infoicon|Coin}} for 10 servings.\n* Buying the ingredients required to make falafel costs 196 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 servings of falafel per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n\n----\n{{Navigation}}\n{{Languages\n|de = Falafel\n|es = Falafel\n|fr = Falafel\n|it = Falafel\n|nl = Falafel\n|no = Falafel\n|ru = Фалафель\n|zh = Falafel\n}}\n[[pt-br:Faláfel]]\n\n[[Category:Deep Fryer Products]]\n[[Category:Chickpea Products]]\n[[Category:Onion Products]]\n[[Category:Garlic Products]]\n[[Category:Chili Pepper Products]]",
   "wikitextHash": "e2c33bb5101fd9135fcc82d4eec8b16b9b3733d193d02a098eaa6632d82189e7"
 }

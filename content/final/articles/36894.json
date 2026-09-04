@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Doner_Kebab_Stand?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 110825,
   "revisionTimestamp": "2026-08-05T08:55:53Z",
   "route": "/wiki/doner-kebab-stand-36894",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Doner_Kebab_Stand",
   "title": "Doner Kebab Stand",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Döner Kebab Stand]]",
   "wikitextHash": "cfacef49b13690a901ad3d5b4bbac252ae9d6d283791297d03a8b2630b5c0cf9"
 }

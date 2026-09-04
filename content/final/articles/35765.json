@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Egg Products",
+    "Category:Indigo Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Egg Products",
+      "Category:Indigo Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -156,11 +170,12 @@
   "revisionId": 103431,
   "revisionTimestamp": "2023-07-20T20:21:06Z",
   "route": "/wiki/indigo-egg-35765",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Indigo_Egg",
   "title": "Indigo Egg",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Indigo Egg.png|200px|left|Indigo Egg|link=Special:FilePath/Indigo Egg.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 20\n |level = 17\n |time = 30m\n |source = {{Infoicon|eastereggmaker|bigger|link=Easter Egg Maker}}\n |xp =20\n |dia = 3\n |time3 = 27m\n}}\n'''Indigo Egg''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Easter 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Indigo Egg'''===\n[[File:Easter Egg Maker.png|150px|left|Easter Egg Maker|link=Special:FilePath/Easter Egg Maker.png]]\nIndigo eggs are made in the [[Easter Egg Maker]].\n\nTo make an indigo egg, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Brown Sugar.png|75px|Brown Sugar|link=Brown Sugar]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 30 minutes to make an egg, and 27 minutes in a 2-star and fully [[Masteries|mastered]] station. Each egg gives players 20 [[experience]] points.\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 eggs per crate, up to a total of 12 per boat. Each egg used on a boat will be rewarded with 20 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Brown Sugar Products]]\n[[Category:Indigo Products]]\n[[Category:Egg Products]]\n\n{{Languages\n|es = Huevo lila\n|de = Indigofarbenes Ei\n}}",
   "wikitextHash": "97b53cf6db38c9103c5ec679cc8c7e3281e865ac341917fbef4537af46de58f2"
 }

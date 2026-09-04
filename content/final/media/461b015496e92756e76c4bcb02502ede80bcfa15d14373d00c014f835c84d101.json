@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snowball_Lantern.png",
+  "filePageId": 16676,
+  "filePageRevisionId": 77287,
+  "filePageRevisionSha1": "23de62a330d16d4902bc4d73d4a99d2ea858a769",
+  "filePageRevisionTimestamp": "2018-02-07T17:59:33Z",
+  "filePageWikitext": "Picture of the Snowball Lantern deco.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "785751dca5e2a93adc522a2c82046830160fbbded1cb3147eef580308986e558",
   "height": 144,
   "immutableUrl": null,
   "mediaId": "File:Snowball Lantern.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:59:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASnowball%20Lantern.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 19762,
   "sourceSha1": "2a4681c27709b2986ae40fd8f15a0a4a0e0a3ffd",

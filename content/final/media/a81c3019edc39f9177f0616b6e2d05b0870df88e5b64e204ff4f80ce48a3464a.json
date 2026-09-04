@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_84.png",
+  "filePageId": 27185,
+  "filePageRevisionId": 97683,
+  "filePageRevisionSha1": "311ee2992ad18b739f3282d74213e49560b8a1be",
+  "filePageRevisionTimestamp": "2021-06-07T11:05:37Z",
+  "filePageWikitext": "== Summary ==\nThe updated Level 84 screen\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "0cad2da3637fc98dcfad68319001fc2828bd26662dbeee7cf2784d5131fa5092",
   "height": 819,
   "immutableUrl": null,
   "mediaId": "File:Level 84.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-06-07T11:05:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2084.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1943400,
   "sourceSha1": "addb5765d86677854eceeadb1adc0c41d008c03b",

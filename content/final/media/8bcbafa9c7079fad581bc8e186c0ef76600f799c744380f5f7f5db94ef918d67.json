@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E5_Tysha_from_Oklahoma,_US",
+  "filePageId": 30521,
+  "filePageRevisionId": 83134,
+  "filePageRevisionSha1": "fdc6e69ed9e2e85e8c123f313e3afea31895cb50",
+  "filePageRevisionTimestamp": "2018-10-01T21:13:43Z",
+  "filePageWikitext": "\n== Description ==\nMeet the Farmer!\nSeason 1 Episode 5\n\nMeet the farmers in Hay Day from all around the world! \n\nIn this 5th episode of the series you'll get to meet Tysha, a devoted Hay Day player living in Oklahoma, US!\n\nLearn how Hay Day has helped her to meet friends, be an active twitter user and enjoy more the company of her lovely pets!\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/HayDay/\nInstagram ► https://www.instagram.com/hayday \nFacebook ► https://www.facebook.com/haydayofficial \nSupercell Shop ► https://shop.supercell.com/\n\n© Supercell Oy 2018\n[[Category:Videos]]",
+  "filePageWikitextHash": "9dee0523f198bffd1da4408c764de5cf2757ba656861452f517e0ba392ae798e",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E5 Tysha from Oklahoma, US",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-10-01T21:13:42Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E5%20Tysha%20from%20Oklahoma%2C%20US",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 31844,
+  "sourceSha1": "d79929f7428f5b091c460b3ad9ffcfa7b6e1565d",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Hay_Day_Meet_the_Farmer%21_E5_Tysha_from_Oklahoma%2C_US/revision/latest?cb=20181001211342",
+  "title": "File:Hay Day Meet the Farmer! E5 Tysha from Oklahoma, US",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

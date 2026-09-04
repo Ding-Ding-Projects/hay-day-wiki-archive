@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HAY_DAY_-_NEW_BOOSTER_AND_EVENT_IDEAS!_Rowdy_Ranch",
+  "filePageId": 30336,
+  "filePageRevisionId": 82623,
+  "filePageRevisionSha1": "d53141b6decd209822fe0442ff19b1fe3d7cc512",
+  "filePageRevisionTimestamp": "2018-08-18T04:23:12Z",
+  "filePageWikitext": "\n== Description ==\nHi all!  In this video, I am going to be sharing some event and booster ideas for the game in regards to the questions that the Hay Day team has been posting on Twitter and Facebook. \n\n\n\nI also now have a Twitter and a Facebook page!\n\n~Twitter: https://twitter.com/Rowdy_Ranch\n~Facebook: https://facebook.com/RowdyRanchHayDay\n\n~Link to the Rowdy Ranch Fan Base Server: https://discord.gg/X78kvfQ\n\n~Music: https://www.bensound.com/royalty-free-music\n\n~Link to the /r/HayDay server: https://discord.gg/3R7MmCW\n\n~Where I get all of my Hay Day images: http://hayday.wikia.com/wiki/Hay_Day_Wiki\n[[Category:Videos]]",
+  "filePageWikitextHash": "bdbf6238f017c30a7fa0616020026b17b5d69c196ec444275f6f5fde6655b235",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:HAY DAY - NEW BOOSTER AND EVENT IDEAS! Rowdy Ranch",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-08-18T04:23:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHAY%20DAY%20-%20NEW%20BOOSTER%20AND%20EVENT%20IDEAS!%20Rowdy%20Ranch",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 30142,
+  "sourceSha1": "b635ae9fca6402de9ec437dc26e62c22d60a0ed6",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/10/HAY_DAY_-_NEW_BOOSTER_AND_EVENT_IDEAS%21_Rowdy_Ranch/revision/latest?cb=20180818042311",
+  "title": "File:HAY DAY - NEW BOOSTER AND EVENT IDEAS! Rowdy Ranch",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

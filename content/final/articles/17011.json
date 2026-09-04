@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -199,11 +207,12 @@
   "revisionId": 109711,
   "revisionTimestamp": "2026-04-29T21:23:31Z",
   "route": "/wiki/duck-feather-17011",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Duck_Feather",
   "title": "Duck Feather",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Duck Feather.png|200px|left|Duck feather]]\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 50\n |price = 1 to 140\n |time = 3 h\n |xp = 17\n |source = {{Infoicon|duck|bigger|link=Duck}}\n |base = 39\n |dia = 5\n}}\n'''Duck feathers''' are [[Animal Goods|animal goods]] unlocked at [[experience]] level 50.\n\nThey are used to make [[pillow]]s, [[blanket]]s, [[Top Hat|top hats]] and [[Sun Hat|sun hats]].\n\nLike all goods, they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Trapping ducks'''===\n[[File:Duck_Trapped.png|150px|left|A trapped duck]]\nDucks can only be caught in [[Duck Trap|duck traps]]. Only 1 duck is caught per trap. It takes 2 hours to catch a duck once the trap has been placed into the water. Players can speed this up by spending 5 [[diamond]]s.\n{{Clr}}\n----\n==='''Collecting duck feathers'''===\n[[File:Duck Salon Stage6.png|150px|left|The Duck Salon]]\nDuck feathers are collected from [[duck]]s which have been given hair cuts in the [[Duck Salon]]. Once caught, each duck needs to stay in the salon for 3 hours to yield a feather. Players can speed this up by spending 6 [[diamond]]s.\n\nCollecting a feather gives players 17 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling duck feathers'''===\n[[File:Duck Feather RSS.png|150px|thumb|left|Selling at Roadside Shop]]\n* Duck feathers can be bought or sold at [[Roadside Shop]] for a maximum price of 1,404 {{Infoicon|coin}} for 10 feathers.\n* Making [[Duck Trap|duck traps]] requires no material and does not cost anything.\n{{Clr}}\n----\n==='''Using duck feathers'''===\nDuck feathers are used to make the following [[products]]:\n{{Item Usage|Duck Feather\n|Pillow|3|51\n|Blanket|5|59\n|Top Hat|1|72\n|Sun Hat|2|74\n}}\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 3 to 6 duck feathers per crate, up to a total of 24 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Catching a duck requires making a [[Duck Trap|duck trap]] (60 min) then letting it sit in the water for 2 hours then letting the duck sit in duck salon for 3 hours.\n* Recipes ask between 1 and 5 feathers.\n* Duck feathers are so rare that selling them at maximum price is recommended. Alternatively, you can use them to make other products to get more coins. Blanket is a good example, which has the highest maximum price among all products.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Entenfeder\n|es = Pluma de pato\n|fr = Plume\n|it = Piuma d'anatra\n|no = Andefjær\n|ru = Утиное перо\n}}\n[[pt-br:Pena de pato]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "c4693392d424d415b0180eb6cb0afe89b7223ca90aca2b400209e6ff2dff84f3"
 }

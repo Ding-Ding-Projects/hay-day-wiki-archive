@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_3.png",
+  "filePageId": 13471,
+  "filePageRevisionId": 69440,
+  "filePageRevisionSha1": "ee1e4156df01bbfad89344ae547b0d37f3fa301f",
+  "filePageRevisionTimestamp": "2017-02-06T12:27:24Z",
+  "filePageWikitext": "Picture of Reputation Level 3.\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "8ef723bfadb2cdf45c399e5f36261e503f37e0b89ac2f7743f1a4bea137f7429",
   "height": 366,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-25T15:50:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 256670,
   "sourceSha1": "0fd4f4038a9d4460d618c23a9fd60d1578e8d54e",

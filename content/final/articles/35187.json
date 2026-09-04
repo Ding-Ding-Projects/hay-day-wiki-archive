@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Honey Products",
+    "Category:Passion Fruit Products",
+    "Category:Sauce Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Honey Products",
+      "Category:Passion Fruit Products",
+      "Category:Sauce Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +164,12 @@
   "revisionId": 109916,
   "revisionTimestamp": "2026-05-09T23:19:39Z",
   "route": "/wiki/tart-dressing-35187",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tart_Dressing",
   "title": "Tart Dressing",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tart Dressing.png|200px|left|Tart Dressing]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 100\n |price = 1 to 288\n |time = 30 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 34\n |base = 80\n |dia = 3\n |time3 = 25 min\n}}\n'''Tart Dressing''' is a [[Products|product]] unlocked at [[experience]] level 100.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tart dressing'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nTart Dressing is made in the [[Sauce Maker]].\n\nTo make Tart Dressing, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Passion Fruit.png|75px|Passion fruit|link=Passion Fruit]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one serving, and 25 minutes in a fully [[Masteries|mastered]] maker. Each serving gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling tart dressing'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tart dressing can be bought or sold for a maximum price of 2,880 {{Infoicon|Coin}} for 10 serving.\n* Buying the ingredients required to make tart dressing costs 262 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 tart dressing per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Passionsfrucht-Dressing\n|es = Vinagreta de maracuyá\n|fr = Vinaigrette Acidulée\n|it = Salsa al frutto della passione\n|nl = Friszure Dressing\n|no = Tertedressing\n|ru = Соус из маракуйи\n|zh = Tart Dressing\n}}\n[[pt-br:Molho agridoce]]\n\n[[Category:Sauce Maker Products]]\n[[Category:Passion Fruit Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Honey Products]]",
   "wikitextHash": "e4fe6f45b017e60b2b44b637a4da9e99a629d3d41cd98b93e0a386ba7030e359"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Stage1.png",
+  "filePageId": 14877,
+  "filePageRevisionId": 66009,
+  "filePageRevisionSha1": "aa9521a0826e3559d46012319d666f0e4ce4da6d",
+  "filePageRevisionTimestamp": "2016-10-28T13:44:37Z",
+  "filePageWikitext": "Picture of the Farmhouse at the start of the game, once it has been repaired and repainted (Stage 1). Quality of the picture could be better.\n{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "191883b0ea9e40c88c58888a31faa490846ab6ddb4180223b94891ff2b299a71",
   "height": 873,
   "immutableUrl": null,
   "mediaId": "File:Farmhouse Stage1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T12:13:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarmhouse%20Stage1.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 428335,
   "sourceSha1": "309e71993313f0d96e8c9db2b19963f72d77d36f",

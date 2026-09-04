@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Activities?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95418,
   "revisionTimestamp": "2020-08-18T01:44:28Z",
   "route": "/wiki/category%2Fcategory-activities-23487",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Activities",
   "title": "Category:Activities",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Activities one can do on the {{SITENAME}}.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "a8382b49dd8b0b10df361ce12ae3e4a84daeec91838ffad3f636f911e3cd33a5"
 }

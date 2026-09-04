@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Milk Products",
+    "Category:Mushroom Products",
+    "Category:Onion Products",
+    "Category:Soup Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Milk Products",
+      "Category:Mushroom Products",
+      "Category:Onion Products",
+      "Category:Soup Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +179,12 @@
   "revisionId": 109807,
   "revisionTimestamp": "2026-05-05T21:53:56Z",
   "route": "/wiki/mushroom-soup-31951",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mushroom_Soup",
   "title": "Mushroom Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mushroom Soup.png|200px|left|Mushroom soup]]\n\n{{Infobox\n|level = 104\n|price = 1 to 176\n|time = 1 h 20 min\n|xp = 21\n|source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n|base = 49\n|dia = 4\n|time3 = 1 h 8 min\n|title = [[Products|Product]]\n}}\n'''Mushroom soup''' is a [[products|product]] unlocked at [[experience]] level 104.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making mushroom soup'''===\n[[File:Soup Kitchen.png|150px|left|Soup Kitchen]]\nMushroom soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mushroom.png|75px|Mushrooms|link=Mushroom]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Onion.png|75px|Onions|link=Onion]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hour and 20 minutes to make one pot, and 1 hour and 8 minutes in a fully [[Masteries|mastered]] kitchen. Each pot gives players 21 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling mushroom soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Mushroom soup can be bought or sold for a maximum price of 1764 {{Infoicon|Coin}} per 10.\n*Buying the ingredients required to make mushroom soup cost a total of 140 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 mushroom soup per crate, up to a total of 16 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n\n{{Languages\n|de = Pilzsuppe\n|es = Sopa de setas\n|fr = Soupe aux Champignons\n|it = Zuppa di funghi\n|nl = Paddenstoelensoep\n|no = Soppsuppe\n|ru = Грибной суп\n|zh = Mushroom Soup\n}}\n[[pt-br:Sopa de cogumelos]]\n\n[[Category:Soup Kitchen Products]]\n[[Category:Milk Products]]\n[[Category:Mushroom Products]]\n[[Category:Onion Products]]",
   "wikitextHash": "553195f95222c5e0bfacc821caa07b0da594392d3f05d96923e5ac9be58fa635"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Egg Products",
+    "Category:Honey Products",
+    "Category:Milk Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Egg Products",
+      "Category:Honey Products",
+      "Category:Milk Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +173,12 @@
   "revisionId": 107264,
   "revisionTimestamp": "2025-02-16T12:00:57Z",
   "route": "/wiki/honey-toast-15783",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Toast",
   "title": "Honey Toast",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Toast.png|200px|left|Honey toast]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 69\n |price = 1 to 255\n |time = 1 h\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |xp = 31\n |dia = 4\n |base = 71\n |time3 = 51 min\n}}\n'''Honey toasts''' are [[products]] unlocked at [[experience]] level 69. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making honey toasts'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nHoney toasts are made in the [[Sandwich Bar]].\n\nTo make a toast, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour to make one toast, and 51 minutes in a fully [[Masteries|mastered]] Bar. Each toast gives players 31 [[experience]] points.\n\n{{Clr}}----\n==='''Selling honey toasts'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Honey toasts can be bought or sold for a maximum price of 2,556 {{Infoicon|Coin}} for 10 toasts.\n* Buying the ingredients required to make a toast costs 225 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 honey toasts per crate, up to a total of 16 per boat.\n\n\n\n\n\n\n\n\n----\n\n==='''Did you know?'''===\n*Honey Toast may sound like it's just honey on toast, but its ingredients would suggest that the toast is actually eggy bread, or french toast.\n----\n\n{{Navigation}}\n{{Languages\n|de = Honigtoast\n|es = Tostada con miel\n|fr = Tartine Grillée au Miel\n|it = Toast al miele\n|nl = Honingtoast\n|no = Honningsandwich\n|zh = Honey Toast\n}}\n[[pt-br:Torrada com mel]]\n[[ru:Гренка с мёдом]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Egg Products]]\n[[Category:Bread Products]]\n[[Category:Milk Products]]\n[[Category:Honey Products]]",
   "wikitextHash": "73ba58cfb69ce5047261eda13a7311f2b24aaf0686c5343a8650088136b40d68"
 }

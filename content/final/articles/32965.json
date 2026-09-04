@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -332,11 +340,12 @@
   "revisionId": 110412,
   "revisionTimestamp": "2026-06-06T11:48:09Z",
   "route": "/wiki/wok-kitchen-32965",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Wok_Kitchen",
   "title": "Wok Kitchen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Wok_Kitchen.png|200px|left|Wok Kitchen]]\n\n{{Infobox\n |level = 69\n |price = 350,000\n |time = 3 d 8 h\n |slots = 2\n |dia = 82\n |title = [[Production Buildings|Machine]]\n |size = 2×2\n}}\nThe '''Wok Kitchen''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 69.\n\nIt is used to make [[Fried Rice|fried rice]], [[Spicy Fish|spicy fish]], [[Peanut Noodles|peanut noodles]], and [[Tofu Stir Fry|tofu stir fry]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 350,000 {{Infoicon|coin}} and takes 3 days and 8 hours or 82 {{Infoicon|dia}} to build the Wok Kitchen. It gives players 41 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Fried Rice|69|1h|205\n|Lamb Stir Fry|69|2h|270\n|Spicy Fish|79|1:30|543\n|Peanut Noodles|86|45m|597/80\n|Tofu Stir Fry|89|1:15|306/37\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Wok Kitchen originally has 2 slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 2,230 hours of production is required to [[Masteries|master]] the Wok Kitchen:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Wok Kitchen Mastered.png|150px|Mastered Wok Kitchen]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />140 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />420 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,670 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Wok Kitchen Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"?% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n\n* [[Lamb Stir Fry]] has the longest production time of 2 hours, use this product to master the machine quickly. \n**You can harvest a plot of rice & sesame field ~2 times even before the product is finished. Chili Peppers are 2 hours more than the product, make sure you plant some of them before preparing some.\n***Lamb chops only take 30 minutes to collect; if you non-stop feed & harvest lambs' byproduct, you will collect over 40x Lamb Chops in about 2 hours.\n****Make sure to grill some Lamb Skewers, as it is the main ingredient of the product.\n\n----\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Wokküche\n|es = Wok\n|fr = Wok\n|it = Cucina con wok\n|no = Wok-kjøkken\n|vi = Bếp chảo lòng sâu\n|zh = Wok Kitchen\n}}\n[[pt-br:Panela wok]]\n[[ru:Вок-кухня]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "f800bd6a7ca22d6be2e29b69407083b546ab86e0928ea5ca68e49e45bafb65e2"
 }

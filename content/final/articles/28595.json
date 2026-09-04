@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Town",
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Town",
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary?action=history",
@@ -26,11 +36,12 @@
   "revisionId": 78978,
   "revisionTimestamp": "2018-04-18T13:42:22Z",
   "route": "/wiki/category%2Fcategory-sanctuary-28595",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sanctuary",
   "title": "Category:Sanctuary",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Town]]\n[[Category:Town Buildings]]",
   "wikitextHash": "6a05314b41f7e751b478c109695cf52f6e8807cd6980d1ed116d0615a828a418"
 }

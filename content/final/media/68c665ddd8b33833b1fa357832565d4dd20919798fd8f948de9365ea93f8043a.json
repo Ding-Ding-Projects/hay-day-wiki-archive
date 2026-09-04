@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Red_Tree.png",
+  "filePageId": 27841,
+  "filePageRevisionId": 77360,
+  "filePageRevisionSha1": "ad6677968f3b64709ed840785eb23f3344380a5a",
+  "filePageRevisionTimestamp": "2018-02-07T19:12:11Z",
+  "filePageWikitext": "== Summary ==\nOne of the NEW Trees (2 of 5)\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "660fe746d90e2c524518782dbafad958425f3bbe433556f5f3fe0b9043b3ab3f",
   "height": 615,
   "immutableUrl": null,
   "mediaId": "File:Red Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:12:10Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARed%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 407652,
   "sourceSha1": "c661ed0722be40ba996bfb9b4ff836e0a3cc8dde",

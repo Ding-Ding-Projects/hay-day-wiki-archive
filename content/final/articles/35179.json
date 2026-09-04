@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Fish Fillet Products",
+    "Category:Olive Oil Products",
+    "Category:Preservation Station Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Fish Fillet Products",
+      "Category:Olive Oil Products",
+      "Category:Preservation Station Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 110211,
   "revisionTimestamp": "2026-05-24T17:16:18Z",
   "route": "/wiki/canned-fish-35179",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Canned_Fish",
   "title": "Canned Fish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Canned Fish.png|200px|left|Canned fish]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 95\n |price = 1 to 471\n |time = 3 h 40 m\n |source = {{Infoicon|preservst|bigger|link=Preservation Station}}\n |xp = 56\n |base = 131\n |dia = 7\n |time3 = 3 h 7 min\n}}\n'''Canned fish''' are a [[products|product]] unlocked at [[experience]] level 95.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making canned fish'''===\n[[File:Preservation Station.png|150px|left|Preservation Station]]\nCanned fish are made in the [[Preservation Station]].\n\nTo make canned fish, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|Fish fillet|link=Fish Fillet]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours and 40 minutes to make one can, and 3 hours and 7 minutes in a fully [[Masteries|mastered]] station. Each can gives players 56 [[experience]] points.\n\n{{Clr}}----\n==='''Selling canned fish'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Canned fish can be bought or sold for a maximum price of 4,716 {{Infoicon|coin}} for 10 cans.\n* Buying the ingredients required to make the canned fish costs 421 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 canned fish per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Dosenfisch\n|es = Pescado en lata\n|fr = Poisson Vinaigré\n|it = Pesce in scatola\n|nl = Vis in Blik\n|no = Fiskehermetikk\n|ru = Рыбные консервы\n|zh = Canned Fish\n}}\n[[pt-br:Peixe enlatado]]\n\n[[Category:Preservation Station Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Olive Oil Products]]",
   "wikitextHash": "24d3592e2ec8c3603e44584a94aea31f4b0f96196ac59a0cbd13f14a2518868f"
 }

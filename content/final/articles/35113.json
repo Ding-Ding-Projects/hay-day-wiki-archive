@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Pineapple_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98590,
   "revisionTimestamp": "2021-08-31T21:32:11Z",
   "route": "/wiki/category%2Fcategory-pineapple-products-35113",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Pineapple_Products",
   "title": "Category:Pineapple Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pineapple.png|thumb]]\nProducts of [[Pineapple]].\n[[Category:Products]]",
   "wikitextHash": "369f3d45eadfc2e7aa88cbd76e2607cd8f7ae91d5996ac2f3304eadfbc5a568a"
 }

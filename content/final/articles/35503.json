@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Currencies",
+    "Category:Farm Pass",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Currencies",
+      "Category:Farm Pass",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +147,12 @@
   "revisionId": 108930,
   "revisionTimestamp": "2025-11-30T20:43:19Z",
   "route": "/wiki/chick-voucher-35503",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chick_Voucher",
   "title": "Chick Voucher",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chick Voucher.png|A chick voucher|200px|left]]\n'''Chick Vouchers''' are a type of [[Currencies|currency]] used to trade for special items in the [[shop]]. They are the rarest [[voucher]].\n\nChick vouchers were introduced on November 2021.\n{{Clr}}\n----\n==='''Obtaining Chick Vouchers'''===\nPlayers can obtain chick vouchers in a few ways:\n\n* Progressing on the [[Farm Pass|farm pass]] road. Generally, you only get 1 chick voucher per season on the free road and obtain 2 additional vouchers if you purchase the paid road.\n* Spending holiday currencies ([[Holly]], [[Chocolate Bunny|Chocolate Bunnies]], [[Musical Note|Musical Notes]]) in the holiday [[Catalogue]].\n* Progressing in task events.\n* Spending photo reels in the design festival shop.\n* Opening holiday calendar boxes on [[Greg|Greg's]] farm\n\nUnlike other vouchers, chick vouchers are not given as rewards for completing [[truck]] or [[boat]] orders.[[File:Chick Voucher Farm Pass.png|400px|left|A chick voucher available on the free farm pass road.]]\n{{Clr}}\n----\n==='''Using Chick Vouchers'''===\nChick vouchers are used to purchase pet birds in the [[shop]]. It takes 9 chick vouchers to purchase each pet bird.\n\n{{Main|:Category:Pets}}[[File:Vouchers2.png|400px|left]]\n{{Clr}}\n----\n==='''Strategy tips'''===\n{{NoTips}}\n----\n{{Navigation}}\n{{Languages\n|de = Kükengutschein\n|es = Tique de pollitos\n|fr = Coupon Poussin\n|no = Kyllingkupong\n}}\n[[ru:Ваучеры#Цыплячьи ваучеры]]\n\n[[Category:Currencies]]\n[[Category:Farm Pass]]",
   "wikitextHash": "ce8922a91e81a0b7be8d89aacac6d4dfd4336496334b4a99d3c5e9b9287c51e6"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Featured_Guides.png",
+  "filePageId": 28636,
+  "filePageRevisionId": 74591,
+  "filePageRevisionSha1": "b6399a7e2cabe1e5469af0715f0110bc86d2e2bd",
+  "filePageRevisionTimestamp": "2017-10-24T02:32:51Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "8d4aa039e5ef3bdb4762a86bd8782f21d52ea94aaf093cd796776c773d911bb7",
   "height": 537,
   "immutableUrl": null,
   "mediaId": "File:Featured Guides.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-24T02:30:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFeatured%20Guides.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 516347,
   "sourceSha1": "6960f7d6831e1356216d04d60be5a51d124ae88f",

@@ -8,11 +8,13 @@ The execution snapshot includes the source wiki's reader-facing knowledge base:
 - category pages and membership relationships;
 - Help records and project-policy records needed to explain the source;
 - templates and modules required to render included articles;
-- media records referenced by included reader content;
+- the complete current namespace-6 File-page title inventory, the allimages downloadable catalog, and media records referenced by included reader content;
 - file descriptions, source links, dimensions, MIME types, byte sizes, revision identities, and rights metadata;
 - external video references as labelled external links or consent-to-load embeds.
 
-The planning audit found 1,362 reader-facing records: 994 article and redirect records, 354 categories, 3 Help records, and 11 Hay Day Wiki project records. It also found 3,699 referenced media records and 452 external video records. The same audit reported 4,682 file-namespace records and 4,634 all-images inventory records, which are different source views. These numbers must be replaced by the execution manifest at import time.
+The current execution manifest contains 1,363 reader-facing records, 354 retained categories, 8,124 category-membership edges, 4,697 File-page records, 4,649 allimages records, 3,710 referenced media identities, and a 4,807-title media union. The counts are recorded in `content/final/snapshot-manifest.json`; they replace historical planning counts.
+
+The media union intentionally contains catalog-only records. In the current snapshot, 1,096 File-page records have no article reference, 3,601 are both File pages and referenced, 109 are referenced without a retained File page, and 1 is present in allimages without a retained File page or article reference. File-page membership is never inferred from allimages alone.
 
 ## Excluded scope
 
@@ -22,7 +24,7 @@ An exclusion is recorded in the snapshot manifest with its namespace or reason. 
 
 ## Snapshot boundary
 
-Enumeration must record source identity, import start and finish times, MediaWiki version, namespace inventory, page IDs, selected revision IDs, titles, redirect targets, and content hashes. A release is publishable only when every selected record has a terminal import result and the manifest digest validates.
+Enumeration must record source identity, import start and finish times, MediaWiki version, namespace inventory, page IDs, selected revision IDs, titles, redirect targets, exact revision-bound wikitext, category membership, content hashes, the namespace-6 File-page inventory, allimages metadata, file-page revision evidence, and media reference counts. A release is publishable only when every selected record has a terminal import result and the manifest digest validates.
 
 ## Suggested articles
 

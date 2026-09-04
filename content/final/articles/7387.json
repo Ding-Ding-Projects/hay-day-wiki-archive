@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Lure?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 39830,
   "revisionTimestamp": "2014-12-30T15:07:28Z",
   "route": "/wiki/category%2Fcategory-image-lure-7387",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Lure",
   "title": "Category:Image Lure",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[lure]]s.\n[[Category:Images]]",
   "wikitextHash": "cf1632e78e1f8681fed8a129d2ba359fc161381ce93ba188f070af6c6312aa8c"
 }

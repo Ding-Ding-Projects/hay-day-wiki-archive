@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -349,11 +357,12 @@
   "revisionId": 109917,
   "revisionTimestamp": "2026-05-09T23:24:58Z",
   "route": "/wiki/tea-leaf-24833",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tea_Leaf",
   "title": "Tea Leaf",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tea Leaf.png|200px|left|Tea Leaf]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 80\n |price = 1 to 43\n |time = 6 h 30 min\n |xp = 9\n |base = 12\n |dia = 9\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Tea leaves''' are field [[crops]] unlocked at [[experience]] level 80.\n\nThey are exclusively used to make tea: [[Green Tea|green tea]], [[Milk Tea|milk tea]], [[Honey Tea|honey tea]], [[Lemon Tea|lemon tea]], [[Orange Tea|orange tea]], [[Iced Tea|iced tea]], [[Mint Tea|mint tea]], and [[Apple Ginger Tea|apple ginger tea]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 650 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing tea leaves'''===\nTea leaves are grown in [[Farm|fields]] by planting another tea leaf (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 9 [[experience]] points, and takes 6 hours and 30 minutes to mature.\n<gallery>\nTea Leaf Stage 1.png\nTea Leaf Stage 2.png\nTea Leaf Stage 3.png\nTea Leaf Stage 4.png\nTea Leaf Stage 5.png\n</gallery>\n----\n=== '''Selling tea leaves''' ===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Tea leaves can be bought or sold for a maximum price of 432 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using tea leaves''' ===\nTea leaves are used to make the following [[products]]:\n\n{{Item Usage|Tea Leaf\n|Green Tea|5|80\n|Milk Tea|3|81\n|Honey Tea|3|83\n|Lemon Tea|3|86\n|Apple Ginger Tea|1|88\n|Orange Tea|3|89\n|Iced Tea|3|92\n|Mint Tea|3|97\n|Pomegranate Tea|4|107}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 7 to 11 tea leaves per crate, up to a total of 33 per boat.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n* As recipes ask for one to five tea leaves. You need to keep large quantities of them in your [[silo]], especially as they take a very long time to grow whereas tea is quick to brew in comparison.\n* Tea Leaves are one of the rarer crops in the Daily Dirt. You can hardly find these in the newspaper and they sell very quickly. Always remember to plant them overnight, just like tomatoes, asparagus, strawberries...\n----\n{{Navigation}}\n{{Languages\n|de = Teeblätter\n|es = Hojas de té\n|fr = Feuilles de thé\n|it = Foglie di tè\n|no = Teblader\n|ru = Чайные листья\n}}\n[[pt-br:Folhas de chá]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "0c1417137b4ddd93a85942bd3f33723837332836068358ba8244a125696e3426"
 }

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Customization",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Customization",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -140,11 +152,12 @@
   "revisionId": 107814,
   "revisionTimestamp": "2025-04-14T17:36:49Z",
   "route": "/wiki/maggie-29376",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Maggie",
   "title": "Maggie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Maggie.png|left|200px|Maggie]]\n'''Maggie''' is a [[:Category:Characters|non-player character]] (NPC) who can [[Customization|customize]] the appearance of the player's [[farmhouse]], [[truck]] and [[Roadside Shop|roadside shop]].\n\nShe becomes available when players have reached [[experience]] level 31 and have completed 20 [[achievements]].\n\n{{Clr}}\n----\n==='''Frequency'''===\nMaggie comes to the player's farm on Mondays and stays for 3 days or when all the renovation options have been applied. (Currently SC is aware of the glitch that she remains on the farm regardless.)\n----\n==='''Maggie's services'''===\n[[File:Maggies Workbench.png|left|200px|Maggie's workbench]]\n\n{{Main|Customization}}\n\nEach week, Maggie presents the player with a selection of choices for each customizable part of the farmhouse, the truck and the roadside shop. Players can choose to pay her to customize their farmhouse. Parts cost [[coin]]s, [[voucher]]s or [[diamond]]s.\n\nThe selection is random. Players can spend [[diamond]]s per part to restock and get more options. The first one costs 2 diamonds, the third one 4 and the fourth and last one 6.\n\nMaggie may come back the next week with different and/or identical options.\n\nIf players want to re-apply a style they need to pay Maggie again.\n\n{{Clr}}\n----\n==='''Maggie's catalogs'''===\nMaggie has two renovation catalogs:\n*the style book, which lets players complete full styles to get some rewards.\n*the collection book, which lets players see every option they've unlocked.\n----\n\n{{Navigation}}\n{{Languages\n|de = Baumeisterin\n|fr = Maggie\n|es = Maggie\n}}\n[[Category:Characters]]\n[[Category:Customization]]\n[[Category:Trade]]",
   "wikitextHash": "94e99f8b464e168a7ad37b280266c8bdef51edd9ceb847da5da2bb5217663a42"
 }

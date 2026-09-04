@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Playable Areas"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Playable Areas"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Farm?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78961,
   "revisionTimestamp": "2018-04-18T13:08:39Z",
   "route": "/wiki/category%2Fcategory-farm-15141",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Farm",
   "title": "Category:Farm",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pages related to the [[Farm]].\n[[Category:Playable Areas]]",
   "wikitextHash": "52b0c03f24ed8a28995befd30f663688afa7c340787fd6354dd5e76f5feae817"
 }

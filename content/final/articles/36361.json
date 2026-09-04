@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fish_Pie_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108220,
   "revisionTimestamp": "2025-08-05T20:03:13Z",
   "route": "/wiki/category%2Fcategory-fish-pie-products-36361",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fish_Pie_Products",
   "title": "Category:Fish Pie Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Fish Pie.png|thumb]]\nProducts of [[Fish Pie]].\n[[Category:Products]]",
   "wikitextHash": "8b6650f17e37569cb7a6ea51e4fb3e6ea68bb1c71d87cf38254a067d522ae8d9"
 }

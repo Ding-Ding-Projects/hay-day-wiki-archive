@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Wiki?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 109815,
   "revisionTimestamp": "2026-05-07T19:59:22Z",
   "route": "/wiki/category%2Fcategory-image-wiki-17575",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Wiki",
   "title": "Category:Image Wiki",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "All images which are used for the wiki itself.\n[[Category:Images]]",
   "wikitextHash": "83472c9ae1975b69f77c1f0a1f8891519093541068b35630b4961dd7ce94f742"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cheese Products",
+    "Category:Chili Pepper Products",
+    "Category:Taco Kitchen Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cheese Products",
+      "Category:Chili Pepper Products",
+      "Category:Taco Kitchen Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +139,12 @@
   "revisionId": 107924,
   "revisionTimestamp": "2025-05-28T23:44:23Z",
   "route": "/wiki/quesadilla-24985",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Quesadilla",
   "title": "Quesadilla",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Quesadilla.png|200px|left|Quesadilla]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 82\n |price = 1 to 241\n |time = 1 h\n |source = {{Infoicon|tacok|bigger|link=Taco Kitchen}}\n |xp = 29\n |base = 67\n |dia = 4\n |time3 = 51 min\n}}\n'''Quesadillas''' are [[products]] unlocked at [[experience]] level 82.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making quesadillas'''===\n[[File:Taco Kitchen.png|150px|left|Taco Kitchen]]\nQuesadillas are made in the [[Taco Kitchen]].\n\nTo make a quesadilla, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cheese.png|75px|link=Cheese|Cheese]]\n|[[File:Chili Pepper.png|75px|link=Chili Pepper|Chili peppers]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x4'''\n|}\nIt takes 1 hour to make one quesadilla, and 51 minutes in a fully [[Masteries|mastered]] kitchen. Each quesadilla gives players 29 [[experience]] points.\n\n{{Clr}}----\n==='''Selling quesadillas'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Quesadillas can be bought or sold for a maximum price of 2,412 {{Infoicon|coin}} for 10 pieces.\n* Buying the ingredients required to make a quesadilla costs 206 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 quesadillas per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Quesadilla\n|es = Quesadilla\n|fr = Quesadilla\n|it = Quesadilla\n|nl = Quesadilla\n|no = Quesadilla\n|ru = Кесадилья\n|zh = Quesadilla\n}}\n[[pt-br:Quesadilla]]\n[[Category:Taco Kitchen Products]]\n[[Category:Wheat Products]]\n[[Category:Cheese Products]]\n[[Category:Chili Pepper Products]]",
   "wikitextHash": "24c813329c95dbd53e88964d0ac5c397a3bf9500c2adc2de792459ef4d0b1a3d"
 }

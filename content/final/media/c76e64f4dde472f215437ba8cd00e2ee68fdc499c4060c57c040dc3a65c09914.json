@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_66.png",
+  "filePageId": 34222,
+  "filePageRevisionId": 98263,
+  "filePageRevisionSha1": "947aa2335b07476504f95e9a0da6d1e79b9e4455",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:22Z",
+  "filePageWikitext": "== Summary ==\nReputation 66 level up banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "c2eb4812994048081542177db7ae0f9951a1ac3913f2caf6e1edae4cb53c1733",
   "height": 783,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 66.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-29T16:24:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2066.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1118394,
   "sourceSha1": "d0e7c69da199a5b968d507417b3080bba1b9e52d",

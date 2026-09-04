@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cookie Products",
+    "Category:Milkshake Bar Products",
+    "Category:Syrup Products",
+    "Category:Toffee Products",
+    "Category:Vanilla Ice Cream Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cookie Products",
+      "Category:Milkshake Bar Products",
+      "Category:Syrup Products",
+      "Category:Toffee Products",
+      "Category:Vanilla Ice Cream Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -120,11 +136,12 @@
   "revisionId": 110429,
   "revisionTimestamp": "2026-06-06T18:42:39Z",
   "route": "/wiki/vanilla-milkshake-35977",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Vanilla_Milkshake",
   "title": "Vanilla Milkshake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Vanilla Milkshake.png|left|184x184px|Vanilla Milkshake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 124\n |price = 1 to 673\n |time = 45 min\n |source = {{Infoicon|milkshakeb|bigger|link=Milkshake Bar}}\n |xp = 80\n |base = 187\n |dia = 3\n |time3 = 38 min\n}}\n'''Vanilla Milkshake''' is a [[products|product]] unlocked at [[experience]] level 124. It was added in winter 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Vanilla Milkshake'''===\n[[File:Milkshake Bar.png|150px|left|Milkshake Bar]]\nVanilla Milkshake are made in the [[Milkshake Bar]].\n\nTo make Vanilla Milkshake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Vanilla Ice Cream.png|75px|Vanilla Ice Cream|link=Vanilla Ice Cream]]\n|[[File:Cookie.png|75px|Cookie|link=Cookie]]\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 Minutes to make Vanilla Milkshake, and 38 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 80 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Vanilla Milkshake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Vanilla Milkshake can be bought or sold for a maximum price of 6,732 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Vanilla Milkshake costs 646 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 Vanilla Milkshake per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Vanille-Milchshake\n|es = Batido de vainilla\n|it = Milkshake alla vaniglia\n|nl = Vanillemilkshake\n|no = Vaniljemilkshake\n|ru = Ванильный милкшейк\n}}\n[[pt-br:Milk-shake de baunilha]]\n\n[[Category:Milkshake Bar Products]]\n[[Category:Vanilla Ice Cream Products]]\n[[Category:Cookie Products]]\n[[Category:Toffee Products]]\n[[Category:Syrup Products]]",
   "wikitextHash": "b74e54443a6b54ea3d2c974241f09f7bb5cf0dafcbe01e4a61089ab759bd87dd"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lemon_Tree_Harvest_3.png",
+  "filePageId": 29237,
+  "filePageRevisionId": 77656,
+  "filePageRevisionSha1": "1dea26bb4a6b98ec3f5ef55be53508a749179146",
+  "filePageRevisionTimestamp": "2018-02-17T16:29:58Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "d14e287cddf242ab2efcf9c4ce10e1bd9a812d8c7be02f9c4ed7aa64531ae823",
   "height": 183,
   "immutableUrl": null,
   "mediaId": "File:Lemon Tree Harvest 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-17T16:29:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALemon%20Tree%20Harvest%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 24877,
   "sourceSha1": "163075fec0b06a10dc7e5815a7648dcd09fa7f7b",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -336,11 +344,12 @@
   "revisionId": 107132,
   "revisionTimestamp": "2025-02-04T20:56:32Z",
   "route": "/wiki/honey-extractor-15755",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Extractor",
   "title": "Honey Extractor",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Extractor.png|200px|left|Honey Extractor]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 39\n |price = 35,000\n |time = 1 d\n |slots = 2\n |xp = 24\n |dia = 47\n |size = 2×2\n}}\nThe '''Honey Extractor''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 39.\n\nIt is used to make [[honey]] and [[beeswax]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe extractor looks like a large yellow barrel with a red-star-decorated faucet; a keg is placed beside it.\n\nThe mastered version gets a golden star.\n----\n=== '''Building''' ===\nIt costs 35,000{{Infoicon|coin}} and takes 1 day (or 47 {{Infoicon|dia}}) to build the Honey Extractor. It gives players 24 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Honey|39|20m|154/18\n|Beeswax|48|45m|234\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Honey Extractor originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one.\n----\n=== '''Mastering''' ===\nA total of 650 hours of production is required to [[Masteries|master]] the Honey Extractor:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Honey Extractor Mastered.png|150px|Mastered Honey Extractor]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />50 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />150 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />450 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Honey Extractor Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*[[Honeycomb]], required to make [[honey]] and [[beeswax]], is very hard to come by in the [[Daily Dirt]].\n*Nothing produced from the Honey Extractor is requested by [[boat]]s.\n----\n{{Navigation}}\n{{Languages\n|de = Honigschleuder\n|es = Extractor de miel\n|fr = Extracteur de Miel\n|it = Estrattore di miele\n|no = Honningsamler\n|vi = Máy chiết xuất mật ong\n|zh = Honey Extractor\n}}\n[[pt-br:Extrator de mel]]\n[[ru:Медогонка]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "9d3cae8d213ee1245d7227097aab8b278a04b78fbccaf1f7150c7f90b002e158"
 }

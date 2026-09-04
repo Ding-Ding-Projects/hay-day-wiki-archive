@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Achievements?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 37461,
   "revisionTimestamp": "2014-12-04T15:37:01Z",
   "route": "/wiki/category%2Fcategory-image-achievements-11370",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Achievements",
   "title": "Category:Image Achievements",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image related to [[Achievements]].\n[[Category:Images]]",
   "wikitextHash": "b2ff65a2ccab707637578d2d58ceb4d1b951be85d29d99446c3506cc9f4337af"
 }

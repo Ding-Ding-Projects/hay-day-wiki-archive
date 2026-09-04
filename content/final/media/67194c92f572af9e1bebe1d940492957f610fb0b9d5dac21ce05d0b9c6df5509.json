@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_187.png",
+  "filePageId": 34744,
+  "filePageRevisionId": 98233,
+  "filePageRevisionSha1": "819126b27c4a20c427c56b8c804212a446ed40a5",
+  "filePageRevisionTimestamp": "2021-07-15T22:06:34Z",
+  "filePageWikitext": "== Summary ==\nLevel 187 Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "06d6ce55578d74043fb2457a448173e0b961f49bee726a98d4c9814d618cea7c",
   "height": 389,
   "immutableUrl": null,
   "mediaId": "File:Level 187.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-01-19T14:06:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20187.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 648685,
   "sourceSha1": "c5af09669df17101fca80f8a249b26b732d70237",

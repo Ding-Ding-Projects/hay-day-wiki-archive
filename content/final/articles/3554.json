@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -404,11 +412,12 @@
   "revisionId": 108906,
   "revisionTimestamp": "2025-11-04T21:33:59Z",
   "route": "/wiki/pie-oven-3554",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pie_Oven",
   "title": "Pie Oven",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pie Oven.png|left|200px|Pie Oven]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 14\n |price = 2,200\n |time = 12 h\n |slots = 2\n |dia = 35\n |size = 3×3\n}}\nThe '''Pie Oven''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 14.\n\nIt is used to make [[Carrot Pie|carrot pies]], [[Pumpkin Pie|pumpkin pies]], [[Bacon Pie|bacon pies]], [[Apple Pie|apple pies]], [[Fish Pie|fish pies]], [[Feta Pie|feta pies]], [[casserole]]s, [[Shepherd's Pie|shepherd's pies]], [[Chocolate Pie|chocolate pies]], [[Lemon Pie|lemon pies]], [[Peach Tart|peach tarts]], [[Passion Fruit Pie|passion fruit pies]], [[Mushroom Pot Pie|mushroom pot pies]] and [[Eggplant Parmesan|eggplant parmesans]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Pie Oven is a red brick oven with gray doors and a chimney. A barrel of flour sits next to it, and two wooden chairs and a matching table are in front of it. The floor is tiled. It matches the look of the [[Bakery]], the [[Popcorn Pot]] and the [[Cake Oven]].\n\nThe mastered version gets a star on the side, another keg of flour and some golden bricks.\n----\n=== '''Building''' ===\nIt costs 2,200 {{Infoicon|coin}} and takes 12 hours (or 35 {{Infoicon|dia}}) to build the Pie Oven. It gives players 17 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Carrot Pie|14|1h|82\n|Pumpkin Pie|15|1:42|97\n|Bacon Pie|18|3h|180\n|Apple Pie|28|2:30|270\n|Fish Pie|28|2h|226\n|Feta Pie|34|1:30|223/26\n|Casserole|36|2h|367\n|Shepherd's Pie|39|1:40|280/34\n|Asparagus Quiche|49|2h|302\n|Chocolate Pie|65|1:15|514/70\n|Lemon Pie|67|2:15/5|446\n|Peach Tart|76|2:30|435\n|Passion Fruit Pie|92|50m|111\n|Mushroom Pot Pie|97|1h|162\n|Eggplant Parmesan|99|45m|442\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Pie Oven originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 840 hours of production is required to [[Masteries|master]] the Pie Oven:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Pie Oven Mastered.png|150px|Mastered Pie Oven]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />40 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />160 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />640 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Pie Oven Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* You can speed up the production of the Pie Oven using a green [[booster]].\n* Most products require eggs. They're common but needed in some other places as well.\n*The short production time like [[Carrot Pie]], [[Passion Fruit Pie]], and [[Mushroom Pot Pie]] require mass number from 9 to 16 per boat, all other products required 4 to 8 per item. Therefore, it is recommended to stockpile each of these with reasonable amount.\n==='''Did you know?'''===\n*Before the introduction of the [[Eggplant Parmesan]], only the [[Shepherd's Pie]] that does not require [[Egg|eggs]] to make.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kuchenofen\n|es = Horno de tartas\n|fr = Four à Tartes\n|it = Forno pasticci\n|no = Paiovn\n|sv = Pajugn\n|vi = Lò nướng bánh\n|zh = 馅饼烤炉\n}}\n[[pt-br:Forno de tortas]]\n[[ru:Печь для пирогов]]\n[[Category:Production Buildings]]",
   "wikitextHash": "2d69bc80849c54f811192f5b29571d78da844b3fd7a9096f69d7923fc0bac36a"
 }

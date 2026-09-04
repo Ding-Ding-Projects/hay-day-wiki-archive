@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +182,12 @@
   "revisionId": 110478,
   "revisionTimestamp": "2026-06-08T20:01:01Z",
   "route": "/wiki/bunny-house-12523",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bunny_House",
   "title": "Bunny House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bunny House.png|200px|left|Bunny house]]\n\n{{Infobox\n |level = 31 • 41\n |price = 20,000\n |houses =<br>[[File:White Bunny.png|35px|link=White Bunny]][[File:Fluffy Bunny.png|35px|link=Fluffy Bunny]][[File:Black_Bunny.png|35px|link=Black Bunny]] (x2)\n |title = [[Animal Shelters|Animal Shelter]]}}\n'''Bunny houses''' are shelters for rabbits (or [[:Category:Bunnies|bunnies]]). The first house is unlocked at [[experience]] level 31.\n\n{{Clr}}----\n==='''Appearance'''===\nThe house is a wooden [https://en.wikipedia.org/wiki/Earth_house earth house] with a yellow front. However, bunnies never go into the house. They eat and sleep in front of it.\n----\n==='''Building'''===\nEach house costs 20,000 {{Infoicon|coin}} and can hold up to three bunnies. The second house is unlocked at level 41. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Hasenstall\n|es = Conejera\n|fr = Lapinière\n|it = Casa dei coniglietti\n|no = Harehus\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "3a638e1912d4b6df065432b995a5d874a58e99f0dfc3b984155aa9167abc3cb2"
 }

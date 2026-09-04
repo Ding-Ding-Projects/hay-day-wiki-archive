@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -168,11 +172,12 @@
   "revisionId": 108742,
   "revisionTimestamp": "2025-10-18T19:00:41Z",
   "route": "/wiki/october-2025-rebalence-36440",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/October_2025_Rebalence",
   "title": "October 2025 Rebalence",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n== '''Official Notice''' ==\n\n{{Box  Start}}\n=='''13 October 2025''' ==\nHello farmers! We'll be testing some improvements designed to make your farming experience smoother and more rewarding.\n\n=== Production Time Rebalance test ===\nWe've adjusted production times for many of your farm's products. Some items will now be ready faster, while a few may take a bit longer.\n\nYou'll also notice small changes to the instant completion cost for Diamonds, their value in the Roadside Shop, and the coin & XP rewards for the tasks that require these products. These updates help keep everything balanced while making production more fun and efficient.\n\nHere's an example of what you might see:\n\n<example witrh [[Blueberry Muffin]]s here>\n\nThis change will first be tested with a small group of players. If everything goes well, we'll roll it out to everyone soon.\n\n{{Box End}}\n\n== Changes ==\n\n{| border=\"1\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n| Item || New production time || New instant completion cost || New production XP || New RSS maximum price\n|-\n| [[Soybean]] || 4 minutes (-0:16) || 1 (-1) || 1 (-1) || 7 (-3)\n|-\n| [[Sugarcane]] || 10 minutes (-0:20) || 2 (-1) || || 7 (-7)\n|-\n| [[Bacon and Eggs]] || 15 minutes (-0:45) || 2 (-2) || 22 (-2) ||  183 (-18)\n|-\n| [[Buttered Popcorn]] || 10 minutes (-0:50) || 2 (-2) || 12 (-3) || 97 (-29)\n|-\n| [[Sweater]] || 12 minutes (-1:48) || 2 (-3) || 14 (-4) || 122 (-29)\n|-\n| [[Bacon Pie]] || 9 minutes (-2:51) || 2 (-4) || 21 (-5) || 180 (-39)\n|-\n| [[Carrot Cake]] || 12 minutes (-1:18) || 2 (-3) || 16 (-4) || 133 (-32)\n|-\n| [[Wooly Chaps]] || 4 hours (+2:30) || 6 (+1) || || 320 (+11)\n|-\n| [[Red Berry Cake]] || 13 minutes (-0:47) || 2 (-2) || 28 (-3) || 237 (-18)\n|-\n| [[Cheesecake]] || 1 hour (-3:00) || 4 (-2) || 28 (-6) || 237 (-47)\n|-\n| [[Blackberry Muffin]] || 4 minutes (-0:41) || 1 (-2) || || 209 (-18)\n|-\n| [[Carrot Juice]] || 9 minutes (-0:21) || 2 (-1) || 4 (-2) || 36 (-10)\n|-\n| [[Fish Pie]] || 6 hours (+4:00) || 7 (+2) || || 252 (+26)\n|-\n| [[Vanilla Ice Cream]] || 30 minutes (-1:30) || 3 (-2) || 16 (-4) || 133 (-39)\n|-\n| [[Roasted Tomatoes]] || 6 minutes (-1:24) || 1 (-4) || 11 (-3) || 97 (-21)\n|-\n| [[Cherry Juice]] || 2 hours and 30 minutes || || || 176 (-40)\n|-\n| [[Tomato Juice]] || 12 minutes (-1:18) || 2 (-3) || 17 (-2) || 140 (-22)\n|-\n| [[Berry Juice]] || 6 minutes (-2:54) ||  || 16 (-8) || \n|-\n| [[Cherry Popsicle]] || 4 hours (+1:00) || || || 298 (-54)\n|-\n| [[Feta Pie]] || 5 minutes (-1:25) || || || \n|-\n| [[Strawberry Cake]] || 4 hours (+1:00) || || || \n|-\n| [[Casserole]] || 3 minutes (-1:57) || || || \n|-\n| [[Spicy Pizza]] || 5 minutes (-10) || || || 180 (-46)\n|-\n| [[Potato Feta Cake]] || 12 minutes (-1:48) || || || 280 (-29)\n|-\n| [[Potato Bread]] || 6 minutes (-0:29) || || || 248 (-36)\n|-\n| [[Shepherd's Pie]] || 8 minutes (-1:32) || || 212 (-68)\n|-\n| [[Chocolate Ice Cream]] || 5 hours (+2:30) || 7 (+1) || 40 (-1) || 338 (-4)\n|}",
   "wikitextHash": "5da3c0a988636677599e39865c593a9c349a7dfd4d166bc54742541ebea1f172"
 }

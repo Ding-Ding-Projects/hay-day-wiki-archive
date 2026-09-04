@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Sports_Fisher_III.png",
+  "filePageId": 9106,
+  "filePageRevisionId": 79762,
+  "filePageRevisionSha1": "e14294957493f2a07d23443d4fda8a3c0ed02bd8",
+  "filePageRevisionTimestamp": "2018-04-30T19:40:17Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "5d10bdeeaeb95659400f74929b25972e2e35649d0e24321ac8bea8217ed5c5af",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Sports Fisher III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T19:40:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASports%20Fisher%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 190766,
   "sourceSha1": "993d5e3d06da12c3d817c7e8f1fe251434783279",

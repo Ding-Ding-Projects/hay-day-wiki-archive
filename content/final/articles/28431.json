@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Loom Products",
+    "Category:Sunflower Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Loom Products",
+      "Category:Sunflower Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +151,12 @@
   "revisionId": 109821,
   "revisionTimestamp": "2026-05-08T09:30:49Z",
   "route": "/wiki/flower-shawl-28431",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Flower_Shawl",
   "title": "Flower Shawl",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Flower Shawl.png|left|200px|Flower shawl]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 71\n |price = 1 to 295\n |time = 1 h 30 min\n |source = {{Infoicon|loom|bigger|link=Loom}}\n |xp = 35\n |base = 82\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Flower shawls''' are [[products]] unlocked at [[experience]] level 71.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making flower shawls'''===\n[[File:Loom.png|150px|left|Loom]]\nFlower shawls are made in the [[Loom]].\n\nTo make a shawl, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|[[File:Sunflower.png|75px|Sunflowers|link=Sunflower]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour and 30 minutes to make a shawl, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] loom. Each shawl gives players 35 [[experience]] points.\n\n{{Clr}}----\n==='''Selling flower shawls'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Flower shawls can be bought or sold for a maximum price of 2,952 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a flower shawl costs 253 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 flower shawls per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* You need at least 8 sheep (10 sheep in a mastered loom) and 3 Sunflower fields per Flower Shawl slot to ensure sustainable maximum production.\n\n{{Navigation}}\n{{Languages\n|de = Blumenschal\n|es = Chal de flores\n|fr = Châle à Fleurs\n|it = Scialle floreale\n|nl = Bloemensjaal\n|no = Blomstersjal\n|ru = Цветочная шаль\n|vi = Khăn choàng hoa\n|zh = Flower Shawl\n}}\n[[pt-br:Xale de flor]]\n\n[[Category:Loom Products]]\n[[Category:Wool Products]]\n[[Category:Blackberry Products]]\n[[Category:Sunflower Products]]",
   "wikitextHash": "7eb49c459d67557bb72c314451273da7f72ec0357d21781010460e1cde10c973"
 }

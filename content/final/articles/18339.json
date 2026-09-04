@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +182,12 @@
   "revisionId": 110491,
   "revisionTimestamp": "2026-06-08T20:02:19Z",
   "route": "/wiki/puppy-house-18339",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Puppy_House",
   "title": "Puppy House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Puppy House.png|200px|left|Puppy house]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 35 • 50\n |price = 23,000\n |houses = {{Infoicon|retrieverp|big|link=Retriever Puppy}}{{Infoicon|pinscherp|big|link=Pinscher Puppy}}{{Infoicon|houndp|big|link=Hound Puppy}} x3\n}}\n'''Puppy houses''' are shelters for [[:Category:Dogs|puppies]]. The first house is unlocked at [[experience]] level 35.\n{{Clr}}\n----\n==='''Appearance'''===\nThe house is a blue and red dog bed with some toys next to it. However, puppies never go into the bed or play with their toys. They eat and sleep in front of the bed.\n----\n==='''Building'''===\nEach house costs 23,000 {{Infoicon|coin}} and can hold up to three puppies. The second house is unlocked at level 50. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Welpenhütte\n|es = Lecho para perritos\n|fr = Abri pour chiots\n|it = Cuccia per cagnolini\n|no = Valpehus\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "32c3fc420315053f849d5f830b0318b3d192c5454dfb81bbc60717a472cf537e"
 }

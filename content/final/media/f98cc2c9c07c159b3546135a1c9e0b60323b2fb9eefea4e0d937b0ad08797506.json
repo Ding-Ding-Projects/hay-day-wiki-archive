@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Smoothie_Mixer_Mastery.png",
+  "filePageId": 11431,
+  "filePageRevisionId": 79941,
+  "filePageRevisionSha1": "484921ded994754e54512ada057e43be9d90bbd7",
+  "filePageRevisionTimestamp": "2018-05-01T17:47:53Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "aeb196532c317fe2efad74c9e65150199857036af6212cf0fcd18c2ef8fafa74",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Smoothie Mixer Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:47:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASmoothie%20Mixer%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 58471,
   "sourceSha1": "aadf61e5ce7e922ec162cab62a861842ff734c20",

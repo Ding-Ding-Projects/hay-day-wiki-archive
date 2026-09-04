@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Fish Burger Products",
+    "Category:Goat Milk Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Fish Burger Products",
+      "Category:Goat Milk Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -146,11 +160,12 @@
   "revisionId": 110607,
   "revisionTimestamp": "2026-06-21T16:05:16Z",
   "route": "/wiki/record-balloon-36113",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Record_Balloon",
   "title": "Record Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Record Balloon.png|200px|left|Record Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 35\n |musicalnote = 25\n |time = 45m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 133\n |dia = 10\n}}\n'''Record Balloon''' is a [[products|product]] unlocked at [[experience]] level 35. It's a special item used only for the Aniversary 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Record Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nRecord balloons are made in the [[Birthday Balloon Maker]].\n\nTo make an record balloon, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Burger.png|75px|Fish Burger|link=Fish Burger]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Goat Milk.png|75px|Goat Milk|link=Goat Milk]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 45 minutes to make an balloon. Each balloon gives players 133 [[experience]] points.\n\n'''In 2025''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Pie.png|75px|Fish Pie|link=Fish Pie]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x3'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 129 [[experience]] points.\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 4 per boat. Each balloon used on a boat will be rewarded with 25 [[Musical Note]]s, 27 musical note in a 1-star and mastered maker, 35 musical note in a 2-star and 50 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Fish Burger Products]]\n[[Category:Potato Products]]\n[[Category:Goat Milk Products]]\n\n{{Languages\n|de = Schallplattenballon \n|es = Globo de vinilo\n}}",
   "wikitextHash": "531bbf9e06b6ee67af30534e7d5abeaf9750c131ddc3fd216cb6d7d611c7b819"
 }

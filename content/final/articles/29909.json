@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mint Products",
+    "Category:Tea Leaf Products",
+    "Category:Tea Stand Products",
+    "Category:Watermelon Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mint Products",
+      "Category:Tea Leaf Products",
+      "Category:Tea Stand Products",
+      "Category:Watermelon Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -154,11 +168,12 @@
   "revisionId": 110181,
   "revisionTimestamp": "2026-05-23T20:06:04Z",
   "route": "/wiki/mint-tea-29909",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mint_Tea",
   "title": "Mint Tea",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mint Tea.png|200px|left|Mint tea]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 97\n |price = 1 to 255\n |time = 35 min\n |xp = 31\n |source = {{Infoicon|teas|bigger|link=Tea Stand}}\n |base = 71\n |dia = 3\n |time3 = 29 min\n}}\n'''Mint tea''' is a [[Products|product]] unlocked at [[experience]] level 97.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mint tea'''===\n[[File:Tea Stand.png|150px|left|Tea Stand]]\nMint tea is made in the [[Tea Stand]].\n\nTo make the tea, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Tea Leaf.png|75px|link=Tea Leaf|Tea leaves]]\n|[[File:Watermelon.png|75px|link=Watermelon|Watermelon]]\n|[[File:Mint.png|75px|link=Mint|Mint]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 35 minutes to make one glass of tea, and 29 minutes in a fully [[Masteries|mastered]] stand. Each glass gives players 31 [[experience]] points.\n\n{{Clr}}----\n==='''Selling mint tea'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Mint tea can be bought or sold for a maximum price of 2556 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make mint tea costs 232 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 mint tea per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Minztee\n|es = Té de menta\n|fr = Thé à la Menthe\n|it = Tè alla menta\n|nl = Muntthee\n|no = Myntete\n|ru = Чай с мятой\n|zh = Mint Tea\n}}\n[[pt-br:Chá de hortelã]]\n\n[[Category:Tea Stand Products]]\n[[Category:Tea Leaf Products]]\n[[Category:Watermelon Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "710331f075cdfdd38faeca4f6c1e2fcd6f5b2c21afffbe72cc5a4e19bfae4817"
 }

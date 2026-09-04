@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Water_Dragon_Steps.png",
+  "filePageId": 36904,
+  "filePageRevisionId": 110846,
+  "filePageRevisionSha1": "126469450064c59cefd402e0a14ac78b76c67913",
+  "filePageRevisionTimestamp": "2026-08-06T10:47:50Z",
+  "filePageWikitext": "== Summary ==\nGiant Panda\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "deed3a1e42311889029608d8b92608d96dc8d4f9ba5c32948496be471a3a9fb8",
+  "height": 597,
+  "immutableUrl": null,
+  "mediaId": "File:Water Dragon Steps.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2026-08-06T10:47:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AWater%20Dragon%20Steps.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 544384,
+  "sourceSha1": "17ebf64d30bc32bb0bd6a1f8104dde50834089d7",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/a9/Water_Dragon_Steps.png/revision/latest?cb=20260806104750",
+  "title": "File:Water Dragon Steps.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 547
+}

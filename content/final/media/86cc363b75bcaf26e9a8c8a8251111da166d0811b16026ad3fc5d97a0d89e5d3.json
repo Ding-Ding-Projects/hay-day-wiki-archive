@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cow_Halloween_Full.png",
+  "filePageId": 16717,
+  "filePageRevisionId": 65827,
+  "filePageRevisionSha1": "6c52ed4628e6f5a2210d53967e5e0a855e2471a8",
+  "filePageRevisionTimestamp": "2016-10-26T09:37:06Z",
+  "filePageWikitext": "Picture of cow during Halloween.\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "e134ed7c26bd1015bf9bffcc6b56687d66fea5f6ba50150d7a3b7a199fd85592",
   "height": 375,
   "immutableUrl": null,
   "mediaId": "File:Cow Halloween Full.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-10-28T10:26:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACow%20Halloween%20Full.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 126274,
   "sourceSha1": "bf7ab61294bed936aa722296ab40da451e022a7b",

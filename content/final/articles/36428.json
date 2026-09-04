@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cheesecake_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108552,
   "revisionTimestamp": "2025-09-23T20:46:30Z",
   "route": "/wiki/category%2Fcategory-cheesecake-products-36428",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cheesecake_Products",
   "title": "Category:Cheesecake Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Cheesecake.png|thumb]]\nProducts of [[Cheesecake]].\n[[Category:Products]]",
   "wikitextHash": "837141611353b961fd26028a81b1f91a626550bee611511ff11c5782060e4075"
 }

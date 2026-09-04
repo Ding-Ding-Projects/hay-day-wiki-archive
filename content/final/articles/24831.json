@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -223,11 +231,12 @@
   "revisionId": 109776,
   "revisionTimestamp": "2026-05-03T18:04:50Z",
   "route": "/wiki/peach-24831",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peach",
   "title": "Peach",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peach.png|200px|left]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 76\n |price = 1 to 100\n |time = 1 d 6 h\n |xp = 20\n |base = 28\n |dia = 17\n |source = {{Infoicon|peacht|bigger|link=Peach Tree}}\n}}\n'''Peaches''' are fruit [[crops]] unlocked at [[experience]] level 76. They grow on [[Peach Tree|peach tree]]s and can be harvested four times.\n\nThey are used to make a few recipes.\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n=== '''Harvesting peaches''' ===\n[[File:Peach Tree.png|left|150px|Peach Tree]]\nThe first harvest gives two peaches, the second one three, and the other two four. After the third harvest the bush wilts.\n\nTapping on the bush places a sign on it letting other players know the bush needs to be revived. Once it is, a last harvest can be done before the bush dies. An [[axe]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling peaches'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Peaches can be sold or bought for a maximum price of 1,008 {{Infoicon|coin}} for 10 fruit.\n* Buying a peach tree costs 750 {{Infoicon|coin}}. \n* Given all 13 peaches are collected during the four harvests, the batch can be sold for 1310 {{Infoicon|coin}}, thus giving a profit of 560 {{Infoicon|coin}} per tree.\n{{Clr}}\n----\n=== '''Using peaches''' ===\nPeaches are used to make the following [[products]]:\n{{Item Usage|Peach\n|Peach Tart|3|76\n|Peach Jam|3|79\n|Peach Ice Cream|2|83\n|Summer Salad|1|84\n|Mixed Smoothie|2|88\n|Iced Tea|1|92\n|Sweet Porridge|1|120\n}}\n\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 4 to 6 peaches per crate, up to a total of 20 per boat.\n{{Clr}}\n----\n=== '''Strategy tips''' ===\n* Each tree gives a maximum of 13 peaches in about 5 days minimum.\n* They are rare enough that selling them at a lower price is not recommended.\n----\n{{Navigation}}\n{{Languages\n|de = Pfirsich\n|es = Melocotón\n|fr = Pêche\n|it = Pesca\n|no = Fersken\n}}\n[[pt-br:Pêssego]]\n\n[[Category:Tree Crops]]",
   "wikitextHash": "1bb9e4f69ad4a31237a2fd61bf8b30cbd07af1515c1a05fb9994890e80f99316"
 }

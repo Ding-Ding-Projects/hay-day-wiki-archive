@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -195,11 +203,12 @@
   "revisionId": 109019,
   "revisionTimestamp": "2025-12-24T15:40:50Z",
   "route": "/wiki/voucher-3671",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Voucher",
   "title": "Voucher",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}[[ru:Ваучеры]]\n[[File:Green Voucher.png|A voucher|200px|left]]\n'''Vouchers''' are a type of [[Currencies|currency]] used to buy [[Animals|pets]], [[decorations]] and [[customization]] options. They are also used to make [[fishing]] [[lure|lures]].\n\nThey are unlocked at [[experience]] level 20.\n{{Clr}}\n----\n==='''Types of voucher'''===\nVouchers come in five colors. From most common to the rarest:\n\n{{BigIcon|Green Voucher}}{{BigIcon|Blue Voucher}}{{BigIcon|Purple Voucher}}{{BigIcon|Golden Voucher}}[[File:Chick Voucher.png|125px]]\n\n----\n==='''Obtaining vouchers'''===\nPlayers can obtain vouchers by:\n* filling [[truck]] orders for [[Smelter|metal bars and refined coal]]\n* filling [[truck]] orders for [[Jeweler|jewelry]] \n* completing [[boat]] shipments\n* letting [[Town Visitors|town visitors]] view your [[sanctuary]]\n* finding them in [[Mystery Box|mystery boxes]] (random)\n* spinning the [[Wheel of Fortune]] (random)\n* winning horseshoe rewards in [[Derby|derbies]] (random)\n* winning personal rewards in global [[events]] (random)\n* watching [[Trailer|Night at the Movies]] trailers (random)\n* watching your [[Daily Reward|daily reward]] in shop\n* obtaining chick vouchers on [[Farm Pass|farm pass]] road\n* winning in the lucky bonus game in the [[valley]] (random)\n* opening [[Mystery Box|mystery boxes]] in [[valley]] from daily quests\n* driving around in the [[valley]] and finding rewards (random)\n* placing down a [[Mystery Net|mystery net]] in the [[Fishing Lake|fishing lake]] (random)\n* purchasing them by spending Holiday Currencies (Holly, Chocolate Bunnies, Musical Notes) in Holiday Catalogue\n----\n==='''Buying vouchers'''===\nVouchers can also be bought using [[diamond]]s:\n* 2 for a green voucher\n* 3 for a blue voucher\n* 5 for a purple voucher\n* 8 for a golden voucher\n* Chick vouchers cannot be purchased\n\nPrior June 2025 Update, Vouchers could also be bought using [[diamond]]s:\n* 15 for a green voucher\n* 30 for a blue voucher\n* 50 for a purple voucher\n* 80 for a golden voucher\n* Chick vouchers cannot be purchased\n\n\n{{Clr}}\n----\n==='''Strategy tips'''===\nWhile each voucher has a value (in diamonds), this does not reflect their rarity. I've taken several measurements and found that the probability ratio of vouchers is 1 Gold : 5 Purple : 10 Blue : 25 Green.\n\nThis simply means that the odds of being rewarded with a green voucher is 25-out-of-41, blue is 10-out-of-41, purple is 5-out-of-41, and gold is 1-out-of-41.  \n\nAnother way to look at it is if you start with zero gold vouchers and want to save up 20 in order to buy the Anatolian Donkey, you'll also accumulate 100 purple, 200 blue, and 500 green vouchers in that timeframe, on average. --[[User:Alpha1243]]\n----\n{{Navigation}}\n{{Languages\n|de = Gutscheine\n|es = Tique\n|fr = Coupon\n|it = Buoni\n}}\n[[Category:Currencies]]",
   "wikitextHash": "8ae60ecd12ae651e66378672acb5febdcd71e9b88315e795a5b568ecd415ffbf"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Service_Building_Upgrade.png",
+  "filePageId": 14028,
+  "filePageRevisionId": 76439,
+  "filePageRevisionSha1": "82d23bb36f9d2e417051107b788827c216a0d5d8",
+  "filePageRevisionTimestamp": "2017-12-29T10:54:23Z",
+  "filePageWikitext": "Picture of the upgrade UI for Service Buildings.\n{{License SC}}\n[[Category:Image Service Buildings]]",
+  "filePageWikitextHash": "490613db7720a4259f55f00337b75be0f365a63e8e51178d67beb2fa2c53f845",
   "height": 302,
   "immutableUrl": null,
   "mediaId": "File:Service Building Upgrade.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-12-29T10:53:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AService%20Building%20Upgrade.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 117818,
   "sourceSha1": "7a1286fb16f00a77070736d0075198c9f145d11c",

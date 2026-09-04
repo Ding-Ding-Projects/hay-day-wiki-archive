@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features",
+    "Category:Neighborhood"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features",
+      "Category:Neighborhood"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Derby?action=history",
@@ -31,11 +41,12 @@
   "revisionId": 56745,
   "revisionTimestamp": "2015-12-05T14:35:15Z",
   "route": "/wiki/category%2Fcategory-derby-22843",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Derby",
   "title": "Category:Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pages related to the [[derby]].\n[[Category:Game Features]]\n[[Category:Neighborhood]]",
   "wikitextHash": "edfa2036ce6facddc82e5102871bded264abcc4a69446913327444358ea2ac70"
 }

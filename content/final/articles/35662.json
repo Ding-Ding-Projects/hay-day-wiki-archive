@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Templates"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Templates"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 101974,
   "revisionTimestamp": "2022-11-29T10:50:14Z",
   "route": "/wiki/category%2Fcategory-templates-which-use-lua-scripts-35662",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Templates_Which_Use_Lua_Scripts",
   "title": "Category:Templates Which Use Lua Scripts",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "These templates all work using Lua scripts.\n\n[[Category:Templates|Lua]]",
   "wikitextHash": "2c6a0996b3c0e56e79304e80e13a8f7c2aa715c9c3863634803afd6908068165"
 }

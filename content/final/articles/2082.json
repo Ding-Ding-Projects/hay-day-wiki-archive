@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -337,11 +345,12 @@
   "revisionId": 110951,
   "revisionTimestamp": "2026-08-27T14:29:35Z",
   "route": "/wiki/pumpkin-2082",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pumpkin",
   "title": "Pumpkin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pumpkin.png|200px|left|Pumpkin]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 15\n |price = 1 to 32\n |time = 3 h\n |xp = 6\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 9\n |dia = 6\n}}\n'''Pumpkins''' are field [[crops]] unlocked at [[experience]] level 15.\n\nIt is unlocked at an earlier level but have limited uses, so it is common to be found on [[Daily Dirt]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 480 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing pumpkins'''===\nPumpkins are grown in [[Farm|fields]] by planting another pumpkin (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 {{Infoicon|xp}} points, and takes 3 hours to mature.\n<gallery>\nPumpkin Stage 1.png\nPumpkin Stage 2.png\nPumpkin Stage 3.png\nPumpkin Stage 4.png\nPumpkin Stage 5.png\n</gallery>\n----\n==='''Selling pumpkins'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Pumpkins can be sold or bought for a maximum price of 324 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using pumpkins'''===\nPumpkins are used to make the following [[products]]:\n\n{{Item Usage|Pumpkin\n|Pumpkin Pie|3|15\n|Shepherd's Pie|2|39\n|Pumpkin Soup|3|49\n|Blanket|1|59\n|Winter Veggies|2|72\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 9 to 16 pumpkins per crate, up to a total of 60 per boat.\n* Each unit of pumpkin gives players 12 coins and 9 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Pumpkins can be pretty easily found in the [[Daily Dirt]], but selling them at a lower price is not necessary.\n* Recipes ask for one to three pumpkins so they are not a crop you need to keep very large quantities of.\n* Pumpkins won't get sold on max price quickly so use them at the time of Visitors Double Coins event as they will provide double the amount of coins.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kürbis\n|es = Calabaza\n|fi = Kurpitsa\n|fr = Citrouille\n|it = Zucca\n|nl = Pompoen\n|no = Gresskar\n|sv = Pumpa\n|vi = Pumpkin\n|zh = 南瓜\n}}\n[[pt-br:Abóbora]]\n[[ru:Тыква]]\n[[Category:Field Crops]]",
   "wikitextHash": "b710b3a15521f57d92dc65d0c1c2e0c49b8604330cd7025271f29e2a1ac28870"
 }

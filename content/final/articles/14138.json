@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion",
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion",
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -257,11 +267,12 @@
   "revisionId": 106895,
   "revisionTimestamp": "2025-01-16T20:56:58Z",
   "route": "/wiki/land-deed-14138",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Land_Deed",
   "title": "Land Deed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Land Deed.png|200px|left|A land deed]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 22\n |price = 1 to 403\n |base = 112\n |dia = 12\n}}\n'''Land deeds''' are [[supplies]] used to [[expansion|expand]] the [[farm]], the [[Fishing Lake|fishing lake]], and the [[town]].\n\nThey are unlocked at [[experience]] level 22.\n\nThey are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Getting land deeds'''===\nA sure way to get a land deed is to buy a packet with 12 {{Infoicon|dia}}.\n\nLand deeds can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 403 {{Infoicon|coin}} per deed.\n\nFinally, land deeds can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\n* requested in the [[Neighborhood]].\nIt cannot be requested with Tom.\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Landurkunde\n|es = Escritura de tierras\n|fr = Titre de propriété\n|it = Atto D'Acquisto\n|no = Skjøte på jord\n}}\n[[Category:Supplies]]\n[[Category:Expansion]]",
   "wikitextHash": "8c03b1eaa225f39093a285201960bfde2cb5d5fb8c3bf46824427b86454e360b"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Seagull%27s_Nest.png",
+  "filePageId": 35544,
+  "filePageRevisionId": 101495,
+  "filePageRevisionSha1": "264e482b1f9662e7a278cdb991700811b26a9558",
+  "filePageRevisionTimestamp": "2022-09-20T20:10:51Z",
+  "filePageWikitext": "== Summary ==\nPackage Decoration 275 diamonds or $9.99 USD.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "87d1893e9c28fd9345ef8b76d90d492f25506ef8a4d7ae1224b8794ebb0f6778",
   "height": 380,
   "immutableUrl": null,
   "mediaId": "File:Seagull's Nest.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-09T18:15:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASeagull's%20Nest.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 289042,
   "sourceSha1": "f83480043ff897f961734e0701a0eb95a8e7e9c5",

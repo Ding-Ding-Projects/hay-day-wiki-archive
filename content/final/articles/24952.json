@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Bee?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 62790,
   "revisionTimestamp": "2016-06-22T08:46:23Z",
   "route": "/wiki/bee-24952",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bee",
   "title": "Bee",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Honey Bee]]",
   "wikitextHash": "d1380a3cf73604475b244964ef69a25a30e9474996974130d0b87850132aade6"
 }

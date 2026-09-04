@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Pages with broken file links"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Pages with broken file links"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -67,11 +77,12 @@
   "revisionId": 108205,
   "revisionTimestamp": "2025-08-05T19:49:29Z",
   "route": "/wiki/green-future-36294",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Green_future",
   "title": "Green future",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:{{PAGENAME}}.png|200px|left|{{PAGENAME}}]]\n\n{{Infobox\n |title = [[Decorations|decoration]]\n |level = 1\n |dia = 999\n |size = 1×2\n}}\n'''{{PAGENAME}}''' is a [[decorations|decoration]] unlocked at [[experience]] level 1. You can place it on the [[farm]], in the [[town]] and [[sanctuary]].\n\nLike all [[decorations]], it is stored in the [[shop]].\n\n{{Clr}}----\n==='''How to get?'''===\nNow there isn't ways to get this decoration. Maybe players will be able to get it in future.\n{{Clr}}\n----\n{{navigation}}\n{{Languages\n|ar = المستقبل أخضر\n|ch = 绿色未来\n|cht =綠色未來\n|da = Grøn fremtid\n|de = Grüne Zukunft\n|es = Futuro ecológico\n|fi = Vihreä tulevaisuus\n|fr = Joyeux avenir\n|id = Masa depan hijau\n|it = Futuro ecologico\n|jp = グリーンフューチャー\n|kr = 푸르른 미래\n|ms = Masa depan hijau\n|nl = Groene toekomst\n|no = Grønn fremtid\n|ru = Экологически чистое будущее\n|sv = Grön framtid\n|th = สวนอนุบาลต้นไม้\n|tr = Yeşil gelecek\n|vi = Tương lai xanh\n}}\n[[pt-br:Futuro verde]]\n\n[[Category:Decorations]]",
   "wikitextHash": "c9b620976da795d5be8e880270127cd04e5180c9f5dab191d25aebe7d3caa88d"
 }

@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Cupcake Maker Products",
+    "Category:Guava Products",
+    "Category:Plain Cupcake Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Cupcake Maker Products",
+      "Category:Guava Products",
+      "Category:Plain Cupcake Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -122,11 +136,12 @@
   "revisionId": 110421,
   "revisionTimestamp": "2026-06-06T17:09:03Z",
   "route": "/wiki/guava-cupcake-35638",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Guava_Cupcake",
   "title": "Guava Cupcake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Guava Cupcake.png|left|230x230px|Guava Cupcake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 109\n |price = 1 to 583\n |time = 1 h 10 min\n |source = {{Infoicon|cupcakem|bigger|link=Cupcake Maker}}\n |xp = 70\n |base = 162\n |dia = 3\n |time3 = 59 min\n}}\n'''Guava Cupcake''' is a [[products|product]] unlocked at [[experience]] level 109. It was added in Winter 2022 Update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Guava cupcake'''===\n[[File:Cupcake Maker.png|150px|left|Cupcake Maker]]\nGuava Cupcake is made in the [[Cupcake Maker]].\n\nTo make guava cupcake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Cupcake.png|75px|Plain Cupcake|link=Plain Cupcake]]\n|[[File:Guava.png|75px|Guava|link=Guava]]\n|[[File:Cream.png|75px|Egg|link=Cream]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 1 hour 10 minutes to make guava cupcake, and 59 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 70 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Guava cupcake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Guava cupcake can be bought or sold for a maximum price of 5,832 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a guava cupcake costs 552 {{Infoicon|coin}}.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 guava cupcake per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n----\n{{Navigation}}\n{{Languages\n|de = Guaven-Cupcake\n|es = Cupcake de guayaba\n|it = Cupcake alla guaiava\n|nl = Cupcake Met Guave\n|no = Guavamuffins\n|ru = Кекс с гуавой\n}}\n[[pt-br:Cupcake de goiaba]]\n\n[[Category:Cupcake Maker Products]]\n[[Category:Plain Cupcake Products]]\n[[Category:Guava Products]]\n[[Category:Cream Products]]",
   "wikitextHash": "78451a874b589b9aa7ec0a93670cdd50a3dc766f70efd38e65978f5bbb7c44a8"
 }

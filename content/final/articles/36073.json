@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -118,11 +126,12 @@
   "revisionId": 110692,
   "revisionTimestamp": "2026-07-04T06:04:37Z",
   "route": "/wiki/ginger-essential-oil-36073",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ginger_Essential_Oil",
   "title": "Ginger Essential Oil",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}[[File:Ginger Essential Oil.png|left|184x184px|Ginger Essential Oil]]{{Infobox\n |title = [[Products|Product]]\n |level = 80\n |price = 1 to 162\n |time = 20 min\n |source = {{Infoicon|essentialoilslab|bigger|link=Essential Oils Lab}}\n |xp = 19\n |base = 45\n |dia = 2\n |time3 = 17 min\n}}'''Ginger Essential Oil''' is a [[products|product]] unlocked at [[experience]] level 80. It was added in the June 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].{{Clr}}----\n==='''Making Ginger Essential Oil'''===\n[[File:Essential Oils Lab.png|150px|left|Essential Oils Lab]]Ginger Essential Oil is made in the [[Essential Oils Lab]].\n\nTo make Ginger Essential Oil, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|-\n|'''x5'''\n|}It takes 20 Minutes to make Ginger Essential Oil, and 17 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players ?? [[experience]] points.{{Clr}}----\n==='''Selling Ginger Essential Oil'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Ginger Essential Oil can be bought or sold for a maximum price of 1,620 {{Infoicon|coin}} for 10 units.\n*Buying the ingredients required to make a Ginger Essential Oil costs 140 {{Infoicon|coin}}.\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n*[[Boat]] orders require 1 Ginger Essential Oil per crate, up to a total of ? per boat.\n{{Clr}}----\n==='''Strategy Tips'''===\n* You need around 40 (45 with machine mastery) plots of ginger to break even with a constant single slot GEO production. Therefore, mass producing it requires a lot of resources.\n{{Navigation}}\n{{Languages\n|de = Ätherisches Ingweröl\n|es = Aceite esencial de jengibre \n|no = Eterisk ingefærolje\n|ru = Имбирное эфирное масло\n}}\n[[pt-br:Óleo essencial de gengibre]]",
   "wikitextHash": "facf01e78c541beff91b67e2a116366e188e56201872f10d8fdc0c3fc554e0dd"
 }

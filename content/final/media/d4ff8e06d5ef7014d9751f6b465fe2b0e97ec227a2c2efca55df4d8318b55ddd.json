@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pomegranate_Tree_Stage_1.png",
+  "filePageId": 35762,
+  "filePageRevisionId": 102790,
+  "filePageRevisionSha1": "6860aaa5145c26524f8e0f12556dab78a85e4b1c",
+  "filePageRevisionTimestamp": "2023-04-16T21:47:24Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "3305b7f74c6b7aa21de73aa6e5391d0f40ef49fea8af5d1a77d3f42c955d60ed",
   "height": 540,
   "immutableUrl": null,
   "mediaId": "File:Pomegranate Tree Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-04-16T21:47:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APomegranate%20Tree%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 289508,
   "sourceSha1": "140df0d319b54a3093e6e5c30f11ec6db505961e",

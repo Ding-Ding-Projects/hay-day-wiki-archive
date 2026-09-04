@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_172.png",
+  "filePageId": 32119,
+  "filePageRevisionId": 98222,
+  "filePageRevisionSha1": "c1729659670b6dec85d889e62eac8d20674f46a4",
+  "filePageRevisionTimestamp": "2021-07-15T22:04:58Z",
+  "filePageWikitext": "== Summary ==\nExperience Level 172 Congratulations Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "b7a891c0b1a58a0181fdc03b7587b1f552e7b93289633ad729846f017708340d",
   "height": 306,
   "immutableUrl": null,
   "mediaId": "File:Level 172.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-11-15T19:16:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20172.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 490840,
   "sourceSha1": "41f77163e6d3c64d3748a8eea43fbf368c33b830",

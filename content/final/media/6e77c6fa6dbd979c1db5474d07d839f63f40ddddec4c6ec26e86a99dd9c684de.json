@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_50.PNG",
+  "filePageId": 28317,
+  "filePageRevisionId": 75762,
+  "filePageRevisionSha1": "579338aacd80fca1aae3b3c43e7ad57dc956a19c",
+  "filePageRevisionTimestamp": "2017-11-26T17:31:59Z",
+  "filePageWikitext": "I leveled up to level 50 and to my disappointment the prize is 5 diamonds not 10.\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "fb76032f61bccb9c129bdc5d6913726b7cfd73ab53e0bd49241076ea2a347c01",
+  "height": 1212,
+  "immutableUrl": null,
+  "mediaId": "File:Level 50.PNG",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-08-31T09:46:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel%2050.PNG",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 2911597,
+  "sourceSha1": "272d53bc788a9daed0fc0fb93c42ff9208389b09",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/a/ab/Level_50.PNG/revision/latest?cb=20170831094650",
+  "title": "File:Level 50.PNG",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1496
+}

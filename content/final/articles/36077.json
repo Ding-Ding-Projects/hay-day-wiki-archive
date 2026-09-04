@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Autoconfirmed_users?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 105368,
   "revisionTimestamp": "2024-06-21T07:12:05Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-autoconfirmed-users-36077",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Autoconfirmed_users",
   "title": "Hay Day Wiki:Autoconfirmed users",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{delete}}\n22",
   "wikitextHash": "755934c36b0c200838e8ed8b351b43dca07df29c0de290d5541198d5d4309bb5"
 }

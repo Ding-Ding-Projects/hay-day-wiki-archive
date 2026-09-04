@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods",
+    "Category:Fishing"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods",
+      "Category:Fishing"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -252,11 +262,12 @@
   "revisionId": 109489,
   "revisionTimestamp": "2026-02-24T22:03:17Z",
   "route": "/wiki/fish-fillet-18999",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fish_Fillet",
   "title": "Fish Fillet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}} [[File:Fish Fillet.png|200px|left|Fish fillet]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 27\n |price = 1 to 54\n |time = Instant\n |xp = 4 to 20\n |source = {{Infoicon|fish|bigger|link=Fish}}\n |base = 15\n |dia = Varies upon location\n}}\n'''Fish fillets''' are [[Animal Goods|animal goods]] unlocked at [[experience]] level 27.\n\nThey are used to make various products (pizzas, tacos, soup,...).\n\nLike all goods, they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Collecting fish fillets'''===\n[[File:Sockeye Salmon.png|150px|left|Fish]] Fish fillets are collected from [[fish]] that have been caught in the [[Fishing Lake|fishing lake]]. If players use [[lure]]s to catch fish fillets can be yielded in a few seconds; however, that fishing spot can't be used for a period of time, based on the spot, for 2 to 4 hours. If players use [[Fishing Net|nets]] they get 3 fillets after 20 hours.\n\nCollecting a fillet gives players between 4 and 20 {{Infoicon|xp}} points, depending on the type of fish they caught.\n\nNote that fish cannot be caught using [[diamond]]s. Players have to play the mini-game when catching them with lures, or they have to use nets.\n\n{{Clr}}----\n==='''Selling fish fillets'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Fish fillet can be bought or sold for a maximum price of 540 {{Infoicon|coin}} for 10 pieces.\n* Making red [[lure]]s or [[Fishing Net|nets]] to catch fish requires no material and does not cost anything. Making other types of lure requires [[voucher]]s.\n\n{{Clr}}----\n==='''Using fish fillets'''===\nFish fillets are used to make the following [[products]]:\n\n{{Item Usage|Fish Fillet\n|Fish Burger|2|27\n|Fish Pie|3|28\n|Meat Bucket|3|34 (First Arctic [[Fox]])\n|Fish and Chips|2|41\n|Frutti di Mare Pizza|1|45\n|Fish Soup|2|53\n|Sushi Roll|1|56\n|Seafood Salad|1|64\n|Olive Dip|1|66\n|Big Sushi Roll|1|76\n|Fish Taco|1|79\n|Spicy Fish|1|79\n|Canned Fish|2|95\n|Fish Skewer|1|96\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 6 to 9 fillets per crate, up to a total of 28 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Recipes ask between 1 and 3 fillets.\n* Fillets are so rare that selling them below the maximum price is not recommended.\n----\n\n{{Navigation}}\n{{Languages\n|de = Fischfilet\n|es = Filete de pescado\n|fr = Filet de Poisson\n|it = Filetto di pesce\n|no = Fiskefilet\n}}\n[[pt-br:Filé de peixe]]\n\n[[Category:Animal Goods]]\n[[Category:Fishing]]",
   "wikitextHash": "6c258919ccad64f116f6b79150c7643688a8d75f232733cfcc7af0f3df8ab202"
 }

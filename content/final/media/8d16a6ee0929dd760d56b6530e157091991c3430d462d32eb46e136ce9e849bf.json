@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Short_Bush.png",
+  "filePageId": 28081,
+  "filePageRevisionId": 74145,
+  "filePageRevisionSha1": "d88ee4df233e2439b713dda46eddca9c47d6f5dd",
+  "filePageRevisionTimestamp": "2017-10-22T10:00:49Z",
+  "filePageWikitext": "== Summary ==\nCorrected File Name\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "bbf5e24ef06ce81c99800877ed159787713a785c892f7086702e301e100176df",
   "height": 471,
   "immutableUrl": null,
   "mediaId": "File:Short Bush.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:34:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShort%20Bush.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 200789,
   "sourceSha1": "4c286dbf35bd3e316b8cb7b1a4ae9350cbe186fc",

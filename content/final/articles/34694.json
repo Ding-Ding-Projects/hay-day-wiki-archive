@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Plum Products",
+    "Category:Rice Products",
+    "Category:Sesame Products",
+    "Category:Sushi Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Plum Products",
+      "Category:Rice Products",
+      "Category:Sesame Products",
+      "Category:Sushi Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -139,11 +153,12 @@
   "revisionId": 109918,
   "revisionTimestamp": "2026-05-09T23:42:37Z",
   "route": "/wiki/rice-ball-34694",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rice_Ball",
   "title": "Rice Ball",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rice Ball.png|alt=|left|200x200px|Rice Ball]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 110\n |price = 1 to 464\n |time = 45 min\n |source = {{Infoicon|sushib|bigger|link=Sushi Bar}}\n |xp = 55\n |base = 129\n |dia = 3\n |time3 = 38 min\n}}\n'''Rice balls''' are [[products]] unlocked at [[experience]] level 110.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making rice balls'''===\n[[File:Sushi Bar.png|150px|left|Sushi Bar]]\nRice balls are made in the [[Sushi Bar]].\n\nTo make rice balls, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Rice.png|75px|link=Rice|Rice]]\n|[[File:Sesame.png|75px|link=Sesame|Sesame]]\n|[[File:Plum.png|75px|link=Plum|Plum]]\n|-\n|'''x20'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make a ball, and 38 minutes in a fully [[Masteries|mastered]] bar. Each ball gives players 55 [[experience]] points.\n\n{{Clr}}----\n==='''Selling rice balls'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n\n*They can be bought or sold for a maximum price of 4,644 {{Infoicon|coin}} for 10 balls.\n*Buying the ingredients required to make a rice ball costs 460 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 rice ball per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n----\n==='''Did you know?'''===\n* This type of sushi is called onigiri. It is usually triangularly shaped, and wrapped in seaweed as shown in the game.\n----\n\n{{Navigation}}\n{{Languages\n|de = Reisbällchen\n|es = Bolas de arroz\n|fr = Boule de Riz\n|it = Onigiri\n|nl = Gevulde Rijstbal\n|no = Risball\n|ru = Онигири\n|zh = Rice Ball\n}}\n[[pt-br:Bolinho de arroz]]\n\n[[Category:Sushi Bar Products]]\n[[Category:Rice Products]]\n[[Category:Sesame Products]]\n[[Category:Plum Products]]",
   "wikitextHash": "44f6e80a420ba184b66a212c91745b05ceea2ea7d3e5bd87a8cc780d66e6eb34"
 }

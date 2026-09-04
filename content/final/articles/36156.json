@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Pages with broken file links",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Pages with broken file links",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -193,11 +205,12 @@
   "revisionId": 108800,
   "revisionTimestamp": "2025-10-23T20:47:31Z",
   "route": "/wiki/halloween-treats-maker-36156",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Halloween_Treats_Maker",
   "title": "Halloween Treats Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{New}}\n[[File:Halloween Treats Maker.png|200px|left|Halloween Treats Maker]]\n\n{{Infobox\n|title = [[Production Buildings|Machine]]\n|level = 17\n|slots = 2\n}}\nThe '''Halloween Treats Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 17. It was delivered by [[Alfred]] the Mailman on October 8th, 2024. It automatically disappears after November 1st, 2024.\n\nIt does not need to be repaired or bought. It is given for free.\n\nIt is used to make various types of Halloween treats.\n{{Clr}}\n----\n=== '''Appearance''' ===\n=== 2024 ===\n<gallery>\nFile:Halloween Treats Maker.png|Halloween Treats Maker\n</gallery>\n=== 2025 ===\n<gallery>\nFile:Halloween Treats Maker 2025.png|Halloween Treats Maker\n</gallery>\n----\n=== '''Products''' ===\n\n==== 2024 ====\n{{Building Products|noPrice=y\n|Teeth Treats|17|10m/10|27\n|Worm Treats|20|15m/15|45\n|Skull Treats|35|20m/20|109\n|Pumpkin Treats|50|20m/20|126\n}}\n\nProducts from the Halloween Treats Maker cannot be bought or sold. They can only be loaded onto boats; each boat needing 1-3 per box. They are stored in the [[Barn]].\n\n==== 2025 ====\n{{Building Products|noPrice=y\n|Striped Candy|17|10m/3|34\n|Spooky Lollipops|17|10m/3|28\n|Soft Candy|20|10m/3|54\n|Colorful Frogs|25|10m/3|102\n|Teeth Treats|30|10m/3|60\n|Worm Treats|35|10m/3|80\n|Skull Treats|45|10m/3|143\n|Pumpkin Treats|60|10m/3|93\n}}\n\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Halloween Treats Maker originally has two slots available. Unlocking more slots costs [[diamond|diamonds]]:\n* 3rd slot: 24 diamonds\n* 4th slot: 36 diamonds\n* 5th slot: 48 diamonds\n* 6th slot: 60 diamonds\n* 7th slot: 72 diamonds\n* 8th slot: 84 diamonds\n* 9th slot: 100 diamonds\n\nIn 2025, the Halloween Treats Maker originally has two slots available. Unlocking more slots costs [[diamond|diamonds]]:\n* 3rd slot: 20 diamonds\n* 4th slot: 32 diamonds\n* 5th slot: 44 diamonds\n* 6th slot: 56 diamonds\n* 7th slot: 68 diamonds\n* 8th slot: 80 diamonds\n* 9th slot: 92 diamonds\n----\n=== '''Mastering''' ===\nA total of 380 hours of production is required to [[Masteries|master]] the Halloween Treats Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Halloween Treats Maker Mastered.png|150px|Mastered Halloween Treats Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />48 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />192 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />140 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:Halloween Treats Maker Mastery I.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:Halloween Treats Maker Mastery II.png|100px]]\n| style=\"border: 1px solid #bbb;\"|[[File:Halloween Treats Maker Mastery III.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''+10% Halloween hats from boat orders'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''+40% Halloween hats from boat orders'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''+100% Halloween hats from boat orders'''\n|}\n\nIn 2025, a total of 144 hours of production is required to [[Masteries|master]] the Halloween Treats Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Halloween Treats Maker 2025 Mastered.png|150px|Mastered Halloween Treats Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />48 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />48 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />48 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|\n|style =\"border: 1px solid #bbb;\"|\n| style=\"border: 1px solid #bbb;\"|[[File:Halloween Treats Maker Mastery III.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''50% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''+50% Halloween hats from boat orders'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''+100% Halloween hats from boat orders'''\n|}\n----\n----\n=== '''Strategy tips''' ===\n\n* Halloween Treats Maker is temporary production machine. Player should not spend large number of diamonds to unlock all slots, but purchase slots for sufficient production. \n\n----\n=== '''Rewards Catalogue''' ===\nThese exclusive decorations can be redeemed using [[Halloween Hat]]s.\n\n----\n{{Navigation}}\n[[Category:Production Buildings|Halloween Treats Maker]]\n\n{{Languages\n|es = Máquina de golosinas\n|de = Halloweenfabrik\n}}",
   "wikitextHash": "3c53c25e9ed19612f2f707b166d927d4603f3220dbe80a050331fba629a1c047"
 }

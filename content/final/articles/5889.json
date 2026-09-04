@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake Buildings",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake Buildings",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -344,11 +354,12 @@
   "revisionId": 107439,
   "revisionTimestamp": "2025-02-28T08:59:56Z",
   "route": "/wiki/lure-workbench-5889",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lure_Workbench",
   "title": "Lure Workbench",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lure Workbench.png|200px|left|Lure Workbench]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 27\n |slots = 2\n}}\nThe '''Lure Workbench''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 27.\n\nIt does not need to be repaired or bought. It is given for free. It cannot be moved or rotated, though.\n\nIt is used to make various types [[lure]]s: simple ones with hooks and worms as bait, called red lures, or artificial flies in four different colors --green, blue, purple and gold.\n\nIt can be found in the [[Fishing Lake]] area.\n\n{{Clr}}----\n=== '''Appearance''' ===\nThe Lure Workbench looks like a decorated wooden workbench with a side table on its right. The bench has hooks, feathers, boxes and cans, a roll of wire and a tool to make the lures.\n\nThe mastered version gets a golden tool, as well as a star at its top.\n----\n=== '''Products''' ===\n{{Building Products|noPrice=y\n|Red Lure|27|1:30|1\n|Green Lure|27|1:15|2\n|Blue Lure|27|1h|3\n|Purple Lure|27|45m|4\n|Gold Lure|27|30m|5\n}}\nWhile products from the Lure Workbench cannot be bought or sold (They are stored in the [[Tackle Box]]), players can request lures from their neighbors. Players can make one request at a time and can ask for a maximum of 3 units of a [[lure]].\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Lure Workbench originally has two slots available. Unlocking more slots costs [[diamond]]s:\n* 3rd slot: 10 diamonds\n* 4th slot: 20 diamonds\n* 5th slot: 45 diamonds\n* 6th slot: 90 diamonds\n* 7th slot: 130 diamonds\n* 8th slot: 260 diamonds\n* 9th slot: 415 diamonds\n----\n=== '''Mastering''' ===\nA total of 6,840 hours of production is required to [[Masteries|master]] the Lure Workbench:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Lure Workbench Mastered.png|150px|Mastered Lure Workbench]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />120 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />840 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />5,880 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:Lure Workbench Mastery I.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:Lure Workbench Mastery II.png|100px]]\n| style=\"border: 1px solid #bbb;\"|[[File:Lure Workbench Mastery III.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''5% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''10% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* Making as many red lures as you can is the easiest way to master the maker. However, this still takes a very long time if you do not unlock more slots.\n*All but red lures require [[voucher]]s.\n* Another strategy would be to open as many slots in the Tackle Box as you can, store as many red lures as possible, you are always going to use them.\n----\n\n{{Navigation}}\n{{Languages\n|de = Köder-Werkbank\n|es = Taller de cebos\n|fr = Atelier à appâts\n|it = Banco da lavoro per esche\n|no = Arbeidsbenk for sluker\n}}\n[[Category:Production Buildings]]\n[[Category:Fishing Lake Buildings]]",
   "wikitextHash": "0e8f751af4e9292c8ade65d9d51140c23f563ce9e37667bf5083465e40621d4b"
 }

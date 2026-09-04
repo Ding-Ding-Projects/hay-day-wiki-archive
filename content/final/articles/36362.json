@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108222,
   "revisionTimestamp": "2025-08-05T20:06:20Z",
   "route": "/wiki/category%2Fcategory-perfumerie-products-36362",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Perfumerie_Products",
   "title": "Category:Perfumerie Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Perfumerie.png|thumb]]\nProducts of the [[Perfumerie]].\n[[Category:Products]]",
   "wikitextHash": "d2ea481eccee8c696e0083eead6c8330b4173286407fa9dba2354a013ceeca33"
 }

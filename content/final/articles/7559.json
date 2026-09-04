@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57794,
   "revisionTimestamp": "2016-01-21T18:25:04Z",
   "route": "/wiki/category%2Fcategory-popcorn-pot-products-7559",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Popcorn_Pot_Products",
   "title": "Category:Popcorn Pot Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Popcorn_Pot.png|thumb]]\nProducts of the [[Popcorn Pot]].\n[[Category:Products]]",
   "wikitextHash": "66529e944236689b01954748574aa99e9efbb5f9f686a17a9db2497563d14fa2"
 }

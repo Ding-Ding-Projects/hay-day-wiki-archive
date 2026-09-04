@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_27.png",
+  "filePageId": 23146,
+  "filePageRevisionId": 69437,
+  "filePageRevisionSha1": "46e51b0c596d8327950d8df983c7b5a5731ab29b",
+  "filePageRevisionTimestamp": "2017-02-06T12:26:24Z",
+  "filePageWikitext": "Reputation Level 27 Image\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "97e07d0bb73836b32b82888d89e02cbfe0cd4f746f2e58bab285a9ce8e34b740",
+  "height": 537,
+  "immutableUrl": null,
+  "mediaId": "File:Reputation Level 27.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-12-25T19:24:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AReputation%20Level%2027.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 707308,
+  "sourceSha1": "27b78a908b686c5f5075f78f29956886936827d0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/44/Reputation_Level_27.png/revision/latest?cb=20151225192454",
+  "title": "File:Reputation Level 27.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 862
+}

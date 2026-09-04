@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -392,11 +400,12 @@
   "revisionId": 110799,
   "revisionTimestamp": "2026-07-28T02:58:21Z",
   "route": "/wiki/lettuce-8898",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lettuce",
   "title": "Lettuce",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lettuce.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 58\n |price = 1 to 32\n |time = 3 h 30 min\n |xp = 7\n |base = 9\n |dia = 7\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Lettuce''' is a field [[crops|crop]] unlocked at [[experience]] level 58.\n\nIt is mostly used to make several recipes, mostly [[Salad Bar|salads]], [[Sandwich Bar|sandwiches]] and some rolls.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 480 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing lettuce'''===\nLettuce is grown in [[Farm|fields]] by planting another lettuce (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 [[experience]] points, and takes 3 hours and a half to mature. \n<gallery>\nLettuce Stage 1.png\nLettuce Stage 2.png\nLettuce Stage 3.png\nLettuce Stage 4.png\nLettuce Stage 5.png\n</gallery>\n----\n==='''Selling lettuce'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lettuce can be sold or bought for a maximum price of 324 {{Infoicon|coin}} for 10 heads.\n\n{{Clr}}----\n=== '''Using lettuce''' ===\nLettuce is used to make the following [[products]]:\n\n{{Item Usage|Lettuce\n|Feta Salad|3|58\n|Bean Salad|2|58\n|Tower Doner Supreme|3|58\n|Veggie Bagel|3|61\n|BLT Salad|3|62\n|Seafood Salad|3|64\n|Bacon Toast|3|65\n|Egg Sandwich|3|66\n|Green Smoothie|5|66\n|Tofu Dog|3|76\n|Big Sushi Roll|5|76\n|Summer Rolls|1|78\n|Mushroom Salad|1|89\n|Hummus Wrap|1|109\n|Orange Salad|3|117\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 9 to 14 heads of lettuce per crate, up to a total of 56 per boat.\n* Each head of lettuce gives players 13 coins and 10 experience points in boat orders.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n* Lettuce can seldom be found in the [[Daily Dirt]]. Selling it at a lower price is not recommended.\n* Recipes often ask for several lettuce heads, so make sure you always have enough in your silo.\n----\n{{Navigation}}\n{{Languages\n|de = Kopfsalat\n|es = Lechuga\n|fr = Laitue\n|it = Lattuga\n|no = Salat\n|sv = Sallad\n|vi = Lettuce\n|zh = Lettuce\n}}\n[[pt-br:Alface]]\n[[ru:Латук]]\n[[Category:Field Crops]]",
   "wikitextHash": "0de13b0d9dec3859795494985393d7676c02fba4dba7f68ad4ab82dd2ef0958e"
 }

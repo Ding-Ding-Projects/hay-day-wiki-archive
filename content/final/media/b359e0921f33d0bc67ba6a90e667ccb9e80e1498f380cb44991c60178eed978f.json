@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Map.png",
+  "filePageId": 21172,
+  "filePageRevisionId": 65719,
+  "filePageRevisionSha1": "6afe5ec339bf68f366f0d5e2cdf53db2996adfa2",
+  "filePageRevisionTimestamp": "2016-10-24T16:24:47Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "269e312e7502cc8a09b74a33cd91cc3de9ee677fb59a23687a58deb31f3dfce0",
   "height": 891,
   "immutableUrl": null,
   "mediaId": "File:Town Map.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-26T23:15:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Map.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1292660,
   "sourceSha1": "e64af758248e555eeb51324924bceb498801c34e",

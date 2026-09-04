@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coconut.png",
+  "filePageId": 35553,
+  "filePageRevisionId": 104913,
+  "filePageRevisionSha1": "954a487dcd428ac2cec766347555878808ad5279",
+  "filePageRevisionTimestamp": "2024-02-19T03:28:53Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Coconut]] article\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "9dbc11ad6fe19a826f40ea04f92153649a0553eae316c1bcf3e8807141a409f8",
   "height": 1920,
   "immutableUrl": null,
   "mediaId": "File:Coconut.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 31,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T03:28:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACoconut.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2794745,
   "sourceSha1": "10cb864780e5d2586a2dba405dd05b3f3e32f9dd",

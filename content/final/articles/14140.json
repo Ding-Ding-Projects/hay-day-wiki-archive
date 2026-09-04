@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion",
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion",
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -257,11 +267,12 @@
   "revisionId": 106848,
   "revisionTimestamp": "2025-01-14T20:54:02Z",
   "route": "/wiki/mallet-14140",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mallet",
   "title": "Mallet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mallet.png|200px|left|A mallet]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 22\n |price = 1 to 403\n |base = 112\n |dia = 12\n}}\n'''Mallets''' are [[supplies]] used to [[expansion|expand]] the [[farm]], the [[Fishing Lake|fishing lake]] and the [[town]].\n\nThey are unlocked at [[experience]] level 22.\n\nThey are stored in the [[barn]].\n\n{{Clr}}----\n==='''Getting mallets'''===\nA sure way to get a mallet is to buy a packet with 12 {{Infoicon|dia}}.\n\nMallets can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 403 {{Infoicon|coin}} per mallet.\n\nFinally, mallets can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\nMallets cannot be requested in the [[Neighborhood]].\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Holzhammer\n|es = Maza\n|fr = Maillet\n|it = Mazzuolo\n|no = Klubbe\n}}\n[[Category:Expansion]]\n[[Category:Supplies]]",
   "wikitextHash": "c826f49df5ba41fe2c9015ab6e7f77d967c92c4a95d23a02a4a4a978ce93f933"
 }

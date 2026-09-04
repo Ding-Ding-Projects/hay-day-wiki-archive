@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Riverboat_Bonus_3XP.png",
+  "filePageId": 34070,
+  "filePageRevisionId": 99840,
+  "filePageRevisionSha1": "5f29f81fdccb5022a78b5a2ce992d951c2262a66",
+  "filePageRevisionTimestamp": "2021-12-15T22:57:46Z",
+  "filePageWikitext": "== Summary ==\n3x XP Riverboat Bonus Event\n== Licensing ==\n{{License SC}}\n[[Category:Image Events]]",
+  "filePageWikitextHash": "39841660e8f0fb5383674389f289f56f8679a8882b5c737c4dfdf96bcb371ec9",
   "height": 223,
   "immutableUrl": null,
   "mediaId": "File:Riverboat Bonus 3XP.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-06T14:22:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARiverboat%20Bonus%203XP.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 79175,
   "sourceSha1": "b4397b7642e891dba7236fe5938e6528eaaf14d3",

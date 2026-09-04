@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Horses"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Horses"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -367,6 +375,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -392,6 +401,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -406,11 +416,12 @@
   "revisionId": 107774,
   "revisionTimestamp": "2025-04-13T21:13:26Z",
   "route": "/wiki/bay-horse-2586",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bay_Horse",
   "title": "Bay Horse",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bay Horse.png|200px|left|Bay horse]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27 • 37\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}9 {{Infoicon|bluev|link=Voucher}}10 {{Infoicon|purplev|link=Voucher}}8\n |xp = 60\n |dia = 835\n}}\n'''Bay horses''' are pet [[animals]]. A first horse is unlocked at [[experience]] level 27 and a second one at level 37.\n\nThey give players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Bay Horse Sleeping|}}{{BigIcon|Bay Horse Running|}}{{BigIcon|Bay Horse Standing|}}{{BigIcon|Bay Horse Walking|}}{{BigIcon|Bay Horse Eating|}}\n{{Clr}}\n----\n==='''Buying'''===\n[[File:Horse Stable.png|150px|left|Horse stable]]\nEach horse costs 9 green [[voucher]]s, 10 blue ones and 8 purple ones, or 835 [[diamond]]s. They must be placed near a [[Horse Stable|horse stable]] to be bought. Players can have two Bay horses.\n\nHorses and horse stables can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[carrot]]s horses eat then roam around their stable for six hours and finally fall asleep. Players can immediately wake them up to receive 60 {{Infoicon|xp}} per animal. Horses stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking horses one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Rotbraunes Pferd\n|es = Caballo castaño\n|fr = Cheval bai\n|it = Baio\n|no = Brun hest\n|ru = Гнедой конь\n}}\n\n[[Category:Horses]]",
   "wikitextHash": "0abb6533c6574aacc211ff5464db5707f378888d833cdff352398227d78d41f1"
 }

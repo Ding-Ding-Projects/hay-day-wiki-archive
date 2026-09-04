@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Essential Oils Lab Products",
+    "Category:Mint Products",
+    "Category:New"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Essential Oils Lab Products",
+      "Category:Mint Products",
+      "Category:New"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -123,11 +135,12 @@
   "revisionId": 109792,
   "revisionTimestamp": "2026-05-04T18:00:22Z",
   "route": "/wiki/mint-essential-oil-36029",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mint_Essential_Oil",
   "title": "Mint Essential Oil",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Mint Essential Oil.png|left|184x184px|Mint Essential Oil]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 85\n |price = 1 to 172\n |time = 15 min\n |source = {{Infoicon|essentialoilslab|bigger|link=Essential Oils Lab}}\n |xp = 20\n |base = 48\n |dia = 2\n |time3 = 13 min\n}}\n'''Mint Essential Oil''' is a [[products|product]] unlocked at [[experience]] level 85. It was added in the March 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Mint Essential Oil'''===\n[[File:Essential Oils Lab.png|150px|left|Essential Oils Lab]]\nMint Essential Oil is made in the [[Essential Oils Lab]].\n\nTo make Mint Essential Oil, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Mint.png|75px|Mint|link=Mint]]\n|-\n|'''x5'''\n|}\nIt takes 15 Minutes to make Mint Essential Oil, and 13 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Mint Essential Oil'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Mint Essential Oil can be bought or sold for a maximum price of 1,728 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Mint Essential Oil costs 160 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using mint essential oil '''===\nMint essential oil is used to make the following [[products]]:\n\n{{Item Usage|Mint Essential Oil\n|Fresh Diffuser|1|110\n}}\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 mint essential oil per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Ätherisches Minzöl\n|es = Aceite esencial de menta\n|it = Olio essenziale di menta\n|no = Eterisk mynteolje\n|ru = Мятное эфирное масло\n}}\n[[pt-br:Óleo essencial de hortelã]]\n\n[[Category:Essential Oils Lab Products]]\n[[Category:Mint Products]]",
   "wikitextHash": "646d2e43ce30f8104ab46eabea3a382609bf3a1f59061129d5b67090549ff9c4"
 }

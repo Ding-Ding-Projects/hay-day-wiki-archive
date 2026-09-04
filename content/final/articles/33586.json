@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Power_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93484,
   "revisionTimestamp": "2020-04-16T19:47:35Z",
   "route": "/wiki/power-derby-33586",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Power_Derby",
   "title": "Power Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Power derby]]",
   "wikitextHash": "5d1875015d6b0d4fb0246297166bd926be0cf04230fc62b45c569837e90319db"
 }

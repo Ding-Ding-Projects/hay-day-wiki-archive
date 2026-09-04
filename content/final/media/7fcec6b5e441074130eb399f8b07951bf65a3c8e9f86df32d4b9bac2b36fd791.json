@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Meet_the_Farmer!_E2_Maria",
+  "filePageId": 30200,
+  "filePageRevisionId": 82308,
+  "filePageRevisionSha1": "67f384e6224abea11180f51faf4b4ad7ab4e444a",
+  "filePageRevisionTimestamp": "2018-07-22T20:36:34Z",
+  "filePageWikitext": "\n== Description ==\nMeet the Farmer!\nSeason 1 Episode 2\n\nMeet the farmers in Hay Day from all around the world! \n\nIn this 2nd episode of the series you'll get to meet Maria, who is a real-life farmer and an avid Hay Day player living in Athens, Greece! \n\nLearn how she has taken Hay Day into her everyday life alternating between real and virtual harvesting! \n\n© Supercell Oy 2018\n[[Category:Videos]]",
+  "filePageWikitextHash": "2a4acf440f7391540bf0c266a2dbad1db3f3d6d12e78274fba4629a055a5fb7d",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Meet the Farmer! E2 Maria",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-07-22T20:36:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Meet%20the%20Farmer!%20E2%20Maria",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 22864,
+  "sourceSha1": "e75f800fdb43bb2ec5257b834c5560d25fc8402f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d6/Hay_Day_Meet_the_Farmer%21_E2_Maria/revision/latest?cb=20180722203633",
+  "title": "File:Hay Day Meet the Farmer! E2 Maria",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

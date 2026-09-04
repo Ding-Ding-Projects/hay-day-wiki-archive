@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Papaya.jpg",
+  "filePageId": 33363,
+  "filePageRevisionId": 92961,
+  "filePageRevisionSha1": "cfb03fbd33bb0f5ae57f3b06fb01998f9789a45b",
+  "filePageRevisionTimestamp": "2020-04-08T18:57:15Z",
+  "filePageWikitext": "== Licensing ==\n{{Self}}",
+  "filePageWikitextHash": "1aadfbeeb9acb8cabd852bd611ea0d4e722b390b96278332029c2f7e0ffcc254",
+  "height": 634,
+  "immutableUrl": null,
+  "mediaId": "File:Papaya.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-08T18:57:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
+  "route": "/media/File%3APapaya.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 61031,
+  "sourceSha1": "16922d8bcf45657ccbea406a4cda47ecff152002",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Papaya.jpg/revision/latest?cb=20200408185715",
+  "title": "File:Papaya.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 380
+}

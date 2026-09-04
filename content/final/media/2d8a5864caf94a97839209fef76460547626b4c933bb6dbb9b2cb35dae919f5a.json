@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crates_Halloween.png",
+  "filePageId": 35608,
+  "filePageRevisionId": 102196,
+  "filePageRevisionSha1": "8b18d02fcc2ccd0857f238e7717905b4fe0b0200",
+  "filePageRevisionTimestamp": "2022-12-07T21:40:49Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Customization]]",
+  "filePageWikitextHash": "3a1340c8079a63440618edbf48c89f81da4cb280c9db19cd080b669becba9045",
   "height": 160,
   "immutableUrl": null,
   "mediaId": "File:Crates Halloween.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-10-12T13:22:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrates%20Halloween.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 37960,
   "sourceSha1": "84c61cb36c434b734b52b60273cc0312600fb45d",

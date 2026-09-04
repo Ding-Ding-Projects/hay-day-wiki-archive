@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lamb_Pasture.png",
+  "filePageId": 36751,
+  "filePageRevisionId": 110016,
+  "filePageRevisionSha1": "c2e44181a0cc724a499bd5e2316b94f60245c2ec",
+  "filePageRevisionTimestamp": "2026-05-11T22:19:17Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "2acd523a69766ead91c3dd6f9b4fb7959784e2e0abb584e1267924ebd6a4a24d",
   "height": 465,
   "immutableUrl": null,
   "mediaId": "File:Lamb Pasture.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-11T22:19:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALamb%20Pasture.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 435520,
   "sourceSha1": "127b6b5f6fbf8f1679d8b8a0fbc2b46edb336785",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -228,11 +236,12 @@
   "revisionId": 109473,
   "revisionTimestamp": "2026-02-21T22:54:48Z",
   "route": "/wiki/coconut-35552",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Coconut",
   "title": "Coconut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Coconut.png|200px|left|Coconut]]\n\n{{Infobox\n|title = [[Crops|Crop]]\n|level = 101\n|price = 1 to 108\n|time = 1 d 12 h\n|xp = 21\n|source = [[File:Coconut Tree.png|50px|link=Coconut Tree]]\n|base = 30\n|dia = 19\n}}\n'''Coconuts''' are fruit [[crops]] unlocked at [[experience]] level 101. They grow on [[Coconut Tree|coconut trees]] and can be harvested four times.\n\nThey were introduced on 27th September 2022. \n\nThey are used as ingredients for [[macaroon]]s, [[Coconut Ice Cream|coconut ice cream]], [[Tropical Smoothie|tropical smoothies]] and [[Chickpea Stew|chickpea stew]]. \n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}\n----\n==='''Harvesting coconuts'''===\n[[File:Coconut Tree.png|150px|left|link=Coconut Tree|Coconut tree]]\nThe first harvest gives two coconuts, the second one three, and the other two four. After the third harvest the tree wilts.\n\nTapping on the tree places a sign on it letting other players know the tree needs to be revived. Once it is, a last harvest can be done before the tree dies. A [[saw]] is then required to cut it.\n\n{{Clr}}\n----\n==='''Selling coconuts'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Coconuts can be sold or bought for a maximum price of 1,080 {{Infoicon|coin}} for 10 coconuts.\n* Buying a coconut tree costs 810 {{Infoicon|coin}}.\n* Given all 13 coconuts are collected during the four harvests, the batch can be sold for 1,404 {{Infoicon|coin}}, thus giving a profit of 594 {{Infoicon|coin}} per tree.\n\n{{Clr}}\n----\n=== '''Using coconuts''' ===\nCoconuts are used to make the following [[products]]:\n{{Item Usage|Coconut\n|Macaroon|2|101\n|Coconut Ice Cream|2|102\n|Tropical Smoothie|1|104\n|Chickpea Stew|1|106\n|Tropical Cupcake|2|112\n|Pineapple Coconut Bars|1|120\n|Rich Soap|1|121\n|Fresh Porridge|2|122\n}}\n\n{{Clr}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 4 to 5 coconuts per crate, up to a total of 16 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n*Each tree gives a maximum of 13 coconuts in 6 days minimum, which gives players 4 coins per hour profit.\n*On a per saw basis, Coconut is the most profitable crop, yielding a profit of 594 coins per saw.\n----\n\n{{Navigation}}\n{{Languages\n|de = Kokosnuss\n|es = Coco\n|fr = Noix de Coco\n|no = Kokosnøtt\n}}\n[[pt-br:Coco]]\n\n[[Category:Tree Crops]]",
   "wikitextHash": "9cbf876c4d5f66717968f99d29bbe3a32d2fba01d5036354224f5e1ad428eeed"
 }

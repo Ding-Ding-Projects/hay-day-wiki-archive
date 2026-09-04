@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Hat.png",
+  "filePageId": 36168,
+  "filePageRevisionId": 106007,
+  "filePageRevisionSha1": "6d8d27912f7e2ee91461e18c39f06c3b3eea5103",
+  "filePageRevisionTimestamp": "2024-10-21T19:24:36Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "96b6a8fd9143d2ffe5685e205443f3386b42a057315f7268ffac1c2f81efa7ae",
   "height": 180,
   "immutableUrl": null,
   "mediaId": "File:Halloween Hat.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-21T19:24:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHalloween%20Hat.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 38115,
   "sourceSha1": "a13f7de848c2b53599ebd657c1430fa5057a1172",

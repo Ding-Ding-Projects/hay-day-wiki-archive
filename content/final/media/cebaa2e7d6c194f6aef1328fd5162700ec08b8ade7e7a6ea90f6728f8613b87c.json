@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Rustic_Bouquet_Daily_Dirt.png",
+  "filePageId": 35017,
+  "filePageRevisionId": 98301,
+  "filePageRevisionSha1": "c1769c240bd6e97d00d69bb2bf548a3ecb5d1e07",
+  "filePageRevisionTimestamp": "2021-07-16T19:11:56Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}",
+  "filePageWikitextHash": "d9ae5dab1e80e233719aabab25259264b5bb24254a9329e6b646d5e90f5881ed",
   "height": 739,
   "immutableUrl": null,
   "mediaId": "File:Rustic Bouquet Daily Dirt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-07-16T19:11:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3ARustic%20Bouquet%20Daily%20Dirt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 316500,
   "sourceSha1": "8d823dcc952eafc373283de00cc15d794f8305bb",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gorilla_Puzzles_2.png",
+  "filePageId": 35025,
+  "filePageRevisionId": 99572,
+  "filePageRevisionSha1": "9244c90d709964e1f5c7023414c266149388ba4e",
+  "filePageRevisionTimestamp": "2021-12-06T22:53:55Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "c810bb81aa34634818404bcf7ebd8c468ee3f3fcf7155fb8258a443c42c9f201",
   "height": 439,
   "immutableUrl": null,
   "mediaId": "File:Gorilla Puzzles 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-08-02T19:35:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AGorilla%20Puzzles%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 409380,
   "sourceSha1": "b78f50356307096f046c6b15ca77363afb16bb41",

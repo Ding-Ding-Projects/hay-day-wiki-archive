@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mystery_Fireworks.png",
+  "filePageId": 17495,
+  "filePageRevisionId": 74617,
+  "filePageRevisionSha1": "bd2832cb12afa49090abc6c5205b930455c3a8ab",
+  "filePageRevisionTimestamp": "2017-10-24T18:35:06Z",
+  "filePageWikitext": "Picture of New Year fireworks.\n{{License SC}}\n[[Category:Image_Mystery_Boxes]]",
+  "filePageWikitextHash": "8f8da00018b83515eee331c3547c67dd56be52ee4984f91c0a4ade6639c401fd",
   "height": 262,
   "immutableUrl": null,
   "mediaId": "File:Mystery Fireworks.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-24T18:35:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMystery%20Fireworks.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 95433,
   "sourceSha1": "d746c61b1ee9c1058705e696b4d7f95903fd123e",

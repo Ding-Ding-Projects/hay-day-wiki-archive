@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bunny_Flowerpot.png",
+  "filePageId": 27236,
+  "filePageRevisionId": 74994,
+  "filePageRevisionSha1": "d48213d00920527eeeaa718ef1ec651983b2c80f",
+  "filePageRevisionTimestamp": "2017-11-03T15:50:04Z",
+  "filePageWikitext": "==Description==\nThis Bunny Flowerpot is the Rewarded Decoration for all the Participants in the Easter Fishing Event.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "0275f83a12b5a5f3f37877ce0f1170878efae03bc3d7b984d8e3140446f61415",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Bunny Flowerpot.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-04-07T16:51:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABunny%20Flowerpot.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 371264,
   "sourceSha1": "204ec03fca280fca2bf764274af1738bcf153a93",

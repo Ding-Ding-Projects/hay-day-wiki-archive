@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mavis.png",
+  "filePageId": 36882,
+  "filePageRevisionId": 110767,
+  "filePageRevisionSha1": "3ea5ec87cda6bd1060517ca0efc0cc15607c4a4b",
+  "filePageRevisionTimestamp": "2026-07-19T10:17:52Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "4085e106bd53ff1ad15117dcbc9d4b9bd6d91059bf0a3ccfa6dfa6e335ecb46c",
   "height": 849,
   "immutableUrl": null,
   "mediaId": "File:Mavis.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-07-19T10:17:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMavis.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 487426,
   "sourceSha1": "4e5b942648e8eb5e85134ae3f4ba41ad816b094a",

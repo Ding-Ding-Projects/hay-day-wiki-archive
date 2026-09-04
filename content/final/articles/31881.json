@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -344,11 +352,12 @@
   "revisionId": 110907,
   "revisionTimestamp": "2026-08-17T04:11:11Z",
   "route": "/wiki/ginger-31881",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ginger",
   "title": "Ginger",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Ginger.png|200px|left]]\n\n{{Infobox\n |level = 78|price = 1 to 28|time = 2 h 30 min|xp = 6|source = {{Infoicon|field|bigger|link=Farm}}|base = 8|dia = 6|title = [[Crops|Crop]]}}\n'''Ginger '''is a field [[crops|crop]] unlocked at [[experience]] level 78.\n\nIt is used to make [[Apple Ginger Tea|apple ginger tea]], [[Fish Skewer|fish skewers]], [[Gingerbread Cookie|gingerbread cookie]], [[Peanut Noodles|peanut noodles]], [[Ginger Essential Oil|ginger essential oil]] and [[Sesame Brittle|sesame brittle]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 440 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing ginger'''===\nGinger is grown in [[Farm|fields]] by planting another ginger (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 6 [[experience]] points, and takes 2 hours and 30 minutes to mature.\n<gallery>\nFile:Ginger Stage 1.png\nFile:Ginger Stage 2.png\nFile:Ginger Stage 3.png\nFile:Ginger Stage 4.png\nFile:Ginger Stage 5.png\n</gallery>\n----\n==='''Selling ginger'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n*Ginger can be sold or bought for a maximum price of 288 {{Infoicon|coin}} for 10 units. \n\n{{Clr}}\n----\n==='''Using ginger'''===\nGinger is used to make the following [[products]]:\n\n{{Item Usage|Ginger\n|Sesame Brittle|1|78\n|Ginger Essential Oil|5|80\n|Peanut Noodles|1|86\n|Gingerbread Cookie|2|86\n|Apple Ginger Tea|1|88\n|Fish Skewer|1|96\n|Kimchi|1|98\n|Zesty Perfume|3|113\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 11 to 16 ginger per crate, up to a total of 52 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n*Most recipes ask for 1 ginger. You want to make sure you always have enough of them in your silo.\n----\n\n{{Navigation}}\n{{Languages\n|de = Ingwer\n|es = Jengibre\n|fr = Gingembre\n|it = Zenzero\n|no = Ingefær\n|ru = Имбирь\n}}\n[[pt-br:Gengibre]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "575b48dfd1bf247b741e46c5d27f2b223c9e9917b2b78b125b38ba40aff50366"
 }

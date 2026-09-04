@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Instagram.png",
+  "filePageId": 23351,
+  "filePageRevisionId": 77714,
+  "filePageRevisionSha1": "c48e22b7f85169f107828e6fc4077b8605e32ac9",
+  "filePageRevisionTimestamp": "2018-02-20T02:40:50Z",
+  "filePageWikitext": "{{Permission}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "f751ab1b9925eda83a14b6c84b20a7913eb5368d240be879383eb082e498c37f",
   "height": 1024,
   "immutableUrl": null,
   "mediaId": "File:Instagram.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-20T02:39:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AInstagram.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 315163,
   "sourceSha1": "3874b7f72d598184f68421e92b0e8c655b828e5d",

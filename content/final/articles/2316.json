@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Dairy Products",
+    "Category:Milk Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Dairy Products",
+      "Category:Milk Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -228,11 +238,12 @@
   "revisionId": 108526,
   "revisionTimestamp": "2025-09-22T18:18:47Z",
   "route": "/wiki/butter-2316",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Butter",
   "title": "Butter",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[ru:Масло]]\n{{PageDisplay}}\n[[File:Butter.png|200px|left|Butter]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 9\n |price = 1 to 82\n |time = 30 min\n |xp = 10\n |source = {{Infoicon|dairy|bigger|link=Dairy}}\n |base = 23\n |dia = 3\n |time3 = 25 min\n}}\n'''Butter''' is a [[Products|product]] unlocked at [[experience]] level 9.\n\nIt is used as an ingredient for several other products.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making butter'''===\n[[File:Dairy.png|150px|left|link=Dairy|Dairy]]\nButter is made in the [[Dairy]].\n\nTo make butter, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x2'''\n|}\nIt takes 30 minutes to make one unit, and 25 minutes in a fully [[Masteries|mastered]] Dairy. Each unit gives players 10 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling butter'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Butter can be bought or sold for a maximum price of 828 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make butter costs 64 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using butter'''===\nButter is used to make the following [[products]]:\n\n{{Item Usage|Butter\n|Buttered Popcorn|1|16\n|Carrot Cake|1|21\n|Chocolate Cake|1|36\n|Potato Bread|1|39\n|Pumpkin Soup|1|49\n|Toffee|1|52\n|Garlic Bread|1|60\n|Lemon Curd|1|66\n|Grilled Onion|1|68\n|Gnocchi|2|72\n|Spring Omelet|1|77\n|Gingerbread Cookie|1|86\n|Rich Fudge|3|99\n|Mint Fudge|2|102\n|Chili Fudge|2|104\n|Lemon Fudge|2|108\n|Peanut Fudge|2|111\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 1 to 8 units of butter per crate, up to a total of 24 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Butter is very hard to find in the [[Daily Dirt]].\n* Recipes ask for one to three units of butter so you need to constantly produce some.\n\n----\n==='''Did you know?'''===\n* Butter can be made from many different kinds of milk, however, it can only be made from cow's milk in [[Hay Day]].\n* Butter is really made from cream and salt, not just milk.\n----\n\n{{Navigation}}\n{{Languages\n|de =Butter\n|es =Mantequilla\n|fr =Beurre\n|it =Burro\n|nl =Boter\n|no =Smør\n|zh =黄油\n}}\n[[pt-br:Manteiga]]\n[[ru:Масло]]\n[[Category:Dairy Products]]\n[[Category:Milk Products]]",
   "wikitextHash": "f71ff74d4b63334d43d5d83b66d44681b34e7968234ad5c9e7fe344b4268ec38"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ocellus-services-hd-postman-color.jpg",
+  "filePageId": 36408,
+  "filePageRevisionId": 108450,
+  "filePageRevisionSha1": "41ef8b3b70301e456644a873c9f1b649dc5c6eb2",
+  "filePageRevisionTimestamp": "2025-09-13T16:12:11Z",
+  "filePageWikitext": "\n[[Category:Concept Art]]",
+  "filePageWikitextHash": "4e6708d6da699bb9b138609052df73594d4357ca97f3e5f683fbe6f5b7c10157",
+  "height": 1080,
+  "immutableUrl": null,
+  "mediaId": "File:Ocellus-services-hd-postman-color.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-08-11T17:35:07Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AOcellus-services-hd-postman-color.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 343220,
+  "sourceSha1": "e913a06c8c123300876ac38fa3c36e24a0fcf887",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/01/Ocellus-services-hd-postman-color.jpg/revision/latest?cb=20250811173507",
+  "title": "File:Ocellus-services-hd-postman-color.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1920
+}

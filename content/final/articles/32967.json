@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Fish Fillet Products",
+    "Category:Garlic Products",
+    "Category:Olive Oil Products",
+    "Category:Wok Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Fish Fillet Products",
+      "Category:Garlic Products",
+      "Category:Olive Oil Products",
+      "Category:Wok Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110803,
   "revisionTimestamp": "2026-07-28T23:02:09Z",
   "route": "/wiki/spicy-fish-32967",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Spicy_Fish",
   "title": "Spicy Fish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Spicy Fish.png|200px|left|Spicy fish]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 79\n |price = 1 to 543\n |time = 1 h 30 min\n |source = {{Infoicon|wokk|bigger|link=Wok Kitchen}}\n |xp = 65\n |base = 151\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Spicy fish''' is a [[Products|product]] unlocked at [[experience]] level 79. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making spicy fish'''===\n[[File:Wok Kitchen.png|150px|left|Wok Kitchen]]\nSpicy fish is made in the [[Wok Kitchen]].\n\nTo make the spicy fish, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|Fish fillet|link=Fish Fillet]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|'''x1'''\n|}\nIt takes 1 hour and 30 minutes to make one bowl, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] kitchen. Each spicy fish gives players 65 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling spicy fish'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Spicy fish can be bought or sold for a maximum price of 5436 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a spicy fish costs 469 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 spicy fish per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Pikanter Fisch\n|fr = Poisson aux Epices\n|it = Pesce piccante\n|nl = Pittige Vis\n|no = Sterk fisk\n|ru = Острая рыба\n}}\n[[pt-br:Peixe apimentado]]\n\n[[Category:Wok Kitchen Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Olive Oil Products]]\n[[Category:Garlic Products]]",
   "wikitextHash": "e823736072bdd681b9b8e69c5a43165df3ba8d8e470a4149ee70660d764019d6"
 }

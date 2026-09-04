@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Axe.png",
+  "filePageId": 3464,
+  "filePageRevisionId": 89188,
+  "filePageRevisionSha1": "3c4226232f3e5d10d5e9e0ad4418617bcce473cc",
+  "filePageRevisionTimestamp": "2019-10-28T13:02:06Z",
+  "filePageWikitext": "Picture of an axe.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "45ead95be350a69238064f5d326688e8b9c863125baa65fb170e1ee36a69636d",
   "height": 109,
   "immutableUrl": null,
   "mediaId": "File:Axe.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 33,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:02:05Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAxe.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 9241,
   "sourceSha1": "a028100b1f8332584a671f27ad7155fe11497e6d",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orange_tree_stage_1.jpeg",
+  "filePageId": 35432,
+  "filePageRevisionId": 100780,
+  "filePageRevisionSha1": "6860aaa5145c26524f8e0f12556dab78a85e4b1c",
+  "filePageRevisionTimestamp": "2022-05-02T17:59:39Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "3305b7f74c6b7aa21de73aa6e5391d0f40ef49fea8af5d1a77d3f42c955d60ed",
+  "height": 313,
+  "immutableUrl": null,
+  "mediaId": "File:Orange tree stage 1.jpeg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-29T06:42:02Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AOrange%20tree%20stage%201.jpeg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 133776,
+  "sourceSha1": "ff39e6367d5dfb21041e83ec10876505ad6a1895",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d5/Orange_tree_stage_1.jpeg/revision/latest?cb=20220429064202",
+  "title": "File:Orange tree stage 1.jpeg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 327
+}

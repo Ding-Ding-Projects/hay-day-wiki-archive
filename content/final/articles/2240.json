@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -377,11 +385,12 @@
   "revisionId": 109657,
   "revisionTimestamp": "2026-04-14T16:59:55Z",
   "route": "/wiki/strawberry-2240",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Strawberry",
   "title": "Strawberry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Strawberry.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 34\n |price = 1 to 50\n |time = 8 h\n |xp = 10\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 14\n |dia = 10\n}}\n'''Strawberries''' are field [[crops]] unlocked at [[experience]] level 34. They are the field crop which takes the longest time to grow.\n\nThey are used as ingredients in several food [[products]] but also as a dyeing agent for clothes and a scent for candles.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 750 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing strawberries'''===\nStrawberries are grown in [[Farm|fields]] by planting another strawberry (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 10 {{Infoicon|xp}} points, and takes 8 hours to mature.\n<gallery>\nStrawberry Stage 1.png\nStrawberry Stage 2.png\nStrawberry Stage 3.png\nStrawberry Stage 4.png\nStrawberry Stage 5.png\n</gallery>\n----\n==='''Selling strawberries'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop|Roadside Shop]]\n* Strawberries can be sold or bought for a maximum price of 504 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n==='''Using strawberries'''===\nStrawberries are used to make the following [[products]]:\n\n{{Item Usage|Strawberry\n|Strawberry Ice Cream|3|34\n|Strawberry Cake|2|35\n|Stacked Gift|3|43|temp=Stacked Gift|tempend=20230102\n|Red Scarf|2|48\n|Strawberry Candle|2|48\n|Strawberry Jam|3|50\n|Lollipop|2|57\n|Berry Smoothie|3|64\n|Cloche Hat|2|70\n|Cotton Candy|1|75\n|Chocolate Fondue|3|81\n|Fruit Salad|3|82\n|Dried Fruit|1|102\n|Chocolate Waffles|3|117\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat|Boat]]\n* [[Boat]] orders ask for 3 to 10 strawberries per crate, up to a total of 36 per boat.\n* Each unit of strawberry gives players 19 coins and 14 experience points in boat orders.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Strawberries are rare enough that selling them at a lower price is not necessary.\n* Strawberries can occasionally be found in the [[Daily Dirt]].\n* Recipes ask for two to three strawberries so they are not a crop you need to keep very large quantities of.\n* Strawberries are the least profitable of all field crops due to their 8 hour harvest time, earning a mere 6.3 coins per hour.\n* Strawberries are the longest time taking crops (8 hours) in the game. Planting them overnight while sleeping is highly recommended.\n----\n{{Navigation}}\n[[ru:Клубника]]\n{{Languages\n|de = Erdbeere\n|es = Fresa\n|fr = Fraise\n|it = Fragola\n|nl = Aardbeien\n|no = Jordbær\n|sv = Jordgubbe\n|vi = Strawberry\n|zh = Strawberry\n}}\n[[pt-br:Morango]]\n[[ru:Клубника]]\n[[Category:Field Crops]]",
   "wikitextHash": "2a4b451fea2a0f5955a3bc4af1494100ae5695013b43f103798652b25480951d"
 }

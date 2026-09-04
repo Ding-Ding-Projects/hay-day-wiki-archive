@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coconut_Ice_Cream.png",
+  "filePageId": 35555,
+  "filePageRevisionId": 105168,
+  "filePageRevisionSha1": "4a69e4a3a3678195dd69ded6d6ba7d4bb5e31f28",
+  "filePageRevisionTimestamp": "2024-04-11T15:01:38Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder image for [[Coconut Ice Cream]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "5e1f82b4003d437d466f96a76560417949a6e7f43e310f00c646d924c4ea6422",
   "height": 503,
   "immutableUrl": null,
   "mediaId": "File:Coconut Ice Cream.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 18,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-04-11T15:01:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACoconut%20Ice%20Cream.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 214758,
   "sourceSha1": "dc405e284ddd1de02f7e1c9169574782248e0177",

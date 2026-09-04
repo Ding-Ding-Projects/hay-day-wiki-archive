@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bamboo_Fountain.png",
+  "filePageId": 23813,
+  "filePageRevisionId": 77357,
+  "filePageRevisionSha1": "98a2eed396a7ff1115500fb962e1a8a9eb6a2422",
+  "filePageRevisionTimestamp": "2018-02-07T19:07:33Z",
+  "filePageWikitext": "NEW Asian Theme Decoration - Bamboo Fountain\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "f49a7d895d5392063e4c7812ae93721dacbf2fc8bbef76e572a599fef47d81fe",
   "height": 883,
   "immutableUrl": null,
   "mediaId": "File:Bamboo Fountain.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:07:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABamboo%20Fountain.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 571071,
   "sourceSha1": "e8fa466f1bfce8b418dd0b354187e85e72843c29",

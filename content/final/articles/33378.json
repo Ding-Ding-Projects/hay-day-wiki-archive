@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Neighborhoods?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 92981,
   "revisionTimestamp": "2020-04-08T20:14:56Z",
   "route": "/wiki/neighborhoods-33378",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Neighborhoods",
   "title": "Neighborhoods",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Neighborhood]]",
   "wikitextHash": "183de8d63878e244d36f544ffd4c2779ab4273d47a0214ee288f9b3010ea9b5b"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Production_Buildings.png",
+  "filePageId": 29285,
+  "filePageRevisionId": 105025,
+  "filePageRevisionSha1": "30d08b8bcf9647ef3f79fa3d36d7fd5685a756de",
+  "filePageRevisionTimestamp": "2024-03-19T09:45:30Z",
+  "filePageWikitext": "{{Self}}",
+  "filePageWikitextHash": "8960c3f4b1e7ea76d5f3e10042a2876058651083aeac03e189daec33a0ad08db",
   "height": 660,
   "immutableUrl": null,
   "mediaId": "File:Production Buildings.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-03-19T09:45:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3AProduction%20Buildings.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 36164,
   "sourceSha1": "d175eefabd56edbbfbd9017c74a33ac87c3bf096",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Wrapping_Station_2024.png",
+  "filePageId": 36258,
+  "filePageRevisionId": 109013,
+  "filePageRevisionSha1": "3e0ad114bcc0beff9ba72fb7c478c39680f6b173",
+  "filePageRevisionTimestamp": "2025-12-22T02:11:06Z",
+  "filePageWikitext": "== Summary ==\n== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "0e4cbf0ae6b603bb309634a8e3d290653a6c80ca7fc20a1e768103e42149309e",
   "height": 749,
   "immutableUrl": null,
   "mediaId": "File:Gift Wrapping Station 2024.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 4,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-12-22T02:11:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Wrapping%20Station%202024.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 772491,
   "sourceSha1": "5052e652d8ac062df88abf5842a8f62918585241",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -327,11 +335,12 @@
   "revisionId": 110800,
   "revisionTimestamp": "2026-07-28T03:00:52Z",
   "route": "/wiki/garlic-33001",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Garlic",
   "title": "Garlic",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Garlic.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 60\n |price = 1 to 14\n |time = 30 min\n |xp = 3\n |base = 4\n |dia = 3\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Garlic''' is a field [[crops|crop]] unlocked at [[experience]] level 60.\n\nLike all crops, it is stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 210 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing garlic'''===\nGarlic is grown in [[Farm|fields]] by planting another garlic plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 30 minutes to mature.\n<gallery>\nGarlic Stage 1.png\nGarlic Stage 2.png\nGarlic Stage 3.png\nGarlic Stage 4.png\nGarlic Stage 5.png\n</gallery>\n----\n==='''Selling garlic'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Garlic can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using garlic''' ===\nGarlic is used to make the following [[products]]:\n\n{{Item Usage|Garlic\n|Garlic Bread|4|60\n|Spicy Fish|5|79\n|Bacon Fries|1|87\n|Hummus|1|95\n|Kimchi|1|98\n|Falafel|2|98\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 20 to 32 garlic per crate, up to a total of 96 per boat.\n* Each unit of garlic gives players 6 coins and 4 experience points in boat orders.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Knoblauch\n|es = Ajo\n|fr = Ail\n|it = Aglio\n|no = Hvitløk\n|zh = Garlic\n}}\n[[pt-br:Alho]]\n[[ru:Чеснок]]\n[[Category:Field Crops]]",
   "wikitextHash": "5350b03463df95da6544820287e1f1b4be73e44f4d84b7699eeb08c6bfe0fac3"
 }

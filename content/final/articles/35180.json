@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cabbage Products",
+    "Category:Chili Pepper Products",
+    "Category:Garlic Products",
+    "Category:Ginger Products",
+    "Category:Preservation Station Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cabbage Products",
+      "Category:Chili Pepper Products",
+      "Category:Garlic Products",
+      "Category:Ginger Products",
+      "Category:Preservation Station Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110212,
   "revisionTimestamp": "2026-05-24T17:25:54Z",
   "route": "/wiki/kimchi-35180",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Kimchi",
   "title": "Kimchi",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Kimchi.png|200px|left|Kimchi|link=Special:FilePath/Kimchi.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 98\n |price = 1 to 219\n |time = 5 h\n |source = {{Infoicon|preservst|bigger|link=Preservation Station}}\n |xp = 26\n |base = 61\n |dia = 8\n |time3 = 4 h 15 min\n}}\n'''Kimchi''' is a [[products|product]] unlocked at [[experience]] level 98.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making kimchi'''===\n[[File:Preservation Station.png|150px|left|Preservation Station|link=Special:FilePath/Preservation_Station.png]]\nKimchi is made in the [[Preservation Station]].\n\nTo make the kimchi, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cabbage.png|75px|Cabbage|link=Cabbage]]\n|[[File:Ginger.png|75px|Ginger|link=Ginger]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|-\n|'''x5'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 5 hours to make one jar, and 4 hours and 15 minutes in a fully [[Masteries|mastered]] station. Each jar gives players 26 [[experience]] points.\n\n{{Clr}}----\n==='''Selling kimchi'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Kimchi can be bought or sold for a maximum price of 2,196 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the kimchi costs 168 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 kimchi per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Kimchi\n|es = Kimchi\n|fr = Kimchi\n|it = Kimchi\n|nl = Kimchi\n|no = Kimchi\n|ru = Кимчи\n|zh = Kimchi\n}}\n[[pt-br:Kimchi]]\n\n[[Category:Preservation Station Products]]\n[[Category:Cabbage Products]]\n[[Category:Ginger Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Garlic Products]]",
   "wikitextHash": "790ba746e8bf86c46fb0e11f0c3aced7bdc0729186905e3bddda255e209fe549"
 }

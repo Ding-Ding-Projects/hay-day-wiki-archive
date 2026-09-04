@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Dairy Products",
+    "Category:Milk Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Dairy Products",
+      "Category:Milk Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -288,11 +298,12 @@
   "revisionId": 108525,
   "revisionTimestamp": "2025-09-22T18:17:57Z",
   "route": "/wiki/cream-2315",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cream",
   "title": "Cream",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}[[ru:Сливки]]\n[[File:Cream.png|200px|left|Cream]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 6\n |price = 1 to 50\n |time = 20 min\n |xp = 6\n |source = {{Infoicon|dairy|bigger|link=Dairy}}\n |base = 14\n |dia = 2\n |time3 = 17 min\n}}\n'''Cream''' is a [[Products|product]] unlocked at [[experience]] level 6.\n\nIt is an ingredient in many recipes, and therefore is one of the most useful products in the game.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cream'''===\n[[File:Dairy.png|150px|left|link=Dairy|Dairy]]\nCream is made in the [[Dairy]].\n\nTo make cream, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x1'''\n|}\nIt takes 20 minutes to make a bowl of cream, and 17 minutes in a fully [[Masteries|mastered]] Dairy. Each bowl gives players 6 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling cream'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Cream can be bought or sold for a maximum price of 504 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make cream costs 32 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using cream'''===\nCream is used to make the following [[products]]:\n\n{{Item Usage|Cream\n|Cream Cake|1|23\n|Vanilla Ice Cream|1|29\n|Strawberry Ice Cream|1|34\n|Baked Potato|1|35\n|Strawberry Cake|1|35\n|Chocolate Ice Cream|1|39\n|Caffè Mocha|1|45\n|Raspberry Mocha|1|46\n|Lobster Soup|1|46\n|Hot Chocolate|1|47\n|Sesame Ice Cream|1|50\n|Asparagus Soup|2|51\n|Chocolate|1|54\n|Lemon Cake|1|68\n|Peanut Butter Milkshake|1|68\n|Yogurt Smoothie|1|70\n|Veggie Platter|1|74\n|Peach Tart|1|76\n|Lobster Pasta|2|79\n|Peach Ice Cream|1|83\n|Mint Ice Cream|1|85\n|Cream Donut|1|86\n|Banana Pancakes|1|94\n|Chocolate Roll|1|95\n|Banana Split|1|96\n|Tropical Fondue|2|100\n|Plain Yogurt|2|103\n|Pomegranate Cake|2|108\n|Chili Stew|1|109\n|Guava Cupcake|1|109\n|Cookie Cupcake|2|114}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 14 cream per crate, up to a total of 42 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Cream is very hard to find in the [[Daily Dirt]].\n* Recipes ask for one to two bowls of cream so you need to constantly produce some.\n* You also need to produce more cream, especially for boat orders, so have at least ten bowls of cream handy.\n----\n\n{{Navigation}}\n{{Languages\n|de = Sahne\n|es = Nata\n|fr = Crème\n|it = Panna\n|nl = Room\n|no = Fløte\n|vi = Kem\n|zh = 奶油\n}}\n[[pt-br:Nata]]\n[[ru:Сливки]]\n[[Category:Dairy Products]]\n[[Category:Milk Products]]",
   "wikitextHash": "36848b50f40bbc70df0ff50c9780f53ae1629fc6918be2a9372fe66ed20c9a80"
 }

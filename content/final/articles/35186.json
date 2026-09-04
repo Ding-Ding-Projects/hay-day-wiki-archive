@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Passion Fruit Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Passion Fruit Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +155,12 @@
   "revisionId": 107230,
   "revisionTimestamp": "2025-02-09T22:19:55Z",
   "route": "/wiki/passion-fruit-jam-35186",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Passion_Fruit_Jam",
   "title": "Passion Fruit Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Passion Fruit Jam.png|200px|left|Passion Fruit jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 96\n |price = 1 to 118\n |time = 5 h 20 m\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 14\n |base = 33\n |dia = 7\n |time3 = 4h 32min\n}}\n'''Passion Fruit jam''' is a [[products]] unlocked at [[experience]] level 96.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Passion Fruit jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nPassion Fruit jam is made in the [[Jam Maker]].\n\nTo make the jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Passion Fruit.png|75px|link=Passion Fruit|Passion fruit]]\n|-\n|'''x3'''\n|}\nIt takes 5 hours and 20 minutes to make one jar, and 4 hours and 32 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 14 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Passion Fruit jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Passion Fruit jam can be bought or sold for a maximum price of 1,188 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the jam costs 54 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 jars per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Passionsfruchtmarmelade\n|es = Mermelada de maracuyá\n|fr = Confiture de Fruits de la Passion\n|it = Marmellata di frutti della passione\n|nl = Passievruchtenjam\n|no = Pasjonsfruktsyltetøy\n|zh = Passion Fruit Jam\n}}\n[[pt-br:Geleia de maracujá]]\n[[ru:Варенье из маракуйи]]\n[[Category:Jam Maker Products]]\n[[Category:Passion Fruit Products]]",
   "wikitextHash": "cde50466a2d406a5403f9b150101019a2691d6fd82d07d89debc8c38bcfdc21d"
 }

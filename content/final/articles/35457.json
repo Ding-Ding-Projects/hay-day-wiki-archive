@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cream Products",
+    "Category:Fondue Pot Products",
+    "Category:Mango Products",
+    "Category:Pineapple Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cream Products",
+      "Category:Fondue Pot Products",
+      "Category:Mango Products",
+      "Category:Pineapple Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +141,12 @@
   "revisionId": 110187,
   "revisionTimestamp": "2026-05-23T21:03:42Z",
   "route": "/wiki/tropical-fondue-35457",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tropical_Fondue",
   "title": "Tropical Fondue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tropical Fondue.png|200px|left|Tropical Fondue]]\n\n{{Infobox\n  |level = 100\n  |price = 1 to 417\n  |time = 35 min\n  |xp = 50\n  |source = {{Infoicon|fonduep|bigger|link=Fondue Pot}}\n  |base = 116\n  |dia = 3\n  |time3 = 29 min\n  |title = [[Products|product]]\n}}\n\n'''Tropical fondue''' is a [[Products|product]] unlocked at [[experience]] level 100. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Tropical fondue'''===\n[[File:Fondue Pot.png|150px|left|Fondue Pot]]\nTropical fondue is made in the [[Fondue Pot]].\n\nTo make the fondue, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Pineapple.png|75px|Pineapple|link=Pineapple]]\n|[[File:Mango.png|75px|Mango|link=Mango]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|'''x2'''\n|}\nIt takes 35 minutes to make one bowl, and 29 minutes in a fully [[Masteries|mastered]] fondue. Each fondue gives players 60 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Tropical fondue'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tropical fondue can be bought or sold for a maximum price of 4,176 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a fondue costs 392 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 tropical fondue per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Tropisches Fondue\n|es = Fondue tropical\n|fr = Fondue Tropicale\n|it = Fonduta tropicale\n|nl = Tropische Fondue\n|no = Tropisk fondue\n|ru = Тропическое фондю\n|zh = Tropical Fondue\n}}\n[[pt-br:Fondue tropical]]\n\n[[Category:Fondue Pot Products]]\n[[Category:White Sugar Products]]\n[[Category:Cream Products]]\n[[Category:Pineapple Products]]\n[[Category:Mango Products]]",
   "wikitextHash": "9bf314fae7690ab7c814eb293fa66e26e694c73cdb7db52f8e754816bc9f2007"
 }

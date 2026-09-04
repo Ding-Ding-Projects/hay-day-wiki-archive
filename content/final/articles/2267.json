@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods",
+    "Category:Pages using duplicate arguments in template calls"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods",
+      "Category:Pages using duplicate arguments in template calls"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -299,11 +309,12 @@
   "revisionId": 110858,
   "revisionTimestamp": "2026-08-10T14:53:01Z",
   "route": "/wiki/bacon-2267",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon",
   "title": "Bacon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon.png|200px|left|Bacon]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 10\n |price = 1 to 50\n |time = 4 h\n |xp = 5\n |source = {{Infoicon|pig|bigger|link=Pig}}\n |base = 14\n |dia = 7\n}}\n'''Bacon''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 10.\n\nIt is used to make many recipes as well as feed [[:Category:Dogs|dogs]] and [[:Category:Puppies|puppies]]. It is one of the most used products in the game.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Collecting bacon'''===\n[[File:Pig Steaming.png|150px|left|Steaming a pig]]\nBacon is collected from [[pig]]s which have been fed [[Pig Feed|pig feed]]. Once fed, pigs need 4 hours to get fatter. Players can then put them in a steaming machine to get bacon.\n\nCollecting bacon gives players 5 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling bacon'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Bacon can be bought or sold for a maximum price of 504 {{Infoicon|coin}} for 10 units.\n* A [[pig]] costs between 500 and 2,300 {{Infoicon|coin}} and a [[Pig Pen|pig pen]] 150 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using bacon'''===\nBacon is used to make the following [[products]]:\n\n{{Item Usage|Bacon\n|Bacon and Eggs|2|11\n|Bacon Pie|3|18\n|Hamburger|2|18\n|Casserole|2|36\n|Shepherd's Pie|2|38\n|BLT Salad|2|62\n|Bacon Toast|2|65\n|Cabbage Soup|2|65\n|Grilled Asparagus|3|67\n|Hot Dog|2|75\n|Taco|1|77\n|Corn Dog|4|78\n|Onion Dog|2|80\n|Stuffed Peppers|1|80\n|Pasta Carbonara|2|83\n|Bacon Fondue|3|86\n|Bacon Fries|2|87\n|Potato Omelet|3|87\n|Bacon Donut|3|88\n|Mushroom Salad|1|89\n|Chili Poppers|3|98\n|Chili Stew|2|109\n|Winter Stew|1|112\n|Breakfast Waffles|2|119\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 10 pieces of bacon per crate, up to a total of 36 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* 3 units of [[Pig Feed|pig feed]] take 20 minutes to make. You can easily collect all your bacon and replenish your feed stock by the time the pigs are fat again.\n* Bacon can occasionally be found in the [[Daily Dirt]] but sells very quickly. \n* Before you buy dogs take into consideration the fact that you'll have to feed them bacon or [[Lamb Chop|lamb chops]]. If you have reached [[experience]] level 25, it is more convenient to feed them lamb chops. Below experience level 25, if you don't have enough pigs or don't make enough pig feed, this might be a problem.\n----\n{{Navigation}}\n{{Languages\n|de = Speck\n|es = Beicon\n|fr = Bacon\n|it = Pancetta\n|ru = Бекон\n|nl = Spek\n|no = Bacon\n|ru = Бекон\n}}\n[[Category:Animal Goods]]",
   "wikitextHash": "7abc7511e7ea42c78d59d84ab9ccb8de8aa5f2f13528e2240f4e013f18d2cedb"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Penguin_House_Stage_1.png",
+  "filePageId": 35933,
+  "filePageRevisionId": 103994,
+  "filePageRevisionSha1": "c2e44181a0cc724a499bd5e2316b94f60245c2ec",
+  "filePageRevisionTimestamp": "2023-09-30T22:21:16Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "2acd523a69766ead91c3dd6f9b4fb7959784e2e0abb584e1267924ebd6a4a24d",
   "height": 585,
   "immutableUrl": null,
   "mediaId": "File:Penguin House Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-09-30T22:20:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APenguin%20House%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 123432,
   "sourceSha1": "976d8cb26d2bddc231e20d1e17794698299f7895",

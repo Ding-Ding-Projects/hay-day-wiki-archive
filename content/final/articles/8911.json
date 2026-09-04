@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Tree Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Tree Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -211,11 +219,12 @@
   "revisionId": 107149,
   "revisionTimestamp": "2025-02-06T13:11:09Z",
   "route": "/wiki/olive-8911",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Olive",
   "title": "Olive",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Olive.png|200px|left|Olive]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 57\n |price = 1 to 82\n |time = 1 d\n |xp = 17\n |base = 23\n |dia = 17\n |source = {{Infoicon|olivet|bigger|link=Olive Tree}}\n}}\n'''Olives''' are fruit [[crops]] unlocked at [[experience]] level 57. They grow on [[Olive Tree|olives trees]] and can be harvested four times.\n\nThey are used as ingredients in three [[products]] only, but one of them is [[Olive Oil|olive oil]], which is, in turn, used to make several other recipes.\n\nLike all crops, they are stored in the [[silo]].\n\n{{Clr}}----\n==='''Harvesting olives'''===\n[[File:Olive Tree.png|150px|left|Olive tree]]\nThe first harvest gives two olives, the second one three, and the other two four. After the third harvest the tree wilts.\n\nTapping on the tree places a sign on it letting other players know the tree needs to be revived. Once it is, a last harvest can be done before the tree dies. A [[saw]] is then required to cut it.\n\n{{Clr}}----\n==='''Selling olives'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Olives can be sold or bought for a maximum price of 828 {{Infoicon|coin}} for 10 fruit.\n* Buying an olive tree costs 620 {{Infoicon|coin}}.\n* Given all 13 olives are collected during the four harvests, the batch can be sold for 1,076 {{Infoicon|coin}}, thus giving a profit of 456 {{Infoicon|coin}} per tree.\n\n{{Clr}}----\n=== '''Using olives''' ===\nOlives are used to make the following [[products]]:\n{{Item Usage|Olive\n|Feta Salad|2|58\n|Olive Oil|3|60\n|Olive Dip|3|66\n}}\n\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 4 to 6 olives per crate, up to a total of 24 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* '''You must always make sure you have enough olives, because they are needed for the [[Olive Oil|olive oil]] that is made in the [[Sauce Maker|sauce maker]]. Olive oil is needed for many other [[products]]!!!!!!'''\n*Each tree gives a maximum of 13 olives in 4 days.\n* They are rare enough that selling them at a lower price is not recommended.\n* Olives are very hard to find in the [[Daily Dirt]].\n* Recipes ask for two or three olives so you need to have several extra trees to cover your needs. Extras can also be useful if you have boats with olive crates.\n----\n{{Navigation}}\n{{Languages\n|de = Olive\n|es = Aceitunas\n|fr = Olive\n|it = Olive\n|no = Oliven\n|vi = Olives\n|zh = Olive\n}}\n[[pt-br:Azeitona]]\n[[ru:Оливки]]\n[[Category:Tree Crops]]",
   "wikitextHash": "c14c3bc53d68bbf3fe89f369ad8a5687da5bae8fb784d4eda1d3c236b4a93297"
 }

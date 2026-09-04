@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blueberries Products",
+    "Category:Cacao Products",
+    "Category:Milk Products",
+    "Category:Plain Waffles Products",
+    "Category:Waffle Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blueberries Products",
+      "Category:Cacao Products",
+      "Category:Milk Products",
+      "Category:Plain Waffles Products",
+      "Category:Waffle Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +148,12 @@
   "revisionId": 110451,
   "revisionTimestamp": "2026-06-07T21:15:31Z",
   "route": "/wiki/blueberry-waffles-36311",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blueberry_Waffles",
   "title": "Blueberry Waffles",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blueberry Waffles.png|left|184x184px|Blueberry Waffles]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 118\n |price = 1 to 669\n |time = 42 min\n |source = {{Infoicon|wafflem|bigger|link=Waffle Maker}}\n |xp = 80\n |base = 186\n |dia = 3\n |time3 = 35 min\n}}\n'''Blueberry Waffles''' is a [[products|product]] unlocked at [[experience]] level 118. It was added in June 2025 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Blueberry Waffles'''===\n[[File:Waffle Maker.png|150px|left|Waffle Maker]]\nBlueberry Waffles are made in the [[Waffle Maker]].\n\nTo make blueberry waffles, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Waffles.png|75px|Plain Waffles|link=Plain Waffles]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:Cacao.png|75px| Cacao |link= Cacao]]\n|[[File:Blueberries.png|75px|Blueberries|link=Blueberries]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 42 Minutes to make blueberry waffles, and 35 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 80 [[experience]] points.\n\n{{Clr}}----\n==='''Selling blueberry waffles'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Blueberry waffles can be bought or sold for a maximum price of 6,696 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a blueberry waffles costs 648 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 1 unit per crate, up to a total of 3 per boat (for three crates).\n** ? units per crate, up to a total of ? per boat (for four crates).\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n\n{{Navigation}}\n{{Languages\n|de = Blaubeerwaffeln mit weißer Schokolade\n|es = Gofres de arándanos y chocolate blanco\n|it =\n|nl =\n|no = Vafler med hvit sjokolade og blåbær\n|ru = Вафли с черникой и белым шоколадом\n}}\n[[pt-br:Waffle de mirtilo e chocolate branco]]\n\n[[Category:Waffle Maker Products]]\n[[Category:Plain Waffles Products]]\n[[Category:Milk Products]]\n[[Category:Cacao Products]]\n[[Category:Blueberries Products]]",
   "wikitextHash": "0d5978657df88b3c47aa6aa00702b26b461edc3caad04fc45f59ed2f0b996f47"
 }

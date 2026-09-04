@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_%C2%B7_Let%27s_Play_248",
+  "filePageId": 29835,
+  "filePageRevisionId": 80808,
+  "filePageRevisionSha1": "cbd6df77760548a7812aa44ebb700e33c8cd9dae",
+  "filePageRevisionTimestamp": "2018-06-10T17:40:11Z",
+  "filePageWikitext": "\n== Description ==\nGameNomad is a gaming channel without any distractions. \n\nI hope you enjoyed this video.\nThank you for your support! \nI'm always happy to read your comments.\n[[Category:Videos]]",
+  "filePageWikitextHash": "53a4f79b68d930d98842184bc04145373d69283eae45a5f909337f7bcf0eb3fa",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day · Let's Play 248",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-10T17:40:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20%C2%B7%20Let's%20Play%20248",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 19994,
+  "sourceSha1": "b6fb2d54c9c46af93811efc59c290b833641ba86",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d8/Hay_Day_%C2%B7_Let%27s_Play_248/revision/latest?cb=20180610174011",
+  "title": "File:Hay Day · Let's Play 248",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

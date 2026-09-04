@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orders.jpg",
+  "filePageId": 2672,
+  "filePageRevisionId": 65973,
+  "filePageRevisionSha1": "4931bd7ec9778f75a7046e1d14b91b91637a5b69",
+  "filePageRevisionTimestamp": "2016-10-28T13:20:57Z",
+  "filePageWikitext": "Picture of the truck order board.\n{{License SC}}\n[[Category: Image Truck]]",
+  "filePageWikitextHash": "a421a65449baef75ba1e0ca73e020366312257cde4f3cdc91b90cfb61abb5ef0",
   "height": 479,
   "immutableUrl": null,
   "mediaId": "File:Orders.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-11-03T22:01:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOrders.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 160972,
   "sourceSha1": "9464dab0b9a7513dc79c7295f75085a99197f6e6",

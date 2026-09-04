@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wildlife_Sanctuary.png",
+  "filePageId": 28039,
+  "filePageRevisionId": 74220,
+  "filePageRevisionSha1": "1a3fb6e4c78f279faabf404122e7bd97426b74fc",
+  "filePageRevisionTimestamp": "2017-10-22T10:08:56Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "7ebafc01f20fed674a3ac463fdc49c6ca67cb63c819669bfde68937f23e17858",
   "height": 512,
   "immutableUrl": null,
   "mediaId": "File:Wildlife Sanctuary.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T21:32:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWildlife%20Sanctuary.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 330914,
   "sourceSha1": "374e2fc43e96b732b9e765f10d7a6e90182af259",

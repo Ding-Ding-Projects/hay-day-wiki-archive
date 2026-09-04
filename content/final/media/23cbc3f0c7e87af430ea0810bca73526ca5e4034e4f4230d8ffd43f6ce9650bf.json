@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_239.jpg",
+  "filePageId": 36263,
+  "filePageRevisionId": 109833,
+  "filePageRevisionSha1": "829ecf78cbdab90ad17160d2b87b6823db2a146a",
+  "filePageRevisionTimestamp": "2026-05-08T11:32:08Z",
+  "filePageWikitext": "== Summary ==\nLevel 239\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "228797ba18c9a54ee71645aeb07568ee3680aa10240116c8a395ec878e268cd3",
   "height": 497,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 239.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-02-09T12:44:04Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20239.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 31985,
   "sourceSha1": "c1cf14e19e2fda301ad51ce30ae4120656ba0194",

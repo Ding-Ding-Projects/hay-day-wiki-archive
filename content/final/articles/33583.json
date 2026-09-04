@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Derby_Themes?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93459,
   "revisionTimestamp": "2020-04-16T19:39:55Z",
   "route": "/wiki/derby-themes-33583",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Derby_Themes",
   "title": "Derby Themes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types]]",
   "wikitextHash": "08a5b965ba90e1277e0f41952fa0c6a066ee3055b2188b637d598b561c607e0e"
 }

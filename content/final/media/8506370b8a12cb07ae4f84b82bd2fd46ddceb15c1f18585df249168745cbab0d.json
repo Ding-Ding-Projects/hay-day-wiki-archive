@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_Thresholds.png",
+  "filePageId": 17106,
+  "filePageRevisionId": 76355,
+  "filePageRevisionSha1": "74e18d64346981ab968c2253b5737c21d1223cf5",
+  "filePageRevisionTimestamp": "2017-12-27T19:38:15Z",
+  "filePageWikitext": "Picture of the 'mid-level' thresholds (here for level 56 to 57).\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "a8580b3050328e6d4b7f55e9f571ff813686b1db566323d1de1169769609fced",
   "height": 244,
   "immutableUrl": null,
   "mediaId": "File:Level Thresholds.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-04-03T23:16:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20Thresholds.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 30854,
   "sourceSha1": "7dcd32e2814789ba61db9351a21a8fd5d7a6ca71",

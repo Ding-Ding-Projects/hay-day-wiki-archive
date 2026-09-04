@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +172,12 @@
   "revisionId": 105876,
   "revisionTimestamp": "2024-09-26T19:50:53Z",
   "route": "/wiki/tomato-juice-2144",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tomato_Juice",
   "title": "Tomato Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tomato Juice.png|left|200px|Tomato juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 31\n |price = 1 to 162\n |time = 1 h 30 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 19\n |base = 45\n |dia = 5\n |time3 = 1 h 16 min\n}}\nTomato juice is a [[Products|product]] unlocked at [[experience]] level 31.\n\nIt is used to make [[Tomato Soup|tomato soup]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tomato juice'''===\n[[File:Juice Press.png|150px|left]]\nTomato juice is made in the [[Juice Press]].\n\nTo make juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Tomato.png|75px|link=Tomato|Tomatoes]]\n|-\n|'''x3'''\n|}\nTomato juice takes 1 hour and 30 minutes to be produced, but only 1 hour and 16 minutes in a fully [[masteries|mastered]] press. Each bottle gives players 19 [[experience]] points.\n----\n==='''Selling tomato juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tomato juice can be bought or sold for a maximum of 1,620 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 129 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using tomato juice'''===\nTomato juice is used to make the following [[products|product]]:\n\n{{Item Usage|Tomato Juice\n|Tomato Soup|1|47\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 tomato juice per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Tomatensaft\n|es = Zumo de tomate\n|fr = Jus de Tomate\n|it = Succo di pomodoro\n|nl = Tomatensap\n|no = Tomatjus\n|vi = Nước ép cà chua\n|zh = Tomato Juice\n}}\n[[pt-br:Suco de tomate]]\n[[ru:Томатный сок]]\n[[Category:Juice Press Products]]\n[[Category:Tomato Products]]",
   "wikitextHash": "14bd3b546af86cfb0fa1e8f68e3e931b4b5899136a7ce06d50ca12c9f4b24abe"
 }

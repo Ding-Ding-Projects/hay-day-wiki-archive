@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57801,
   "revisionTimestamp": "2016-01-21T18:29:13Z",
   "route": "/wiki/category%2Fcategory-soup-kitchen-products-8447",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Soup_Kitchen_Products",
   "title": "Category:Soup Kitchen Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Soup_Kitchen.png|thumb]]\nProducts of the [[Soup Kitchen]].\n[[Category:Products]]",
   "wikitextHash": "c68e925270ce158a5e0452e7d5a81e2e5ed568260a5bbfb1ec295b06681344a7"
 }

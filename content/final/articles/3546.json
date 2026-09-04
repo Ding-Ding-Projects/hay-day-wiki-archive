@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -376,11 +384,12 @@
   "revisionId": 110762,
   "revisionTimestamp": "2026-07-17T15:41:27Z",
   "route": "/wiki/feed-mill-3546",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Feed_Mill",
   "title": "Feed Mill",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Feed Mill.png|200px|left|Feed Mill]]\n\n{{Infobox\n |level = 2-12\n|price = 5-3,200\n|time = 40 s\n|slots = 3\n|dia = 1\n|title = [[Production Buildings|Machine]]\n|size = 3×3\n}}\nThe '''Feed Mill''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 2. It is the first production building players unlock in the game. A second one is unlocked at level 12.\n\nIt is used to make [[Chicken Feed|chicken feed]], [[Cow Feed|cow feed]], [[Pig Feed|pig feed]], [[Sheep Feed|sheep feed]], [[Lamb Feed|lamb feed]], [[Goat Feed|goat feed]], [[Wheat Bundle|wheat bundles]] and [[Meat Bucket|meat buckets]].\n\n{{Clr}}\n----\n=== '''Appearance''' ===\nThe Feed Mill is a large wooden mixing pot. There is a small wooden table and a few kegs beside it. A wooden mixing tower carries a silver bevel gear above the pot.\n\nA mastered one gains a few golden parts, and a star at the top of the mixing tower.\n----\n=== '''Building''' ===\nIt costs 5 {{Infoicon|coin}} to build the first Feed Mill and 3,200 {{Infoicon|coin}} to build the second one.\n\nBoth take only 40 seconds (or 1 {{Infoicon|dia}}) to be built and give players 4 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Chicken Feed|2|4m|7\n|Cow Feed|6|10m|14\n|Pig Feed|10|20m|14\n|Sheep Feed|16|30m|14/3\n|Lamb Feed|25|10m|18/4\n|Goat Feed|32|40m|14/3\n|Wheat Bundle|R3|1:30/6|50/10\n|Meat Bucket|R3|45m|72/9\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Feed Mill originally has three slots available. Unlocking the fourth slot costs 6 [[diamond]]s. Players can unlock 6 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 81{{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 6,840 hours of production is required to [[Masteries|master]] the Feed Mill:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Feed Mill Mastered.png|150px|Mastered Feed Mill]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />120 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />840 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />5,880 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:Feed Mill Mastery I.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:Feed Mill Mastery II.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Feed Mill Mastery III.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''5% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''10% faster'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* All feed require two of the following crops: [[carrot]], [[corn]], [[soybean]], [[Black Bean|black bean]] and [[wheat]].\n* The Feed Mill is one of hardest machines to master. Non-stop production whenever possible and patience are needed.\n* Put wheat bundles in the production when you are sleeping or away for long time, it will help to master the feed mill as they take longest time.\n----\n{{Navigation}}\n{{Languages\n|de = Futtermühle\n|es = Moledora\n|fr = Provenderie\n|it = Mangimificio\n|nl = Voedermolen\n|no = Fôrmølle\n|ru = Дробилка\n|sv = Foderkvarn\n|vi = Máy chế biến thức ăn\n|zh = 饲料厂\n}}\n[[pt-br:Fábrica de ração]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "252719067061d823caf73e4c9fd82216dde1b2d46005283fb22feda56b537b29"
 }

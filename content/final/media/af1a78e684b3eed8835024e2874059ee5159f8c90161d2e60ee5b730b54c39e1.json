@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Furry_Friends.png",
+  "filePageId": 33965,
+  "filePageRevisionId": 99619,
+  "filePageRevisionSha1": "ae2c6a07b983182d43f2c117a3b6258a545cf2e2",
+  "filePageRevisionTimestamp": "2021-12-08T15:02:49Z",
+  "filePageWikitext": "== Summary ==\nSquirrel achievement\n== Licensing ==\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "63b00dc10264c168e03d428a3ace6f5cfb50a32046fa14b4279a5fa92ee0a771",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Furry Friends.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-12-08T15:02:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFurry%20Friends.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 87946,
   "sourceSha1": "8c28d4b25a431a3734a24b2d8d5fa7291b52b7f9",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Peach_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98689,
   "revisionTimestamp": "2021-09-07T10:22:21Z",
   "route": "/wiki/category%2Fcategory-peach-products-35155",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Peach_Products",
   "title": "Category:Peach Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Peach.png|thumb]]\nProducts of [[Peach]].\n[[Category:Products]]",
   "wikitextHash": "6169df14a60415154156681faba1ef957c4e3cef13487bf95a3e4a8ec80e806a"
 }

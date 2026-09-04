@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -363,11 +371,12 @@
   "revisionId": 110917,
   "revisionTimestamp": "2026-08-23T16:27:43Z",
   "route": "/wiki/soybean-2079",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Soybean",
   "title": "Soybean",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Soybean.png|200px|left|Soybean]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 5\n |price = 1 to 10\n |time = 20 min\n |xp = 2\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 3\n |dia = 2\n}}\n'''Soybeans''' are field [[crops]] unlocked at [[experience]] level 5.\n\nThey are used to make very few food [[products]], but this includes feed for [[cow]]s, [[pig]]s and [[sheep]] to eat, and [[Soy Sauce|soy sauce]], which is used in all [[Sushi Bar|sushi]] recipes.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 170 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing soybeans'''===\nSoybeans are grown in [[Farm|fields]] by planting another soybean (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 2 {{Infoicon|xp}} points, and takes 20 minutes to mature.\n<gallery>\nSoybean Stage 1.png\nSoybean Stage 2.png\nSoybean Stage 3.png\nSoybean Stage 4.png\nSoybean Stage 5.png\n</gallery>\n----\n==='''Selling soybeans'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Soybeans can be sold or bought for a maximum price of 108 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using soybeans'''===\nSoybeans are used to make the following [[products]]:\n\n{{Item Usage|Soybean\n|Cow Feed|2|6\n|Pig Feed|1|10\n|Sheep Feed|1|16\n|Lamb Feed|2|25\n|Soy Sauce|9|54\n|Tofu Dog|6|76\n|Tofu Stir Fry|3|89\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 24 to 48 soybeans per crate, up to a total of 188 per boat.\n* Each unit of soybean gives players 5 coins and 3 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Soybeans can occasionally be found in the [[Daily Dirt]], but sell very quickly. Selling them at a lower price is not necessary.\n* Recipes ask for one to nine soybeans. If you need to make lots of [[Soy Sauce|soy sauce]] for [[Sushi Bar|sushi]] or have many farm animals, make sure you always have enough.\n* You can also earn coins by harvesting soybeans and selling at maximum price in your shop.\n----\n\n{{Navigation}}\n{{Languages\n|de = Sojabohne\n|es = Soja\n|fi = Soijapapu\n|fr = Soja\n|it = Soia\n|nl = Sojabonen\n|no = Soyabønne\n|sv = Sojaböna\n|vi = Soybean\n|zh = 大豆\n}}\n[[pt-br:Soja]]\n[[ru:Соя]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "7e941b11b2b5d8f8e745646d3eb478a461efe7ee72d2a8ff6ca17f8483e982dd"
 }

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Coffee Bean Products",
+    "Category:Coffee Kiosk Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Coffee Bean Products",
+      "Category:Coffee Kiosk Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -147,11 +159,12 @@
   "revisionId": 109075,
   "revisionTimestamp": "2026-01-07T00:02:40Z",
   "route": "/wiki/espresso-2425",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Espresso",
   "title": "Espresso",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Espresso.png|200px|left|Espresso]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 42\n |price = 1 to 248\n |time = 5 min\n |source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n |xp = 29\n |base = 69\n |dia = 1\n |time3 = 4 min\n}}\n'''Espresso''' is a [[products|product]] unlocked at [[experience]] level 42. \n\nIt is used to make [[Affogato|affogato]] and [[Mocha_Milkshake|mocha milkshake]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making espresso'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nEspresso is made in the [[Coffee Kiosk]].\n\nTo make a cup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coffee Bean.png|75px|Coffee beans|link=Coffee Bean]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 5 minutes to make one cup, and 4 minutes in a fully [[Masteries|mastered]] kiosk. Each glass gives players 29 [[experience]] points.\n\n{{Clr}}----\n==='''Selling espresso'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Espresso can be bought or sold for a maximum price of 2,484 {{Infoicon|Coin}} for 10 cups.\n* Buying the ingredients required to make espresso costs 242 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using espresso'''===\nEspresso is used to make the following [[products]]:\n\n{{Item Usage|Espresso\n|Stacked Gift|1|43|temp=Stacked Gift|tempend=20230102\n|Affogato|1|78\n|Mocha Milkshake|2|125\n}}\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 espresso per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Espresso\n|es = Café expreso\n|fr = Expresso\n|it = Espresso\n|nl = Espresso\n|no = Espresso\n|zh = Espresso\n}}\n[[pt-br:Expresso]]\n[[ru:Эспрессо]]\n[[Category:Coffee Kiosk Products]]\n[[Category:White Sugar Products]]\n[[Category:Coffee Bean Products]]",
   "wikitextHash": "053438eac7951c7a70afbf850f97f98d117ff6558dc7af53de894387d8c33126"
 }

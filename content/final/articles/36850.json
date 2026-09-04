@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Carrot Pie Products",
+    "Category:Soybean Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Carrot Pie Products",
+      "Category:Soybean Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -93,11 +107,12 @@
   "revisionId": 110634,
   "revisionTimestamp": "2026-06-22T20:20:17Z",
   "route": "/wiki/banjo-balloon-36850",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Banjo_Balloon",
   "title": "Banjo Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Banjo Balloon.png|200px|left|Banjo Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |yellowflower = 10\n |time = 10m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 71\n |dia = 3\n}}\n'''Banjo Balloon''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Anniversary 2026 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Banjo Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nBanjo balloons are made in the [[Birthday Balloon Maker]].\n\nTo make a banjo balloon in 2026, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot Pie.png |75px|Carrot Pie|link=Carrot Pie]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x5'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 71 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 2 per boat. Each balloon used on a boat will be rewarded with 10 [[Yellow Flower|yellow flowers]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Banjoballon\n|es = Globo de banjo\n|no = \n|pt-br = \n|ru = \n}}\n\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Carrot Pie Products]]\n[[Category:Soybean Products]]\n[[Category:Wheat Products]]",
   "wikitextHash": "8ff3581cfae29c0e1c321c23afb49af96a38ef867bfe05a3b7f43497d70390fa"
 }

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_-_Game_Trailer",
+  "filePageId": 20726,
+  "filePageRevisionId": 50198,
+  "filePageRevisionSha1": "1336f8904cba323897c3c0d8b5dba631e2e7a0b8",
+  "filePageRevisionTimestamp": "2015-07-07T19:32:34Z",
+  "filePageWikitext": "\n== Description ==\nJoin today and create your own aMOOzing farm! \nDownload for free: http://bit.ly/HayDayDL\n\n© Supercell Oy 2015\n[[Category:Videos]]",
+  "filePageWikitextHash": "a3e29ec3a2918b5f65363cad958dddc0afd2e5122522c4654a22832a67f5c8d1",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day - Game Trailer",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-07T19:32:34Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20-%20Game%20Trailer",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 32928,
+  "sourceSha1": "4aad2ff64721fe1ee8df6ca092df8c0db30ba391",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c2/Hay_Day_-_Game_Trailer/revision/latest?cb=20150707193234",
+  "title": "File:Hay Day - Game Trailer",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

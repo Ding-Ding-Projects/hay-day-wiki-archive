@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mastery_II_10.png",
+  "filePageId": 19156,
+  "filePageRevisionId": 110378,
+  "filePageRevisionSha1": "484921ded994754e54512ada057e43be9d90bbd7",
+  "filePageRevisionTimestamp": "2026-06-05T00:17:26Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "aeb196532c317fe2efad74c9e65150199857036af6212cf0fcd18c2ef8fafa74",
   "height": 287,
   "immutableUrl": null,
   "mediaId": "File:Mastery II 10.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-06-05T00:17:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMastery%20II%2010.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 525182,
   "sourceSha1": "1dd26458cb003252354607922ab7471ccbb85dcd",

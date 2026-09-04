@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Eggplant Products",
+    "Category:Salsa Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Eggplant Products",
+      "Category:Salsa Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +192,12 @@
   "revisionId": 109816,
   "revisionTimestamp": "2026-05-07T20:25:46Z",
   "route": "/wiki/grilled-eggplant-30750",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grilled_Eggplant",
   "title": "Grilled Eggplant",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grilled Eggplant.png|200px|left|Grilled eggplant]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 90\n |price = 1 to 324 \n |time = 40 min\n |xp = 39\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |base = 90 \n |dia = 3\n |time3 = 34 min\n}}\n'''Grilled eggplant''' is a [[products|product]] unlocked at [[experience]] level 90.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making grilled eggplant'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nGrilled eggplant is made in the [[BBQ Grill]].\n\nTo make grilled eggplant players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Eggplant.png|75px|link=Eggplant|Eggplant]]\n|[[File:Salsa.png|75px|link=Salsa|Salsa]]\n|-\n|'''x3'''\n|'''x1'''\n|}\nIt takes 40 minutes to make grilled eggplant, and 34 minutes in a fully [[Masteries|mastered]] grill. Each grilled eggplant gives players 39 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling grilled eggplant'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Grilled eggplant can be bought or sold for a maximum price of 3240 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make grilled eggplant costs 294 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 grilled eggplant per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Gegrillte Aubergine\n|es = Berenjena asada\n|fr = Aubergines Grillées\n|it = Melanzane alla griglia\n|nl = Geroosterde Aubergine\n|no = Grillet aubergine\n|ru = Баклажан на гриле\n|zh = Grilled Eggplant\n}}\n[[pt-br:Berinjela grelhada]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Eggplant Products]]\n[[Category:Salsa Products]]",
   "wikitextHash": "2bf94b8ea9e61254365243f0fbdbfec06a1d496ac81d6c12c7ea9c4b3dd61ca2"
 }

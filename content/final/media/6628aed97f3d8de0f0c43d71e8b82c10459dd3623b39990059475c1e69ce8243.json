@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Surfer_Pig.png",
+  "filePageId": 34449,
+  "filePageRevisionId": 105974,
+  "filePageRevisionSha1": "b4ae80251c7135af266903fc5124ff415065f9fe",
+  "filePageRevisionTimestamp": "2024-10-19T22:03:59Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "90bc4a81dd12fadd116a158e12ad8e8c2ca8bad607e8b1cf212bf56cb1bb5bfa",
   "height": 315,
   "immutableUrl": null,
   "mediaId": "File:Surfer Pig.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-10-19T22:03:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASurfer%20Pig.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 99800,
   "sourceSha1": "336ee20adb5d2fc3c98df337250bb119f68eb5c3",

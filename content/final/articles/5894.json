@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing Lake",
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing Lake",
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fishing?action=history",
@@ -35,11 +45,12 @@
   "revisionId": 57783,
   "revisionTimestamp": "2016-01-21T18:14:27Z",
   "route": "/wiki/category%2Fcategory-fishing-5894",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fishing",
   "title": "Category:Fishing",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category is meant to hold all pages relating to the [[fishing]] mechanic in ''[[Hay Day]]''. Please do not add pages to this category simply to get an achievement.\n[[Category:Game Features]]\n[[Category:Fishing Lake]]",
   "wikitextHash": "98639bdfe2b3dd25b7f96499adeb2976c02e58491f84979afcf4d4baf57fe455"
 }

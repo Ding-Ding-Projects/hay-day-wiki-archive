@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -166,11 +174,12 @@
   "revisionId": 89060,
   "revisionTimestamp": "2019-10-26T04:15:11Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-mediawiki-25708",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:MediaWiki",
   "title": "Hay Day Wiki:MediaWiki",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\nThis page lists all MediaWiki pages used on this wiki. Proceed with caution when editing these.\n\n==='''Site homepage'''===\n[[MediaWiki:Mainpage|Homepage]]\n\n==='''Community pages'''===\n* [[MediaWiki:Welcome-user-page|Welcome profile message]]\n* [[MediaWiki:Welcome-message-wall-user|Welcome wall message]]\n* [[MediaWiki:Welcome-user|Welcome message setting]]\n* [[MediaWiki:Welcome-enabled|Welcome message setting]]\n* [[MediaWiki:Welcome-bot-flag|Show/hide welcome messages in Recent Changes]]\n* [[Special:Community]]\n* [[MediaWiki:Community-corner|Community box]]\n* [[MediaWiki:Community-to-do-list|Community to-do]]\n* [[MediaWiki:Communitypage-admin-welcome-message|Community welcome message]]\n* [[MediaWiki:Communitypage-policy-module-link-page-name|Community policy link]]\n* [[MediaWiki:User-identity-box-group-bureaucrat|Bureaucrat label]]\n* [[MediaWiki:User-identity-box-group-sysop|Sysop label]]\n* [[MediaWiki:User-identity-box-group-content-moderator|Content Moderator label]]\n\n==='''Site messages'''===\n* [[MediaWiki:Protect-dropdown|Protect menu]]\n* [[MediaWiki:Deletereason-dropdown|Delete page menu]]\n* [[MediaWiki:Filedelete-reason-dropdown|Delete file menu]]\n* [[MediaWiki:Ipbreason-dropdown|Block menu reasons]]\n* [[MediaWiki:Ipboptions|Block menu options]]\n* [[MediaWiki:Licenses|License menu]]\n\n==='''CSS'''===\n* All skins: [[MediaWiki:Common.css|Common]]\n* Oasis only: [[MediaWiki:Wikia.css|Wikia]]\n\n==='''JavaScript'''===\n* [[MediaWiki:Wikia.js|Wikia]] (requires review)\n* [[MediaWiki:Common.js|Common]] (requires review)\n* [[MediaWiki:ImportJS|ImportJS]]\n\n==='''References'''===\n*[[w:Help:Welcome_tool|Welcome Tool]]\n*[[w:c:dev:Fandom_Open_Source_Library|Open Source Library]]\n\n[[Category:Site Administration]]\n[[Category:Site Administration]]",
   "wikitextHash": "440db7c319adfb5aac15b057a25de3cc5cc15daa2cb43eacf6d281df95218742"
 }

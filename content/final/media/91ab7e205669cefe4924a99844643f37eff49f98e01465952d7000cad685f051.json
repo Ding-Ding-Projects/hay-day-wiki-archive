@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bacon_and_Eggs.png",
+  "filePageId": 2068,
+  "filePageRevisionId": 104583,
+  "filePageRevisionSha1": "8f2f41c85df81bfc8d08ad69c0aa033773f14ec6",
+  "filePageRevisionTimestamp": "2024-02-05T16:42:11Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "ad45cb3c6d09dbeec25241eb796985f09eab84264a59e95e577e084be3d66168",
   "height": 1032,
   "immutableUrl": null,
   "mediaId": "File:Bacon and Eggs.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-05T16:42:11Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABacon%20and%20Eggs.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 608806,
   "sourceSha1": "f928f8990da906c8fcb2ce05a9dc2484f7f7153f",

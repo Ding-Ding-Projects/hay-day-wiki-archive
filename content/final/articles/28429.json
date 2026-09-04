@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Fish Fillet Products",
+    "Category:Lemon Products",
+    "Category:Olive Products",
+    "Category:Sauce Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Fish Fillet Products",
+      "Category:Lemon Products",
+      "Category:Olive Products",
+      "Category:Sauce Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +178,12 @@
   "revisionId": 109804,
   "revisionTimestamp": "2026-05-05T21:19:09Z",
   "route": "/wiki/olive-dip-28429",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Olive_Dip",
   "title": "Olive Dip",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Olive Dip.png|left|200px|Olive dip]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 66\n |price = 1 to 468\n |time = 45 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 56\n |base = 130\n |dia = 3\n |time3 = 38 min\n}}\n'''Olive dip''' is a [[products|product]] unlocked at [[experience]] level 66.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making olive dip'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nOlive dip is made in the [[Sauce Maker]].\n\nTo make the dip, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Olive.png|75px|Olives|link=Olive]]\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Fish Fillet.png|75px|Fish fillet|link=Fish Fillet]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make the dip, and 38 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players 56 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling olive dip'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Olive dip can be bought or sold for a maximum price of 4680 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a bowl of olive dip costs 414 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 olive dip per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* [[Lemon Curd|Lemon curd]] and olive dip are both unlocked at level 66 and are made in the same machine.\n----\n\n{{Navigation}}\n{{Languages\n|de = Olivendip\n|es = Olivada\n|fr = Sauce à l'huile d'Olive\n|it = Paté di olive\n|nl = Olijvendip\n|no = Olivendipp\n|ru = Оливковый соус\n|zh = Olive Dip\n}}\n[[pt-br:Molho de azeitonas]]\n\n[[Category:Sauce Maker Products]]\n[[Category:Bread Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Olive Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "a20d08ee673a93069ff02800c4bc5cd861f36d472611fff3d2b1cb518b679957"
 }

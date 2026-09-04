@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Choco_Bunny.png",
+  "filePageId": 36105,
+  "filePageRevisionId": 105455,
+  "filePageRevisionSha1": "6d8d27912f7e2ee91461e18c39f06c3b3eea5103",
+  "filePageRevisionTimestamp": "2024-06-26T21:28:17Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "96b6a8fd9143d2ffe5685e205443f3386b42a057315f7268ffac1c2f81efa7ae",
   "height": 430,
   "immutableUrl": null,
   "mediaId": "File:Choco Bunny.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-06-26T21:28:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChoco%20Bunny.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 117508,
   "sourceSha1": "9ba4fd801fe1459bacd50243dbf0f8f223e0cce6",

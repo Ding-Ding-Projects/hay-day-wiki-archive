@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Joan_Winter.PNG",
+  "filePageId": 22657,
+  "filePageRevisionId": 69735,
+  "filePageRevisionSha1": "7b52cdda5641f9601196393b5adc364449bddf0c",
+  "filePageRevisionTimestamp": "2017-02-07T18:30:08Z",
+  "filePageWikitext": "NPC Joan in Winter Attire\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "b5a00de39f776fb8752a7236da6982ffda4022d552f481a28840294f8a1e9780",
   "height": 254,
   "immutableUrl": null,
   "mediaId": "File:Joan Winter.PNG",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-11-16T21:11:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJoan%20Winter.PNG",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 94505,
   "sourceSha1": "0e33e05ba861ecb0d89fafbeda98917b524198bf",

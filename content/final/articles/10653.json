@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -298,11 +306,12 @@
   "revisionId": 106852,
   "revisionTimestamp": "2025-01-14T21:10:20Z",
   "route": "/wiki/salmon-10653",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Salmon",
   "title": "Salmon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Salmon.png|200px|left|Salmon]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 27\n |lures = {{Infoicon|bluel|big|link=Lure}} {{Infoicon|purplel|big|link=Lure}}\n |spots = 8\n |circle = small\n |xp = 14\n}}\n'''Salmon''' are a type of [[fish]].\n\nLike all types of fish, each salmon gives one [[Fish Fillet|fish fillet]] when caught.\n\n{{Clr}}----\n==='''Catching salmon'''===\nSalmon can only be caught with blue and purple [[lure]]s in fishing spot #8 (the rocky area next to the fishing boat).\n\nSalmon can be caught in small circles and therefore are harder to catch.\n\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''Salmon in the fishing book'''===\n[[File:Salmon Photo.png|150px|left|Fishing book photo]]\nThe salmon is on page 4 of the [[Fishing Book|fishing book]]:\n\n''After a long journey up the river, this traveler is ready to take it easy.''\n\n{{Clr}}----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Lachs\n|es = Salmón\n|no = Laks\n}}\n[[Category:Fish]]",
   "wikitextHash": "59b32dd82499a874e1f03a80a26a7ebe569bd425d17a00924394c52043ccc554"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Ice_Cream_Maker.png",
+  "filePageId": 2379,
+  "filePageRevisionId": 108589,
+  "filePageRevisionSha1": "a079b0e25bd80acab5e6a6f3e4d721f3e1143072",
+  "filePageRevisionTimestamp": "2025-09-25T19:00:23Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "e7fb1b916968b55980ba20d60d8df21e6290fcc9af918ff9694c174e439708a3",
   "height": 673,
   "immutableUrl": null,
   "mediaId": "File:Ice Cream Maker.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 18,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T19:00:23Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AIce%20Cream%20Maker.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 357698,
   "sourceSha1": "fcd2afc9507c70787fd7151d7fdb4f5c0fd654cd",

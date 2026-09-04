@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Too_Much_Wool",
+  "filePageId": 21851,
+  "filePageRevisionId": 54070,
+  "filePageRevisionSha1": "6ab361c2cacfbd6bf89ebbada38e182588634736",
+  "filePageRevisionTimestamp": "2015-09-21T20:14:29Z",
+  "filePageWikitext": "\n== Description ==\nWool everywhere!\nGet Hay Day now. Download for free for mobile devices.\nhttp://supr.cl/GetHayDay\n\n© Supercell Oy 2015\n[[Category:Videos]]",
+  "filePageWikitextHash": "ac41c30425c426a75f8d6f0b7760b3a1463a7526c3e4ce0da778913f39325dac",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Too Much Wool",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-09-21T20:14:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AToo%20Much%20Wool",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 21872,
+  "sourceSha1": "d06257a0b08f0c677621b89e9c911430a5a670be",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f3/Too_Much_Wool/revision/latest?cb=20150921201428",
+  "title": "File:Too Much Wool",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wiki-background",
+  "filePageId": 24224,
+  "filePageRevisionId": 69883,
+  "filePageRevisionSha1": "1d17f7276ead5fe91af2a52b0da6adae8ca0bfb9",
+  "filePageRevisionTimestamp": "2017-02-09T20:11:20Z",
+  "filePageWikitext": "The [[Help:Theme designer|background]] of the wiki. To add a background, please use the [[Special:ThemeDesigner|theme designer]].\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "086cba1397b60765f2a13cc546ce2455660f805c8c553c935c09a2024d232094",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Wiki-background",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-03-26T08:02:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AWiki-background",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 155206,
+  "sourceSha1": "91486acdb14a084d5ab273eae7c64401d204b544",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/5/50/Wiki-background/revision/latest?cb=20160326080206",
+  "title": "File:Wiki-background",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 480
+}

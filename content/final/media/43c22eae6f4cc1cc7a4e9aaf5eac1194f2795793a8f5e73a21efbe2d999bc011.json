@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chicken_Halloween.png",
+  "filePageId": 16707,
+  "filePageRevisionId": 65819,
+  "filePageRevisionSha1": "d9ee88d820b77ea702fbf5c9895b5fb317313288",
+  "filePageRevisionTimestamp": "2016-10-26T09:34:50Z",
+  "filePageWikitext": "Picture of chicken during Halloween.\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "580a11fa1b1e58c9a328bd322e88f95516aed3a664de3fc1d3fac8917e4d34e2",
   "height": 189,
   "immutableUrl": null,
   "mediaId": "File:Chicken Halloween.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-10-28T10:18:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChicken%20Halloween.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 38198,
   "sourceSha1": "78aad1c55e3a6f3a35ec64edc7788facfd7552cf",

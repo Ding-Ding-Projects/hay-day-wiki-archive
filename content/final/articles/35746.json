@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cream Products",
+    "Category:Egg Products",
+    "Category:Pomegranate Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cream Products",
+      "Category:Egg Products",
+      "Category:Pomegranate Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -180,11 +196,12 @@
   "revisionId": 109866,
   "revisionTimestamp": "2026-05-09T17:40:08Z",
   "route": "/wiki/pomegranate-cake-35746",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pomegranate_Cake",
   "title": "Pomegranate Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Pomegranate Cake.png|200px|left|Pomegranate cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 108\n |price = 1 to 316\n |time = 2 h 40 min\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 38\n |base = 88\n |time3 = 2 h 16 min\n |dia = 6\n}}\n'''Pomegranate cakes''' are [[products]] unlocked at [[experience]] level 108.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making pomegranate cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nPomegranate cakes are made in the [[Cake Oven]].\n\nTo make a pomegranate cake players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pomegranate.png|75px|link=Pomegranate|Pomegranates]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Cream.png|75px|link=Cream|Cream]]\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|'''x6'''\n|}\nIt takes 2 hour 40 minutes to make a pomegranate cake, and 2 h 16 minutes in a fully [[Masteries|mastered]] Oven. Each cake gives players 38 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling pomegranate cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pomegranate cakes can be bought or sold for a maximum price of 3,168 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a pomegranate cake costs 265 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 pomegranate cakes per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Granatapfeltorte\n|es = Pastel de granada\n|it = Torta alla melagrana\n|nl = Granaatappeltaart\n|no = Granateplekake\n|ru=Гранатовый торт\n}}\n[[pt-br:Bolo de romã]]\n\n[[Category:Cake Oven Products]]\n[[Category:Wheat Products]]\n[[Category:Egg Products]]\n[[Category:Cream Products]]\n[[Category:Pomegranate Products]]",
   "wikitextHash": "1acf315cf437d9ee40e6ad682bbc09ea3b1a7ea2a3f6188f93a3babe66e2867b"
 }

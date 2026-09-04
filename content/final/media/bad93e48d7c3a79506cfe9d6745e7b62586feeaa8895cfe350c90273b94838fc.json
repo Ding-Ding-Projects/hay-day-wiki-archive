@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Night_at_the_Movies-max.png",
+  "filePageId": 17542,
+  "filePageRevisionId": 79593,
+  "filePageRevisionSha1": "4e486716aa300ba8b4dfd263a1f57ab87b4660f6",
+  "filePageRevisionTimestamp": "2018-04-27T16:23:02Z",
+  "filePageWikitext": "Picture of Night at the Movies when players have watched all available trailers.\n{{License SC}}\n[[Category:Image Daily Reward]]",
+  "filePageWikitextHash": "be3678184f105e5282fe04e129a624b3c0a0ec45bd9c121daecdd17239252654",
   "height": 477,
   "immutableUrl": null,
   "mediaId": "File:Night at the Movies-max.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-12-30T14:33:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANight%20at%20the%20Movies-max.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 112428,
   "sourceSha1": "3a5a35f2229f60bd0c6b0810b264c55842bf4161",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Holiday_Bell.png",
+  "filePageId": 22952,
+  "filePageRevisionId": 77278,
+  "filePageRevisionSha1": "c5fb8dd6a0c69a626d54e98f0e0fb5ee534471a3",
+  "filePageRevisionTimestamp": "2018-02-07T17:49:40Z",
+  "filePageWikitext": "NEW Holiday Bell Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "f676b0421f6ff43788aebe64a75568c60b5021cf44b665c6e217c3db25c8ae9a",
   "height": 317,
   "immutableUrl": null,
   "mediaId": "File:Holiday Bell.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:49:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHoliday%20Bell.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 93015,
   "sourceSha1": "e2ca83dcb0a0b8ec219a4e991083be0527dce654",

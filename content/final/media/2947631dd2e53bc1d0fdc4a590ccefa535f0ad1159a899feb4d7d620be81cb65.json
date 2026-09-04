@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_10.jpg",
+  "filePageId": 13477,
+  "filePageRevisionId": 69420,
+  "filePageRevisionSha1": "76de63d9f9b6b5c2cbbed682f346a5deef20961e",
+  "filePageRevisionTimestamp": "2017-02-06T12:22:36Z",
+  "filePageWikitext": "Picture of Reputation Level 10.\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "1a81cf208d96b4bd2e8542abb378df78f628452115c1e47f26c45656ea06ecc2",
   "height": 1067,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 10.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-10-15T17:33:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2010.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 323990,
   "sourceSha1": "52f4f7325a45f10478f39c8224434d910a137bf2",

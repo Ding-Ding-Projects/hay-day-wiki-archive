@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Doner Kebab Stand Products",
+    "Category:Grilled Lamb Skewer Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Doner Kebab Stand Products",
+      "Category:Grilled Lamb Skewer Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -117,11 +131,12 @@
   "revisionId": 110828,
   "revisionTimestamp": "2026-08-05T09:01:32Z",
   "route": "/wiki/lamb-d%C3%B6ner-wrap-36797",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_D%C3%B6ner_Wrap",
   "title": "Lamb Döner Wrap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lamb Doner Wrap.png|200px|left|Lamb Doner Wrap]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 32\n |price = 1 to 172\n |time = 20 min\n |source = {{Infoicon|donerkebabs|bigger|link=Doner Kebab Stand}}\n |xp = 20\n |base = 48\n |dia = 2\n |time3 = 17 min\n}}\n'''Lamb Doner Wrap''' is a [[products]] unlocked at [[experience]] level 32. \n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Lamb Doner Wrap'''===\n[[File:Doner Kebab Stand.png|150px|left|Doner Kebab Stand]]\nLamb Doner Wrap is made in the [[Doner Kebab Stand]].\n\nTo make the Lamb Doner Wrap, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Grilled Lamb Skewer.png|75px|Grilled Lamb Skewer|link=Grilled Lamb Skewer]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 20 minutes to make one wrap, and 17 minutes in a fully [[Masteries|mastered]] stand. Each wrap gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Lamb Doner Wrap'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lamb Doner Wrap can be bought or sold for a maximum price of 1,728 {{Infoicon|coin}} for 10 wraps.\n* Buying the ingredients required to make the wrap costs 154{{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for ? to ? Lamb Doner Wrap per crate, up to a total of ? per boat.\n\n{{Clr}}----\n----\n{{Navigation}}\n{{Languages\n|de = Lamm-Döner-Wrap\n|es = Kebab de cordero\n|fr = \n|it = \n|nl = \n|no = Dönerwrap med lam\n|ru = Шаурма с ягнятиной\n|zh = \n}}\n[[pt-br:Kebab de cordeiro]]\n\n[[Category:Doner Kebab Stand Products]]\n[[Category:Grilled Lamb Skewer Products]]\n[[Category:Tomato Products]]\n[[Category:Bread Products]]",
   "wikitextHash": "1bc092ac677e437552da478f90d4dab5bfca2bd605797f61b1f2213571dc9b74"
 }

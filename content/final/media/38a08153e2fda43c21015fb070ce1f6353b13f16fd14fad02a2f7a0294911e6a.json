@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pasta_Kitchen_Mastery.png",
+  "filePageId": 24361,
+  "filePageRevisionId": 79932,
+  "filePageRevisionSha1": "fd71d2ba6a944c5c5221b47a6ed0aa4a8ec9ffc7",
+  "filePageRevisionTimestamp": "2018-05-01T17:44:17Z",
+  "filePageWikitext": "Pasta Kitchen Mastery 15%\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "ef28833218f88cbec314258b1de76cfc7023a9b10c4e1fbdbb7e89f04d4024a8",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Pasta Kitchen Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:44:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APasta%20Kitchen%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 63202,
   "sourceSha1": "bd4212906e7fe8c8829dde75bfb1795898015142",

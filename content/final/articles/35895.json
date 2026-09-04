@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Honey Products",
+    "Category:Oats Products",
+    "Category:Peach Products",
+    "Category:Porridge Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Honey Products",
+      "Category:Oats Products",
+      "Category:Peach Products",
+      "Category:Porridge Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -122,11 +136,12 @@
   "revisionId": 110426,
   "revisionTimestamp": "2026-06-06T18:29:09Z",
   "route": "/wiki/sweet-porridge-35895",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sweet_Porridge",
   "title": "Sweet Porridge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sweet Porridge.png|left|184x184px|Sweet Porridge]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 120\n |price = 1 to 460\n |time = 45 min\n |source = {{Infoicon|porridgeb|bigger|link=Porridge Bar}}\n |xp = 55\n |base = 55\n |dia = 3\n |time3 = 38 min\n}}\n'''Sweet Porridge''' is a [[products|product]] unlocked at [[experience]] level 120. It was added in the September 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Sweet Porridge'''===\n[[File:Porridge Bar.png|150px|left|Porridge Bar]]\nSweet Porridge are made in the [[Porridge Bar]].\n\nTo make Sweet Porridge, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Peach.png|75px|Peach|link=Peach]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 45 minutes to make Sweet Porridge, and 38 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 55 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Sweet Porridge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Sweet Porridge can be bought or sold for a maximum price of 4,608 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Sweet Porridge costs 429 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 3 Sweet Porridge per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Süßer Haferbrei\n|es = Gachas dulces\n|it = Porridge dolce\n|nl = Zoete Havermoutpap\n|no = Søt grøt\n|ru = Сладкая каша\n}}\n[[pt-br:Mingau doce]]\n\n[[Category:Porridge Bar Products]]\n[[Category:Peach Products]]\n[[Category:Honey Products]]\n[[Category:Oats Products]]",
   "wikitextHash": "5f63122a71e6b1b75c86325043697fcde3e9a06d0b669f4f5b0b0b949a211b1a"
 }

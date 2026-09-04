@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Tea_Leaf_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98737,
   "revisionTimestamp": "2021-09-07T14:22:27Z",
   "route": "/wiki/category%2Fcategory-tea-leaf-products-35157",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tea_Leaf_Products",
   "title": "Category:Tea Leaf Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Tea Leaf.png|thumb]]\nProducts of [[Tea Leaf]].\n[[Category:Products]]",
   "wikitextHash": "1b2bf4c11b447d2d15850538891c822f41571dc2e865852cff87d81ba016b653"
 }

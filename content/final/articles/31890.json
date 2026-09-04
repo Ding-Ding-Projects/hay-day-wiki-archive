@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -222,11 +230,12 @@
   "revisionId": 109001,
   "revisionTimestamp": "2025-12-21T20:01:01Z",
   "route": "/wiki/zebra-31890",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Zebra",
   "title": "Zebra",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{Infobox\n|rlevel = 3\n|needs = {{Infoicon|wheatb|big|link=Wheat Bundle}}\n|time = every 10 h\n|xp = 25\n|dia = ?\n|title = [[Animals|Animal]]}}[[File:Cowlick Zebra.png|left|200px]]\n'''Zebras''' are [[sanctuary]] [[animals]]. They are unlocked at [[reputation]] level 3.\n\nLike all other sanctuary animals, players can only have four of them, one of each type.\n\n{{Clr}}\n----\n==='''Appearance'''===\nZebras have two different adult appearances: cowlick and mohawk, and two baby appearances: brown and grey.\n<gallery>\nCowlick Zebra.png|Cowlick\nMohawk Zebra.png|Mohawk\nBrown Baby Zebra.png|Brown Baby\nGrey Baby Zebra.png|Grey Baby\n</gallery>\n[[File:Hay Day Update 2019-NEW Sanctuary Animal!! ZEBRAS!!|thumb|298x298px]]\n{{Clr}}\n----\n==='''Unlocking zebras'''===\n[[File:Zebra Puzzles 1.png|thumb|150px|left|Completed Puzzles-Adult]][[File:Zebra Puzzles 2.png|thumb|150px|left|Completed Puzzles-Baby]]\nUnlike other animals, zebras cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n\nOnce players have obtained the first adult zebra, the puzzle for the other adult zebra is unlocked, and so on for baby zebras.\n\n{{Clr}}\n----\n==='''Placing zebras'''===\nPlayers must pick up a zebra house to be able to place the animal in the sanctuary. The house is free and can be obtained from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}.\n\nWhen the second puzzle is completed, players are asked to upgrade the house, which does not cost anything. The same happens when players complete the baby zebras puzzle. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n<gallery hideaddbutton=\"true\">\nZebra House Stage 1.png|Stage 1\nZebra House Stage 3.png|Stage 3\nZebra House Stage 4.png|Stage 4\n</gallery>\n{{Clr}}\n----\n==='''Feeding zebras'''===\n[[File:Wheat_Bundle.png|150px|left]]\nZebras, like other sanctuary animals, can be fed with [[Wheat Bundle|wheat bundles]]. Once zebras have eaten they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal and a chance to get [[supplies]]. They stay asleep otherwise.\n\nZebras which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n\n*Tip: Waking up sanctuary animals one by one instead of using a whistle can increase your chance of getting [[supplies]].\n\n{{Clr}}\n----\n==='''Decorations'''===\nEach zebra unlocks some [[decorations]] in the shop as specified below:\n<gallery>\nKangaroo Grass.png|Kangaroo Grass (Mohawk)\nRed Acacia.png|Red Acacia (Mohawk)\nRed Oats.png|Red Oats (Cowlick)\nStar Grass.png|Star Grass (Cowlick)\nWatering Hole.png|Watering Hole (Brown Baby)\nSavannah Grass.png|Savannah Grass (Brown Baby)\nJoshua Tree.png|Joshua Tree (Grey Baby)\nPineapple Lilies.png|Pineapple Lilies (Grey Baby)\n</gallery>\nWith each animal players are given the first pair of decorations for free. They are unlocked in the Shop when you get the first animal.\n----\n{{Navigation}}\n[[ru:Зебры]]\n{{Languages\n|es = Cebra\n|de = Zebras\n}}\n[[Category:Sanctuary Animals]]",
   "wikitextHash": "0c617ce072fc783a6f490ba28348d2b251eea40c1f79e72f6c23a03e9f65f940"
 }

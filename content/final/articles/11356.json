@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Donkeys",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Donkeys",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -364,6 +374,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -389,6 +400,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -403,11 +415,12 @@
   "revisionId": 108239,
   "revisionTimestamp": "2025-08-09T14:03:26Z",
   "route": "/wiki/andalusian-donkey-11356",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Andalusian_Donkey",
   "title": "Andalusian Donkey",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{note|this page is about the Andalusian donkey, not to be confused with the [[Andalusian Horse|Andalusian horse]].}}\n[[File:Andalusian Donkey.png|200px|left|Andalusian donkey]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 55\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 1 h\n |cost= {{Infoicon|greenv|link=Voucher}}2 {{Infoicon|bluev|link=Voucher}}2 {{Infoicon|purplev|link=Voucher}}20 {{Infoicon|goldv|link=Voucher}}2\n |xp = 30\n |dia = 1,250\n}}\n'''Andalusian donkeys''' are pet [[animals]]. They are unlocked at [[experience]] level 55.\n\nThey give players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n\n----\n==='''Buying'''===\n[[File:Donkey Stable.png|150px|left|Donkey stable]]\nEach donkey costs 2 green [[voucher]]s, 2 blue ones, 20 purple ones, and 2 golden ones, or 1,250 [[diamond]]s. They must be placed near a [[Donkey Stable|donkey stable]] to be bought. Players can have two Andalusian donkeys.\n\nDonkeys and donkey stables can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\n[[File:DonkeyStable2.png|150px|left|Giving carrots]]\nWhen given [[carrot]]s donkeys eat then roam around their stable for one hour and finally fall asleep. Players can immediately wake them up to receive 30 {{Infoicon|xp}} per animal. Donkeys stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking donkeys one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Andalusischer Esel\n|es = Burro andaluz\n|fr = Âne andalou\n|it = Asino dell'Andalusia\n|no = Andalusier-esel\n|ru = Андалузский ослик\n|sv = Andalusisk åsna\n}}\n\n[[Category:Donkeys]]",
   "wikitextHash": "ff4e9094996c6c45dd5f8d0a240b4275841407f1cc711e54ecc2951bf695a77d"
 }

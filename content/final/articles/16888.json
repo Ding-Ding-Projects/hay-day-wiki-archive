@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Net Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Net Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -117,11 +125,12 @@
   "revisionId": 107445,
   "revisionTimestamp": "2025-02-28T09:13:56Z",
   "route": "/wiki/fishing-net-16888",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fishing_Net",
   "title": "Fishing Net",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fishing Net.png|200px|left|Fishing net]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 30\n |time = 4 h\n |source = {{Infoicon|netm|bigger|link=Net Maker}}\n |xp = 7\n |dia = 7\n |time3 = 3 h 24 min\n}}\n'''Fishing nets''' are [[products]] unlocked at [[experience]] level 30.\n\nThey are used to catch [[fish]] that can otherwise be caught with red [[lure]]s.\n\nLike all fishing gear, they are stored in the [[Tackle Box|tackle box]] and cannot be bought or sold.\n\n{{Clr}}----\n==='''Making fishing nets'''===\n[[File:Net Maker.png|150px|left|Net Maker]]\nFishing nets are made in the [[Net Maker]]. Players do not need anything to make them.\n\nIt takes 4 hours to make a net, and 3 hours and 24 minutes in a fully [[Masteries|mastered]] machine. Each net gives players 7 [[experience]] points.\n\n{{Clr}}----\n==='''Using fishing nets'''===\n[[File:Fish Fillet.png|150px|left]]\n[[File:Fishing Net Result.png|150px|left]]\nEach net must occupy a fishing spot for 20 hours. Then, it catches 3 [[Fish Fillet|fish fillets]] at once, the fish can otherwise be caught with red lure. However, the fish caught do not count for [[Fishing Book|fishing book]] rewards since players directly get the fillets. The fishing spot can be reused right away - there's no cooldown time after using a net.\n\n{{Clr}}----\n==='''Strategy'''===\n[[File:FishingMap Names.png|150px|right]]\n*Use nets in fishing spots which require a longer cooldown period (e.g. 4h) because there's no cooldown time after using a net. For fishing spots with shorter cooldown period, use [[lure]]s.\n*Nets are good for inactive users. If you are active, you could catch 10 fish (by using lures) instead of 3 (by using nets) within same period of time.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Fischernetz\n|es = Red de pesca\n|fr = Filet de pêche\n|it = Rete Da Pesca\n|nl = Visnet\n|no = Fiskegarn\n}}\n[[Category:Net Maker Products]]",
   "wikitextHash": "072a52e18864e76296a2433fd338b5fae1464aa77ff45d37ac364f49de0f068e"
 }

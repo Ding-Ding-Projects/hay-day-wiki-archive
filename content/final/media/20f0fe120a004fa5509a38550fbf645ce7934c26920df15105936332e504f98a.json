@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pink_Token.png",
+  "filePageId": 31474,
+  "filePageRevisionId": 86218,
+  "filePageRevisionSha1": "123086eb18842ddf9e3678db9f1542aafc1e0511",
+  "filePageRevisionTimestamp": "2019-06-25T05:58:47Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "315471195f7ddf96341e787205434394acf869c21d73c5d46fb210a94306409a",
   "height": 481,
   "immutableUrl": null,
   "mediaId": "File:Pink Token.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-06-25T05:58:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APink%20Token.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 55145,
   "sourceSha1": "aaaacb277a3b3f91e90f820bb893f91bd9929a62",

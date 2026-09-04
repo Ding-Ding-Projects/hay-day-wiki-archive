@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candy Machine Products",
+    "Category:Strawberry Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candy Machine Products",
+      "Category:Strawberry Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -138,11 +150,12 @@
   "revisionId": 107193,
   "revisionTimestamp": "2025-02-08T19:17:45Z",
   "route": "/wiki/cotton-candy-34965",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cotton_Candy",
   "title": "Cotton Candy",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cotton Candy.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 75\n |price = 1 to 226\n |time = 30 min\n |source = [[File:Candy Machine.png|50px]]\n |xp = 27\n |base = 63\n |dia = 3\n |time3 = 25 min\n}}\n'''Cotton Candy''' (also known as candy floss) is a [[products|product]] unlocked at [[experience]] level 75. It's not used to make any other product.\n\nIt is introduced in [[Version History|28 June 2021 update]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cotton candy'''===\n[[File:Candy Machine.png|thumb|150px|left|link=Candy Machine]]\nCotton candy is made in [[Candy Machine]].\n\nTo make cotton candy, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:White Sugar.png|thumb|75px|White Sugar|link=White Sugar]]\n|[[File:Strawberry.png|thumb|75px|Strawberry|link=Strawberry]]\n|-\n|'''×3'''\n|'''×1'''\n|}\nIt takes 30 minutes to make one cotton candy, and 25 minutes in a fully [[Masteries|mastered]] candy machine. Each cotton candy gives players 27 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling candy floss'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Cotton candy can be bought or sold for a maximum price of 2268 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make 1 cotton candy costs 200 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Producing a cotton candy requires 3 bags of white sugar. Nevertheless, they never be requested to fill carte of boat. Players don't need to produce reservation.\n\n{{Navigation}}\n{{Languages\n|de = Zuckerwatte\n|es = Algodón de azúcar\n|fr = Barbe à Papa\n|it = Zucchero filato\n|nl = Suikerspin\n|no = Sukkerspinn\n|zh = Cotton Candy\n}}\n[[pt-br:Algodão-doce]]\n[[ru:Сахарная вата]]\n\n[[Category:Candy Machine Products]]\n[[Category:White Sugar Products]]\n[[Category:Strawberry Products]]",
   "wikitextHash": "5b71bf3ff8a340589a7bdac4df1e01a779997ae461ded6954d91c1d46eb5986f"
 }

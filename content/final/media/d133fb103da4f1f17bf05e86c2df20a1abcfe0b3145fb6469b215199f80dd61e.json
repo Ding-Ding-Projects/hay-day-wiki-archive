@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Repaired_Dock.jpg",
+  "filePageId": 26200,
+  "filePageRevisionId": 69302,
+  "filePageRevisionSha1": "de9a3e7140dbb813805c4c0d18ff6f5899923eb5",
+  "filePageRevisionTimestamp": "2017-02-05T23:54:36Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Boat]]",
+  "filePageWikitextHash": "6e2cf91028f67aa9860115f609f50957941f8b5c98eb35b9c72fb8aa02072215",
   "height": 767,
   "immutableUrl": null,
   "mediaId": "File:Repaired Dock.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-11-03T21:47:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ARepaired%20Dock.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 137156,
   "sourceSha1": "787ea733ef976c0d5ae5462561f833d8afaf6b94",

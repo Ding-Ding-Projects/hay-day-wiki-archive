@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tom_Balloon.png",
+  "filePageId": 14058,
+  "filePageRevisionId": 69753,
+  "filePageRevisionSha1": "39ebae7b799930f822c6c08cc5a2360d755e0832",
+  "filePageRevisionTimestamp": "2017-02-07T18:36:32Z",
+  "filePageWikitext": "Picture of Tom with a discount balloon.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "014840b67bae8fd9c9a37efc67e3b1e1ce7e76e1babfcf34c814745b39906dab",
   "height": 347,
   "immutableUrl": null,
   "mediaId": "File:Tom Balloon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-06-24T18:21:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATom%20Balloon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 106041,
   "sourceSha1": "65dd2c85bb4101a7d8a42f878b1bb381256481ca",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing",
+    "Category:Needs Update"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing",
+      "Category:Needs Update"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -173,11 +183,12 @@
   "revisionId": 108333,
   "revisionTimestamp": "2025-09-03T15:36:56Z",
   "route": "/wiki/fishing-7449",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fishing",
   "title": "Fishing",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fishing Unlock.jpg|200px|left|Locked fishing feature]]\n'''Fishing''' is a game feature which takes place in the [[Fishing Lake]] once the fishing boat has been repaired. It is unlocked at [[experience]] level 27.\n\nPlayers can catch [[fish]] with [[lure]]s and [[Net Maker|nets]], [[lobster]]s with [[Lobster Trap|lobster traps]], and [[duck]]s with [[Duck Trap|duck traps]].\n\n{{Clr}}----\n==='''Catching fish with lures'''===\n[[File:Lure in water.png|150px|left|Using a lure]]\nPlayers have to play a minigame where they throw the lure into the water, wait for a fish to get hooked, then keep the fish within a circle (called the '''fishing circle''') for a certain time, by moving your finger around to pull the fish around. Should the fish escape the circle and let go of the lure, players may try again with the same lure.\n\n{{Clr}}\n[[File:Cooldown bird.png|150px|left|A spot in cooldown time]]\nOnce a fish is caught the seagull is diving to fishing place and eating all fishes from it and it has to stock upand players must wait before they are able to catch a new fish.\n\n{{Clr}}\nPlayers can only catch one fish per spot. Fish give between 4 and 20 {{Infoicon|xp}} points each.\n\nFishing with lures lets players catch all different types of [[Fish|fish]] and get fishing book rewards (see [[Fishing Book]]).\n----\n==='''Fishing circles'''===\nFish can be caught in circles with specific sizes: small, event, medium and large. Each type of fish can only be caught in one type of circle. See [[fish]] for more details.  Compared to the small circle, the event circle is 20% larger in diameter, the medium circle is 50% larger in diameter, and the large circle is 100% larger in diameter.\n\n<gallery>\nFile:Fish circles.png\n</gallery>{{Clr}}----\n==='''Catching fish with nets'''===\n[[File:Net in water.png|150px|left|A net]]\nPlayers drop the net into the water and automatically catch three fish after 20 hours. The three fish give players 7 {{Infoicon|xp}} points. There is no cooldown time after using the net.\n\n{{Clr}}\n[[File:Net_with_fish.png||150px|left|Fish in a net]]\nFishing with nets lets players catch 'red' fish only (i.e. the three species of fish one can be caught with red lures). Moreover, they do not count for fishing book rewards or towards fishing tasks in [[Derby|derbies]].\n\n{{Clr}}\nPlayers can also use [[Mystery Net|mystery nets]] to try and catch rarer items, such as expansion items, instead or in addition to fish.\n----\n==='''Catching lobsters and ducks'''===\n[[File:Lobster_Trap_Full.png|left|150px|Lobster caught in a trap]]\n[[File:Duck_Trapped.png|left|150px|Duck caught in a trap]]\n{{Main|Lobster Trap}}\n{{Main|Duck Trap}}\n[[Lobster]]s and [[duck]]s are caught with traps made in the [[Net Maker]]. Each trap can catch one animal and each animal is automatically caught after several hours (6 for lobsters and 3 for ducks). There are no [[Fishing Book|fishing book]] rewards for catching lobsters or ducks.\n\n{{Clr}}----\n=== '''Fishing spots'''===\n[[File:Fishing Spot Locked.png|left|150px|A fishing spot]]\n{{Main|Expansion}}\nThe lake contains fifteen spots delimited by vegetation or rocks. When players unlock the fishing feature only two spots are unlocked. Unlocking the other spots requires [[Supplies|expansion supplies]].\n\n{{Clr}}----\n==='''Fishing packs'''===\n[[File:Fishing Pack.png|left|150px|A fishing pack]]\nFishing packs are one-time limited offers for a bundle of expansion items, lures, diamonds and coins. The number of items the pack offers can vary. The offer lasts for 24 hours.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* You can catch [[fish]] with [[Lure|lures]] even if your [[barn]] is full or over-full, but not with [[Fishing Net|fishing nets]].\n* You should try to open all 15 fishing areas before you have access to your Town at Experience Level 34.  Not only will you earn diamonds as you add fish to your Fishing Book, but Town Visitors will require plenty of Fishing products as will various Derby tasks.  This strategy will set you up nicely or the later stages of the game.\n----\n==='''Easter eggs'''===\n* During Halloween a ghost can occasionally be spotted over the lake. Tapping on it will give players random items. See [[Mystery Box]] for details.\n* During Winter, present boxes can occasionally be spotted over the lake. Tapping on them will give players random items. See [[Mystery Box]] for details.\n* Firework barrels replace presents during New Year's and Chinese New Year's. See [[Mystery Box]] for details.\n----\n==='''Cooldown time table'''===\nSee the map and table below for the exact number needed for each spot.\n[[File:FishingMap Names.png|500px|center]]\n\n{{Clr}}\n{| cellpadding=\"5\" cellspacing=\"1\" style=\"background: #ddd; border: 1px solid #ccc; border-collapse: collapse; max-width: 65%; margin: 1em auto;\"\n|-\n|Spot #1||2 h / 5 {{Infoicon|dia}}\n|-\n|Spot #2||3 h / 6 {{Infoicon|dia}}\n|-\n|Spot #3||3 h / 6 {{Infoicon|dia}}\n|-\n|Spot #4||2 h 30 min / 6 {{Infoicon|dia}}\n|-\n|Spot #5||4 h / 7 {{Infoicon|dia}}\n|-\n|Spot #6||4 h / 7 {{Infoicon|dia}}\n|-\n|Spot #7||2 h / 5 {{Infoicon|dia}}\n|-\n|Spot #8||2 h 30 min / 6 {{Infoicon|dia}}\n|-\n|Spot #9||3 h / 6 {{Infoicon|dia}}\n|-\n|Spot #10||2 h 30 min / 6 {{Infoicon|dia}}\n|-\n|Spot #11||4 h / 7 {{Infoicon|dia}}\n|-\n|Spot #12||2 h / 5 {{Infoicon|dia}}\n|-\n|Spot #13||3 h / 6 {{Infoicon|dia}}\n|-\n|Spot #14||3 h / 6 {{Infoicon|dia}}\n|-\n|Spot #15||3 h / 6 {{Infoicon|dia}}\n|}\n----\n{{Navigation}}\n\n{{Languages\n|de = Angeln\n|es = Pesca\n|fr = La Pêcherie\n|it = Area_Di_Pesca\n|no = Fisking\n}}\n[[Category:Fishing]]\n[[Category:Needs Update]]",
   "wikitextHash": "5bd31e4dbeef287be5388d8d243107e5d9f5d9d8ac9ffe40468debc88b4cbd98"
 }

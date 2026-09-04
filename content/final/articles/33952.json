@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -341,11 +349,12 @@
   "revisionId": 110198,
   "revisionTimestamp": "2026-05-23T21:49:30Z",
   "route": "/wiki/deep-fryer-33952",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Deep_Fryer",
   "title": "Deep Fryer",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Deep Fryer.png|200px|left|Deep Fryer]]\n\n{{Infobox\n |level = 87|price = 900,000|time = 3 d 23 h|xp = 44|slots = 2|size = 2×2|dia = 89|title = [[Production Buildings|Machine]]}}\nThe '''Deep Fryer''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 87.\n\nIt is used to make [[Bacon Fries|bacon fries]], [[Hand Pies|hand pies]],[[Chili Poppers|chili poppers]], [[falafel]], [[Fried Candy Bar|fried candy bars]] and [[samosa]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 900,000 {{Infoicon|coin}} and takes 3 days and 23 hours or 89 {{Infoicon|dia}} to build the Deep Fryer. It gives players 44 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Bacon Fries|87|25m|302\n|Hand Pies|91|20m|295\n|Chili Poppers|98|40m|406\n|Falafel|98|55m/3|226\n|Fried Candy Bar|100|15m|658/87\n|Samosa|103|1:15|223\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Deep Fryer originally has 2 slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,440 hours of production is required to [[Masteries|master]] the Deep Fryer:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Deep Fryer Mastered.png|150px|Mastered Deep Fryer]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />90 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />270 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,080 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px]]\n|style=\"border: 1px solid #bbb;\"|[[File:Deep_Fryer_Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"?% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n\n* Used to be on the same level as the [[Fondue Pot]] machine in term of mastering, the introduction of [[Chickpea]] and its product from this machine, the [[Falafel]] and [[Samosa]] have trivialize the process.\n\n----\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Fritteuse\n|es = Freiduría\n|fr = Friteuse\n|it = Friggitoria\n|no = Frityrkoker\n|ru = Фритюрница\n}}\n[[pt-br:Fritadeira]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "035237efb7ba450027d5f56190bdf3c6256f47bd86db1c491fa5e83a0cac1bc8"
 }

@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Black Bean Products",
+    "Category:Taco Kitchen Products",
+    "Category:Taco Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Black Bean Products",
+      "Category:Taco Kitchen Products",
+      "Category:Taco Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +127,12 @@
   "revisionId": 110124,
   "revisionTimestamp": "2026-05-19T21:11:54Z",
   "route": "/wiki/spicy-bean-taco-36497",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Spicy_Bean_Taco",
   "title": "Spicy Bean Taco",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Spicy Bean Taco.png|200px|left|Spicy Bean Taco]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 77\n |price = 1 to 453\n |time = 2 h\n |source = {{Infoicon|tacok|bigger|link=Taco Kitchen}}\n |xp = 54\n |base = 126\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Spicy Bean Tacos''' are [[products]] unlocked at [[experience]] level 77. It added in January 2026 Update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Spicy Bean Tacos'''===\n[[File:Taco Kitchen.png|150px|left|Taco Kitchen]]\nSpicy Bean Tacos are made in the [[Taco Kitchen]].\n\nTo make Spicy Bean Tacos, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Taco.png|75px|link=Taco|Taco]]\n|[[File:Black Bean.png|75px|link=Black Bean|Black Bean]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 2 hours to make nachos, and 1 hour 42 minutes in a fully [[Masteries|mastered]] kitchen. Each serving gives players 54 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Spicy Bean Taco'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Spicy Bean Taco can be bought or sold for a maximum price of 4,536 {{Infoicon|coin}} for 10 tacos.\n* Buying the ingredients required to make Spicy Bean Taco costs 345 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to ? spicy bean tacos per crate, up to a total of ?? per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Scharfer Bohnentaco\n|es = Taco de frijoles picante\n|fr = \n|it = Taco con fagioli piccanti\n|nl = \n|no = Krydret bønnetaco\n|ru = Острое тако с бобами\n|zh = \n}}\n[[pt-br:Taco de feijão picante]]\n\n[[Category:Taco Kitchen Products]]\n[[Category:Black Bean Products]]\n[[Category:Taco Products]]",
   "wikitextHash": "a340eb6a1b05b3b15c47048f09eb514ef1b02ddbb35f8857ed8ab1769e990962"
 }

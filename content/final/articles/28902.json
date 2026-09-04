@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Experience_Levels?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 75688,
   "revisionTimestamp": "2017-11-26T17:30:38Z",
   "route": "/wiki/category%2Fcategory-image-experience-levels-28902",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Experience_Levels",
   "title": "Category:Image Experience Levels",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[experience]] levels.\n[[Category:Images]]",
   "wikitextHash": "b6932e1a209d1b84b223bdea1d8de77e8b4906db1f8a22eb3815999e933f7cd6"
 }

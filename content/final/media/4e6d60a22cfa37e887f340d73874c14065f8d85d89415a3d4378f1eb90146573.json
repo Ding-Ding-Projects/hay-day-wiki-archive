@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Raven.png",
+  "filePageId": 7168,
+  "filePageRevisionId": 88949,
+  "filePageRevisionSha1": "b25cb0bf6522991bb19a43829fa7b5d8ad480ac9",
+  "filePageRevisionTimestamp": "2019-10-25T19:53:44Z",
+  "filePageWikitext": "Picture of the raven.\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "b34263d21a90174a033c83681c39fc8e6b036bd01f7ca88863e3d818008f5e2c",
+  "height": 175,
+  "immutableUrl": null,
+  "mediaId": "File:Raven.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-25T19:53:44Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ARaven.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 33700,
+  "sourceSha1": "40fd62637ada75a011725db9bf69741684de5647",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/66/Raven.png/revision/latest?cb=20191025195344",
+  "title": "File:Raven.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 175
+}

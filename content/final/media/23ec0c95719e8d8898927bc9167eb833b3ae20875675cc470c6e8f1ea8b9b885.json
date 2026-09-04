@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:New.png",
+  "filePageId": 18434,
+  "filePageRevisionId": 75982,
+  "filePageRevisionSha1": "577d9f601f601c8a054252715336d1f8d9d91295",
+  "filePageRevisionTimestamp": "2017-12-16T15:20:17Z",
+  "filePageWikitext": "{{CC-BY-SA}}\n\nThe ''Lobster'' font used in this image is under the SIL Open Font License.\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "b51b0b9a4acf977068beab6c0a697ec197e8a04ddab05bcfff18aa2059943dea",
   "height": 375,
   "immutableUrl": null,
   "mediaId": "File:New.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 21,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-12-16T15:20:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3ANew.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 28013,
   "sourceSha1": "fb3f0b398b87500aed5dd813f26ffc51bbf45125",

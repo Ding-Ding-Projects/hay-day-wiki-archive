@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +179,12 @@
   "revisionId": 110490,
   "revisionTimestamp": "2026-06-08T20:02:17Z",
   "route": "/wiki/pig-pen-2719",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pig_Pen",
   "title": "Pig Pen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pig Pen.png|200px|left|Pig pen]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 10 • 18 • 32\n |price = 150\n |houses = {{Infoicon|pig|big|link=Pig}} x5\n}}\n'''Pig pens''' are shelters for [[pig]]s. The first pen is unlocked at [[experience]] level 10.\n{{Clr}}\n----\n==='''Appearance'''===\nThe pen is a fenced square, on muddy ground, along with a manger. However, pigs are fed individually with [[Pig Feed|pig feed]] and do not use the manger.\n----\n==='''Building'''===\nEach pen costs 150 {{Infoicon|coin}} and can hold up to five pigs. The second pen is unlocked at level 18, and the last one at level 32. Building them takes no time.\n----\n==='''Strategy tips'''===\n* If you have some object obscuring your view of the pigs tap on the pen. If the harvest or feed icon are in color then you can harvest or feed at least one pig.\n----\n{{Navigation}}\n{{Languages\n|de = Schweinestall\n|es = Corral de cerdos\n|fr = Enclos à cochons\n|it = Cibo per maiali\n|no = Grisehegn\n}}\n[[pt-br:Chiqueiro]]\n\n[[Category:Animal Shelters]]",
   "wikitextHash": "d92ae8529ca230a39d0245c622984a02c95a0b0cc802fcbdfc253e588c407cd6"
 }

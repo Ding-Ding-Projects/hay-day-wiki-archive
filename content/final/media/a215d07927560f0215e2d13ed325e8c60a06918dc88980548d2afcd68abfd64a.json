@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:20201214Update.png",
+  "filePageId": 34712,
+  "filePageRevisionId": 98148,
+  "filePageRevisionSha1": "a014ec9a517a5b65d6c02b017899072d6df231e5",
+  "filePageRevisionTimestamp": "2021-07-15T21:24:10Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Fairuse}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "ddf6c674a73b71a807da7c721fa420271cada952acb7f5925f5a644121beb9c5",
   "height": 800,
   "immutableUrl": null,
   "mediaId": "File:20201214Update.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-12-16T09:35:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Fairuse"
+    ],
+    "verdict": "fair-use"
+  },
   "route": "/media/File%3A20201214Update.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 816098,
   "sourceSha1": "7311acad739d3dc843c168271d1102237cc05a05",

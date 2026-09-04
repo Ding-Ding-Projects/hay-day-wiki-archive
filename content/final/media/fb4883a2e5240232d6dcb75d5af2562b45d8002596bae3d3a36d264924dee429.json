@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Wok_Kitchen_Mastered.png",
+  "filePageId": 34101,
+  "filePageRevisionId": 108621,
+  "filePageRevisionSha1": "a2a645aaa3367fb147a2c6ee15eff49b7aebe2ae",
+  "filePageRevisionTimestamp": "2025-09-25T22:15:06Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "bc221a3a0d3b5d828bce1666a9f007ba744061ecaa5a20cf26a4811474b5909c",
   "height": 439,
   "immutableUrl": null,
   "mediaId": "File:Wok Kitchen Mastered.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-25T22:15:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWok%20Kitchen%20Mastered.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 202048,
   "sourceSha1": "f7609edf9daae97c4c31eb757b62e0358421feb9",

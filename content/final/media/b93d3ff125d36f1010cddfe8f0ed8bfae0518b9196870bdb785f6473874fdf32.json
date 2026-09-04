@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chinese_Fence.png",
+  "filePageId": 26864,
+  "filePageRevisionId": 84920,
+  "filePageRevisionSha1": "c7eba29ee4f3c7b2db2b3eddba8220c7ecdcce9a",
+  "filePageRevisionTimestamp": "2019-02-06T18:34:50Z",
+  "filePageWikitext": "Chinese New Year - Special Package 1 (130 dia.) $4.99 You get 5 Chinese Fence Pieces.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "bb0116dff3d7691a5960960a3bcb87a8c1e8947120a9256cc606372ae6402ed3",
   "height": 533,
   "immutableUrl": null,
   "mediaId": "File:Chinese Fence.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-02-06T18:34:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChinese%20Fence.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 130102,
   "sourceSha1": "b18f641be4ae995c67267e940839b122385e14ec",

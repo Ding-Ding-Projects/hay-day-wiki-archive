@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pedestal_Level_5_Pedestal_Floral_Pink_Daisies_Pink_Floral_Golden_Daisies_Orange_Monkey_Brown.png",
+  "filePageId": 34398,
+  "filePageRevisionId": 99805,
+  "filePageRevisionSha1": "2de7dbb4debf4bbfbba81c402645e9a0884249da",
+  "filePageRevisionTimestamp": "2021-12-13T21:17:16Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3741dc15c451538ace917cb99615fd9baec910d414e67b60699a781f633f0a53",
   "height": 336,
   "immutableUrl": null,
   "mediaId": "File:Pedestal Level 5 Pedestal Floral Pink Daisies Pink Floral Golden Daisies Orange Monkey Brown.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-08-24T18:39:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APedestal%20Level%205%20Pedestal%20Floral%20Pink%20Daisies%20Pink%20Floral%20Golden%20Daisies%20Orange%20Monkey%20Brown.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 94547,
   "sourceSha1": "a812af745453da73decc07160652e0378ed5793e",

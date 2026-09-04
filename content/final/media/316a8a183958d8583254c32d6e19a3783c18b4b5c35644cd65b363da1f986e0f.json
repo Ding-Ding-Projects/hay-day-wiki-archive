@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Leafy_Plant.png",
+  "filePageId": 15069,
+  "filePageRevisionId": 77370,
+  "filePageRevisionSha1": "c8a072779ac000f635ab50783c9cb9f8adb09703",
+  "filePageRevisionTimestamp": "2018-02-07T19:18:13Z",
+  "filePageWikitext": "Picture of Leafy Plant.\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "8a341a9e31e0dbc9ccd11dc35059fd045af7d725326c4b904b20cf1f1e75a681",
   "height": 818,
   "immutableUrl": null,
   "mediaId": "File:Leafy Plant.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T19:18:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALeafy%20Plant.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 477024,
   "sourceSha1": "0d738d38bd61b6419425bf7fe77d7a6d2367c0b6",

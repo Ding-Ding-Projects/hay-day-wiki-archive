@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Booster.jpg",
+  "filePageId": 28533,
+  "filePageRevisionId": 73759,
+  "filePageRevisionSha1": "4e6ca4b6f4490349bb251622b72386ad9c4c8744",
+  "filePageRevisionTimestamp": "2017-10-19T17:25:51Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Boosters]]",
+  "filePageWikitextHash": "8fb7816a4d36fd17b5dfa98dd1c6b96b44231e491e6e0b0106dbc672d49ce737",
   "height": 311,
   "immutableUrl": null,
   "mediaId": "File:Golden Booster.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-19T09:15:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGolden%20Booster.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 27637,
   "sourceSha1": "32a25d0671090ab0531e1fc887dbff7a212c730f",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Deep_Fryer_Mastery_1.png",
+  "filePageId": 34432,
+  "filePageRevisionId": 99908,
+  "filePageRevisionSha1": "c27b60ba9d962843f6bc75408bca3367290a4059",
+  "filePageRevisionTimestamp": "2021-12-25T19:25:35Z",
+  "filePageWikitext": "{{Delete}}\n\nDUPLICATE: Use File:Deep Fryer Mastery.png",
+  "filePageWikitextHash": "fb5ac4dc115e3a7c9518916e512a10a15c8c059411c42900b6168c298a4f7e2f",
+  "height": 157,
+  "immutableUrl": null,
+  "mediaId": "File:Deep Fryer Mastery 1.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-28T14:06:49Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ADeep%20Fryer%20Mastery%201.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 182602,
+  "sourceSha1": "0f2392ad04ff8a12300c4859f4c321f6e4de02ee",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/9/9f/Deep_Fryer_Mastery_1.png/revision/latest?cb=20200828140649",
+  "title": "File:Deep Fryer Mastery 1.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 261
+}

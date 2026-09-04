@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_195.png",
+  "filePageId": 34817,
+  "filePageRevisionId": 98240,
+  "filePageRevisionSha1": "9560b4be36b90ce080c66ad9b89d90dfa3aaa756",
+  "filePageRevisionTimestamp": "2021-07-15T22:07:37Z",
+  "filePageWikitext": "== Summary ==\nLevel 195 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "ca987d42456a358223822c6695afd15ae850a02d3394aea9e87c7f4df02ff6ee",
   "height": 358,
   "immutableUrl": null,
   "mediaId": "File:Level 195.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-02T13:30:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20195.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 618868,
   "sourceSha1": "863b4267750166d81744ad04b037f282298751f7",

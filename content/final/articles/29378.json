@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Customization?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78366,
   "revisionTimestamp": "2018-04-13T17:30:48Z",
   "route": "/wiki/category%2Fcategory-image-customization-29378",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Customization",
   "title": "Category:Image Customization",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[customization]].\n[[Category:Images]]",
   "wikitextHash": "41f656d20d137a99637ad67011db91aa58abd1efffa003d57d59cfbec821a532"
 }

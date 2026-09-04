@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lobster Tail Products",
+    "Category:Rice Products",
+    "Category:Soy Sauce Products",
+    "Category:Sushi Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lobster Tail Products",
+      "Category:Rice Products",
+      "Category:Soy Sauce Products",
+      "Category:Sushi Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -132,11 +146,12 @@
   "revisionId": 107221,
   "revisionTimestamp": "2025-02-09T18:46:53Z",
   "route": "/wiki/lobster-sushi-8917",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster_Sushi",
   "title": "Lobster Sushi",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster Sushi.png|200px|left|Lobster sushi]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 59\n |price = 1 to 637\n |time = 1 h\n |source = {{Infoicon|sushib|bigger|link=Sushi Bar}}\n |xp = 76\n |base = 177\n |dia = 4\n |time3 = 51 min\n}}\n'''Lobster sushi''' are [[products]] unlocked at [[experience]] level 59.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making lobster sushi'''===\n[[File:Sushi Bar.png|150px|left|Sushi Bar]]\nLobster sushi are made in the [[Sushi Bar]].\n\nTo make a sushi, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lobster Tail.png|75px|link=Lobster Tail|Lobster tail]]\n|[[File:Rice.png|75px|link=Rice|Rice]]\n|[[File:Soy Sauce.png|75px|link=Soy Sauce|Soy sauce]]\n|-\n|'''x1'''\n|'''x15'''\n|'''x1'''\n|}\nIt takes 1 hour to make a sushi, and 51 minutes in a fully [[Masteries|mastered]] bar. Each sushi gives players 76 [[experience]] points.\n\n{{Clr}}----\n==='''Selling lobster sushi'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* They can be bought or sold for a maximum price of 6,372 {{Infoicon|coin}} for ten pieces.\n* Buying the ingredients required to make a sushi costs 625 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 sushi per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Making [[Soy Sauce|soy sauce]] takes much longer than making sushi does: 3 hours or 2 hours and 33 minutes in a mastered saucer.\n----\n\n{{Navigation}}\n{{Languages\n|de = Hummersushi\n|es = Sushi de langosta\n|fr = Sushi au Homard\n|it = Sushi di aragosta\n|nl = Sushi met Kreeft\n|no = Hummersushi\n|vi = Sushi Tôm hùm\n|zh = Lobster Sushi\n}}\n[[pt-br:Sushi de lagosta]]\n[[ru:Суши с раком]]\n\n[[Category:Sushi Bar Products]]\n[[Category:Lobster Tail Products]]\n[[Category:Soy Sauce Products]]\n[[Category:Rice Products]]",
   "wikitextHash": "b58a38eb283d9948adaf8f5aa87b796885e003c15d5526e601f0d0ff2769ee44"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Guava Products",
+    "Category:Ice Cream Maker Products",
+    "Category:Mango Products",
+    "Category:Passion Fruit Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Guava Products",
+      "Category:Ice Cream Maker Products",
+      "Category:Mango Products",
+      "Category:Passion Fruit Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -181,11 +197,12 @@
   "revisionId": 109796,
   "revisionTimestamp": "2026-05-04T20:15:21Z",
   "route": "/wiki/fruit-sorbet-35654",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fruit_Sorbet",
   "title": "Fruit Sorbet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fruit Sorbet.png|200px|left|Fruit sorbet]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 106\n |price = 1 to 518\n |time = 1 h\n |source = {{Infoicon|icecreamm|bigger|link=Ice Cream Maker}}\n |xp = 62\n |base = 144\n |dia = 4\n |time3 = 51 min\n}}\n'''Fruit sorbet''' is a [[Products|product]] unlocked at [[experience]] level 106.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fruit sorbet'''===\n[[File:Ice Cream Maker.png|150px|left|Ice Cream Maker]]\nFruit sorbet is made in the [[Ice Cream Maker]].\n\nTo make the sorbet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Guava.png|75px|Guava|link=Guava]]\n|[[File:Passion Fruit.png|75px|Passion fruit|link=Passion Fruit]]\n|[[File:Mango.png|75px|Mango|link=Mango]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|'''x3'''\n|}\nIt takes 1 hour to make one bowl of sorbet, and 51 minutes in a fully [[Masteries|mastered]] maker. Each bowl gives players ?? [[experience]] points.\n\n{{Clr}}----\n==='''Selling fruit sorbet'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Fruit sorbet can be bought or sold for a maximum price of 5184 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make fruit sorbet costs 379 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 fruit sorbet per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Strategy'''===\n* Making Fruit Sorbet will earn you 164 {{Infoicon|Coin}} per hour, far outpacing the next most profitable product in the Ice Cream Maker, the [[Coconut Ice Cream|coconut ice cream]] at just 70 {{Infoicon|Coin}} per hour.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Fruchtsorbet\n|es = Sorbete de fruta\n|it = Gelato alla frutta\n|nl = Vruchtensorbet\n|no = Fruktsorbet\n|ru = Шербет\n}}\n[[pt-br:Sorvete de fruta]]\n\n[[Category:Ice Cream Maker Products]]\n[[Category:Guava Products]]\n[[Category:Passion Fruit Products]]\n[[Category:Mango Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "53c36bdf4bd560814997f50713166f7dbad268c447e1380dcb1ee03f9a2707ca"
 }

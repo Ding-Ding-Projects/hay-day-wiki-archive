@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Task_Log_Personal.png",
+  "filePageId": 22085,
+  "filePageRevisionId": 74395,
+  "filePageRevisionSha1": "035480a7445ec53c7e39776a6047cda2270f3cdb",
+  "filePageRevisionTimestamp": "2017-10-22T15:48:53Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "d748309cb5a53ea1d3e659f6701f8926947b47684a36595f58acaa167e9194b9",
   "height": 1000,
   "immutableUrl": null,
   "mediaId": "File:Derby Task Log Personal.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-18T18:13:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADerby%20Task%20Log%20Personal.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 495210,
   "sourceSha1": "cdde9f7fc04f2a99b1644bb71c9591394e0b65c9",

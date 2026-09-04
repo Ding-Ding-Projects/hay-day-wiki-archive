@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Probabilities_Icon.png",
+  "filePageId": 29581,
+  "filePageRevisionId": 79562,
+  "filePageRevisionSha1": "fde12e0d485274170c29b00e53b203a157c217cb",
+  "filePageRevisionTimestamp": "2018-04-27T15:32:08Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "c0f938f6f0d9242410790ca941e5070709622b21a22ebca8a1cfdaba5ce7522f",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Probabilities Icon.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-27T15:31:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AProbabilities%20Icon.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 43228,
   "sourceSha1": "92f21e43045a7f5aa96228636a9a32eb44f0e385",

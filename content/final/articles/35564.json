@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Pages with broken file links",
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Pages with broken file links",
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -219,11 +231,12 @@
   "revisionId": 110856,
   "revisionTimestamp": "2026-08-08T12:42:46Z",
   "route": "/wiki/ostrich-35564",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Ostrich",
   "title": "Ostrich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Gray Ostrich.png|200px|left|Ostrich|link=Special:FilePath/Gray Ostrich.png]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |rlevel = 3\n |needs = {{Infoicon|wheatb|big|link=Wheat Bundle}}\n |time = every 10 h\n |xp = 25\n |dia = ?\n}}\n\n'''Ostriches''' are [[sanctuary]] and pet [[animals]]. They are unlocked at [[reputation]] level 3.\n\nLike all other sanctuary animals, players can only have four of them, one of each type.\n{{Clr}}\n----\n==='''Appearance'''===\nOstriches have two different appearances: gray and brown.\n\n<gallery>\nGray Ostrich.png|Gray\nBrown Ostrich.png|Brown\nGray Ostrich Chick.png|Gray chick\nBrown Ostrich Chick.png|Brown chick\n</gallery>\n{{Clr}}\n----\n==='''Unlocking ostriches'''===\n[[File:Ostrich Puzzles.png|150px|left|Completed Puzzles-Adult]][[File:Ostrich Chick Puzzles.png|150px|left|Completed Puzzles-Chick]]\nUnlike other animals, ostriches cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n\nOnce players have obtained a first ostrich, the puzzle for the second ostrich is unlocked. After both adult ostriches have been added to the sanctuary, the puzzle for one of the chicks is unlocked.\n{{Clr}}\n----\n==='''Placing ostriches'''===\nPlayers must have an ostrich house to be able to place the animal in the sanctuary. The ostrich house is free and can be obtained from the [[Shop]] {{Infoicon|shop|bigger|link=Shop}}.\n\nWhen a second ostrich is added to the sanctuary, an upgraded ostrich house is obtained from the Shop. Upgrading does not cost anything. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n\n<gallery hideaddbutton=\"true\">\nOstrich Nest Stage 1.png|Stage 1\nOstrich Nest Stage 2.png|Stage 2\nOstrich Nest Stage 3.png|Stage 3\nOstrich Nest Stage 4.png|Stage 4\n</gallery>\n{{Clr}}\n----\n==='''Feeding ostrich'''===\n[[File:Wheat Bundle.png|150px|left|Wheat bundle]]\nOstriches are fed with [[Wheat Bundle|wheat bundles]]. Once ostriches have eaten eat they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal and a chance to get [[supplies]]. Ostriches stay asleep otherwise.\n\nOstriches which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n*Tip: Waking up sanctuary animals one by one instead of using a whistle may increase your chance of getting [[supplies]].\n{{Clr}}\n----\n==='''Decorations'''===\nEach ostrich unlocks some [[decorations]] in the shop as specified below:\n<gallery>\nEspeletia.png|Espeletia (Gray)\nBanana Plant.png|Banana Plant (Brown)\nEuphorbia Trigona.png|Euphorbia Trigona (Gray chick)\nSicklebush.png|Sicklebush (Brown chick)\n</gallery>\nWith each animal players are given the first pair of decorations for free.\n----\n{{Navigation}}\n[[ru:Страусы]]\n{{Languages\n|es = Avestruz\n}}\n\n[[Category:Sanctuary Animals]]",
   "wikitextHash": "b10763e9af30d06067ac0433369aca77ec88aa293998c28b7050dec44c9bee7c"
 }

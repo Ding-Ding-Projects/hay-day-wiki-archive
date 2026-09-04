@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Game_Soundtrack_Fishing_Lake.ogg",
+  "filePageId": 31818,
+  "filePageRevisionId": 89119,
+  "filePageRevisionSha1": "b29e8332e6ddcba44e8243a9a7e4eaef4d6ee278",
+  "filePageRevisionTimestamp": "2019-10-27T14:50:48Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Audio]]",
+  "filePageWikitextHash": "8bbaa49c0b2bce73b72457946ad712f30f0f7b3e82cb595cac8f9a0f1698d851",
   "height": 0,
   "immutableUrl": null,
   "mediaId": "File:Game Soundtrack Fishing Lake.ogg",
   "mediaType": "AUDIO",
   "mime": "application/ogg",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-09-21T10:10:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGame%20Soundtrack%20Fishing%20Lake.ogg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 831561,
   "sourceSha1": "1ec8bf31bed9b18c37b83f53b6ae6f3b996ad846",

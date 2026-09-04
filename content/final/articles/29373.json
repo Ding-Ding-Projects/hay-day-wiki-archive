@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Fish Fillet Products",
+    "Category:Lettuce Products",
+    "Category:Rice Products",
+    "Category:Sushi Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Fish Fillet Products",
+      "Category:Lettuce Products",
+      "Category:Rice Products",
+      "Category:Sushi Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +153,12 @@
   "revisionId": 107783,
   "revisionTimestamp": "2025-04-13T21:18:31Z",
   "route": "/wiki/big-sushi-roll-29373",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Big_Sushi_Roll",
   "title": "Big Sushi Roll",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Big Sushi Roll.png|200px|left|Big sushi roll]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 76\n |price = 1 to 648\n |time = 1 h 30 min\n |xp = 77\n |source ={{Infoicon|sushib|bigger|link=Sushi Bar}}\n |base = 180\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Big sushi rolls''' are [[products]] unlocked at [[experience]] level 76.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making big sushi rolls'''===\n[[File:Sushi Bar.png|150px|left|Sushi Bar]]\nBig sushi rolls are made in the [[Sushi Bar]].\n\nTo make a roll, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Fillet.png|75px|link=Fish Fillet|Fish fillet]]\n|[[File:Rice.png|75px|link=Rice|Rice]]\n|[[File:Egg.png|75px|link=Egg|Egg]]\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|-\n|'''x1'''\n|'''x20'''\n|'''x3'''\n|'''x5'''\n|}\nIt takes 1 hour and 30 minutes to make a roll, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] bar. Each roll gives players 77 [[experience]] points.\n\n{{Clr}}----\n==='''Selling big sushi rolls'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Big sushi rolls can be bought or sold for a maximum price of 6,480 {{Infoicon|coin}} for ten rolls.\n* Buying the ingredients required to make a roll costs 628 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 roll per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* It is a good idea to keep an eye on the number of rice AND lettuce you have. Make sure you do not run out of either! \n----\n\n{{Navigation}}\n{{Languages\n|de = Große Sushirolle\n|es = Maki grande\n|fr = Maki XXL\n|it = Involtino di sushi gigante\n|nl = Grote Sushirol\n|no = Stor sushirull\n|ru = Большой ролл\n|zh = Big Sushi Roll\n}}\n[[pt-br:Futomaki]]\n\n[[Category:Sushi Bar Products]]\n[[Category:Egg Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Rice Products]]\n[[Category:Lettuce Products]]",
   "wikitextHash": "ccdf841c2fa3527443dfb3d28378549a8351f4aa576a78f72e8878446fcfd3b8"
 }

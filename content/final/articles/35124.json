@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98625,
   "revisionTimestamp": "2021-09-06T22:35:11Z",
   "route": "/wiki/category%2Fcategory-raspberry-jam-products-35124",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Raspberry_Jam_Products",
   "title": "Category:Raspberry Jam Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Raspberry Jam.png|thumb]]\nProducts of [[Raspberry Jam]].\n[[Category:Products]]",
   "wikitextHash": "6d7ddf25a266a59e0f0552aeb61a7e8f5eb10a6760ba5571c3b57a1f38cde8d9"
 }

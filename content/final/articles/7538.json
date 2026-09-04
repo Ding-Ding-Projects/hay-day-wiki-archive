@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -200,11 +208,12 @@
   "revisionId": 110740,
   "revisionTimestamp": "2026-07-13T11:45:02Z",
   "route": "/wiki/greg-7538",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Greg",
   "title": "Greg",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Greg.png|thumb]]\n'''Greg '''is a [[:Category:Characters|non-player character]] (NPC) who starts out as the player's first [[Friends|friend]] and is also a regular [[Visitors|visitor]]. Greg is unlocked at level 5.\n\nFrom level 25 onwards, Greg can offer his services as a lumberjack.\n\nDespite him being the player's friend, he never needs any help. However, he occasionally buys items from the player's own Roadside shop when they have remained unsold for quite a while.\n\n==='''Greg's farm'''===\n[[File:Gregs Farm.png|left|200px]] \nGreg's [[farm]] showcases every [[Production Buildings|production building]], [[Animals|animal]], [[decorations|decoration]] and [[:Category:Game Features|game feature]] available in this area although none of the machines are working. The farm changes in appearance when new features are added or during seasonal events.\n\n{{Clr}}\n----\n==='''Greg's roadside shop'''===\nGreg sells six different types of items in his [[Roadside Shop|shop]]. The items reset and new items appear every 24 hours at 12:00 AM GMT (8:00 PM EST during Daylight Saving Time, 7:00 PM EST otherwise). All the items he sells are ones the player has unlocked and are always sold at their default prices - making them cheaper.\n\nItems for sale from his shop generally include:\n*[[:Category:Feed Mill Products|Animal Feed]]\n*[[Crops]]\n*[[Supplies]]\n*[[Dairy]] items\n*[[Sugar Mill]] items\n*[[Sauce Maker]] items\n----\n==='''Greg's town'''===\nGreg's [[town]] features every [[Service Buildings|service building]] and [[decorations|decoration]] available in this area. Players can also pick up waiting [[Town Visitors|town visitors]] using their [[Personal Train|personal train]].\n----\n==='''Greg's services'''===\n[[File:Lumberjack Offer.png|200px|left|Lumberjack offer]]\nFrom [[experience]] level 25 onwards, Greg can sometimes offer players his services as a lumberjack to remove their dead trees and bushes. The offer only triggers if a farm has 25 or more dead plants.\n\nGreg can cut down a maximum of 20 dead plants. He targets dead [[Nectar Bush|nectar bushes]] first then he moves on to other types of trees and bushes in a random fashion.\n\nHiring Greg costs between 40 and 50 [[diamond]]s depending on how many axes and saws. Greg needs axes that cost 4 diamonds each and saws which cost 5 each and Greg gives you a 50% discount of the total price.\n\nThis offer lasts for 1 hour.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n[[File:Greg Winter.PNG|left|200px]]\n* Greg is the only [[:Category:Characters|NPC]] to have a farm.\n* Greg's [[Fishing|fishing lake]] cannot be visited.\n* Greg's farm animals never get hungry, pets and sanctuary animals never sleep.\n**Greg's Sanctuary animals are always filled with Feed/Food, since they do not eat or sleep, they are just for decoration.\n*Greg's statistics does not show: Most players visit, Most truck deliveries & Roadside Shop Max Revenue; it only shows his like count.\n**Greg's player ID only shows '#', instead of a unique set of letters and numbers; since he is an NPC not a player.\n* Greg's farm have collected all decorations in the decoration book.\n* Greg's farm doesn't need help.\n* Greg's most pets and his sanctuary animals each have their unique names instead of their breed type.\n* The player cannot interact his truck board, boat & dock, neighborhood area, sanctuary book, Maggie's catalog, design festival album, or any of his town buildings since they cannot access any of them.\n**However, there is a chance where you can pick up his town visitors when his train station has leftovers.\n* Greg has a unique profile icon using of his face and a blue background, rather than a bordered icon of a chicken's silhouette.\n**Greg's profile icon is a slightly rounded trapezoid, while players have an upside-down pentagon.\n*In some occasions, Greg's farm's production machines are either unmastered or fully mastered, ''except the older machineries are always fully mastered.''\n* Greg stays at [[experience]] level 151.\n* Before [[Version_History|the update of 24 June 2019]], Greg stayed at [[experience]] level 100. After the update his level changed to 151.\n* Greg wears a red scarf during Winter.\n* [https://squad-busters.fandom.com/wiki/Greg Greg] is the only character from the original Hay Day to be featured in the game [https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki Squad Busters] (Not including Mavis, who's from the now discontinued game, Hay Day Pop).\n* Greg is mentioned in [https://boombeach.fandom.com/wiki/Boom_Beach_Wiki Boom Beach] in a message found inside a bottle, written by a person named \"Uncle Bob\". The message reads: ''I wonder how my old neighbor Greg is doing. He'd better not hog all of my dynamite!''\n\n{{Clr}}\n----\n[[ru:Грег]]\n{{Navigation}}\n{{Languages\n|de = Greg\n|es = Greg\n|fr = Greg\n}}\n[[Category:Characters]]",
   "wikitextHash": "69a532ecaa3348b3ceb064ebfee1bef622c468a22648e9300e4f42f1b915b3aa"
 }

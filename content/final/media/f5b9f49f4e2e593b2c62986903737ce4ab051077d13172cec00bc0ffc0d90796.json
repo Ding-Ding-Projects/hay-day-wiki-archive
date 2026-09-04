@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_70.png",
+  "filePageId": 34893,
+  "filePageRevisionId": 98266,
+  "filePageRevisionSha1": "474ab47997cab502b45e7a48403195465c55c3a5",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:42Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "13af27043f3154feb96ead25c499d7d8b9fe7820336bc9186c1d0132bb26a171",
   "height": 781,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 70.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-05-23T13:18:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2070.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1148859,
   "sourceSha1": "a24efdc230997f2356a7f7fa74f29bf75167a003",

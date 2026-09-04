@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cacao Products",
+    "Category:Cookie Products",
+    "Category:Deep Fryer Products",
+    "Category:Peanuts Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cacao Products",
+      "Category:Cookie Products",
+      "Category:Deep Fryer Products",
+      "Category:Peanuts Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -137,11 +151,12 @@
   "revisionId": 110203,
   "revisionTimestamp": "2026-05-23T22:10:03Z",
   "route": "/wiki/fried-candy-bar-34687",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fried_Candy_Bar",
   "title": "Fried Candy Bar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fried Candy Bar.png|alt=|left|228x228px|Fried Candy Bar]]\n{{Infobox\n|level = 100\n|price = 1 to 658\n|time = 15 min\n|xp = 87\n|source = {{Infoicon|deepfr|bigger|link=Deep Fryer}}\n|base = 183\n|dia = 2\n|time3 = 12 min\n|title = [[Products|Product]]}}\n'''Fried candy bars''' are a [[Products|product]] unlocked at [[experience]] level 100.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making fried candy bars'''===\n[[File:Deep_Fryer.png|150px|left|Deep Fryer]]\nFried candy bars are made in the [[Deep Fryer]].\n\nTo make fried candy bars, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cacao.png|75px|Cacao|link=Cacao]]\n|[[File:Cookie.png|75px|Cookie|link=Cookie]]\n|[[File:Peanuts.png|75px|Peanuts|link=Peanuts]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one serving, and 12 minutes in a fully [[Masteries|mastered]] machine. Each serving gives players 87 [[experience]] points.\n\n{{Clr}}----\n==='''Selling fried candy bars'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Fried candy bars can be bought or sold for a maximum price of 6,588 {{Infoicon|Coin}} for 10 servings.\n*Buying the ingredients required to make fried candy bars costs 596 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 fried candy bars per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n*Prior to the Summer 2021 update, the fried candy bar took 18m to produce (15m in a 3-star deep fryer). This made it be the only product which, on a machine with no stars, took an amount of time not divisible by 5 minutes.\n*The fried candy bar is the most profitable item to produce, earning 310 coins per hour!\n\n----\n{{Navigation}}\n{{Languages\n|de = Frittierter Schokoriegel\n|es = Chocolatinas fritas\n|fr = Cake Pop Frit\n|it = Barretta di cioccolato fritta\n|nl = Gefrituurd Snoep\n|no = Frityrstekt sjokolade\n|ru = Конфета в кляре\n|zh = Fried Candy Bar\n}}\n[[pt-br:Doce frito]]\n\n[[Category:Deep Fryer Products]]\n[[Category:Cacao Products]]\n[[Category:Cookie Products]]\n[[Category:Peanuts Products]]",
   "wikitextHash": "71cf50d57463a895992235724471dae6392e22bc376f51918726f65e15efe912"
 }

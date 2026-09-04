@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bath_Kiosk_Mastery.png",
+  "filePageId": 35020,
+  "filePageRevisionId": 98401,
+  "filePageRevisionSha1": "3f943ed1439166803f8d2f2393badedc26342232",
+  "filePageRevisionTimestamp": "2021-08-02T19:33:12Z",
+  "filePageWikitext": "== Summary ==\nBat Kiosk Mastery\n== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "02bffba4db999612984908447811c5ca1448d72d326d6e169f882d220bc8ccb6",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Bath Kiosk Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-07-26T15:07:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABath%20Kiosk%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 78678,
   "sourceSha1": "ce1344ffafe639a675feb008050b44b838852eef",

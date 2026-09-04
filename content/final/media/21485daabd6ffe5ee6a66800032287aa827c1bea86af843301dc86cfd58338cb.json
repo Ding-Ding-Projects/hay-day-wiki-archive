@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Silver_Placard.png",
+  "filePageId": 26936,
+  "filePageRevisionId": 77309,
+  "filePageRevisionSha1": "b7790b6f7a96ec9e92cc5002c18f2a7683a590cc",
+  "filePageRevisionTimestamp": "2018-02-07T18:19:37Z",
+  "filePageWikitext": "== Summary ==\nThanks to Hawkcs.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "1a5e86e40093db51a941987a4fc33cd5fa76db153d5ebe5ef1f68104cb914f87",
   "height": 806,
   "immutableUrl": null,
   "mediaId": "File:Silver Placard.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T18:19:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASilver%20Placard.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 211214,
   "sourceSha1": "9f5fcb64fcee6fa73a936f1c200890ce4427abb8",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -312,11 +320,12 @@
   "revisionId": 110801,
   "revisionTimestamp": "2026-07-28T03:05:51Z",
   "route": "/wiki/cucumber-30747",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cucumber",
   "title": "Cucumber",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cucumber.png|200px|left]]\n\n{{Infobox\n|level = 70\n|price = 1 to 14\n|time = 35 min\n|xp = 3\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 4\n|dia = 3\n|title = [[Crops|Crop]]}}\n'''Cucumbers''' are field [[crops]] unlocked at [[experience]] level 70.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 210 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing cucumber'''===\nCucumbers are grown in [[Farm|fields]] by planting another cucumber (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 3 [[experience]] points, and takes 35 minutes to mature.\n<gallery>\nFile:Cucumber Stage 1.png\nFile:Cucumber Stage 2.png\nFile:Cucumber Stage 3.png\nFile:Cucumber Stage 4.png\nFile:Cucumber Stage 5.png\n</gallery>\n----\n==='''Selling'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cucumbers can be sold or bought for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n=== '''Using''' ===\nCucumbers are used to make the following [[products]]:\n\n{{Item Usage|Cucumber\n|Cucumber Smoothie|3|70\n|Cucumber Sandwich|2|79\n|Pickles|3|91\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 21 to 31 cucumbers per crate, up to a total of 96 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Gurke\n|es = Pepino\n|fr = Concombre\n|it = Cetriolo\n|no = Agurk\n|zh = Cucumber\n}}\n[[pt-br:Pepino]]\n[[ru:Огурец]]\n[[Category:Field Crops]]",
   "wikitextHash": "7d72a50ae3dd3ec735420ddbebbe6f3751c69ad988f0896758be272c4e0e62f0"
 }

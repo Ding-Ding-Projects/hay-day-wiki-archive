@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Bush_Crops?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 57807,
   "revisionTimestamp": "2016-01-21T18:34:09Z",
   "route": "/wiki/category%2Fcategory-bush-crops-7545",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bush_Crops",
   "title": "Category:Bush Crops",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Crops harvested from [[Trees and Bushes|bushes]].\n[[Category:Crops]]",
   "wikitextHash": "3627dac4ca740bb117a8f4b2413c9d7c4daa5189ff5fbd908280695691210181"
 }

@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Broccoli Products",
+    "Category:Cotton Fabric Products",
+    "Category:Flower Shop Products",
+    "Category:Mushroom Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Broccoli Products",
+      "Category:Cotton Fabric Products",
+      "Category:Flower Shop Products",
+      "Category:Mushroom Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -147,11 +163,12 @@
   "revisionId": 109912,
   "revisionTimestamp": "2026-05-09T22:09:16Z",
   "route": "/wiki/veggie-bouquet-34692",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Veggie_Bouquet",
   "title": "Veggie Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Veggie Bouquet.png|alt=|left|211x211px|Veggie bouquet]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 106\n |price = 1 to 352\n |time = 15 min\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |xp = 42\n |base = 98\n |dia = 2\n |time3 = 12 min\n}}\n'''Veggie bouquets''' are [[products]] unlocked at [[experience]] level 106.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making veggie bouquets'''===\n[[File:Flower Shop.png|150px|left|Flower Shop]]\nVeggie bouquets are made in the [[Flower Shop]].\n\nTo make a bouquet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"4\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Broccoli.png|75px|Broccoli|link=Broccoli]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Mushroom.png|75px|Mushroom|link=Mushroom]]\n|[[File:Cotton Fabric.png|75px|Cotton Fabric|link=Cotton Fabric]]\n|-\n|'''x3'''\n|'''x3'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 15 minutes to make a veggie bouquet, and 12 minutes in a fully [[Masteries|mastered]] shop. Each bouquet gives players 42 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling veggie bouquets'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Veggie bouquets can be bought or sold for a maximum price of 3,528 {{Infoicon|Coin}} for 10 bouquets.\n*Buying the ingredients required to make a veggie bouquet costs 330 {{Infoicon|Coin}} coins.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 veggie bouquets per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n\n{{Navigation}}\n{{Languages\n|de = Gemüsebouquet\n|es = Ramo de verduras\n|fr = Bouquet Végétarien\n|it = Bouquet di verdure\n|nl = Groenteboeket\n|no = Grønnsaksbukett\n|ru = Овощной букет\n|zh = Veggie Bouquet\n}}\n[[pt-br:Buquê de verduras]]\n\n[[Category:Flower Shop Products]]\n[[Category:Broccoli Products]]\n[[Category:Tomato Products]]\n[[Category:Mushroom Products]]\n[[Category:Cotton Fabric Products]]",
   "wikitextHash": "08b41755e56f8ee6955df130556f63bd29d60c32a544a63cb2d88acb396348b7"
 }

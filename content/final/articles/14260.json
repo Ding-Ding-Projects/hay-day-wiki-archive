@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Indigo Products",
+    "Category:Raspberry Products",
+    "Category:Sewing Machine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Indigo Products",
+      "Category:Raspberry Products",
+      "Category:Sewing Machine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +144,12 @@
   "revisionId": 105842,
   "revisionTimestamp": "2024-09-15T17:32:48Z",
   "route": "/wiki/violet-dress-14260",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Violet_Dress",
   "title": "Violet Dress",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Violet Dress.png|200px|left|Violet Dress]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 25\n |price = 1 to 327\n |time = 2 h 15 min\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 39\n |base = 91\n |dia = 5\n |time3 = 1 h 54 min\n}}\n'''Violet dresses''' are [[products]] unlocked at [[experience]] level 25.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making violet dresses'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nViolet dresses are made in the [[Sewing Machine]].\n\nTo make a dress, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|[[File:Raspberry.png|75px|link=Raspberry|Raspberry]]\n|[[File:Indigo.png|75px|link=Indigo|Indigo]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 2 hours 15 minutes to make one dress, and 1 hour 54 minutes in a fully [[Masteries|mastered]] machine. Each dress gives players 39 [[experience]] points.\n\n{{Clr}}----\n==='''Selling violet dresses'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Violet dresses can be bought or sold for a maximum price of 3,276 {{Infoicon|coin}} for 10 dress.\n* Buying the ingredients required to make a dress costs 287 {{Infoicon|coin}}.\n\n{{Clr}}----\n\n{{#ifexpr:{{CURRENTYEAR}}{{CURRENTMONTH}}{{CURRENTDAY2}}>20230102||\n==='''Using violet dresses'''===\nViolet dresses arr used to make the following [[products|product]]:\n{{Item Usage|Violet Dress\n|Green Gift|1|25|temp=Green Gift|tempend=20230102\n}}\n}}\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 violet dresses per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Violettes Kleid\n|es = Vestido violeta\n|fr = Robe Violette\n|it = Abito viola\n|nl = Paarse Jurk\n|no = Fiolett kjole\n|zh = Violet Dress\n}}\n[[pt-br:Vestido violeta]]\n[[ru:Фиолетовое платье]]\n[[Category:Sewing Machine Products]]\n[[Category:Indigo Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Raspberry Products]]",
   "wikitextHash": "92357fbaaa5421157213481ba3fe70e34ce8501353120d17ec7645af1b8c11e5"
 }

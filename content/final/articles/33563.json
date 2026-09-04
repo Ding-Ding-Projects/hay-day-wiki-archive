@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fondue_Pot_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98536,
   "revisionTimestamp": "2021-08-31T20:50:08Z",
   "route": "/wiki/category%2Fcategory-fondue-pot-products-33563",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fondue_Pot_Products",
   "title": "Category:Fondue Pot Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Fondue Pot.png|thumb]]\nProducts of the [[Fondue Pot]].\n[[Category:Products]]",
   "wikitextHash": "58895639b7ba8f0f20b3e7133314d7495b9f8b81acaf0d97b1cc7c94b1cf5a5d"
 }

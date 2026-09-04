@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Winter_Lantern.png",
+  "filePageId": 26499,
+  "filePageRevisionId": 77288,
+  "filePageRevisionSha1": "e444136df27d33634582274cd98a8fbfe16e7df9",
+  "filePageRevisionTimestamp": "2018-02-07T17:59:48Z",
+  "filePageWikitext": "Winter Lantern Image\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "318d097ac17a4962320a348284607e5a7dc716244ea0bb8943bc523027d109f2",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Winter Lantern.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:59:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AWinter%20Lantern.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 111742,
   "sourceSha1": "38a6ac83847c9d708f0a66bba8d1a05f9a7a8228",

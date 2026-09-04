@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -385,11 +393,12 @@
   "revisionId": 108905,
   "revisionTimestamp": "2025-11-04T21:27:47Z",
   "route": "/wiki/jam-maker-3561",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Jam_Maker",
   "title": "Jam Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Jam Maker.png|200px|left|Jam Maker]]\n\n{{Infobox\n|level = 35\n|price = 59,000\n|time = 1 d 12 h\n|xp = 28\n|slots = 2\n|dia = 57\n|title = [[Production Buildings|Machine]]\n|size = 2×2\n}}\nThe '''Jam Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 35.\n\nIt is used to make [[Apple Jam|apple jam]], [[Blackberry Jam|raspberry jam]], [[Blackberry Jam|blackberry jam]], [[Cherry Jam|cherry jam]], [[Grape Jam|strawberry jam]], [[Blueberry Chutney|blueberry chutney]], [[marmalade]], [[Peach Jam|peach jam]], [[Grape Jam|grape jam]], [[Plum Jam|plum jam]], and [[Passion Fruit Jam|passion fruit jam]].\n\n{{Clr}}----\n=== '''Building''' ===\nIt costs 59,000 {{Infoicon|coin}} and takes 1 day and 12 hours (or 57 {{Infoicon|dia}}) to build the Jam Maker. It gives players 28 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Apple Jam|35|6h|219\n|Raspberry Jam|36|7h|252\n|Blackberry Jam|37|8h|388\n|Cherry Jam|38|7h|334\n|Strawberry Jam|50|7:30|270\n|Blueberry Chutney|70|4h/3|579\n|Marmalade|74|8:30|457\n|Peach Jam|79|8h|464\n|Grape Jam|85|6:30|162\n|Plum Jam|94|5h|385\n|Passion Fruit Jam|96|5:20|118\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Jam Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,890 hours of production is required to [[Masteries|master]] the Jam Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Jam Maker Mastered.png|150px|Mastered Jam Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />90 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />360 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,440 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Jam Maker Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* Every jam needs 3 fruit to make.\n* [[Boat]] crates require up to four jars per crate. Requests are impossible to fulfill if you do not have some stored already (even with a mastered machine) or cannot get players to help you.\n* You can speed up the production of the Jam Maker using a green [[booster]].\n\n=== '''Did you know?''' ===\n*The jam maker has the longest time needed for a product used directly for a boat. The [[smelter]]s and [[Candy Machine|candy machine]] have products that take longer, but boats don't ask for products from these machines. They do, however, ask for [[Chocolate Fondue|chocolate fondue]], which uses a bar of [[chocolate]], which takes 20 hours to make.\n----\n[[ru:Вареньеварка]]\n{{Navigation}}\n{{Languages\n|de = Marmeladenkocher\n|es = Mermeladera\n|fr = Confiturier\n|it = Marmellatiera\n|no = Syltetøykoker\n|sv = Syltkokare\n|vi = Máy làm mứt\n|zh = Jam Maker\n}}\n[[pt-br:Fazedor de geleia]]\n[[ru:Вареньеварка]]\n[[Category:Production Buildings]]",
   "wikitextHash": "aaf9953c2c110f233cdc9f3c8a10638bf10404f59549a806b9192e33022e4e40"
 }

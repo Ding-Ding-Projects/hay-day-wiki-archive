@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Mint_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98648,
   "revisionTimestamp": "2021-09-06T22:44:41Z",
   "route": "/wiki/category%2Fcategory-mint-products-35146",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Mint_Products",
   "title": "Category:Mint Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Mint.png|thumb]]\nProducts of [[Mint]].\n[[Category:Products]]",
   "wikitextHash": "ca7bb8448751f596f9b47e247eb3db9bebc9aae68e6bd6a72476e114c2bf8a9b"
 }

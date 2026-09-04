@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -209,11 +217,12 @@
   "revisionId": 109469,
   "revisionTimestamp": "2026-02-21T22:32:08Z",
   "route": "/wiki/lobster-tail-8470",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lobster_Tail",
   "title": "Lobster Tail",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lobster Tail.png|200px|left|Lobster tail]]\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 44\n |price = 1 to 201\n |time = 6 h\n |xp = 24\n |source = {{Infoicon|lobster|bigger|link=Lobster}}\n |base = 56\n |dia = 8\n}}\n'''Lobster tails''' are [[Animal Goods|animal goods]] unlocked at [[experience]] level 44.\n\nThey are used to make [[Frutti di Mare Pizza|Frutti di Mare pizzas]], [[Lobster Soup|lobster soup]], [[Lobster Skewer|lobster skewers]], [[Lobster Sushi|lobster sushi]], [[Seafood Salad|seafood salad]], and [[Lobster Pasta|lobster pasta]].\n\nLike all goods, they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Trapping lobsters'''===\n[[File:Lobster_Trap_Full.png|150px|left|A trapped lobster]]\nLobsters can only be caught in [[Lobster Trap|lobster traps]]. Only 1 lobster is caught per trap. It takes 6 hours to catch a lobster after the trap has been placed into the water. Players can speed this up by spending 8 [[diamond]]s.\n{{Clr}}\n----\n==='''Collecting lobster tails'''===\n[[File:Lobster Pool Stage 6.png|150px|left|The Lobster Pool]]\nLobster tails are collected from [[lobster]]s which have been put in the [[Lobster Pool]]. Once caught, each lobster needs to stay in the pool for 6 hours to yield a tail. Players can speed this up by spending 8 [[diamond]]s.\n\nCollecting a tail gives players 24 {{Infoicon|xp}} points.\n{{Clr}}\n----\n==='''Selling lobster tails'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Lobster tails can be bought or sold for a maximum price of 2,016 {{Infoicon|coin}} for 10 tails.\n* Making [[Lobster Trap|lobster traps]] does not require any material and does not cost anything.\n{{Clr}}\n----\n==='''Using lobster tails'''===\nLobster tails are used to make the following [[products]]:\n{{Item Usage|Lobster Tail\n|Frutti di Mare Pizza|1|45\n|Lobster Soup|2|46\n|Lobster Skewer|1|48\n|Lobster Sushi|1|59\n|Seafood Salad|1|64\n|Lobster Pasta|1|79\n}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 lobster tails per crate, up to a total of 16 per boat. \n{{Clr}}\n----\n==='''Strategy tips'''===\n* Catching a lobster requires making a [[Lobster Trap|lobster trap]] (2 h) then letting it sit in the water for 6 hours.\n* Recipes ask between 1 and 2 tails.\n* Lobster tails are so rare that selling them at maximum price is recommended.\n----\n\n{{Navigation}}\n{{Languages\n|de = Hummerschwanz\n|es = Cola de langosta\n|fr = Queue de Homard\n|it = Coda di aragosta\n|no = Hummerhale\n|ru = Раковая шейка\n}}\n[[pt-br:Cauda de lagosta]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "b27738670f8084e0c707ad3f800cf227a3dff7664b650c41c6edd66f1253ea07"
 }

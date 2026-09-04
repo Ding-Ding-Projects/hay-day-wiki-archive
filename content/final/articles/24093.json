@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Derby"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Derby"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -108,11 +118,12 @@
   "revisionId": 110525,
   "revisionTimestamp": "2026-06-15T18:28:49Z",
   "route": "/wiki/decorations-derby-24093",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Derby",
   "title": "Decorations/Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n==='''Derby decorations'''===\n[[File:Shop Rewards.png|left|100px|Rewards tab]]\n'''Derby decorations''' can only be won by participating in [[derby|derbies]]. All but trophies and time-limited rewards are randomly obtained. Some are easier to obtain in higher leagues. Trophies can be won by [[Achievements|achieving]] Derby Champ I, II and III.\n\nDerby decorations are unlocked at [[experience]] level 18.\n{{Clr}}\n<gallery expand=\"true\">\nFile:Agility Tire.png|Agility Tire\nFile:Angler Gnome.png|Angler Gnome\nFile:Axe Stump.png|Axe Stump (limited)\nFile:Barrel Horse.png|Barrel Horse\nFile:HayDay Blue Pavilion.png|Blue Pavilion\nFile:Bronze Placard.png|Bronze Placard\nFile:Carrot Obstacle.png|Carrot Obstacle\nFile:Checkered Banner.png|Checkered Banner\nFile:Cross Obstacle.png|Cross Obstacle\nFile:Derby Trough.png|Derby Trough\nFile:Dog Bed.png|Dog Bed\nFile:Dog Pool.png|Dog Pool\nFile:Elephant Slide.png|Elephant Slide\nFile:Elf Gnome.png|Elf Gnome\nFile:Firefighter Gnome.png|Firefighter Gnome\nFile:Flower Boots.png|Flower Boots\nFile:Flower Box.png|Flower Box\nFile:Flower Gnome.png|Flower Gnome\nFile:Golden Placard.png|Golden Placard\nFile:Hay Bales & Guitar.png|Hay Bales & Guitar\nFile:Hay Obstacle.png|Hay Obstacle\nFile:Horseshoe Game.png|Horseshoe Game\nFile:Horseshoe.png|Horseshoe Statue\nFile:Horse Topiary.png|Horse Topiary\nFile:Jockey Scarecrow.png|Jockey Scarecrow\nFile:Large Obstacle.png|Large Obstacle\nFile:Large Trophy.png|Large Trophy\nFile:Mechanical Horse.png|Mechanical Horse\nFile:Medium Trophy.png|Medium Trophy\nFile:Miners Lunch.png|Miners Lunch\nFile:Musician Gnome.png|Musician Gnome\nFile:Olympic Fire.png|Olympic Fire\nFile:Olympic Gnome.png|Olympic Gnome\nFile:Olympic Obstacle.png|Olympic Obstacle\nFile:Olympic Podium.png|Olympic Podium\nFile:Painter Gnome.png|Painter Gnome\nFile:Pig Seesaw.png|Pig Seesaw\nFile:Pink Banner.png|Pink Banner\nFile:Police Gnome.png|Police Gnome\nFile:Potting Table.png|Potting Table\nFile:Produce Crates.png|Produce Crates (limited)\nFile:Purple Banner.png|Purple Banner\nFile:Rocking Horse.png|Rocking Horse\nFile:Rocking Unicorn.png|Rocking Unicorn\nFile:Round Hay Bales.png|Round Hay Bales\nFile:Saddles.png|Saddles\nFile:Scratching Post.png|Scratching Post\nFile:Scuba Helmet.png|Scuba Helmet\nFile:Sheep Springer.png|Sheep Springer\nFile:Silver Placard.png|Silver Placard\nFile:Skier Gnome.png|Skier Gnome\nFile:Small Obstacle.png|Small Obstacle\nFile:Small Trophy.png|Small Trophy\nFile:Sundial.png|Sundial\nFile:Tractor Springer.png|Tractor Springer\nFile:Trolley.png|Trolley\nFile:Water Pump.png|Water Pump\nFile:White Obstacle.png|White Obstacle\nFile:Wooden Post.png|Wooden Post\n</gallery>\n[[ru:Украшения#Украшения_со_скачек]]\n{{Languages\n|es = Decoraciones/Derbi\n}}\n\n[[Category:Decorations]]\n[[Category:Derby]]",
   "wikitextHash": "63d5e834195ea1737d2b3a9c2ed941256508bebca9c7237c40ece7be22fdaace"
 }

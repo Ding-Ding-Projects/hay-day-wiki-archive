@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Smoothie_Mixer_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57800,
   "revisionTimestamp": "2016-01-21T18:28:53Z",
   "route": "/wiki/category%2Fcategory-smoothie-mixer-products-11432",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Smoothie_Mixer_Products",
   "title": "Category:Smoothie Mixer Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Smoothie_Mixer.png|thumb]]\nProducts of the [[Smoothie Mixer]].\n[[Category:Products]]",
   "wikitextHash": "1e17556daf09f6af117a85bb9237f4fb4d022cc03fd41a33791be565a4471a4e"
 }

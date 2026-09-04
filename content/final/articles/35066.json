@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98543,
   "revisionTimestamp": "2021-08-31T20:55:29Z",
   "route": "/wiki/category%2Fcategory-tomato-products-35066",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Products",
   "title": "Category:Tomato Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Tomato.png|thumb]]\nProducts of [[Tomato]].\n[[Category:Products]]",
   "wikitextHash": "4e8903d0086efcb2462b6bfcea5bf2f58d465ad084a63f5a9575f55457e63ff8"
 }

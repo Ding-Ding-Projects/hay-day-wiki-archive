@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:DogHouse2.png",
+  "filePageId": 14694,
+  "filePageRevisionId": 103487,
+  "filePageRevisionSha1": "bf45ff07b75b7c5fb1e22e758082fe70a368cf2d",
+  "filePageRevisionTimestamp": "2023-07-20T20:53:53Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "a6ce05a8fa962fc1beb7e671f18053119e28292f91a3a5a831e532d05409370d",
   "height": 333,
   "immutableUrl": null,
   "mediaId": "File:DogHouse2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 5,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-07-15T14:22:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADogHouse2.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 185019,
   "sourceSha1": "b0d1ba1bc0cc4d24fbe0026977bbfdd710062931",

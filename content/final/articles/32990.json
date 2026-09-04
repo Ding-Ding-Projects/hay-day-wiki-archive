@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cake Oven Products",
+    "Category:Cream Cake Products",
+    "Category:Gold Ore Products",
+    "Category:Lily Products",
+    "Category:Raspberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cake Oven Products",
+      "Category:Cream Cake Products",
+      "Category:Gold Ore Products",
+      "Category:Lily Products",
+      "Category:Raspberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -182,11 +198,12 @@
   "revisionId": 109078,
   "revisionTimestamp": "2026-01-07T00:34:41Z",
   "route": "/wiki/fancy-cake-32990",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fancy_Cake",
   "title": "Fancy Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Fancy Cake.png|200px|left|Fancy Cake]]\n\n{{Infobox\n |level = 54\n |price = 1 to 450\n |time = 15 min\n |xp = 49\n |source = {{Infoicon|cakeo|bigger|link=Cake Oven}}\n |base = 125\n |dia = 2\n |time3 = 12 min\n |title = [[Products|product]]\n}}\n'''Fancy cakes''' are [[products]] unlocked at [[experience]] level 54. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making fancy cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nFancy cakes are made in the [[Cake Oven]].\n\nTo make the cake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream Cake.png|75px|Cream cake|link=Cream Cake]]\n|[[File:Lily.png|75px|Lilies|link=Lily]]\n|[[File:Raspberry.png|75px|raspberries|link=Raspberry]]\n|[[File:Gold Ore.png|75px|gold ore|link=Gold Ore]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one cake, and 12 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 49 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling fancy cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Fancy cakes can be bought or sold for a maximum price of 4500 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 450 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 cakes per crate, up to a total of 6 per boat (for three crates).\n** 1 cake per crate, up to a total of 4 per boat (for four crates).\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* Fancy Cake originally sold for a maximum of 414 {{Infoicon|Coin}} when it was introduced on 30 March 2020, but that was increased to 450 {{Infoicon|Coin}} the following day.\n* It needs to be made with another product ([[Cream Cake]]) made in the very same machine.\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Schicke Torte\n|es = Pastel elegante\n|fr = Gâteau Raffiné\n|it = Torta raffinata\n|nl = Fraaie Taart\n|no = Stilig kake\n|zh = Fancy Cake\n}}\n[[pt-br:Bolo elegante]]\n[[ru:Модный торт]]\n\n[[Category:Cake Oven Products]]\n[[Category:Raspberry Products]]\n[[Category:Cream Cake Products]]\n[[Category:Gold Ore Products]]\n[[Category:Lily Products]]",
   "wikitextHash": "8e6401c2a49c0a5b5b3b6d518410e04563497176ee5bb05b5dca67dae1179f99"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98639,
   "revisionTimestamp": "2021-09-06T22:41:58Z",
   "route": "/wiki/category%2Fcategory-tomato-juice-products-35138",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Tomato_Juice_Products",
   "title": "Category:Tomato Juice Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Tomato Juice.png|thumb]]\nProducts of [[Tomato Juice]].\n[[Category:Products]]",
   "wikitextHash": "8a118aa69aaeb66c38d2977395603bc370d62827244b0ce69a5b8aec96178f54"
 }

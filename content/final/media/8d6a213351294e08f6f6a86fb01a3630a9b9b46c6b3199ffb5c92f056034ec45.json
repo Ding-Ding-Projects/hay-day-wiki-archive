@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bolt.png",
+  "filePageId": 2638,
+  "filePageRevisionId": 77469,
+  "filePageRevisionSha1": "379fd1c96c17f8d33e48121dacc68d2261d150e3",
+  "filePageRevisionTimestamp": "2018-02-11T18:03:51Z",
+  "filePageWikitext": "Picture of a bolt.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "69c1c5e90141855c0e292a79eedb20aac394e052e46121fe07a57f343d239587",
   "height": 129,
   "immutableUrl": null,
   "mediaId": "File:Bolt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 29,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T18:03:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABolt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 21971,
   "sourceSha1": "1c1c6cfd755724b74171f5ae8f1e8d05b9a7631a",

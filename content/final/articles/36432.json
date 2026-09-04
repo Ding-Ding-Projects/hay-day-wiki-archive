@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Blue Woolly Hat Products",
+    "Category:Raspberry Products",
+    "Category:Soybean Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Blue Woolly Hat Products",
+      "Category:Raspberry Products",
+      "Category:Soybean Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +165,12 @@
   "revisionId": 110602,
   "revisionTimestamp": "2026-06-21T15:54:44Z",
   "route": "/wiki/peace-balloon-36432",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Peace_Balloon",
   "title": "Peace Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Peace Balloon.png|200px|left|Sunflower Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 20\n |musicalnote = 20\n |time = 10m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 84\n |dia = 5\n}}\n'''Peace Balloon''' is a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Aniversary 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Guitar Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nPeace balloons are made in the [[Birthday Balloon Maker]].\n\nTo make a peace balloon in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blue Woolly Hat.png |75px|Blue Woolly Hat|link=Blue Woolly Hat]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x5'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 70 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Fish Pie.png|75px|Fish pie|link=Fish Pie]]\n|[[File:Tomato.png|75px|Tomato|link=Tomato]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x2'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 173 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 balloons per crate, up to a total of 8 per boat. Each balloon used on a boat will be rewarded with 20 [[Musical Note]]s, 22 musical note in a 1-star and mastered maker, 28 musical note in a 2-star and 40 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Blue Woolly Hat Products]]\n[[Category:Raspberry Products]]\n[[Category:Soybean Products]]\n\n{{Languages\n|de =  Friedensballon \n|es = Globo de la paz\n}}",
   "wikitextHash": "9fc8dd707031b4460a738e5036ccbb1f6372bd936751da2fa7092b20c3861c3d"
 }

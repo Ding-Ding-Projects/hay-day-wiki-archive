@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +178,12 @@
   "revisionId": 109057,
   "revisionTimestamp": "2026-01-02T14:27:22Z",
   "route": "/wiki/daily-dirt-2679",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Dirt",
   "title": "Daily Dirt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Daily Dirt Cover.jpg|left|200px|The cover of the Daily Dirt]] \nThe''' Daily Newspaper''' is a fictional '''newspaper''' where players can see ads for items other players are selling in their [[Roadside Shop|roadside shops]]. On July 2025 update, the ads in the newspaper are now coloured instead of grayscale. A day after this change, a warmer and yellowish tint effect is also applied on the newspaper to improve eye comfort.\n\nThe Daily Newspaper Dirt is unlocked at [[experience]] level 7.\n\n{{Clr}}\n----\n==='''Reading the Daily Newspaper'''===\n[[File:Newspaper Mailbox.png|left|100px|The mailbox for the Daily Dirt]]\nThe paper can be accessed by clicking on any gray [[mailbox]] on any farm. A new paper is available every 2 minutes or so. The mailbox animates when this happens. Every player gets a unique version of the Daily Dirt.\n\n{{Clr}}\n----\n==='''Ads'''===\n[[File:daily dirt ads.png|left|Two pages of ads|150px]]\n[[File:Newspaper Excerpt.jpg|left|An ad|150px]]\nThe Daily Dirt features ads for [[crops]], [[Animal Goods|animal goods]], [[products]] (except [[lure]]s, [[Net Maker|nets and traps]]) and [[:Category:Supplies|supplies]]. [[Supercell]] also places ads for mining and land-clearing items at a discount price in [[diamond]]s, as well as links to official Hay Day sites.\n\nPlayers who require assistance with either a boat order, truck order, town visitor or tree/bush reviving will have an icon with an exclamation mark (!) next to their image. Previously visited farms will be grayed out after the player has visited them.\n\nThere are nine pages of ads in the newspaper with six ads per page, for a total of 54 ads, one of which is an offer.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n* Optimize your advertising by:\n** Advertise an unpopular item with a little discount to attract customers to your [[Roadside Shop|shop]].\n** Alternatively, advertising popular items is also a good way to get a lot of activity in your shop for a short period of time.\n** To maximize the time your ad will run, advertise an unpopular item at full price.\n** When selling multiple stacks of one item, place the stack with the advertisement on the right end of your shop. The other stacks are more likely to be sold first, while your last stack keeps running in the paper.\n** Sell expensive items that are easily found in the Daily Dirt in smaller quantities.\n** Advertise as often as you can.\n\n* Everything sells at maximum price eventually. If you're not in any hurry just keep one or two free boxes for items you want to sell quickly.\n* Use the Daily Dirt to find farms that you want to follow. If a player is selling an item you can't or won't produce, follow them because they're likely to sell it again.\n* Similarly, you can use the Daily Dirt to find farms that you want to send [[Friends|friend]] requests to.\n* The first page of the newspaper sometimes includes a Daily Deal, letting you buy one tool for diamonds. Hiring [[Tom]] is always more economical: he finds between 7-9 units of each tool every two hours, so you can get about 84-118 items a day, rather than the 20 or so offered in the Daily Deal. However, the paper also offers deals for supplies Tom can't find, such as expansion ones.\n----\n==='''Did you know?'''===\n*[http://forum.supercell.net/showthread.php/1172413-Hay-Day-AMA-Summary On average, the newspaper is fetched 1000 times in one second (1 millisecond per time) and 400 ads are bought every second.]\n*On rare occasions, players may see their own ads in the paper.\n*The small text on the cover is lorem ipsum. Lorem ipsum is used as a text placeholder.\n*The cover of the Daily Dirt changed in June 2015. Here's the old one:\n[[File:Daily Dirt Cover Old.jpg|200px|center]]\n----\n{{TradeMenu}}\n{{Languages\n|de = Zeitung\n|es = Periódico\n|it = Giornale\n|ru = Газета\n}}\n[[Category:Trade]]",
   "wikitextHash": "2cec56516fbeb1d780391776a62632e95b97e3da8c7156f103f96803a4d63363"
 }

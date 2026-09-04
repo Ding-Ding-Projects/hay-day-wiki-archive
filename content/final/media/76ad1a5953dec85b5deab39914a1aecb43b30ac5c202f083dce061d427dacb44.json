@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_82.png",
+  "filePageId": 20507,
+  "filePageRevisionId": 98389,
+  "filePageRevisionSha1": "f575fd1a1140f055d2132e8dc19be7e62623c8a8",
+  "filePageRevisionTimestamp": "2021-08-01T09:23:59Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "833e9b4badd334d9bd362b878a217443a77200b68aced43ec82f6988b6ca39fb",
   "height": 686,
   "immutableUrl": null,
   "mediaId": "File:Level 82.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-08-01T09:23:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%2082.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 717975,
   "sourceSha1": "8c6f2f1cc62bec29cd8a9abb1982b5af1d5552d9",

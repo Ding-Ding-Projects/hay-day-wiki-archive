@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day_Live_-_Channel_Suggestions_%2B_Global_Truck_Event!",
+  "filePageId": 30340,
+  "filePageRevisionId": 82625,
+  "filePageRevisionSha1": "2fa90f4c311028f37e7610e1aa79123c231f5655",
+  "filePageRevisionTimestamp": "2018-08-18T04:24:12Z",
+  "filePageWikitext": "\n== Description ==\nWhat can I do to make my channel better for you, my viewers? Plus, let's send some trucks for the global event!\n\nI also now have a Twitter and a Facebook page!\n\n\n~Twitter: https://twitter.com/Rowdy_Ranch\n\n~Facebook: https://www.facebook.com/RowdyRanchHayDay\n\n\n~Link to the Rowdy Ranch Fan Base server on Discord: https://discord.gg/xvcjjTM\n\n\n~Music: https://www.bensound.com/royalty-free-music\n\n\n~Link to the /r/HayDay server: https://discord.gg/3R7MmCW\n\n\n~Where I get all of my Hay Day images: http://hayday.wikia.com/wiki/Hay_Day_Wiki\n[[Category:Videos]]",
+  "filePageWikitextHash": "dd797f78bbbb1ce3753899c44f53717bf9ab2bdb2d6f780f92e38d8a776bc7e8",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day Live - Channel Suggestions + Global Truck Event!",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-08-18T04:24:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day%20Live%20-%20Channel%20Suggestions%20%2B%20Global%20Truck%20Event!",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 33861,
+  "sourceSha1": "babe5e1239f50c46ef87c3968475d25a1551adab",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/1f/Hay_Day_Live_-_Channel_Suggestions_%2B_Global_Truck_Event%21/revision/latest?cb=20180818042411",
+  "title": "File:Hay Day Live - Channel Suggestions + Global Truck Event!",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Blueberries_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108853,
   "revisionTimestamp": "2025-10-25T18:07:38Z",
   "route": "/wiki/category%2Fcategory-blueberries-products-36355",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Blueberries_Products",
   "title": "Category:Blueberries Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Blueberries.png|thumb]]\nProducts of [[Blueberries]].\n[[Category:Products]]",
   "wikitextHash": "1d065cc833d976c84099d826ebb51fb4b8818c1f4d82029f94e77d5cb8c22d50"
 }

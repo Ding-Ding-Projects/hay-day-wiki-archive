@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Medium_Mystery_Package.png",
+  "filePageId": 17025,
+  "filePageRevisionId": 73828,
+  "filePageRevisionSha1": "9bc032a4ecf97dca12acb906cfac53094d715e28",
+  "filePageRevisionTimestamp": "2017-10-21T10:24:56Z",
+  "filePageWikitext": "Picture of a Medium Mystery Package.\n{{License SC}}\n[[Category:Image_Catalogue]]",
+  "filePageWikitextHash": "6f626afca8c1b82696e34b0decadc1641f560b7125cca9be33adb72f6164dbc0",
   "height": 1246,
   "immutableUrl": null,
   "mediaId": "File:Medium Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:07:31Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMedium%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 520110,
   "sourceSha1": "835432bc67e641134fb897964f3450c7030331f6",

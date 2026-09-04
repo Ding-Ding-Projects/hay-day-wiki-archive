@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Kittens",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Kittens",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -365,6 +375,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -391,6 +402,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten Tired.png",
     "File:Tabby Kitten.png",
@@ -406,11 +418,12 @@
   "revisionId": 110902,
   "revisionTimestamp": "2026-08-11T18:56:51Z",
   "route": "/wiki/tabby-kitten-18342",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tabby_Kitten",
   "title": "Tabby Kitten",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{note|this page is about the tabby kitten, not to be confused with the [[Tabby Cat|tabby cat]].}}\n[[File:Tabby Kitten.png|200px|left|Tabby kitten]]\n\n{{Infobox\n |level = 49 • 58|needs = {{Infoicon|milk|big|link=Milk}} {{Infoicon|goatm|big|link=Goat Milk}}|time = every 6 h|xp = 40|cost = {{Infoicon|greenv|link=Voucher}}70 {{Infoicon|goldv|link=Voucher}}1|dia = 1,130|title = [[Animals|Animal]]}}\n'''Tabby kittens''' are pet [[animals]]. The first kitten is unlocked at [[experience]] level 49 and the second at level 58.\n\nThey give players [[experience]] points in exchange for either [[milk]] or [[Goat Milk|goat milk]].\n\n----\n==='''Appearance'''===\n{{BigIcon|Tabby Kitten Tired}}\n----\n==='''Buying'''===\n[[File:Kitten House.png|150px|left|Kitten house]]\nEach kitten costs 70 green [[voucher]]s and 1 golden one, or 1,130 [[diamond]]s. They must be placed near a [[Kitten House|kitten house]] to be bought. Players can have two tabby kittens in total.\n\nKittens and kitten houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[milk]] or [[Goat Milk|goat milk]], kittens drink then roam around their house for six hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Kittens stay asleep otherwise.\n\nKittens which have been woken up but are not given milk for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking kittens one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n\n{{Navigation}}\n{{Languages\n|de = Tigerkätzchen\n|es = Gatito atigrado\n|fr = Chaton tigré\n|it = Gattino tigrato\n|no = Stripete kattunge\n}}\n[[ru:Полосатый котёнок]]\n\n[[Category:Kittens]]",
   "wikitextHash": "1c05bcf214658ffb02c0ecf8de050b9533687d299127398f5af6b044e70f3939"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation.png",
+  "filePageId": 18791,
+  "filePageRevisionId": 69451,
+  "filePageRevisionSha1": "5802e4e9ae5fe54522957804f1c1ec759c6ff211",
+  "filePageRevisionTimestamp": "2017-02-06T12:39:40Z",
+  "filePageWikitext": "==Credit==\n*Heart by Mike Ashley from the Noun Project. \n{{CC-BY-SA-3.0}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "3915cf43289c1f0eb784d821c86b3aba52a532010b0dfcf4ad93bf17ead91f01",
   "height": 584,
   "immutableUrl": null,
   "mediaId": "File:Reputation.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 30,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-12T14:16:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA-3.0"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3AReputation.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 76595,
   "sourceSha1": "0ba561f49d3156a50d3eef975135aa5b8edd4690",

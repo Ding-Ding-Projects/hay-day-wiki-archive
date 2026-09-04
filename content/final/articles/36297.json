@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Most_Valuable_Product_per_machine?action=history",
@@ -161,11 +165,12 @@
   "revisionId": 107729,
   "revisionTimestamp": "2025-04-13T13:29:55Z",
   "route": "/wiki/most-valuable-product-per-machine-36297",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Most_Valuable_Product_per_machine",
   "title": "Most Valuable Product per machine",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Hey, so I started this and then it got really late, ill finish this tomorrow. If anyone wanna finish it, be my guest :D. \n\n{|\n|+\n!Machine\n!Products\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Bakery}}\n[[Bakery]]\n!{{BigIcon|Banana Bread}}\n[[Banana Bread]]\n\n424{{Infoicon|coin}}\n\n[[Experience Levels/Levels 76-100|Level 91]]\n|{{BigIcon|Macaroon}}\n[[Macaroon]]\n\n421{{Infoicon|coin}}\n\n[[Experience Levels/Levels 101-125|Level 101]]\n|{{BigIcon|Frutti di Mare Pizza}}[[Frutti di Mare Pizza|Frutti di Mare]][[Frutti di Mare Pizza|Pizza]]\n\n403{{Infoicon|coin}}\n\n[[Experience Levels/Levels 26-50|Level 45]]\n|{{BigIcon|Pineapple Coconut Bars}}[[Pineapple Coconut Bars]]\n\n284\n{{Infoicon|coin}}\n\n[[Experience Levels/Levels 101-125|Level 120]]\n|{{BigIcon|Potato Bread}}[[Potato Bread]]\n\n284{{Infoicon|coin}}\n\n[[Experience Levels/Levels 26-50|Level 39]]\n|\n|\n|\n|\n|-\n|{{BigIcon|BBQ Grill}}[[BBQ Grill]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Popcorn Pot}}[[Popcorn Pot]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Pie Oven}}[[Pie Oven]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Loom}}[[Loom]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Sewing Machine}}[[Sewing Machine]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Cake Oven}}[[Cake Oven]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Juice Press}}[[Juice Press]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Ice Cream Maker}}[[Ice Cream Maker]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Jam Maker}}[[Jam Maker]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Jeweler}}[[Jeweler]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Coffee Kiosk}}[[Coffee Kiosk]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Soup Kitchen}}[[Soup Kitchen]]\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Candle Maker}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Flower Shop}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Candy Machine}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Sauce Maker}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Sushi Bar}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Salad Bar}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n|{{BigIcon|Sandwich Bar}}\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|-\n!{{BigIcon|Smoothie Mixer}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Essential Oils Lab}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Wok Kitchen}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Hat Maker}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Pasta Kitchen}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Hot Dog Stand}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Donut Maker}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Taco Kitchen}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Omelet Station}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Tea Stand}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Fondue Pot}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Bath Kiosk}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Deep Fryer}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Preservation Station}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Pottery Studio}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Fudge Shop}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Yogurt Maker}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Stew Pot}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Cupcake Maker}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Perfumerie}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Waffle Maker}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Porridge Bar}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|-\n!{{BigIcon|Milkshake Bar}}\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n|}",
   "wikitextHash": "b468a6aaedfb4c47a63ce2ed3a60c512066f2072d2423e09c926175bd4d5ed07"
 }

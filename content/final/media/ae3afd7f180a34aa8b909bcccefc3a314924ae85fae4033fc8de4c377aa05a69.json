@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grapes.png",
+  "filePageId": 26416,
+  "filePageRevisionId": 104887,
+  "filePageRevisionSha1": "87dab28f50b959eff53cdc3637b179387ef8c681",
+  "filePageRevisionTimestamp": "2024-02-18T15:22:14Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "09928baf13613e96a0930c28d1ffdfd6bbbc1625d4c7e612caae1d0af56adb9f",
   "height": 1932,
   "immutableUrl": null,
   "mediaId": "File:Grapes.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 51,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T15:22:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrapes.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3950688,
   "sourceSha1": "6478a758e76bca9dc0912c567a39250ad9bebd6c",

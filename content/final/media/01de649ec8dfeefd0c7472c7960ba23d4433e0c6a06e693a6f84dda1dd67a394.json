@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_20.png",
+  "filePageId": 2432,
+  "filePageRevisionId": 75732,
+  "filePageRevisionSha1": "3f73f787391be2f149e8d400f44a8ee6a3421092",
+  "filePageRevisionTimestamp": "2017-11-26T17:31:26Z",
+  "filePageWikitext": "\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "de271e3b6be32ac17e530ee1b1b7c4cf661aba81e62922838a602ec8ce889801",
+  "height": 539,
+  "immutableUrl": null,
+  "mediaId": "File:Level 20.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-06-28T00:58:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ALevel%2020.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 944977,
+  "sourceSha1": "9723e78f09ec7086b22bb5b99572492cbde483e5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/07/Level_20.png/revision/latest?cb=20160628005800",
+  "title": "File:Level 20.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1250
+}

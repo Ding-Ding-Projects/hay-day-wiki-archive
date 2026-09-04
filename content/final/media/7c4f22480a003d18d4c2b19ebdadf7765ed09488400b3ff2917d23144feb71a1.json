@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_103.png",
+  "filePageId": 27481,
+  "filePageRevisionId": 75704,
+  "filePageRevisionSha1": "67442ed76ebd169bc7ad2c780e56b512d14a0d37",
+  "filePageRevisionTimestamp": "2017-11-26T17:30:57Z",
+  "filePageWikitext": "Replacement Image for old 10 Diamonds screen\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "5013afbcd5bb3d6329bde7a625e29753213a7b6d5fea79980e0917b8b1498e10",
+  "height": 421,
+  "immutableUrl": null,
+  "mediaId": "File:Level 103.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-04-21T17:20:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20103.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 404472,
+  "sourceSha1": "4716698a050a336849b6ca2ab860fea4ffd95c80",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f8/Level_103.png/revision/latest?cb=20170421172001",
+  "title": "File:Level 103.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1022
+}

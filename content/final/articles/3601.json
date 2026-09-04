@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -52,11 +60,12 @@
   "revisionId": 110798,
   "revisionTimestamp": "2026-07-27T16:35:55Z",
   "route": "/wiki/supercell-3601",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Supercell",
   "title": "Supercell",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "__NOTOC____NOEDITSECTION__\n\n<div style=\"margin: 1em auto\">'''Disclaimer: Supercell is the name of the company that created Hay Day. The Hay Day Wiki is not affiliated with Supercell or any of Hay Day's or any other of their games' development. We do not own Hay Day and we do not work for Supercell. Supercell's official site can be found [https://supercell.com here].'''</div>\n\n[[File:Supercell.png|left|200px|Supercell Logo]]\n'''Supercell''' (also spelled '''SUPERCELL''') is a Finnish video game company founded in 2010 by Niko Derome, Visa Forsten, Mikko Kodisoja, Lassi Leppinen, Ilkka Paananen and Petri Styrman. Ilkka Paananen is its current CEO. Supercell is currently a subsidiary of Tencent Holdings Limited, a Chinese multinational company.\n\nSupercell created [[Hay Day]] in 2012 and have [[Version History|kept updating the game]] since then.\n{{Clr}}\n----\n==='''Games'''===\nSupercell has made the following games so far:\n*2011: Gunshine.net/Zombies Online (discontinued)\n*2012: Pets vs Orcs (discontinued)\n*2012: Battle Buddies (discontinued)\n*2012: [https://supercell.com/en/games/hayday/ Hay Day]\n*2012: [https://supercell.com/en/games/clashofclans/ Clash of Clans]\n*2014: [https://supercell.com/en/games/boombeach/ Boom Beach]\n*2014: Spooky Pop (discontinued)\n*2015: Smash Land (discontinued)\n*2016: [https://supercell.com/en/games/clashroyale/ Clash Royale]\n*2017: [https://supercell.com/en/games/brawlstars/ Brawl Stars]\n*2023: Squad Busters (discontinued)\n----\n==='''Links'''===\n*[http://www.supercell.com/ Official site]\n*[https://en.wikipedia.org/wiki/Supercell_(video_game_company) Supercell on Wikipedia]\n\n{{Languages\n|es = Supercell\n|fi = Supercell\n|no = Supercell\n}}\n\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "a304f88089f1224597433f8e0f06aed8e801ed47ea9f96c9003e084bea88b451"
 }

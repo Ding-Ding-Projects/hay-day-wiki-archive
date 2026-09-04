@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pig_Winter.png",
+  "filePageId": 36762,
+  "filePageRevisionId": 110295,
+  "filePageRevisionSha1": "5df341b6f2b2aa878904066fc16fb0682c6b00c6",
+  "filePageRevisionTimestamp": "2026-05-30T21:20:43Z",
+  "filePageWikitext": "== Summary ==\nFebruary 2026\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "95d5ec8a7d5f0d829e21353b5f351804f944108008739c35c0e2f3199bd9f2d6",
   "height": 482,
   "immutableUrl": null,
   "mediaId": "File:Pig Winter.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2026-05-30T21:20:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APig%20Winter.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 535619,
   "sourceSha1": "599cb8dbd234c73adb37bb521d91341cc21a5ebc",

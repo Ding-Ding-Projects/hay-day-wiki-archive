@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Check_Yes.svg",
+  "filePageId": 23476,
+  "filePageRevisionId": 77675,
+  "filePageRevisionSha1": "3c215d7535209151a783d8bfb854f8d50c3cde12",
+  "filePageRevisionTimestamp": "2018-02-19T23:35:25Z",
+  "filePageWikitext": "{{GNU LGPL}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "70c28a91d7b3e6135e7040819bacb94a1b5985c604759a87d61c60563e76321b",
+  "height": 512,
+  "immutableUrl": null,
+  "mediaId": "File:Check Yes.svg",
+  "mediaType": "DRAWING",
+  "mime": "image/svg+xml",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-02-19T16:45:33Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "GNU LGPL"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ACheck%20Yes.svg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 480,
+  "sourceSha1": "dfa6fc2369bcd9fa05b09794df39c5e696ff1f5f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/ca/Check_Yes.svg/revision/latest?cb=20180219164533",
+  "title": "File:Check Yes.svg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 512
+}

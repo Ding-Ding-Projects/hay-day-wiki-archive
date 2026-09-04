@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Clay Products",
+    "Category:Coffee Bean Products",
+    "Category:Gold Ore Products",
+    "Category:Pottery Studio Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Clay Products",
+      "Category:Coffee Bean Products",
+      "Category:Gold Ore Products",
+      "Category:Pottery Studio Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +129,12 @@
   "revisionId": 110216,
   "revisionTimestamp": "2026-05-24T18:10:49Z",
   "route": "/wiki/tea-pot-35279",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tea_Pot",
   "title": "Tea Pot",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tea Pot.png|200px|left|Tea Pot|link=Special:FilePath/Tea_Pot.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 94\n |price = 1 to 219\n |time = 3 h 40 m\n |source = {{Infoicon|potteryst|bigger|link=Pottery Studio}}\n |xp = 26\n |base = 61\n |dia = 1\n |time3 = 3 h 7 m\n}}\n'''Tea Pot''' is a [[products|product]] unlocked at [[experience]] level 94.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Tea Pot'''===\n[[File:Pottery Studio.png|150px|left|Pottery Studio]]\nTea Potis made in the [[Pottery Studio]].\n\nTo make a pot, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Clay.png|75px|Clay|link=Clay]]\n|[[File:Coffee Bean.png|75px|Coffee bean|link=Coffee Bean]]\n|[[File:Gold Ore.png|75px|Gold ore|link=Gold Ore]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 3 hours 40 minutes to make one pot, and 3 hours 7 minutes in a fully [[Masteries|mastered]] studio. Each pot gives players 26 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Tea Pot'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tea Pots can be bought or sold for a maximum price of 2,196 {{Infoicon|Coin}} for 10 pots.\n* Buying the ingredients required to make a Tea Pot costs 139 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 tea pots per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Teekanne\n|es = Tetera\n|fr = Théière\n|it = Teiera\n|nl = Theepot\n|no = Tekanne\n|ru = Чайник\n|zh = Tea Pot\n}}\n[[pt-br:Bule de chá]]\n\n[[Category:Pottery Studio Products]]\n[[Category:Clay Products]]\n[[Category:Coffee Bean Products]]\n[[Category:Gold Ore Products]]",
   "wikitextHash": "11976d5b9c64f29cb60b978776b3f8777daa440b85e2c3a93b34c7445e324182"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Samosa.png",
+  "filePageId": 35412,
+  "filePageRevisionId": 104823,
+  "filePageRevisionSha1": "7bc6daaeb14caaa9f6fdc4861f4fbf040a2a7d74",
+  "filePageRevisionTimestamp": "2024-02-12T13:08:30Z",
+  "filePageWikitext": "== Summary ==\nTemporary image.\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "5ebea3e944ccb953af2575a776c8e297cc4c01fba36e51d9e3cb43d7e5f0bc52",
   "height": 2300,
   "immutableUrl": null,
   "mediaId": "File:Samosa.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-12T13:08:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASamosa.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2140666,
   "sourceSha1": "f09e453df8df4224be82a4f6ed6fbfe3dae4e30c",

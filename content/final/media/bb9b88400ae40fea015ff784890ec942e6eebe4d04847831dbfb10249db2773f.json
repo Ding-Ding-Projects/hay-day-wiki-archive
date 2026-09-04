@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Boost_the_fun_and_the_success_of_Hayday_fans",
+  "filePageId": null,
+  "filePageRevisionId": null,
+  "filePageRevisionSha1": null,
+  "filePageRevisionTimestamp": null,
+  "filePageWikitext": null,
+  "filePageWikitextHash": null,
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Boost the fun and the success of Hayday fans",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-03-02T08:40:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "none",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3ABoost%20the%20fun%20and%20the%20success%20of%20Hayday%20fans",
+  "schemaVersion": 2,
+  "scope": "downloadable-only",
+  "sha256": null,
+  "sizeBytes": 15827,
+  "sourceSha1": "36ae1864e16bc86095fea9e1c1409d4315f604d0",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fc/Boost_the_fun_and_the_success_of_Hayday_fans/revision/latest?cb=20150302084050",
+  "title": "File:Boost the fun and the success of Hayday fans",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

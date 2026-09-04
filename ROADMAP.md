@@ -6,7 +6,7 @@ This checklist records the current state of the archive. A checked item means im
 
 - [x] Create the execution-time MediaWiki snapshot manifest.
 - [x] Implement resumable page, category, redirect, and referenced-media enumeration. Template and module dependency freezing remains open.
-- [ ] Add every planned versioned schema. `SnapshotManifestV1`, `ArticleRecordV1`, and `MediaRecordV1` are verified; dedicated search and redirect records remain open.
+- [x] Add versioned `SnapshotManifestV2`, `ArticleRecordV2`, `MediaRecordV2`, and `CategoryIndexV1`; dedicated search and redirect records remain open.
 - [x] Add deterministic import fixtures and interruption/resume verification.
 - [x] Add the public-safe documentation foundation and contributor policy.
 
@@ -20,13 +20,16 @@ This checklist records the current state of the archive. A checked item means im
 
 ## Media and publication
 
-- [x] Produce the per-file rights matrix from the execution manifest.
+- [x] Produce the per-file rights matrix and explicit File-page rights-evidence classifications from the execution manifest.
+- [x] Enumerate the complete namespace-6 File-page title inventory and paginated allimages catalog, preserving catalog-only and referenced-only records.
+- [x] Retain exact article and File-page revision-bound wikitext with independent hash checks.
+- [x] Persist versioned category membership with out-of-scope members and empty categories intact.
 - [ ] Upload eligible original media to immutable Cheap LFS release assets in verified batches.
 - [ ] Verify every copied media asset anonymously by status, content type, byte count, and SHA-256.
 - [x] Publish GitHub Pages from the validated static bundle.
 - [x] Publish the first verified unsigned Windows release with setup, full package, hashes, and anonymous download proof.
 - [ ] Add the release workflow, release timing evidence, manifests, hashes, and unsigned package evidence where applicable.
-- [x] Verify the packaged Windows desktop reader through the required headless interaction route, including Home, the 1,362-row index, an article, attribution, maximize and restore controls, overflow, console, network, and HTTP-error checks.
+- [x] Verify the packaged Windows desktop reader through the required headless interaction route, including Home, the 1,363-row index, an article, attribution, maximize and restore controls, overflow, console, network, and HTTP-error checks.
 
 ## Reader feature contract
 
@@ -39,4 +42,4 @@ This checklist records the current state of the archive. A checked item means im
 
 - [ ] Add one article for every shipped feature and a suggested-articles section to each article.
 - [ ] Keep the website, README, roadmap, changelog, and handoff current on every project-changing task.
-- [x] Record the final execution counts and rights decisions in the snapshot manifest.
+- [x] Record the final execution counts, refresh delta, category index, File-page catalog, rights evidence, and handling decisions in the snapshot manifest.

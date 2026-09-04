@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Fishing Lake",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Fishing Lake",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Supplies?action=history",
@@ -31,11 +45,12 @@
   "revisionId": 81864,
   "revisionTimestamp": "2018-07-07T11:38:39Z",
   "route": "/wiki/category%2Fcategory-supplies-14729",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Supplies",
   "title": "Category:Supplies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Pages related to [[Supplies]].\n{{Languages\n|de = Kategorie:Baumaterialien\n|es = Categoría:Materiales\n|fr = Catégorie:Les_Items\n}}\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Town]]\n[[Category:Fishing Lake]]",
   "wikitextHash": "4a243a34c7dfd0b7b0cf95a8a636df238cb653d45989e6bbcfee1991240eab5a"
 }

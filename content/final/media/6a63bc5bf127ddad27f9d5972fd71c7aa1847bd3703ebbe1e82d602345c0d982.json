@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_116.png",
+  "filePageId": 27260,
+  "filePageRevisionId": 107172,
+  "filePageRevisionSha1": "671980c144c6438cb5ad65cf7f3430a6c402073a",
+  "filePageRevisionTimestamp": "2025-02-07T18:04:01Z",
+  "filePageWikitext": "== Summary ==\nExperience Level 116 Image\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "3d1218f6cc395273e6f0d02693fc16749f107145d52d3800a8ed94018e8f7161",
+  "height": 568,
+  "immutableUrl": null,
+  "mediaId": "File:Level 116.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-02-07T18:04:01Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20116.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 356978,
+  "sourceSha1": "38525cdf538a4061ed917c2571756ce494aa54c5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/14/Level_116.png/revision/latest?cb=20250207180401",
+  "title": "File:Level 116.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 794
+}

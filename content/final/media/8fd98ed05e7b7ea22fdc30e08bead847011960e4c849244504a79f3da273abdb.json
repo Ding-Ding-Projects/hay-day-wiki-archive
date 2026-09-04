@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_252.jpg",
+  "filePageId": 36345,
+  "filePageRevisionId": 108159,
+  "filePageRevisionSha1": "8724626a3f93c84d8bbeab6515fb732fd63fc20a",
+  "filePageRevisionTimestamp": "2025-07-17T12:35:49Z",
+  "filePageWikitext": "== Summary ==\nExperience Level Up Banner\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "2c4f497062e2917a64c2e144898c57388905697c1dabca84a7ebb122140e9535",
   "height": 553,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 252.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-07-17T12:35:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20252.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 39649,
   "sourceSha1": "a83ce76f6accfe73ef82d46a745762e298871d7e",

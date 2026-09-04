@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-Logo.jpg",
+  "filePageId": 34987,
+  "filePageRevisionId": 99594,
+  "filePageRevisionSha1": "0ddb2b53ef1a01e444820bf1a072ea936af6858a",
+  "filePageRevisionTimestamp": "2021-12-06T23:04:17Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "36023f89ce56db14fde1fd684dc37d96637bb597ddca50057857b9ff7ed0d68d",
   "height": 435,
   "immutableUrl": null,
   "mediaId": "File:Hay Day-Logo.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-07-03T10:52:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHay%20Day-Logo.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 35010,
   "sourceSha1": "6fec794d02268ecb9a5c1a0f7ffdf1a0637c7c7e",

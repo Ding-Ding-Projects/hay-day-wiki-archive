@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Storage_Buildings?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 13887,
   "revisionTimestamp": "2013-07-20T10:22:10Z",
   "route": "/wiki/category%2Fcategory-image-storage-buildings-7528",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Storage_Buildings",
   "title": "Category:Image Storage Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Image Storage Buildings\n[[Category:Images]]",
   "wikitextHash": "a510791c69557c9210249fa030f4e0868750fa9bed2c1879d020d0a45233913f"
 }

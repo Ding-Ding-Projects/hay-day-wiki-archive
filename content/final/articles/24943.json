@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:BBQ Grill Products",
+    "Category:Butter Products",
+    "Category:Onion Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:BBQ Grill Products",
+      "Category:Butter Products",
+      "Category:Onion Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -172,11 +184,12 @@
   "revisionId": 109812,
   "revisionTimestamp": "2026-05-07T13:44:15Z",
   "route": "/wiki/grilled-onion-24943",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grilled_Onion",
   "title": "Grilled Onion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grilled Onion.png|200px|left|Grilled Onion]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 68\n |price = 1 to 190\n |time = 1 h\n |source = {{Infoicon|bbqg|bigger|link=BBQ Grill}}\n |xp = 23\n |base = 53\n |dia = 4\n |time3 = 51 min\n}}\n'''Grilled onions''' are [[products]] unlocked at [[experience]] level 68.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making grilled onion'''===\n[[File:BBQ Grill.png|150px|left|BBQ Grill]]\nGrilled onions are made in the [[BBQ Grill]].\n\nTo make the grilled onion, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Butter.png|75px|Butter]]\n|[[File:Onion.png|75px|Onion]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hour to make one grilled onion, and 51 minutes in a fully [[Masteries|mastered]] grill. Each grilled onion gives players 23 [[experience]] points.\n\n{{Clr}}----\n==='''Selling grilled onion'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Grilled onions can be bought or sold for a maximum price of 1,908 coins {{Infoicon|Coin}} for 10 grilled onions.\n* Buying the ingredients required to make the grilled onion costs 160 {{Infoicon|Coin}} coins.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 to 3 grilled onions per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Grillzwiebel\n|es = Cebolla a la parrilla\n|fr = Oignon Grillé\n|it = Cipolla alla griglia\n|nl = Gegrilde Ui\n|no = Grillet løk\n|ru = Жареный лук\n|zh = Grilled Onion\n}}\n[[pt-br:Cebola grelhada]]\n\n[[Category:BBQ Grill Products]]\n[[Category:Butter Products]]\n[[Category:Onion Products]]",
   "wikitextHash": "e16ecb2e40c0f54557e915c1cc5ab94357c1522063e4580570ea95a43bab46e1"
 }

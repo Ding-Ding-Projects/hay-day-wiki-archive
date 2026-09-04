@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Puzzle_Piece.png",
+  "filePageId": 28155,
+  "filePageRevisionId": 74217,
+  "filePageRevisionSha1": "4092b8ecb377f49f1199c8bf5d13d2768a0f633d",
+  "filePageRevisionTimestamp": "2017-10-22T10:07:46Z",
+  "filePageWikitext": "== Summary ==\nIndividual Puzzle Piece\n== Licensing ==\n{{License SC}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "208c1b360881f6d61bb147313023c1f72a0d6900bc81fc90f7eb3f899b5a1f0f",
   "height": 129,
   "immutableUrl": null,
   "mediaId": "File:Puzzle Piece.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:09:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APuzzle%20Piece.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 26214,
   "sourceSha1": "f139ddd0ee87cde62c5d68e7e9ce8b79df4e5a3c",

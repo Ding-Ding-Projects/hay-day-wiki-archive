@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Personal_Train_Locked.png",
+  "filePageId": 13480,
+  "filePageRevisionId": 77474,
+  "filePageRevisionSha1": "ffe0d0c16f0f3f148794f17e0aa6ae2db21daa1b",
+  "filePageRevisionTimestamp": "2018-02-11T18:08:34Z",
+  "filePageWikitext": "Picture of a broken personal train.\n{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "2210a272c165cbec69c6c77a0ff61cec8d5010dad77896340084bd97ba0152e5",
   "height": 644,
   "immutableUrl": null,
   "mediaId": "File:Personal Train Locked.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T18:06:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APersonal%20Train%20Locked.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 327519,
   "sourceSha1": "e1a050d811d1f630f216ac4e18e6672d8489e60c",

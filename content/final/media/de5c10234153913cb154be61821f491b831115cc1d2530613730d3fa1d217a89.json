@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:TOP_5_HAY_DAY_CHRISTMAS_DECORATIONS",
+  "filePageId": 32215,
+  "filePageRevisionId": 89798,
+  "filePageRevisionSha1": "8d99251af98774669a929d3d66f17f332f2f2872",
+  "filePageRevisionTimestamp": "2019-12-03T20:14:52Z",
+  "filePageWikitext": "\n== Description ==\nTOP 5 HAY DAY CHRISTMAS DECORATIONS\nMy ranking for the best christmas decos in Hay Day. If you have different opinions then feel free to share them in the comments.\nMake sure to like the video if you enjoyed, and feel free to subscribe to Finland´s most entertaining Hay Day youtuber: https://bit.ly/2JQ1LhV\n\n#Hayday\n#Supercell\n#AxelssonHD\n[[Category:Videos]]",
+  "filePageWikitextHash": "0e1ace5dba5c82deba4e6d02d039c8094110f7c210c40ce2efdc01cc14d6870a",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:TOP 5 HAY DAY CHRISTMAS DECORATIONS",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-12-03T20:14:51Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3ATOP%205%20HAY%20DAY%20CHRISTMAS%20DECORATIONS",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 19249,
+  "sourceSha1": "49f84d49d237726b5fd3d28d25ce418fc0af3cde",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/7/7b/TOP_5_HAY_DAY_CHRISTMAS_DECORATIONS/revision/latest?cb=20191203201451",
+  "title": "File:TOP 5 HAY DAY CHRISTMAS DECORATIONS",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

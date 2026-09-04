@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Note?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89071,
   "revisionTimestamp": "2019-10-26T04:15:22Z",
   "route": "/wiki/category%2Fcategory-note-24692",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Note",
   "title": "Category:Note",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is a maintenance category for pages containing notes.\n[[Category:Site Administration]]",
   "wikitextHash": "a43912cd0462775cf4489dfa4851112e603ce51e574bbfbd08b72abf02f7640a"
 }

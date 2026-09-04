@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Asparagus_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 103113,
   "revisionTimestamp": "2023-06-12T16:49:57Z",
   "route": "/wiki/category%2Fcategory-asparagus-products-35821",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Asparagus_Products",
   "title": "Category:Asparagus Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Asparagus.png|thumb]]\nProducts of [[Asparagus]].\n[[Category:Products]]",
   "wikitextHash": "4b6f538d637bdf51af3af4b3d92d870b1d0c7d7d100794ba17ec5c4d1642b7fa"
 }

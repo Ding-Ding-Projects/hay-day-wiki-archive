@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_224.jpg",
+  "filePageId": 35856,
+  "filePageRevisionId": 103356,
+  "filePageRevisionSha1": "0a9fcbfb708bcc82da3d9d2a57cca035bf4d1c0d",
+  "filePageRevisionTimestamp": "2023-07-04T12:55:39Z",
+  "filePageWikitext": "== Summary ==\nLevel 224\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "1351ed15404c8d0e3b2843f1c9fdf7ab528a61622c30f491a2abd37137606b05",
   "height": 768,
   "immutableUrl": null,
   "mediaId": "File:Level 224.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-07-04T12:55:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20224.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 597951,
   "sourceSha1": "544a0bde01d6c21c2517fd47d7dd08f8a7017fd0",

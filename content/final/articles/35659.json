@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Guava_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 101959,
   "revisionTimestamp": "2022-11-28T22:47:29Z",
   "route": "/wiki/category%2Fcategory-guava-products-35659",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Guava_Products",
   "title": "Category:Guava Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Guava.png|thumb]]\nProducts of [[Guava]].\n[[Category:Products]]",
   "wikitextHash": "bdd07d46ea7046e91e855c3b08b67c535818e2444c0ee9949b37f89d474bfe3f"
 }

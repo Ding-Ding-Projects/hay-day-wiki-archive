@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +165,12 @@
   "revisionId": 107461,
   "revisionTimestamp": "2025-02-28T23:35:29Z",
   "route": "/wiki/iron-ore-13486",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Iron_Ore",
   "title": "Iron Ore",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Iron Ore.png|200px|left|Iron ore]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 34\n |price = 1 to 14\n |time = Instant\n |source = {{Infoicon|mine|bigger|link=Mine}}\n |xp = 4\n |base = 4\n}}\n\n'''Iron ore''' is a [[Products|product]] unlocked at [[experience]] level 34.\n\nLike all products, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Extracting iron ore'''===\n[[File:Mine.png|150px|left|Mine]]\nIron ore is found in the [[Mine]].\n\nTo extract ore, players need one of the following supplies. Each type of supplies gives different numbers of ore, as shown below.\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Dynamite.png|75px|link=Dynamite|Dynamite]]\n|[[File:TNT Barrel.png|75px|link=TNT Barrel|TNT barrel]]\n|[[File:Shovel.png|75px|link=Shovel|Shovel]]\n|[[File:Pickaxe.png|75px|link=Pickaxe|Pickaxe]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x4'''\n|'''x5'''\n|}\n\nIt takes no time to extract ore but the process is randomized: players might get any of the available Mine products when using mine supplies, as well as an extra [[diamond]]. Each extracted iron ore gives players 4 [[experience]] points.\n\n{{Clr}}----\n==='''Selling iron ore'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Iron ore can be bought or sold for a maximum price of 144 {{Infoicon|coin}} for 10 units.\n* Buying a supply tool costs between 25 and 126 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Used iron ore'''===\nIron ore is used to make the following [[products]]:\n\n{{Item Usage|Iron Ore\n|Iron Bar|3|34\n|Bright Bouquet|5|65\n}}\n----\n==='''Strategy tips'''===\n* Selling iron ore is not profitable at all. You should always use if for [[Flower Shop|bouquets]] or [[Jeweler|jewelry]] unless it takes valuable space in your [[barn]].\n* [[Boat]] orders never require iron ore.\n----\n{{Navigation}}\n{{Languages\n|de = Eisenerz\n|es = Mineral de hierro\n|fr = Minerai de Fer\n|it = Minerale di ferro\n|nl = IJzererts\n|no = Jernmalm\n}}\n[[Category:Mine Products]]",
   "wikitextHash": "6614f256e4da0dd9384b4757602da2a0fcb89fb306250f59e9ac5ae3b650b23a"
 }

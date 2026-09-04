@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bath Kiosk Products",
+    "Category:Lemon Products",
+    "Category:Olive Oil Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bath Kiosk Products",
+      "Category:Lemon Products",
+      "Category:Olive Oil Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +147,12 @@
   "revisionId": 110189,
   "revisionTimestamp": "2026-05-23T21:20:22Z",
   "route": "/wiki/lemon-lotion-34836",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lemon_Lotion",
   "title": "Lemon Lotion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lemon Lotion.png|200px|left|Lemon lotion]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 84\n |price = 1 to 403\n |time = 1 hr 15 min\n |source = {{Infoicon|bathk|bigger|link=Bath Kiosk}}\n |xp = 48\n |base = 112\n |dia = 4\n |time3 = 1 hr 3 min\n}}\n'''Lemon lotion''' is a [[Products|product]] unlocked at [[experience]] level 84.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making lemon lotion'''===\n[[File:Bath Kiosk.png|150px|left|Bath Kiosk]]\nLemon lotion is made in the [[Bath Kiosk]].\n\nTo make lemon lotion, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Olive Oil.png|75px|Olive oil|link=Olive Oil]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour 15 minutes to make one tube of lemon lotion, and 1 hour 3 minutes in a fully [[Masteries|mastered]] kiosk. Each tube gives players 48 [[experience]] points.\n\n{{Clr}}----\n==='''Selling lemon lotion'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Lemon lotion can be bought or sold for a maximum price of 4,032 {{Infoicon|Coin}} for 10 tubes.\n*Buying the ingredients required to make lemon lotion costs 370 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 1 to 2 lemon lotions per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n* [[Olive]] and [[Lemon]] are both high-demand crops. If you wish to master the machine using this product, make sure to plant large amounts of these two trees and stock some saws. Be warned that you need the [[Sauce Maker]] as well.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Zitronenlotion\n|es = Loción de limón\n|fr = Lotion au Citron\n|it = Lozione al limone\n|nl = Citroenlotion\n|no = Sitronkrem2\n|ru = Лимонный крем\n|zh = Lemon Lotion\n}}\n[[pt-br:Loção de limão]]\n\n[[Category:Bath Kiosk Products]]\n[[Category:Lemon Products]]\n[[Category:Olive Oil Products]]",
   "wikitextHash": "146a607a1859f4159cc94628b5db091943bd26489b81c7b88b7c1f4d0d2c3465"
 }

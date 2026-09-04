@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Green_Gift.png",
+  "filePageId": 35682,
+  "filePageRevisionId": 104864,
+  "filePageRevisionSha1": "ddcd56eff2943d4eabc7adb8ae00528385ab68c1",
+  "filePageRevisionTimestamp": "2024-02-18T02:47:01Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Green Gift]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "e272564de096aaacfbb4d805cbc9fbe6879d16a80ad02fdf8f4ee024e7f4e82d",
   "height": 2140,
   "immutableUrl": null,
   "mediaId": "File:Green Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T02:47:01Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreen%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2518753,
   "sourceSha1": "2da9851394a782dfc8228490ea06fea99ffe1ae2",

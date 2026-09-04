@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Jam Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Jam Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +172,12 @@
   "revisionId": 107753,
   "revisionTimestamp": "2025-04-13T21:02:12Z",
   "route": "/wiki/apple-jam-2228",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple_Jam",
   "title": "Apple Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple Jam.png|200px|left|Apple jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 35\n |price = 1 to 219\n |time = 6 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 26\n |base = 61\n |dia = 7\n |time3 = 5 h 6 min\n}}\n'''Apple jam''' is a [[products]] unlocked at [[experience]] level 35. \n\nIt is used to make [[Hand Pies|hand pies]] and [[Apple Porridge|apple porridge]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making apple jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nApple jam is made in the [[Jam Maker]].\n\nTo make the jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple.png|75px|Apples|link=Apple]]\n|-\n|'''x3'''\n|}\nIt takes 6 hours to make one jar, and 5 hours and 6 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 26 [[experience]] points.\n\n{{Clr}}----\n==='''Selling apple jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Apple jam can be bought or sold for a maximum price of 2,196 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the jam costs 117 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 apple jam per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Using apple jam'''===\nApple jam is used to make the following [[products]]:\n\n{{Item Usage|Apple Jam\n|Hand Pies|1|91\n|Apple Porridge|2|119\n}}\n----\n{{Navigation}}\n{{Languages\n|de = Apfelmarmelade\n|es = Mermelada de manzana\n|fr = Confiture de Pomme\n|it = Marmellata di mele\n|nl = Appeljam\n|no = Eplesyltetøy\n|ru = Яблочное варенье\n|zh = Apple Jam\n}}\n[[pt-br:Geleia de maçã]]\n\n[[Category:Jam Maker Products]]\n[[Category:Apple Products]]",
   "wikitextHash": "c8fdf2b97ce63d9016002691d12486f853f32adeff3cbeb8edc049237e5e5f01"
 }

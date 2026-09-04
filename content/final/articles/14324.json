@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Trade"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Trade"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -230,11 +240,12 @@
   "revisionId": 106752,
   "revisionTimestamp": "2025-01-06T00:11:22Z",
   "route": "/wiki/shop-14324",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Shop",
   "title": "Shop",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Shop.png|200px|The shop|left]]\nThe '''shop''' (also called the '''market''') is where players can buy [[farm|fields]], [[animals]] and their [[:Category:Animal Shelters|shelters]], [[Trees and Bushes|trees and bushes]], [[Production Buildings|production buildings]], [[service Buildings|Service buildings]], and [[decorations]].\n\nItems in the shop cost [[coin]]s, [[diamond]]s, or [[voucher]]s.\n{{Clr}}\n----\n==='''Using the shop'''===\n[[File:Shop Icon.png|150px|left]]\nThe shop can be accessed by touching the cash register icon on the bottom left of the screen.\n\nThe shop has 5 tabs to buy things from:\n*[[Farm|Fields]] and [[:Category:Animal Shelters|Animal shelters]]\n*[[Animals]]\n*[[Production Buildings|Production buildings]]/[[Service Buildings|Service buildings]]\n*[[Trees and Bushes|Trees and bushes]]\n*[[Decorations]]\n\nPlayers can purchase items by touching and dragging them onto available space in the farm or the town.\n{{Clr}}\n----\n==='''Decoration filters'''===\n{{Main|Decorations}}\nThe [[decorations]] tab has sub-filters:\n<gallery type=\"slideshow\">\nShop Decorations.png|All\nShop Nature.png|Nature\nShop Farming.png|Farming\nShop Ornaments.png|Ornaments\nShop Fences & Paths.png|Fences & Paths\nShop Rewards.png|Rewards\nShop Sanctuary.png|Sanctuary\nShop Coins.png|Cost coins\nShop Diamonds.png|Cost diamonds\nShop Vouchers.png|Cost vouchers\nShop Storage.png|Stored items\n</gallery>\n----\n==='''Storing decorations'''===\nPlayer can store decorations they have bought. They need to:\n#Touch and hold the decoration until the rotate and store icons appear.\n#Touch the store button (i.e. the box icon)\n\nPlayers can place stored decorations back the usual way.\n\nWhen more then one item is stored, the shop records how many of each it holds. Players must use stored items first, before buying another.\n----\n{{FarmBuildingsMenu}}\n{{TradeMenu}}\n{{Languages\n|de = Laden\n|es = Tienda\n|it = Negozio\n|no = Butikk\n}}\n[[Category:Trade]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "d28730a7ec51f642c9ff3671a3f0b3aa1213dd388c2c7f83715ade0fedaa6323"
 }

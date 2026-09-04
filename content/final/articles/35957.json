@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Candidates for deletion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Candidates for deletion"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -63,11 +71,12 @@
   "revisionId": 105545,
   "revisionTimestamp": "2024-07-01T20:54:05Z",
   "route": "/wiki/pizza-oven-35957",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pizza_Oven",
   "title": "Pizza Oven",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{Delete}}\n'''<big>(Speculation, no information has been shown officially.)</big>'''\n\nThe ''[[Pizza Oven]]'' is a concept for a new production building that is believed to arrive in Decemeber 2023 as part of the Christmas 2023 update. Little is known about the ''[[Pizza Oven]],'' as it is supposedly still in development. This concept has not been confirmed, hence is not yet official. This article will be updated when more information is released about the ''[[Pizza Oven]].'' \n\n=== Description ===\nThe ''[[Pizza Oven]]'' is a concept production building unlocked at experience level 52. It is used to make various types of pizza. The ''[[Pizza Oven]]'' is meant to be an upcoming successor for the original three pizza products that can be made in the ''[[Bakery]]''. The ''[[Pizza Oven]]'' will allow players to produce various different types of pizzas which will be inaccessible through the ''[[Bakery]].'' \n\n=== Appearance ===\nThe ''[[Pizza Oven]]'' will supposedly look like a ''[[Pie Oven]]'' and ''[[Bakery]]'' hybird. It will have a red brick structure with a rounded top, similar to the ''[[Bakery]].'' \n\n=== Products ===\nConcept products include:\n\n* Hawaiian Pizza - Level 52\n* Cheese Pizza - Level 54 \n* Classico Pizza - Level 58\n* BBQ Pizza - Level 68\n* Chocolate Pizza - Level 92",
   "wikitextHash": "b337c293c82a1f6b109561ab48508c83cd4850e250f04f6aed61a7906b3cba78"
 }

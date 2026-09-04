@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_237.jpg",
+  "filePageId": 36057,
+  "filePageRevisionId": 109832,
+  "filePageRevisionSha1": "5bd1ed7e140727a1ae2563eea82dd0cb464c38c7",
+  "filePageRevisionTimestamp": "2026-05-08T11:32:03Z",
+  "filePageWikitext": "== Summary ==\nExperience level banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "b5d0f318fec64216d48d0520194cf1f5be16a38c2b9a47af72f6d36f4624a17c",
   "height": 589,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 237.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-05-05T12:40:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20237.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 38394,
   "sourceSha1": "ecbc39914c1634c987825dc05377e6f5aecdabc7",

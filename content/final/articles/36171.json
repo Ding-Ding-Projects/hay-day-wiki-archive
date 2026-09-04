@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Products",
+    "Category:Halloween Treats Maker Products",
+    "Category:Indigo Products",
+    "Category:New",
+    "Category:Popcorn Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Products",
+      "Category:Halloween Treats Maker Products",
+      "Category:Indigo Products",
+      "Category:New",
+      "Category:Popcorn Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 108791,
   "revisionTimestamp": "2025-10-23T20:39:10Z",
   "route": "/wiki/worm-treats-36171",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Worm_Treats",
   "title": "Worm Treats",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{New}}\n[[File:Worm Treats.png|200px|left|Worm Treats]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 20\n |halloweenhat = 10\n |time = 15m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 45\n |dia = 15\n}}\n'''Worm Treats''' are a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Halloween event.\nIn 2025, they are unlocked at [[experience]] level 35.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Worm Treats'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nWorm Treats are made in the [[Halloween Treats Maker]].\n\nTo make worm treats, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Popcorn.png|75px|Popcorn|link=Popcorn]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x3'''\n|}\n\nIt takes 15 minutes to make treats. Each treats gives players 45 [[experience]] points.\n\nTo make a worm treat in the '''Halloween 2025 event''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Soft Candy.png|75px|Soft Candy|link=Soft Candy]]\n|[[File:Carrot Pie.png|75px|Carrot Pie|link=Carrot Pie]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 10 minutes to make one treat, and 5 minutes in a 1-star mastered station. Each treat gives players 80 experience points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 treats per crate, up to a total of 4 per boat. Each treats used on a boat will be rewarded with 10 [[Halloween Hat]]s, 11 halloween hats in a 1-star and mastered maker, 14 halloween hats in a 2-star and 20 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Apple Products]]\n[[Category:Popcorn Products]]\n[[Category:Indigo Products]]\n\n{{Languages\n|es = Gusanos de golosina\n}}",
   "wikitextHash": "f86652cd8de261985b13a18b4e3e1a6c3e94437597ec81ef4d24b4846b511ab7"
 }

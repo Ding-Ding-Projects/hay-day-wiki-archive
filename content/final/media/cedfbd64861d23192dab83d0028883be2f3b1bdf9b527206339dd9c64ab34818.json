@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:New_crops_%26_products.png",
+  "filePageId": 31878,
+  "filePageRevisionId": 99718,
+  "filePageRevisionSha1": "5d819bdfb0739cb167d75e3121481d85d06f8c50",
+  "filePageRevisionTimestamp": "2021-12-12T22:50:04Z",
+  "filePageWikitext": "\n[[Category:Image News]]",
+  "filePageWikitextHash": "5ac7521052d17f4cf05534affc774f80f70dc1df08dbcefb006559071569c701",
+  "height": 800,
+  "immutableUrl": null,
+  "mediaId": "File:New crops & products.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2019-10-20T01:43:08Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ANew%20crops%20%26%20products.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 903907,
+  "sourceSha1": "97174b26bc747c8505fcf89c7c440b4c31b3c4bb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/e/e4/New_crops_%26_products.png/revision/latest?cb=20191020014308",
+  "title": "File:New crops & products.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

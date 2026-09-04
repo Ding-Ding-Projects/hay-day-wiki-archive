@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Reputation?action=history",
@@ -31,11 +41,12 @@
   "revisionId": 78911,
   "revisionTimestamp": "2018-04-17T20:03:34Z",
   "route": "/wiki/category%2Fcategory-reputation-28800",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Reputation",
   "title": "Category:Reputation",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "All pages about [[Reputation]].\n[[Category:Game Features]]\n[[Category:Town]]",
   "wikitextHash": "88ffb658da18fac7656b257f7269aa80343943b3e117bbd7b4262edd96a2864e"
 }

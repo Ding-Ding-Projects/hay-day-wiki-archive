@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Broccoli Products",
+    "Category:Cheese Products",
+    "Category:Fresh Pasta Products",
+    "Category:Pasta Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Broccoli Products",
+      "Category:Cheese Products",
+      "Category:Fresh Pasta Products",
+      "Category:Pasta Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +149,12 @@
   "revisionId": 109559,
   "revisionTimestamp": "2026-03-19T22:56:00Z",
   "route": "/wiki/broccoli-pasta-30755",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Broccoli_Pasta",
   "title": "Broccoli Pasta",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Broccoli Pasta.png|200px|left|Broccoli pasta]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 83\n |price = 1 to 345\n |time = 1 h|xp = 41\n |source = {{Infoicon|pastak|bigger|link=Pasta Kitchen}}\n |base = 96\n |dia = 4\n |time3 = 51 min\n}}\n'''Broccoli pasta''' is a [[products|product]] unlocked at [[experience]] level 83.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making broccoli pasta'''===\n[[File:Pasta Kitchen.png|150px|left|Pasta Kitchen]]\nBroccoli pasta is made in the [[Pasta Kitchen]].\n\nTo make broccoli pasta players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Broccoli.png|75px|link=Broccoli|Broccoli]]\n|[[File:Cheese.png|75px|link=Cheese|Cheese]]\n|[[File:Fresh Pasta.png|75px|link=Fresh Pasta|Fresh pasta]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour to make pasta, and 51 minutes in a fully [[Masteries|mastered]] kitchen. Each broccoli pasta gives players 41 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling broccoli pasta'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Broccoli pasta can be bought or sold for a maximum price of 3456 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make broccoli pasta costs 314 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 2 broccoli pasta per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Nudeln mit Brokkoli\n|es = Pasta con brócoli\n|fr = Pâtes aux Brocolis\n|it = Pasta coi broccoli\n|nl = Broccolipasta\n|no = Brokkolipasta\n|ru = Паста с брокколи\n|zh = Broccoli Pasta\n}}\n[[pt-br:Macarrão com brócolis]]\n\n[[Category:Pasta Kitchen Products]]\n[[Category:Cheese Products]]\n[[Category:Broccoli Products]]\n[[Category:Fresh Pasta Products]]",
   "wikitextHash": "08fe045b23debb78546a8350d97f2b768d3cc63e5529dbd708d133e83039be39"
 }

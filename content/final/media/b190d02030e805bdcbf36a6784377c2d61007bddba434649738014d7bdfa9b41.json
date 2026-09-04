@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day%27s_5th_Anniversary_Thank_You",
+  "filePageId": 28271,
+  "filePageRevisionId": 73110,
+  "filePageRevisionSha1": "88c112afa907e801cf77603ebc405bad2d99b31e",
+  "filePageRevisionTimestamp": "2017-08-09T09:32:32Z",
+  "filePageWikitext": "\n== Description ==\nA message from the Hay Day team! \nThank you for 5 years of Hay Day & we look forward to many more!\n\nDownload and play now! http://supr.cl/2sOwUdt\n[[Category:Videos]]",
+  "filePageWikitextHash": "7d130075e23c05594dbf5ed93f03edbc066a4120918cfd3e005334cde061c756",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day's 5th Anniversary Thank You",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2017-08-09T09:32:30Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day's%205th%20Anniversary%20Thank%20You",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 37503,
+  "sourceSha1": "e40f1a184d99af34c2c0fe322df66896add53ae8",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/8/80/Hay_Day%27s_5th_Anniversary_Thank_You/revision/latest?cb=20170809093230",
+  "title": "File:Hay Day's 5th Anniversary Thank You",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

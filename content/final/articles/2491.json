@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -213,11 +221,12 @@
   "revisionId": 110096,
   "revisionTimestamp": "2026-05-16T22:51:11Z",
   "route": "/wiki/pig-2491",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pig",
   "title": "Pig",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pig.png|200px|left|Pig]]\n\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 10 • 18 • 32\n |price = 500 • 1,400 • 2,300\n |gives = {{Infoicon|bacon|big|link=Bacon}}\n |time = every 4 h\n}}\n'''Pigs''' are [[farm]] [[animals]] that produce [[bacon]]. They are unlocked at [[experience]] level 10. They are the third type of farm animal unlocked in the game.\n\n{{Clr}}\n----\n==='''Appearance'''===\n<gallery>\nPig.png|Pig\nPig Smiling.png\nPig Full.png|Pig Full\nPig Steaming.png|Pig Steaming\nPig Waving.png|Pig Waving\nPig Hungry.png|Pig Hungry\nFile:Pig Summer.png|Summer Pig\nFile:Pig Winter.png|Winter Pig\n</gallery>\n----\n==='''Alternate appearance'''===\n{{Main|Themes}}\nPigs wear themed clothes and accessories during summer, Halloween and winter.\n----\n==='''Buying'''===\n[[File:Pig Pen.png|150px|left|A pig pen]]\nPigs must be placed in [[Pig Pen|pig pens]] to be purchased. Pens cost 150 {{Infoicon|coin}} each. They are unlocked at levels 10, 18 and 32. Each pen can house five pigs.\n\nAt level 10, pigs cost 500 coins each; at level 18, 1,400 coins; at level 32, 2,300 coins.\n\nPigs and pig pens can be bought from the [[shop]].{{Infoicon|shop|bigger|link=Shop}}\n\n{{Clr}}\n----\n==='''Harvesting'''===\n[[File:Pig Steamer.png|120px|left|Steamer]]\nBacon can be steamed from pigs every 4 hours. Players can skip the wait by paying 7 [[diamond]]s per pig. Players must then give pigs [[Pig Feed|pig feed]] to get another harvest. The bacon from the pigs are used to make many products, and to feed dogs and puppies.\n\nPig feed is made of:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Soybean.png|75px|Soybean|link=Soybean]]\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|-\n|'''x1'''\n|'''x2'''\n|}\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Making pig feed only takes 20 minutes for 3 units. You can easily harvest all your bacon and replenish your feed stock by the time the pigs are fat again.\n* Getting many pigs is recommended, because they are used to feed [[:Category: Dogs|dogs]] and [[:Category: Puppies|puppies]] .  \n* Bacon can sometimes be found in the [[Daily Dirt]], but sells very quickly, as it is also needed to feed dogs, as said above\n* Feeding farm animals and harvesting bacon are common tasks in [[Derby|derbies]].\n\n==='''Easter egg'''===\n*Tapping the pig pen makes the pigs stand up and wave hello.\n----\n==='''Did you know?'''===\n*Domesticated pigs are also called <em>swine</em>.\n*In real life pork must be treated to become bacon.\n*Pigs don't sweat! \n*Despite stereotypes, pigs are actually very clean animals.\n----\n\n{{Navigation}}\n{{Languages\n|de = Schwein\n|es = Cerdo\n|fr = Cochon\n|it = Maiale\n|no = Gris\n}}\n[[pt-br:Porco]]\n\n[[Category:Farm Animals]]",
   "wikitextHash": "620b4e684dac3eab160889bb1d85c19da3e8dee9ed319787eb32adb449139c84"
 }

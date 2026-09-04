@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Iron_Tower.png",
+  "filePageId": 35171,
+  "filePageRevisionId": 99669,
+  "filePageRevisionSha1": "b4ae80251c7135af266903fc5124ff415065f9fe",
+  "filePageRevisionTimestamp": "2021-12-12T22:35:40Z",
+  "filePageWikitext": "== Summary ==\nValley Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "90bc4a81dd12fadd116a158e12ad8e8c2ca8bad607e8b1cf212bf56cb1bb5bfa",
   "height": 420,
   "immutableUrl": null,
   "mediaId": "File:Iron Tower.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-02T16:55:24Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AIron%20Tower.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 385023,
   "sourceSha1": "0880c13c4eb02f391a8f117ab33ed13845de77f7",

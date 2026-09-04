@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Goat Cheese Products",
+    "Category:Soup Kitchen Products",
+    "Category:Tomato Juice Products",
+    "Category:Tomato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Goat Cheese Products",
+      "Category:Soup Kitchen Products",
+      "Category:Tomato Juice Products",
+      "Category:Tomato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +186,12 @@
   "revisionId": 106217,
   "revisionTimestamp": "2024-11-06T22:16:20Z",
   "route": "/wiki/tomato-soup-8446",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tomato_Soup",
   "title": "Tomato Soup",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tomato Soup.png|200px|left|Tomato soup]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 47\n |price = 1 to 478\n |time = 1 h 30 min\n |source = {{Infoicon|soupk|bigger|link=Soup Kitchen}}\n |xp = 57\n |base = 133\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Tomato soup''' is a [[Products|product]] unlocked at [[experience]] level 47.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making tomato soup'''===\n[[File:Soup Kitchen.png|200px|left|Soup Kitchen]]\nTomato soup is made in the [[Soup Kitchen]].\n\nTo make the soup, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Tomato.png|75px|Tomatoes|link=Tomato]]\n|[[File:Tomato Juice.png|75px|Tomato juice|link=Tomato Juice]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Goat Cheese.png|75px|Goat cheese|link=Goat Cheese]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour 30 minutes to make one bowl of tomato soup, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 57 [[experience]] points.\n\n{{Clr}}----\n==='''Selling tomato soup'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Tomato soup can be bought or sold for a maximum price of 4,788 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make tomato soup costs 446 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 tomato soup per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Tomatensuppe\n|es = Sopa de tomate\n|fr = Soupe à la Tomate\n|it = Zuppa di pomodoro\n|nl = Tomatensoep\n|no = Tomatsuppe\n|zh = Tomato Soup\n}}\n[[pt-br:Sopa de tomate]]\n[[ru:Томатный суп]]\n[[Category:Soup Kitchen Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Tomato Products]]\n[[Category:Tomato Juice Products]]\n[[Category:Goat Cheese Products]]",
   "wikitextHash": "d239a535ea1891ee05b4988012f6afbeb5720b19517f569ea88345b207e1aaf2"
 }

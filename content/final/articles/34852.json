@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bath Kiosk Products",
+    "Category:Egg Products",
+    "Category:Honey Products",
+    "Category:Lemon Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bath Kiosk Products",
+      "Category:Egg Products",
+      "Category:Honey Products",
+      "Category:Lemon Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110191,
   "revisionTimestamp": "2026-05-23T21:26:09Z",
   "route": "/wiki/honey-face-mask-34852",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Face_Mask",
   "title": "Honey Face Mask",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Face Mask.png|200px|left|Honey face mask]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 99\n |price = 1 to 320\n |time = 1 hr 30 min\n |source = {{Infoicon|bathk|bigger|link=Bath Kiosk}}\n |xp = 38\n |base = 89\n |dia = 5\n |time3 = 1 hr 17 min\n}}\n'''Honey face mask''' is a [[Products|product]] unlocked at [[experience]] level 99.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making honey face mask'''===\n[[File:Bath Kiosk.png|150px|left|Bath Kiosk]]\nHoney face mask is made in the [[Bath Kiosk]].\n\nTo make honey face mask, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour 30 minutes to make one honey face mask, and 1 hour 17 minutes in a fully [[Masteries|mastered]] kiosk. Each mask gives players 38 [[experience]] points.\n\n{{Clr}}----\n==='''Selling honey face mask'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n\n*Honey face mask can be bought or sold for a maximum price of 3,204 {{Infoicon|Coin}} for 10 masks.\n*Buying the ingredients required to make honey face mask costs 283 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n\n*[[Boat]] orders ask for 2 to 3 honey face masks per crate, up to a total of 9 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Each [[Beehive Tree]] harvest would yield enough [[Honey]] for 2 of this product, essentially 3 hours of producing, not as good as the [[Honey Soap]] but reasonable enough for player lack of time.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Honiggesichtsmaske\n|es = Mascarilla de miel\n|fr = Masque au Miel\n|it = Maschera viso al miele\n|nl = Gezichtsmasker met Honing\n|no = Honningmaske\n|ru = Медовая маска для лица\n|zh = Honey Face Mask\n}}\n[[pt-br:Máscara de mel]]\n\n[[Category:Bath Kiosk Products]]\n[[Category:Lemon Products]]\n[[Category:Egg Products]]\n[[Category:Honey Products]]",
   "wikitextHash": "c649280480fac89583e006fa35479bfb8ab4016e0c42cae4b9e778fbc65f049d"
 }

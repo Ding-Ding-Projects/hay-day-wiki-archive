@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Long_Gift.png",
+  "filePageId": 35686,
+  "filePageRevisionId": 104865,
+  "filePageRevisionSha1": "28e621a4a0a5ea12fc3f657fb200415500517d45",
+  "filePageRevisionTimestamp": "2024-02-18T02:47:57Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Long Gift]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "5fb42d439fe96fe89291fc3c5de18fc96349980b19480bb276ddf96c27802cf2",
   "height": 2160,
   "immutableUrl": null,
   "mediaId": "File:Long Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T02:47:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALong%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 3117694,
   "sourceSha1": "46b4237e87bb13702b5a7389c48d56d78310a24b",

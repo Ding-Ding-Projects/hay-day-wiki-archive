@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Jeweler_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57776,
   "revisionTimestamp": "2016-01-21T18:09:17Z",
   "route": "/wiki/category%2Fcategory-jeweler-products-7562",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Jeweler_Products",
   "title": "Category:Jeweler Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Jeweler.png|thumb]]\nProducts of the [[Jeweler]].\n[[Category:Products]]",
   "wikitextHash": "a94141feaa1b0cf1c8dd43eda30751046d72a020bec73aeed1498436dea00543"
 }

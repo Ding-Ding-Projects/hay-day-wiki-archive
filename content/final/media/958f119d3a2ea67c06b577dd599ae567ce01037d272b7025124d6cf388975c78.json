@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Greater_Flamingo.png",
+  "filePageId": 36205,
+  "filePageRevisionId": 106337,
+  "filePageRevisionSha1": "a427a6d90683084c5ab9efc6594d4e26ae156264",
+  "filePageRevisionTimestamp": "2024-11-24T15:30:59Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "35fd6bc051fc848b34f10aa104b3f8a6a87814f00342c94d0081479dae181a1e",
   "height": 175,
   "immutableUrl": null,
   "mediaId": "File:Greater Flamingo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 62,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-11-24T15:30:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreater%20Flamingo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 23655,
   "sourceSha1": "f88595f42399f3fcaccd3043011e03cce6529734",

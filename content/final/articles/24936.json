@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Lemon Products",
+    "Category:Orange Products",
+    "Category:Peach Products",
+    "Category:Smoothie Mixer Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Lemon Products",
+      "Category:Orange Products",
+      "Category:Peach Products",
+      "Category:Smoothie Mixer Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -152,11 +166,12 @@
   "revisionId": 110057,
   "revisionTimestamp": "2026-05-14T20:39:19Z",
   "route": "/wiki/mixed-smoothie-24936",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mixed_Smoothie",
   "title": "Mixed Smoothie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Mixed Smoothie.png|200px|left|Mixed Smoothie]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 88\n |price = 1 to 504\n |time = 30 min\n |source = {{Infoicon|smoothiem|bigger|link=Smoothie Mixer}}\n |xp = 60\n |base = 140\n |dia = 3\n |time3 = 25 min\n}}\n'''Mixed smoothies''' are [[products]] unlocked at [[experience]] level 88.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making mixed smoothies'''===\n[[File:Smoothie Mixer.png|150px|left|Smoothie Mixer]]\nMixed smoothies are made in the [[Smoothie Mixer]].\n\nTo make the smoothie, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Orange.png|75px|Oranges|link=Orange]]\n|[[File:Peach.png|75px|Peaches|link=Peach]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 30 minutes to make one smoothie, and 25 minutes in a fully [[Masteries|mastered]] mixer. Each smoothie gives players 60 [[experience]] points.\n\n{{Clr}}----\n==='''Selling mixed smoothies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Smoothies can be bought or sold for a maximum price of 5,040 {{Infoicon|coin}} for 10 glasses.\n* Buying the ingredients required to make the smoothie costs 487 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 mixed smoothie per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Mixed Smoothies are the best way to earn coins: they take less time and can be sold for 5000+ coins very quickly. Make sure to stock up oranges, peaches and lemons if you want to make some.\n----\n\n{{Navigation}}\n{{Languages\n|de = Gemischter Smoothie\n|es = Batido mixto\n|fr = Smoothie Mélangé\n|it = Frullato misto\n|nl = Gemengde Smoothie\n|no = Blandet smoothie\n|ru = Смузи-микс\n|zh = Mixed Smoothie\n}}\n[[pt-br:Vitamina mista]]\n\n[[Category:Smoothie Mixer Products]]\n[[Category:Lemon Products]]\n[[Category:Orange Products]]\n[[Category:Peach Products]]",
   "wikitextHash": "6ff53b79a3c06dc7307aa4d944c0968b40d6a823d2914f9155e96c7ab8d31861"
 }

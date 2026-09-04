@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Bread Products",
+    "Category:Lettuce Products",
+    "Category:Mayonnaise Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Bread Products",
+      "Category:Lettuce Products",
+      "Category:Mayonnaise Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -161,11 +177,12 @@
   "revisionId": 107767,
   "revisionTimestamp": "2025-04-13T21:09:03Z",
   "route": "/wiki/bacon-toast-11995",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_Toast",
   "title": "Bacon Toast",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon_Toast.png|200px|left|Bacon toast]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 65\n |price = 1 to 648\n |time = 1 h 40 min\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |xp = 77\n |base = 180\n |dia = 5\n |time3 = 1 h 25 min\n}}\n'''Bacon toasts''' are [[products]] unlocked at [[experience]] level 65. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making bacon toasts'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nBacon toasts are made in the [[Sandwich Bar]].\n\nTo make a toast, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bacon.png|75px|link=Bacon|Bacon]]\n|[[File:Bread.png|75px|link=Bread|Bread]]\n|[[File:Lettuce.png|75px|link=Lettuce|Lettuce]]\n|[[File:Mayonnaise.png|75px|link=Mayonnaise|Mayonnaise]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour and 40 minutes to make one toast, and 1 hour and 25 minutes in a fully [[Masteries|mastered]] bar. Each toast gives players 77 [[experience]] points.\n\n{{Clr}}----\n==='''Selling bacon toasts'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Bacon toasts can be bought or sold for a maximum price of 6,480 {{Infoicon|coin}} for 10 toasts.\n* Buying the ingredients required to make a toast costs 605 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 bacon toast per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Bacon toasts were initially called BLT toasts for \"Bacon, Lettuce, Tomato\".\n* Although [[tomato]] slices can be seen on the toast picture they are not actually needed to make it.\n----\n{{Navigation}}\n{{Languages\n|de = Specksalat auf Toast\n|es = Sándwich de beicon\n|fr = Sandwich BLT\n|it = Toast con bacon\n|nl = Broodje Bacon\n|no = Baconsandwich\n|ru = Бутерброд с беконом\n|zh = Bacon Toast\n}}\n[[pt-br:Torrada com bacon]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Bread Products]]\n[[Category:Bacon Products]]\n[[Category:Lettuce Products]]\n[[Category:Mayonnaise Products]]",
   "wikitextHash": "0e69897f53e2b23f241b542e7b2fd98f0430a8cc5713f2f57d026eab3b88ad58"
 }

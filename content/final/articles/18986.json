@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [
     {
       "consentRequired": true,
@@ -179,11 +187,12 @@
   "revisionId": 110795,
   "revisionTimestamp": "2026-07-27T14:03:06Z",
   "route": "/wiki/hay-day-wiki-18986",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki",
   "title": "Hay Day Wiki",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}<mainpage-leftcolumn-start /><!-- Welcome Section -->\n[[File:Banner.png|center|550px|link=]]\n{{FPMain|Welcome to the wiki!|{{FPWelcome}}}}\n<!-- Featured Slider -->\n<gallery type=\"slider\">\nFeatured Guides.png|link=Category:Guides\nFeatured Help.png|link=Special:Community\n</gallery>\n----\n<!-- Link Section -->\n{{FPMain|Check it out!|{{FPButtons}}}}\n<!-- Thumbnail sections -->\n{{FPThumbs}}\n{{Clr}}\n----\n<!-- Game Section -->\n{{FPMain|What's Hay Day?|{{FPHD}}}}\n----\n<!-- Community Section -->\n{{FPMain|Hay Day Community|\n{{FPCommunity}}\n}}\n----\n<!-- Supercell Section -->\n{{FPMain|Supercell Community|\n{{FPSupercell}}\n}}\n----\n<!--Main section of page ends here--><mainpage-endcolumn /><!--Sidebar starts here--><mainpage-rightcolumn-start />\n<!-- Videos -->\n{{FPModule|Watch stuff|\n<gallery mode=nolines widths=250px heights=200px perrow=1>\nHay Day Dairy News- Fall 2020 Update!|Hay Day Dairy News- Fall 2020 Update!\nHay Day Sneak Peek-GORILLAS!! New Sanctuary Animal! Day at the Zoo!!|Hay Day Sneak Peek-GORILLAS!! New Sanctuary Animal! Day at the Zoo!!\nHay Day Farm Pass - Dairy News Update Part 2|Hay Day Farm Pass - Dairy News Update Part 2\nHay Day Fall Update 2020 - Sneak Peek -4 - New Sanctuary Animal • the Gorilla, new Decorations 🦍|Hay Day Fall Update 2020 - Sneak Peek -4 - New Sanctuary Animal • the Gorilla, new Decorations 🦍\n</gallery>}}\n<!-- Discussions (removed until it can be replaced)\n{{FPModule|Discuss stuff|<discussions size=\"6\" mostrecent=\"true\" />}} -->\n<!--Sidebar ends here-->\n<mainpage-endcolumn />\n<br clear=\"all\"/>\n<!-- Gaming Section -->\n{{FPMain|Gaming Community|{{w:FooterSimulationGames}}}}\n{{Languages\n|de = Hay Day Wiki\n|es = Wiki Hay Day\n|fa = صفحهٔ_اصلی\n|fi = Hay Day Wiki\n|fr = Wiki Hay Day\n|it = Hay Day Wiki\n|ko = Hay_Day_Wiki\n|nl = Hay Day Wiki\n|no = Hay Day Wiki\n|ru = Hay Day вики\n|sv = Hay_Day_Wiki\n|vi = Hay Day Wiki\n|zh = 卡通农场_维基\n}}\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "d05b07b0cab495ea9220237a9b26042dfcb9243dbcddd83c49cac53424830b3a"
 }

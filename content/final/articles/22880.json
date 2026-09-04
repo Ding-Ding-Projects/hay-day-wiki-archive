@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Missing_Images?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89067,
   "revisionTimestamp": "2019-10-26T04:15:18Z",
   "route": "/wiki/category%2Fcategory-missing-images-22880",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Missing_Images",
   "title": "Category:Missing Images",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is a maintenance category for pages containing missing images.\n[[Category:Site Administration]]",
   "wikitextHash": "1e3adece4e27a131733248b8c3bc13b2027926a5695f4879405b7e6170dbd0d8"
 }

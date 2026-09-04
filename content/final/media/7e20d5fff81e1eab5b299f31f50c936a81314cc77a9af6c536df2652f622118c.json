@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HAY_day",
+  "filePageId": 29859,
+  "filePageRevisionId": 80870,
+  "filePageRevisionSha1": "6be791b9e2058c11d47a61d797e44d0224a7d32a",
+  "filePageRevisionTimestamp": "2018-06-14T18:44:37Z",
+  "filePageWikitext": "\n\n[[Category:Videos]]",
+  "filePageWikitextHash": "6f946b74e81d6311f9dab06128d091544a623629b83de6fba40732b3895ac3f6",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:HAY day",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2018-06-14T18:44:37Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHAY%20day",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 29165,
+  "sourceSha1": "bb0c66d484f8ca6e9b7348e2ba87f12fe40ef083",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/3/38/HAY_day/revision/latest?cb=20180614184437",
+  "title": "File:HAY day",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

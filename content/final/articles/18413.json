@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Hat_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57771,
   "revisionTimestamp": "2016-01-21T18:07:53Z",
   "route": "/wiki/category%2Fcategory-hat-maker-products-18413",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hat_Maker_Products",
   "title": "Category:Hat Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Hat Maker.png|thumb]]\nProducts of the [[Hat Maker]].\n[[Category:Products]]",
   "wikitextHash": "0163f88e30e1e99ef4cef685d36257f56daa387920290d964eac6ddf237b889b"
 }

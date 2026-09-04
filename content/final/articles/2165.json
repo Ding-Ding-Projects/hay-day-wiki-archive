@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Brown Sugar Products",
+    "Category:Butter Products",
+    "Category:Cake Oven Products",
+    "Category:Carrot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Brown Sugar Products",
+      "Category:Butter Products",
+      "Category:Cake Oven Products",
+      "Category:Carrot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -186,11 +200,12 @@
   "revisionId": 105810,
   "revisionTimestamp": "2024-09-06T01:16:56Z",
   "route": "/wiki/carrot-cake-2165",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Carrot_Cake",
   "title": "Carrot Cake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Carrot Cake.png|200px|left|Carrot cake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 21\n |price = 1 to 165\n |time = 1 h 30 min\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 20\n |base = 46\n |time3 = 1 h 16 min\n |dia = 5\n}}\n'''Carrot cakes''' are [[products]] unlocked at [[experience]] level 21.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making carrot cakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nCarrot cakes are made in the [[Cake Oven]].\n\nTo make a carrot cake, players need the following ingredients in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot.png|75px|Carrot|link=Carrot]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Brown Sugar.png|75px|Brown Sugar|link=Brown Sugar]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour and 30 minutes to make one cake, and 1 hour 16 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 20 [[experience]] points.\n\n{{Clr}}----\n==='''Selling carrot cakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Carrot cakes can be bought or sold for a maximum price of 1,656 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 128 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 4 carrot cakes per crate, up to a total of 16 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Carrot cakes are very hard to find in the [[Daily Dirt]].\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Karottentorte\n|es = Pastel de zanahoria\n|fr = Gâteau à la Carotte\n|it = Torta di carote\n|nl = Worteltaart\n|no = Gulrotkake\n|vi = Bánh kem cà rốt\n|zh = Carrot Cake\n}}\n[[pt-br:Bolo de cenoura]]\n[[ru:Морковный торт]]\n[[Category:Cake Oven Products|1]]\n[[Category:Brown Sugar Products]]\n[[Category:Carrot Products]]\n[[Category:Butter Products]]",
   "wikitextHash": "a886aab01cbeb2c476ecb3383f058b57a6cac48f81196128e417b50f1dde9a8c"
 }

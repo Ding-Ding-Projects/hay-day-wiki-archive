@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing",
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing",
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Net_Maker_Products?action=history",
@@ -33,11 +43,12 @@
   "revisionId": 78950,
   "revisionTimestamp": "2018-04-18T12:57:54Z",
   "route": "/wiki/category%2Fcategory-net-maker-products-17070",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Net_Maker_Products",
   "title": "Category:Net Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Net Maker.png|thumb]]\nProducts of the [[Net Maker]].\n[[Category:Products]]\n[[Category:Fishing]]",
   "wikitextHash": "f0a9e3a81428fec724a86f6b48cdc3271e345c6a6e90f0773f97e73d76d2d9d6"
 }

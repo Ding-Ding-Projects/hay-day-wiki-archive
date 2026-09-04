@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Indigo Products",
+    "Category:Loom Products",
+    "Category:Note",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Indigo Products",
+      "Category:Loom Products",
+      "Category:Note",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -129,11 +143,12 @@
   "revisionId": 110536,
   "revisionTimestamp": "2026-06-15T21:11:15Z",
   "route": "/wiki/blue-woolly-hat-2250",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blue_Woolly_Hat",
   "title": "Blue Woolly Hat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}{{Note|the game uses two different spellings: 'woolly' for hats and 'wooly' for [[Wooly Chaps|chaps]].}}\n[[File:Blue_Woolly_Hat.png|200px|left|Blue woolly hats]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 19\n |price = 1 to 111\n |time = 1 h\n |source = {{Infoicon|Loom|bigger|link=Loom}}\n |xp = 13\n |base = 31\n |dia = 4\n |time3 = 51 min\n}}\n'''Blue woolly hats''' are [[products]] unlocked at [[experience]] level 19. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making blue woolly hats'''===\n[[File:Loom.png|150px|left|Loom]]\nBlue woolly hats are made in the [[Loom]].\n\nTo make a hat, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 1 hour to make one hat, and 51 minutes in a fully [[Masteries|mastered]] machine. Each hat gives players 13 [[experience]] points.\n{{Clr}}\n----\n==='''Selling blue woolly hats'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Blue woolly hats can be bought or sold for a maximum price of 1,116 {{Infoicon|Coin}} for 10 hats.\n* Buying the ingredients required to make a hat costs 79 {{Infoicon|Coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 hats per crate, up to a total of 20 per boat.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Blaue Wollmütze\n|es = Gorro azul de lana\n|fr = Bonnet Bleu\n|it = Cappello di lana\n|nl = Blauwe Muts\n|no = Blå ullue\n|ru = Синяя шапка\n|vi = Mũ len màu xanh\n|zh = 蓝绵帽\n}}\n[[pt-br:Gorro azul de lã]]\n\n[[Category:Loom Products]]\n[[Category:Indigo Products]]\n[[Category:Wool Products]]",
   "wikitextHash": "d5b800a2e38744013e669395c4dd9667aff50c593cf819db0ee3be3961139774"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Bubbling_Caldron.png",
+  "filePageId": 35189,
+  "filePageRevisionId": 99351,
+  "filePageRevisionSha1": "6680ea1480d5c971f7e0d7c53759b1443367fdf9",
+  "filePageRevisionTimestamp": "2021-11-10T21:07:14Z",
+  "filePageWikitext": "== Summary ==\nPass Road 2021 Halloween decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "89e6d8c777d04aa0ed4c90f5f8b683e14b572508688812803aa7d0573e93f461",
   "height": 727,
   "immutableUrl": null,
   "mediaId": "File:Bubbling Caldron.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-10-29T06:06:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABubbling%20Caldron.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 678424,
   "sourceSha1": "fb3268db973039398671d73d7d856b19624f44b0",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orange_Booster.png",
+  "filePageId": 30816,
+  "filePageRevisionId": 84207,
+  "filePageRevisionSha1": "ba856d2f39adcdd0a7ca5049b200f7f4f4cc4b89",
+  "filePageRevisionTimestamp": "2018-12-20T06:17:11Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Boosters]]",
+  "filePageWikitextHash": "7d79be97a8f94a856accf232c70fc10f051ff42a882eb042c6fec62ff171c59f",
   "height": 366,
   "immutableUrl": null,
   "mediaId": "File:Orange Booster.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-12-19T18:58:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOrange%20Booster.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 96953,
   "sourceSha1": "cba64c8b03d4e3df69f7cdeccd52d3b9cd54ebe2",

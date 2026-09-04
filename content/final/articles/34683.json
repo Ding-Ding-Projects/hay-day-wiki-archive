@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Butter Products",
+    "Category:Ginger Products",
+    "Category:Syrup Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Butter Products",
+      "Category:Ginger Products",
+      "Category:Syrup Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -186,11 +202,12 @@
   "revisionId": 109809,
   "revisionTimestamp": "2026-05-06T20:16:27Z",
   "route": "/wiki/gingerbread-cookie-34683",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gingerbread_Cookie",
   "title": "Gingerbread Cookie",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gingerbread Cookie.png|alt=|left|199x199px|Gingerbread Cookie]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 86\n |price = 1 to 273\n |time = 30 min\n |xp = 33\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |base = 76\n |dia = 3\n |time3 = 25 min\n}}\n'''Gingerbread Cookies''' are [[products]] unlocked at [[experience]] level 86.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making gingerbread cookies'''===\n[[File:Bakery.png|150px|left|link=Bakery|Bakery]]\nGingerbread cookies are made in the [[Bakery]].\n\nTo make a gingerbread cookies, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Syrup.png|75px|link=Syrup|Syrup]]\n|[[File:Ginger.png|75px|link=Ginger|Ginger]]\n|-\n|'''x5'''\n|'''x1'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 30 minutes to make one cookie, and 25 minutes in a fully [[Masteries|mastered]] Bakery. Each cookie gives players 33 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling gingerbread cookies'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n\n*Cookies can be bought or sold for a maximum price of 2,736 {{Infoicon|Coin}} for 10 units.\n*Buying the ingredients required to make a cookie costs 243 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n\n*[[Boat]] orders ask for 2 cookies per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Lebkuchenkeks\n|es = Galleta de jengibre\n|fr = Bonhomme en Pain D'Epice\n|it = Biscotto di pan di zenzero\n|nl = Peperkoeken Mannetje\n|no = Pepperkake\n|ru = Пряник\n|zh = Gingerbread Cookie\n}}\n[[pt-br:Biscoito de gengibre]]\n\n[[Category:Bakery Products]]\n[[Category:Wheat Products]]\n[[Category:Butter Products]]\n[[Category:Syrup Products]]\n[[Category:Ginger Products]]",
   "wikitextHash": "b2579181d0bb35041c2d4ad0b75592fb18fdc5519028cba3c38b82a8cc173673"
 }

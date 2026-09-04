@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Loading_Screen_Winter.jpg",
+  "filePageId": 25921,
+  "filePageRevisionId": 69695,
+  "filePageRevisionSha1": "b047b739058e5176f676d9a8f69d57a49451d5ac",
+  "filePageRevisionTimestamp": "2017-02-06T22:17:44Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Themes]]",
+  "filePageWikitextHash": "4254f610efd0ebcc9f6f3b45c4e90d58662d14f9ae602f598591064dd14db1e3",
   "height": 549,
   "immutableUrl": null,
   "mediaId": "File:Loading Screen Winter.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-10-16T12:53:49Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALoading%20Screen%20Winter.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 127846,
   "sourceSha1": "cc60a7ca9474402fa8c80b49ad2e30a689b8dc44",

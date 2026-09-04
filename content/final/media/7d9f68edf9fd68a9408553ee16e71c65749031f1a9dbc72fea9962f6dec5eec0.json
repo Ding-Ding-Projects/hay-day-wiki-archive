@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Strawberry_Yogurt.png",
+  "filePageId": 35450,
+  "filePageRevisionId": 104841,
+  "filePageRevisionSha1": "0d68cb6c23540f748f6f55e75e4865074aab6b3a",
+  "filePageRevisionTimestamp": "2024-02-15T04:53:55Z",
+  "filePageWikitext": "== Summary ==\n[[Strawberry Yogurt]], a product of the [[Yogurt Maker]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "30862e79c4648db8a136e35791b201e269017c2f4e77b3bbed7df1cbb4bfa730",
   "height": 2000,
   "immutableUrl": null,
   "mediaId": "File:Strawberry Yogurt.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 8,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-15T04:53:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStrawberry%20Yogurt.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2897033,
   "sourceSha1": "ac39bfffe664e04f33667920b76990624ebf26ed",

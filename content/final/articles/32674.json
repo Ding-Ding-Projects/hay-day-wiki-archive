@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Mystery_Boxes?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 90829,
   "revisionTimestamp": "2020-03-10T00:23:52Z",
   "route": "/wiki/mystery-boxes-32674",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Mystery_Boxes",
   "title": "Mystery Boxes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Mystery Box]]",
   "wikitextHash": "cc917651fa46662133685ad8950d4b5074f6f65ae75722f51ea311efa00b28f6"
 }

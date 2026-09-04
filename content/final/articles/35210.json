@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -276,11 +284,12 @@
   "revisionId": 110477,
   "revisionTimestamp": "2026-06-08T20:00:54Z",
   "route": "/wiki/bird-house-35210",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bird_House",
   "title": "Bird House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bird House.png|left|125x125px|Bird house|link=Special:FilePath/Bird House.png]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 20\n |price = 10,000\n |houses = <br>[[File:Blue Peacock.png|35px|link=Blue Peacock]][[File:Brown Peacock.png|35px|link=Brown Peacock]][[File:White Peacock.png|35px|link=White Peacock]]<br>[[File:Plate-billed Mountain Toucan.png|35px|link=Plate-billed Mountain Toucan]][[File:Keel-billed Toucan.png|35px|link=Keel-billed Toucan]][[File:Toco Toucan.png|35px|link=Toco Toucan]]<br>[[File:Major Mitchell's Cockatoo.png|35px|link=Major Mitchell's Cockatoo]][[File:Sulphur Crested Cockatoo.png|35px|link=Sulphur Crested Cockatoo]][[File:Rose-Breasted Cockatoo.png|35px|link=Rose-Breasted Cockatoo]]<br>[[File:Dalmatian Pelican.png|35px|link=Dalmatian Pelican]][[File:Brown Pelican.png|35px|link=Brown Pelican]][[File:Australian Pelican.png|35px|link=Australian Pelican]]<br>[[File:Capped Heron.png|35px|link=Capped Heron]][[File:Tricolored Heron.png|35px|link=Tricolored Heron]][[File:Agami Heron.png|35px|link=Agami Heron]]<br>[[File:Andean Flamingo.png|35px|link=Andean Flamingo]][[File:American Flamingo.png|35px|link=American Flamingo]][[File:Greater Flamingo.png|35px|link=Greater Flamingo]]<br>[[File:Black Swan.png|35px|link=Black Swan]][[File:Black-necked Swan.png|35px|link=Black-necked Swan]][[File:Whooper Swan.png|35px|link=Whooper Swan]]<br/>[[File:Scarlet Macaw.png|35px|link=Scarlet Macaw]][[File:Hyacinth Macaw.png|35px|link=Hyacinth Macaw]][[File:Blue-and-Gold Macaw.png|35px|link=Blue-and-Gold Macaw]]\n}}\n\n'''Bird houses''' is a shelter for different types of birds. It is unlocked at [[experience]] level 20.\n{{Clr}}\n----\n==='''Appearance'''===\n[[File:Bird house left.gif|left|100px|thumb|]]\nThe house is a pink gazebo with a watering trough.\n{{Clr}}\n----\n==='''Building'''===\nThe house costs 10,000 {{Infoicon|coin}} and can hold up to 15 birds. Building it takes no time and the bucket capacity is able to hold up to 20 feeds.\n----\n{{Navigation}}\n{{Languages\n|de = Vogelhaus\n|es = Pajarera\n|no = Fuglehus\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "7caf5f85bb45804f27aaae1442e6eb7fd01f912d93e0ad78996422e4b43cdbeb"
 }

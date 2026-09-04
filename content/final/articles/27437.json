@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bunnies",
+    "Category:Needs Info"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bunnies",
+      "Category:Needs Info"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -352,6 +362,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -377,6 +388,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -391,11 +403,12 @@
   "revisionId": 107788,
   "revisionTimestamp": "2025-04-13T21:20:08Z",
   "route": "/wiki/black-bunny-27437",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Black_Bunny",
   "title": "Black Bunny",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Black Bunny.png|200px|left|Black bunny]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 38 • 41\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 6 h\n |cost= {{Infoicon|goldv|link=Voucher}}15 {{Infoicon|purplev|link=Voucher}}15\n |xp = 30\n |dia = 1,950\n}}\n'''Black bunnies''' are pet [[animals]]. The first animal is unlocked at [[experience]] level 38 and the second at level 41.\n\nThey award players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n<gallery>\nBlack Bunny.png\nBlack Bunny Playing.png\nBlack Bunny Lost.png\n</gallery>\n----\n==='''Buying'''===\n[[File:Bunny House.png|150px|left|Bunny house]]\nPlayers must have a [[Bunny House|bunny house]] to be able to buy a bunny. Each bunny costs 15 golden [[voucher]]s and 15 purple ones, or 1,950 [[diamond]]s. Players can have two black bunnies.\n\nBunnies and bunny houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[carrot]]s bunnies eat then wander around their house for six hours and finally fall asleep. Players can immediately wake them up to receive 30 {{Infoicon|xp}} per animal. Bunnies stay asleep otherwise.\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Schwarzer Hase\n|es = Conejito negro\n|fr = Lapin Noir\n|it = Coniglietto nero\n|no = Svart hare\n|ru = Чёрный кролик\n}}\n\n[[Category:Bunnies]]\n[[Category:Needs Info]]",
   "wikitextHash": "70344b1e108680518fca794b06d2fd6696e70fb7833bb36527e0f28b6bae1898"
 }

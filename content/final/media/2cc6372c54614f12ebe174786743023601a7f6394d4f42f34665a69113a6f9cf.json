@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_25.PNG",
+  "filePageId": 22131,
+  "filePageRevisionId": 69435,
+  "filePageRevisionSha1": "c9f66f295168b65a60e8140b4006a2f7d591ca7a",
+  "filePageRevisionTimestamp": "2017-02-06T12:26:14Z",
+  "filePageWikitext": "Reputation Level 25 Image\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "79e7881d696fdbe3358b4c80fa7561f2cd975e7bfcc40266914c975530af73e0",
   "height": 640,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 25.PNG",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-20T15:21:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2025.PNG",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 891303,
   "sourceSha1": "364fd06798b4da3c8d7579902bdc2aac33ccd3d7",

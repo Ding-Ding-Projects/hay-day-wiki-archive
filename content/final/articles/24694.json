@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Citations_Needed?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 89063,
   "revisionTimestamp": "2019-10-26T04:15:14Z",
   "route": "/wiki/category%2Fcategory-citations-needed-24694",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Citations_Needed",
   "title": "Category:Citations Needed",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is a maintenance category for pages where some citations are needed.\n[[Category:Site Administration]]",
   "wikitextHash": "af2d374e2a9dacf88b3190477b1837423e9b48af7ce91bbd671f7fc944b6e1cf"
 }

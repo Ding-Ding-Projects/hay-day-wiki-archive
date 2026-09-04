@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_figureskater_gnome.png",
+  "filePageId": 35716,
+  "filePageRevisionId": 102342,
+  "filePageRevisionSha1": "9eec42cb8237ec5572eb6af561b0bfe5225795e6",
+  "filePageRevisionTimestamp": "2022-12-21T08:30:11Z",
+  "filePageWikitext": "== Summary ==\nFigure Skater Gnome\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "b1046042b127500a38c12031faf6cc0c2a510f2031a54bbf5a206ee834182050",
   "height": 556,
   "immutableUrl": null,
   "mediaId": "File:HayDay figureskater gnome.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-19T14:13:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHayDay%20figureskater%20gnome.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 205824,
   "sourceSha1": "4cb616061f36251a82376f4c655db6769c3f4f95",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Loom Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Loom Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +145,12 @@
   "revisionId": 105726,
   "revisionTimestamp": "2024-08-27T23:14:25Z",
   "route": "/wiki/sweater-2162",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sweater",
   "title": "Sweater",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sweater.png|200px|left|Sweater]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |price = 1 to 151\n |time = 2 h\n |xp = 18\n |source = {{Infoicon|Loom|bigger|link=Loom}}\n |base = 42\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Sweaters''' are [[products]] unlocked at [[experience]] level 17. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making sweaters'''===\n[[File:Loom.png|150px|left|link=Loom|Loom]]\nSweaters are made in the [[Loom]].\n\nTo make a sweater, players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|-\n|'''x2'''\n|}\nIt takes 2 hours to make one sweater, and 1 hour and 42 minutes in a fully [[Masteries|mastered]] machine. Each sweater gives players 18 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling sweaters'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Sweaters can be bought or sold for a maximum price of 1,512 {{Infoicon|Coin}} for 10 sweaters.\n* Buying the ingredients required to make a sweater costs 108 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 3 to 4 sweaters per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Sweaters are very hard to find in the [[Daily Dirt]].\n\n{{Clr}}\n----\n[[ru:Свитер]]\n\n{{Navigation}}\n{{Languages\n|de = Pullover\n|es = Jersey\n|fr = Pull\n|it = Maglione\n|nl = Trui\n|no = Genser\n|vi = Áo len\n|zh = 白毛衣\n}}\n[[pt-br:Suéter]]\n[[ru:Свитер]]\n[[Category:Loom Products]]\n[[Category:Wool Products]]",
   "wikitextHash": "3c7d97faca9f8714aefeb33bcbc35eeb5830980ec613992262be1c7b87a050e1"
 }

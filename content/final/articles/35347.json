@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Grape?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 100281,
   "revisionTimestamp": "2022-02-09T19:53:27Z",
   "route": "/wiki/grape-35347",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Grape",
   "title": "Grape",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Grapes]]",
   "wikitextHash": "9f3408dd208c6037aee78e3df222a16da7e93ffa3ba9b312f270e8a00961916e"
 }

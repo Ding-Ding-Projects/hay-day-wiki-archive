@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cherry.png",
+  "filePageId": 2244,
+  "filePageRevisionId": 88391,
+  "filePageRevisionSha1": "d7d94cb87ab0949fd7566051109d33052616a721",
+  "filePageRevisionTimestamp": "2019-10-23T15:02:04Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "250666d369a9f51f166d42513b694dda735646b998ef3630b410640d378463a3",
   "height": 422,
   "immutableUrl": null,
   "mediaId": "File:Cherry.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 36,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-23T15:02:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACherry.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 151114,
   "sourceSha1": "7d58e179d042a6750e43ef035c5e0c6add35464b",

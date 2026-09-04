@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chinese_Gate.png",
+  "filePageId": 26865,
+  "filePageRevisionId": 77258,
+  "filePageRevisionSha1": "6c03ab4ff999ea1b46a8b0e8610ccf9f394339f3",
+  "filePageRevisionTimestamp": "2018-02-07T17:31:29Z",
+  "filePageWikitext": "Chinese New Year 2017 - Chinese Gate - 275 Diamonds Package 2 $9.99\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "3f125d273e4aaddd594c434f1c747fa6c02761538ffd3fa22cd23b57cd5e06f6",
   "height": 555,
   "immutableUrl": null,
   "mediaId": "File:Chinese Gate.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-07T17:31:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChinese%20Gate.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 388969,
   "sourceSha1": "01bda117c12b76d3a0e4337b0b1406767bd9e544",

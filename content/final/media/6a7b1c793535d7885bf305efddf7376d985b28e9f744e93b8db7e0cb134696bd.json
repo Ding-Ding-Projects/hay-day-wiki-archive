@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pinecones.png",
+  "filePageId": 34549,
+  "filePageRevisionId": 96056,
+  "filePageRevisionSha1": "94b73d641c9ca9dc085e0487c0c650b465deebae",
+  "filePageRevisionTimestamp": "2020-09-28T19:03:54Z",
+  "filePageWikitext": "== Summary ==\nFall 2020 Package Decoration\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "89cc62f0a618b26963fab01d4f254a5daab1bf3af7376f7e1423becbaee1cb82",
+  "height": 300,
+  "immutableUrl": null,
+  "mediaId": "File:Pinecones.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-09-28T19:03:54Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3APinecones.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 206203,
+  "sourceSha1": "cf7d809cc9815201dee376a2da7b789a408aa643",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Pinecones.png/revision/latest?cb=20200928190354",
+  "title": "File:Pinecones.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 300
+}

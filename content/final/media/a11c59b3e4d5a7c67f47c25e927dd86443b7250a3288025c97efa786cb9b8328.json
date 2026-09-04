@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HayDay_icon_fryer_fried_candy_highres.png",
+  "filePageId": 34704,
+  "filePageRevisionId": 99591,
+  "filePageRevisionSha1": "d211484065d679d5c19b13cca2ce8bfaf667bc25",
+  "filePageRevisionTimestamp": "2021-12-06T23:03:03Z",
+  "filePageWikitext": "{{Delete}}",
+  "filePageWikitextHash": "a68af1dc63df0be43a6358558b4fd97ed55e3d0e9452877d0d4b3aa8233a0e6d",
+  "height": 86,
+  "immutableUrl": null,
+  "mediaId": "File:HayDay icon fryer fried candy highres.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-12-27T01:26:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHayDay%20icon%20fryer%20fried%20candy%20highres.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 15783,
+  "sourceSha1": "5f5546f740db260726c26d667ea542a755058e47",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/b/b0/HayDay_icon_fryer_fried_candy_highres.png/revision/latest?cb=20201227012632",
+  "title": "File:HayDay icon fryer fried candy highres.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 75
+}

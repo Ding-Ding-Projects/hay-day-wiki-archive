@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hot_Dog_Stand_Mastery.png",
+  "filePageId": 24796,
+  "filePageRevisionId": 79917,
+  "filePageRevisionSha1": "477c26471160921b579c559aa332d460e6ec580e",
+  "filePageRevisionTimestamp": "2018-05-01T17:36:51Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Masteries]]",
+  "filePageWikitextHash": "06a747cfc63ab21189c6f870b2f73efb9f28083f27d99602faab995eddee2570",
   "height": 157,
   "immutableUrl": null,
   "mediaId": "File:Hot Dog Stand Mastery.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-05-01T17:36:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHot%20Dog%20Stand%20Mastery.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 44577,
   "sourceSha1": "367f492908650ee4b1c5c49da62623ac011deeab",

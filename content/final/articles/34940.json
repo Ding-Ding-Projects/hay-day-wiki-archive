@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Donut Maker Products",
+    "Category:Egg Products",
+    "Category:Milk Products",
+    "Category:Wheat Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Donut Maker Products",
+      "Category:Egg Products",
+      "Category:Milk Products",
+      "Category:Wheat Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -161,11 +177,12 @@
   "revisionId": 107341,
   "revisionTimestamp": "2025-02-23T22:03:27Z",
   "route": "/wiki/plain-donut-34940",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Plain_Donut",
   "title": "Plain Donut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Plain Donut.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 76\n |price = 1 to 129\n |time = 15 min\n |source = {{Infoicon|donutm|bigger|link=Donut Maker}}\n |xp = 15\n |base = 36\n |dia = 2\n |time3 = 12 min\n}}\n'''Plain donuts''' are [[products]] unlocked at [[experience]] level 76.\n\nIt is introduced at [[Update|28 June 2021]].\n\nIt is used to make other types of donuts in the same machine, donut maker.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making plain donuts'''===\n[[File:Donut Maker.png|thumb|150px|left|link=Donut Maker]]\nPlain donuts are made in the [[Donut Maker]].\n\nTo make plain donuts, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|link=Milk]]\n|[[File:White Sugar.png|75px|link=White Sugar]]\n|[[File:Egg.png|75px|link=Egg]]\n|[[File:Wheat.png|75px|link=Wheat]]\n|-\n|'''×1'''\n|'''×1'''\n|'''×1'''\n|'''x3'''\n|}\nIt takes 15 minutes to make one plain donut, and 12 minutes in a fully [[Masteries|mastered]] maker. Each donut gives players 15 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling plain donuts'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Plain donuts can be bought or sold for a maximum price of 1296 {{Infoicon|Coin}} for 10 donuts.\n* Buying the ingredients required to make 1 plain donut costs 109 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using plain donuts'''===\nPlain donuts are used to make the following [[products]]:\n\n{{Item Usage|Plain Donut\n|Sprinkled Donut|1|79\n|Crunchy Donut|1|82\n|Cream Donut|1|86\n|Bacon Donut|1|88\n|Filled Donut|1|93\n}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 3 to 4 plain donuts per crate, up to a total of 12 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Producing a plain donut requires [[White Sugar|white sugar]], but luckily the update of this product also allows players to have two [[Sugar Mill]]s, so white sugar can be obtained more easier to make plain donuts.\n* Producing each of the other products in the donut maker requires a plain donut, it is best to make enough plain donuts to make other donuts.\n\n----\n{{Navigation}}\n{{Languages\n|de = Einfacher Donut\n|es = Dónut clásico\n|fr = Beignet Nature\n|it = Ciambella classica\n|nl = Klassieke Donut\n|no = Vanlig donut\n|zh = Plain Donut\n}}\n[[pt-br:Donut simples]]\n[[ru:Простой пончик]]\n\n[[Category:Donut Maker Products]]\n[[Category:Milk Products]]\n[[Category:Egg Products]]\n[[Category:Wheat Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "a48fd4b3fba7fe22bcf62023fdc9e6d5b9249a4b8e25176dbd0018d274bd29ba"
 }

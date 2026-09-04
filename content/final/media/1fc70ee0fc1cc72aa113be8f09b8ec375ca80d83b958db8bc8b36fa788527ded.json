@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pineapple_Stage_2.png",
+  "filePageId": 34898,
+  "filePageRevisionId": 101395,
+  "filePageRevisionSha1": "5c11dfef1d2383f42e122d4a36242891bb635615",
+  "filePageRevisionTimestamp": "2022-07-16T12:47:43Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "cf1befff31fc207d0aee8f28fc067373499e5278e84a91ba5398804c6c2ba528",
   "height": 823,
   "immutableUrl": null,
   "mediaId": "File:Pineapple Stage 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-07-16T12:47:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3APineapple%20Stage%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 202940,
   "sourceSha1": "02a662241b719d6ff8a1398c25b8f1b62ccfa86f",

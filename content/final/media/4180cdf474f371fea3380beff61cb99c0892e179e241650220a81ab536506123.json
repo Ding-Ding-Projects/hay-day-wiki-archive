@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Net_Maker_Broken.png",
+  "filePageId": 8701,
+  "filePageRevisionId": 77152,
+  "filePageRevisionSha1": "260190cc4619873b934af3f64dddd2a43e851299",
+  "filePageRevisionTimestamp": "2018-02-07T15:46:04Z",
+  "filePageWikitext": "Net Maker not yet constructed\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "ce3c6472c466ff0ba1a21c88cc094ad0270c94b4bf1ea89e3f27088ff2ee5ee2",
   "height": 315,
   "immutableUrl": null,
   "mediaId": "File:Net Maker Broken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T12:00:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANet%20Maker%20Broken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 139901,
   "sourceSha1": "7060ff328f500db4f24cad622c3f63c3a8baed18",

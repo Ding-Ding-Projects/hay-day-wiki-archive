@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Trade?action=history",
@@ -26,11 +38,12 @@
   "revisionId": 78758,
   "revisionTimestamp": "2018-04-17T16:32:58Z",
   "route": "/wiki/category%2Fcategory-trade-29459",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Trade",
   "title": "Category:Trade",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Farm]]\n[[Category:Town]]\n[[Category:Game Features]]",
   "wikitextHash": "eea5493c7b716a3e87bd468bc867fe5ac6fa5af7d79416e4e493ca49754c47f7"
 }

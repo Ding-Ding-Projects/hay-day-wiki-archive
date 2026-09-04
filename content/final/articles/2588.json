@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Horses"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Horses"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -362,6 +370,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -387,6 +396,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -401,11 +411,12 @@
   "revisionId": 107561,
   "revisionTimestamp": "2025-03-16T10:02:24Z",
   "route": "/wiki/palomino-horse-2588",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Palomino_Horse",
   "title": "Palomino Horse",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Palomino Horse.png|200px|left|Palomino horse]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 32 • 37\n |needs = {{Infoicon|carrot|big|link=Carrot}}\n |time = every 6 h\n |cost= {{Infoicon|bluev|link=Voucher}}10 {{Infoicon|purplev|link=Voucher}}10 {{Infoicon|goldv|link=Voucher}}5\n |xp = 80\n |dia = 1,200\n}}\n'''Palomino horses''' are pet [[animals]]. A first horse is unlocked at [[experience]] level 32 and a second one at level 37.\n\nThey give players [[experience]] points in exchange for [[carrot]]s.\n{{Clr}}\n----\n==='''Appearance'''===\n\n----\n==='''Buying'''===\n[[File:Horse Stable.png|150px|left|Horse stable]]\nEach horse costs 10 blue [[voucher]]s, 10 purple ones and 5 golden ones, or 1,200 [[diamond]]s. They must be placed near a [[Horse Stable|horse stable]] to be bought. Players can have two Palomino horses.\n\nHorses and horse stables can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\nWhen given [[carrot]]s horses eat then roam around their stable for six hours and finally fall asleep. Players can immediately wake them up to receive 80 {{Infoicon|xp}} per animal. Horses stay asleep otherwise.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking horses one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Palomino\n|es = Caballo palomino\n|fr = Palomino\n|it = Palomino\n|no = Palominohest\n}}\n[[ru:Пегий конь]]\n\n[[Category:Horses]]",
   "wikitextHash": "c36300d361bbf0e78cc5f704ec61f089172ea1550b3e73ca194c6c7070caddab"
 }

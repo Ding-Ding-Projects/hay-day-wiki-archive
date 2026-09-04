@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Carnival_Derby.png",
+  "filePageId": 30258,
+  "filePageRevisionId": 87920,
+  "filePageRevisionSha1": "6a7adebc374cff906764ad7c5388c76f41ffeb85",
+  "filePageRevisionTimestamp": "2019-09-21T10:06:32Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "421c7ff9ad79bdacc978a30f85227d63be228d9cc9541647a36876d11896bc75",
   "height": 560,
   "immutableUrl": null,
   "mediaId": "File:Carnival Derby.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-08-09T12:35:38Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACarnival%20Derby.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 473756,
   "sourceSha1": "df6118a041e31d3cb17565b7c9d853db52e467bc",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Calico_Kitten.png",
+  "filePageId": 19741,
+  "filePageRevisionId": 65817,
+  "filePageRevisionSha1": "223f5011a205d3e064e5ef7b201bfd376d7f69d0",
+  "filePageRevisionTimestamp": "2016-10-26T09:34:03Z",
+  "filePageWikitext": "Calico Kitten\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "1d49ca3301abd0351a3ab2f42512c3eec3d6d9b27a8a351f983245c6a3c30773",
   "height": 500,
   "immutableUrl": null,
   "mediaId": "File:Calico Kitten.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T10:25:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACalico%20Kitten.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 213925,
   "sourceSha1": "0703e4aa6f7514311345cc2beca9ce932c022c08",

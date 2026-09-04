@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Caff%C3%A9_latte?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 97661,
   "revisionTimestamp": "2021-06-01T00:57:08Z",
   "route": "/wiki/caff%C3%A9-latte-34905",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Caff%C3%A9_latte",
   "title": "Caffé latte",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Caffè Latte]]",
   "wikitextHash": "9f8f7f0f40bc4cda8ec38a45bf2809da75cc5d6be9e9588b09c14a2d91f14c29"
 }

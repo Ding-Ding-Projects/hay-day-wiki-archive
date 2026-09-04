@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Newspaper_Mailbox.png",
+  "filePageId": 18674,
+  "filePageRevisionId": 65992,
+  "filePageRevisionSha1": "1dc68f1d498b0dfadbeb5fa4dec7501c7cbd4752",
+  "filePageRevisionTimestamp": "2016-10-28T13:29:18Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Daily Dirt]]",
+  "filePageWikitextHash": "06589bef8828d885c9f9af563a96e6ff3bed260ca94cc0053650f7ffed28bb69",
   "height": 376,
   "immutableUrl": null,
   "mediaId": "File:Newspaper Mailbox.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 13,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:04:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ANewspaper%20Mailbox.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 84447,
   "sourceSha1": "9428e0ceeab641fa167e69e9a606c17fed70ea69",

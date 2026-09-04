@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Bunnies?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 71207,
   "revisionTimestamp": "2017-04-14T12:52:28Z",
   "route": "/wiki/category%2Fcategory-bunnies-15295",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Bunnies",
   "title": "Category:Bunnies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "\n[[Category:Pets]]",
   "wikitextHash": "ee3287c10255ef99db2302bdde3bb19858b2bc6f682056695169a1b190915d3b"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Characters",
+    "Category:Fishing Lake"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Characters",
+      "Category:Fishing Lake"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +161,12 @@
   "revisionId": 107744,
   "revisionTimestamp": "2025-04-13T20:58:36Z",
   "route": "/wiki/angus-7540",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Angus",
   "title": "Angus",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Angus.png|left|200px|Angus]]\n'''Angus''' is a [[:Category:Characters|non-player character]] (NPC) who is a fisherman and a friend of the player character's uncle. Like [[Hay Day|Mr. Wicker]], he guides the player through fishing mechanics.\n\nHe is unlocked at [[experience]] level 27 when the [[Fishing Lake|fishing lake]] becomes available.\n{{Clr}}\n----\n==='''Appearance'''===\n[[File:Angus Winter.png|left|150px|Angus during Winter]]\nDuring Winter, Angus wears a fur hat with ear flats (similar to a ushanka).\n{{Clr}}\n----\n==='''Function'''===\n{{Main|Hay Day}}\nWhen the player goes to the fishing lake for the first time, Angus will greet them and comment on his friendship with the player's uncle. He will then show the player a tutorial about fishing. After walking the player through catching their first fish, he will show them their uncle's logbook (entitled \"My Fishing Book\"). Angus will briefly go over the [[Lure Workbench]] and then will sign off.\n\nAngus talks to the player again to introduce the [[Net Maker]] and the [[Duck Salon]] when these are unlocked. Tapping on Angus give the player quick and easy tutorials on how to catch [[fish]], [[lobster]]s and [[duck]]s.\n----\n==='''Dialog'''===\n*When the player goes to the fishing lake for the first time:\n\n''Well I'll be darned! I have not seen that boat in ages! Me and your uncle had some great fishing trips in that one. You should also give fishing a try, you will get hooked! Hehe!''\n\n*After showing the player a tutorial, Angus appears next to the fishing hut:\n\n''This is a good fishing spot for beginners. Try to catch one. Be patient and wait for the fish to bite.''\n\n*If the player fails:\n\n''Try to keep the fish in the middle circle. Tap me to see the tutorial again.''\n\n*After the player catches their first fish:\n\n''Well...that is a cute fish, but you should have seen the fish your uncle caught! He left his logbook in this hut.''\n\n*Angus appears next to the [[Lure Workbench]]:\n\n''With this workbench you can create new lures. Worm lures only take time to make but most fish don't like them.''\n\n*When the player interacts with the Lure Workbench and stops:\n\n''Use vouchers to create special lures that attract different fish. Once done, all your lures are stored in the [[Tackle Box|tackle box]]. Good luck! And if you ever need instructions, just tap me.''\n----\n==='''Did you know?'''===\n*Angus appears to never leave the lake and to always be smoking a pipe and fishing.\n----\n{{Navigation}}\n{{Languages\n|de = Angus\n|es = Angus\n|ru = Ангус\n}}\n[[Category:Characters]]\n[[Category:Fishing Lake]]",
   "wikitextHash": "b2677b3b3b60b3c8431958335a112af72889298c361520b62a76ea16a2157398"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Peanuts.png",
+  "filePageId": 33366,
+  "filePageRevisionId": 99373,
+  "filePageRevisionSha1": "cbd12090cb63babc4daec7af2140af46729d0de1",
+  "filePageRevisionTimestamp": "2021-11-10T21:22:24Z",
+  "filePageWikitext": "== Licensing ==\n{{Self}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "3ae6c45140bc87bd5ba78682681f48c0776fbee777edf665998685f59e7c30d3",
   "height": 270,
   "immutableUrl": null,
   "mediaId": "File:Peanuts.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 24,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-07-07T05:10:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3APeanuts.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 91782,
   "sourceSha1": "20ed76698652e48d1783d26665b16367a134c0ab",

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Neighborhood_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93092,
   "revisionTimestamp": "2020-04-11T17:40:12Z",
   "route": "/wiki/neighborhood-derby-33408",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Neighborhood_Derby",
   "title": "Neighborhood Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby]]",
   "wikitextHash": "2bf5f67930a9c1a011dc1e2b34fe6939453764d97f07b23a95978d5654319e0c"
 }

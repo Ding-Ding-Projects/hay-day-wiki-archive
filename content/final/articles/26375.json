@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Guides?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95422,
   "revisionTimestamp": "2020-08-18T01:44:33Z",
   "route": "/wiki/category%2Fcategory-guides-26375",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Guides",
   "title": "Category:Guides",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This page lists all the guides which provide useful data for players.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "8fc0efd8fb20aa3aaaa54fa6966d5098b1592e8b25883533537af6666278c188"
 }

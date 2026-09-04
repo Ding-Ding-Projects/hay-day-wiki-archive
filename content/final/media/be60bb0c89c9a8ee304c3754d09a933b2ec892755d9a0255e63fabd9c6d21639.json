@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Excavation_Site.png",
+  "filePageId": 35729,
+  "filePageRevisionId": 102408,
+  "filePageRevisionSha1": "74de2b1f9c76b50134d29c4b3bd16e087039bc36",
+  "filePageRevisionTimestamp": "2023-01-28T22:09:12Z",
+  "filePageWikitext": "== Summary ==\nValley Deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "a44801d7fd4a1204b14978dd52aa4c566412c08cec4dc0e06d12e6cb7f95fba5",
   "height": 350,
   "immutableUrl": null,
   "mediaId": "File:Excavation Site.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-01-27T13:06:48Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExcavation%20Site.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 275040,
   "sourceSha1": "56d4178d64259bb1004fbd4249bffdc8c2ae3550",

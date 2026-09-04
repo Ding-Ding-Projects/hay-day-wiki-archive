@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Friend_Book_Followers_Tab.png",
+  "filePageId": 28605,
+  "filePageRevisionId": 74373,
+  "filePageRevisionSha1": "fde12e0d485274170c29b00e53b203a157c217cb",
+  "filePageRevisionTimestamp": "2017-10-22T15:20:53Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image UI]]",
+  "filePageWikitextHash": "c0f938f6f0d9242410790ca941e5070709622b21a22ebca8a1cfdaba5ce7522f",
   "height": 713,
   "immutableUrl": null,
   "mediaId": "File:Friend Book Followers Tab.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-22T15:20:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFriend%20Book%20Followers%20Tab.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 473052,
   "sourceSha1": "f86a672b29eb50954101eb7d51c34c91a26355f2",

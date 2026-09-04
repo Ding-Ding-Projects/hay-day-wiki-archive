@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blueberries Products",
+    "Category:Cake Oven Products",
+    "Category:Cheesecake Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blueberries Products",
+      "Category:Cake Oven Products",
+      "Category:Cheesecake Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -176,11 +188,12 @@
   "revisionId": 109862,
   "revisionTimestamp": "2026-05-09T17:19:34Z",
   "route": "/wiki/blueberry-cheesecake-36425",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blueberry_Cheesecake",
   "title": "Blueberry Cheesecake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blueberry Cheesecake.png|200px|left|Blueberry Cheesecake]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 31\n |price = 1 to 500\n |time = 4 h\n |source ={{Infoicon|Cakeo|bigger|link=Cake Oven}}\n |xp = 60\n |base = 139\n |time3 = 3 h 24 min\n |dia = 6\n|rlevel=|needs=|lures=|spots=|circle=|slots=|seats=|cost=|houses=|upgrades=|size=|walkin=|auto=}}\n'''Blueberry Cheesecakes''' are [[products]] unlocked at [[experience]] level 31. They were added in September 2025 Update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making blueberry cheesecakes'''===\n[[File:Cake Oven.png|150px|left|Cake Oven]]\nBlueberry cheesecakes are made in the [[Cake Oven]].\n\nTo make a blueberry cheesecake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cheesecake.png|75px|Cheese|link=Cheesecake]]\n|[[File:Blueberries.png|75px|Cookie|link=Blueberries]]\n|-\n|'''x1'''\n|'''x2'''\n|}\nIt takes 4 hours to make one cake, and 3 hours 24 minutes in a fully [[Masteries|mastered]] oven. Each cake gives players 60 [[experience]] points.\n\n{{Clr}}----\n==='''Selling blueberry cheesecakes'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Blueberry cheesecakes can be bought or sold for a maximum price of 5,004 {{Infoicon|Coin}} for 10 cakes.\n* Buying the ingredients required to make a cake costs 448 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 blueberry cheesecakes per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Blueberry cheesecakes can hardly ever be found in the [[Daily Dirt]].\n* Since blueberry cheesecakes take so long to make, it would be a good idea to make them at night by filling up your queue with them.\n* Just like the [[Fancy Cake]], it needs to be made with an already crafted cake ([[Cheesecake]]) used in that same machine.\n----\n\n{{Navigation}}\n{{Languages\n|de = Blaubeer-Käsetorte\n|es = Pastel de queso y arándanos\n|no = Blåbærostekake\n|ru = Черничный чизкейк\n}}\n[[pt-br:Bolo de queijo e mirtilo]]\n\n[[Category:Cake Oven Products]]\n[[Category:Cheesecake Products]]\n[[Category:Blueberries Products]]",
   "wikitextHash": "f7bd282d61fd9e02327941a7a11c22cc29ea8022097e2c73dc3c83255bbdd31d"
 }

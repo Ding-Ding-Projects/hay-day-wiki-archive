@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Beeswax.png",
+  "filePageId": 16530,
+  "filePageRevisionId": 104691,
+  "filePageRevisionSha1": "cf19415f41e9b2892a13122f2fe5b10c2f2a8146",
+  "filePageRevisionTimestamp": "2024-02-09T01:26:42Z",
+  "filePageWikitext": "Picture of beeswax.\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "eb9963b3eb3d39e34d8e95363dd118e775185979319b058420fe40ca8bad79dc",
   "height": 1264,
   "immutableUrl": null,
   "mediaId": "File:Beeswax.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-09T01:26:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABeeswax.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1330619,
   "sourceSha1": "203ce1949a9e1deca21d5d13140ec17826929aed",

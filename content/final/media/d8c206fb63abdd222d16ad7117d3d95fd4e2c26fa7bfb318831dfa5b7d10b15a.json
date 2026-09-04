@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jockey_Scarecrow.png",
+  "filePageId": 34872,
+  "filePageRevisionId": 99674,
+  "filePageRevisionSha1": "479a7239ef19bf61f390dc6a07219ca6598555f1",
+  "filePageRevisionTimestamp": "2021-12-12T22:36:59Z",
+  "filePageWikitext": "== Summary ==\nDerby Decoration from the Spring 2021 Update.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "b1c612d909886a197ca96017a80a14f6ad42cd8f2473b9783dd17ba97e13933e",
   "height": 510,
   "immutableUrl": null,
   "mediaId": "File:Jockey Scarecrow.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-26T12:44:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJockey%20Scarecrow.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 481977,
   "sourceSha1": "74824957926170af433e1fa9df3cdb2fc197c09d",

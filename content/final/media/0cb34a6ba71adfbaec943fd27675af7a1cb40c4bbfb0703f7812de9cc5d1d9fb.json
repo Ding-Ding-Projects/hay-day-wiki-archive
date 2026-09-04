@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Clock.png",
+  "filePageId": 21813,
+  "filePageRevisionId": 59300,
+  "filePageRevisionSha1": "4e0fb8350a15c5d7c33023c3eecf1b16f7138af5",
+  "filePageRevisionTimestamp": "2016-02-28T11:24:12Z",
+  "filePageWikitext": "== Credit ==\nClock vector image by Arthur Shlain @thenounproject.com (CC BY 3.0 US).\n{{Other free}}\n[[Category:Image Wiki]]",
+  "filePageWikitextHash": "ac64d3e5a1a307053521cd6dfaa94613b3024cc30b9f898f14e6cb6afddd9fcf",
   "height": 540,
   "immutableUrl": null,
   "mediaId": "File:Clock.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 623,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-02-28T10:34:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Other free"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
   "route": "/media/File%3AClock.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 80488,
   "sourceSha1": "f5675360f9faa3b2905429b701539b56e611563b",

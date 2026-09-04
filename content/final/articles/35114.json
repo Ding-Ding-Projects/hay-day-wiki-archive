@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Bar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98591,
   "revisionTimestamp": "2021-08-31T21:32:27Z",
   "route": "/wiki/category%2Fcategory-platinum-bar-products-35114",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Platinum_Bar_Products",
   "title": "Category:Platinum Bar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Platinum Bar.png|thumb]]\nProducts of [[Platinum Bar]].\n[[Category:Products]]",
   "wikitextHash": "f7b15ce9da8ebbef74012eae70713137ef37547f00f1f853b44d96ef0c6a7a59"
 }

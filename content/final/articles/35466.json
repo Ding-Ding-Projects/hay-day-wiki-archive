@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Yogurt_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 101040,
   "revisionTimestamp": "2022-06-01T20:49:44Z",
   "route": "/wiki/category%2Fcategory-yogurt-maker-products-35466",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Yogurt_Maker_Products",
   "title": "Category:Yogurt Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Yogurt Maker.png|thumb]]\nProducts of the [[Yogurt Maker]].\n[[Category:Products]]",
   "wikitextHash": "05dd3e73d9399c05127302406fcfb5ce4689931606fca149c49c3c6da3d9c9ef"
 }

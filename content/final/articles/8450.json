@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Cheese Products",
+    "Category:Fish Fillet Products",
+    "Category:Lobster Tail Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Cheese Products",
+      "Category:Fish Fillet Products",
+      "Category:Lobster Tail Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -175,11 +191,12 @@
   "revisionId": 106153,
   "revisionTimestamp": "2024-10-31T00:24:36Z",
   "route": "/wiki/frutti-di-mare-pizza-8450",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Frutti_di_Mare_Pizza",
   "title": "Frutti di Mare Pizza",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Frutti_di_Mare_Pizza.png|200px|left|Frutti di Mare pizza]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 45\n |price = 1 to 403\n |time = 15 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 48\n |base = 112\n |dia = 2\n |time3 = 12 min\n}}\n'''Frutti di Mare pizzas''' are [[products]] unlocked at [[experience]] level 45.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making frutti di mare pizzas'''===\n[[File:Bakery.png|150px|left|Bakery]]\nFrutti di Mare pizzas are made in the [[Bakery]].\n\nTo make a pizza, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|[[File:Fish Fillet.png|75px|Fish fillet|link=Fish Fillet]]\n|[[File:Lobster Tail.png|75px|Lobster tail|link=Lobster Tail]]\n|[[File:Cheese.png|75px|Cheese|link=Cheese]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one pizza, and 12 minutes in a fully [[Masteries|mastered]] Bakery. Each pizza gives players 48 [[experience]] points.\n\n{{Clr}}----\n==='''Selling frutti di mare pizzas'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Frutti di Mare pizzas can be bought or sold for a maximum price of 4,032 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make Frutti di Mare pizza costs 383 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Frutti di Mare pizzas per crate, up to total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Pizza Frutti di Mare\n|es = Pizza de marisco\n|fr = Pizza Fruits de Mer\n|it = Pizza ai frutti di mare\n|nl = Frutti di Mare Pizza\n|no = Frutti di Mare-pizza\n|vi = Pizza hải sản\n|zh = Frutti di Mare Pizza\n}}\n[[pt-br:Pizza de frutos do mar]]\n[[ru:Пицца с морепродуктами]]\n[[Category:Bakery Products]]\n[[Category:Wheat Products]]\n[[Category:Cheese Products]]\n[[Category:Fish Fillet Products]]\n[[Category:Lobster Tail Products]]",
   "wikitextHash": "b76f5857091766f3f3af3822935b0271ece4cadbb09886a061ce313172593beb"
 }

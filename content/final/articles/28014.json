@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Sanctuary Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Sanctuary Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -214,11 +222,12 @@
   "revisionId": 105834,
   "revisionTimestamp": "2024-09-12T19:16:14Z",
   "route": "/wiki/elephant-28014",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Elephant",
   "title": "Elephant",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Grey Elephant.png|200px|left|Elephant]]\n{{Infobox\n |title = [[Animals|Animal]]\n |rlevel = 3\n |needs = {{Infoicon|wheatb|big|link=Wheat Bundle}}\n |time = every 10 h\n |xp = 25\n |dia = ?\n}}\n'''Elephants''' are [[sanctuary]] [[animals]]. They are unlocked at [[reputation]] level 3.\n\nLike all other sanctuary animals, players can only have four of them, one of each type.\n{{Clr}}\n----\n==='''Appearance'''===\nElephants have two different appearances: brown and grey.\n\nWhen players tap on the grey elephant, it finds a pink duster and starts to sweep the ground with it. When players tap on the brown elephant, it picks up some mud from the ground with its trunk and throws it onto its back for a mud bath.\n\nWhen players tap on the grey elephant calf, it blows dust out of its trunk. When players tap on the brown elephant calf, a chicken appears and sits down in front of the calf. The calf plops down on its belly and watches the chicken and then playfully knocks it over with its trunk. \n<gallery>\nBrown Elephant.png|Brown\nBrown Elephant Calf.png|Brown calf\nGrey Elephant.png|Grey\nGrey Elephant Calf.png|Grey calf\n</gallery>\n----\n==='''Unlocking elephants'''===\n[[File:Elephant Puzzles.png|150px|left|Elephant puzzles]]\nUnlike other animals, elephants cannot be bought. Players must unlock them by finding [[Puzzle Piece|puzzle pieces]] (which are collected in a log book). 36 pieces are required for each animal.\n\nOnce players have obtained the first elephant, the puzzle for the second elephant is unlocked. After both adult elephants have been added to the sanctuary, the puzzle for one of the calves is unlocked.\n\nPlayers get the first sanctuary animal for free once the sanctuary is opened. The animal is chosen at random and can be an elephant, hippo or giraffe.\n{{Clr}}\n----\n==='''Placing elephants'''===\n[[File:Elephant House.png|150px|left|Elephant house]]\nPlayers must pick up an elephant house to be able to place the animal in the sanctuary. The house is free and can be obtained from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}.\n\nWhen the second puzzle is completed, players are asked to upgrade the house, which does not cost anything. The same happens when players complete the calf puzzle. When the house is big enough to welcome a new animal, it is delivered in a crate, \"airlifted\" into the sanctuary by balloons.\n{{Clr}}\n----\n==='''Feeding elephants'''===\n[[File:Wheat_Bundle.png|150px|left]]\nElephants are fed with [[Wheat Bundle|wheat bundles]]. Once elephants have eaten they roam the sanctuary for ten hours and finally fall asleep. Players can immediately wake them up to receive 25 {{Infoicon|xp}} per animal. Elephants stay asleep otherwise.\n\nElephants which have been woken up but are not fed for a long while cannot fall asleep and wander around looking sleepy and tired.\n{{Clr}}\n----\n==='''Decorations'''===\nEach elephant unlocks some [[decorations]] as specified below:\n<gallery>\nBaobab Tree.png|Baobab Tree (Grey)\nBlooming Cactus.png|Blooming Cactus (Grey calf)\nElephant Ear Plant.png|Elephant Ear Plant (Grey calf)\nDry Log.png|Dry Log (Brown)\nOrange Ice Plant.png|Orange Ice Plant (Brown calf)\nSago Palm.png|Sago Palm (Brown calf)\nTall Grass.png|Tall Grass (Brown)\nTermite Mound.png|Termite Mound (Grey)\n</gallery>\nWith each animal players are given the first pair of decorations for free. They are unlocked in the Shop when you get the first animal.\n----\n{{Navigation}}\n[[ru:Слоны]]\n{{Languages\n|es = Elefante\n|it = Elefanti\n|de = Elefanten\n}}\n[[Category:Sanctuary Animals]]",
   "wikitextHash": "f834b97792fe6ff30c8df4e03c59efc5c54a11b70bdc29fcfaa5825d88b8670d"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Playable Areas"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Playable Areas"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Town?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78962,
   "revisionTimestamp": "2018-04-18T13:09:04Z",
   "route": "/wiki/category%2Fcategory-town-13750",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Town",
   "title": "Category:Town",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to the [[town]].\n[[Category:Playable Areas]]",
   "wikitextHash": "bcbfe69c47e135f3280239f30270a5b3dcca59e380e6390b5da2895d0ad9445c"
 }

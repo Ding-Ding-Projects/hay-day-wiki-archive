@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Porridge_Bar_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 103759,
   "revisionTimestamp": "2023-09-18T19:49:55Z",
   "route": "/wiki/category%2Fcategory-porridge-bar-products-35901",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Porridge_Bar_Products",
   "title": "Category:Porridge Bar Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Porridge Bar.png|thumb]]\nProducts of the [[Porridge Bar]].\n[[Category:Products]]",
   "wikitextHash": "f4d23e2f621d9b90fe87da41ca8a2c479c898615f31d1701ffd3ff9811007faa"
 }

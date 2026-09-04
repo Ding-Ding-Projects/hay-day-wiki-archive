@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -233,11 +241,12 @@
   "revisionId": 106790,
   "revisionTimestamp": "2025-01-07T21:40:27Z",
   "route": "/wiki/hammer-13233",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hammer",
   "title": "Hammer",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hammer.png|200px|left|A hammer]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 342\n |upgrades = {{Infoicon|beachc|big|link=Beach Café}}  {{Infoicon|cinema|big|link=Cinema}} {{Infoicon|gifts|big|link=Gift Shop}} {{Infoicon|townh|big|link=Town Hall}}\n |base = 95\n |dia = 10\n}}\n'''Hammers''' are [[supplies]] used to upgrade the [[Beach Café|beach café]], the [[cinema]], the [[Gift Shop|gift shop]] and the [[Town Hall]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n\n{{Clr}}----\n==='''Getting hammers'''===\nA sure way to get a hammer is to buy it with 10 {{Infoicon|dia}}.\n\nHammers can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 342 {{Infoicon|coin}} per hammer.\n\nFinally, hammers can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Hammer\n|es = Martillo\n|fr = Marteau\n|it = Martello\n|no = Hammer\n}}\n[[Category:Supplies]]",
   "wikitextHash": "4feeb2b9a4eabffe62b54e78ef9ecd00b0ef3632562e9b9bc0d133609e7092d6"
 }

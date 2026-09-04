@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Duck Feather Products",
+    "Category:Hat Maker Products",
+    "Category:Indigo Products",
+    "Category:Raspberry Products",
+    "Category:Wool Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Duck Feather Products",
+      "Category:Hat Maker Products",
+      "Category:Indigo Products",
+      "Category:Raspberry Products",
+      "Category:Wool Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -125,11 +141,12 @@
   "revisionId": 107299,
   "revisionTimestamp": "2025-02-18T18:56:24Z",
   "route": "/wiki/sun-hat-18416",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Sun_Hat",
   "title": "Sun Hat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Sun Hat.png|200px|left|Sun hat]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 74\n |price = 1 to 558\n |time = 2 h 30 min\n |source = {{Infoicon|hatm|bigger|link=Hat Maker}}\n |xp = 66\n |base = 155\n |dia = 6\n |time3 = 2 h 7 min\n}}\n'''Sun hats''' are [[products]] unlocked at [[experience]] level 74.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making sun hats'''===\n[[File:Hat Maker.png|150px|left|Hat Maker]]\nSun hats are made in the [[Hat Maker]].\n\nTo make a sun hat, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wool.png|75px|Wool|link=Wool]]\n|[[File:Indigo.png|75px|Indigo|link=Indigo]]\n|[[File:Duck Feather.png|75px|Duck feathers|link=Duck Feather]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours and 30 minutes to make one sun hat, and 2 hours and 7 minutes in a fully [[Masteries|mastered]] maker. Each hat gives players 66 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling sun hats'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Sun hats can be bought or sold for a maximum price of 5,580 {{Infoicon|coin}} for 10 hats.\n* Buying the ingredients required to make one sun hat costs 513 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 sun hats per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages|\n|de = Sonnenhut\n|es = Sombrero de playa\n|fr = Chapeau de plage\n|it = Parasole\n|nl = Zonnehoed\n|no = Solhatt\n|zh = Sun Hat\n}}\n[[pt-br:Chapéu de sol]]\n[[ru:Шляпа от солнца]]\n\n[[Category:Hat Maker Products]]\n[[Category:Indigo Products]]\n[[Category:Wool Products]]\n[[Category:Raspberry Products]]\n[[Category:Duck Feather Products]]",
   "wikitextHash": "c166c7d33454996f4f37af16798845107b5c78d50e0420274b0008c999fb0a8c"
 }

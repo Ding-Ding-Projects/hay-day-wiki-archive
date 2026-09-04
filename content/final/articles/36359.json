@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Chili_Popcorn_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 108218,
   "revisionTimestamp": "2025-08-05T20:02:42Z",
   "route": "/wiki/category%2Fcategory-chili-popcorn-products-36359",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chili_Popcorn_Products",
   "title": "Category:Chili Popcorn Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Chili Popcorn.png|thumb]]\nProducts of [[Chili Popcorn]].\n[[Category:Products]]",
   "wikitextHash": "b9e58fa7c56dcaa8c9e005b81cd92fa81a1318bc06a092e1aaebc714e8b6b016"
 }

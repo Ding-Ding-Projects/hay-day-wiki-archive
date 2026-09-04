@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Permit?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 70591,
   "revisionTimestamp": "2017-03-29T09:10:29Z",
   "route": "/wiki/permit-27153",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Permit",
   "title": "Permit",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Expansion Permit]]",
   "wikitextHash": "eddf0cfe41102521de9304b7d320d311d124419d4750769ca3bf78827ea94c74"
 }

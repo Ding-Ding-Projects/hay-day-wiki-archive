@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -108,11 +116,12 @@
   "revisionId": 109991,
   "revisionTimestamp": "2026-05-11T20:09:27Z",
   "route": "/wiki/animal-goods-7457",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Animal_Goods",
   "title": "Animal Goods",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Egg.png|200px|left]]\n'''Animal goods''' are items which are produced by [[Animals|farm animals]]. Each type of good is unlocked at a specific [[experience]] level.\n\nSome goods can be collected by feeding animals while others are obtained by catching the animal and processing it in a machine.\n\n{{Clr}}----\n==='''Available goods'''===\n<gallery expand=\"true\" spacing=\"small\" widths=\"100\" navigation=\"true\" bordercolor=\"none\" captionalign=\"center\" bordersize=\"none\" position=\"center\" hideaddbutton=\"true\">\nEgg.png|link=Egg|Egg<br />[[Experience|Level]] 1\nMilk.png|link=Milk|Milk<br />[[Experience|Level]] 6\nBacon.png|link=Bacon|Bacon<br />[[Experience|Level]] 10\nWool.png|link=Wool|Wool<br />[[Experience|Level]] 16\nLamb Chop.png|link=Lamb Chop|Lamb Chop<br />[[Experience|Level]] 25\nFish Fillet.png|link=Fish Fillet|Fish fillet<br />[[Experience|Level]] 27\nGoat Milk.png|link=Goat Milk|Goat milk<br />[[Experience|Level]] 32\nHoneycomb.png|link=Honeycomb|Honeycomb<br />[[Experience|Level]] 39\nLobster Tail.png|link=Lobster Tail|Lobster tail<br />[[Experience|Level]] 44\nDuck Feather.png|link=Duck Feather|Duck feather<br />[[Experience|Level]] 50\nPeanuts.png|link=Peanuts|Peanuts<br />[[Experience|Level]] 62\n</gallery>\n----\n==='''Detailed information'''===\n{| class=\"sortable fandom-table\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" style=\"margin: 1em auto; border-collapse: collapse; border: 1px solid #ccc;\"\n|- style=\"background: #eee;\"\n! scope=\"col\"data-sort-type=\"text\"|Name\n! scope=\"col\"data-sort-type=\"number\"|Level\n! scope=\"col\" data-sort-type=\"number\"|Max. Price\n! scope=\"col\" class=\"unsortable\"|Duration<ref>The first number indicates the time required to catch the animal or the produce necessary to make the animal good. The second time indicates the time required to extract it.</ref>\n! scope=\"col\" data-sort-type=\"number\"|Exp.\n! scope=\"col\" data-sort-type=\"number\"|Nb per boat crate<ref>Data is given as an indication. It may be erroneous.</ref>\n|-\n|[[Bacon]]\n|10\n|50 {{Infoicon|coin}}\n|4 h\n|5 {{Infoicon|xp}}\n|5-9\n|-\n|[[Duck Feather|Duck feather]]\n|50\n|140 {{Infoicon|coin}}\n|2 + 3 h\n|17 {{Infoicon|xp}}\n|3-6\n|-\n|[[Egg]]\n|1\n|18 {{Infoicon|coin}}\n|20 min\n|2 {{Infoicon|xp}}\n|16-23\n|-\n|[[Fish Fillet|Fish fillet]]\n|27\n|54 {{Infoicon|coin}}\n|Instant\n|4-20 {{Infoicon|xp}}\n|6-9\n|-\n|[[Goat Milk|Goat milk]]\n|32\n|64 {{Infoicon|coin}}\n|8 h\n|6 {{Infoicon|xp}}\n|5-7\n|-\n|[[Honeycomb]]\n|39\n|68 {{Infoicon|coin}}\n|≈35 min\n|8 {{Infoicon|xp}}\n|N/A\n|-\n|[[Lamb Chop]]\n|25\n|36 {{Infoicon|coin}}\n|30 min\n|4 {{Infoicon|xp}}\n|?\n|-\n|[[Lobster Tail|Lobster tail]]\n|44\n|201 {{Infoicon|coin}}\n|6 + 6 h\n|24 {{Infoicon|xp}}\n|2-4\n|-\n|[[Milk]]\n|6\n|32 {{Infoicon|coin}}\n|1 h\n|3 {{Infoicon|xp}}\n|8-15\n|-\n|[[Peanuts]]\n|62\n|234 {{Infoicon|coin}}\n|5 h\n|43 {{Infoicon|xp}}\n|N/A\n|-\n|[[Wool]]\n|16\n|54 {{Infoicon|coin}}\n|6 h\n|5 {{Infoicon|xp}}\n|5-8\n|}\n----\n\n<references />\n----\n{{Navigation}}\n\n{{Languages\n|es = Productos de animales\n}}\n[[Category:Animal Goods]]",
   "wikitextHash": "3a6b88753b7a57218805da209a5513661b183d012aec22dfa857331e85605635"
 }

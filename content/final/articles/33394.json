@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Community_Portal?action=history",
@@ -26,11 +30,12 @@
   "revisionId": 93064,
   "revisionTimestamp": "2020-04-11T06:25:21Z",
   "route": "/wiki/hay-day-wiki%2Fhay-day-wiki-community-portal-33394",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hay_Day_Wiki:Community_Portal",
   "title": "Hay Day Wiki:Community Portal",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Special:Community]]",
   "wikitextHash": "338d2a859875e71ae73fc78df323cfbb45176ae5b76cca7e52226e209e6076ca"
 }

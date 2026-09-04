@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Pets"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Pets"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Puppies?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 42229,
   "revisionTimestamp": "2015-03-12T13:23:31Z",
   "route": "/wiki/category%2Fcategory-puppies-18403",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Puppies",
   "title": "Category:Puppies",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages about the different types of puppies available in Hay Day.\n[[Category:Pets]]",
   "wikitextHash": "8409b52c5479d9083847b62fe1301b4d0d6013fd9e2fdf91cf797bb75036f1e9"
 }

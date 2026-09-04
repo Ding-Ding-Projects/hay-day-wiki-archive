@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Blossom_Derby?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93479,
   "revisionTimestamp": "2020-04-16T19:41:08Z",
   "route": "/wiki/blossom-derby-33581",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blossom_Derby",
   "title": "Blossom Derby",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Derby Types#Blossom derby]]",
   "wikitextHash": "752e3c7c49b973491b38a0ab508543452b8de7d87ee18a6c986a73723c106da9"
 }

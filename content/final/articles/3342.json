@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -240,11 +248,12 @@
   "revisionId": 109457,
   "revisionTimestamp": "2026-02-17T23:25:21Z",
   "route": "/wiki/bolt-3342",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bolt",
   "title": "Bolt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bolt.png|200px|left|A bolt]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 1\n |price = 1 to 270\n |upgrades = {{Infoicon|barn|big|link=Barn}} {{Infoicon|grocerys|big|link=Grocery Store}}\n |base = 75\n |dia = 8\n}}\n'''Bolts''' are [[supplies]] used to upgrade the [[barn]] and the [[Grocery Store|grocery store]].\n\nThey are unlocked at [[experience]] level 1.\n\nThey are stored in the [[barn]].\n\n{{Clr}}----\n==='''Getting bolts'''===\nA sure way to get a bolt is to buy it with 8 {{Infoicon|dia}}.\n\nBolts can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 270 {{Infoicon|coin}} per bolt.\n\nFinally, bolts can be randomly obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\n----\n\n{{Navigation}}\n{{Languages\n|de = Bolzen\n|es = Perno\n|fr = Boulon\n|it = Bullone\n|no = Bolt\n|ru = Болт\n|sv = Bultar\n}}\n\n[[Category:Supplies]]",
   "wikitextHash": "84577c61547a2ea01bde8dead495e018c376650df7d3d580075dc67ea27c517e"
 }

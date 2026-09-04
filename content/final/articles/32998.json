@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Diamond Products",
+    "Category:Flower Shop Products",
+    "Category:Gold Ore Products",
+    "Category:Lily Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Diamond Products",
+      "Category:Flower Shop Products",
+      "Category:Gold Ore Products",
+      "Category:Lily Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -165,11 +181,12 @@
   "revisionId": 107182,
   "revisionTimestamp": "2025-02-08T13:47:53Z",
   "route": "/wiki/gracious-bouquet-32998",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Gracious_Bouquet",
   "title": "Gracious Bouquet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Gracious Bouquet.png|200px|left|Gracious Bouquet]]\n\n{{Infobox\n |title = [[Products|product]]\n |level = 73\n |price = 1 to 500\n |time = 40 min\n |source = {{Infoicon|flowers|bigger|link=Flower Shop}}\n |xp = 60\n |base = 139\n |dia = 3\n |time3 = 34 min\n}}\n'''Gracious bouquets''' are [[products]] unlocked at [[experience]] level 73. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making gracious bouquet'''===\n[[File:Flower Shop.png|150px|left|Flower Shop]]\nGracious Bouquet are made in the [[Flower Shop]].\n\nTo make the bouquet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|Cotton fabric|link=Cotton Fabric]]\n|[[File:Lily.png|75px|Lilies|link=Lily]]\n|[[File:Gold Ore.png|75px|gold ore|link=Gold Ore]]\n|[[File:Diamond.png|75px|diamond|link=Diamond]]\n|-\n|'''x1'''\n|'''x5'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 40 minutes to make one bouquet, and 34 minutes in a fully [[Masteries|mastered]] shop. Each bouquet gives players 60 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling gracious bouquet'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Gracious bouquets can be bought or sold for a maximum price of 5004 {{Infoicon|Coin}} for 10 bouquets.\n* Buying the ingredients required to make a bouquet costs 234 {{Infoicon|Coin}} and 1 {{Infoicon|Dia}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 gracious bouquets per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Since the gracious bouquet contains a [[Diamond]] as one of its ingredients, you should refrain from producing these until you have first purchased all of your machine slots and added a substantial number of bins to your [[Roadside Shop]]. Spending diamonds on slots and bins provide a lasting benefit. As with the [[Diamond Ring]], you should purchase the gracious bouquet from roadside shops; either by searching the [[Daily Dirt]] or your Followers. Alternavely, you can send Tom to get them for you; sending him twice for 9 each time will save you diamonds even if you pay some to hire him. In the meantime, simply send away any trucks, boats, or visitors requesting the gracious bouquet.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* The gracious bouquet originally sold for a maximum of 280 {{Infoicon|Coin}} when it was introduced on 30 March 2020, but that was increased to 500 {{Infoicon|Coin}} two days later.\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Eleganter Strauß\n|es = Ramo elegante\n|fr = Bouquet Charmant\n|it = Bouquet grazioso\n|nl = Sierlijk Boeket\n|no = Yndig bukett\n|zh = Gracious Bouquet\n}}\n[[pt-br:Buquê gracioso]]\n[[ru:Изящный букет]]\n[[Category:Flower Shop Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Gold Ore Products]]\n[[Category:Diamond Products]]\n[[Category:Lily Products]]",
   "wikitextHash": "b3adbfaac678bb59ca1116327bc9b67c0ebe03327ee79ce6abbc1bc7077de7bb"
 }

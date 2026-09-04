@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gift_Bag.png",
+  "filePageId": 36260,
+  "filePageRevisionId": 107846,
+  "filePageRevisionSha1": "770558b49adee85bf6c2d937ce3d1d4da68f76bf",
+  "filePageRevisionTimestamp": "2025-04-26T20:29:21Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for the [[Gift Bag]]\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "98016a0747ee74865374c16070cb4f4cbfc477b061e8cb39e194aea206b7231e",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Gift Bag.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 3,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-04-26T20:29:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGift%20Bag.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 199836,
   "sourceSha1": "18ca2c2b93d9df2acb1ed04b2ab078d260455e6d",

@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Easter_Surprise.png",
+  "filePageId": 33667,
+  "filePageRevisionId": 99869,
+  "filePageRevisionSha1": "8a493f019196e7be95cd1c3ea41f1c306a02b778",
+  "filePageRevisionTimestamp": "2021-12-16T21:55:26Z",
+  "filePageWikitext": "== Summary ==\nAwarded as part of a Boat Event for Easter of 2020\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "545555fef4048ae243a9c5b2a2ff4eff9965ffa9cac983d447dfd175442989ff",
+  "height": 593,
+  "immutableUrl": null,
+  "mediaId": "File:Easter Surprise.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-28T13:12:24Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AEaster%20Surprise.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 264830,
+  "sourceSha1": "0f485225166a003c8648f8e9934c41e3d0bfba0f",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/0b/Easter_Surprise.png/revision/latest?cb=20200428131224",
+  "title": "File:Easter Surprise.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 424
+}

@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:HD_GUI.svg",
+  "filePageId": 24414,
+  "filePageRevisionId": 62091,
+  "filePageRevisionSha1": "08652314d85d19f6381bcb9d04dc59ca0f59f2fd",
+  "filePageRevisionTimestamp": "2016-05-13T22:29:37Z",
+  "filePageWikitext": "This is the GUI of Hay Day(Ap 2016)\n[[Category:Image User]]",
+  "filePageWikitextHash": "6b438cc5bb2515859425d9039370aa5bc44875a94209a395accb066b987d53ad",
+  "height": 288,
+  "immutableUrl": null,
+  "mediaId": "File:HD GUI.svg",
+  "mediaType": "DRAWING",
+  "mime": "image/svg+xml",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2016-04-13T14:37:11Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AHD%20GUI.svg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 157729,
+  "sourceSha1": "7c1d2afaccb4d3038f79d9a5e4cd7073dcff16aa",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/6/6a/HD_GUI.svg/revision/latest?cb=20160413143711",
+  "title": "File:HD GUI.svg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 512
+}

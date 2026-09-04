@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Friends",
+    "Category:Pages with broken file links"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Friends",
+      "Category:Pages with broken file links"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -158,11 +168,12 @@
   "revisionId": 109056,
   "revisionTimestamp": "2026-01-02T14:20:00Z",
   "route": "/wiki/friends-7721",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Friends",
   "title": "Friends",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Friends Icon.png|100px|left|Friends bar icon]]\n'''Friends''' are other players (and [[Greg]]) that the player has added as friends. They are displayed in the friends tab.\n[[File:Friend Book.png|100px|left|Friend book]]\nPlayers can access their friends tab by opening their '''friends bar'''. They can manage their friends list through the [[Friend Book|friend book]].\n\nAlthough the player can also add their [[Neighborhood|neighbors]] as friends, the two are seen as distinct in the game (and therefore show up on two different tabs in the friends bar).\n{{Clr}}\n----\n==='''Adding friends through the game'''===\n[[File:Follow Icon.png|150px|left|Follow icon]]\nPlayers can '''add friends''' in different ways:\n*They can follow up to 10 farms by tapping on the bookmark icon when visiting them. This adds these players' farms to their friends tab and to the 'following' list in their [[Friend Book|friend book]].\n*They can request other players to become their friends by tapping on the plus icon when visiting them. This sends the player a request, which they can accept or decline.\n*They can share their friend tag with other players. The friend tag is found in the [[Friend Book|friend book]].\n{{Clr}}\n----\n==='''Adding friends through Supercell ID'''===\n[[File:Supercell ID.png|150px|Supercell ID|left]]\nFellow players who are [[Settings|have connected their farms to Supercell ID]] are automatically added to the friends tab of their Supercell ID friends.\n\nSupercell ID friends are listed in the 'friends' tab of the [[Friend Book|friend book]].\n{{Clr}}\n----\n==='''Adding friends through GameCenter'''===\n[[File:Game Center.png|150px|GameCenter|left]]\nPlayers using certain versions of iOS devices can add friends through their Game Center friends list. They can also share their GameCenter ID with other players. \n\nGame Center friends are listed in the 'friends' tab of the [[Friend Book|friend book]].\n{{Clr}}\n----\n==='''Benefits from adding friends'''===\nAs players add Supercell friends, the number of boxes available in their [[Roadside Shop|roadside shops]] increases.\n----\n==='''Helping friends'''===\nFriends, neighbors and other players who come to a player's farm can:\n*buy items from their [[Roadside_Shop|roadside shop]]\n*fulfill their [[boat]] and [[truck]] orders\n*fulfill [[Town Visitors]] requests\n*revive their [[:Category:Trees and Bushes|trees and bushes]]\n\nThe farm of a player who needs help with boat orders or [[Trees and Bushes|reviving]] plants is marked with an exclamation point for other players to see. The exclamation point stays in place above their farm name until all help requests are filled.\n\nIt shows up:\n* in the friends tab\n* in the [[Daily Dirt]]\n* in the [[neighborhood]] chat window\n[[File:Friends_Bar.png|150px|Friends needing help]]\n[[File:Newspaper_Excerpt.jpg|150px]]\n[[File:Farm_Needs_Help.jpg|150px]]\n{{Clr}}\n----\n==='''Benefits from helping other players'''===\n*When fulfilling [[boat]] orders player gains [[coin]]s, [[leaderboard]] points and [[experience]] points.\n*Helping other players awards [[Gift Card|gift cards]], which can then be used to buy packages from the [[catalogue]].\n*Helping other players is a [[derby]] task. The task includes any help given, such as reviving trees and bushes and filling boat orders.\n*Visiting other players' farms increases the chance to get random [[Mystery Box|mystery boxes]], beyond those that randomly pop up on a player's own farm.\n----\n==='''Strategy tips'''===\n*If you need help, list something for sale in the Roadside Shop and advertise it (leave the green checkmark on).\n*If you need more friends, take advantage of the [[Daily Dirt]]. Every ad in the paper is a quick link to an active farm, so you can visit people's shops and send them friend requests. Random friend requests are often well-received because friendship is mutually beneficial.\n**Friending people from the daily dirt also allows you to prioritize by level. Friends at a lower level than you are more likely to create help requests that you can fill. Friends at a higher level than you are more likely to fill your own help requests.\n----\n{{Languages\n|de = Freunde\n|es = Amigos\n|no = Venner\n}}\n[[Category:Friends]]",
   "wikitextHash": "432d317a1eb04990c501345df1db17ef31a40c641c8e2c6c3131f9e70cc136fa"
 }

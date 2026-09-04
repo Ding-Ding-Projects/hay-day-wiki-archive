@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Fpb2020.png",
+  "filePageId": 34767,
+  "filePageRevisionId": 96962,
+  "filePageRevisionSha1": "cda87db61d4f62a916e21d47184aa2b7d901791a",
+  "filePageRevisionTimestamp": "2021-02-06T20:24:31Z",
+  "filePageWikitext": "Graph: Hay Day number of farm production buildings 2012 - 2020.",
+  "filePageWikitextHash": "ceafd82c914d6f168ec991b2963223c3c0c3bf61ff083c6f88ac352c84f413a7",
+  "height": 289,
+  "immutableUrl": null,
+  "mediaId": "File:Fpb2020.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-02-06T20:24:31Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AFpb2020.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 7505,
+  "sourceSha1": "6eb7d3ff1b1c371643379589526aacfe5cfdf9cd",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/Fpb2020.png/revision/latest?cb=20210206202431",
+  "title": "File:Fpb2020.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 453
+}

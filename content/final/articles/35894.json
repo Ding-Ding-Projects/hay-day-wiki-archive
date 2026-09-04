@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Apple Jam Products",
+    "Category:Apple Products",
+    "Category:Oats Products",
+    "Category:Porridge Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Apple Jam Products",
+      "Category:Apple Products",
+      "Category:Oats Products",
+      "Category:Porridge Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -122,11 +136,12 @@
   "revisionId": 110425,
   "revisionTimestamp": "2026-06-06T18:22:24Z",
   "route": "/wiki/apple-porridge-35894",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Apple_Porridge",
   "title": "Apple Porridge",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Apple Porridge.png|left|184x184px|Apple Porridge]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 119\n |price = 1 to 522\n |time = 20 min\n |source = {{Infoicon|porridgeb|bigger|link=Porridge Bar}}\n |xp = 62\n |base = 55\n |dia = 2\n |time3 = 17 min\n}}\n'''Apple Porridge''' is a [[products|product]] unlocked at [[experience]] level 119. It was added in the September 2023 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Apple Porridge'''===\n[[File:Porridge Bar.png|150px|left|Porridge Bar]]\nApple Porridge are made in the [[Porridge Bar]].\n\nTo make Apple Porridge, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Apple.png|75px|Apple|link=Apple]]\n|[[File:Apple Jam.png|75px|Apple Jam|link=Apple Jam]]\n|[[File:Oats.png|75px|Oats|link=Oats]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x4'''\n|}\nIt takes 20 minutes to make Apple Porridge, and 17 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 62 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Apple Porridge'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Apple Porridge can be bought or sold for a maximum price of 5,220 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Apple Porridge costs 505 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 to 2 Apple Porridge per crate, up to a total of 6 per boat.\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n• This product takes 2 jars of apple jam per unit. You want to make sure you have enough in your barn and your jam maker is replenishing it.\n----\n{{Navigation}}\n{{Languages\n|de = Apfelhaferbrei\n|es = Gachas con manzana\n|it = Porridge alle mele\n|nl = Havermout met Appel\n|no = Eplegrøt\n|ru = Каша с яблоком\n}}\n[[pt-br:Mingau de maçã]]\n\n[[Category:Porridge Bar Products]]\n[[Category:Apple Products]]\n[[Category:Apple Jam Products]]\n[[Category:Oats Products]]",
   "wikitextHash": "dfabfac5438dc458cfcd3dab47411bccb32f2bf884bff68394e5293f26d142c4"
 }

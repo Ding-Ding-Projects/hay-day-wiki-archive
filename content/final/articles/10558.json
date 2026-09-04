@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Butter Products",
+    "Category:Egg Products",
+    "Category:Lemon Products",
+    "Category:Sauce Maker Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Butter Products",
+      "Category:Egg Products",
+      "Category:Lemon Products",
+      "Category:Sauce Maker Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -179,11 +195,12 @@
   "revisionId": 110793,
   "revisionTimestamp": "2026-07-27T01:11:59Z",
   "route": "/wiki/lemon-curd-10558",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lemon_Curd",
   "title": "Lemon Curd",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lemon Curd.png|200px|left|Lemon curd]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 66\n |price = 1 to 378\n |time = 25 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 45\n |base = 105\n |dia = 3\n |time3 = 21 min\n}}\n'''Lemon curd''' is a [[Products|product]] unlocked at [[experience]] level 66.\n\nIt is used to make [[Lemon Pie|lemon pies]] and [[Lemon Cake|lemon cakes]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making lemon curd'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nLemon curd is made in the [[Sauce Maker]].\n\nTo make curd, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|[[File:Egg.png|75px|Eggs|link=Egg]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 25 minutes to make one jar of lemon curd, and 21 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 45 [[experience]] points.\n\n{{Clr}}----\n==='''Selling lemon curd'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Lemon curd can be bought or sold for a maximum price of 3,780 {{Infoicon|Coin}} for 10 jars.\n* Buying the ingredients required to make lemon curd costs 354 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using lemon curd'''===\nLemon curd is used to make the following [[products]]:\n\n{{Item Usage|Lemon Curd\n|Lemon Pie|1|67\n|Lemon Cake|2|68\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 lemon curd per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Did you know?'''===\n* Lemon curd is also used as a spread for bread, scones, muffins, etc.\n* [[Olive Dip|Olive dip]] and Lemon curd are both unlocked at level 66 and are made in the same production building.\n----\n\n{{Navigation}}\n{{Languages\n|de = Zitronencreme\n|es = Cuajada de limón\n|fr = Crème de Citron\n|it = Crema al limone\n|nl = Citroenkwark\n|no = Sitronkrem\n|zh = Lemon Curd\n}}\n[[pt-br:Creme de limão]]\n[[ru:Лимонный курд]]\n[[Category:Sauce Maker Products]]\n[[Category:Egg Products]]\n[[Category:Butter Products]]\n[[Category:White Sugar Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "5d44e1058a6ec3d2ab7e61f4099c9fed63f277be927739d3a1f4bf1ce9762156"
 }

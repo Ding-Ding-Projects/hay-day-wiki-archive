@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm Buildings",
+    "Category:Storage Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm Buildings",
+      "Category:Storage Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -106,11 +116,12 @@
   "revisionId": 106891,
   "revisionTimestamp": "2025-01-16T20:34:13Z",
   "route": "/wiki/silo-2654",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Silo",
   "title": "Silo",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Silo.png|left|200px|Silo]] \nThe '''silo '''is the building where [[crops]] are stored, including berries, fruit and [[peanuts]]. It is already standing at the start of the game, but must be repaired during the tutorial to become usable.\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe appearance of the silo changes as the player upgrades it. Its final appearance is displayed when the silo can store at least 300 items.\n<gallery>\nSilo Broken.png\nSilo Stage 1.png\nSilo Stage 2.png\nSilo Stage 3.png\nSilo.png\n</gallery>\n----\n==='''Upgrading'''===\nThe silo can initially hold 50 items. Upgrading it increases its capacity:\n* by 25 spaces from 50 to 1,000\n* by 50 spaces from 1,000 upwards without limit\n\nEach upgrade requires the same number of nails, screws and wood panels but the number of items required increases by 1 with each upgrade (see the table below).\n<gallery>\nNail.png|[[Nail]]\nScrew.png|[[Screw]]\nWood Panel.png|[[Wood Panel|Wood panel]]\n</gallery>\n----\n==='''Upgrading table'''===\n{| cellpadding=\"2\" cellspacing=\"1\" style=\"max-width: 80%; margin: 1em auto; border-collapse: collapse; text-align: center; border: 1px solid #ccc;\"\n|- style=\"background: #ddd; border: 1px solid #ccc;\"\n! scope=\"col\" |Capacity from-to\n! scope=\"col\" |[[File:Nail.png|50px]]+[[File:Screw.png|50px]]+[[File:Wood Panel.png|50px]]\n|-\n|'''50-75'''||x1\n|-\n|'''75-100'''||x2\n|-\n|'''100-125'''||x3\n|-\n|'''125-150'''||x4\n|-\n|'''150-175'''||x5\n|-\n|'''175-200'''||x6\n|-\n|'''200-225'''||x7\n|-\n|'''225-250'''||x8\n|-\n|'''250-275'''||x9\n|-\n|'''275-300'''||x10\n|-\n|'''300-325'''||x11\n|-\n|'''325-350'''||x12\n|-\n|'''etc.'''||'''etc.'''\n|-\n|'''1000-1050'''||x39\n|-\n|'''1050-1100'''||x40\n|-\n|'''1100-1150'''||x41\n|-\n|'''1150-1200'''||x42\n|-\n|'''1200-1250'''||x43\n|-\n|'''1250-1300'''||x44\n|-\n|'''1300-1350'''||x45\n|-\n|'''1350-1400'''||x46\n|-\n|'''1400-1450'''||x47\n|-\n|'''1450-1500'''||x48\n|-\n|'''etc.'''||'''etc.'''\n|}\nPlayers can also calculate the number of each silo upgrade item (N) for each silo capacity (C) from formulas:\n\n<math>\\text{C} = \\begin{cases} 25(N+2)  & \\text{for }75\\le C\\le1,000 \\\\  50(N-18) & \\text{for }C \\geq1,000 \\end{cases}\n</math>\n\nFor example, from the table, if you would like to upgrade silo capacity from 275 to 300, you need to use 10 nails, 10 screws, and 10 wood panels. \n\nThe calculation shows as follow: C = 300 = 25 (N+2) --> 12 = N+2 --> N = 10\n----\n==='''Strategy tips'''===\n* The silo is only used to store crops. There are more than 40 different types of crops. If you want to keep at least 30 of each at all times your silo needs to be able to hold more than 1,200 items. You also need to keep some room for more, as boat orders can ask for great quantities of one crop.\n----\n==='''Did you know?'''===\n* As with Experience and Reputation, your silo (as well as your barn and tackle box) are often referred to by their level. The level of your silo is the number of each tool needed for your next upgrade. For example: You start the game with a level 1 silo which has a capacity of 50. A level 39 silo has a capacity of 1,000, after which future upgrades increase the capacity by 50. A level 241 silo would have a capacity of 11,100.\n----\n{{Navigation}}\n{{Languages\n|de = Silo\n|es = Silo\n|fr = Silo\n|it = Silo\n|no = Silo\n}}\n[[ru:Силосная башня]]\n\n[[Category:Storage Buildings]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "97b5b08cf67eb6ca39e367f22fdd697ee9d4bc49d403e970534587b9ff0b3be1"
 }

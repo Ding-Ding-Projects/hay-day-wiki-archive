@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -312,11 +320,12 @@
   "revisionId": 110250,
   "revisionTimestamp": "2026-05-27T20:56:31Z",
   "route": "/wiki/lily-33000",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lily",
   "title": "Lily",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lily.png|200px|left]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 53\n |price = 1 to 21\n |time = 1 h 30 min\n |xp = 5\n |base = 6\n |dia = 5\n |source = {{Infoicon|field|bigger|link=Farm}}\n}}\n'''Lilies''' are field [[crops]] unlocked at [[experience]] level 53.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 330 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing lilies'''===\nLilies are grown in [[Farm|fields]] by planting another lily plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 5 [[experience]] points, and takes 1 hour and 30 minutes to mature.\n<gallery>\nLily Stage 1.png\nLily Stage 2.png\nLily Stage 3.png\nLily Stage 4.png\nLily Stage 5.png\n</gallery>\n----\n==='''Selling lilies'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Lilies can be sold or bought for a maximum price of 216 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using lilies''' ===\nLilies are used to make the following [[products]]:\n\n{{Item Usage|Lily\n|Fancy Cake|3|54\n|Gracious Bouquet|5|73\n|Birthday Bouquet|1|92\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 12 to 20 lilies per crate, up to a total of 60 per boat.\n* Each unit of lily gives players 9 coins and 7 experience points in boat orders.\n\n{{Clr}}----\n\n----\n{{Navigation}}\n\n{{Languages\n|de = Lilie\n|es = Lirios\n|fr = Lys\n|it = Giglio\n|no = Lilje\n|zh = Lily\n}}\n[[pt-br:Lírio]]\n[[ru:Лилия]]\n[[Category:Field Crops]]",
   "wikitextHash": "922c3cbaa63266ca6ce144a362498179057e617048151fc07a817d8d22d26a50"
 }

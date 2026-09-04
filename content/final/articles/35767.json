@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Cream Products",
+    "Category:Easter Egg Maker Products",
+    "Category:Honey Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Cream Products",
+      "Category:Easter Egg Maker Products",
+      "Category:Honey Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -156,11 +170,12 @@
   "revisionId": 103433,
   "revisionTimestamp": "2023-07-20T20:21:27Z",
   "route": "/wiki/royal-egg-35767",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Royal_Egg",
   "title": "Royal Egg",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Royal Egg.png|200px|left|Royal Egg|link=Special:FilePath/Royal Egg.png]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 25\n |level = 43\n |time = 1 h\n |source = {{Infoicon|eastereggmaker|bigger|link=Easter Egg Maker}}\n |xp = 56\n |dia = 4\n |time3 = 54 m\n}}\n'''Royal Egg''' is a [[products|product]] unlocked at [[experience]] level 43. It's a special item used only for the Easter 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Royal Egg'''===\n[[File:Easter Egg Maker.png|150px|left|Easter Egg Maker|link=Special:FilePath/Easter Egg Maker.png]]\nRoyal eggs are made in the [[Easter Egg Maker]].\n\nTo make a royal egg, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cream.png|75px|Cream|link=Cream]]\n|[[File:Blackberry.png|75px|Blackberry|link=Blackberry]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour to make an egg, and 54 minutes in a 2-star and fully [[Masteries|mastered]] station. Each egg gives players 56 [[experience]] points.\n\n{{Clr}}----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 eggs per crate, up to a total of 8 per boat. Each egg used on a boat will be rewarded with 25 [[Chocolate Bunny]].\n\n{{Clr}}----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Cream Products]]\n[[Category:Blackberry Products]]\n[[Category:Honey Products]]\n\n{{Languages\n|es = Huevo real\n|de = Königliches Ei\n}}",
   "wikitextHash": "1ac492c96085cc8afbcce0464d2698241a1d1f39890ca966d8541d4735f14741"
 }

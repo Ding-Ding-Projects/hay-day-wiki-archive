@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Loading_Screen_Halloween.png",
+  "filePageId": 25918,
+  "filePageRevisionId": 73877,
+  "filePageRevisionSha1": "b047b739058e5176f676d9a8f69d57a49451d5ac",
+  "filePageRevisionTimestamp": "2017-10-21T18:34:26Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Themes]]",
+  "filePageWikitextHash": "4254f610efd0ebcc9f6f3b45c4e90d58662d14f9ae602f598591064dd14db1e3",
   "height": 1600,
   "immutableUrl": null,
   "mediaId": "File:Loading Screen Halloween.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:34:26Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALoading%20Screen%20Halloween.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2695647,
   "sourceSha1": "69ca17be1c672908555d94b4030b6d027bdde2e5",

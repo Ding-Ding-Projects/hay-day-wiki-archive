@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cupcake Maker Products",
+    "Category:Egg Products",
+    "Category:Milk Products",
+    "Category:Wheat Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cupcake Maker Products",
+      "Category:Egg Products",
+      "Category:Milk Products",
+      "Category:Wheat Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -143,11 +159,12 @@
   "revisionId": 110418,
   "revisionTimestamp": "2026-06-06T14:22:29Z",
   "route": "/wiki/plain-cupcake-35637",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Plain_Cupcake",
   "title": "Plain Cupcake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Plain Cupcake.png|left|184x184px|Plain Cupcake]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 109\n |price = 1 to 280\n |time = 40 min\n |source = {{Infoicon|cupcakem|bigger|link=Cupcake Maker}}\n |xp = 34\n |base = 78\n |dia = 3\n |time3 = 34 min\n}}\n'''Plain Cupcake''' is a [[products|product]] unlocked at [[experience]] level 109. It was added in Winter 2022 update.\n\nIt is used to make [[Guava Cupcake|guava cupcake]], [[Tropical Cupcake|tropical cupcake]], and [[Cookie Cupcake|cookie cupcake]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Plain Cupcake'''===\n[[File:Cupcake Maker.png|150px|left|Cupcake Maker]]\nPlain Cupcake is made in the [[Cupcake Maker]].\n\nTo make plain Cupcake, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|[[File:White Sugar.png|75px|White Sugar|link=White Sugar]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Wheat.png|75px|Wheat|link=Wheat]]\n|-\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|'''x5'''\n|}\nIt takes 40 Minutes to make plain Cupcake, and 34 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling plain cupcake'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Plain cupcake can be bought or sold for a maximum price of 2,808 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a plain cupcake costs 251 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using plain cupcake'''===\nPlain cupcake is used to make the following [[products]]:\n\n{{Item Usage|Plain Cupcake\n|Guava Cupcake|1|109\n|Tropical Cupcake|1|112\n|Cookie Cupcake|1|114\n}}\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 2 cupcakes per crate, up to a total of 6 per boat (for three crates).\n** 1 to 2 cupcakes per crate, up to a total of 8 per boat (for four crates).\n\n{{Clr}}----\n\n==='''Strategy tips'''===\n*Producing a plain cupcake requires 3 bags of [[white Sugar]], but luckily players are allowed to have two [[Sugar Mill|sugar mills]], so white sugar can be obtained more easier to make plain cupcakes.\n*Producing each of the other products in the cupcake maker requires a plain cupcake, it is best to make enough plain cupcakes to make other cupcakes.\n----\n{{Navigation}}\n{{Languages\n|de = Einfacher Cupcake\n|es = Cupcake clásico\n|it = Cupcake classico\n|nl = Gewone Cupcake\n|no = Vanlig muffins\n|ru = Обычный кекс\n}}\n[[pt-br:Cupcake simples]]\n\n[[Category:Cupcake Maker Products]]\n[[Category:Milk Products]]\n[[Category:Egg Products]]\n[[Category:Wheat Products]]\n[[Category:White Sugar Products]]",
   "wikitextHash": "561fab8c277f1462b36e321ce6a390453ffb567d969308057cfa274f1cf77539"
 }

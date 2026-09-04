@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yellow_Cheetah_Cub.png",
+  "filePageId": 35410,
+  "filePageRevisionId": 100705,
+  "filePageRevisionSha1": "a559f15a2fa9feee6a6ab3145cb38752cad4e797",
+  "filePageRevisionTimestamp": "2022-04-27T17:08:58Z",
+  "filePageWikitext": "== Summary ==\nTemporary image.\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "2ece33f2327ff79b795cc8e6ff1b438ec0bcde47116926cfb9279dc628c5da87",
   "height": 565,
   "immutableUrl": null,
   "mediaId": "File:Yellow Cheetah Cub.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-27T17:08:58Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYellow%20Cheetah%20Cub.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 187969,
   "sourceSha1": "bbe4ffe979f976edb6bb398b0b5f0425265d1de2",

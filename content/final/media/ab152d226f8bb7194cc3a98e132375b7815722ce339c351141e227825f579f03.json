@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Diligent_Neighbor_III.png",
+  "filePageId": 22682,
+  "filePageRevisionId": 79773,
+  "filePageRevisionSha1": "e7a8795c1c1fceaf7cde794ebc583c13fcae38dc",
+  "filePageRevisionTimestamp": "2018-04-30T19:47:56Z",
+  "filePageWikitext": "Completed Version of Diligent Neighbor III Image\n{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "27587347b67c1d00ff0e39956d6ec2c5c012c9758e57d55a862685fccf1bbece",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Diligent Neighbor III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T19:47:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADiligent%20Neighbor%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 194993,
   "sourceSha1": "179706c4d3eec4a648ac8c7b6983c1eb20255a04",

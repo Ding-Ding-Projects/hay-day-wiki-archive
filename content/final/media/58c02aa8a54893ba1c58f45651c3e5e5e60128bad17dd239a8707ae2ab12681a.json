@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cucumber.png",
+  "filePageId": 30992,
+  "filePageRevisionId": 104883,
+  "filePageRevisionSha1": "87dab28f50b959eff53cdc3637b179387ef8c681",
+  "filePageRevisionTimestamp": "2024-02-18T15:18:09Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "09928baf13613e96a0930c28d1ffdfd6bbbc1625d4c7e612caae1d0af56adb9f",
   "height": 1836,
   "immutableUrl": null,
   "mediaId": "File:Cucumber.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 47,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T15:18:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACucumber.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 880721,
   "sourceSha1": "310d4bffd4e61a328a3972780a3d6cb5980c1e33",

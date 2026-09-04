@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -356,11 +364,12 @@
   "revisionId": 105694,
   "revisionTimestamp": "2024-08-20T05:53:46Z",
   "route": "/wiki/loom-3555",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Loom",
   "title": "Loom",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Loom.png|200px|left|Loom]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 17\n |price = 3,200\n |time = 1 d\n |slots = 2\n |dia = 47\n |size = 2×2\n}}\nThe '''Loom''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 17.\n\nIt is used to make [[sweater]]s, [[Cotton Fabric|cotton fabric]], [[Blue Woolly Hat|blue woolly hats]], [[Blue Sweater|blue sweaters]] , [[Red Scarf|red scarves]] and [[Flower Shawl|flower shawl]].\n\n{{Clr}}\n----\n\n=== '''Appearance''' ===\nThe Loom looks like a wooden floor loom with a chair in front of it. Red fabric is being woven.\n\nThe mastered version gains a golden star at its top and a wooden platform.\n----\n=== '''Building''' ===\nIt costs 3,200 {{Infoicon|coin}} and takes 1 day (or 47 {{Infoicon|dia}}) to build the Loom. It gives players 24 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Sweater|17|2h|151\n|Cotton Fabric|18|30m|108\n|Blue Woolly Hat|19|1h|111\n|Blue Sweater|20|3h|208\n|Red Scarf|48|2:30|288\n|Flower Shawl|71|1:30|295\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Loom originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,116 hours of production is required to [[Masteries|master]] the Loom:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Loom Mastered.png|150px|Mastered Loom]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />36 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />180 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />900 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Loom Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n* All products except cotton fabric require one or more units of [[wool]]. Wool is easily found in the [[Daily Dirt]].\n* The Loom is easy to master if you make lots of sweaters.\n* You can speed up the production of the Loom using a green [[booster]].\n----\n[[ru:Ткацкий станок]]\n{{Navigation}}\n{{Languages\n|de = Webstuhl\n|es = Telar\n|fr = Métier à Tisser\n|it = Telaio\n|no = Vev\n|sv = Vavstol\n|vi = Khung cửi\n|zh = 织布机\n}}\n[[pt-br:Tear]]\n[[ru:Ткацкий станок]]\n[[Category:Production Buildings]]",
   "wikitextHash": "6af54ce1ad31cc14313403275610f5531f6fee386a430671c1cf7a938162ee18"
 }

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Sewing Machine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Sewing Machine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -131,11 +141,12 @@
   "revisionId": 105806,
   "revisionTimestamp": "2024-09-04T22:49:13Z",
   "route": "/wiki/cotton-shirt-14258",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cotton_Shirt",
   "title": "Cotton Shirt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cotton Shirt.png|200px|left|Cotton Shirt]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 19\n |price = 1 to 241\n |time = 45 min\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 29\n |base = 67\n |dia = 3\n |time3 = 38 min\n}}\n'''Cotton shirts''' are [[products]] unlocked at [[experience]] level 19.\n\nLike all [[products]], they are stored in the [[barn]].\n{{Clr}}\n----\n==='''Making cotton shirts'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nCotton shirts are made in the [[Sewing Machine]].\n\nTo make a shirt, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|-\n|'''x2'''\n|}\nIt takes 45 minutes to make one shirt, and 38 minutes in a fully [[Masteries|mastered]] machine. Each shirt gives players 29 [[experience]] points.\n{{Clr}}\n----\n==='''Selling cotton shirts'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Cotton shirts can be bought or sold for a maximum price of 2,412 {{Infoicon|coin}} for 10 shirts.\n* Buying the ingredients required to make a shirt costs 216 {{Infoicon|coin}}.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 cotton shirts per crate, up to a total of 12 per boat. \n{{Clr}}\n----\n==='''Strategy tips'''===\n*Due to the rarity of [[Cotton Fabric]], it is not recommended to manually producing this product. \n*You can occasionally find [[Cotton Shirt]] in the [[Daily Dirt]], less popular than the [[Wooly Chaps]] and [[Violet Dress]].\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Baumwollhemd\n|es = Camisa de algodón\n|fr = Chemise en coton\n|it = Maglietta in cotone\n|nl = Katoenen Shirt\n|no = Bomullsskjorte\n|zh = 棉质衬衫\n}}\n[[pt-br:Camisa de algodão]]\n[[ru:Хлопковая рубаха]]\n[[ru:Хлопковая рубаха]]\n[[Category:Sewing Machine Products]]\n[[Category:Cotton Fabric Products]]",
   "wikitextHash": "c03381746b188770976ed452b7d372af85da9125d0f207a328bdd7b1ba3c6af9"
 }

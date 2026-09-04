@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Plum Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Plum Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -149,11 +159,12 @@
   "revisionId": 109512,
   "revisionTimestamp": "2026-02-28T22:22:43Z",
   "route": "/wiki/plum-jam-29907",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Plum_Jam",
   "title": "Plum Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Plum Jam.png|200px|left|Plum jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 94\n |price = 1 to 385\n |time = 5 h\n |xp = 46\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |base = 107\n |dia = 7\n |time3 = 4 h 15 m\n}}\n'''Plum jam''' is a [[Products|product]] unlocked at [[experience]] level 94.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making plum jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nPlum jam is made in the [[Jam Maker]].\n\nTo make the jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plum.png|75px|link=Plum|Plums]]\n|-\n|'''x3'''\n|}\nIt takes 5 hours to make one jar of jam, and 4 hours and 15 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 46 [[experience]] points.\n\n{{Clr}}----\n==='''Selling plum jam'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Plum jam can be bought or sold for a maximum price of 3852 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make plum jam costs 246 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 plum jam per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Pflaumenmarmelade\n|es = Mermelada de ciruela\n|fr = Confiture de Prune\n|it = Confettura di prugne\n|nl = Pruimenjam\n|no = Plommesyltetøy\n|ru = Сливовый джем\n|zh = Plum Jam\n}}\n[[pt-br:Geleia de ameixa]]\n\n[[Category:Jam Maker Products]]\n[[Category:Plum Products]]",
   "wikitextHash": "1402ed42a2040fe9c0f8a5c1c0f925ba3ebe0fe5b66f070762be8276aa5abf0b"
 }

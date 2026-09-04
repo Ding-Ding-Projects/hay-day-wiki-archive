@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -377,11 +385,12 @@
   "revisionId": 110941,
   "revisionTimestamp": "2026-08-27T13:54:34Z",
   "route": "/wiki/indigo-2083",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Indigo",
   "title": "Indigo",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Indigo.png|200px|left|Indigo]]\n\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 13\n |price = 1 to 25\n |time = 2 h\n |xp = 5\n |source = {{Infoicon|field|bigger|link=Farm}}\n |base = 7\n |dia = 5\n}}\n'''Indigo''' is a field [[crops|crop]] unlocked at [[experience]] level 13.\n\nIt is used to dye [[Cotton Fabric|cotton fabric]] and [[wool]], make [[Flower Shop|bouquets]] and [[Floral Candle|floral candles]].\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 380 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Growing indigo'''===\nIndigo is grown in [[Farm|fields]] by planting another indigo plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 5 {{Infoicon|xp}} points, and takes 2 hours to mature.\n<gallery>\nIndigo Stage 1.png\nIndigo Stage 2.png\nIndigo Stage 3.png\nIndigo Stage 4.png\nIndigo Stage 5.png\n</gallery>\n----\n==='''Selling indigo'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Indigo can be sold or bought for a maximum price of 252 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}\n----\n==='''Using indigo'''===\nIndigo is used to make the following [[products]]:\n\n{{Item Usage|Indigo\n|Snowflake Gift|1|17|temp=Snowflake Gift|tempend=20230102\n|Blue Woolly Hat|1|19\n|Blue Sweater|2|20\n|Violet Dress|1|25\n|Rustic Bouquet|3|49\n|Bright Bouquet|3|65\n|Sun Hat|1|74\n|Birthday Bouquet|1|92\n|Floral Candle|2|95\n|Clay Mug|2|99\n|Calming Diffuser|3|116\n}}\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 8 to 19 indigo per crate, up to a total of 68 per boat.\n* Each unit of indigo gives players 10 coins and 8 experience points in boat orders.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Recipes only ask for one to three units of indigo so it is not a crop you need to keep large quantities of.\n* Indigos are very commonly found in the Daily Dirt and might not get sold quickly if you sell them on max price.\n----\n==='''Did you know?'''===\n* In real life [[wikipedia:Indigofera|indigofera plants]] are used to create [[wikipedia:Indigo_dye|indigo dye]]. In Hay Day, the dyeing making process is skipped.\n* Before the October 2017 Update Indigo was the most common crop in Hay Day but after the addition of flower shop and other products the use of Indigo got increased and it started being sold better.\n----\n\n{{Navigation}}\n{{Languages\n|de = Indigo\n|es = Añil\n|fi = Indigo\n|fr = Indigo\n|it = Indaco\n|nl = Indigo\n|no = Indigo\n|ru = Индиго\n|sv = Indigo\n|vi = Chàm\n|zh = 木蓝\n}}\n[[pt-br:Índigo]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "ce170f89988a364233853a248b6777649bcd31910edac49b296fd048bdd7205e"
 }

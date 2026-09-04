@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Field Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Field Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -329,11 +337,12 @@
   "revisionId": 110251,
   "revisionTimestamp": "2026-05-27T20:58:04Z",
   "route": "/wiki/broccoli-30746",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Broccoli",
   "title": "Broccoli",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Broccoli.png|200px|left]]\n\n{{Infobox\n|level = 83\n|price = 1 to 21\n|time = 1 h 20 min\n|xp = 4\n|source = {{Infoicon|field|bigger|link=Farm}}\n|base = 6\n|dia = 4\n|title = [[Crops|Crop]]}}\n'''Broccoli''' is a field [[crops|crop]] unlocked at [[experience]] level 83.\n\nLike all crops, they are stored in the [[silo]].\n\nIf you have none in your silo, you can buy 10 for 330 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Growing broccoli'''===\nBroccoli is grown in [[Farm|fields]] by planting another broccoli plant (either previously harvested or purchased). Each plot yields 2 plants (net gain of 1 plant) and 4 [[experience]] points, and takes 1 hour and 20 minutes to mature.\n<gallery>\nFile:Broccoli Stage 1.png\nFile:Broccoli Stage 2.png\nFile:Broccoli Stage 3.png\nFile:Broccoli Stage 4.png\nFile:Broccoli Stage 5.png\n</gallery>\n----\n==='''Selling'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Broccoli can be sold or bought for a maximum price of 216 {{Infoicon|coin}} for 10 units.\n\n{{Clr}}----\n=== '''Using''' ===\nBroccoli used to make the following [[products]]:\n\n{{Item Usage|Broccoli\n|Broccoli Pasta|3|83\n|Bacon Fondue|1|86\n|Broccoli Soup|3|87\n|Tofu Stir Fry|3|89\n|Veggie Bouquet|3|106\n}}\n----\n=== '''Boat orders''' ===\n[[File:Riverboat.png|150px|left|Riverboat]]\n[[Boat]] orders ask for 15 to 24 broccoli per crate, up to a total of 72 per boat.\n\n{{Clr}}----\n=== '''Strategy tips''' ===\n*Recipes ask for up to 3 Broccoli per recipe, so you don't need to have large quantities at hand.\n----\n{{Navigation}}\n{{Languages\n|de = Brokkoli\n|es = Brócoli\n|fr = Brocoli\n|it = Broccolo\n|no = Brokkoli\n|ru = Брокколи\n}}\n[[pt-br:Brócolis]]\n\n[[Category:Field Crops]]",
   "wikitextHash": "9714a650a7ace26bc9fabc71ecbe39a89f1b8edf78b800c1ccc02de4137b1ae3"
 }

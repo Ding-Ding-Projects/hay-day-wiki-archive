@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Fishing Lake",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Fishing Lake",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Animals?action=history",
@@ -31,11 +45,12 @@
   "revisionId": 81889,
   "revisionTimestamp": "2018-07-07T12:35:41Z",
   "route": "/wiki/category%2Fcategory-animals-23382",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Animals",
   "title": "Category:Animals",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles about [[animals]].\n{{Languages\n|de = Kategorie:Tiere\n|es = Categoría:Animales\n|fr = Catégorie:Les_Animaux\n|it = Categoria:Animali\n}}\n[[Category:Farm]]\n[[Category:Fishing Lake]]\n[[Category:Town]]\n[[Category:Game Features]]",
   "wikitextHash": "599e4c61854e413da39273412665b631e9d83bba6f42baf7ac30c3f045a2d925"
 }

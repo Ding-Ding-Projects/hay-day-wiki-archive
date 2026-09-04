@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Personal_Train_Stage_1.png",
+  "filePageId": 20952,
+  "filePageRevisionId": 77476,
+  "filePageRevisionSha1": "6afe5ec339bf68f366f0d5e2cdf53db2996adfa2",
+  "filePageRevisionTimestamp": "2018-02-11T18:08:42Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Town]]",
+  "filePageWikitextHash": "269e312e7502cc8a09b74a33cd91cc3de9ee677fb59a23687a58deb31f3dfce0",
   "height": 974,
   "immutableUrl": null,
   "mediaId": "File:Personal Train Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-11T18:06:21Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APersonal%20Train%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 588602,
   "sourceSha1": "fbcfb612fa3f838aca32f0c1bea1b6b650536d1f",

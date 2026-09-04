@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Watermelon_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98772,
   "revisionTimestamp": "2021-09-07T14:39:11Z",
   "route": "/wiki/category%2Fcategory-watermelon-products-35161",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Watermelon_Products",
   "title": "Category:Watermelon Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Watermelon.png|thumb]]\nProducts of [[Watermelon]].\n[[Category:Products]]",
   "wikitextHash": "cd534ed6d2b6aba070794c0ef739ff3c5b0865055ffff598fd6ce19317a4ff14"
 }

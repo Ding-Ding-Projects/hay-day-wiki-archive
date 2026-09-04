@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_67.png",
+  "filePageId": 34551,
+  "filePageRevisionId": 98264,
+  "filePageRevisionSha1": "a9ce98236b4c6bb7b08e222f2deb84dfdb6d8818",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:28Z",
+  "filePageWikitext": "== Summary ==\nRep level 67 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "84694dfd7c079e1923f0478a9afd81529beb87b6e7eafea678a765ddf1f81fc5",
   "height": 782,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 67.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-09-28T19:44:40Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2067.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1125252,
   "sourceSha1": "78f8b529e60ad6f4e5c3f7d66f7221d02a94e4ea",

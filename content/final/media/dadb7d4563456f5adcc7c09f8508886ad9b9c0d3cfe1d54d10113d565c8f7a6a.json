@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Book_Stand.png",
+  "filePageId": 28068,
+  "filePageRevisionId": 74219,
+  "filePageRevisionSha1": "31ffd3ec7a7720f49ab66929e18182a889a05ce6",
+  "filePageRevisionTimestamp": "2017-10-22T10:08:31Z",
+  "filePageWikitext": "== Summary ==\nSanctuary Book Stand or Puzzle Book Stand\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "7f674d3323f5f225ec12aadffd494b611eb3fc950751c5d80d8a6aa5935b5ed1",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Book Stand.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:32:29Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABook%20Stand.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 292178,
   "sourceSha1": "1b8196beeedf3119ebdda9ad230eade121164d3d",

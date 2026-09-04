@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Mystery_Package.png",
+  "filePageId": 14646,
+  "filePageRevisionId": 73823,
+  "filePageRevisionSha1": "ce0f99fd2b580baa2cc935024c62a9223b77d486",
+  "filePageRevisionTimestamp": "2017-10-21T10:21:30Z",
+  "filePageWikitext": "Picture of a Mystery Town Package.\n{{License SC}}\n[[Category:Image_Catalogue]]",
+  "filePageWikitextHash": "72207b17feb53bc5c04f9d93f8de4a00891063b130e557fbc52f6f96e97275e5",
   "height": 1300,
   "immutableUrl": null,
   "mediaId": "File:Town Mystery Package.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-14T10:07:57Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Mystery%20Package.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 308988,
   "sourceSha1": "52b5a74ffe124321dc6a08d8110a4a0996b7f939",

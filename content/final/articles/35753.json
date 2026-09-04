@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 102647,
   "revisionTimestamp": "2023-04-01T21:43:20Z",
   "route": "/wiki/category%2Fcategory-waffle-maker-products-35753",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Waffle_Maker_Products",
   "title": "Category:Waffle Maker Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Waffle Maker.png|thumb]]\nProducts of the [[Waffle Maker]].\n[[Category:Products]]",
   "wikitextHash": "0f6cdfcfc6517cfb519c12930eca5857dc8904e81665e0929ef9c577b790f1eb"
 }

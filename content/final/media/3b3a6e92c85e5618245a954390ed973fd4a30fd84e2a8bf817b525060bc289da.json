@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_113.png",
+  "filePageId": 26889,
+  "filePageRevisionId": 107174,
+  "filePageRevisionSha1": "fd7e409506c4ea47f289e07ddfd695960bad8daf",
+  "filePageRevisionTimestamp": "2025-02-07T18:05:06Z",
+  "filePageWikitext": "Experience Level 113 Image\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "35f3353c5c069337f96cf1d8c92267fc9bcc997fe53ef9320e332f23aa775235",
+  "height": 562,
+  "immutableUrl": null,
+  "mediaId": "File:Level 113.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-02-07T18:05:06Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ALevel%20113.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 358498,
+  "sourceSha1": "620a506b3b565d49820d638f62f1657466c8ad0b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c1/Level_113.png/revision/latest?cb=20250207180506",
+  "title": "File:Level 113.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 783
+}

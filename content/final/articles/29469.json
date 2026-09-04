@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fishing",
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fishing",
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products?action=history",
@@ -33,11 +43,12 @@
   "revisionId": 78953,
   "revisionTimestamp": "2018-04-18T13:01:17Z",
   "route": "/wiki/category%2Fcategory-lure-workbench-products-29469",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Lure_Workbench_Products",
   "title": "Category:Lure Workbench Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Lure Workbench.png|thumb]]\nProducts of the [[Lure Workbench]].\n[[Category:Fishing]]\n[[Category:Products]]",
   "wikitextHash": "98e03c8001e67e47f060b9ef8ef29d9cf6a1bed314f011c5f1c99b0caf00ec15"
 }

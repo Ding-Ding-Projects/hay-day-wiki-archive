@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Mechanical_Horse.png",
+  "filePageId": 35539,
+  "filePageRevisionId": 101497,
+  "filePageRevisionSha1": "e1a7a1607bf6441b24c846ebeb70217d1c9cbdde",
+  "filePageRevisionTimestamp": "2022-09-20T20:12:18Z",
+  "filePageWikitext": "== Summary ==\nDerby deco\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "d6102dff87c296d8b1756aa62d8c3b9a6236a7e92dcb792b832cd82650a4adc2",
   "height": 155,
   "immutableUrl": null,
   "mediaId": "File:Mechanical Horse.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-08-02T18:22:12Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMechanical%20Horse.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 54580,
   "sourceSha1": "6e0cbc3afa5cd8e057c69277affe7c263349af38",

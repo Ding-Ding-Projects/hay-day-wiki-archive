@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Crescent_Fountain.png",
+  "filePageId": 34826,
+  "filePageRevisionId": 99354,
+  "filePageRevisionSha1": "9f456c0518303a9ddc111ef9c948f834390f677f",
+  "filePageRevisionTimestamp": "2021-11-10T21:08:33Z",
+  "filePageWikitext": "== Summary ==\nRamadan 2021 diamond package decoration.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "11dddc55d1c6465e54b42688baf185efcffe33cfacb2cdd403f73fcca4704820",
   "height": 520,
   "immutableUrl": null,
   "mediaId": "File:Crescent Fountain.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-04-14T12:38:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACrescent%20Fountain.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 630351,
   "sourceSha1": "d65d053e3d4eb7a02c308abd93b94ec4fe81e3af",

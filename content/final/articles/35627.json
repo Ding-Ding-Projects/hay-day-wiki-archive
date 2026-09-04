@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cockatoos"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cockatoos"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -407,6 +415,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -436,6 +445,7 @@
     "File:Sulphur Crested Cockatoo.png",
     "File:Sunflower.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -451,11 +461,12 @@
   "revisionId": 110719,
   "revisionTimestamp": "2026-07-10T22:27:26Z",
   "route": "/wiki/rose-breasted-cockatoo-35627",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Rose-Breasted_Cockatoo",
   "title": "Rose-Breasted Cockatoo",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Rose-Breasted Cockatoo.png|200px|left|Rose-Breasted Cockatoo]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 20\n |needs = any one:<br>[[File:Bell Pepper.png|35px|link=Bell Pepper]][[File:Blueberries.png|35px|link=Blueberries]][[File:Broccoli.png|35px|link=Broccoli]]<br/>\n[[File:Cabbage.png|35px|link=Cabbage]][[File:Carrot.png|35px|link=Carrot]][[File:Rice.png|35px|link=Rice]]<br/>\n[[File:Sesame.png|35px|link=Sesame]][[File:Soybean.png|35px|link=Soybean]][[File:Strawberry.png|35px|link=Strawberry]]<br/>\n[[File:Sunflower.png|35px|link=Sunflower]][[File:Watermelon.png|35px|link=Watermelon]]\n |time = every 6 h\n |cost= {{Infoicon|bluev|link=Voucher}}10 {{Infoicon|chickv|link=Chick Voucher}}9\n |xp = 40\n |dia = N/A\n}}\n'''Rose-Breasted Cockatoos''' are pet [[animals]]. They are unlocked at [[experience]] level 20.\n\nThey give players [[experience]] points in exchange for any available feed.\n{{Clr}}\n----\n==='''Appearance'''===\n\n{{Clr}}\n----\n==='''Buying'''===\n[[File:Bird House.png|150px|left|thumb|Bird house]]\nEach Rose-Breasted cockatoo costs 10 blue [[voucher]]s and 9 chick [[voucher]]s. They must be placed near a [[Bird House|bird house]] to be bought. Players can have one Rose-Breasted cockatoo.\n\nCockatoos and bird houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\n[[File:Bird House 2.png|230x230px|left|thumb|Giving feed]]\nWhen given certain quantity of [[Soybean]], [[Carrot]], [[Strawberry]], [[Sesame]], [[Rice]], [[Cabbage]], [[Sunflower]], [[Bell Pepper]], [[Broccoli]] or [[Watermelon]], cockatoos eat then roam the [[farm]] for 6 hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Cockatoos stay asleep otherwise.\n\nCockatoos which have been woken up but are not fed for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n----\n{{Navigation}}\n{{Languages\n|de = Rosakakadu\n|es = Cacatúa rosada\n|fr = Cacatoès Rosalbin\n|no = Rosenkakadu\n}}\n[[ru:Розовый какаду]]\n\n[[Category:Cockatoos]]",
   "wikitextHash": "76522606d2683976262a60bb675133578759f5c4c53299f5a88cb5e4ae3f2048"
 }

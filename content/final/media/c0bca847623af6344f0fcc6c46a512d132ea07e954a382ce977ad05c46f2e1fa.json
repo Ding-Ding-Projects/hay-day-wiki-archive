@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Gold_Lure.png",
+  "filePageId": 5952,
+  "filePageRevisionId": 65978,
+  "filePageRevisionSha1": "3c68b1ad9afe799fb289e861b733d0bdefa99c9c",
+  "filePageRevisionTimestamp": "2016-10-28T13:23:30Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Lure]]",
+  "filePageWikitextHash": "e9858e96ecb1574705c90fd75fb9d00a6854597f9999c7ef2d462fadf9ef3db4",
   "height": 120,
   "immutableUrl": null,
   "mediaId": "File:Gold Lure.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 27,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-03-30T23:00:09Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGold%20Lure.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 17053,
   "sourceSha1": "934ed28c7e2c59f3668aa2d8e6163afcbcd7b8c7",

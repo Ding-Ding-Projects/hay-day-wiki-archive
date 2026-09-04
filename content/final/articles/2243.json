@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Berries",
+    "Category:Bush Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Berries",
+      "Category:Bush Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -292,11 +302,12 @@
   "revisionId": 107979,
   "revisionTimestamp": "2025-06-09T19:54:49Z",
   "route": "/wiki/raspberry-2243",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Raspberry",
   "title": "Raspberry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Raspberry.png|200px|left|Raspberry]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 19\n |price = 1 to 46\n |time = 18 h\n |xp = 9\n |source = {{Infoicon|raspb|bigger|link=Raspberry Bush}}\n |base = 13\n |dia = 9\n}}\n'''Raspberries''' are fruit [[crops]] unlocked at [[experience]] level 19. They grow on [[Raspberry Bush|raspberry bushes]] and can be harvested four times.\n\nThey are used as ingredients in several food [[products]] but also as a dyeing agent for clothes and a scent for candles.\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n==='''Harvesting raspberries'''===\n[[File:Raspberry Bush.png|150px|left|link=Raspberry Bush|Raspberry bush]]\nThe first harvest gives two raspberries, the second one three, and the other two four. After the third harvest the bush wilts.\n\nTapping on the bush places a sign on it letting other players know the bush needs to be revived. Once it is, a last harvest can be done before the bush dies. An [[axe]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling raspberries'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Raspberries can be sold or bought for a maximum price of 468 {{Infoicon|coin}} for ten fruit.\n* Buying a raspberry bush costs 220 {{Infoicon|coin}}.\n* Given all 13 raspberries are collected during the four harvests, the batch can be sold for 608 {{Infoicon|coin}}, thus giving a profit of 388 {{Infoicon|coin}} per bush.\n{{Clr}}\n----\n==='''Using raspberries'''===\nRaspberries are used to make the following [[products]]:\n{{Item Usage|Raspberry\n|Raspberry Muffin|2|19\n|Red Berry Cake|1|23\n|Violet Dress|1|25\n|Berry Juice|1|31\n|Raspberry Jam|3|36\n|Raspberry Mocha|1|46\n|Raspberry Candle|2|52\n|Fancy Cake|3|54\n|Berry Smoothie|3|64\n|Yogurt Smoothie|2|70\n|Sun Hat|1|75\n|Colorful Candles|1|84\n|Exfoliating Soap|1|93\n|Dried Fruit|1|102\n|Tropical Yogurt|4|109\n|Berry Waffles|3|114}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 6 to 11 raspberries per crate, up to a total of 40 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Each bush gives a maximum of 13 raspberries in 72 hours minimum.\n* Although raspberries can occasionally be found in the [[Daily Dirt]] you shouldn't expect to get them there. They are rare enough that selling them at maximum price is recommended.\n* Recipes ask for 1 to 3 raspberries so you need to have several extra bushes to cover your needs. Extras can also be useful if you have [[boat]]s with raspberry crates. However, make sure you have enough [[axe]]s when you harvest some if you don't want to have dead bushes on your farm.\n* Tight ranks of bushes attract [[Animals|foxes]]. If it's an issue space them out a bit.\n* Saving revivable bushes and trees is an easy way to achieve help tasks during [[Derby|derbies]]. [[Neighborhood|Neighbors]] and [[friends]] can help by waiting until you have started your task to flag their dead plants.\n----\n\n{{Navigation}}\n{{Languages\n|de = Himbeere\n|es = Frambuesa\n|fr = Framboise\n|it = Lampone\n|nl = Frambozen\n|no = Bringebær\n|sv = Hallon\n|vi = Raspberry\n|zh = 树莓\n}}\n[[pt-br:Framboesa]]\n[[Category:Bush Crops]]\n[[Category:Berries]]",
   "wikitextHash": "1033ddd737fe5dafa54eeb32935706e7a342a8d2cf2f9bf9f36d8d998bdb2b41"
 }

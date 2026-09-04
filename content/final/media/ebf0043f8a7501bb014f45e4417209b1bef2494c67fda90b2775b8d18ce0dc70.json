@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Elephant_Puzzles.png",
+  "filePageId": 28069,
+  "filePageRevisionId": 74467,
+  "filePageRevisionSha1": "d58aea5c60336c640b438c30d5e377af4b2ec808",
+  "filePageRevisionTimestamp": "2017-10-22T17:37:10Z",
+  "filePageWikitext": "== Summary ==\nElephant Puzzles\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "417c983376dfc373688091085f0db0477fd336b58e072f7b3bdce3206e3b7345",
   "height": 403,
   "immutableUrl": null,
   "mediaId": "File:Elephant Puzzles.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-06-19T21:18:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AElephant%20Puzzles.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 621759,
   "sourceSha1": "e29df3f560b8f6039920ecc22755a82e5c88e2a3",

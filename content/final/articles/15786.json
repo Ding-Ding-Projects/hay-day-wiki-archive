@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Corn Products",
+    "Category:Honey Products",
+    "Category:Popcorn Pot Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Corn Products",
+      "Category:Honey Products",
+      "Category:Popcorn Pot Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +148,12 @@
   "revisionId": 106042,
   "revisionTimestamp": "2024-10-23T23:02:23Z",
   "route": "/wiki/honey-popcorn-15786",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Honey_Popcorn",
   "title": "Honey Popcorn",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Honey Popcorn.png|200px|left|Honey popcorn]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 40\n |price = 1 to 360\n |time = 1 h 30 min\n |source = {{Infoicon|popcornp|bigger|link=Popcorn Pot}}\n |xp = 43\n |base = 100\n |dia = 5\n |time3 = 1 h 16 min\n}}\n'''Honey popcorn''' is a [[Products|product]] unlocked at [[experience]] level 40.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making honey popcorn'''===\n[[File:Popcorn Pot.png|150px|left|Popcorn Pot]]\nHoney popcorn is made in the [[Popcorn Pot]].\n\nTo make honey popcorn, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|[[File:Honey.png|75px|Honey|link=Honey]]\n|-\n|'''x2'''\n|'''x2'''\n|}\nIt takes 1 hour and 30 minutes to make one bag, and 1 hour and 16 minutes in a fully [[Masteries|mastered]] pot. Each bag gives players 43 [[experience]] points.\n\n{{Clr}}----\n==='''Selling honey popcorn'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Honey popcorn can be bought or sold for a maximum price of 3,600 {{Infoicon|Coin}} for 10 bags.\n* Buying the ingredients required to make honey popcorn costs 322 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 bags of honey popcorn per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Honey popcorn can't easily be found in the [[Daily Dirt]]. \n*Always keep a good stock of honey, and corn so you can easily make this product.\n\n----\n\n{{Navigation}}\n{{Languages\n|de = Honig-Popcorn\n|es = Palomitas de miel\n|fr = Pop-Corn au Miel\n|it = Popcorn al miele\n|nl = Honingpopcorn\n|no = Honningpopkorn\n|vi = Bỏng ngô mật ong\n|zh = Honey Popcorn\n}}\n[[pt-br:Pipoca com mel]]\n[[ru:Попкорн с мёдом]]\n[[Category:Popcorn Pot Products]]\n[[Category:Corn Products]]\n[[Category:Honey Products]]",
   "wikitextHash": "e35c47350f3e9ef56d6d0fea6dc6a5b0b929af276e3f83662ea8976f3a7a0f17"
 }

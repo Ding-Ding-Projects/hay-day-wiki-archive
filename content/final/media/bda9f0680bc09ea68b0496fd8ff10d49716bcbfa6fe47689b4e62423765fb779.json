@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Fences_%26_Paths.png",
+  "filePageId": 14426,
+  "filePageRevisionId": 73909,
+  "filePageRevisionSha1": "3181c6298cc5c5594f7b9a4a69a38c78fd73c9d0",
+  "filePageRevisionTimestamp": "2017-10-21T20:33:35Z",
+  "filePageWikitext": "Picture of the Fences & and Pathways tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "60108ab04a5251800d9de7bccd69a3e8cf9c34718efa516ea4d7456c156aa688",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Fences & Paths.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:18:36Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Fences%20%26%20Paths.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 77203,
   "sourceSha1": "5f409f802ae86cdf3a541d6819e5a93deee6cb48",

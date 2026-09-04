@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -347,11 +357,12 @@
   "revisionId": 109751,
   "revisionTimestamp": "2026-05-02T01:16:41Z",
   "route": "/wiki/pasta-maker-19438",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pasta_Maker",
   "title": "Pasta Maker",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|this page is about the Pasta Maker, not to be confused with the [[Pasta Kitchen]].}}\n[[File:Pasta Maker.png|200px|left|Pasta Maker]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 67\n |price = 400,000\n |time = 3 d 8 h\n |slots = 2\n |dia = 81\n |size = 2×2\n}}\nThe '''Pasta Maker''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 67.\n\nIt is used to make [[Fresh Pasta|fresh pasta]] and [[Rice Noodles|rice noodles]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 400,000 {{Infoicon|coin}} and takes 3 days and 8 hours (or 81 {{Infoicon|dia}}) to build the Pasta Maker. It gives players 43 {{Infoicon|xp}} when completed.\n\n=== '''Appearance''' ===\nThis machine has the Traditional metallic Pasta Maker and a spring pasta cutter in the end, along with a sack of flour in the back, and a yellowish orange bowl for the pasta in the side.\n\nThe mastered version of this machine has some golden parts such as on the roller of the pasta maker, the sphere object in the cutter part, and a golden star in front of the Pasta maker.\n----\n=== '''Products''' ===\n{{Building Products\n|Fresh Pasta|67|15m|43\n|Rice Noodles|73|20m|100\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Pasta Maker originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Pasta Maker:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Pasta Maker Mastered.png|150px|Mastered Pasta Maker]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Pasta Maker Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*All ingredients required to make pasta can be found in the [[Daily Dirt]] although [[rice]] is harder to come by.\n*The Pasta Maker is a bit hard to master because all of its products take little time. The one way to do it quickly is to open some slots and keep it working as often as possible.\n\n=== '''Did you Know?''' ===\n•This machine has the least amount of products of only Two: Fresh Pasta and Rice Noodles, while the others have only 3 such as the Sugar Mill and some later machineries in the game.\n----\n==='''Videos'''===\n[[File:The making of Hay Day Pasta Maker|left]]\n\n{{Clr}}\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Nudelmaschine\n|es = Máquina de pasta\n|fr = Machine à pâtes\n|it = Impastatrice\n|no = Pastamaskin\n|vi = Máy làm mì\n|zh = Pasta Maker\n}}\n[[pt-br:Máquina de massas]]\n[[ru:Машинка для лапши]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "1b56f3219457fd1ea4f1452beff13b48c2449326ca24ee44810fd74c35c24d7a"
 }

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Cuke_Sandwich?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 90856,
   "revisionTimestamp": "2020-03-10T22:26:17Z",
   "route": "/wiki/cuke-sandwich-32688",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cuke_Sandwich",
   "title": "Cuke Sandwich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect[[Cucumber Sandwich]]",
   "wikitextHash": "d39cf5ecaa35be8fcac0d8952f0d330e289c2252a6c25a819dbdc33436046c95"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -171,11 +179,12 @@
   "revisionId": 110484,
   "revisionTimestamp": "2026-06-08T20:01:52Z",
   "route": "/wiki/cow-pasture-2717",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cow_Pasture",
   "title": "Cow Pasture",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cow Pasture.png|200px|left|Cow pasture]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 6 • 15 • 27\n |price = 20\n |houses = {{Infoicon|cow|big|link=Cow}} x5\n}}\n'''Cow pastures''' are shelters for [[cow]]s. The first pasture is unlocked at [[experience]] level 6.\n{{Clr}}\n----\n==='''Appearance'''===\nThe pasture is a fenced square, on plain ground, along with a manger. However, cows are fed individually with [[Cow Feed|cow feed]] and do not use the manger.\n----\n==='''Building'''===\nEach pasture costs 20 {{Infoicon|coin}} and can hold up to five cows. The second pasture is unlocked at level 15, and the last one at level 27. Building them takes no time.\n----\n==='''Strategy tips'''===\n* If you have some object obscuring your view of the cows tap on the pen. If the harvest or feed icon are in color then you can harvest or feed at least one cow.\n----\n{{Navigation}}\n{{Languages\n|de = Kuhweide\n|es = Corral de vacas\n|fr = Pâturage à vaches\n|it = Pascolo per mucche\n|no = Kubeite\n|ru = Пастбище для коров\n}}\n[[pt-br:Curral de vacas]]\n\n[[Category:Animal Shelters]]",
   "wikitextHash": "810b134240d83b3a07860c089afaee435cb6b1ba78c3d6c42e863ba0d057d3ef"
 }

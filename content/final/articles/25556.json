@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Decorations?action=history",
@@ -31,11 +43,12 @@
   "revisionId": 64622,
   "revisionTimestamp": "2016-08-24T17:38:06Z",
   "route": "/wiki/category%2Fcategory-decorations-25556",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Decorations",
   "title": "Category:Decorations",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "All pages related to [[Decorations]].\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Town]]",
   "wikitextHash": "393684ec6d52721960008d34df12e138e4c7286fddbe08f14d63d95c61d6a62a"
 }

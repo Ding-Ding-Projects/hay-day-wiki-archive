@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Friends_Requests?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 92726,
   "revisionTimestamp": "2020-04-05T00:39:49Z",
   "route": "/wiki/friends-requests-33305",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Friends_Requests",
   "title": "Friends Requests",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Friends]]",
   "wikitextHash": "4ecdd82bf64fe8fd2e4076ea3592a0f16bc20d75c661accfc9b4cbb860e0cf25"
 }

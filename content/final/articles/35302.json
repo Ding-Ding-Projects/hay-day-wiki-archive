@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Espresso_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 99549,
   "revisionTimestamp": "2021-12-04T22:12:47Z",
   "route": "/wiki/category%2Fcategory-espresso-products-35302",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Espresso_Products",
   "title": "Category:Espresso Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Espresso.png|thumb]]\nProducts of [[Espresso]].\n[[Category:Products]]",
   "wikitextHash": "5ada81370a22f917e2f21b216aafd30ba84f0d7d6533027ee0468d163db8e3d2"
 }

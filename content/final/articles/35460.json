@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Mango Products",
+    "Category:Passion Fruit Products",
+    "Category:Plain Yogurt Products",
+    "Category:Raspberry Products",
+    "Category:Yogurt Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Mango Products",
+      "Category:Passion Fruit Products",
+      "Category:Plain Yogurt Products",
+      "Category:Raspberry Products",
+      "Category:Yogurt Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -127,11 +143,12 @@
   "revisionId": 110297,
   "revisionTimestamp": "2026-05-31T18:13:53Z",
   "route": "/wiki/tropical-yogurt-35460",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tropical_Yogurt",
   "title": "Tropical Yogurt",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Tropical Yogurt.png|200px|left|Tropical Yogurt]]\n\n{{Infobox\n  |level = 109\n  |price = 1 to 457\n  |time = 1 h\n  |xp = 54\n  |source = {{Infoicon|yogurtm|bigger|link=Yogurt Maker}}\n  |base = 127\n  |dia = 4\n  |time3 = 51 min\n  |title = [[Products|product]]\n}}\n\n'''Tropical yogurt''' is a [[Products|product]] unlocked at [[experience]] level 109. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Tropical Yogurt'''===\n[[File:Yogurt Maker.png|150px|left|Yogurt Maker]]\nTropical yogurt is made in the [[Yogurt Maker]].\n\nTo make the yogurt, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Yogurt.png|75px|Plain yogurt|link=Plain Yogurt]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|[[File:Passion Fruit.png|75px|Passion fruit|link=Passion Fruit]]\n|[[File:Mango.png|75px|Mango|link=Mango]]\n|-\n|'''x1'''\n|'''x4'''\n|'''x1'''\n|'''x2'''\n|}\nIt takes 1 hour to make one bowl, and 51 minutes in a fully [[Masteries|mastered]] yogurt maker. Each yogurt gives players 54 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Tropical yogurt'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Tropical yogurt can be bought or sold for a maximum price of 4,572 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a tropical yogurt costs 636 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 Tropical yogurt per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n=== '''Did you know?''' ===\n* The cost of the ingredients (636 coins) is greater than the maximum price of the product (457 coins).  So you will lose coins by producing Tropical Yogurt.  This also applies to the Jelly Beans and the Birthday Bouquet.\n\n{{Navigation}}\n{{Languages\n|de = Tropischer Joghurt\n|es = Yogurt tropical\n|fr = Yaourt Tropical\n|it = Yogurt ai frutti tropicali\n|nl = Tropische Yoghurt\n|no = Tropisk yoghurt\n|ru = Тропический йогурт\n|zh = Tropical Yogurt\n}}\n[[pt-br:Iogurte tropical]]\n\n[[Category:Yogurt Maker Products]]\n[[Category:Plain Yogurt Products]]\n[[Category:Raspberry Products]]\n[[Category:Passion Fruit Products]]\n[[Category:Mango Products]]",
   "wikitextHash": "41983dd8becbf9c987e0eb6bf13d567f8a3b5daf2fdf623ba6ab8701bd52beba"
 }

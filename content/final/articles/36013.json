@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Ice_Cream_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 104453,
   "revisionTimestamp": "2024-01-02T23:01:34Z",
   "route": "/wiki/category%2Fcategory-chocolate-ice-cream-products-36013",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Ice_Cream_Products",
   "title": "Category:Chocolate Ice Cream Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Chocolate Ice Cream.png|thumb]]\nProducts of [[Chocolate Ice Cream]].\n[[Category:Products]]",
   "wikitextHash": "fd3364c9691018f46e251c1b476954d110ed16132a899ef1309a2140dbf4856a"
 }

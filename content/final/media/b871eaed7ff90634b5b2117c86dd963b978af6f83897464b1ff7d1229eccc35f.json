@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Jade_Cart.png",
+  "filePageId": 34756,
+  "filePageRevisionId": 99670,
+  "filePageRevisionSha1": "86b087493b3aa2fbcb823af877affc31f12f9338",
+  "filePageRevisionTimestamp": "2021-12-12T22:35:51Z",
+  "filePageWikitext": "== Summary ==\nLunar New Year Diamond Package Decoration\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "b81e93525f3be0124a03ae9633187de1e9ea5a645092c9b1f77656563332149c",
   "height": 337,
   "immutableUrl": null,
   "mediaId": "File:Jade Cart.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-01-29T13:25:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AJade%20Cart.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 308665,
   "sourceSha1": "013fd1822ef58ea0282292b8aa942d0eb578091d",

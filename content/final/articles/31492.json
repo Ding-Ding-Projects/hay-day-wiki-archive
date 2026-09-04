@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Fuel?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 86243,
   "revisionTimestamp": "2019-06-26T18:53:04Z",
   "route": "/wiki/fuel-31492",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fuel",
   "title": "Fuel",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Fuel Spin]]",
   "wikitextHash": "36dae395c7005d82cee540e44fa56c9305c56a6fa0a351eb83203c70bae3b35f"
 }

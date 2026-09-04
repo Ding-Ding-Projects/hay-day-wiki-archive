@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Mine_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57779,
   "revisionTimestamp": "2016-01-21T18:11:35Z",
   "route": "/wiki/category%2Fcategory-mine-products-7567",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Mine_Products",
   "title": "Category:Mine Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Mine.png|thumb]]\nProducts of the [[Mine]].\n[[Category:Products]]",
   "wikitextHash": "9e460856e610cb5df831cd8368331204435ca22aafcd1f3985bfd723b746a1b7"
 }

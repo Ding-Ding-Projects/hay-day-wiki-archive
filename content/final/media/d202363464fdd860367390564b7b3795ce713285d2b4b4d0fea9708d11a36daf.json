@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Actress.png",
+  "filePageId": 15745,
+  "filePageRevisionId": 89324,
+  "filePageRevisionSha1": "06667f083a168ea0ea9cc6ed456355d4f2ad74ef",
+  "filePageRevisionTimestamp": "2019-10-28T16:11:37Z",
+  "filePageWikitext": "Picture of the Actress (a visitor in one's town).\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "a36a1e35f6abb51d70754e844b88b9ef8e187791bd13b2261d8b9280ac30a9c2",
   "height": 749,
   "immutableUrl": null,
   "mediaId": "File:Actress.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:11:37Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AActress.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 308657,
   "sourceSha1": "f79d0f017eee283b2d6546db1474ece10ed567eb",

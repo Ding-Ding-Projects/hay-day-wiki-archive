@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Egg Products",
+    "Category:Lettuce Products",
+    "Category:Mayonnaise Products",
+    "Category:Sandwich Bar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Egg Products",
+      "Category:Lettuce Products",
+      "Category:Mayonnaise Products",
+      "Category:Sandwich Bar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +166,12 @@
   "revisionId": 107263,
   "revisionTimestamp": "2025-02-16T11:55:43Z",
   "route": "/wiki/egg-sandwich-9429",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Egg_Sandwich",
   "title": "Egg Sandwich",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Egg Sandwich.png|200px|left|Egg sandwich]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 66\n |price = 1 to 583\n |time = 1 h 20 min\n |source = {{Infoicon|Sandwichb|bigger|link=Sandwich Bar}}\n |xp = 69\n |dia = 5\n |base = 162\n |time3 = 1 h 8 min\n}}\n'''Egg sandwiches''' are [[products]] unlocked at [[experience]] level 66. They are not used to make any other product.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making egg sandwiches'''===\n[[File:Sandwich Bar.png|150px|left|Sandwich Bar]]\nEgg sandwiches are made in the [[Sandwich Bar]].\n\nTo make a sandwich, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Egg.png|75px|Eggs|link=Egg]]\n|[[File:Lettuce.png|75px|Lettuce|link=Lettuce]]\n|[[File:Mayonnaise.png|75px|Mayonnaise|link=Mayonnaise]]\n|-\n|'''x2'''\n|'''x2'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 1 hour and 20 minutes to make one sandwich, and 1 hour and 8 minutes in a fully [[Masteries|mastered]] Bar. Each sandwich gives players 69 [[experience]] points.\n\n{{Clr}}----\n==='''Selling egg sandwiches'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Egg sandwiches can be bought or sold for a maximum price of 5,832 {{Infoicon|Coin}} for 10 sandwiches.\n* Buying the ingredients required to make a sandwich costs 541 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 egg sandwich per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Ei-Sandwich\n|es = Sándwich de huevo\n|fr = Sandwich aux Œufs\n|it = Sandwich con uova\n|nl = Broodje Ei\n|no = Eggsmørbrød\n|zh = Egg Sandwich\n}}\n[[pt-br:Sanduíche de ovo]]\n[[ru:Бутерброд с яйцами]]\n\n[[Category:Sandwich Bar Products]]\n[[Category:Egg Products]]\n[[Category:Bread Products]]\n[[Category:Lettuce Products]]\n[[Category:Mayonnaise Products]]",
   "wikitextHash": "b08e97b894902c7747901151af1a5efaab37e3661f9f97aceb237724d9c47718"
 }

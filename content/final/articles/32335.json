@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Valley"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Valley"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -58,11 +66,12 @@
   "revisionId": 102848,
   "revisionTimestamp": "2023-04-26T18:05:20Z",
   "route": "/wiki/piggy-bank-32335",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Piggy_Bank",
   "title": "Piggy Bank",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Piggybank_icon.png|thumb|left]]\nThe '''Piggy Bank '''is a feature within the [[Valley]] that allows players to accumulate [[Token|tokens]] that can be stored for use at the end of that current valley season or to use in future seasons. If the player did not use all of their [[Token|tokens]] during a season, those can be transferred to the '''Piggy Bank''' for use during the next valley season. \n\nThe maximum amount of tokens is 1,200.\n{{Clr}}\n----\n==='''Opening the Piggy Bank'''===\n[[File:Icon_piggybank_big_open.png|thumb|left]]\nThe '''Piggy Bank''' can be opened by spending 25 {{Infoicon|dia}}\n\n{{Clr}}----\n==='''Strategy tips'''===\n* You need to calculate each number of tokens before opening it. You should ensure yourself that amount of tokens are efficient for 2 seasonal rewards.\n* If you don't have tokens enough for purchasing 2 seasonal rewards, don't recommend opening piggy bank. However, if you still would like to open, you need to calculate prize of [[supplies]] which you want and compare with the opening cost before decision.   \n\n{{Languages\n|es = Alcancía\n}}\n[[Category:Valley]]",
   "wikitextHash": "9bcb0e7b89a81376c4abca754f3237aa1e30b235efb8e8f1cdc898d193502aaf"
 }

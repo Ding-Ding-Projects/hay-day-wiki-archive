@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Yellow_Giraffe.png",
+  "filePageId": 28022,
+  "filePageRevisionId": 89220,
+  "filePageRevisionSha1": "dac23820521ea71c166bd0a7e575a4b0a849b0b9",
+  "filePageRevisionTimestamp": "2019-10-28T14:03:53Z",
+  "filePageWikitext": "== Summary ==\nYellow Giraffe\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "201051f9da322a70bcaa4df3a759a120dd09d880795a66b82aeb14e31724654e",
   "height": 522,
   "immutableUrl": null,
   "mediaId": "File:Yellow Giraffe.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T14:03:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AYellow%20Giraffe.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 104115,
   "sourceSha1": "b332e7653d2aed9c1b2801151d75815f8d4e940e",

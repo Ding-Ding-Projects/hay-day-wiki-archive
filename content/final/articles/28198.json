@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -72,11 +80,12 @@
   "revisionId": 95758,
   "revisionTimestamp": "2020-08-30T13:59:21Z",
   "route": "/wiki/eggspress-train-28198",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/EGGspress_Train",
   "title": "EGGspress Train",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:EGGspress Train.png|200px|left|EGGspress train]]\nThe '''EGGspress Train''' brings [[Town Visitors|town visitors]] to a player's town.\n\nIt is unlocked at [[experience]] level 34, along with the town area. It comes for free with the [[Train Station|train station]].\n\n{{Clr}}----\n==='''Appearance'''===\nThe train changes as the player upgrades it:\n<gallery>\nEGGspress Train Stage 1.png\nEGGspress Train Stage 2.png\nEGGspress Train Stage 3.png\nEGGspress Train Stage 4.png\nEGGspress Train.png\n</gallery>\n----\n==='''Frequency'''===\n[[File:Train Station Next EGGspress.png|left|150px|Awaiting the EGGspress train]]\nThe EGGspress train comes every six hours. However, it does not arrive until players visit their own towns. Waiting time cannot be decreased.\n\n{{Clr}}----\n==='''Capacity and upgrading'''===\nThe number of visitors the train can bring depends on the level of the [[Train Station|train station]]. The number of visitors it actually brings depends on the maximum visitor capacity of the town. This number can be increased by upgrading the [[Town Hall]].\n\nThe train takes back all visitors waiting at the station, regardless of their number.\n----\n{{Navigation}}\n\n{{Languages\n|es = Tren EGGspress\n}}\n[[Category:Town Buildings]]",
   "wikitextHash": "0c052a6dc2e72c5b67328af714939a698851ef25499a0a9a53d7f0ee71438937"
 }

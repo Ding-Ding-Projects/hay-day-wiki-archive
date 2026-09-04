@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shipwreck.png",
+  "filePageId": 34285,
+  "filePageRevisionId": 99754,
+  "filePageRevisionSha1": "3acf9ec587fc6e304e9d49612698923ff29ea35d",
+  "filePageRevisionTimestamp": "2021-12-12T22:58:14Z",
+  "filePageWikitext": "== Summary ==\nPart of the Summer 2020 package.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "0f7eec9724e4341e25475c5f4dc52d7107e47d7f69733ed61bdb896fe0b0a7e4",
+  "height": 395,
+  "immutableUrl": null,
+  "mediaId": "File:Shipwreck.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-08-14T14:57:50Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AShipwreck.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 308764,
+  "sourceSha1": "f3935cf584bb9949134509a401cf03d4bef763cb",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f5/Shipwreck.png/revision/latest?cb=20200814145750",
+  "title": "File:Shipwreck.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 395
+}

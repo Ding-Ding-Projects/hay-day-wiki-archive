@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_171.png",
+  "filePageId": 32117,
+  "filePageRevisionId": 98221,
+  "filePageRevisionSha1": "7c24a0f8094f168cc582b1d49cd05b91f569f589",
+  "filePageRevisionTimestamp": "2021-07-15T22:04:52Z",
+  "filePageWikitext": "== Summary ==\nExperience Level 171 Congratulations Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "ff95e8f32b10b94c8de611782011e91fbcc2191351f20edada0fcea584982f36",
   "height": 306,
   "immutableUrl": null,
   "mediaId": "File:Level 171.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-11-15T19:16:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20171.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 489570,
   "sourceSha1": "279ad252131533cb4612ae38de38cb0a8eeef333",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Pool_Stage_6.png",
+  "filePageId": 8476,
+  "filePageRevisionId": 77142,
+  "filePageRevisionSha1": "7097510afe4c23cd1a63885f031843c59b4ba6d8",
+  "filePageRevisionTimestamp": "2018-02-07T15:43:28Z",
+  "filePageWikitext": "Picture of a repaired lobster pool.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "093b7616091f7c91a7f1a286381774a69ac3e088b29d9f7f1009e6ddcb688833",
   "height": 738,
   "immutableUrl": null,
   "mediaId": "File:Lobster Pool Stage 6.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 5,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:36:30Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALobster%20Pool%20Stage%206.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 215354,
   "sourceSha1": "37be6d905f42faf4c8745187d0b9186471d1a2c8",

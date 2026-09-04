@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Tall_Grass.png",
+  "filePageId": 28037,
+  "filePageRevisionId": 74167,
+  "filePageRevisionSha1": "58eb41f3a98e158ed3a141144f6ac490dea45240",
+  "filePageRevisionTimestamp": "2017-10-22T10:01:13Z",
+  "filePageWikitext": "== Summary ==\nTall Grass\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "127beb191febd2f3e4c86b90c139e0f8f769d82eda1109f7fef05a225ac3a448",
   "height": 601,
   "immutableUrl": null,
   "mediaId": "File:Tall Grass.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:31:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATall%20Grass.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 204365,
   "sourceSha1": "35d9a6d599b32bc4b5e5d3a4be2a6fdbc976eec3",

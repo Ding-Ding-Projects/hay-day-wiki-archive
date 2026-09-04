@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Cacao_Tree.png",
+  "filePageId": 22565,
+  "filePageRevisionId": 89395,
+  "filePageRevisionSha1": "7791d736f4df3ca3028cee8d6388d02a44d47025",
+  "filePageRevisionTimestamp": "2019-10-28T18:10:19Z",
+  "filePageWikitext": "Cleaned up Cacao Tree Image\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "ea026846417422de9cb9b687e36e6980a59411020ffc1957871b2abf5fba3944",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Cacao Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 20,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T18:10:18Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ACacao%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 54921,
   "sourceSha1": "5574a3a2b96c36795aeedd5d37ec94077535fe0b",

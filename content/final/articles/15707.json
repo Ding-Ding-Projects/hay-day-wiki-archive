@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Treasure_Chest?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 33744,
   "revisionTimestamp": "2014-09-12T14:19:36Z",
   "route": "/wiki/treasure-chest-15707",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Treasure_Chest",
   "title": "Treasure Chest",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT[[Mystery Box]]",
   "wikitextHash": "24e44ce63ffee9ed778a05d69511bff1bae099b4c934c0426e7e20f667c6b137"
 }

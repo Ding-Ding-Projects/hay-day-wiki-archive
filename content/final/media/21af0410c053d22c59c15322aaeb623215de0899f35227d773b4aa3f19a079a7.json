@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Snowflake_Gift.png",
+  "filePageId": 35681,
+  "filePageRevisionId": 104863,
+  "filePageRevisionSha1": "b7556364a58e9b5c9102b405900461a48056e7c6",
+  "filePageRevisionTimestamp": "2024-02-18T02:46:14Z",
+  "filePageWikitext": "== Summary ==\nPlaceholder for [[Snowflake Gift]]\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "608ed5d670bf91102f46f99f3edfb7ffc6926883f13eba087e2e73d911e6cd84",
   "height": 2140,
   "immutableUrl": null,
   "mediaId": "File:Snowflake Gift.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-18T02:46:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASnowflake%20Gift.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1928361,
   "sourceSha1": "2515be314e115083d1c0d6500c2530ffb051ff36",

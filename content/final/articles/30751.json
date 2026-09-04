@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Pineapple Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Pineapple Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -151,11 +161,12 @@
   "revisionId": 107955,
   "revisionTimestamp": "2025-06-09T13:10:30Z",
   "route": "/wiki/pineapple-juice-30751",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pineapple_Juice",
   "title": "Pineapple Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Pineapple Juice Blue.png|left|200x200px|Pineapple juice]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 52\n |price = 1 to 68\n |time = 45 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 8\n |base = 19\n |dia = 3\n |time3 = 38 min\n}}\n'''Pineapple juice''' is a [[products|product]] unlocked at [[experience]] level 52.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making pineapple juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nPineapple juice is made in the [[Juice Press]].\n\nTo make pineapple juice players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Pineapple.png|75px|link=Pineapple|Pineapple]]\n|-\n|'''x3'''\n|}\nIt takes 45 minutes to make pineapple juice, and 38 minutes in a fully [[Masteries|mastered]] press. Each bottle gives players 8 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling pineapple juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Pineapple juice can be bought or sold for a maximum price of 684 {{Infoicon|Coin}} for 10 bottles.\n* Buying the ingredients required to make pineapple juice costs 42 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 5 to 8 pineapple juice per crate, up to a total of 28 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Ananassaft\n|es = Zumo de piña\n|fr = Jus d'Ananas\n|it = Succo d'ananas\n|nl = Ananassap\n|no = Ananasjus\n|zh = Pineapple Juice\n}}\n[[pt-br:Suco de abacaxi]]\n[[ru:Ананасовый сок]]\n[[Category:Juice Press Products]]\n[[Category:Pineapple Products]]",
   "wikitextHash": "8ed6d53cf97ece668b06b91c4c0c695913cc8959f58cb426daa8dd4e212cc8a4"
 }

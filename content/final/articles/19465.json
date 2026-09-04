@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 57773,
   "revisionTimestamp": "2016-01-21T18:08:45Z",
   "route": "/wiki/category%2Fcategory-hot-dog-stand-products-19465",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Hot_Dog_Stand_Products",
   "title": "Category:Hot Dog Stand Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Hot Dog Stand.png|thumb]]\nProducts of the [[Hot Dog Stand]].\n[[Category:Products]]",
   "wikitextHash": "a3ebaa469dbf606ff55453e774c905d65d4363de33d405eae5f88a2c9baf37e6"
 }

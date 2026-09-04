@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Zebra_Puzzles_1.png",
+  "filePageId": 35031,
+  "filePageRevisionId": 99855,
+  "filePageRevisionSha1": "9244c90d709964e1f5c7023414c266149388ba4e",
+  "filePageRevisionTimestamp": "2021-12-15T23:01:45Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Permission}}\n[[Category:Image Sanctuary]]",
+  "filePageWikitextHash": "c810bb81aa34634818404bcf7ebd8c468ee3f3fcf7155fb8258a443c42c9f201",
   "height": 411,
   "immutableUrl": null,
   "mediaId": "File:Zebra Puzzles 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-08-02T19:56:03Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Permission"
+    ],
+    "verdict": "permission-unverified"
+  },
   "route": "/media/File%3AZebra%20Puzzles%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 420794,
   "sourceSha1": "1dd8f5fd35a7d880d18b30528027d9e45034be03",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Explorer_III.png",
+  "filePageId": 14411,
+  "filePageRevisionId": 79770,
+  "filePageRevisionSha1": "e14294957493f2a07d23443d4fda8a3c0ed02bd8",
+  "filePageRevisionTimestamp": "2018-04-30T19:45:03Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Achievements]]",
+  "filePageWikitextHash": "5d10bdeeaeb95659400f74929b25972e2e35649d0e24321ac8bea8217ed5c5af",
   "height": 236,
   "immutableUrl": null,
   "mediaId": "File:Town Explorer III.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-04-30T19:45:02Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Explorer%20III.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 190095,
   "sourceSha1": "c33c36a7d45251522581f22007b7e39ca79660c0",

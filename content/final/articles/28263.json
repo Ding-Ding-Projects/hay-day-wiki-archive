@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animals"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animals"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Whistle?action=history",
@@ -49,11 +57,12 @@
   "revisionId": 77452,
   "revisionTimestamp": "2018-02-11T17:43:20Z",
   "route": "/wiki/whistle-28263",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Whistle",
   "title": "Whistle",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Whistle.png|200px|A whistle]]\nA '''whistle''' is a in-game item and can be used to get [[:Category:Pets|pets]] and [[:Category:Sanctuary Animals|wild animals]] to come to their [[:Category:Animal Shelters|shelters]]. It can also be used to wake these animals up, in which case it may grant players [[Supplies|supplies]].\n\nIt comes with each shelter and does not go into the [[barn]].\n{{Clr}}\n[[Category:Animals]]",
   "wikitextHash": "9117254150b224dbf86d004a25dd5743a25b812f7d8ae5cb3b5f7a420b707432"
 }

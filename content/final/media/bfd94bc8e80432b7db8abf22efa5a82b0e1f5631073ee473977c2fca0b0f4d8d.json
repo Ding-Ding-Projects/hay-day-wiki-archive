@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Lobster_Pool_Broken.png",
+  "filePageId": 8702,
+  "filePageRevisionId": 77136,
+  "filePageRevisionSha1": "ed1ee1867113fa4c526e21db18fba9cf49823cca",
+  "filePageRevisionTimestamp": "2018-02-07T15:40:49Z",
+  "filePageWikitext": "Picture of a broken lobster pool.\n{{License SC}}\n[[Category:Image Production Buildings]]",
+  "filePageWikitextHash": "22d503fb864720b4904cc5bfb340b952c83e8be9bad2a44f6bb3269f46b9a5e6",
   "height": 738,
   "immutableUrl": null,
   "mediaId": "File:Lobster Pool Broken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T11:35:59Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALobster%20Pool%20Broken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 203829,
   "sourceSha1": "74f07068af1f9553924cec4be5b24b2c7b7f40a0",

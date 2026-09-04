@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_8.png",
+  "filePageId": 23334,
+  "filePageRevisionId": 69446,
+  "filePageRevisionSha1": "e131b224084e7795abb7116d462de03dfe89f744",
+  "filePageRevisionTimestamp": "2017-02-06T12:28:58Z",
+  "filePageWikitext": "Reputation Level 8 Image (Cleaned Up)\nWe wish to Thank Editor Pootzen for the Original File to work with for this Wikia...\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "0e721807c4c4f2729ac483ef55279e2fc1d4201508b7b0d778057627765aff5a",
   "height": 1014,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 8.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-01-19T19:33:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%208.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1583013,
   "sourceSha1": "a09f4506dd2967c14de934cefbbf8c31ace75708",

@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Guava Products",
+    "Category:Juice Press Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Guava Products",
+      "Category:Juice Press Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -150,11 +160,12 @@
   "revisionId": 109787,
   "revisionTimestamp": "2026-05-04T15:19:02Z",
   "route": "/wiki/guava-juice-35655",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Guava_Juice",
   "title": "Guava Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Guava Juice.png|200px|left|Guava juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 104\n |price = 1 to 252\n |time = 55 min\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 30\n |base = 70\n |dia = 3\n |time3 = 46 min\n}}\n'''Guava juice''' is a [[Products|product]] unlocked at [[experience]] level 104.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making guava juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nGuava juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Guava.png|75px|link=Guava|Guava]]\n|-\n|'''x2'''\n|}\nGuava juice takes 55 minutes to be produced, but only 46 minutes in a [[Masteries|mastered]] press. Each bottle gives players 30 [[experience]] points.\n----\n==='''Selling guava juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Guava juice can be bought or sold for a maximum price of 2520 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make the juice costs 222 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 guava juice per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n\n\n{{navigation}}\n{{Languages\n|de = Guavensaft\n|es = Zumo de guayaba\n|it = Succo alla guaiava\n|nl = Guavesap\n|no = Guavajus\n|ru = Сок гуавы\n}}\n[[pt-br:Suco de goiaba]]\n\n[[Category:Juice Press Products]]\n[[Category:Guava Products]]",
   "wikitextHash": "956c18f008933ba4f99f8a972b7d8966443dc1439a0f1f1c6eea05f8e33496a8"
 }

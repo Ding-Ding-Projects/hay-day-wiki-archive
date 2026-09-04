@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Iron_Ore_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98597,
   "revisionTimestamp": "2021-08-31T21:34:02Z",
   "route": "/wiki/category%2Fcategory-iron-ore-products-35120",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Iron_Ore_Products",
   "title": "Category:Iron Ore Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Iron Ore.png|thumb]]\nProducts of [[Iron Ore]].\n[[Category:Products]]",
   "wikitextHash": "50219d04fd643df528023217928e80778e71c9b401dd0129d6a5519a9aa4f006"
 }

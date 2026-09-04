@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Picnic_Derby.png",
+  "filePageId": 28652,
+  "filePageRevisionId": 74646,
+  "filePageRevisionSha1": "6a7adebc374cff906764ad7c5388c76f41ffeb85",
+  "filePageRevisionTimestamp": "2017-10-24T21:19:05Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "421c7ff9ad79bdacc978a30f85227d63be228d9cc9541647a36876d11896bc75",
   "height": 100,
   "immutableUrl": null,
   "mediaId": "File:Picnic Derby.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-24T21:18:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APicnic%20Derby.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 57516,
   "sourceSha1": "e37476c4a7124353037cdb4900b653af54107118",

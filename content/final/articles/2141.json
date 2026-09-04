@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Goods",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Goods",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -290,11 +300,12 @@
   "revisionId": 109532,
   "revisionTimestamp": "2026-03-04T19:29:11Z",
   "route": "/wiki/milk-2141",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Milk",
   "title": "Milk",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{note|this page is about cow milk, not to be confused with [[Goat Milk|goat milk]].}}\n[[File:Milk.png|200px|left|Milk]]\n\n{{Infobox\n |title = [[Animal Goods|Animal good]]\n |level = 6\n |price = 1 to 32\n |time = 1 h\n |xp = 3\n |source = {{Infoicon|cow|bigger|link=Cow}}\n |base = 9\n |dia = 4\n}}\n'''Milk''' is a type of [[Animal Goods|animal good]] unlocked at [[experience]] level 6.\n\nIt is used to make several dishes and drinks, including basic ingredients that are used in many other recipes, as well as feed [[:Category:Cats|cats]] and [[:Category:Kittens|kittens]].\n\nLike all goods, it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Collection'''===\n[[File:Cow.png|150px|left|Cow]] Milk is collected from [[cow]]s that have been fed [[Cow Feed|cow feed]]. Once fed, each cow needs 1 hour (or 4 {{Infoicon|dia}}) to produce one jug of milk.\n\nCollecting a jug gives players 3 {{Infoicon|xp}} points.\n\n{{Clr}}----\n==='''Selling milk'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Milk can be bought or sold for a maximum price of 324 {{Infoicon|coin}} for 10 jugs.\n* A [[cow]] costs between 50 and 1,150 {{Infoicon|coin}} and a [[Cow Pasture|cow pasture]] costs 20 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using milk'''===\nMilk is used to make the following [[products]]:\n\n{{Item Usage|Milk\n|Cream|1|6\n|Butter|2|9\n|Cheese|3|12\n|Snowflake Gift|1|17|temp=Snowflake Gift|tempend=20230102\n|Red Berry Cake|1|23\n|Vanilla Ice Cream|1|29\n|Strawberry Ice Cream|1|34\n|Chocolate Ice Cream|1|39\n|Caffè Latte|1|43\n|Hot Chocolate|1|47\n|Fish Soup|1|53\n|Caramel Latte|1|62\n|Peanut Butter Milkshake|1|68\n|Honey Toast|1|69\n|Plain Donut|1|76\n|Potato Soup|1|78\n|Milk Tea|1|81\n|Iced Banana Latte|1|88\n|Cocoa Smoothie|1|100\n|Plain Yogurt|3|103\n|Mushroom Soup|1|104\n|Lemon Fudge|3|108\n|Plain Cupcake|2|109\n|Blueberry Waffles|1|118\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders require 8 to 16 jugs of milk per crate, up to a total of 48 per boat.\n\n{{Clr}}----\n==='''Strategy tips'''===\n* Recipes ask between 1 and 3 jugs.\n* Milk is in such a high demand that selling it at maximum price is recommended.\n----\n\n{{Navigation}}\n{{Languages\n|de = Milch\n|es = Leche\n|fr = Lait\n|it = Latte\n|no = Melk\n|ru = Молоко\n|vi = Milk\n|zh = 牛奶\n}}\n[[pt-br:Leite]]\n\n[[Category:Animal Goods]]",
   "wikitextHash": "4b088c49e9d7794782f2d26fb2220db5a0a0da10c7c5df4e775b2083901f1c97"
 }

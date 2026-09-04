@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-_Recipe_Swap_Tutorial",
+  "filePageId": 20648,
+  "filePageRevisionId": 49972,
+  "filePageRevisionSha1": "136fd98da1e0abbd11ddbb52d807d0b3087a925b",
+  "filePageRevisionTimestamp": "2015-07-02T11:19:58Z",
+  "filePageWikitext": "\n== Description ==\n\n[[Category:Videos]]",
+  "filePageWikitextHash": "4af0acb9c69de4000f2169e298e0f5145aecca76feb830174539ad196859e114",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day- Recipe Swap Tutorial",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-02T11:19:58Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day-%20Recipe%20Swap%20Tutorial",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 24903,
+  "sourceSha1": "b504e3f618b08907adc167bb513499783a4f21b3",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d7/Hay_Day-_Recipe_Swap_Tutorial/revision/latest?cb=20150702111958",
+  "title": "File:Hay Day- Recipe Swap Tutorial",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

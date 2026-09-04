@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chocolate Products",
+    "Category:Fondue Pot Products",
+    "Category:Strawberry Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chocolate Products",
+      "Category:Fondue Pot Products",
+      "Category:Strawberry Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -115,11 +127,12 @@
   "revisionId": 110184,
   "revisionTimestamp": "2026-05-23T20:37:30Z",
   "route": "/wiki/chocolate-fondue-32985",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Fondue",
   "title": "Chocolate Fondue",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Fondue.png|200px|left|Chocolate Fondue]]\n\n{{Infobox\n |level = 81|price = 1 to 626|time = 25 min|xp = 74|source = {{Infoicon|fonduep|bigger|link=Fondue Pot}}|base = 174|dia = 3|time3 = 21 min|title = [[Products|Product]]}}\n'''Chocolate fondue''' is a [[Products|product]] unlocked at [[experience]] level 81. It is not used to make any other product.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making chocolate fondue'''===\n[[File:Fondue Pot.png|150px|left|Fondue Pot]]\nChocolate fondue is made in the [[Fondue Pot]].\n\nTo make the fondue, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chocolate.png|75px|Chocolate|link=Chocolate]]\n|[[File:Strawberry.png|75px|Strawberries|link=Strawberry]]\n|-\n|'''x1'''\n|'''x3'''\n|}\nIt takes 25 minutes to make one bowl, and 21 minutes in a fully [[Masteries|mastered]] fondue. Each fondue gives players 74 [[experience]] points.\n\n{{Clr}}----\n==='''Selling chocolate fondue'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Chocolate fondue can be bought or sold for a maximum price of 6264 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make a fondue costs 610 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 chocolate fondue per crate, up to a total of 4 per boat.\n\n{{Clr}}----\n\n{{Clr}}\n----\n\n{{Navigation}}\n\n{{Languages\n|de = Schokoladenfondue\n|es = Fondue de chocolate\n|fr = Fondue au Chocolat\n|it = Fonduta di cioccolato\n|nl = Chocoladefondue\n|no = Sjokoladefondue\n|ru = Шоколадное фондю\n|zh = Chocolate Fondue\n}}\n[[pt-br:Fondue de chocolate]]\n\n[[Category:Fondue Pot Products]]\n[[Category:Strawberry Products]]\n[[Category:Chocolate Products]]",
   "wikitextHash": "2467ddef80dc23088bdbe46df2e65a71f11844c9d7d77e052ad0b735a8839293"
 }

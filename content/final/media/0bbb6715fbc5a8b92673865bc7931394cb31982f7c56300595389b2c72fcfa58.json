@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_69.png",
+  "filePageId": 34800,
+  "filePageRevisionId": 98265,
+  "filePageRevisionSha1": "96f13ec4e0969d32ac741fc7550751a9a476d897",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:35Z",
+  "filePageWikitext": "== Summary ==\nBanner\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "d29b01fc180a2494c7e6a3ed48553e623b529ec29bf6eb4a2d5d0f0fe48b1d2a",
   "height": 787,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 69.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-03-15T22:17:08Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2069.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1139878,
   "sourceSha1": "a01dc7c3eceb512e255a6ae176f75e82689f7d78",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Salesman.png",
+  "filePageId": 16460,
+  "filePageRevisionId": 89331,
+  "filePageRevisionSha1": "d5bf23eb53460cdb29105f9d259acbecfa33d5c8",
+  "filePageRevisionTimestamp": "2019-10-28T16:20:44Z",
+  "filePageWikitext": "Picture of the Salesman.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "e3080c106b61c17c8197c7c7d1b897a90931ba024cf6490e7696211b3a44969e",
   "height": 717,
   "immutableUrl": null,
   "mediaId": "File:Salesman.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:20:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ASalesman.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 231733,
   "sourceSha1": "7a8337df0555f02e1d85a9fbdf846f85e3da0051",

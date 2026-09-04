@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": true,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hay_Day-_How_to_get_Free_Diamonds.",
+  "filePageId": 9080,
+  "filePageRevisionId": 27756,
+  "filePageRevisionSha1": "4f3bcbed031441bbd889d1948f1596ad7725d80b",
+  "filePageRevisionTimestamp": "2014-06-08T21:12:51Z",
+  "filePageWikitext": "\n== Description ==\nThis video specifically looks at how to get free diamonds in Hay Day.\n[[Category:Videos]]",
+  "filePageWikitextHash": "a7a7f331b2e26c23643040921bebe6832b534dd298d7dd28562c2178d347b691",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:Hay Day- How to get Free Diamonds.",
+  "mediaType": "VIDEO",
+  "mime": "video/youtube",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2013-11-24T02:36:04Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "external-provider"
+  },
+  "route": "/media/File%3AHay%20Day-%20How%20to%20get%20Free%20Diamonds.",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 26248,
+  "sourceSha1": "caebc8f7cf54ff9b3727d9f67d5c1c88fe22e99e",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/02/Hay_Day-_How_to_get_Free_Diamonds./revision/latest?cb=20131124023604",
+  "title": "File:Hay Day- How to get Free Diamonds.",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "external-embed",
+  "width": 480
+}

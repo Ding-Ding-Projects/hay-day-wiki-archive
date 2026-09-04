@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Right_bird_house.gif",
+  "filePageId": 35264,
+  "filePageRevisionId": 99247,
+  "filePageRevisionSha1": "bb67baf2c45a866150bce93dbbe36f0bf00a1a85",
+  "filePageRevisionTimestamp": "2021-10-25T06:07:32Z",
+  "filePageWikitext": "bird house facing right",
+  "filePageWikitextHash": "949bebf13c9378b70aab45ad3759815ad70a5d0e06fbb4ab621c24b9b890cd20",
+  "height": 480,
+  "immutableUrl": null,
+  "mediaId": "File:Right bird house.gif",
+  "mediaType": "BITMAP",
+  "mime": "image/gif",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-10-25T06:07:32Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3ARight%20bird%20house.gif",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 5285614,
+  "sourceSha1": "9360948853dc7f105ca166a149e23dc8a0364af5",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/41/Right_bird_house.gif/revision/latest?cb=20211025060732",
+  "title": "File:Right bird house.gif",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 360
+}

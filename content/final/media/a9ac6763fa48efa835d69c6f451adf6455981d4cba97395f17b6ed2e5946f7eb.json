@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Green_Booster.png",
+  "filePageId": 27090,
+  "filePageRevisionId": 73848,
+  "filePageRevisionSha1": "ba856d2f39adcdd0a7ca5049b200f7f4f4cc4b89",
+  "filePageRevisionTimestamp": "2017-10-21T17:56:34Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Boosters]]",
+  "filePageWikitextHash": "7d79be97a8f94a856accf232c70fc10f051ff42a882eb042c6fec62ff171c59f",
   "height": 638,
   "immutableUrl": null,
   "mediaId": "File:Green Booster.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T17:56:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreen%20Booster.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 358933,
   "sourceSha1": "9a9ea397fbe8efee00ddd67ff420947e3d0264fe",

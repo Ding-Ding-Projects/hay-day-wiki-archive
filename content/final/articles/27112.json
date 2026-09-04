@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations",
+    "Category:Expansion"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations",
+      "Category:Expansion"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -72,11 +82,12 @@
   "revisionId": 107632,
   "revisionTimestamp": "2025-03-24T22:09:23Z",
   "route": "/wiki/decorations-expansion-27112",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Expansion",
   "title": "Decorations/Expansion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "==='''Expansion decorations'''===\n'''Expansion decorations''' come as rewards for unlocking special [[expansion]] sections of the farm. When players have unlocked a section they get the decoration located on this section. These decorations can then be moved or stored like any other decoration.\n\nExpansion decorations are unlocked at [[experience]] level 22.\n<gallery expand=\"true\">\nBalloon Bench.png|Balloon Bench\nBanquette.png|Banquette\nBarrel Table.png|Barrel Table\nBasketball Hoop.png|Basketball Hoop\nBathtub.png|Bathtub\nBeach Toys.png|Beach Toys\nBlue Tractor.png|Blue Tractor\nCamera.png|Camera\nColumn Pot.png|Column Pot\nFestive Tree.png|Festive Tree\nGoalpost.png|Goalpost\nLarge Pot.png|Large Pot\nMaple Bonsai.png|Maple Bonsai\nPhone Booth.png|Phone Booth\nPickaxe Rock.png|Pickaxe Rock\nPine Bonsai.png|Pine Bonsai\nPotting Ladder.png|Potting Ladder\nPurple Tree With Lights.png|Purple Tree with Lights\nOak Tree Swing.png|Oak Tree Swing\nRed Lilies.png|Red Lilies\nRoman Gate.png|Roman Gate\nRoman Fountain.png|Roman Fountain\nRound Hay Bales.png|Round Hay Bales\nRustic Pot.png|Rustic Pot\nScuba Gear.png|Scuba Gear\nSeeding.png|Seeding\nWhite Lilies.png|White Lilies\nWooden Placard.png|Wooden Placard\n</gallery>\n[[ru:Украшения#Украшения_за расширение]]\n{{Languages\n|es = Decoraciones/Ampliación\n}}\n\n[[Category:Decorations]]\n[[Category:Expansion]]",
   "wikitextHash": "510845e253cfe7c9f202025d6bb16f5d772632cdbe210f8bbf33cdbb5d9f3710"
 }

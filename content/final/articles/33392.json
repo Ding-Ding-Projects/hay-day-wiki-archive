@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Master_List?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 93060,
   "revisionTimestamp": "2020-04-11T06:14:26Z",
   "route": "/wiki/master-list-33392",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Master_List",
   "title": "Master List",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Goods List]]",
   "wikitextHash": "cec028f2a5583f08f5821c8fdeb992e331f0f7a9c50edb503f997956ccd82e92"
 }

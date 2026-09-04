@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Products",
+    "Category:Loom Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Products",
+      "Category:Loom Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -188,11 +198,12 @@
   "revisionId": 106538,
   "revisionTimestamp": "2024-12-09T19:56:06Z",
   "route": "/wiki/cotton-fabric-14252",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cotton_Fabric",
   "title": "Cotton Fabric",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cotton Fabric.png|200px|left|Cotton fabric]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 18\n |price = 1 to 108\n |time = 30 min\n |source = {{Infoicon|Loom|bigger|link=Loom}}\n |xp = 13\n |base = 30\n |dia = 3\n |time3 = 25 min\n}}\n'''Cotton fabric''' is a [[products|product]] unlocked at [[experience]] level 18.\n\nIt is used to make [[Cotton Shirt|cotton shirts]], [[Wooly Chaps|wooly chaps]], [[Violet Dress|violet dresses]], [[blanket]]s, [[pillow]]s, [[Top Hat|top hats]], [[Soft Bouquet|soft bouquets]], gracious bouquet’s and [[Veggie Bouquet|veggie bouquets]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making cotton fabric'''===\n[[File:Loom.png|150px|left|Loom]]\nCotton fabric is made in the [[Loom]].\n\nTo make the fabric, players need the following ingredient, in the specified quantity:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|-\n|'''x3'''\n|}\nIt takes 30 minutes to make one piece, and 25 minutes in a fully [[Masteries|mastered]] machine. Each piece gives players 13 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling cotton fabric'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n*Cotton fabric can be bought or sold for a maximum price of 1,080 {{Infoicon|Coin}} for 10 pieces.\n*Buying the ingredients required to make a piece costs 84 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Using cotton fabric'''===\nCotton fabric is used to make the following [[products]]:\n\n{{Item Usage|Cotton Fabric\n|Cotton Shirt|2|19\n|Wooly Chaps|1|21\n|Violet Dress|2|25\n|Soothing Pad|2|45\n|Pillow|2|51\n|Blanket|3|59\n|Top Hat|3|72\n|Gracious Bouquet|1|73\n|Soft Bouquet|1|93\n|Veggie Bouquet|1|106\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 cotton fabric per crate, up to a total of 20 per boat.\n\n{{Clr}}\n----\n==='''Did you know?'''===\n* This is the only product from the [[Loom]] that doesn't require [[wool]].\n* Cotton is used to make most of the products in the sewing machine, so it is recommended to keep some in stock. \n* For no time wasted, you need to grow 15 [[Cotton|cotton]] to make 5 [[Cotton Fabric|cotton fabric]] in exactly 2 and a half hours. Once the machine is fully mastered, you need to grow 3 extra cotton for an extra product.\n*Although the boat orders don't ask for much, it may take a while for helpers to fill the crates.\n----\n[[ru:Хлопок (ткань)]]\n{{Navigation}}\n{{Languages\n|de = Baumwollstoff\n|es = Tela de algodón\n|fr = Tissu en coton\n|it = Tessuto di cotone\n|nl = Katoenen Stof\n|no = Bomullsstoff\n|zh = 棉布\n}}\n[[pt-br:Tecido de algodão]]\n[[ru:Хлопок (ткань)]]\n[[Category:Loom Products]]\n[[Category:Cotton Products]]",
   "wikitextHash": "709605b9064abe434f67c30d2b4d3d393ce3545b25276ed902be5f765d7e33fc"
 }

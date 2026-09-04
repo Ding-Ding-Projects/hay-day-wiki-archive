@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Banana_Tree_Harvest_3.png",
+  "filePageId": 26597,
+  "filePageRevisionId": 69469,
+  "filePageRevisionSha1": "e589816a37577f6dbe23f8e62bac1805d3c4c44b",
+  "filePageRevisionTimestamp": "2017-02-06T13:06:53Z",
+  "filePageWikitext": "3 Bunches of Bananas Ready to Harvest\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "ee724f0071b6a11e07ed3bccb02e5b01138142f982a0e20bc9f7fc838a311ccf",
   "height": 458,
   "immutableUrl": null,
   "mediaId": "File:Banana Tree Harvest 3.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-12-17T07:20:46Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABanana%20Tree%20Harvest%203.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 190057,
   "sourceSha1": "db5e6ad39f1b31d4c36cd43782071a1655a426c8",

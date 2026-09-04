@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Donut Maker Products",
+    "Category:Plain Donut Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Donut Maker Products",
+      "Category:Plain Donut Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -133,11 +147,12 @@
   "revisionId": 110123,
   "revisionTimestamp": "2026-05-19T20:56:32Z",
   "route": "/wiki/bacon-donut-34958",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Bacon_Donut",
   "title": "Bacon Donut",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Bacon Donut.png|200px|left]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 88\n |price = 1 to 388\n |time = 30 min\n |source = {{Infoicon|donutm|bigger|link=Donut Maker}}\n |xp = 46\n |base = 108\n |dia = 3\n |time3 = 25 min\n}}\n'''Bacon donuts''' are [[products]] unlocked at [[experience]] level 88. It's not used to make any other product.\n\nIt is introduced at [[Update|28 June 2021]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making bacon donuts'''===\n[[File:Donut Maker.png|thumb|150px|left|link=Donut Maker]]\nBacon donuts are made in the [[Donut Maker]].\n\nTo make bacon donuts, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Plain Donut.png|thumb|75px|Plain Donut|link=Plain Donut]]\n|[[File:Bacon.png|thumb|75px|Bacon|link=Bacon]]\n|[[File:Syrup.png|thumb|75px|Syrup|link=Syrup]]\n|-\n|'''×1'''\n|'''×3'''\n|'''×1'''\n|}\nIt takes 30 minutes to make one bacon donut, and 25 minutes in a fully [[Masteries|mastered]] maker. Each donut gives players 46 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling bacon donuts'''===\n[[File:Roadside Shop.png|thumb|150px|left|link=Roadside Shop]]\n* Bacon donuts can be bought or sold for a maximum price of 3888 {{Infoicon|Coin}} for 10 donuts.\n* Buying the ingredients required to make 1 bacon donut costs 369 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|thumb|150px|left|link=Boat]]\n* [[Boat]] orders ask for 1 to 2 bacon donuts per crate, up to a total of 6 per boat.\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Schinkendonut\n|es = Dónut de beicon\n|fr = Beignet au Bacon\n|it = Ciambella alla pancetta\n|nl = Donut met Spek\n|no = Bacondonut\n|ru = Пончик с беконом\n|zh = Bacon Donut\n}}\n[[pt-br:Donut com bacon]]\n\n[[Category:Donut Maker Products]]\n[[Category:Plain Donut Products]]\n[[Category:Bacon Products]]\n[[Category:Syrup Products]]",
   "wikitextHash": "1d256711619af0db64cf2088b77fcec8543daec2fc45398cf93717f07455ac62"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98634,
   "revisionTimestamp": "2021-09-06T22:39:44Z",
   "route": "/wiki/category%2Fcategory-chocolate-products-35133",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Chocolate_Products",
   "title": "Category:Chocolate Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Chocolate.png|thumb]]\nProducts of [[Chocolate]].\n[[Category:Products]]",
   "wikitextHash": "2ef6e4769b9c7f73b9b0708a95951240f8558b0e702e63ffdfac21e413ce6c83"
 }

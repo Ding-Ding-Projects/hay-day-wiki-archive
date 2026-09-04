@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Boosters?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 74986,
   "revisionTimestamp": "2017-11-03T15:34:16Z",
   "route": "/wiki/category%2Fcategory-image-boosters-27497",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Boosters",
   "title": "Category:Image Boosters",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[boosters]].\n[[Category:Images]]",
   "wikitextHash": "e35bdf1451e613be95d3fea91aa3ec1fd8a80bc6326fdb562cb75ff3f33d08a9"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Hay Day Wiki"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Hay Day Wiki"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Images?action=history",
@@ -26,11 +34,12 @@
   "revisionId": 95423,
   "revisionTimestamp": "2020-08-18T01:44:34Z",
   "route": "/wiki/category%2Fcategory-images-1814",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Images",
   "title": "Category:Images",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "'''Images''' on {{SITENAME}}.\n[[Category:Hay Day Wiki]]",
   "wikitextHash": "37e9fcc2f5bf0cc1d0ff5dbdd50ad4b214441e328266cb6a2a3ef3c662de4407"
 }

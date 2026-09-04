@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blueberry_Cheesecake.png",
+  "filePageId": 36426,
+  "filePageRevisionId": 108538,
+  "filePageRevisionSha1": "c7d2567df635326d83bf7880309e5da4423998a8",
+  "filePageRevisionTimestamp": "2025-09-22T21:47:01Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "0717d578b82d2d8c14a02b22092a2221de416f79cc7afb5be2fdd64cd4d69c05",
   "height": 590,
   "immutableUrl": null,
   "mediaId": "File:Blueberry Cheesecake.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 19,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-09-22T21:46:42Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABlueberry%20Cheesecake.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 228546,
   "sourceSha1": "70625318254a4e78535a3092839e682f388a71d8",

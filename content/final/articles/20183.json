@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Note",
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Note",
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -346,11 +356,12 @@
   "revisionId": 107302,
   "revisionTimestamp": "2025-02-19T22:43:02Z",
   "route": "/wiki/pasta-kitchen-20183",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Pasta_Kitchen",
   "title": "Pasta Kitchen",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n{{Note|this page is about the Pasta Kitchen, not to be confused with the [[Pasta Maker]].}}\n[[File:Pasta Kitchen.png|200px|left|Pasta Kitchen]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 72\n |price = 550,000\n |time = 3 d 12 h\n |slots = 2\n |dia = 86\n |size = 2×2\n}}\nThe '''Pasta Kitchen''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 72.\n\nIt is used to make [[gnocchi]], [[Veggie Lasagna|veggie lasagna]], [[Lobster Pasta|lobster pasta]], [[Pasta Carbonara]], [[Broccoli Pasta]], [[Spicy Pasta]] and [[Mushroom Pasta]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 550,000 {{Infoicon|coin}} and takes 3 days and 12 hours or 86 {{Infoicon|dia}} to build the Pasta Kitchen. It gives players 42 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Gnocchi|72|1:20|475\n|Veggie Lasagna|74|1:40|532\n|Lobster Pasta|79|2h|637\n|Pasta Carbonara|83|2:30|410\n|Broccoli Pasta|83|1h|345\n|Spicy Pasta|87|1:30|576\n|Mushroom Pasta|101|1:15|280\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Pasta Kitchen originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Pasta Kitchen:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Pasta Kitchen Mastered.png|150px|Mastered Pasta Kitchen]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Pasta Kitchen Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*Most products from the pasta kitchen (save spicy and mushroom pasta) require [[dairy]] products. Time your production in consequence.\n*[[Fresh Pasta|Fresh pasta]], required to make all but [[gnocchi]], can very occasionally be found in the newspaper.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Nudelküche\n|es = Cocina para pasta\n|fr = Cuisine de pâtes\n|it = Pastificio\n|no = Pastakjøkken\n|zh = Pasta Kitchen\n}}\n[[pt-br:Cozinha de massas]]\n[[ru:Макаронная кухня]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "b11a2726863c407d53d1dc9e0638a1063ed40dde31bec188ec926f71d29b5537"
 }

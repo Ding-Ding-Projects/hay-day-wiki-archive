@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Goods"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Goods"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Animal_Goods?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 78954,
   "revisionTimestamp": "2018-04-18T13:04:47Z",
   "route": "/wiki/category%2Fcategory-animal-goods-7323",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Animal_Goods",
   "title": "Category:Animal Goods",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Goods produced by [[animals]].\n[[Category:Goods]]",
   "wikitextHash": "17c4f2b16ededf97c64400561e47ae61c2624ee140467a73043eb121351402cf"
 }

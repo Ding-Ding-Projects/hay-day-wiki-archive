@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Catalogue",
+    "Category:Currencies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Catalogue",
+      "Category:Currencies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -66,11 +76,12 @@
   "revisionId": 106004,
   "revisionTimestamp": "2024-10-21T19:23:50Z",
   "route": "/wiki/halloween-hat-36167",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Halloween_Hat",
   "title": "Halloween Hat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Halloween Hat.png|left|200px|Halloween Hat]]\nHalloween Hat is a type of [[Currencies|currency]] used to buy special prizes from the [[catalogue]]. It's part of the Halloween event.\n\nIt is unlocked at [[experience]] level 17.\n\n{{Clr}}\n----\n==='''Getting hallowen hat'''===\n[[File:Riverboat.jpg|left|150 px|Riverboat]]\nEach boat during the event requires one type of [[:Category:Halloween Treats Maker Products|treats]] from the [[Halloween Treats Maker|halloween treats maker]]. Filling any box with a treat gives you a certain amount of halloween hats.\n{{Clr}}\n----\n==='''Using hallowen hat'''===\n{{Main|Catalogue}}\n[[File:Catalogue Front With Halloween Hat.png|150px|left|The catalogue]]\nHalloween Hat can be used to purchase items from the \"Fyne & Mysterious Gifts [[Catalogue]],\" found by clicking the blue post box at the end of the driveway. Different gifts have different prices.\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Currencies]]\n[[Category:Catalogue]]\n\n{{Languages\n|es = Sombrero de Halloween\n}}",
   "wikitextHash": "aa020a993f58f8ea499d21364ac1b4200253590f3878df986b47c334458a6bca"
 }

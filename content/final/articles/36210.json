@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Perfumerie Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Perfumerie Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -111,11 +121,12 @@
   "revisionId": 110422,
   "revisionTimestamp": "2026-06-06T17:58:45Z",
   "route": "/wiki/fresh-diffuser-36210",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Fresh_Diffuser",
   "title": "Fresh Diffuser",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{New}}{{PageDisplay}}\n[[File:Fresh Diffuser.png|left|184x184px|Fresh Diffuser]]\n{{Infobox\n |title = [[Products|Product]]\n |level = 110\n |price = 1 to 349\n |time = 20 min\n |source = {{Infoicon|perfumerie|bigger|link=Perfumerie}}\n |xp = 42\n |base = 97\n |dia = 2\n |time3 = 17 min\n}}\n'''Fresh Diffuser''' is a [[products|product]] unlocked at [[experience]] level 110 It was added in the Winter 2024 update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making Fresh Diffuser'''===\n[[File:Perfumerie.png|150px|left|Perfumerie]]\nFresh Diffuser is made in the [[Perfumerie]].\n\nTo make Fresh Diffuser, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Ginger Essential Oil.png|75px|link=Ginger Essential Oil|Ginger essential oil]]\n|[[File:Mint Essential Oil.png|75px|link=Mint Essential Oil|Mint essential oil]]\n|-\n|'''x1'''\n|'''x1'''\n|}\nIt takes 20 Minutes to make Fresh Diffuser, and 17 minutes in a fully [[Masteries|mastered]] machine. Each unit gives players 42 [[experience]] points.\n\n{{Clr}}----\n==='''Selling Fresh Diffuser'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Fresh Diffuser can be bought or sold for a maximum price of 3,492 {{Infoicon|coin}} for 10 units.\n* Buying the ingredients required to make a Fresh Diffuser costs 334 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders require 1 Fresh Diffuser per crate, up to a total of 4 per boat.\n----\n{{Navigation}}\n{{Languages\n|de = Frischeduft\n|es = Difusor fresco\n|it = Diffusore di profumo\n|no = Frisk spreder\n|ru = Свежий диффузор\n}}\n[[pt-br:Difusor de frescor]]\n\n[[Category:Perfumerie Products]]",
   "wikitextHash": "dbcf568d9fa2a1230e18c938c94320a9898576627825e87644bd5f257ebc67a7"
 }

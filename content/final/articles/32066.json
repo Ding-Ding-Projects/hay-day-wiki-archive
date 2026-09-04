@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Town Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Town Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -75,11 +83,12 @@
   "revisionId": 96318,
   "revisionTimestamp": "2020-12-05T16:06:57Z",
   "route": "/wiki/town-station-32066",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Town_Station",
   "title": "Town Station",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Train Station.png|Town station|left|200px]]\nThe '''town station''' lets [[Town Visitors|town visitors]] get off the [[EGGspress Train|EGGspress train]] into the player's [[town]]. Repairing this station is free.\n\nThe town station lets players know when to expect the next train, and how many visitors will be on that train. Players can rush the arrival of the next train by spending diamonds.\n{{Clr}}\n----\n==='''Appearance'''===\nThe station changes appearance as the player upgrades it:\n<gallery>\nTrain Station Broken.png\nTrain Station Stage 1.png\nTrain Station Stage 2.png\nTrain Station Stage 3.png\nTrain Station.png\n</gallery>\n----\n==='''Upgrading'''===\nUpgrading the town station allows players to increase the number of visitors per EGGspress train. Each upgrade increases its capacity and level by one. The station can be upgraded to level 12 for a maximum capacity of 14 visitors.\n\nPlayers can upgrade the station using the following materials:\n<gallery>\nBrick.png|[[Brick]]\nHand Drill.png|[[Hand Drill|Hand drill]]\nTar Bucket.png|[[Tar Bucket]]\n</gallery>\n----\n{{Navigation}}\n{{Languages\n|es = Estación de tren del pueblo\n}}\n[[Category:Town Buildings]]",
   "wikitextHash": "b60bc6f5a34a1bea5449d77922db5d7d88b9a73e1f83f58ce9de175cdc1eb121"
 }

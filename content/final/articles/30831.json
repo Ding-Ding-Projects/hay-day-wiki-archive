@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Decorations"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Decorations"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -92,11 +100,12 @@
   "revisionId": 107668,
   "revisionTimestamp": "2025-04-06T02:07:17Z",
   "route": "/wiki/decorations-calendar-30831",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Decorations/Calendar",
   "title": "Decorations/Calendar",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n\n===== <big>''THIS HAS BEEN OUTDATED FOR AROUND 5 YEARS. DO US A FAVOR AND RESEARCH THIS.''</big> =====\n\n==='''Holiday Calendar decorations'''===\n'''Holiday Calendar decorations''' come as prizes when tapping special decorations on [[Greg]]'s farm during certain seasonal celebrations.\n\n===='''2018 Winter Holidays (Gift Boxes)'''====\n<gallery>\nFishing Hole.png|Fishing Hole\nIce Sheep.png|Ice Sheep\nSnow Slope.png|Snow Slope\n</gallery>\n\n===='''2019 Halloween (Jack O' Lanterns)'''====\n<gallery>\nChicken Fence.png|Chicken Fence x5\nCow Fence.png|Cow Fence x5\nHalloween Grave.png|Halloween Grave\n</gallery>\n\n===='''2019 Winter Holidays (Gift Boxes)'''====\n<gallery>\nFrozen_Fountain.png|Frozen Fountain\nSnow Slope.png|Snow Slope\nWinter_Boot.png|Winter Boot\n</gallery>\n\n===='''2020 Lunar New Year (Lunar Gift Boxes)'''====\n<gallery>\nBamboo_Patch.png|Bamboo Patch x5\nCow Fence.png|Cow Fence x5\n</gallery>\n\n===='''2021 Winter Holidays (Gift Boxes)'''====\n<gallery>\nShovel Stand.png|Shovel Stand\n</gallery>2025:Summer. Paw Prints{{Languages\n|es = Decoraciones/Calendario\n}}\n\n[[Category:Decorations]]",
   "wikitextHash": "3e86890caf52e5612a2271a4751156d47f5336ab14cc3e220ac519fb9faffb75"
 }

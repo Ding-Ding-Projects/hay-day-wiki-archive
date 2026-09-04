@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Baobab_Tree.png",
+  "filePageId": 28029,
+  "filePageRevisionId": 73960,
+  "filePageRevisionSha1": "82d86908624558a9e4eb9f5e812ff5d707100ee6",
+  "filePageRevisionTimestamp": "2017-10-22T09:57:40Z",
+  "filePageWikitext": "== Summary ==\nBaobab Tree\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "e35526de51335cb7307e49409bdcf957eacf31e8528dcaf4f20e3669bee00082",
   "height": 633,
   "immutableUrl": null,
   "mediaId": "File:Baobab Tree.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-07-07T20:43:51Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ABaobab%20Tree.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 318032,
   "sourceSha1": "eaa3a5ce626cdaf02dc2effbd9d7c3b0e6c967c4",

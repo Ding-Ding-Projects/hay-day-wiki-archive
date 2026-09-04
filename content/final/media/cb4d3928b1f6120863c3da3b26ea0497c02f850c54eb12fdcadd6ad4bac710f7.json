@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Shop_Diamonds.png",
+  "filePageId": 14425,
+  "filePageRevisionId": 73853,
+  "filePageRevisionSha1": "94d10670560379b545805d82365896a23502c27c",
+  "filePageRevisionTimestamp": "2017-10-21T18:06:52Z",
+  "filePageWikitext": "Picture of the Diamond tab in the Shop (Decorations).\n{{License SC}}\n[[Category:Image Shop]]",
+  "filePageWikitextHash": "0a719b1a22c65870f33201850df198052a5b78a53bcb5813e0beafb5b8423f2a",
   "height": 218,
   "immutableUrl": null,
   "mediaId": "File:Shop Diamonds.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-21T18:06:34Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AShop%20Diamonds.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 75042,
   "sourceSha1": "f74ce64d4c703af68932b4faf2f2ac530259ee7c",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Scuba_Gear.png",
+  "filePageId": 31620,
+  "filePageRevisionId": 86840,
+  "filePageRevisionSha1": "d4d7768f5437b9e3daea4e0168b6d250bde2604c",
+  "filePageRevisionTimestamp": "2019-07-07T00:10:42Z",
+  "filePageWikitext": "== Summary ==\nMight be incorrect name.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "dc2e9c041c624b7d088c583d4574b80073193d4912de1374b2d7b2ac51c4f8e1",
   "height": 589,
   "immutableUrl": null,
   "mediaId": "File:Scuba Gear.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-07-07T00:10:19Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AScuba%20Gear.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 241925,
   "sourceSha1": "92e58b2774ed7117bff51aed4d1d31e92866f403",

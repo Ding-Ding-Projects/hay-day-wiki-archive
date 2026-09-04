@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cats",
+    "Category:Note"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cats",
+      "Category:Note"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -372,6 +382,7 @@
     "File:Hound Puppy.png",
     "File:Hound.png",
     "File:Huacaya Alpaca.png",
+    "File:Huacaya Cria.png",
     "File:Husky Puppy.png",
     "File:Husky.png",
     "File:Hyacinth Macaw.png",
@@ -398,6 +409,7 @@
     "File:Silkie Guinea Pig.png",
     "File:Sulphur Crested Cockatoo.png",
     "File:Suri Alpaca.png",
+    "File:Suri Cria.png",
     "File:Tabby Cat.png",
     "File:Tabby Kitten.png",
     "File:Teddy Guinea Pig.png",
@@ -413,11 +425,12 @@
   "revisionId": 110899,
   "revisionTimestamp": "2026-08-11T18:53:01Z",
   "route": "/wiki/tuxedo-cat-2584",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Tuxedo_Cat",
   "title": "Tuxedo Cat",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}{{note|this page is about the tuxedo cat, not to be confused with the [[Tuxedo Kitten|tuxedo kitten]].}}\n[[File:Tuxedo Cat.png|200px|left|Tuxedo cat]]\n{{Infobox\n |title = [[Animals|Animal]]\n |level = 31\n |needs = {{Infoicon|milk|big|link=Milk}} {{Infoicon|goatm|big|link=Goat Milk}}\n |time = every 6 h\n |cost= {{Infoicon|greenv|link=Voucher}}20 {{Infoicon|bluev|link=Voucher}}8 {{Infoicon|purplev|link=Voucher}}8 {{Infoicon|goldv|link=Voucher}}4\n |xp = 40\n |dia = 1 260\n}}\n'''Tuxedo cats''' are pet [[animals]] unlocked at [[experience]] level 31. They give players [[experience]] points in exchange for either [[milk]] or [[Goat Milk|goat milk]].\n{{Clr}}\n----\n==='''Appearance'''===\n{{BigIcon|Tuxedo Cat Sitting}}\n----\n==='''Buying'''===\n[[File:Cat House.png|150px|left|Cat house]]\nEach cat costs 20 green [[voucher]]s, 8 blue ones, 8 purple ones and 4 golden onesor, or 1 260 [[diamond]]s.. They must be placed near a [[Cat House|cat house]] to be bought. Players can have two tuxedo cats.\n\nCat and cat houses can be bought from the [[Shop]]. {{Infoicon|shop|bigger|link=Shop}}\n{{Clr}}\n----\n==='''Feeding'''===\n[[File:CatHouse2.png|150px|left|Pouring milk]]\nWhen given [[milk]] or [[Goat Milk|goat milk]], cats drink then roam the [[farm]] for six hours and finally fall asleep. Players can immediately wake them up to receive 40 {{Infoicon|xp}} per animal. Cats stay asleep otherwise.\n\nCats which have been woken up but are not given milk for a long while cannot fall asleep and wander around their shelter looking very sleepy and tired.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Waking cats one by one instead of all at once can increase your chance of getting a random [[:Category:Supplies|supply item]].\n----\n{{Navigation}}\n{{Languages\n|de = Schwarzweiße Katze\n|es = Gato bicolor\n|fr = Chat noir et blanc\n|it = Gatto bianco e nero\n|no = Svart og hvit katt\n}}\n[[ru:Чёрно-белая кошка]]\n\n[[Category:Cats]]",
   "wikitextHash": "d787272d536ded375d610a706ee38a6ec0601af307b6504d3a639fcb10a833c2"
 }

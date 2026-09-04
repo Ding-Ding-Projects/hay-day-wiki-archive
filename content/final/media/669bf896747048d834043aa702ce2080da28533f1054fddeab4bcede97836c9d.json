@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:FarmPassSendDiamonds.png",
+  "filePageId": 34735,
+  "filePageRevisionId": 99580,
+  "filePageRevisionSha1": "7de313b0fd03c8e4e2e478dfdbdd8ea4c20ffd16",
+  "filePageRevisionTimestamp": "2021-12-06T22:59:37Z",
+  "filePageWikitext": "{{Delete}}\nDuplicate of file FarmPassSendDiamond.png",
+  "filePageWikitextHash": "c26e0281cb85764289e993d16c9036e1499f1bd6d91082e6aa17eb7ddff8b583",
+  "height": 120,
+  "immutableUrl": null,
+  "mediaId": "File:FarmPassSendDiamonds.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-01-11T12:33:43Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AFarmPassSendDiamonds.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 20925,
+  "sourceSha1": "0702533adca043dd077ad51efa286e5f930a5b17",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/fa/FarmPassSendDiamonds.png/revision/latest?cb=20210111123343",
+  "title": "File:FarmPassSendDiamonds.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 120
+}

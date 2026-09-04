@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_64.png",
+  "filePageId": 33574,
+  "filePageRevisionId": 98261,
+  "filePageRevisionSha1": "2ab60fb91d336dcbd845c83b9011df99879b36c8",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:08Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "21bf6420c2de001993fc25a0df8df41487a5dfa540ef70abd42e9fa4c0a12a82",
   "height": 782,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 64.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-04-16T12:57:35Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2064.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1156055,
   "sourceSha1": "7deaec1280cfb347a2ea5f96ac79bf22358fa9a0",

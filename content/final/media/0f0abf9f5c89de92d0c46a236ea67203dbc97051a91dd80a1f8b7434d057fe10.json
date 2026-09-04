@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Map_Piece.png",
+  "filePageId": 14357,
+  "filePageRevisionId": 89206,
+  "filePageRevisionSha1": "93f2415c32fd9dc5506e7a1f26254f218095c535",
+  "filePageRevisionTimestamp": "2019-10-28T13:17:13Z",
+  "filePageWikitext": "Picture of a map piece.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "3157e6615b21a7a10b5030ea6c51297ce343d7037cfc5a8fe1834c5ee5fa4afd",
   "height": 187,
   "immutableUrl": null,
   "mediaId": "File:Map Piece.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 26,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T13:17:13Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMap%20Piece.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 33857,
   "sourceSha1": "7ee219f59a0797b9bfe0bc97bce4ca11d3217291",

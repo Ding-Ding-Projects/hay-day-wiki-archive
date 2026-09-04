@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pottery_Studio_3_stars_mastery.png",
+  "filePageId": 35367,
+  "filePageRevisionId": 100450,
+  "filePageRevisionSha1": "313d40eace146e9ef51211fce4cd800ea5efea8b",
+  "filePageRevisionTimestamp": "2022-03-20T21:50:10Z",
+  "filePageWikitext": "Duplicate of file [https://hayday.fandom.com/wiki/File:Pottery_Studio_Mastery.png Pottery Studio Mastery.png]\n{{Delete}}",
+  "filePageWikitextHash": "abbbb0c53e2655a9c0a94fbc6cddfdfb25902a4a5432b5106f6490d195dc8682",
+  "height": 250,
+  "immutableUrl": null,
+  "mediaId": "File:Pottery Studio 3 stars mastery.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-03-16T11:14:00Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Delete"
+    ],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3APottery%20Studio%203%20stars%20mastery.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 59754,
+  "sourceSha1": "7027cc9f597d69358b6572696cc7d880705516d4",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/2/23/Pottery_Studio_3_stars_mastery.png/revision/latest?cb=20220316111400",
+  "title": "File:Pottery Studio 3 stars mastery.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 434
+}

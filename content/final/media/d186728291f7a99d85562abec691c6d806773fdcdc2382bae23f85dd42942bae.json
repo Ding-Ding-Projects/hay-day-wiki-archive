@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Blue_Pavilion.png",
+  "filePageId": 34870,
+  "filePageRevisionId": 99368,
+  "filePageRevisionSha1": "479a7239ef19bf61f390dc6a07219ca6598555f1",
+  "filePageRevisionTimestamp": "2021-11-10T21:20:27Z",
+  "filePageWikitext": "== Summary ==\nDerby Decoration from the Spring 2021 Update.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "b1c612d909886a197ca96017a80a14f6ad42cd8f2473b9783dd17ba97e13933e",
+  "height": 510,
+  "immutableUrl": null,
+  "mediaId": "File:Blue Pavilion.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2021-04-26T12:43:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3ABlue%20Pavilion.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 571059,
+  "sourceSha1": "52b1c63786cb3f5020df2c4fdce9388c24272566",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/f/f7/Blue_Pavilion.png/revision/latest?cb=20210426124336",
+  "title": "File:Blue Pavilion.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 510
+}

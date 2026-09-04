@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Derby_Break.png",
+  "filePageId": 22081,
+  "filePageRevisionId": 74386,
+  "filePageRevisionSha1": "035480a7445ec53c7e39776a6047cda2270f3cdb",
+  "filePageRevisionTimestamp": "2017-10-22T15:44:51Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Derby]]",
+  "filePageWikitextHash": "d748309cb5a53ea1d3e659f6701f8926947b47684a36595f58acaa167e9194b9",
   "height": 1000,
   "immutableUrl": null,
   "mediaId": "File:Derby Break.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-10-18T16:56:55Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADerby%20Break.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 557578,
   "sourceSha1": "bbe423b74308cea8ea00d9f922c174f4d8e78bbe",

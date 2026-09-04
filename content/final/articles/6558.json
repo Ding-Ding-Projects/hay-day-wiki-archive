@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Farm",
+    "Category:Game Features",
+    "Category:Town"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Farm",
+      "Category:Game Features",
+      "Category:Town"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Expansion?action=history",
@@ -31,11 +43,12 @@
   "revisionId": 78921,
   "revisionTimestamp": "2018-04-17T20:09:25Z",
   "route": "/wiki/category%2Fcategory-expansion-6558",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Expansion",
   "title": "Category:Expansion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This category contains pages related to the ''expansion ''feature in Hay Day. For the clearing of trees, rocks, and other such obstacles on your farm, see [[supplies]].\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Town]]",
   "wikitextHash": "130b9acd46c97e426ac6466c5efb7933fb5ffb0afe592e573e60baee6efe767b"
 }

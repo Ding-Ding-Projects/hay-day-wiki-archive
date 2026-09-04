@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Fish_Burger_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 105474,
   "revisionTimestamp": "2024-06-27T14:38:41Z",
   "route": "/wiki/category%2Fcategory-fish-burger-products-36114",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Fish_Burger_Products",
   "title": "Category:Fish Burger Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Fish Burger.png|thumb]]\nProducts of [[Fish Burger]].\n[[Category:Products]]",
   "wikitextHash": "3a798b7ead3ee9ce65f99e99e96d43518d960c11aa2efbd115d9dec07e1b6fe1"
 }

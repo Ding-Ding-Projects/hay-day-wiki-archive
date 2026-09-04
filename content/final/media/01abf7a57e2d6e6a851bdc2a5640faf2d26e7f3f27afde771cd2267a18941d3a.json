@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farm_expansion_Spring_2023_(2).png",
+  "filePageId": 35776,
+  "filePageRevisionId": 102767,
+  "filePageRevisionSha1": "7b09cca16d8306f3c03ba3b20bfb7728c0552478",
+  "filePageRevisionTimestamp": "2023-04-11T20:47:56Z",
+  "filePageWikitext": "\n== Licensing ==\n{{Self}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "b7191784026be3fb911e116560507a9080032d5a7373e60f849287a1d1ff56bd",
   "height": 735,
   "immutableUrl": null,
   "mediaId": "File:Farm expansion Spring 2023 (2).png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-04-11T08:46:44Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "Self"
+    ],
+    "verdict": "self-authored-unlicensed"
+  },
   "route": "/media/File%3AFarm%20expansion%20Spring%202023%20(2).png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 707000,
   "sourceSha1": "9c72479653e7faa2f6478eb872b99a41054e4a77",

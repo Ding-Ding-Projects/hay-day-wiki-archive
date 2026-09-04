@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion",
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion",
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -210,11 +220,12 @@
   "revisionId": 108718,
   "revisionTimestamp": "2025-10-06T20:54:33Z",
   "route": "/wiki/expansion-permit-27088",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Expansion_Permit",
   "title": "Expansion Permit",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Expansion Permit.png|200px|left|A permit]]\n'''Expansion permits''' are a type of [[supplies]] which let players unlock the 47 special [[expansion]] areas containing 29 unique [[Decorations/Expansion|decorations]].\n\nThey are unlocked at [[experience]] level 25.\n\nUnlike other [[expansion]] items, the permits are not stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Getting permits'''===\nUnlike other [[expansion]] items, permits cannot be bought or sold.\n\nPermits can be obtained when players:\n*Spin the [[Wheel of Fortune]]\n*Reach flag checkpoints 4 and 7 in [[Derby|derbies]]\n*Find them in [[Mystery Box|Huge Boxes]] or in some of the Holiday Calendar Boxes on Greg's farm\n*Earn them during [[Events|Special Boat Events]]\n*Buy them in [[Valley Shop]] or play lucky bonus in valley [[Daily Quest]] until the 2nd round or above is reached\n*Complete checkpoints on either free or paid [[Farm Pass]]\n*Purchase using real money in diamond shop at \"Offer\" section.\n\nAt their first appearance, they could also be obtained when a player:\n*Open [[Mystery Box|mystery boxes]]\n*Reach [[experience]] level thresholds\n\n...but these possibilities were removed in a subsequent update. Subsequently, they were added back to \"huge\" mystery boxes, but not to \"regular\" or \"large\" mystery boxes.\n\nOnce players have the number of permits needed to unlock all areas, they will not get any more permits (unless and until new plots requiring permits are added in subsequent updates).\n\nA total of 643 permits are needed to clear all 50 expansion areas that were introduced through the Summer 2021 update.  Detailed maps of each expansion area can be found [[Expansion/Farm|here]].\n\nAfter the Spring 2023 update, a total of 1345 permits are needed to clear all available expansion areas.\n----\n==='''Strategy tips'''===\n*You can see how many permits you have by tapping on a locked area on the south-east of your farm that has access to a nearby road or by tapping your level star.\n*Expansion Permits will only appear in derby prize columns 4 and 7, so if you opt to spend 5 diamonds to reshuffle the derby prizes to earn Expansion Permits, remember not to select a prize in columns 4 or 7 prior to shuffling as these are the only two columns where it is possible to be awarded Expansion Permits.\n*There is a soft limit on the number of expansion permits you can own/store, which is 15 plus the number of permits required to buy all remaining land.  Once you reach this threshold, permits will no longer be available from derby, valley, and some event catalogs.  Permits can still be collected from rewards such as the final event prize from county fair events.\n----\n\n{{Navigation}}\n{{Languages\n|es = Permiso de ampliación\n|fr = Permis_d'extension\n}}\n[[Category:Supplies]]\n[[Category:Expansion]]",
   "wikitextHash": "0eaef38d1b1ab7ea970a174af1fd1e9ca59322f9fbd1bf519614517c7864aac6"
 }

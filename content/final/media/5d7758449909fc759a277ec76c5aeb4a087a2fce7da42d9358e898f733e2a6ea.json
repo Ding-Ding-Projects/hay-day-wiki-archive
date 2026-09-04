@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Coin.png",
+  "filePageId": 16668,
+  "filePageRevisionId": 102302,
+  "filePageRevisionSha1": "6383346107fa007d0b3c744e8fc1bc28fca2117b",
+  "filePageRevisionTimestamp": "2022-12-15T22:21:16Z",
+  "filePageWikitext": "Picture of a coin.\nFrom the Noun Project.\n{{CC-BY-SA-3.0}}\n[[Category:Image Currencies]]",
+  "filePageWikitextHash": "41c4f8ccaea5b3ba0e254e364e2baa1b2b18002770f7b9538cd401218980f6ed",
   "height": 96,
   "immutableUrl": null,
   "mediaId": "File:Coin.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 9,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-15T22:21:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA-3.0"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3ACoin.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 26763,
   "sourceSha1": "ddbf954a530a47fa0b0a710410084924bac34d5a",

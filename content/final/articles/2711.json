@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +182,12 @@
   "revisionId": 110479,
   "revisionTimestamp": "2026-06-08T20:01:08Z",
   "route": "/wiki/cat-house-2711",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cat_House",
   "title": "Cat House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cat House.png|200px|left|Cat house]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 21 • 29\n |price = 500\n |houses = {{Infoicon|tabbyc|big|link=Tabby Cat}}{{Infoicon|calicoc|big|link=Calico Cat}}{{Infoicon|tuxedoc|big|link=Tuxedo Cat}} x3\n}}\n'''Cat houses''' are shelters for [[:Category:Cats|cats]]. The first house is unlocked at [[experience]] level 21.\n{{Clr}}\n----\n==='''Appearance'''===\nThe house is a wooden brown cat house on an elevated platform. However, cats never go into the house. They eat and sleep in front of it.\n----\n==='''Building'''===\nEach house costs 500 {{Infoicon|coin}} and can hold up to three cats. The second house is unlocked at level 29. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Katzenhütte\n|es = Caseta de gato\n|fr = Abri pour chats\n|no = Kattehus\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "3a48803a98f6e1bcde3443fe8a85fb11348642e95fb0e67e65db338d4b124974"
 }

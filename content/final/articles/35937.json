@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Daily_Reward?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 104006,
   "revisionTimestamp": "2023-10-02T02:29:57Z",
   "route": "/wiki/daily-reward-35937",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Daily_Reward",
   "title": "Daily Reward",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#REDIRECT [[Movie Ticket]]",
   "wikitextHash": "a7b88b067be5a8e0398a4641cc31c7c782f8ca53eec913da649c560446ab62ca"
 }

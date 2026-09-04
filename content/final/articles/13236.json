@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -221,11 +229,12 @@
   "revisionId": 106866,
   "revisionTimestamp": "2025-01-15T22:01:12Z",
   "route": "/wiki/brick-13236",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Brick",
   "title": "Brick",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Brick.png|200px|left|Bricks]]\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 34\n |price = 1 to 342\n |upgrades = {{Infoicon|bb|big|link=Bed and Breakfast}} {{Infoicon|spa|big|link=Spa}} {{Infoicon|trains|big|link=Train Station}}\n |base = 95\n |dia = 10\n}}\n'''Bricks''' are [[supplies]] used to upgrade the [[Bed and Breakfast|bed and breakfast]], the [[spa]] and the [[Train Station|train station]].\n\nThey are unlocked at [[experience]] level 34.\n\nThey are stored in the [[barn]].\n{{Clr}}\n----\n==='''Getting bricks'''===\nA sure way to get a brick is to buy it with 10 {{Infoicon|dia}}.\n\nBricks can be easily found in [[Daily Dirt]] for 1 to 342 {{Infoicon|coin}} per unit.\n\nFinally, bricks can be randomly obtained when players:\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n----\n{{Navigation}}\n{{Languages\n|de = Backstein\n|es = Ladrillos\n|fr = Brique\n|it = Mattone\n|no = Murstein\n}}\n[[Category:Supplies]]",
   "wikitextHash": "eae07bd4062a6a171d789ef860b6d5217538ee26861804874fab04efff43b39e"
 }

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Rice_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98562,
   "revisionTimestamp": "2021-08-31T21:19:34Z",
   "route": "/wiki/category%2Fcategory-rice-products-35085",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Rice_Products",
   "title": "Category:Rice Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Rice.png|thumb]]\nProducts of [[Rice]].\n[[Category:Products]]",
   "wikitextHash": "32702673a4d459247005bf04415bbc3c0951d7d27fde5a5e8a4c77380c1df736"
 }

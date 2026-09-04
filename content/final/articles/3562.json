@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -359,11 +367,12 @@
   "revisionId": 109780,
   "revisionTimestamp": "2026-05-04T13:28:32Z",
   "route": "/wiki/jeweler-3562",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Jeweler",
   "title": "Jeweler",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Jeweler.png|200px|left|Jeweler]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 38\n |price = 68,000\n |time = 1 d 12 h\n |slots = 2\n |dia = 57\n |size = 2×2\n}}\nThe '''Jeweler''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 38.\n\nIt is used to make [[bracelet]]s, [[necklace]]s, [[Diamond Ring|diamond rings]], [[Iron Bracelet|iron bracelets]] and [[Flower Pendant|flower pendants]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Jeweler is a small wooden hut with blue and green sides, and a black roof. Inside the hut there is a white stove, a green lantern and a black anvil on a barrel. On the counter there is a magnifier, a hammer and a metalworking vise.\n\nThe mastered version gets a star on its now purple front and various golden parts.\n----\n=== '''Building''' ===\nIt costs 68,000 {{Infoicon|coin}} and takes 1 day and 12 hours or 57 {{Infoicon|dia}} to build the Jeweler. It gives players 28 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\nPlayers can make the following [[products]] in the Jeweler:\n{{Building Products\n|Bracelet|38|2h|514\n|Necklace|39|3h|727\n|Diamond Ring|40|4h|824\n|Iron Bracelet|41|1:30|658/78\n|Flower Pendant|98|1h|698\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Jeweler originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,470 hours of production is required to [[Masteries|master]] the Jeweler:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Jeweler Mastered.png|150px|Mastered Jeweler]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />70 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />280 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,120 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Jeweler Mastery.png|100px]]\n|-\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*If you have [[Settings|diamond confirmation enabled]] the game will ask you if you want to spend the [[diamond]] needed to make a ring.\n*Selling jewelry through the [[truck]] rewards you with a random [[voucher]].\n*[[Boat]] orders never ask for jewelry.\n----\n{{Navigation}}\n{{Languages\n|de = Juwelier\n|es = Joyería\n|fr = Bijouterie\n|it = Gioielliere\n|no = Gullsmed\n|sv = Guldsmed\n|vi = Máy làm trang sức\n|zh = Jeweler\n}}\n[[pt-br:Joalheiro]]\n[[ru:Ювелир]]\n\n[[Category:Production Buildings]]",
   "wikitextHash": "1f19403a0a0ecfd8217c35af11377283859cdbe4f0076120a5bcd9724c2b1b47"
 }

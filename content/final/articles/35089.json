@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Coffee_Bean_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98566,
   "revisionTimestamp": "2021-08-31T21:20:34Z",
   "route": "/wiki/category%2Fcategory-coffee-bean-products-35089",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Coffee_Bean_Products",
   "title": "Category:Coffee Bean Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Coffee Bean.png|thumb]]\nProducts of [[Coffee Bean]].\n[[Category:Products]]",
   "wikitextHash": "67cf74574f3cdc737a1b3b932377f85793262989c6fabc7555943e6ff1f80d95"
 }

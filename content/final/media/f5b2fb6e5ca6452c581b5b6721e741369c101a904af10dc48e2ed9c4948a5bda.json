@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pickaxe.png",
+  "filePageId": 14250,
+  "filePageRevisionId": 65741,
+  "filePageRevisionSha1": "6e2dbc06740c68a5048c1d0bf0bd410501a16f6b",
+  "filePageRevisionTimestamp": "2016-10-24T17:44:12Z",
+  "filePageWikitext": "Picture of a pickaxe.\n{{License SC}}\n[[Category:Image Supplies]]",
+  "filePageWikitextHash": "95707e9a6ca66e819ae026eb6aad12cbe19ecef7f04c04f5bbb46ee47f7a5c75",
   "height": 245,
   "immutableUrl": null,
   "mediaId": "File:Pickaxe.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 33,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-12T18:19:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APickaxe.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 48001,
   "sourceSha1": "b8c756ce7c4a67b1b488466ddb518cb7a8d05544",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Andean_Flamingo.png",
+  "filePageId": 36052,
+  "filePageRevisionId": 105314,
+  "filePageRevisionSha1": "c7af6c54943e07cd067d702dd514fc803d102b49",
+  "filePageRevisionTimestamp": "2024-05-28T13:13:33Z",
+  "filePageWikitext": "== Summary ==\nандский фламинго, из видео Ricky Burnett\nandean flamingo, from Ricky Burnett's video\n\n== Licensing ==\n{{License SC}}\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "9c3df51e682437a2ee0fb9612e6fc1210c967d234d79efba9d0069b73dc738a4",
   "height": 2475,
   "immutableUrl": null,
   "mediaId": "File:Andean Flamingo.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 61,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-05-28T13:13:33Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AAndean%20Flamingo.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2018040,
   "sourceSha1": "8f41bdd88a30fdd046edde1159bb80d2c73c7931",

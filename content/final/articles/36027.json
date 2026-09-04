@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:New",
+    "Category:Pages with broken file links"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:New",
+      "Category:Pages with broken file links"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -328,11 +338,12 @@
   "revisionId": 110594,
   "revisionTimestamp": "2026-06-21T14:22:31Z",
   "route": "/wiki/essential-oils-lab-36027",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Essential_Oils_Lab",
   "title": "Essential Oils Lab",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n{{New}}\n[[File:Essential Oils Lab.png|left|239x239px|Essential Oils Lab]]\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 68\n |price = 85,000\n |time = 3 d 7 h\n |slots = 2\n |xp = 44\n |dia = 89\n |size = 2×2\n}}\nThe '''Essential Oils Lab''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 68. It was added in the March 2024 update.\n\nIt is used to make [[Lemon Essential Oil]], [[Ginger Essential Oil]] and [[Mint Essential Oil]].{{Clr}}\n----\n==='''Building'''===\nIt costs 85,000 {{Infoicon|coin}} and takes 3 days 7 hours (or 89 {{Infoicon|dia}}) to build the Essential Oils Lab. It gives players 44 {{Infoicon|xp}} when completed.{{Clr}}\n----\n==='''Products'''===\n{{Building Products\n|Lemon Essential Oil|68|10m|288\n|Chamomile Essential Oil|74|10m|72/8\n|Ginger Essential Oil|80|20m|162\n|Mint Essential Oil|85|15m|172\n}}{{Clr}}\n----\n==='''Upgrading'''===\n{{Main|Production Buildings}} The Essential Oils Lab originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one.{{Clr}}\n----\n==='''Mastering'''===\nA total of 1,080 hours of production is required to [[Masteries|master]] the Essential Oils Lab:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n| rowspan=\"3\" |[[File:Essential Oils Lab Mastered.png|150px|Mastered Essential Oils Lab]]\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★70 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★200 hrs'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''★★★810 hrs'''\n|-\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM10Coins.png|100px]]\n| style=\"border: 1px solid #bbb;\" |[[File:TruckM5XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\" |[[File:Dominated machine.png|100x100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}{{Clr}}\n----\n==='''Strategy tips'''===\n{{Clr}}\n----{{Navigation}}\n\n{{Languages\n|de = Öllabor\n|es = Fábrica de aceites esenciales\n|it = Laboratorio di oli essenziali\n|no = Eterisk olje-laboratorium\n|ru = Лаборатория масел\n}}\n[[pt-br:Laboratório de óleos essenciais]]",
   "wikitextHash": "916da25ad2524021f29e314346c60c7b7e736fdb97d166aefd35905c21d57d50"
 }

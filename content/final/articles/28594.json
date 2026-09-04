@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 74221,
   "revisionTimestamp": "2017-10-22T10:09:10Z",
   "route": "/wiki/category%2Fcategory-image-sanctuary-28594",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Sanctuary",
   "title": "Category:Image Sanctuary",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to the [[Sanctuary]].\n[[Category:Images]]",
   "wikitextHash": "88446e8b209fd74b80e2fd65b2215bc2428e995731aed9dfa6f8e0e843e09db0"
 }

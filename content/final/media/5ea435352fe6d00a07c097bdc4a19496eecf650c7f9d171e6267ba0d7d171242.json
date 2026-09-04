@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse_Broken.png",
+  "filePageId": 14875,
+  "filePageRevisionId": 66008,
+  "filePageRevisionSha1": "798066af3c23b1836c9eeddd5bd5a12da7b8c004",
+  "filePageRevisionTimestamp": "2016-10-28T13:44:16Z",
+  "filePageWikitext": "Picture of the Farmhouse at the start of the game, when it hasn't been repaired and repainted yet. Quality of the picture could be better.\n{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "d44b5d8d971ed7fb4c0811e8c8764a3c62d56aae67fa07be06f66e552e890cab",
   "height": 873,
   "immutableUrl": null,
   "mediaId": "File:Farmhouse Broken.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2015-07-13T12:07:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarmhouse%20Broken.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 395487,
   "sourceSha1": "0fcdb4485bf1fc0ed0ecb44fc324821b368988d5",

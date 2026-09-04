@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:537606_567287953298155_368754320_n.jpg",
+  "filePageId": 17638,
+  "filePageRevisionId": 40379,
+  "filePageRevisionSha1": "e3b8c919b49e7a2736a37b6dca8013bb0c853294",
+  "filePageRevisionTimestamp": "2015-01-03T14:47:33Z",
+  "filePageWikitext": "[[Category:Image_User]]",
+  "filePageWikitextHash": "afbab79653a97c44660291963f48b57da5238f1aaed9beec70403611717bd6fa",
+  "height": 960,
+  "immutableUrl": null,
+  "mediaId": "File:537606 567287953298155 368754320 n.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-01-03T05:08:28Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3A537606%20567287953298155%20368754320%20n.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 86002,
+  "sourceSha1": "75f0c67c65a955444fb94c4b8ba86997f4ecfa62",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/0/09/537606_567287953298155_368754320_n.jpg/revision/latest?cb=20150103050828",
+  "title": "File:537606 567287953298155 368754320 n.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 960
+}

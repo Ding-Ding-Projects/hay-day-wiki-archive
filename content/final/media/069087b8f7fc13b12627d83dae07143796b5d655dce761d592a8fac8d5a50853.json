@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:American_Flamingo_N.png",
+  "filePageId": 36235,
+  "filePageRevisionId": 106724,
+  "filePageRevisionSha1": "94266589fe6746acb0c7ce49fca345d99af84d12",
+  "filePageRevisionTimestamp": "2025-01-04T06:11:26Z",
+  "filePageWikitext": "American Flamingo",
+  "filePageWikitextHash": "463a74c9f5642aed6ce4e26d69ac8ddfabe6d1cce0875f264a6fee5c6ef8592c",
+  "height": 2000,
+  "immutableUrl": null,
+  "mediaId": "File:American Flamingo N.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2025-01-04T06:11:26Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AAmerican%20Flamingo%20N.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 805276,
+  "sourceSha1": "321abbb64b4b5f35891989f2b2ba4cd9948c3845",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/d/d6/American_Flamingo_N.png/revision/latest?cb=20250104061126",
+  "title": "File:American Flamingo N.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 1367
+}

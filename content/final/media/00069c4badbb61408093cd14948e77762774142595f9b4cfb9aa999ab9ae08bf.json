@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Green_Lure.png",
+  "filePageId": 5949,
+  "filePageRevisionId": 65979,
+  "filePageRevisionSha1": "3c68b1ad9afe799fb289e861b733d0bdefa99c9c",
+  "filePageRevisionTimestamp": "2016-10-28T13:23:38Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Lure]]",
+  "filePageWikitextHash": "e9858e96ecb1574705c90fd75fb9d00a6854597f9999c7ef2d462fadf9ef3db4",
   "height": 120,
   "immutableUrl": null,
   "mediaId": "File:Green Lure.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 31,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2014-03-30T22:58:00Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGreen%20Lure.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 18159,
   "sourceSha1": "afe4380d6cde4b4f0145b67cbc132e7adf8925a0",

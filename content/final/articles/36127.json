@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Easter Egg Maker Products",
+    "Category:Egg Products",
+    "Category:Popcorn Products",
+    "Category:Syrup Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Easter Egg Maker Products",
+      "Category:Egg Products",
+      "Category:Popcorn Products",
+      "Category:Syrup Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -186,11 +200,12 @@
   "revisionId": 109576,
   "revisionTimestamp": "2026-03-25T15:32:39Z",
   "route": "/wiki/chocolate-chicken-36127",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Chocolate_Chicken",
   "title": "Chocolate Chicken",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Chocolate Chicken.png|200px|left|Chocolate Chicken]]\n\n{{Infobox\n |title = [[Products|Product]]\n |Chocolate bunny = 25\n |level = 20\n |time = 45m\n |source = {{Infoicon|eastereggmaker2024|bigger|link=Easter Egg Maker}}\n |xp = 77\n |dia = 3\n |time3 = 40m\n}}\n'''Chocolate Chicken''' is a [[products|product]] unlocked at [[experience]] level 20. It's a special item used only for the Easter 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Chocolate Chicken'''===\n[[File:Easter Egg Maker 2024.png|150px|left|Easter Egg Maker 2024|link=Easter Egg Maker]]\nChocolate chickens are made in the [[Easter Egg Maker]].\n\nTo make a chocolate chicken, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Syrup.png|75px|Syrup|link=Syrup]]\n|[[File:Popcorn.png|75px|Popcorn|link=Popcorn]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 45 minutes to make a chocolate chicken, and 40 minutes in a 2-star and fully [[Masteries|mastered]] station. Each chocolate chicken gives players 77 [[experience]] points.\n\n'''In 2025''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Popcorn.png|75px|Chili Popcorn|link=Chili Popcorn]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|[[File:Raspberry.png|75px|Raspberry|link=Raspberry]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\n\n'''In 2026''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Raspberry Muffin.png|75px|Raspberry Muffin|link=Raspberry Muffin]]\n|[[File:Pumpkin.png|75px|Pumpkin|link=Pumpkin]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x5'''\n|}\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 chocolate chickens per crate, up to a total of 4 per boat. Each chocolate chicken used on a boat will be rewarded with 25 [[Chocolate Bunny]].\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Easter Egg Maker Products]]\n[[Category:Egg Products]]\n[[Category:Syrup Products]]\n[[Category:Popcorn Products]]\n\n{{Languages\n|es = Gallina de chocolate\n}}",
   "wikitextHash": "0374d5ae2bb81eaea25e65f4385d77de798a078ee3fc2c2afbe414860a4a90ce"
 }

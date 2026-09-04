@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Grey_Walrus_Calf.png",
+  "filePageId": 35696,
+  "filePageRevisionId": 102255,
+  "filePageRevisionSha1": "7fa98f6cabf22a46d43460a8d9f2f6ef7e630dea",
+  "filePageRevisionTimestamp": "2022-12-10T21:39:01Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "21abd9aea39b43da642e1a21ef2613243e48638b49c03fa044aef64fb2625025",
   "height": 515,
   "immutableUrl": null,
   "mediaId": "File:Grey Walrus Calf.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-12-10T21:38:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AGrey%20Walrus%20Calf.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 145436,
   "sourceSha1": "20e697ea6cc6addbc5765ead62d129bed6be1a48",

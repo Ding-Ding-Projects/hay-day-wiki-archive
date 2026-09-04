@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -331,11 +339,12 @@
   "revisionId": 107316,
   "revisionTimestamp": "2025-02-22T18:31:14Z",
   "route": "/wiki/hot-dog-stand-19439",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hot_Dog_Stand",
   "title": "Hot Dog Stand",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hot Dog Stand.png|200px|left|Hot Dog Stand]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 75\n |price = 650,000\n |time = 3 d 16 h\n |slots = 2\n |dia = 85\n |size = 2×2\n}}\nThe '''Hot Dog Stand''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 75.\n\nIt is used to make [[Hot Dog|hot dogs]], [[Tofu Dog|tofu dogs]], [[Corn Dog|corn dogs]] and [[Onion Dog|onion dogs]].\n\n{{Clr}}\n----\n=== '''Building''' ===\nIt costs 650,000 {{Infoicon|coin}} and takes 3 days and 16 hours or 85 {{Infoicon|dia}} to build the Hot Dog Stand. It gives players 41 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Hot Dog|75|30m|370\n|Tofu Dog|76|45m|367\n|Corn Dog|78|1h|529\n|Onion Dog|80|1:15|306\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Hot Dog Stand originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 1,512 hours of production is required to [[Masteries|master]] the Hot Dog Stand:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Hot Dog Stand Mastered.png|150px|Mastered Hot Dog Stand]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />72 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />288 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />1,152 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM5XP.png|100px|]]\n|style =\"border: 1px solid #bbb;\"|[[File:Hot Dog Stand Mastery.png|100px|]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"5% more experience points for truck orders\">+5% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*[[Tofu Dog]] are commonly found in the [[Daily Dirt]] and may not sell quickly when sold at max price.\n*[[Onion Dog]] can be used to master the machine as they don't need any dairy or sauce maker item. They can be sold quickly.\n----\n\n{{ProductionBuildingsMenu}}\n{{Languages\n|de = Hotdogstand\n|es = Puesto de perritos calientes\n|fr = Stand à hot-dogs\n|it = Bancarella hot dog\n|no = Pølsebod\n|vi = Quầy Hot Dog\n|zh = Hot Dog Stand\n}}\n[[pt-br:Banca de cachorro-quente]]\n[[ru:Киоск для хот-догов]]\n[[Category:Production Buildings]]",
   "wikitextHash": "5b25606533c107c36279b12ab978fd6d23c2124602f19d30fcad95ea9cd98e01"
 }

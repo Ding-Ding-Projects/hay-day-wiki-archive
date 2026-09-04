@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Juice Press Products",
+    "Category:Watermelon Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Juice Press Products",
+      "Category:Watermelon Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -154,11 +164,12 @@
   "revisionId": 107930,
   "revisionTimestamp": "2025-05-30T23:25:23Z",
   "route": "/wiki/watermelon-juice-29908",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Watermelon_Juice",
   "title": "Watermelon Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Watermelon Juice.png|200px|left|Watermelon juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 92\n |price = 1 to 108\n |time = 1 h\n |xp = 13\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |base = 30\n |dia = 4\n |time3 = 51 min\n}}\n'''Watermelon juice''' is a [[Products|product]] unlocked at [[experience]] level 92.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making watermelon juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nWatermelon juice is made in the [[Juice Press]].\n\nTo make the juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Watermelon.png|75px|link=Watermelon|Watermelons]]\n|-\n|'''x2'''\n|}\nIt takes 1 hour to make one bottle of juice, and 51 minutes in a fully [[Masteries|mastered]] press. Each bottle gives players 13 [[experience]] points.\n\n{{Clr}}----\n==='''Selling watermelon juice'''===\n[[File:Roadside Shop.png|left|150px|link=Roadside Shop|Roadside shop]]\n* Watermelon juice can be bought or sold for a maximum price of 1080 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make watermelon juice costs 78 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 3 to 5 watermelon juice per crate, up to a total of 16 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Melonensaft\n|es = Zumo de sandía\n|fr = Jus de Pastèque\n|it = Succo d'anguria\n|nl = Watermeloensap\n|no = Vannmelonjus\n|ru = Арбузный сок\n|zh = Watermelon Juice\n}}\n[[pt-br:Suco de melancia]]\n[[Category:Juice Press Products]]\n[[Category:Watermelon Products]]",
   "wikitextHash": "e4a4e49b4d56ed7b192e07334ff7f1157a90760a4f0a50cc55eea5a4f8dca89f"
 }

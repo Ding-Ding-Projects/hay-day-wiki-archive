@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:20211129Update.png",
+  "filePageId": 35283,
+  "filePageRevisionId": 99564,
+  "filePageRevisionSha1": "e6369d413fafbca807fdd22f9d7c5efe27f6f7ed",
+  "filePageRevisionTimestamp": "2021-12-06T22:39:51Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image News]]",
+  "filePageWikitextHash": "16effc8182142a2a0e2376d14eb1ef269a806897342f6431e7069543d8176c44",
   "height": 526,
   "immutableUrl": null,
   "mediaId": "File:20211129Update.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2021-11-29T19:41:43Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3A20211129Update.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 459805,
   "sourceSha1": "a3673db74e5fd6d14401f7890d4ff7e841d65e31",

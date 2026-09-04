@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Loading_Screen_Standard.jpg",
+  "filePageId": 26206,
+  "filePageRevisionId": 69694,
+  "filePageRevisionSha1": "b047b739058e5176f676d9a8f69d57a49451d5ac",
+  "filePageRevisionTimestamp": "2017-02-06T22:17:37Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Themes]]",
+  "filePageWikitextHash": "4254f610efd0ebcc9f6f3b45c4e90d58662d14f9ae602f598591064dd14db1e3",
   "height": 1080,
   "immutableUrl": null,
   "mediaId": "File:Loading Screen Standard.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-11-04T11:13:22Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALoading%20Screen%20Standard.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 96693,
   "sourceSha1": "aba4c20e1c364777b93ec9d56cf5fe238d0682ee",

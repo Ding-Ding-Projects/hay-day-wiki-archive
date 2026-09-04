@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Orange_Cheetah_Cub.png",
+  "filePageId": 35411,
+  "filePageRevisionId": 100706,
+  "filePageRevisionSha1": "fafd36b115af2964abeade31cf638b4a294026c2",
+  "filePageRevisionTimestamp": "2022-04-27T17:09:07Z",
+  "filePageWikitext": "== Summary ==\nTemporary image.\n== Licensing ==\n{{License SC}}\n[[Category:Image Sanctuary]]\n[[Category:Image Animals]]",
+  "filePageWikitextHash": "f0d77cc787a119baaa8db63645347b2712c87e63b5e10a5fe356a3354804b91e",
   "height": 550,
   "immutableUrl": null,
   "mediaId": "File:Orange Cheetah Cub.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-27T17:09:07Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOrange%20Cheetah%20Cub.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 193784,
   "sourceSha1": "c8cab4a4e2f1aa20aade6cc1461af3eed3d3fc84",

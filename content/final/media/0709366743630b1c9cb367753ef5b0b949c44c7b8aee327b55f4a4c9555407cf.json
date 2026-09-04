@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:White_Arctic_Fox_Cub.png",
+  "filePageId": 35408,
+  "filePageRevisionId": 100641,
+  "filePageRevisionSha1": "0913be2b8537f797ed7e9a602dc22048f630711e",
+  "filePageRevisionTimestamp": "2022-04-25T21:56:15Z",
+  "filePageWikitext": "== Summary ==\nTemporary image.\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "1911560a7db8766fa572ea804af367bda6ae84b23b16ab01f62cbf3c06a3f35d",
+  "height": 269,
+  "immutableUrl": null,
+  "mediaId": "File:White Arctic Fox Cub.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2022-04-25T21:56:15Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AWhite%20Arctic%20Fox%20Cub.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 83963,
+  "sourceSha1": "355d1a4ce4d919994a8b94523456ae29b755e44b",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/1/13/White_Arctic_Fox_Cub.png/revision/latest?cb=20220425215615",
+  "title": "File:White Arctic Fox Cub.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 350
+}

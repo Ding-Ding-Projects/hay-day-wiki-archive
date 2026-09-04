@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Edit Mode"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Edit Mode"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -108,11 +116,12 @@
   "revisionId": 105151,
   "revisionTimestamp": "2024-04-09T04:23:24Z",
   "route": "/wiki/edit-mode-24078",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Edit_Mode",
   "title": "Edit Mode",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Edit Mode Icon.png|left|100px|Edit Mode]]\n[[File:Edit Mode Icon Locked.png|left|200px|Edit Mode Button Locked]]\nFrom [[experience]] level 37 onwards, players can use the Layout Edit Mode to edit the current layouts of their [[farm]], and to create new ones. \n\nThe same features unlocks at experience level 34 for the [[town]]. Players have one mode for the town and another one for the farm but they function the same way.\n\nEdit mode is accessed by tapping the edit icon at the bottom right of the screen.\n\n{{Clr}}----\n\n\n=== '''Layout Slots''' ===\n[[File:Layout Slots Screen.jpg|thumb|Layout Slots Screen|376x376px]]\nFarm and village layouts are saved in slots. Players begin with two slots in each location (including the active layout<code>Computer code</code>), but can buy more using [[diamond]]s. The first extra slot costs 20 diamonds, the second one 40, and the last one 80. When buying a new slot in the [[farm]] it will not open another slot in the [[town]]\n\nOne layout at a time is set as active, indicating it is currently being used for gameplay. Active layouts are indicated by a green check mark on the layout slots screen. A layout must have all essential items ([[Production Buildings|production buildings]], [[Farm|fields]], [[Animal Shelters|animal shelters]], [[Trees and Bushes|trees and bushes]]) placed before it may be set as active.\n\nPlayers can copy an existing layout and paste it onto another slot.{{Clr}}\n----<br />\n==='''Editing Layouts'''===\n[[File:Edit Mode Eraser.png|left|150px|Erase Mode]]\n[[File:Edit Mode Store.png|left|150px|Store button]]\nWhen editing their established layouts, players can store everything they have bought in the [[shop]]. \n\nThey can use the erase mode to store items one by one or the store icon to store:\n* all [[Farm|fields]] and [[:Category:Animal Shelters|animal shelters]]\n* all [[Production Buildings|machines]]/all [[Service Buildings|service buildings]]\n* all [[Trees and Bushes|trees and bushes]]\n* all [[decorations]] (not essential).\n\nIn new layouts, all items are automatically stored from the start. {{Clr}}\n[[File:Edit Mode Paintbrush.png|left|100px|Paintbrush icon]]\nCertain items (fields, trees and bushes, and decorations) can be placed in rows (instead of one by one) using the paintbrush icon.\n\nPlayers can then discard or save their changes using the check and X icons at the bottom left of the edit screen. \n\n{{Clr}}<br />\n----\n==='''Tutorial'''===\n[[File:Hay_Day_Introducing_Edit_Mode|350px|center]]\n\n{{Clr}}----\n==='''Strategy tips'''===\n*Make sure you name your layouts before you save them because if they get lost the first thing the developers will ask you is did you name it.\n*Different types of trees or bushes are fungible between layouts. As an example, imagine you have two layouts with all essentials placed, and cut down 5 cherry trees while playing in the active layout. If you subsequently buy 5 trees of any type while still in the active layout, they will be automatically placed in the inactive layout. However if you buy a 6th tree it will need to be placed manually in the inactive layout.\n\n\n\n{{Languages\n|es = Modo edición\n}}\n[[Category:Edit Mode]]",
   "wikitextHash": "b8d58f65dc2957dfab2022cbbfa343f8547a541800653fcd8352ecf8789f62b8"
 }

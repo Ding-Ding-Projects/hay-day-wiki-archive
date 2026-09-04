@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Reputation_Level_65.png",
+  "filePageId": 33902,
+  "filePageRevisionId": 98262,
+  "filePageRevisionSha1": "4a9c40a5ad8581d8f9b3cc9f7ddcfa1595b64364",
+  "filePageRevisionTimestamp": "2021-07-15T22:25:14Z",
+  "filePageWikitext": "== Summary ==\nReputation Level 65 Banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Reputation Levels]]",
+  "filePageWikitextHash": "45052a3b55d8136332bd8775f7b8eb56335df200ceea97ab334e3813a67a033a",
   "height": 782,
   "immutableUrl": null,
   "mediaId": "File:Reputation Level 65.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-06-13T12:19:16Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AReputation%20Level%2065.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 1154128,
   "sourceSha1": "7ab4d9506b06b44cadc0dd35373b977ec977c08d",

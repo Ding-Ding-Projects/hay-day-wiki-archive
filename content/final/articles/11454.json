@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Fish"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Fish"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -297,11 +305,12 @@
   "revisionId": 106798,
   "revisionTimestamp": "2025-01-07T22:22:12Z",
   "route": "/wiki/white-catfish-11454",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/White_Catfish",
   "title": "White Catfish",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:White Catfish.png|200px|left|White catfish]]\n\n{{Infobox\n |level = 27|lures = {{Infoicon|bluel|big|link=Lure}}|spots = 9, 13, 14|circle = small|xp = 12|title = [[Animals|Animal]]}}\n'''White catfish''' are a type of [[fish]].\n\nLike all types of fish, each white catfish gives one [[Fish Fillet|fish fillet]] when caught.\n\n{{Clr}}\n----\n==='''Catching white catfish'''===\nWhite catfish can only be caught with blue [[lure]]s in swampy fishing spots (fishing spots #9, #13, #14 in map).\n\nWhite catfish is caught in small circles and therefore are harder to catch.\n[[File:FishingMap Names.png|350px|left]]\n\n{{Clr}}\nSee [[Fishing List]] for more detailed information.\n----\n==='''White catfish in the fishing book'''===\n[[File:White Catfish Photo.png|150px|left|Fishing book photo]]\nThe white catfish is on page 20 (tablet) or 38 (mobile) of the [[Fishing Book|fishing book]]:\n\n''This fish is a loving dad - tirelessly looking after the kids.''\n\n{{Clr}}\n----\n==='''See also'''===\n{{FishMenu}}\n{{Languages\n|de = Weißer Katzenwels\n|es = Siluro blanco\n|no = Hvit malle\n}}\n[[Category:Fish]]",
   "wikitextHash": "0fb598e791b999d304f02aa054b945dacc222aa646dc510a17d9cd0ea737a260"
 }

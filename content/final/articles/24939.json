@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Jam Maker Products",
+    "Category:Orange Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Jam Maker Products",
+      "Category:Orange Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -145,11 +155,12 @@
   "revisionId": 107124,
   "revisionTimestamp": "2025-02-03T18:59:01Z",
   "route": "/wiki/marmalade-24939",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Marmalade",
   "title": "Marmalade",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Marmalade.png|200px|left|Marmalade]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 74\n |price = 1 to 457\n |time = 8 h 30 min\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 54\n |base = 124\n |dia = 9\n |time3 = 7 h 13 min\n}}\n'''Marmalade''' is a [[Products|product]] unlocked at [[experience]] level 74.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making marmalade'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nMarmalade is made in the [[Jam Maker]].\n\nTo make marmalade, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Orange.png|75px|Oranges|link=Orange]]\n|-\n|'''x3'''\n|}\nIt takes 8 hours and 30 minutes to make one jar, and 7 hours and 13 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 54 [[experience]] points.\n\n{{Clr}}----\n==='''Selling marmalade'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Marmalade can be bought or sold for a maximum price of 4,572 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make a jar costs 291 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 marmalade per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Orangenmarmelade\n|es = Mermelada de naranja\n|fr = Marmelade\n|it = Confettura\n|nl = Marmelade\n|no = Marmelade\n|zh = Marmalade\n}}\n[[pt-br:Marmelada]]\n[[ru:Мармелад]]\n[[Category:Jam Maker Products]]\n[[Category:Orange Products]]",
   "wikitextHash": "f28500708146b865aa2ce0751d3687a138f577d2d8b3bb25cefd3acb0811e22a"
 }

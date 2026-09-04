@@ -12,7 +12,19 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Egg Products",
+    "Category:Halloween Treats Maker Products",
+    "Category:Popcorn Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Egg Products",
+      "Category:Halloween Treats Maker Products",
+      "Category:Popcorn Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -93,11 +105,12 @@
   "revisionId": 108780,
   "revisionTimestamp": "2025-10-23T20:30:36Z",
   "route": "/wiki/spooky-lollipops-36443",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Spooky_Lollipops",
   "title": "Spooky Lollipops",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Spooky Lollipops.png|200px|left|Spooky Lollipops]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |halloweenhat = 10\n |time = 10m\n |source = {{Infoicon|halloweentmaker|bigger|link=Halloween Treats Maker}}\n |xp = 28\n |dia = 3\n}}\n'''Spooky Lollipops''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Halloween 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Pumpkin Lollipops'''===\n[[File:Halloween Treats Maker.png|150px|left|Halloween Treats Maker]]\nSpooky Lollipops are made in the [[Halloween Treats Maker]].\n\nTo make a spooky lollipop in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Popcorn.png |75px|Popcorn|link=Popcorn]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|-\n|'''x1'''\n|'''x3'''\n|}\nIt takes 10 minutes to make a lollipop, and 5 minutes in 1-star mastery machine. Each lollipop gives players 28 [[experience]] points.\n\nAdditionally, Spooky Lollipops is used to make the following [[products]]:\n{{Item Usage|Spooky Lollipops\n|Colorful Frogs|1|25\n}}\n\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 lollipops per crate, up to a total of 8 per boat. Each candy used on a boat will be rewarded with 20 [[Halloween Hat]]s, 30 halloween hats in a 2-star and 40 halloween hats in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Halloween Treats Maker Products]]\n[[Category:Popcorn Products]]\n[[Category:Egg Products]]\n\n\n{{Languages\n|es = Piruletas escalofriantes\n}}",
   "wikitextHash": "6a37fbf177d68bd60b4b32dd6a222bebec0711a462a8931a17da02df8fa28439"
 }

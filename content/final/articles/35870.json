@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bacon Products",
+    "Category:Egg Products",
+    "Category:Omelet Station Products",
+    "Category:Potato Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bacon Products",
+      "Category:Egg Products",
+      "Category:Omelet Station Products",
+      "Category:Potato Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 110151,
   "revisionTimestamp": "2026-05-20T21:21:03Z",
   "route": "/wiki/potato-omelet-35870",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potato_Omelet",
   "title": "Potato Omelet",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potato Omelet.png|left|200px]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 87\n |price = 1 to 270\n |time = 1 h 15 min\n |xp = 32\n |source = {{Infoicon|omelets|bigger|link=Omelet Station}}\n |base = 75\n |dia = 4\n |time3 = 1 h 3 min\n}}\n'''Potato Omelet''' are [[products]] unlocked at [[experience]] level 87. It was added in the July 2023 update.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Potato omelet'''===\n[[File:Omelet Station.png|150px|left|link=Omelet Station|Omelet Station]]\nPotato omelet are made in the [[Omelet Station]].\n\nTo make a dish of Potato omelet, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Potato.png|75px|Potato|link=Potato]]\n|[[File:Bacon.png|75px|Bacon|link=Bacon]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x3'''\n|}\nIt takes 1 hour 15 minutes to make a dish of Potato omelet, and 1 hour 3 minutes in a fully [[Masteries|mastered]] station. Each Potato omelet gives players 32 {{Infoicon|xp}} points.\n\n{{Clr}}\n----\n==='''Selling Potato omelet'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Potato omelet can be bought or sold for a maximum price of 2,700 {{Infoicon|Coin}} for 10 Potato omelets.\n* Buying the ingredients required to make a potato omelet costs 240 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 2 Potato omelet per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Kartoffelomelett\n|es = Tortilla de patatas\n|fr = Omelette de Pomme de Terre\n|it = Omelette di patate\n|no = Potetomelett\n|ru = Омлет с картофелем\n}}\n[[pt-br:Omelete de batata]]\n\n[[Category:Omelet Station Products|1]]\n[[Category:Egg Products]]\n[[Category:Potato Products]]\n[[Category:Bacon Products]]",
   "wikitextHash": "37fbd415435c0eefcc9c316d15da5b0c91a1f4f276f2fe715b97b8a3f2b703ba"
 }

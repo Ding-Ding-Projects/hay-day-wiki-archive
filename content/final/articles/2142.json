@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cherry Products",
+    "Category:Juice Press Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cherry Products",
+      "Category:Juice Press Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -167,11 +177,12 @@
   "revisionId": 105875,
   "revisionTimestamp": "2024-09-25T22:38:54Z",
   "route": "/wiki/cherry-juice-2142",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cherry_Juice",
   "title": "Cherry Juice",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Cherry Juice.png|left|200px|Cherry juice]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 30\n |price = 1 to 216\n |time = 2 h 30 m\n |source = {{Infoicon|juicepress|bigger|link=Juice Press}}\n |xp = 26\n |base = 60\n |dia = 6\n |time3 = 2 h 7 m\n}}\n'''Cherry juice''' is a [[Products|product]] unlocked at [[experience]] level 30.\n\nIt is used to make [[Cherry Popsicle|cherry popsicles]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making cherry juice'''===\n[[File:Juice Press.png|150px|left|Juice Press]]\nCherry juice is made in the [[Juice Press]].\n\nTo make juice, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cherry.png|75px|link=Cherry|Cherries]]\n|-\n|'''x2'''\n|}\nCherry juice takes 2 hours and 30 minutes to be produced, but only 2 hours and 7 minutes in a fully [[masteries|mastered]] press. Each bottle gives players 26 [[experience]] points.\n----\n==='''Selling cherry juice'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Cherry juice can be bought or sold for a maximum of 2,160 {{Infoicon|coin}} for 10 bottles.\n* Buying the ingredients required to make a bottle costs 136 {{Infoicon|coin}}.\n\n{{Clr}}----\n==='''Using cherry juice'''===\nCherry juice is used to make the following [[products|product]]:\n\n{{Item Usage|Cherry Juice\n|Cherry Popsicle|1|33\n|Birthday Bouquet|1|92\n}}\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 to 3 cherry juice per crate, up to a total of 12 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Kirschsaft\n|es = Zumo de cereza\n|fr = Jus de Cerise\n|it = Succo di ciliegia\n|nl = Kersensap\n|no = Kirsebærjus\n|vi = Nước ép anh đào\n|zh = Cherry Juice\n}}\n[[pt-br:Suco de cereja]]\n[[ru:Вишнёвый сок]]\n[[Category:Juice Press Products]]\n[[Category:Cherry Products]]",
   "wikitextHash": "6ef2de8caab7386a650432ce277e83d73816204c2efb152e229d657651f8d1ff"
 }

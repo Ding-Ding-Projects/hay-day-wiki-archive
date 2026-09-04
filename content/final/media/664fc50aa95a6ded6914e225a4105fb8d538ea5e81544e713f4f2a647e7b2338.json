@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_223.png",
+  "filePageId": 35860,
+  "filePageRevisionId": 103377,
+  "filePageRevisionSha1": "86c2bc9b38d7fb314a5f5f091f89c5c2f13b4a4a",
+  "filePageRevisionTimestamp": "2023-07-09T13:17:25Z",
+  "filePageWikitext": "== Summary ==\nLevel 223\n== Licensing ==\n{{License SC}}",
+  "filePageWikitextHash": "efd4ef1fef6f5e4bf80d5f637dc50792fe08b0428a3b68d2f1dcec4cf19a4f0f",
   "height": 769,
   "immutableUrl": null,
   "mediaId": "File:Level 223.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2023-07-09T13:17:25Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20223.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 2291877,
   "sourceSha1": "7a9777ff14094fd6eb9730fb563bc0c1adeeea9f",

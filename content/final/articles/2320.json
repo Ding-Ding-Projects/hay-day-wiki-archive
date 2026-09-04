@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Blackberry Products",
+    "Category:Jam Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Blackberry Products",
+      "Category:Jam Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -157,11 +167,12 @@
   "revisionId": 107791,
   "revisionTimestamp": "2025-04-13T21:21:21Z",
   "route": "/wiki/blackberry-jam-2320",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blackberry_Jam",
   "title": "Blackberry Jam",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blackberry Jam.png|200px|left|Blackberry jam]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 37\n |price = 1 to 388\n |time = 8 h\n |source = {{Infoicon|jamm|bigger|link=Jam Maker}}\n |xp = 46\n |base = 107\n |dia = 9\n |time3 = 6 h 48 min\n}}\n'''Blackberry jam''' is a [[Products|product]] unlocked at [[experience]] level 37.\n\nIt is used to make [[Jelly Beans|jelly beans]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making blackberry jam'''===\n[[File:Jam Maker.png|150px|left|Jam Maker]]\nBlackberry jam is made in the [[Jam Maker]].\n\nTo make jam, players need the following ingredient, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Blackberry.png|75px|Blackberries|link=Blackberry]]\n|-\n|'''x3'''\n|}\nIt takes 8 hours to make one jar, and 6 hours and 48 minutes in a fully [[Masteries|mastered]] maker. Each jar gives players 46 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling blackberry jam'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Blackberry jam can be bought or sold for a maximum price of 3,888 {{Infoicon|coin}} for 10 jars.\n* Buying the ingredients required to make the jam costs 246 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Using blackberry jam'''===\nBlackberry jam is used to make the following [[products|product]]:\n\n{{Item Usage|Blackberry Jam\n|Jelly Beans|1|60\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 blackberry jam per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Brombeermarmelade\n|es = Mermelada de mora\n|fr = Confiture de Mûre\n|it = Marmellata di more\n|nl = Bramenjam\n|no = Bjørnebærsyltetøy\n|ru = Ежевичное варенье\n|zh = Blackberry Jam\n}}\n[[pt-br:Geleia de amora]]\n\n[[Category:Jam Maker Products]]\n[[Category:Blackberry Products]]",
   "wikitextHash": "59c6b2ad7e0a97ef55f6de098bda39b598bafbaf217408f715122fc5bf6d09cd"
 }

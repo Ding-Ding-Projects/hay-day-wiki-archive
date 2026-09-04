@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Production Buildings"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Production Buildings"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -356,11 +364,12 @@
   "revisionId": 105601,
   "revisionTimestamp": "2024-07-21T20:24:39Z",
   "route": "/wiki/popcorn-pot-3551",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Popcorn_Pot",
   "title": "Popcorn Pot",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Popcorn Pot.png|200px|left|Popcorn Pot]]\n\n{{Infobox\n |title = [[Production Buildings|Machine]]\n |level = 8\n |price = 650\n |time = 8 h\n |slots = 2\n |dia = 29\n |size = 3×3\n}}\nThe '''Popcorn Pot''' is a [[Production Buildings|production building]] unlocked at [[experience]] level 8.\n\nIt is used to make [[popcorn]], [[Buttered Popcorn|buttered popcorn]], [[Chili Popcorn|chili popcorn]], [[Honey Popcorn|honey popcorn]], [[Chocolate Popcorn|chocolate popcorn]] and [[Snack Mix|snack mixes]].\n\n{{Clr}}\n----\n==='''Appearance'''===\nThe Popcorn Pot is a gray stove with a gray pot. A wooden table and chair are placed in front of it. The floor is tiled. It matches the look of the [[Bakery]], the [[Pie Oven]] and the [[Cake Oven]].\n\nThe mastered version gets a brass pot and a star-decorated pink tablecloth.\n----\n=== '''Building''' ===\nIt costs 650 {{Infoicon|coin}} and takes 8 hours (or 29 {{Infoicon|dia}}) to build the Popcorn Pot. It gives players 14 {{Infoicon|xp}} when completed.\n----\n=== '''Products''' ===\n{{Building Products\n|Popcorn|8|30m|32\n|Buttered Popcorn|16|1h|126\n|Chili Popcorn|25|2h|122\n|Honey Popcorn|40|1:30|360\n|Chocolate Popcorn|44|2:30/8|248/29\n|Snack Mix|64|45m|309/50\n}}\n----\n=== '''Upgrading''' ===\n{{Main|Production Buildings}}\nThe Popcorn Pot originally has two slots available. Unlocking the third slot costs 6 [[diamond]]s. Players can unlock 7 new slots in total, each new one costing 3 more {{Infoicon|dia}} than the previous one. Alternatively, they can spend a total of 105 {{Infoicon|dia}} to completely upgrade their machine.\n----\n=== '''Mastering''' ===\nA total of 650 hours of production is required to [[Masteries|master]] the Popcorn Pot:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: 1em 0; border-collapse: collapse;\"\n|-\n|rowspan=\"3\"|[[File:Popcorn Pot Mastered.png|150px|Mastered Popcorn Pot]]\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★<br />50 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★<br />150 hrs'''\n|style =\"border: 1px solid #bbb; background: #ddd;\"|'''★★★<br />450 hrs'''\n|-\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10Coins.png|100px]]\n|style =\"border: 1px solid #bbb;\"|[[File:TruckM10XP.png|100px|]]\n| style=\"border: 1px solid #bbb;\"|[[File:Popcorn Pot Mastery.png|100px]]\n|-\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more coins for truck orders\">+10% {{Infoicon|coin}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''<span title=\"10% more experience points for truck orders\">+10% {{Infoicon|xp}}</span>'''\n| style=\"border: 1px solid #bbb; background: #ddd;\" |'''15% faster'''\n|}\n----\n=== '''Strategy tips''' ===\n*[[Popcorn]] and [[Chili Popcorn|chili popcorn]] are often products requested in big quantities in [[boat]] orders. While chili popcorn is easy to find in the [[Daily Dirt]], popcorn does not come by as easily.\n* You can speed up the production of the Popcorn Pot using a green [[booster]].\n* Honey Popcorn is one of the rare products in the game and offers a good amout of xp on boat and truck orders.\n----\n[[ru:Попкорница]]\n{{Navigation}}\n{{Languages\n|de=Popcorn-Topf\n|es=Palomitera\n|fr=Marmite à Pop-Corn\n|it=Stufa per popcorn\n|no=Popkornkjele\n|sv=Popcornkastrull\n|vi=Nồi nấu bỏng ngô\n|zh=爆米花烤锅\n}}\n[[pt-br:Pipoqueira]]\n[[ru:Попкорница]]\n[[Category:Production Buildings]]",
   "wikitextHash": "18aa1ac3d808ff45998d1d329bb64f439230cb0da0c3d59c6d5f0d5dc063b3c4"
 }

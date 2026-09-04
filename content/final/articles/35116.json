@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Sugarcane_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98593,
   "revisionTimestamp": "2021-08-31T21:33:16Z",
   "route": "/wiki/category%2Fcategory-sugarcane-products-35116",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Sugarcane_Products",
   "title": "Category:Sugarcane Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Sugarcane.png|thumb]]\nProducts of [[Sugarcane]].\n[[Category:Products]]",
   "wikitextHash": "efc66d8975166d1abb2c6e7d363e79be15562028791d752d3ba9e66e87506ee8"
 }

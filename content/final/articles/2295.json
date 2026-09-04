@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Blackberry Products",
+    "Category:Egg Products",
+    "Category:Wheat Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Blackberry Products",
+      "Category:Egg Products",
+      "Category:Wheat Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -170,11 +184,12 @@
   "revisionId": 108524,
   "revisionTimestamp": "2025-09-22T18:14:42Z",
   "route": "/wiki/blackberry-muffin-2295",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blackberry_Muffin",
   "title": "Blackberry Muffin",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blackberry_Muffin.png|200px|left|Blackberry muffin]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 26\n |price = 1 to 226\n |time = 45 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 27\n |base = 63\n |dia = 3\n |time3 = 38 min\n}}\n'''Blackberry muffin''' are [[products]] unlocked at [[experience]] level 26.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}----\n==='''Making blackberry muffins'''===\n[[File:Bakery.png|150px|left|Bakery]]\nBlackberry muffins are made in the [[Bakery]].\n\nTo make a muffin, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Wheat.png|75px|link=Wheat|Wheat]]\n|[[File:Egg.png|75px|link=Egg|Eggs]]\n|[[File:Blackberry.png|75px|link=Blackberry|Blackberries]]\n|-\n|'''x1'''\n|'''x2'''\n|'''x2'''\n|}\nIt takes 45 minutes to make one muffin, and 38 minutes in a fully [[Masteries|mastered]] Bakery. Each muffin gives players 27 [[experience]] points.\n\n{{Clr}}----\n==='''Selling blackberry muffins'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Blackberry muffins can be bought or sold for a maximum price of 2,268 {{Infoicon|Coin}} for 10 muffins.\n* Buying the ingredients required to make a muffin costs 203 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 3 blackberry muffins per crate, up to a total of 9 per boat.\n\n{{Clr}}----\n{{Navigation}}\n{{Languages\n|de = Brombeer-Muffin\n|es = Magdalena de mora\n|fr = Muffin à la Mûre\n|it = Muffin alle more\n|nl = Bramenmuffin\n|no = Bjørnebærmuffins\n|ru = Кекс с ежевикой\n|vi = Bánh muffin mâm xôi tím\n|zh = Blackberry Muffin\n}}\n[[pt-br:Bolinho de amora]]\n\n[[Category:Bakery Products]]\n[[Category:Wheat Products]]\n[[Category:Blackberry Products]]\n[[Category:Egg Products]]",
   "wikitextHash": "3ad69e63b8e2fef583d36fb6d84671966ed7ee38bd9e51940de30539911905cc"
 }

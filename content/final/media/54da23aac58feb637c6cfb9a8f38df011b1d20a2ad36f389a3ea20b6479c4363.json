@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Hippo_House_Stage_2.png",
+  "filePageId": 28697,
+  "filePageRevisionId": 78097,
+  "filePageRevisionSha1": "89ba0adc7b562d91f1c956d93e073b1831ff0656",
+  "filePageRevisionTimestamp": "2018-03-30T15:05:42Z",
+  "filePageWikitext": "Original image by Xtalline.\n== Licensing ==\n{{License SC}}\n[[Category:Image Animal Shelters]]",
+  "filePageWikitextHash": "395fd8d8abea3193f86dfec4f82b20523febbe8d7f664f14cd0e31f1250c7cd8",
   "height": 355,
   "immutableUrl": null,
   "mediaId": "File:Hippo House Stage 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-31T12:17:32Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHippo%20House%20Stage%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 112202,
   "sourceSha1": "3b538d9754d71cbe19ef9c70aac38201cc44b5f0",

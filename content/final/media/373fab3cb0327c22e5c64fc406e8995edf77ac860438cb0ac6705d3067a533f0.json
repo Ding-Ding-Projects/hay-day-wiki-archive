@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Strongman.png",
+  "filePageId": 16030,
+  "filePageRevisionId": 89330,
+  "filePageRevisionSha1": "e70c5a0fb375f6ad0884521fb6b733d99c9c088a",
+  "filePageRevisionTimestamp": "2019-10-28T16:20:39Z",
+  "filePageWikitext": "Picture of the Strongman.\n{{License SC}}\n[[Category:Image NPC]]",
+  "filePageWikitextHash": "0a8d52f1c97a423f2f2d4ee141ebe1eb26fb04ac4d431d15af38d4bafa1ad523",
   "height": 682,
   "immutableUrl": null,
   "mediaId": "File:Strongman.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-28T16:20:39Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AStrongman.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 322982,
   "sourceSha1": "2b65906a0f84aac02db751904a652c91bb2a6dab",

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Chickpea_Stage_1.png",
+  "filePageId": 35415,
+  "filePageRevisionId": 100679,
+  "filePageRevisionSha1": "1e5afcda2e599449026cb10109d235521530418f",
+  "filePageRevisionTimestamp": "2022-04-26T20:01:28Z",
+  "filePageWikitext": "\n== Licensing ==\n{{License SC}}\n[[Category:Image Crops]]",
+  "filePageWikitextHash": "6aea416f2ad88dfdf62ca5fe99fefc4f8bb32f14f28ec6b90fc2b24238d5740d",
   "height": 600,
   "immutableUrl": null,
   "mediaId": "File:Chickpea Stage 1.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2022-04-26T19:59:53Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AChickpea%20Stage%201.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 143388,
   "sourceSha1": "1b5225eb5f29d7e65c53fae862e067901f1a4864",

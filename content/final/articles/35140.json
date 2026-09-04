@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Potato_Bread_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98641,
   "revisionTimestamp": "2021-09-06T22:42:40Z",
   "route": "/wiki/category%2Fcategory-potato-bread-products-35140",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Potato_Bread_Products",
   "title": "Category:Potato Bread Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Potato Bread.png|thumb]]\nProducts of [[Potato Bread]].\n[[Category:Products]]",
   "wikitextHash": "4cb67a89b4199dd62af1965fd31e8fb3bf56888c165ac00eab86433c8dca8922"
 }

@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Egg.png",
+  "filePageId": 17551,
+  "filePageRevisionId": 88930,
+  "filePageRevisionSha1": "b61bb5554666365a09e7ac1b5641eb1ac1570cf3",
+  "filePageRevisionTimestamp": "2019-10-25T19:34:20Z",
+  "filePageWikitext": "Picture of an egg.\n{{License SC}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "ed73634cd387b585d3e4c0f6c87b6f6869a8b0e13b94144278acfa53a0ae08ff",
   "height": 140,
   "immutableUrl": null,
   "mediaId": "File:Egg.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 72,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T19:34:20Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AEgg.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 17574,
   "sourceSha1": "9b59720ceaa74e100111a76c064f5ac84dd29df3",

@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Images"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Images"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Image_Themes?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 69680,
   "revisionTimestamp": "2017-02-06T22:03:25Z",
   "route": "/wiki/category%2Fcategory-image-themes-26927",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Image_Themes",
   "title": "Category:Image Themes",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Images related to [[Themes]].\n[[Category:Images]]",
   "wikitextHash": "63ec2c61d7a3778ba57833dedee4658334fc61186876b9966a0c6b78434e819d"
 }

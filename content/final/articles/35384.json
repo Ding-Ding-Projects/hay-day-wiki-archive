@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chickpea Products",
+    "Category:Garlic Products",
+    "Category:Lemon Products",
+    "Category:Sauce Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chickpea Products",
+      "Category:Garlic Products",
+      "Category:Lemon Products",
+      "Category:Sauce Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -162,11 +176,12 @@
   "revisionId": 109915,
   "revisionTimestamp": "2026-05-09T23:07:51Z",
   "route": "/wiki/hummus-35384",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Hummus",
   "title": "Hummus",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Hummus.png|200px|left|Hummus]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 95\n |price = 1 to 277\n |time = 30 min\n |source = {{Infoicon|saucem|bigger|link=Sauce Maker}}\n |xp = 33\n |base = 77\n |dia = 3\n |time3 = 25 min\n}}\n'''Hummus''' is a [[Products|product]] unlocked at [[experience]] level 95.\n\nIt is used to make [[Hummus Wrap|hummus wrap]].\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making hummus'''===\n[[File:Sauce Maker.png|150px|left|Sauce Maker]]\nHummus is made in the [[Sauce Maker]].\n\nTo make the sauce, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chickpea.png|75px|Chickpea|link=Chickpea]]\n|[[File:Lemon.png|75px|Lemon|link=Lemon]]\n|[[File:Garlic.png|75px|Garlic|link=Garlic]]\n|-\n|'''x3'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 30 minutes to make one serving of hummus, and 25 minutes in a fully [[Masteries|mastered]] maker. Each serving gives players 33 [[experience]] points.\n\n{{Clr}}----\n==='''Selling hummus'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Hummus can be bought or sold for a maximum price of 2,772 {{Infoicon|Coin}} for 10 servings.\n* Buying the ingredients required to make hummus costs 254 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Using hummus'''===\nHummus is used to make the following [[products]]:\n\n{{Item Usage|Hummus\n|Hummus Wrap|1|109\n}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 2 hummus per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n\n{{Navigation}}\n{{Languages\n|de = Hummus\n|es = Hummus\n|fr = Houmous\n|it = Hummus\n|nl = Hummus\n|no = Hummus\n|ru = Хумус\n|zh = Hummus\n}}\n[[pt-br:Hummus]]\n\n[[Category:Sauce Maker Products]]\n[[Category:Chickpea Products]]\n[[Category:Garlic Products]]\n[[Category:Lemon Products]]",
   "wikitextHash": "b49de6d2fc58ede916604308af98747e6be349337b83056ca742a23d05b3e29a"
 }

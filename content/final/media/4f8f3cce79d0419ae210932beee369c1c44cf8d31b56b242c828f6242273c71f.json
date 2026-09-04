@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Level_186.png",
+  "filePageId": 34479,
+  "filePageRevisionId": 98232,
+  "filePageRevisionSha1": "13b7472d70825a731c4e6cce0cc861acb0c1a20a",
+  "filePageRevisionTimestamp": "2021-07-15T22:06:27Z",
+  "filePageWikitext": "== Summary ==\nLevel 186 banner\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "0c31cbc12ca97431f7bfabe7c551460a3584e6064500432c9859ded1546cfa5b",
   "height": 359,
   "immutableUrl": null,
   "mediaId": "File:Level 186.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2020-09-09T13:36:56Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ALevel%20186.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 608106,
   "sourceSha1": "f5067bba7065ddc67b863fe6f5c82e17cab1577a",

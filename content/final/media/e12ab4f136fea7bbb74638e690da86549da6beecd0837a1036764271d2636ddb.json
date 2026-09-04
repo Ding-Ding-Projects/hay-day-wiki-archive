@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Milk.png",
+  "filePageId": 2265,
+  "filePageRevisionId": 88931,
+  "filePageRevisionSha1": "4d3e6d75ac5516a664f4560b30994fdb82717de1",
+  "filePageRevisionTimestamp": "2019-10-25T19:34:27Z",
+  "filePageWikitext": "{{License SC}}\n[[Category:Image Animal Goods]]",
+  "filePageWikitextHash": "8b8527c08599e45e91b17f7d970a5a4cb0f65c51b80d446c6eb6dbd50292a0b9",
   "height": 185,
   "immutableUrl": null,
   "mediaId": "File:Milk.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 51,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-25T19:34:27Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AMilk.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 37254,
   "sourceSha1": "931cea61766e7c32d78da783c3c009f00f42ea8c",

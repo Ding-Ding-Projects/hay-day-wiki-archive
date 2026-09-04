@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Pineapple_Cake.png",
+  "filePageId": 30989,
+  "filePageRevisionId": 104958,
+  "filePageRevisionSha1": "a4eb0a102ae97e97f9dc300f52ece5dd48e21fad",
+  "filePageRevisionTimestamp": "2024-02-23T07:45:41Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Products]]",
+  "filePageWikitextHash": "09bd7622461deb6857525fbe90d53c1a4fd2d65af541b574ea8b0c473921462b",
   "height": 587,
   "immutableUrl": null,
   "mediaId": "File:Pineapple Cake.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 22,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-23T07:45:41Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3APineapple%20Cake.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 254059,
   "sourceSha1": "14d56bd6ecb8567f36bd6916bb22d0864c8fb12f",

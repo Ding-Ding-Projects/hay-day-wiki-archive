@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Olive_Tree_Stage_2.png",
+  "filePageId": 29230,
+  "filePageRevisionId": 77606,
+  "filePageRevisionSha1": "1dea26bb4a6b98ec3f5ef55be53508a749179146",
+  "filePageRevisionTimestamp": "2018-02-17T15:44:02Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Trees and Bushes]]",
+  "filePageWikitextHash": "d14e287cddf242ab2efcf9c4ce10e1bd9a812d8c7be02f9c4ed7aa64531ae823",
   "height": 335,
   "immutableUrl": null,
   "mediaId": "File:Olive Tree Stage 2.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2018-02-17T15:43:52Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AOlive%20Tree%20Stage%202.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 130113,
   "sourceSha1": "2600acac5cb33da7850dd2ab1b95a3e4f52ddd43",

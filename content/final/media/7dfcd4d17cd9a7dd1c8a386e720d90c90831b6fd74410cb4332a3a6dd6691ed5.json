@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Town_Hall.png",
+  "filePageId": 14989,
+  "filePageRevisionId": 89023,
+  "filePageRevisionSha1": "660207e4934eb900c7e6b11c94c05db5ba24ba82",
+  "filePageRevisionTimestamp": "2019-10-26T01:59:15Z",
+  "filePageWikitext": "Picture of the Town Hall, once you've upgraded it twice (15 visitors). Bell and other small elements at the top now appear golden.\n{{License SC}}\n[[Category:Image_Town]]",
+  "filePageWikitextHash": "30c8204865ed258c81d010ad4953c3be0cbeaaf4a2a0bd45e02fb5a53cda0867",
   "height": 741,
   "immutableUrl": null,
   "mediaId": "File:Town Hall.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 11,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2019-10-26T01:59:15Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ATown%20Hall.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 540601,
   "sourceSha1": "1d02a6ca1ca568354f9cfdba25a51cb390737889",

@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Cuke?action=history",
@@ -31,11 +35,12 @@
   "revisionId": 90855,
   "revisionTimestamp": "2020-03-10T22:24:57Z",
   "route": "/wiki/cuke-32687",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Cuke",
   "title": "Cuke",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "#redirect [[Cucumber]]",
   "wikitextHash": "fb4822895b8c2198cc976071d632a011235f6e48a318eb6435f8e8fdf592dc5b"
 }

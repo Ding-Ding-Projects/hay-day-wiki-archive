@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 94486,
   "revisionTimestamp": "2020-06-29T17:01:28Z",
   "route": "/wiki/category%2Fcategory-deep-fryer-products-33991",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Deep_Fryer_Products",
   "title": "Category:Deep Fryer Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Deep Fryer.png|thumb]]\nProducts of the [[Deep Fryer]].\n[[Category:Products]]",
   "wikitextHash": "18aa58887c7675c9a598a1a7e46aecf0197b9f621741d5e77fb0fd7eb5638352"
 }

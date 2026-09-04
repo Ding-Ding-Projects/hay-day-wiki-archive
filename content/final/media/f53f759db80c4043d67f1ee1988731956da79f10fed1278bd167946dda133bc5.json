@@ -1,0 +1,52 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Golden_Tree_Sequence_4.jpg",
+  "filePageId": 21059,
+  "filePageRevisionId": 74042,
+  "filePageRevisionSha1": "83bca7e9dadd2d08c3540393fd751a91d81c77a9",
+  "filePageRevisionTimestamp": "2017-10-22T09:59:05Z",
+  "filePageWikitext": "[[Category:Image Decos]]",
+  "filePageWikitextHash": "85592af19c95fa2b739764ff7ac468f42962fa20c8b008e04b57b6010637485d",
+  "height": 625,
+  "immutableUrl": null,
+  "mediaId": "File:Golden Tree Sequence 4.jpg",
+  "mediaType": "BITMAP",
+  "mime": "image/jpeg",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2015-07-14T20:19:36Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [],
+    "verdict": "no-file-page-evidence"
+  },
+  "route": "/media/File%3AGolden%20Tree%20Sequence%204.jpg",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 66974,
+  "sourceSha1": "7cfcb47dd98a8c8d82cbd991c4a69112a6d8a330",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/c/c7/Golden_Tree_Sequence_4.jpg/revision/latest?cb=20150714201936",
+  "title": "File:Golden Tree Sequence 4.jpg",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 800
+}

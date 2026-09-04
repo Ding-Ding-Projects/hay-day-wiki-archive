@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Net Maker Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Net Maker Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -119,11 +127,12 @@
   "revisionId": 107451,
   "revisionTimestamp": "2025-02-28T11:21:47Z",
   "route": "/wiki/duck-trap-17075",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Duck_Trap",
   "title": "Duck Trap",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Duck Trap.png|200px|left|Duck trap]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 50\n |time = 1 h\n |source = {{Infoicon|netm|bigger|link=Net Maker}}\n |xp = 3\n |dia = ?\n |time3 = 51 min\n}}\n'''Duck traps''' are [[products]] unlocked at [[experience]] level 50.\n\nThey are used to catch [[duck]]s.\n\nLike all fishing gear, they are stored in the [[Tackle Box|tackle box]] and cannot be bought or sold.\n\n{{Clr}}----\n==='''Making duck traps'''===\n[[File:Net Maker.png|150px|left|Net Maker]]\nDuck traps are made in the [[Net Maker]]. Players do not need anything to make them.\n\nIt takes 1 hour to make a trap, and 51 minutes in a fully [[Masteries|mastered]] machine. Each trap gives players 3 [[experience]] points.\n\n{{Clr}}----\n==='''Using duck traps'''===\n[[File:Duck.png|150px|left|Duck]]\nTraps must remain in the water for 2 hours (or 5 [[diamond]]s) before players can pull them. No experience points are awarded at this time. Traps cannot be pulled if the [[Duck Salon]] is being repaired or upgraded, or if there is no room in the salon.\n\nWhen the trap is pulled the [[duck]] is placed immediately into the Duck Salon but it will take another 3 hours (or 6 [[diamond]]s) until players can collect its feather. The duck goes back into the water after that.\n\nEach trap catches 1 duck, and the fishing spot can be reused right away - there's no cooldown time after using a trap. There are no [[Fishing Book|fishing book]] rewards for catching ducks.\n\n{{Clr}}----\n==='''Achievements'''===\n{{Main|Achievements}}\nCatching ducks allows players to complete the 'Duck Salon' and 'Beauty Salon' achievements.\n----\n{{Navigation}}\n{{Languages\n|de = Entenfalle\n|es = Trampa para patos\n|fr = Piège à Canard\n|it = Trappola per anatre\n|nl = Eendenval\n|no = Andefelle\n}}\n[[ru:Утиная ловушка]]\n\n[[Category:Net Maker Products]]",
   "wikitextHash": "275b50e872550b50190e3db0c5a35d5e63b354d4d15ca3f47aedc526a17065b3"
 }

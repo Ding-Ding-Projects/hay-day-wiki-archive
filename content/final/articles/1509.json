@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Site Administration"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Site Administration"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion?action=history",
@@ -31,11 +39,12 @@
   "revisionId": 89062,
   "revisionTimestamp": "2019-10-26T04:15:13Z",
   "route": "/wiki/category%2Fcategory-candidates-for-deletion-1509",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Candidates_for_deletion",
   "title": "Category:Candidates for deletion",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "This is a maintenance category for pages which are candidates for deletion. Discussions should be had at [[:Category talk:Candidates for deletion]].\n[[Category:Site Administration]]",
   "wikitextHash": "6bc96f3148fafab7e3afcbbc26c3a4de921bc0bbe17cb7a2871f315597288fd1"
 }

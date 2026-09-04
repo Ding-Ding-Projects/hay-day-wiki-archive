@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Berries",
+    "Category:Bush Crops"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Berries",
+      "Category:Bush Crops"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -257,11 +267,12 @@
   "revisionId": 108838,
   "revisionTimestamp": "2025-10-25T10:49:34Z",
   "route": "/wiki/blackberry-2247",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blackberry",
   "title": "Blackberry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blackberry.png|200px|left|Blackberry]]\n{{Infobox\n |title = [[Crops|Crop]]\n |level = 26\n |price = 1 to 82\n |time = 1 d 8 h\n |xp = 16\n |source = {{Infoicon|blackb|bigger|link=Blackberry Bush}}\n |base = 23\n |dia = 16\n}}\n'''Blackberries''' are fruit [[crops]] unlocked at [[experience]] level 26. They grow on [[Blackberry Bush|blackberry bushes]] and can be harvested four times.\n\nThey are used as ingredients in several [[products]].\n\nLike all crops, they are stored in the [[silo]].\n{{Clr}}\n----\n==='''Harvesting blackberries'''===\n[[File:Blackberry Bush.png|150px|left|link=Blackberry Bush|Blackberry bush]]\nThe first harvest gives two blackberries, the second one three, and the other two four. After the third harvest the bush wilts.\n\nTapping on the bush places a sign on it letting other players know the bush needs to be revived. Once it is, a last harvest can be done before the bush dies. An [[axe]] is then required to cut it.\n{{Clr}}\n----\n==='''Selling blackberries'''===\n[[File:Roadside Shop.png|150px|left|link=Roadside Shop|Roadside Shop]]\n* Blackberries can be sold or bought for a maximum price of 828 {{Infoicon|coin}} for ten berries.\n* Buying a blackberry bush costs 530 {{Infoicon|coin}}.\n* Given all 13 blackberries are collected during the four harvests, the batch can be sold for 1,076 {{Infoicon|coin}}, thus giving a profit of 546 {{Infoicon|coin}} per bush.\n{{Clr}}\n----\n==='''Using blackberries'''===\nBlackberries are used to make the following [[products]]:\n{{Item Usage|Blackberry\n|Blackberry Muffin|2|26\n|Berry Juice|1|31\n|Blackberry Jam|3|37\n|Berry Smoothie|3|64\n|Flower Shawl|1|71\n|Fruit Salad|2|82\n|Banana Pancakes|2|94\n|Berry Waffles|2|114\n|Breakfast Bowl|2|119}}\n\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|link=Boat|Riverboat]]\n* [[Boat]] orders ask for 4 to 6 blackberries per crate, up to a total of 24 per boat.\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Each bush gives a maximum of 13 blackberries in 5 days minimum. \n* Blackberries are the least profitable bush crop on an hourly basis, earning only 4.1 coins per hour. However, on a per-axe basis, they are more profitable than raspberries, coffee, or blueberries, making them useful for coin farming if you have enough axes and no space constraints.\n* Although blackberries can occasionally be found in the [[Daily Dirt]] you shouldn't expect to get them there. They are rare enough that selling them at maximum price is recommended.\n* Recipes ask for 1 to 3 blackberries so you need to have several extra bushes to cover your needs. Extras can also be useful if you have [[boat]]s with blackberry crates. However, make sure you have enough [[axe]]s when you harvest some if you don't want to have dead bushes on your farm.\n* Tight ranks of bushes attract [[Animals|foxes]]. If it's an issue space them out a bit.\n* Saving revivable bushes and trees is an easy way to achieve help tasks during [[Derby|derbies]]. [[Neighborhood|Neighbors]] and [[friends]] can help by waiting until you have started your task to flag their dead plants.\n----\n\n{{Navigation}}\n{{Languages\n|de = Brombeere\n|es = Mora\n|fr = Mûre\n|it = Mora\n|no = Bjørnebær\n|ru = Ежевика\n|vi = Blackberry\n|zh = Blackberry\n}}\n[[pt-br:Amora]]\n\n[[Category:Bush Crops]]\n[[Category:Berries]]",
   "wikitextHash": "275e022bc363a8f31e7831d95a39e7fe2a25d8788d0df8867288f29da3f05a37"
 }

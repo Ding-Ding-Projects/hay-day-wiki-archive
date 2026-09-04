@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cotton Fabric Products",
+    "Category:Duck Feather Products",
+    "Category:Pumpkin Products",
+    "Category:Sewing Machine Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cotton Fabric Products",
+      "Category:Duck Feather Products",
+      "Category:Pumpkin Products",
+      "Category:Sewing Machine Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -141,11 +155,12 @@
   "revisionId": 108887,
   "revisionTimestamp": "2025-10-27T21:58:38Z",
   "route": "/wiki/blanket-17005",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Blanket",
   "title": "Blanket",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Blanket.png|200px|left|Blanket]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 59\n |price = 1 to 1098\n |time = 3 h 30 min\n |source = {{Infoicon|SewingM|bigger|link=Sewing Machine}}\n |xp = 131\n |base = 305\n |dia = 6\n |time3 = 2 h 58 min\n}}\n'''Blankets''' are [[products]] unlocked at [[experience]] level 59.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making blankets'''===\n[[File:Sewing Machine.png|150px|left|Sewing Machine]]\nBlankets are made in the [[Sewing Machine]].\n\nTo make a blanket, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cotton Fabric.png|75px|link=Cotton Fabric|Cotton fabric]]\n|[[File:Pumpkin.png|75px|link=Pumpkin|Pumpkin]]\n|[[File:Duck Feather.png|75px|link=Duck Feather|Duck feathers]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x5'''\n|}\nIt takes 3 hours 30 minutes to make a blanket, and 2 hours and 58 minutes in a fully [[Masteries|mastered]] machine. Each blanket gives players 131 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling blankets'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Blanket can be bought or sold for a maximum price of 10,980 {{Infoicon|coin}} for 10 blankets.\n* Buying the ingredients required to make a blanket costs 1,056 {{Infoicon|coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 blanket per crate, up to a total of 4 per boat.\n\n{{Clr}}\n----\n==='''Strategy tips'''===\n* Blankets were once the most expensive products in Hay Day.  They were overtaken when [[Peanut Fudge]] was introduced as part of the April 2022 update, but still remain the most expensive product available until level 111.\n----\n\n{{Navigation}}\n{{Languages\n|de = Decke\n|es = Manta\n|fr = Couverture\n|it = Coperta\n|nl = Deken\n|no = Dyne\n|ru = Одеяло\n|zh = Blanket\n}}\n[[pt-br:Manta]]\n\n[[Category:Sewing Machine Products]]\n[[Category:Pumpkin Products]]\n[[Category:Cotton Fabric Products]]\n[[Category:Duck Feather Products]]",
   "wikitextHash": "9dbe1114b7fb75389dde4924976f349ee73fb5421172f0669cfbb9d6bc11108d"
 }

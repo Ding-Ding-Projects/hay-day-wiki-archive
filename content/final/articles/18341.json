@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Animal Shelters"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Animal Shelters"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -174,11 +182,12 @@
   "revisionId": 110488,
   "revisionTimestamp": "2026-06-08T20:02:11Z",
   "route": "/wiki/kitten-house-18341",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Kitten_House",
   "title": "Kitten House",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Kitten House.png|200px|left|Kitten house]]\n{{Infobox\n |title = [[Animal Shelters|Animal Shelter]]\n |level = 49, 58\n |price = 35,000\n |houses = {{Infoicon|tabbyk|big|link=Tabby Kitten}}{{Infoicon|calicok|big|link=Calico Kitten}}{{Infoicon|tuxedok|big|link=Tuxedo Kitten}} x3\n}}\n'''Kitten houses''' are shelters for [[:Category:Kittens|kittens]]. They are unlocked at [[experience]] level 49.\n{{Clr}}\n----\n==='''Appearance'''===\nThe house is a red and yellow cat bed with some toys next to it. However, kittens never go into the bed or play with their toys. They eat and sleep in front of the bed.\n----\n==='''Building'''===\nEach house costs 35,000 {{Infoicon|coin}} and can hold up to three kittens. Players can have up to two kitten houses. Building them takes no time.\n----\n{{Navigation}}\n{{Languages\n|de = Kätzchenhütte\n|es = Lecho para gatitos\n|fr = Abri pour chatons\n|it = Cuccia per gattini\n|no = Kattungehus\n}}\n[[Category:Animal Shelters]]",
   "wikitextHash": "1299bb4d8e149314971bd4e11c738f501c8247692dd9ea040106b4084fc68cbf"
 }

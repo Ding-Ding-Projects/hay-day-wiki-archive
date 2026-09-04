@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bread Products",
+    "Category:Egg Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Sugarcane Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bread Products",
+      "Category:Egg Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Sugarcane Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -98,11 +112,12 @@
   "revisionId": 108972,
   "revisionTimestamp": "2025-12-19T21:08:48Z",
   "route": "/wiki/snowman-gift-36480",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Snowman_Gift",
   "title": "Snowman Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Snowman Gift.png|200px|left|Snowman Gift]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 17\n |holly = 15\n |time = 10m\n |source = {{Infoicon|giftwrappings|bigger|link=Gift Wrapping Station}}\n |xp = 48\n |dia = 10\n}}\n'''Snowman Gift''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Christmas 2025 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Snowman Gift'''===\n[[File:Gift Wrapping Station.png|150px|left|Gift Wrapping Station]]\nStarry gift are made in the [[Gift Wrapping Station]].\n\nTo make a snowman gift in 2025, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Sugarcane.png |75px|Sugarcane|link=Sugarcane]]\n|[[File:Egg.png|75px|Egg|link=Egg]]\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|-\n|'''x5'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 10 minutes to make a gift. Each gift gives players 48 [[experience]] points.\n\nAdditionally, Snowman gift is used to make the following [[products]]:\n{{Item Usage|Snowman Gift\n|Piggy Gift|1|75\n}}\n\n\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 gifts per crate, up to a total of 8 per boat. Each candy used on a boat will be rewarded with 10 [[Holly]]s, 11 hollys in a 1-star, 14 hollys in a 2-star, and 20 hollys in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Regalo de muñeco de nieve\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Sugarcane Products]]\n[[Category:Egg Products]]\n[[Category:Bread Products]]",
   "wikitextHash": "4bb868faaacbf6bf93caefbb8b2f6f23fa6cd7fcd7c6ecb0410e4cb35d7fc0a8"
 }

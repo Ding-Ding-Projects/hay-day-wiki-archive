@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Bakery Products",
+    "Category:Butter Products",
+    "Category:Egg Products",
+    "Category:Potato Products",
+    "Category:White Sugar Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Bakery Products",
+      "Category:Butter Products",
+      "Category:Egg Products",
+      "Category:Potato Products",
+      "Category:White Sugar Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -187,11 +203,12 @@
   "revisionId": 106134,
   "revisionTimestamp": "2024-10-28T22:06:52Z",
   "route": "/wiki/potato-bread-2707",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Potato_Bread",
   "title": "Potato Bread",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Potato Bread.png|200px|left|Potato bread]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 39\n |price = 1 to 284\n |time = 45 min\n |source = {{Infoicon|Bakery|bigger|link=Bakery}}\n |xp = 34\n |base = 79\n |time3 = 38 min\n |dia = 3\n}}\n'''Potato bread''' is a [[Products|product]] unlocked at [[experience]] level 39.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}----\n==='''Making potato bread'''===\n[[File:Bakery.png|150px|left|Bakery]]\nPotato bread is made in the [[Bakery]].\n\nTo make potato bread, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Potato.png|75px|Potatoes|link=Potato]]\n|[[File:White Sugar.png|75px|White sugar|link=White Sugar]]\n|[[File:Egg.png|75px|Eggs|link=Egg]]\n|[[File:Butter.png|75px|Butter|link=Butter]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 45 minutes to make one unit, and 38 minutes in a fully [[Masteries|mastered]] Bakery. Each piece gives players 34 [[experience]] points.\n\n{{Clr}}----\n==='''Selling potato bread'''===\n[[File:Roadside Shop.png|150px|left|Roadside Shop]]\n* Potato bread can be bought or sold for a maximum price of 2,844 {{Infoicon|Coin}} for 10 units.\n* Buying the ingredients required to make potato bread costs 258 {{Infoicon|Coin}}.\n\n{{Clr}}----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 potato bread per crate, up to a total of 8 per boat.\n\n{{Clr}}----\n==='''Using potato bread'''===\nPotato bread is used to make the following [[products|product]]:\n\n{{Item Usage|Potato Bread\n|Cheese Fondue|1|91\n}}\n{{Navigation}}\n{{Languages\n|de = Kartoffelbrot\n|es = Pan de patata\n|fr = Pain à la Patate\n|it = Pane di patate\n|nl = Aardappelbrood\n|no = Potetbrød\n|vi = Bánh mì khoai tây\n|zh = Potato Bread\n}}\n[[pt-br:Pão de batata]]\n[[ru:Картофельный хлеб]]\n[[Category:Bakery Products]]\n[[Category:Egg Products]]\n[[Category:Butter Products]]\n[[Category:White Sugar Products]]\n[[Category:Potato Products]]",
   "wikitextHash": "d3e11a2fd533feda222aca4bf02ef9f5d3afbadb8b2ed02a9fd7835197084a20"
 }

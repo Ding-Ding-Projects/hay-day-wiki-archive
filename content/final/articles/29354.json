@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Coffee Bean Products",
+    "Category:Coffee Kiosk Products",
+    "Category:Milk Products",
+    "Category:Toffee Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Coffee Bean Products",
+      "Category:Coffee Kiosk Products",
+      "Category:Milk Products",
+      "Category:Toffee Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -135,11 +149,12 @@
   "revisionId": 107134,
   "revisionTimestamp": "2025-02-04T21:33:41Z",
   "route": "/wiki/caramel-latte-29354",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Caramel_Latte",
   "title": "Caramel Latte",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Caramel Latte.png|200px|left|Caramel latte]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 62\n |price = 1 to 345\n |time = 15 min\n |source = {{Infoicon|CoffeeK|bigger|link=Coffee Kiosk}}\n |xp = 41\n |base = 96\n |dia = 2\n |time3 = 12 min\n}}\n'''Caramel lattes''' are [[products]] unlocked at [[experience]] level 62.\n\nLike all [[products]], they are stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making caramel lattes'''===\n[[File:Coffee Kiosk.png|150px|left|Coffee Kiosk]]\nCaramel lattes are made in the [[Coffee Kiosk]].\n\nTo make a latte, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Coffee Bean.png|75px|Coffee beans|link=Coffee Bean]]\n|[[File:Toffee.png|75px|Toffee|link=Toffee]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x2'''\n|'''x1'''\n|'''x1'''\n|}\nIt takes 15 minutes to make one cup, and 12 minutes in a fully [[Masteries|mastered]] kiosk. Each cup gives players 41 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling caramel lattes'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Caramel lattes can be bought or sold for a maximum price of 3,456 {{Infoicon|Coin}} for 10 lattes.\n* Buying the ingredients required to make a latte costs 336 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 to 2 caramel lattes per crate, up to a total of 8 per boat.\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|de = Latte Macchiato mit Karamell\n|es = Latte caramelo\n|fr = Latte au Caramel\n|it = Caffellatte al caramello\n|nl = Karamel Latte\n|no = Karamell-latte\n|zh = Caramel Latte\n}}\n[[pt-br:Latte de caramelo]]\n[[ru:Карамельное латте]]\n\n[[Category:Coffee Kiosk Products]]\n[[Category:Milk Products]]\n[[Category:Coffee Bean Products]]\n[[Category:Toffee Products]]",
   "wikitextHash": "32db8cb43a8105b2faa7ee9cb765da55d23f1665c563c082bae686d846180151"
 }

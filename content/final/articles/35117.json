@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Juice_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98594,
   "revisionTimestamp": "2021-08-31T21:33:31Z",
   "route": "/wiki/category%2Fcategory-cherry-juice-products-35117",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Cherry_Juice_Products",
   "title": "Category:Cherry Juice Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Cherry Juice.png|thumb]]\nProducts of [[Cherry Juice]].\n[[Category:Products]]",
   "wikitextHash": "9535ceb069a5eb58b4bb098f65d7dd46351ff69e717db408d6d79baa8e018184"
 }

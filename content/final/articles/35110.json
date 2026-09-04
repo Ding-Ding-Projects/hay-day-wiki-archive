@@ -12,7 +12,15 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Mayonnaise_Products?action=history",
@@ -33,11 +41,12 @@
   "revisionId": 98587,
   "revisionTimestamp": "2021-08-31T21:26:36Z",
   "route": "/wiki/category%2Fcategory-mayonnaise-products-35110",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Mayonnaise_Products",
   "title": "Category:Mayonnaise Products",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "[[File:Mayonnaise.png|thumb]]\nProducts of [[Mayonnaise]].\n[[Category:Products]]",
   "wikitextHash": "4724808804a01876ae3b59fd9507b066a55be22378ad0bdd65ce18ef76fab83b"
 }

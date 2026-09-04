@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Cookie Products",
+    "Category:Gift Wrapping Station Products",
+    "Category:Milk Products",
+    "Category:Pumpkin Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Cookie Products",
+      "Category:Gift Wrapping Station Products",
+      "Category:Milk Products",
+      "Category:Pumpkin Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -136,11 +150,12 @@
   "revisionId": 106597,
   "revisionTimestamp": "2024-12-10T19:13:31Z",
   "route": "/wiki/round-gift-35998",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Round_Gift",
   "title": "Round Gift",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}[[File:Round Gift.png|200px|left|Round Gift|link=Special:FilePath/Round Gift.png]]{{Infobox\n |title = [[Products|Product]]\n |holly = 20\n |level = 17\n |time = 45m\n |source = {{Infoicon|giftwrappings2023|bigger|link=Gift Wrapping Station}}\n |xp =\n |dia = 3\n |time3 = 39 m\n}}'''Round Gift''' is a [[products|product]] unlocked at [[experience]] level 17. It's a special item used only for the Christmas 2023 event.\n\nLike all [[products]], it is stored in the [[barn]].\n{{Clr}}\n----\n==='''Making Round Gifts'''===\n[[File:Gift Wrapping Station 2023.png|150px|left|Gift Wrapping Station|link=Special:FilePath/Gift_Wrapping_Station_2023.png]]Round Gifts are made in the [[Gift Wrapping Station]].\n\nTo make a round gift, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Cookie.png|75px|Cookie|link=Cookie]]\n|[[File:Pumpkin.png|75px|Pumpkin|link=Pumpkin]]\n|[[File:Milk.png|75px|Milk|link=Milk]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}It takes 45 minutes to make one gift, and 39 minutes in a fully [[Masteries|mastered]] station. Each gift gives players XX [[experience]] points.\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n*[[Boat]] orders ask for 1 to 2 gifts per crate, up to a total of 8 per boat. Each gift used on a boat will be rewarded with 20 [[holly]].\n{{Clr}}\n----\n{{Navigation}}\n{{Languages\n|de = Rundes Geschenk\n|es = Regalo redondo\n}}\n[[Category:Gift Wrapping Station Products]]\n[[Category:Cookie Products]]\n[[Category:Pumpkin Products]]\n[[Category:Milk Products]]",
   "wikitextHash": "0660262493ef6e1b27a893e66f5adfddbe372fcf761bda3275f2d91d72ab9434"
 }

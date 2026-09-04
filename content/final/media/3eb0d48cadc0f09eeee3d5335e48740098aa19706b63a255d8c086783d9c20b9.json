@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Halloween_Ghost.png",
+  "filePageId": 28644,
+  "filePageRevisionId": 74614,
+  "filePageRevisionSha1": "064e13cd3244355d85fe893dd4abc31c1a0f0984",
+  "filePageRevisionTimestamp": "2017-10-24T18:23:52Z",
+  "filePageWikitext": "== Licensing ==\n{{License SC}}\n[[Category:Image Themes]]",
+  "filePageWikitextHash": "d7da0445f9ebe270c0a444c53d2053940bacf63d104b42a3e486ffd091f57d1d",
   "height": 523,
   "immutableUrl": null,
   "mediaId": "File:Halloween Ghost.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 2,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2017-10-24T18:23:06Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AHalloween%20Ghost.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 150109,
   "sourceSha1": "6dc29241a73cf86ce2831fe616392a189745eccc",

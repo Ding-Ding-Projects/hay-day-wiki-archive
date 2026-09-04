@@ -1,0 +1,54 @@
+{
+  "attribution": {
+    "artist": null,
+    "credit": null,
+    "license": null,
+    "usageTerms": null
+  },
+  "consentRequired": false,
+  "descriptionUrl": "https://hayday.fandom.com/wiki/File:Easter_Egg_Grass.png",
+  "filePageId": 33668,
+  "filePageRevisionId": 99871,
+  "filePageRevisionSha1": "9cbd9afc71a8af1fd23c85a3a87dbb27144af0c2",
+  "filePageRevisionTimestamp": "2021-12-16T21:56:34Z",
+  "filePageWikitext": "== Summary ==\nDecoration found on Greg's farm during the Easter 2020 egg hunt.\n== Licensing ==\n{{License SC}}\n[[Category:Image Decos]]",
+  "filePageWikitextHash": "07a9ff35e83f3961a8d18beaea9ebf489da01cd42c0e0091b09845b79fd8f5e0",
+  "height": 379,
+  "immutableUrl": null,
+  "mediaId": "File:Easter Egg Grass.png",
+  "mediaType": "BITMAP",
+  "mime": "image/png",
+  "referenceCount": 0,
+  "reuseEligible": false,
+  "revisionId": null,
+  "revisionTimestamp": "2020-04-28T13:14:03Z",
+  "rights": {
+    "artist": null,
+    "attribution": null,
+    "credit": null,
+    "license": null,
+    "licenseUrl": null,
+    "licenseVersion": null,
+    "permission": null,
+    "usageTerms": null
+  },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
+  "route": "/media/File%3AEaster%20Egg%20Grass.png",
+  "schemaVersion": 2,
+  "scope": "file-page",
+  "sha256": null,
+  "sizeBytes": 281740,
+  "sourceSha1": "c1988d312c5982a22d027ec77e2188e3b40785ad",
+  "sourceUrl": "https://static.wikia.nocookie.net/hayday/images/4/4e/Easter_Egg_Grass.png/revision/latest?cb=20200428131403",
+  "title": "File:Easter Egg Grass.png",
+  "transformation": "Original bytes are not modified by the importer.",
+  "verdict": "source-link-only",
+  "width": 595
+}

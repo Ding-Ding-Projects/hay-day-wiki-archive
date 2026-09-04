@@ -12,7 +12,17 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Expansion",
+    "Category:Supplies"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Expansion",
+      "Category:Supplies"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -253,11 +263,12 @@
   "revisionId": 106865,
   "revisionTimestamp": "2025-01-15T21:58:52Z",
   "route": "/wiki/marker-stake-14141",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Marker_Stake",
   "title": "Marker Stake",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Marker Stake.png|200px|left|A marker stake]]\n\n{{Infobox\n |title = [[Supplies|Supply]]\n |level = 22\n |price = 1 to 403\n |base = 112\n |dia = 12\n}}\n'''Marker stakes''' are [[supplies]] used to [[expansion|expand]] the [[farm]], the [[Fishing Lake|fishing lake]] and the [[town]].\n\nThey are unlocked at [[experience]] level 22.\n\nThey are stored in the [[barn]].\n\n{{Clr}}\n----\n\n==='''Getting marker stakes'''===\nA sure way to get a marker stake is to buy a packet with 12 {{Infoicon|dia}}.\n\nMarker stakes can also sometimes be found in [[Roadside Shop|roadside shops]] for 1 to 403 {{Infoicon|coin}} per stake.\n\nFinally, marker stakes can be obtained when players:\n* harvest [[crops]]\n* collect [[products]] or [[Animal Goods|animal goods]]\n* cut down [[Trees and Bushes|trees and bushes]]\n* feed [[:Category:Pets|pets]]\n* open [[Mystery Box|mystery boxes]] and [[Catalogue|mystery packages]]\n* spin the [[Wheel of Fortune]]\n* participate in global [[events]]\n* fully satisfy a [[Town Visitors|town visitor]]\n* win prizes in [[Derby|derbies]]\n* use [[Mystery Net|mystery nets]] in the [[Fishing Lake|fishing lake]]\n* watch a Night at the Movies [[trailer]]\n* redeem tokens in the [[Valley Shop|valley shop]]\n----\n==='''See also'''===\n{{Navigation}}\n{{Languages\n|de = Markierungspfahl\n|es = Estaca para marcar\n|fr = Piquet\n|it = Paletto\n|no = Merkepåle\n}}\n[[Category:Expansion]]\n[[Category:Supplies]]",
   "wikitextHash": "ebc7daa928522decd6749562c6a27f81a99b756dd948c8e902d4664b95cca631"
 }

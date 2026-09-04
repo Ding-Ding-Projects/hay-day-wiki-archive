@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Buildings",
+    "Category:Farm",
+    "Category:Farm Buildings",
+    "Category:Fishing Lake",
+    "Category:Game Features"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Buildings",
+      "Category:Farm",
+      "Category:Farm Buildings",
+      "Category:Fishing Lake",
+      "Category:Game Features"
+    ]
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Category:Production_Buildings?action=history",
@@ -31,11 +47,12 @@
   "revisionId": 81863,
   "revisionTimestamp": "2018-07-07T11:28:16Z",
   "route": "/wiki/category%2Fcategory-production-buildings-23357",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Category:Production_Buildings",
   "title": "Category:Production Buildings",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "Articles related to [[Production Buildings]].\n{{Languages\n|de = Kategorie:Gebäude\n|es = Categoría:Edificios_de_Producción\n|fr = Catégorie:Les_Fabriques\n|it = Categoria:Macchinari\n}}\n[[Category:Game Features]]\n[[Category:Farm]]\n[[Category:Fishing Lake]]\n[[Category:Buildings]]\n[[Category:Farm Buildings]]",
   "wikitextHash": "5ae728ee2d96e37c8a59e2e7133642268bcc4fc4f91bd1bf91ae59f480f44498"
 }

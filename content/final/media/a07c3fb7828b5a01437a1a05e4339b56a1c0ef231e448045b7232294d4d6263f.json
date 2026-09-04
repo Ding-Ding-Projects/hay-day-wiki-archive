@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Farmhouse.png",
+  "filePageId": 14878,
+  "filePageRevisionId": 88316,
+  "filePageRevisionSha1": "bc6a999796cb1db719df4ee97f7796c99c5679bd",
+  "filePageRevisionTimestamp": "2019-10-23T12:49:58Z",
+  "filePageWikitext": "Picture of the farmhouse in its final stage, once you've completed enough achievements.\n{{License SC}}\n[[Category:Image Farm]]",
+  "filePageWikitextHash": "90b4fb6ab6afb4651092811973539d3691906d4a0e074bfd3726d322bc229160",
   "height": 165,
   "immutableUrl": null,
   "mediaId": "File:Farmhouse.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 16,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-02-15T11:15:47Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AFarmhouse.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 30275,
   "sourceSha1": "3374ab0c22a6d3d72717292d70daf48a4f635368",

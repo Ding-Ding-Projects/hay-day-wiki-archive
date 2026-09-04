@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Diner.png",
+  "filePageId": 13298,
+  "filePageRevisionId": 104927,
+  "filePageRevisionSha1": "91ba09febe093c719a76a566952ff42d6213a4df",
+  "filePageRevisionTimestamp": "2024-02-19T11:41:14Z",
+  "filePageWikitext": "Picture of the Diner.\n{{License SC}}\n[[Category:Image_Service_Buildings]]",
+  "filePageWikitextHash": "7f4eb08d340ebb74e6b0c84805b319f2c721609a2f0581e20dfd6c6be3eec1fe",
   "height": 2240,
   "immutableUrl": null,
   "mediaId": "File:Diner.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 12,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2024-02-19T11:41:14Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3ADiner.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 6832033,
   "sourceSha1": "cd5d0f0438b0cbf9f9c8259e59252ff5676b9e35",

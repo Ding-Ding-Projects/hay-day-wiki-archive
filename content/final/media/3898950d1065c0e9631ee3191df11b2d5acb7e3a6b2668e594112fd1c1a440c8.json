@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience.png",
+  "filePageId": 18383,
+  "filePageRevisionId": 75699,
+  "filePageRevisionSha1": "22f714f0c782c30c46f6c741a2279b17e0d49d8e",
+  "filePageRevisionTimestamp": "2017-11-26T17:30:51Z",
+  "filePageWikitext": "An experience star.\n\n==Credit==\n*Star by Molly Bramlet from the Noun Project.\n{{CC-BY-SA-3.0}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "f441c64c3f212666c8f4e1e67c84ea71bda71c9cde010ff526af21da70fd9978",
   "height": 659,
   "immutableUrl": null,
   "mediaId": "File:Experience.png",
   "mediaType": "BITMAP",
   "mime": "image/png",
+  "referenceCount": 737,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2016-03-12T14:17:17Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "CC-BY-SA-3.0"
+    ],
+    "verdict": "standard-license-pending-provenance"
+  },
   "route": "/media/File%3AExperience.png",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 69876,
   "sourceSha1": "770dcd77f022d4e32ce2097223b8cb12f5c29a1b",

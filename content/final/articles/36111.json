@@ -12,7 +12,21 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Birthday Balloon Maker Products",
+    "Category:Carrot Cake Products",
+    "Category:Cherry Products",
+    "Category:Cotton Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Birthday Balloon Maker Products",
+      "Category:Carrot Cake Products",
+      "Category:Cherry Products",
+      "Category:Cotton Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -166,11 +180,12 @@
   "revisionId": 110604,
   "revisionTimestamp": "2026-06-21T15:58:26Z",
   "route": "/wiki/musical-balloon-36111",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Musical_Balloon",
   "title": "Musical Balloon",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Musical Balloon.png|200px|left|Musical Balloon]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 22\n |musicalnote = 25\n |time = 25m\n |source = {{Infoicon|bballoonmaker|bigger|link=Birthday Balloon Maker}}\n |xp = 77\n |dia = 5\n}}\n'''Musical Balloon''' is a [[products|product]] unlocked at [[experience]] level 22. It's a special item used only for the Aniversary 2024 event.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Musical Balloon'''===\n[[File:Birthday Balloon Maker.png|150px|left|Birthday Balloon Maker]]\nMusical balloons are made in the [[Birthday Balloon Maker]].\n\nTo make an musical balloon, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Carrot Cake.png|75px|Carrot Cake|link=Carrot Cake]]\n|[[File:Cotton.png|75px|Cotton|link=Cotton]]\n|[[File:Cherry.png|75px|Cherry|link=Cherry]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x3'''\n|}\nIt takes 25 minutes to make an balloon. Each balloon gives players 77 [[experience]] points.\n\n'''In 2025''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chili Popcorn.png|75px|Chili Popcorn|link=Chili Popcorn]]\n|[[File:Bread.png|75px|Bread|link=Bread]]\n|[[File:Corn.png|75px|Corn|link=Corn]]\n|-\n|'''x1'''\n|'''x1'''\n|'''x5'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 45 [[experience]] points.\n\n'''In 2026''', players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Chocolate Cake.png|75px|Chocolate Cake|link=Chocolate Cake]]\n|[[File:Coffee Bean.png|75px|Coffee Bean|link=Coffee Bean]]\n|[[File:Roasted Tomatoes.png|75px|Roasted Tomatoes|link=Roasted Tomatoes]]\n|-\n|'''x1'''\n|'''x3'''\n|'''x1'''\n|}\nIt takes 10 minutes to make an balloon. Each balloon gives players 104 [[experience]] points.\n{{Clr}}\n----\n\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for 1 balloon per crate, up to a total of 4 per boat. Each balloon used on a boat will be rewarded with 25 [[Musical Note]]s, 27 musical note in a 1-star and mastered maker, 35 musical note in a 2-star and 50 musical note in a 3-star.\n\n{{Clr}}\n----\n\n{{Navigation}}\n[[Category:Birthday Balloon Maker Products]]\n[[Category:Carrot Cake Products]]\n[[Category:Cotton Products]]\n[[Category:Cherry Products]]\n\n{{Languages\n|de =  Notenballon \n|es = Globo musical\n}}",
   "wikitextHash": "8f19fa6ee3f7c7c50891e149434986210cbf71b6f572cf314d4dc2dedd0c4bec"
 }

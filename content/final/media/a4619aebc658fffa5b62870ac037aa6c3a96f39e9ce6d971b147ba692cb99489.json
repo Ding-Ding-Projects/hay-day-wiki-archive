@@ -7,11 +7,18 @@
   },
   "consentRequired": false,
   "descriptionUrl": "https://hayday.fandom.com/wiki/File:Experience_Level_241.jpg",
+  "filePageId": 36265,
+  "filePageRevisionId": 109835,
+  "filePageRevisionSha1": "3f45e47b073e07c567d36fcb86cb2bb0dae75779",
+  "filePageRevisionTimestamp": "2026-05-08T11:32:28Z",
+  "filePageWikitext": "== Summary ==\nLevel 241\n== Licensing ==\n{{License SC}}\n[[Category:Image Experience Levels]]",
+  "filePageWikitextHash": "75cff58b5659b522fc3ba8d493c757e665d2d83bfe8f981dd3f35e0cf32552cb",
   "height": 508,
   "immutableUrl": null,
   "mediaId": "File:Experience Level 241.jpg",
   "mediaType": "BITMAP",
   "mime": "image/jpeg",
+  "referenceCount": 1,
   "reuseEligible": false,
   "revisionId": null,
   "revisionTimestamp": "2025-02-09T12:44:50Z",
@@ -25,8 +32,17 @@
     "permission": null,
     "usageTerms": null
   },
+  "rightsEvidence": {
+    "schemaVersion": 1,
+    "source": "file-page-current-revision",
+    "templateNames": [
+      "License SC"
+    ],
+    "verdict": "conditional-supercell-policy"
+  },
   "route": "/media/File%3AExperience%20Level%20241.jpg",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "scope": "file-page-and-referenced",
   "sha256": null,
   "sizeBytes": 32263,
   "sourceSha1": "54539be72e8892c26bb292a76a8b5a314e9e1433",

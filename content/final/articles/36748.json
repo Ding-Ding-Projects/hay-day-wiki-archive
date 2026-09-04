@@ -12,7 +12,23 @@
     },
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
-  "categories": [],
+  "categories": [
+    "Category:Chili Pepper Products",
+    "Category:Grilled Lamb Skewer Products",
+    "Category:Rice Products",
+    "Category:Sesame Products",
+    "Category:Wok Kitchen Products"
+  ],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": [
+      "Category:Chili Pepper Products",
+      "Category:Grilled Lamb Skewer Products",
+      "Category:Rice Products",
+      "Category:Sesame Products",
+      "Category:Wok Kitchen Products"
+    ]
+  },
   "externalVideos": [],
   "headings": [
     {
@@ -130,11 +146,12 @@
   "revisionId": 110083,
   "revisionTimestamp": "2026-05-16T07:11:22Z",
   "route": "/wiki/lamb-stir-fry-36748",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Lamb_Stir_Fry",
   "title": "Lamb Stir Fry",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "{{PageDisplay}}\n[[File:Lamb Stir Fry.png|200px|left|Lamb stir fry]]\n\n{{Infobox\n |title = [[Products|Product]]\n |level = 69\n |price = 1 to 270\n |time = 2 h\n |source = {{Infoicon|wokk|bigger|link=Wok Kitchen}}\n |xp = 32\n |base = 75\n |dia = 5\n |time3 = 1 h 42 min\n}}\n'''Lamb Stir Fry''' is a [[Products|product]] unlocked at [[experience]] level 69. It is not used to make any other product. It was added since May 2026 Update.\n\nLike all [[products]], it is stored in the [[barn]].\n\n{{Clr}}\n----\n==='''Making Lamb Stir Fry'''===\n[[File:Wok Kitchen.png|150px|left|Wok Kitchen]]\nLamb stir fry is made in the [[Wok Kitchen]].\n\nTo make the dish, players need the following ingredients, in the specified quantities:\n{| border=\"0\" cellpadding=\"2\" cellspacing=\"1\" style=\"text-align: center; margin: .5em 0;\"\n|-\n|[[File:Rice.png|75px|Rice|link=Rice]]\n|[[File:Grilled Lamb Skewer.png|75px|Grilled lamb skewer|link=Grilled Lamb Skewer]]\n|[[File:Chili Pepper.png|75px|Chili pepper|link=Chili Pepper]]\n|[[File:Sesame.png|75px|Sesame|link=Sesame]]\n|-\n|'''x3'''\n|'''x1'''\n|'''x2'''\n|'''x1'''\n|}\nIt takes 2 hours to make one bowl, and 1 hour 42 minutes in a fully [[Masteries|mastered]] kitchen. Each bowl gives players 32 [[experience]] points.\n\n{{Clr}}\n----\n==='''Selling Lamb Stir Fry'''===\n[[File:Roadside Shop.png|150px|left|Roadside shop]]\n* Lamb stir fry can be bought or sold for a maximum price of 2,700 {{Infoicon|Coin}} for 10 bowls.\n* Buying the ingredients required to make lamb stir fry costs 234 {{Infoicon|Coin}}.\n\n{{Clr}}\n----\n==='''Boat orders'''===\n[[File:Riverboat.png|150px|left|Riverboat]]\n* [[Boat]] orders ask for:\n** 3 bowls per crate, up to a total of 9 per boat (for three crates).\n** 2 bowls per crate, up to a total of 8 per boat (for four crates).\n\n{{Clr}}\n----\n\n{{Navigation}}\n{{Languages\n|es = Salteado de cordero\n|de = Lammpfanne\n|no = Wokrett med lam\n|ru = Жареная ягнятина\n}}\n[[pt-br:Cordeiro salteado]]\n\n[[Category:Wok Kitchen Products]]\n[[Category:Grilled Lamb Skewer Products]]\n[[Category:Rice Products]]\n[[Category:Chili Pepper Products]]\n[[Category:Sesame Products]]",
   "wikitextHash": "a55e986051a2dae5392c56502b8baa3bd2b067321500918cd6ee2fcbd2a9de36"
 }

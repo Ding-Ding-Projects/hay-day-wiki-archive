@@ -13,6 +13,10 @@
     "transformation": "Sanitized rendered HTML with local route rewriting"
   },
   "categories": [],
+  "categoryMembership": {
+    "schemaVersion": 1,
+    "titles": []
+  },
   "externalVideos": [],
   "headings": [],
   "historyUrl": "https://hayday.fandom.com/wiki/Help:Facebook_Connect?action=history",
@@ -26,11 +30,12 @@
   "revisionId": 22625,
   "revisionTimestamp": "2014-03-14T14:22:24Z",
   "route": "/wiki/help%2Fhelp-facebook-connect-11445",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceUrl": "https://hayday.fandom.com/wiki/Help:Facebook_Connect",
   "title": "Help:Facebook Connect",
   "transformationNotes": [
     "Scripts, forms, executable embeds, unsafe URLs, and tracking attributes removed."
   ],
+  "wikitext": "emad",
   "wikitextHash": "287c75ee194c520aa9e9bbf103dfd0c60a856e09591ac643999bb275146985c4"
 }
