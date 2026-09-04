@@ -45,6 +45,7 @@ test('archive server requires a session cookie and serves internal route indexes
 
 test('desktop shell keeps navigation policy and signing controls explicit', async () => {
   const main = await readFile(new URL('../desktop/main.cjs', import.meta.url), 'utf8');
+  const preload = await readFile(new URL('../desktop/preload.cjs', import.meta.url), 'utf8');
   const packageJson = await readFile(new URL('../package.json', import.meta.url), 'utf8');
   assert.match(main, /contextIsolation: true/);
   assert.match(main, /nodeIntegration: false/);
@@ -53,6 +54,9 @@ test('desktop shell keeps navigation policy and signing controls explicit', asyn
   assert.match(main, /static\.wikia\.nocookie\.net/);
   assert.match(main, /www\.supercell\.com/);
   assert.match(main, /window-maximized-changed/);
+  assert.match(preload, /const desktopShell = Object\.freeze/);
+  assert.doesNotMatch(preload, /window\.desktopShell\./);
+  assert.match(preload, /window\.addEventListener\('load'/);
   assert.match(packageJson, /"forceCodeSigning": false/);
   assert.match(packageJson, /"target": \[\{ "target": "squirrel"/);
 });

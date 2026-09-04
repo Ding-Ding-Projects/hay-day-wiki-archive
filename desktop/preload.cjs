@@ -1,14 +1,15 @@
 /* oxlint-disable typescript/no-require-imports */
 const { contextBridge, ipcRenderer } = require('electron');
 
-contextBridge.exposeInMainWorld('desktopShell', Object.freeze({
+const desktopShell = Object.freeze({
   minimize: () => ipcRenderer.send('window-control', 'minimize'),
   toggleMaximize: () => ipcRenderer.send('window-control', 'toggle-maximize'),
   close: () => ipcRenderer.send('window-control', 'close'),
   isMaximized: () => ipcRenderer.invoke('window-is-maximized'),
   onMaximizedChanged: (callback) => { const listener = (_event, value) => callback(Boolean(value)); ipcRenderer.on('window-maximized-changed', listener); return () => ipcRenderer.removeListener('window-maximized-changed', listener); },
   openExternal: (url) => ipcRenderer.invoke('open-external', url),
-}));
+});
+contextBridge.exposeInMainWorld('desktopShell', desktopShell);
 
 function installTitleBar() {
   if (!document.body || document.getElementById('desktop-titlebar')) return;
@@ -20,13 +21,14 @@ function installTitleBar() {
   bar.setAttribute('role', 'toolbar');
   bar.setAttribute('aria-label', 'Application window controls');
   bar.innerHTML = '<span class="desktop-title">Hay Day Wiki Archive</span><span class="desktop-controls"><button type="button" data-action="minimize" aria-label="Minimize window" title="Minimize">−</button><button type="button" data-action="maximize" aria-label="Maximize window" title="Maximize">□</button><button type="button" data-action="close" aria-label="Close window" title="Close">×</button></span>';
-  bar.addEventListener('click', (event) => { const button = event.target.closest('button[data-action]'); if (!button) return; const action = button.dataset.action; if (action === 'minimize') window.desktopShell.minimize(); if (action === 'maximize') window.desktopShell.toggleMaximize(); if (action === 'close') window.desktopShell.close(); });
+  bar.addEventListener('click', (event) => { const button = event.target.closest('button[data-action]'); if (!button) return; const action = button.dataset.action; if (action === 'minimize') desktopShell.minimize(); if (action === 'maximize') desktopShell.toggleMaximize(); if (action === 'close') desktopShell.close(); });
   document.body.prepend(bar);
   const maximize = bar.querySelector('button[data-action="maximize"]');
   const updateMaximize = (value) => { const label = value ? 'Restore window' : 'Maximize window'; maximize.setAttribute('aria-label', label); maximize.setAttribute('title', label); maximize.setAttribute('aria-pressed', String(Boolean(value))); maximize.textContent = value ? '❐' : '□'; };
-  void window.desktopShell.isMaximized().then(updateMaximize);
-  window.desktopShell.onMaximizedChanged(updateMaximize);
-  document.addEventListener('click', (event) => { const anchor = event.target.closest('a[href]'); if (!anchor || anchor.target === '_blank') return; let url; try { url = new URL(anchor.href); } catch { return; } if (url.protocol === 'https:') { event.preventDefault(); void window.desktopShell.openExternal(url.href); } }, true);
+  void desktopShell.isMaximized().then(updateMaximize);
+  desktopShell.onMaximizedChanged(updateMaximize);
+  document.addEventListener('click', (event) => { const anchor = event.target.closest('a[href]'); if (!anchor || anchor.target === '_blank') return; let url; try { url = new URL(anchor.href); } catch { return; } if (url.protocol === 'https:') { event.preventDefault(); void desktopShell.openExternal(url.href); } }, true);
 }
 
-if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', installTitleBar, { once: true }); else installTitleBar();
+function scheduleTitleBar() { window.requestAnimationFrame(() => setTimeout(installTitleBar, 0)); }
+if (document.readyState === 'complete') scheduleTitleBar(); else window.addEventListener('load', scheduleTitleBar, { once: true });

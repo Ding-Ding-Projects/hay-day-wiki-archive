@@ -52,6 +52,8 @@ async function main() {
   }
   const packagedMain = extractFile(asarPath, 'desktop/main.cjs').toString('utf8');
   if (!packagedMain.includes("path.join(app.getAppPath(), 'dist', 'pages')")) throw new Error('Packaged main process does not resolve the archive from app.asar/dist/pages');
+  const packagedPreload = extractFile(asarPath, 'desktop/preload.cjs').toString('utf8');
+  if (!packagedPreload.includes('const desktopShell = Object.freeze') || !packagedPreload.includes("window.addEventListener('load'")) throw new Error('Packaged preload does not use the local bridge with post-load title-bar installation');
   const digest = crypto.createHash('sha256').update(setupBytes).digest('hex');
   console.log(JSON.stringify({ output, setup, releases, fullPackages: packages, packagedArchiveFiles: 2, setupBytes: setupBytes.length, setupSha256: digest, signing: 'NotSigned' }, null, 2));
 }
