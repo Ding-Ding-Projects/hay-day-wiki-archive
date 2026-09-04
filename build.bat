@@ -25,9 +25,19 @@ node scripts\build-pages.mjs
 if errorlevel 1 (popd & exit /b 1)
 node scripts\check-pages-output.mjs
 if errorlevel 1 (popd & exit /b 1)
-echo Static Pages build completed. No signing or installer packaging was attempted.
+call npm run desktop:dir
+if errorlevel 1 (popd & exit /b 1)
+if not exist "dist\installer\win-unpacked\Hay Day Wiki Archive.exe" (
+  echo Desktop build failure: the packaged application executable is missing.
+  popd & exit /b 1
+)
+if not exist "dist\installer\win-unpacked\resources\app.asar" (
+  echo Desktop build failure: the packaged application payload is missing.
+  popd & exit /b 1
+)
+echo Static Pages and unpacked desktop builds completed with code signing disabled.
 if "%SILENT%"=="1" (popd & exit /b 0)
-set /p "RUN_SITE=Run the generated Pages output locally now? [y/N] "
-if /I "%RUN_SITE%"=="y" npx --no-install wrangler pages dev dist\pages
+set /p "RUN_SITE=Run the packaged desktop application now? [y/N] "
+if /I "%RUN_SITE%"=="y" start "Hay Day Wiki Archive" "dist\installer\win-unpacked\Hay Day Wiki Archive.exe"
 popd
 exit /b 0

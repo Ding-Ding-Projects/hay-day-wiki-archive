@@ -2,7 +2,7 @@
 
 An unofficial, read-only archive and reader for the reader-facing knowledge base at [Hay Day Wiki](https://hayday.fandom.com/wiki/Hay_Day_Wiki). The project is intended to preserve a reproducible snapshot with source revisions, attribution, media provenance, and a calm farm-guide reading experience.
 
-> **Status: planning and preview only.** The current repository contains a visual reader preview. The complete import, media ledger, local routes, search index, and release process described here are not yet implemented.
+> **Status:** The complete reader-facing snapshot and static archive are published. The repository contains 1,362 article records and 3,708 referenced media records. The Windows desktop package is implemented and locally packaged, but its built-interface capture remains unverified while the required headless service is unavailable.
 
 ## Start here
 
@@ -14,26 +14,26 @@ An unofficial, read-only archive and reader for the reader-facing knowledge base
 - [Roadmap](ROADMAP.md)
 - [Handoff](HANDOFF.md)
 
-The planned public reader is `https://ding-ding-projects.github.io/hay-day-wiki-archive/`. It is a read-only documentation surface, not a replacement community site, not a game client, and not a place for accounts, editing, comments, or discussion records.
+The public reader is <https://ding-ding-projects.github.io/hay-day-wiki-archive/>. It is a read-only documentation surface, not a replacement community site, not a game client, and not a place for accounts, editing, comments, or discussion records.
 
-## Planning audit
+## Verified snapshot
 
-The planning audit recorded these source figures:
+The execution manifest records these published figures:
 
-| Collection | Planning count | Meaning |
+| Collection | Count | Meaning |
 | --- | ---: | --- |
 | Reader-facing included records | 1,362 | 994 main-namespace articles and redirects, 11 project records, 3 Help records, and 354 categories |
 | Main-namespace articles and redirects | 994 | Reader-facing article records found during planning |
 | Categories | 354 | Category routes and membership records found during planning |
 | Help records | 3 | Help and project guidance records found during planning |
 | Hay Day Wiki project records | 11 | Project-policy records found during planning |
-| Referenced media records | 3,699 | Distinct media records referenced by included reader content |
-| External video records | 452 | External video references, mostly YouTube links |
+| Referenced media records | 3,708 | Distinct media identities referenced by the frozen reader content |
+| External embed records | 29 | Consent-gated provider references represented in the media ledger |
 | File-namespace records | 4,682 | File namespace records reported during planning |
 | All-images media records | 4,634 | All-images inventory records reported during planning, distinct from the file namespace |
 | Original media volume | About 1.898 GiB | Source-reported original media volume |
 
-These figures are planning values, not a claim about the final snapshot. The execution importer must create an immutable manifest after enumeration. That execution manifest is the source of truth for the release, including any source changes between planning and import, redirects, omitted namespaces, missing upstream records, and media rights decisions.
+The execution-time manifest is the source of truth. Its content digest is `05efa4bafc434ca566664ed1c07dfde80856f6d55b67fedd9d0a974ddd71b3c3`; its media digest is `9359ae3d389c0186e1234cc56640a221b2d72925a1ee0c513d7f474897505c61`.
 
 ## Attribution and rights
 
@@ -49,9 +49,11 @@ The public reader will keep the static application and manifests below the GitHu
 
 Every media record receives one terminal decision: `copied`, `external-embed`, `source-link-only`, or `missing-upstream`. The manifest stores the source identity, rights classification, digest, dimensions, MIME type, byte size, and immutable storage URL where applicable.
 
-## Development status
+## Build and run
 
-The current preview is built with React, Vite, and the Sites-compatible toolchain. It is not evidence that the full archive exists. Build and release details will be added as the importer, schemas, static routes, local search, verification harness, and publication workflow land.
+On Windows, run `build.bat /s` to install declared dependencies when needed, build the static reader, verify its 5,077-route output, and produce the unpacked desktop application. Run `build-installer.bat /s` to produce and verify the genuine unsigned Squirrel.Windows installer files. The installer is intentionally unsigned and may trigger an unknown-publisher warning.
+
+The desktop reader bundles the same static snapshot as the public reader. It serves those files on an ephemeral loopback port, requires a launch-specific HttpOnly session cookie, prevents path traversal, applies a restrictive content security policy, keeps Node.js out of renderer pages, and opens only approved HTTPS source links externally. See [Desktop reader architecture](docs/architecture/desktop-reader.md).
 
 The repository keeps a hand-written [feature completeness inventory](docs/architecture/feature-completeness.md). Rows marked `Unimplemented` are deliberate, factual placeholders. They are not a promise that a hidden route or sibling project satisfies the requirement.
 

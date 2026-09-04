@@ -16,7 +16,12 @@ Planning identified 1,362 reader-facing records: 994 main-namespace articles and
 - Snapshot audit: 1,362 article files, 3,708 media files, zero unreferenced media records, and zero missing referenced-media records
 - Importer tests: 9 passed
 - Reader checks: lint passed, TypeScript passed, and the production build passed
-- Static output check: 5,077 routes, 10,174 files, 150,880,848 bytes
+- Static output check: 5,077 routes, 10,174 files, 150,919,711 bytes
+- Public deployment: commit `ba4d276a874e6ff10bbc850a6091fb3eb4c6260a`, GitHub Actions run `33471110541`, successful
+- Public record availability: 1,362 article JSON files and 3,708 media JSON files returned HTTP 200
+- Desktop server and security tests: 2 passed
+- Complete local test set: 13 passed
+- Desktop package: genuine Squirrel.Windows `Setup.exe`, `RELEASES`, and full `.nupkg`; setup PE certificate table absent
 
 ## Documentation lane
 
@@ -35,8 +40,8 @@ This lane adds:
 
 ## Verification
 
-The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. Import execution and static route generation are complete. Public Pages publication, copied-media transfer, built-reader interaction, and full UI capture evidence remain open.
+The documentation files were reviewed for public-safe wording and the absence of private session vocabulary. Import execution, static route generation, and GitHub Pages publication are complete. The Windows desktop shell and unsigned installer are implemented and locally packaged. Copied-media transfer, built-reader interaction through the required headless route, full UI capture evidence, and a release remain open.
 
 ## Next owner
 
-The next owner should preserve the frozen manifests, publish the validated static output, and copy only media whose reusable rights are proven. Unknown and restricted media must stay source-link-only. The workflow intentionally does not create a release until a real installer path exists.
+The next owner should preserve the frozen manifests and copy only media whose reusable rights are proven. Unknown and restricted media must stay source-link-only. Restore the required headless service, exercise the packaged desktop application and every critical reader link, then attach verified installer files to a release. Do not describe the installer as runtime-verified until that interaction evidence exists.
