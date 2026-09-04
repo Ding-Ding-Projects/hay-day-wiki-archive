@@ -32,13 +32,43 @@ async function resolveFile(root, relative) {
   const normalized = path.normalize(relative || 'index.html');
   const candidate = path.resolve(root, normalized);
   if (!isWithin(root, candidate)) return null;
-  try { if ((await fsp.stat(candidate)).isFile()) return candidate; } catch {}
+  const resolveExisting = async (value) => {
+    if (!isWithin(root, value)) return null;
+    if (root.includes(`.asar${path.sep}`)) {
+      try { return (await fsp.stat(value)).isFile() ? value : null; } catch { return null; }
+    }
+    try {
+      const canonicalRoot = await fsp.realpath(root);
+      let cursor = root;
+      for (const part of path.relative(root, value).split(path.sep).filter(Boolean)) {
+        cursor = path.join(cursor, part);
+        if ((await fsp.lstat(cursor)).isSymbolicLink()) return null;
+      }
+      const canonicalValue = await fsp.realpath(value);
+      if (!isWithin(canonicalRoot, canonicalValue)) return null;
+      return (await fsp.stat(canonicalValue)).isFile() ? canonicalValue : null;
+    } catch { return null; }
+  };
+  const direct = await resolveExisting(candidate);
+  if (direct) return direct;
   if (!path.extname(normalized)) {
     const routeIndex = path.resolve(root, normalized, 'index.html');
-    if (!isWithin(root, routeIndex)) return null;
-    try { if ((await fsp.stat(routeIndex)).isFile()) return routeIndex; } catch {}
+    const resolvedIndex = await resolveExisting(routeIndex);
+    if (resolvedIndex) return resolvedIndex;
   }
   return null;
+}
+
+function parseCookies(header) {
+  const cookies = new Map();
+  try {
+    for (const part of String(header || '').split(';')) {
+      const separator = part.indexOf('=');
+      if (separator <= 0) continue;
+      cookies.set(decodeURIComponent(part.slice(0, separator).trim()), decodeURIComponent(part.slice(separator + 1).trim()));
+    }
+    return cookies;
+  } catch { return null; }
 }
 
 async function createArchiveServer({ root, basePath = '/hay-day-wiki-archive/' } = {}) {
@@ -49,14 +79,14 @@ async function createArchiveServer({ root, basePath = '/hay-day-wiki-archive/' }
     if (!['GET', 'HEAD'].includes(request.method)) { response.writeHead(405, { Allow: 'GET, HEAD' }); response.end(); return; }
     let url;
     try { url = new URL(request.url || '/', 'http://127.0.0.1'); } catch { response.writeHead(400); response.end('Bad request'); return; }
-    const cookies = new Map(String(request.headers.cookie || '').split(';').map((part) => part.trim().split('=').map(decodeURIComponent)).filter((part) => part.length === 2));
+    const cookies = parseCookies(request.headers.cookie);
     if (url.searchParams.get('access') === token) {
       url.searchParams.delete('access');
       response.writeHead(302, { Location: `${url.pathname}${url.search}${url.hash}`, 'Set-Cookie': `${cookieName}=${encodeURIComponent(token)}; HttpOnly; SameSite=Strict; Path=/` });
       response.end();
       return;
     }
-    if (cookies.get(cookieName) !== token) { response.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' }); response.end('Not found'); return; }
+    if (!cookies || cookies.get(cookieName) !== token) { response.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' }); response.end('Not found'); return; }
     let relative;
     try { relative = mapRequestPath(url.pathname, basePath); } catch { relative = null; }
     if (relative === null) { response.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' }); response.end('Not found'); return; }

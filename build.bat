@@ -1,10 +1,9 @@
 @echo off
 setlocal EnableExtensions
 set "ROOT=%~dp0"
-set "SILENT=0"
+if not defined SILENT set "SILENT=0"
 if /I "%~1"=="/s" set "SILENT=1"
 if /I "%~1"=="--silent" set "SILENT=1"
-if /I "%SILENT%"=="1" set "SILENT=1"
 
 call "%ROOT%download-dependencies.bat" %~1
 if errorlevel 1 exit /b 1

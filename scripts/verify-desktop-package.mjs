@@ -2,6 +2,10 @@ import { promises as fs } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import crypto from 'node:crypto';
+import { createRequire } from 'node:module';
+
+const require = createRequire(import.meta.url);
+const { extractFile, listPackage } = require('@electron/asar');
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const output = resolve(root, process.env.DESKTOP_INSTALLER_DIR || 'dist/installer/squirrel-windows');
@@ -41,8 +45,15 @@ async function main() {
   }
   const setupBytes = await fs.readFile(join(output, setup));
   if (hasAuthenticodeCertificate(setupBytes)) throw new Error('Squirrel setup contains an Authenticode certificate table, expected unsigned output');
+  const asarPath = resolve(output, '..', 'win-unpacked', 'resources', 'app.asar');
+  const packagedFiles = listPackage(asarPath);
+  for (const required of ['\\dist\\pages\\index.html', '\\dist\\pages\\archive\\snapshot-manifest.json']) {
+    if (!packagedFiles.includes(required)) throw new Error(`Packaged application is missing ${required}`);
+  }
+  const packagedMain = extractFile(asarPath, 'desktop/main.cjs').toString('utf8');
+  if (!packagedMain.includes("path.join(app.getAppPath(), 'dist', 'pages')")) throw new Error('Packaged main process does not resolve the archive from app.asar/dist/pages');
   const digest = crypto.createHash('sha256').update(setupBytes).digest('hex');
-  console.log(JSON.stringify({ output, setup, releases, fullPackages: packages, setupBytes: setupBytes.length, setupSha256: digest, signing: 'NotSigned' }, null, 2));
+  console.log(JSON.stringify({ output, setup, releases, fullPackages: packages, packagedArchiveFiles: 2, setupBytes: setupBytes.length, setupSha256: digest, signing: 'NotSigned' }, null, 2));
 }
 
 main().catch((error) => { console.error(`Desktop package verification failed: ${error.message}`); process.exitCode = 1; });

@@ -3,7 +3,7 @@ const { app, BrowserWindow, ipcMain, shell } = require('electron');
 const path = require('node:path');
 const { createArchiveServer } = require('./server.cjs');
 
-const APPROVED_EXTERNAL_HOSTS = new Set(['hayday.fandom.com','www.fandom.com','github.com','raw.githubusercontent.com','youtube.com','www.youtube.com','youtu.be','vimeo.com','www.vimeo.com']);
+const APPROVED_EXTERNAL_HOSTS = new Set(['hayday.fandom.com','www.fandom.com','static.wikia.nocookie.net','supercell.com','www.supercell.com','github.com','raw.githubusercontent.com','youtube.com','www.youtube.com','youtu.be','vimeo.com','www.vimeo.com']);
 let mainWindow;
 let archiveServer;
 
@@ -14,6 +14,8 @@ function routeExternalNavigation(event, url) { if (isArchiveUrl(url)) return; ev
 function createWindow() {
   mainWindow = new BrowserWindow({ width: 1440, height: 960, minWidth: 720, minHeight: 520, show: false, frame: false, backgroundColor: '#fffdf5', title: 'Hay Day Wiki Archive', icon: path.join(__dirname, 'icon.ico'), webPreferences: { preload: path.join(__dirname, 'preload.cjs'), contextIsolation: true, sandbox: true, nodeIntegration: false, devTools: false, partition: 'archive-reader' } });
   mainWindow.once('ready-to-show', () => mainWindow.show());
+  mainWindow.on('maximize', () => mainWindow?.webContents.send('window-maximized-changed', true));
+  mainWindow.on('unmaximize', () => mainWindow?.webContents.send('window-maximized-changed', false));
   mainWindow.webContents.on('will-navigate', (event, url) => routeExternalNavigation(event, url));
   mainWindow.webContents.setWindowOpenHandler(({ url }) => { if (isApprovedExternal(url)) void shell.openExternal(url); return { action: 'deny' }; });
   mainWindow.on('closed', () => { mainWindow = null; });
@@ -21,9 +23,10 @@ function createWindow() {
 }
 
 ipcMain.on('window-control', (_event, action) => { if (!mainWindow) return; if (action === 'minimize') mainWindow.minimize(); if (action === 'toggle-maximize') { if (mainWindow.isMaximized()) mainWindow.unmaximize(); else mainWindow.maximize(); } if (action === 'close') mainWindow.close(); });
+ipcMain.handle('window-is-maximized', () => Boolean(mainWindow?.isMaximized()));
 ipcMain.handle('open-external', async (_event, url) => { if (!isApprovedExternal(url)) return { ok: false, reason: 'Only approved HTTPS source hosts can open externally.' }; await shell.openExternal(url); return { ok: true }; });
 
-void app.whenReady().then(async () => { archiveServer = await createArchiveServer({ root: path.join(process.resourcesPath, 'pages') }); const window = createWindow(); await window.loadURL(archiveServer.url); });
+void app.whenReady().then(async () => { archiveServer = await createArchiveServer({ root: path.join(app.getAppPath(), 'dist', 'pages') }); const window = createWindow(); await window.loadURL(archiveServer.url); });
 app.on('window-all-closed', async () => { if (archiveServer) await archiveServer.close().catch(() => {}); if (process.platform !== 'darwin') app.quit(); });
 app.on('before-quit', async (event) => { if (!archiveServer) return; event.preventDefault(); const server = archiveServer; archiveServer = null; await server.close().catch(() => {}); app.quit(); });
 
